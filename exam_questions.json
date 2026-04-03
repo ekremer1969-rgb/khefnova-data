@@ -1,162 +1,29 @@
 [
   {
-    "word": "alleviate",
-    "questionType": "Cloze Test",
-    "question": "To _______ the symptoms of the allergy, the doctor recommended taking antihistamines every morning.",
-    "options": ["trigger", "alleviate", "exceed", "grasp"],
-    "answer": "alleviate",
-    "hint": "Boşluktan sonraki 'symptoms of the allergy' (alerji belirtileri) ifadesi, bu belirtileri azaltmak/hafifletmek anlamına gelen olumlu bir fiil gerektirir. 'Alleviate' (hafifletmek) tam buraya uyar."
-  },
-  {
-    "word": "overcome",
-    "questionType": "Translation",
-    "question": "It took him years to overcome the trauma of the accident.",
-    "options": ["Kazanın travması yıllarca üstesinden gelinemedi.", "Kazanın travmasını atlatmak için yıllarca bekledi.", "Kazanın travmasını atlatması yıllarını aldı.", "Yıllar sonra kazanın travmasını hafifletti."],
-    "answer": "Kazanın travmasını atlatması yıllarını aldı.",
-    "hint": "Çeviri sorularında özne-yüklem uyumuna dikkat et. 'It took him years' (onun yıllarını aldı) ve 'overcome' (aşmak/üstesinden gelmek/atlatmak) eşleşmesi sadece C şıkkında vardır."
-  },
-  {
-    "word": "compulsory",
-    "questionType": "Cloze Test",
-    "question": "In many European countries, primary education is _______, meaning all children must attend school by law.",
-    "options": ["ambiguous", "valid", "hostile", "compulsory"],
-    "answer": "compulsory",
-    "hint": "'must attend school by law' (kanunen okula gitmek zorundadır) ifadesi, boşluğa 'zorunlu/mecburi' anlamına gelen 'compulsory' sıfatının geleceğini açıkça gösterir."
-  },
-  {
-    "word": "fluctuate",
-    "questionType": "Synonym",
-    "question": "Which of the following is closest in meaning to the word 'fluctuate' as used in economic contexts?",
-    "options": ["remain steady", "continuously vary", "strictly exceed", "firmly grasp"],
-    "answer": "continuously vary",
-    "hint": "'Fluctuate' kelimesi inip çıkmak, dalgalanmak anlamına gelir. İngilizce karşılığı 'vary' (değişmek) veya 'change continuously'dir."
-  },
-  {
-    "word": "ambiguous",
-    "questionType": "Cloze Test",
-    "question": "The instructions provided by the manager were so _______ that none of the employees knew exactly what to do.",
-    "options": ["profound", "ambiguous", "abundant", "inevitable"],
-    "answer": "ambiguous",
-    "hint": "'none of the employees knew exactly what to do' (çalışanların hiçbiri tam olarak ne yapacağını bilemedi) ifadesi, talimatların 'belirsiz' veya 'net olmayan' (ambiguous) olduğunu kanıtlar."
-  },
-  {
-    "word": "inevitable",
-    "questionType": "Cloze Test",
-    "question": "When a company fails to innovate and adapt to new technologies, bankruptcy becomes almost _______.",
-    "options": ["inevitable", "valid", "susceptible", "feasible"],
-    "answer": "inevitable",
-    "hint": "Şirket yenilik yapmazsa iflasın 'kaçınılmaz' (inevitable) olacağı vurgulanmaktadır. Sebep-sonuç bağlamında olumsuz durumu tamamlayan en güçlü sıfattır."
-  },
-  {
-    "word": "profound",
-    "questionType": "Translation",
-    "question": "The invention of the internet has had a profound impact on modern society.",
-    "options": ["İnternetin icadı modern toplumu tamamen değiştirmiştir.", "İnternetin icadının modern toplumdaki etkisi çok abartılmaktadır.", "İnternetin icadıyla modern toplum derinden etkilenmiştir.", "İnternetin icadı modern toplum üzerinde derin bir etki bırakmıştır."],
-    "answer": "İnternetin icadı modern toplum üzerinde derin bir etki bırakmıştır.",
-    "hint": "'profound impact' tamlaması doğrudan 'derin etki' olarak çevrilmelidir. Ayrıca 'has had' (bırakmıştır/sahiptir) ana fiildir. Kelime kelime tam eşleşme son şıktadır."
-  },
-  {
-    "word": "crucial",
-    "questionType": "Synonym",
-    "question": "Choose the best synonym for the word 'crucial' in the context of a project's success.",
-    "options": ["trivial", "optional", "vital", "hostile"],
-    "answer": "vital",
-    "hint": "'Crucial' çok önemli, hayati, kritik demektir. Eş anlamlısı 'vital' veya 'essential' kelimeleridir. 'Trivial' tam zıttıdır (önemsiz)."
-  },
-  {
-    "word": "susceptible",
-    "questionType": "Cloze Test",
-    "question": "Children and the elderly are generally more _______ to respiratory infections during the winter months.",
-    "options": ["hostile", "susceptible", "valid", "abundant"],
-    "answer": "susceptible",
-    "hint": "Boşluktan sonra gelen 'to respiratory infections' (solunum yolu enfeksiyonlarına) ifadesiyle birlikte 'susceptible to' (yatkın/savunmasız olmak) kalıbı kullanılır."
-  },
-  {
-    "word": "trigger",
-    "questionType": "Cloze Test",
-    "question": "Certain environmental factors, such as air pollution and strong odors, can _______ asthma attacks in patients.",
-    "options": ["cease", "alleviate", "dedicate", "trigger"],
-    "answer": "trigger",
-    "hint": "Çevresel faktörlerin astım krizlerini 'başlatması' veya 'tetiklemesi' (trigger) mantıklıdır. 'Alleviate' (hafifletmek) ve 'cease' (dinmek) tam tersi anlama gelir."
-  },
-  {
-    "word": "valid",
-    "questionType": "Cloze Test",
-    "question": "Without a _______ passport and a proper visa, you will not be allowed to enter the country.",
-    "options": ["valid", "profound", "compulsory", "ambiguous"],
-    "answer": "valid",
-    "hint": "Pasaport veya kimlik gibi resmi belgelerin 'geçerli' olması gerekir. Bu tür yasal durumlarda İngilizcede her zaman 'valid' sıfatı kullanılır."
-  },
-  {
-    "word": "abundant",
-    "questionType": "Translation",
-    "question": "Solar energy is an abundant and renewable resource that can help reduce our reliance on fossil fuels.",
-    "options": ["Güneş enerjisi fosil yakıtlara bağımlılığımızı azaltabilen bol ve yenilenebilir bir kaynaktır.", "Güneş enerjisi fosil yakıtları azaltmak için kullanılan en bol kaynaktır.", "Güneş enerjisi bol olduğu için fosil yakıtlara bağımlılığımızı yenileyebilir.", "Fosil yakıtlara bağımlılığımızı azaltmak için bol ve yenilenebilir güneş enerjisi kullanmalıyız."],
-    "answer": "Güneş enerjisi fosil yakıtlara bağımlılığımızı azaltabilen bol ve yenilenebilir bir kaynaktır.",
-    "hint": "'abundant and renewable resource' tamlaması (bol ve yenilenebilir kaynak) eksiksiz çevrilmeli ve 'is' (dir/dır) fiiline bağlanmalıdır. A şıkkı birebir çeviridir."
-  },
-  {
-    "word": "cease",
-    "questionType": "Synonym",
-    "question": "Which word is the closest synonym to 'cease' in a formal text?",
-    "options": ["continue", "halt", "exceed", "grasp"],
-    "answer": "halt",
-    "hint": "'Cease' fiili durmak, dinmek, son bulmak demektir. 'Halt' veya 'stop' kelimeleri en yakın eş anlamlılarıdır. 'Continue' ise zıt anlamlısıdır."
-  },
-  {
-    "word": "dedicate",
-    "questionType": "Cloze Test",
-    "question": "The famous scientist decided to _______ her entire life to finding a cure for the rare disease.",
-    "options": ["fluctuate", "overcome", "justify", "dedicate"],
-    "answer": "dedicate",
-    "hint": "'her entire life to finding a cure' (tüm hayatını tedavi bulmaya) ifadesi, bir amaca 'adamak' (dedicate) fiilini zorunlu kılar. 'Dedicate ... to' ayrılmaz bir kalıptır."
-  },
-  {
-    "word": "exceed",
-    "questionType": "Cloze Test",
-    "question": "If the luggage weight continues to _______ the airline's 20-kilogram limit, passengers will have to pay an extra fee.",
-    "options": ["trigger", "alleviate", "exceed", "cease"],
-    "answer": "exceed",
-    "hint": "Bagaj ağırlığının '20-kilogram limitini' (20 kiloluk sınırı) 'aşması/geçmesi' durumunda ekstra ücret ödenir. Sınırı aşmak 'exceed' fiiliyle ifade edilir."
-  },
-  {
-    "word": "feasible",
-    "questionType": "Synonym",
-    "question": "What is the most accurate synonym for the word 'feasible' in project management?",
-    "options": ["impractical", "viable", "ambiguous", "hostile"],
-    "answer": "viable",
-    "hint": "'Feasible' kelimesi yapılabilir, uygulanabilir demektir. 'Viable', 'possible' veya 'practical' kelimeleri proje yönetiminde en yakın eş anlamlılarıdır."
-  },
-  {
-    "word": "grasp",
-    "questionType": "Cloze Test",
-    "question": "The lecture on quantum physics was so complicated that most of the students failed to _______ the main concepts.",
-    "options": ["exceed", "fluctuate", "grasp", "dedicate"],
-    "answer": "grasp",
-    "hint": "'fail to ... the main concepts' (ana kavramları ... konusunda başarısız olmak) ifadesinde boşluğa 'anlamak/kavramak' anlamına gelen 'grasp' gelmelidir."
-  },
-  {
-    "word": "hostile",
-    "questionType": "Cloze Test",
-    "question": "The negotiation broke down quickly because the representatives from both sides exhibited a very _______ attitude.",
-    "options": ["feasible", "hostile", "valid", "profound"],
-    "answer": "hostile",
-    "hint": "Müzakerelerin (negotiation) çökmesi, tarafların 'düşmanca/saldırgan' (hostile) bir tutum (attitude) sergilediğini gösterir. Diğer seçenekler anlamca uyumsuzdur."
-  },
-  {
-    "word": "incentive",
-    "questionType": "Translation",
-    "question": "The government offers tax reductions as an incentive for companies to invest in green energy.",
-    "options": ["Hükümetin şirketlere sunduğu vergi indirimleri yeşil enerji için bir teşviktir.", "Yeşil enerjiye yatırım yapan şirketler hükümetten teşvik olarak vergi indirimi alırlar.", "Hükümet vergi indirimleri sunarak şirketleri yeşil enerjiye teşvik etmektedir.", "Hükümet, şirketlerin yeşil enerjiye yatırım yapması için bir teşvik olarak vergi indirimleri sunar."],
-    "answer": "Hükümet, şirketlerin yeşil enerjiye yatırım yapması için bir teşvik olarak vergi indirimleri sunar.",
-    "hint": "'as an incentive' (bir teşvik olarak) bir zarf öbeğidir. 'The government offers' (Hükümet sunar) cümlenin ana yüklemidir. Tam gramer eşleşmesi sadece D şıkkındadır."
-  },
-  {
-    "word": "justify",
-    "questionType": "Cloze Test",
-    "question": "The CEO failed to _______ the massive budget cuts, leading to widespread protests among the workers.",
-    "options": ["alleviate", "justify", "trigger", "cease"],
-    "answer": "justify",
-    "hint": "'massive budget cuts' (büyük bütçe kesintilerini) çalışanlara karşı 'savunmak/haklı çıkarmak' gerekir. Bunu yapamamak 'fail to justify' ile ifade edilir."
+    "name": "Akademik Sınav Kelimeleri (YDS/TOEFL)",
+    "levelInfo": "B1, B2, C1",
+    "type": "word",
+    "words": [
+      ["alleviate", "hafifletmek", "Maria drank traditional tea to [alleviate] her stomach pain in Porto.", "Maria Porto'da mide ağrısını [hafifletmek] için geleneksel çay içti.", "Kelime (Tür): alleviate (Fiil)\nTemel Anlamı: hafifletmek\nDiğer Anlamları: dindirmek, azaltmak\nCümle Yapısı / Edatı: alleviate something\nCollocations: alleviate pain (ağrıyı hafifletmek - sağlık bağlamında)\nEş Anlamlılar: ease, relieve\nZıt Anlamlılar: aggravate, worsen\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: elevate\nKelime Ailesi: alleviation (isim)\nKullanım Notu: Genellikle ağrı, stres veya yoksulluk gibi olumsuz durumları azaltmak için kullanılır.", "Verb", "alleviates, alleviated, alleviating", "YDS, YÖKDİL, TOEFL, IELTS"],
+      ["overcome", "üstesinden gelmek", "Maria [overcame] her fear of flying to Madeira.", "Maria Madeira'ya uçma korkusunun [üstesinden geldi].", "Kelime (Tür): overcome (Fiil)\nTemel Anlamı: üstesinden gelmek\nDiğer Anlamları: aşmak, yenmek\nCümle Yapısı / Edatı: overcome something\nCollocations: overcome a problem (bir sorunu aşmak - zorluk bağlamında)\nEş Anlamlılar: conquer, defeat\nZıt Anlamlılar: surrender, yield\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: overtake\nKelime Ailesi: -\nKullanım Notu: Düzensiz fiildir. 2. hali: overcame, 3. hali: overcome. Zor bir durumu başarıyla atlatmak anlamındadır.", "Verb", "overcomes, overcame, overcoming", "YDS, YÖKDİL, TOEFL"],
+      ["compulsory", "zorunlu", "Education is [compulsory] for children in Lisbon.", "Lizbon'da çocuklar için eğitim [zorunludur].", "Kelime (Tür): compulsory (Sıfat)\nTemel Anlamı: zorunlu\nDiğer Anlamları: mecburi\nCümle Yapısı / Edatı: compulsory for somebody\nCollocations: compulsory education (zorunlu eğitim - akademik bağlamda)\nEş Anlamlılar: mandatory, obligatory\nZıt Anlamlılar: optional, voluntary\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: compulsive\nKelime Ailesi: compulsion (isim)\nKullanım Notu: Genellikle yasa, kural veya otorite tarafından dayatılan zorunlulukları ifade eder.", "Adjective", "-", "YDS, YÖKDİL, IELTS"],
+      ["fluctuate", "dalgalanmak", "The price of bacalhau [fluctuates] during the winter.", "Kış boyunca morina balığının fiyatı [dalgalanır].", "Kelime (Tür): fluctuate (Fiil)\nTemel Anlamı: dalgalanmak\nDiğer Anlamları: inip çıkmak\nCümle Yapısı / Edatı: fluctuate between\nCollocations: fluctuate wildly (vahşice dalgalanmak - ekonomi bağlamında)\nEş Anlamlılar: vary, waver\nZıt Anlamlılar: stabilize, remain steady\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: vacillate\nKelime Ailesi: fluctuation (isim)\nKullanım Notu: Sayıların, fiyatların veya havanın sürekli değiştiği grafiksel durumlar için çok sık kullanılır.", "Verb", "fluctuates, fluctuated, fluctuating", "YDS, TOEFL, IELTS"],
+      ["ambiguous", "belirsiz", "The ending of the Portuguese movie was very [ambiguous].", "Portekiz filminin sonu çok [belirsizdi].", "Kelime (Tür): ambiguous (Sıfat)\nTemel Anlamı: belirsiz\nDiğer Anlamları: iki anlama gelebilen, net olmayan\nCümle Yapısı / Edatı: ambiguous to somebody\nCollocations: ambiguous message (belirsiz mesaj - iletişim bağlamında)\nEş Anlamlılar: vague, unclear\nZıt Anlamlılar: clear, explicit\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: ambitious\nKelime Ailesi: ambiguity (isim)\nKullanım Notu: Birden fazla yoruma açık olan durumlar, sözler veya yazılar için tercih edilir.", "Adjective", "-", "YDS, YÖKDİL, TOEFL"],
+      ["inevitable", "kaçınılmaz", "Traffic is [inevitable] in Lisbon during the rush hour.", "Yoğun saatlerde Lizbon'da trafik [kaçınılmazdır].", "Kelime (Tür): inevitable (Sıfat)\nTemel Anlamı: kaçınılmaz\nDiğer Anlamları: çaresiz, beklenen\nCümle Yapısı / Edatı: inevitable that\nCollocations: inevitable result (kaçınılmaz sonuç - sebep sonuç bağlamında)\nEş Anlamlılar: unavoidable, inescapable\nZıt Anlamlılar: preventable, avoidable\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: invariable\nKelime Ailesi: inevitably (zarf)\nKullanım Notu: Olması kesin olan ve engellenemeyen sonuçları vurgularken çok güçlü bir ifadedir.", "Adjective", "-", "YDS, TOEFL, IELTS"],
+      ["profound", "derin", "Fado music has a [profound] effect on its listeners.", "Fado müziğinin dinleyicileri üzerinde [derin] bir etkisi vardır.", "Kelime (Tür): profound (Sıfat)\nTemel Anlamı: derin\nDiğer Anlamları: çok büyük, köklü\nCümle Yapısı / Edatı: profound effect on\nCollocations: profound impact (derin etki - sosyal etkileşim bağlamında)\nEş Anlamlılar: deep, intense\nZıt Anlamlılar: superficial, shallow\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: confound\nKelime Ailesi: profoundly (zarf)\nKullanım Notu: Fiziksel derinlik için değil, etki, anlam veya duygu yoğunluğu (derin sevgi, köklü değişim) için kullanılır.", "Adjective", "-", "YDS, YÖKDİL, TOEFL"],
+      ["crucial", "kritik", "Water is [crucial] for the vineyards in Douro.", "Douro'daki üzüm bağları için su [kritiktir].", "Kelime (Tür): crucial (Sıfat)\nTemel Anlamı: kritik\nDiğer Anlamları: hayati, çok önemli\nCümle Yapısı / Edatı: crucial for / to\nCollocations: crucial role (kritik rol - önem belirtme bağlamında)\nEş Anlamlılar: vital, essential\nZıt Anlamlılar: trivial, unimportant\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: brutal\nKelime Ailesi: crucially (zarf)\nKullanım Notu: Başarı veya başarısızlığı belirleyecek kadar hayati olan şeyleri tanımlarken 'important' yerine kullanılır.", "Adjective", "-", "YDS, YÖKDİL, IELTS"],
+      ["susceptible", "savunmasız", "Old buildings in Alfama are [susceptible] to earthquake damage.", "Alfama'daki eski binalar deprem hasarına karşı [savunmasızdır].", "Kelime (Tür): susceptible (Sıfat)\nTemel Anlamı: savunmasız\nDiğer Anlamları: hassas, yatkın\nCümle Yapısı / Edatı: susceptible to\nCollocations: susceptible to disease (hastalığa yatkın - sağlık bağlamında)\nEş Anlamlılar: vulnerable, prone\nZıt Anlamlılar: resistant, immune\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: suspicious\nKelime Ailesi: susceptibility (isim)\nKullanım Notu: Genellikle hastalıklara, dış etkilere veya duygusal manipülasyonlara açık olma durumunu ifade eder.", "Adjective", "-", "YDS, TOEFL, IELTS"],
+      ["trigger", "tetiklemek", "Stress can [trigger] a bad headache for João.", "Stres João için kötü bir baş ağrısını [tetikleyebilir].", "Kelime (Tür): trigger (Fiil)\nTemel Anlamı: tetiklemek\nDiğer Anlamları: başlatmak, yol açmak\nCümle Yapısı / Edatı: trigger something\nCollocations: trigger a memory (bir anıyı tetiklemek - psikoloji bağlamında)\nEş Anlamlılar: spark, provoke\nZıt Anlamlılar: prevent, halt\nPhrasal Verbs: -\nDeyimler: pull the trigger (tetiği çekmek)\nKarıştırılan Kelimeler: trick\nKelime Ailesi: trigger (isim)\nKullanım Notu: Genellikle ani bir reaksiyona veya zincirleme bir reaksiyona sebep olan olaylar için kullanılır.", "Verb", "triggers, triggered, triggering", "YDS, YÖKDİL, IELTS"],
+      ["valid", "geçerli", "Your train ticket is [valid] only for today.", "Tren biletin sadece bugün için [geçerlidir].", "Kelime (Tür): valid (Sıfat)\nTemel Anlamı: geçerli\nDiğer Anlamları: mantıklı, yasal\nCümle Yapısı / Edatı: valid for\nCollocations: valid reason (geçerli sebep - tartışma bağlamında)\nEş Anlamlılar: legitimate, logical\nZıt Anlamlılar: invalid, void\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: value\nKelime Ailesi: validity (isim)\nKullanım Notu: Hem bilet/pasaport gibi belgelerin yasallığını hem de bir argümanın mantıksal gücünü belirtmek için kullanılır.", "Adjective", "-", "YDS, YÖKDİL, TOEFL"],
+      ["abundant", "bol", "Fresh fish is very [abundant] in coastal Algarve.", "Kıyı şeridi Algarve'de taze balık çok [boldur].", "Kelime (Tür): abundant (Sıfat)\nTemel Anlamı: bol\nDiğer Anlamları: bereketli, çok sayıda\nCümle Yapısı / Edatı: abundant in\nCollocations: abundant evidence (bol kanıt - akademik bağlamda)\nEş Anlamlılar: plentiful, copious\nZıt Anlamlılar: scarce, rare\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: abandon\nKelime Ailesi: abundance (isim)\nKullanım Notu: İhtiyaç duyulandan çok daha fazla olan kaynaklar, yiyecekler veya kanıtlar için kullanılır.", "Adjective", "-", "YDS, TOEFL, IELTS"],
+      ["cease", "dinmek", "The rain finally [ceased] after three days in Coimbra.", "Coimbra'da üç günün ardından yağmur nihayet [dindi].", "Kelime (Tür): cease (Fiil)\nTemel Anlamı: dinmek\nDiğer Anlamları: durmak, son vermek\nCümle Yapısı / Edatı: cease to do / cease doing\nCollocations: cease fire (ateşkes - askeri bağlamda)\nEş Anlamlılar: stop, halt\nZıt Anlamlılar: begin, continue\nPhrasal Verbs: -\nDeyimler: never cease to amaze (şaşırtmaktan hiç geri kalmamak)\nKarıştırılan Kelimeler: seize\nKelime Ailesi: ceaseless (sıfat)\nKullanım Notu: Stop kelimesinin çok daha resmi ve akademik versiyonudur. Özellikle sözleşme veya savaş bağlamlarında sıkça çıkar.", "Verb", "ceases, ceased, ceasing", "YDS, YÖKDİL, TOEFL"],
+      ["dedicate", "adamak", "Ronaldo [dedicated] his goal to his lovely family.", "Ronaldo golünü sevimli ailesine [adadı].", "Kelime (Tür): dedicate (Fiil)\nTemel Anlamı: adamak\nDiğer Anlamları: ithaf etmek\nCümle Yapısı / Edatı: dedicate something to somebody\nCollocations: dedicate time (zaman ayırmak - çalışma bağlamında)\nEş Anlamlılar: devote, commit\nZıt Anlamlılar: neglect, ignore\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: dictate\nKelime Ailesi: dedication (isim)\nKullanım Notu: Zamanı, enerjiyi veya bir eseri değerli bir amaca veya kişiye vermek anlamında kullanılır.", "Verb", "dedicates, dedicated, dedicating", "YDS, IELTS"],
+      ["exceed", "aşmak", "Do not [exceed] the speed limit in Cascais.", "Cascais'te hız sınırını [aşmayın].", "Kelime (Tür): exceed (Fiil)\nTemel Anlamı: aşmak\nDiğer Anlamları: geçmek, sınırları zorlamak\nCümle Yapısı / Edatı: exceed in / by\nCollocations: exceed expectations (beklentileri aşmak - performans bağlamında)\nEş Anlamlılar: surpass, overstep\nZıt Anlamlılar: fall behind, fail\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: excel\nKelime Ailesi: exceedingly (zarf)\nKullanım Notu: Sınırları, miktarları, bütçeyi veya beklentileri geçmek anlamında yasal ve kurumsal dilde sıkça yer alır.", "Verb", "exceeds, exceeded, exceeding", "YDS, YÖKDİL, TOEFL"],
+      ["feasible", "yapılabilir", "Building a new bridge over the Tagus is [feasible].", "Tagus nehri üzerine yeni bir köprü inşa etmek [yapılabilirdir].", "Kelime (Tür): feasible (Sıfat)\nTemel Anlamı: yapılabilir\nDiğer Anlamları: mümkün, mantıklı\nCümle Yapısı / Edatı: feasible to do\nCollocations: feasible solution (uygulanabilir çözüm - iş bağlamında)\nEş Anlamlılar: possible, viable\nZıt Anlamlılar: impossible, impractical\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: festival\nKelime Ailesi: feasibility (isim)\nKullanım Notu: Sadece hayal edilebilen değil, pratik ve ekonomik olarak gerçekleştirilebilir olan plan ve projeler için kullanılır.", "Adjective", "-", "YDS, TOEFL, IELTS"],
+      ["grasp", "kavramak", "Tiago could not [grasp] the complex math problem.", "Tiago karmaşık matematik problemini [kavrayamadı].", "Kelime (Tür): grasp (Fiil)\nTemel Anlamı: kavramak\nDiğer Anlamları: sıkıca tutmak, anlamak\nCümle Yapısı / Edatı: grasp of\nCollocations: grasp an opportunity (fırsatı yakalamak - kariyer bağlamında)\nEş Anlamlılar: understand, comprehend\nZıt Anlamlılar: misunderstand, drop\nPhrasal Verbs: -\nDeyimler: grasp at straws (denize düşen yılana sarılır)\nKarıştırılan Kelimeler: grass\nKelime Ailesi: grasp (isim)\nKullanım Notu: Hem fiziksel olarak bir nesneyi sıkıca tutmak hem de zihinsel olarak zor bir konuyu tam olarak anlamak için kullanılır.", "Verb", "grasps, grasped, grasping", "YDS, YÖKDİL, IELTS"],
+      ["hostile", "düşmanca", "The fans became [hostile] after the referee made mistakes.", "Hakem hata yaptıktan sonra taraftarlar [düşmanca] davrandı.", "Kelime (Tür): hostile (Sıfat)\nTemel Anlamı: düşmanca\nDiğer Anlamları: saldırgan, yaşanamaz (ortam)\nCümle Yapısı / Edatı: hostile to / towards\nCollocations: hostile environment (yaşanamaz/düşmanca ortam - ekoloji/iş bağlamında)\nEş Anlamlılar: unfriendly, aggressive\nZıt Anlamlılar: friendly, welcoming\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: hostage\nKelime Ailesi: hostility (isim)\nKullanım Notu: İnsanların öfkeli tavırları için kullanıldığı gibi, bitkilerin yetişemeyeceği kadar zorlu çöl/buzul ortamları için de kullanılır.", "Adjective", "-", "YDS, TOEFL, IELTS"],
+      ["incentive", "teşvik", "The company offered a bonus as an [incentive] for workers.", "Şirket işçiler için bir [teşvik] olarak ikramiye sundu.", "Kelime (Tür): incentive (İsim)\nTemel Anlamı: teşvik\nDiğer Anlamları: özendirici sebep\nCümle Yapısı / Edatı: incentive to do something\nCollocations: financial incentive (maddi teşvik - ekonomi bağlamında)\nEş Anlamlılar: motivation, encouragement\nZıt Anlamlılar: deterrent, discouragement\nPhrasal Verbs: -\nDeyimler: -\nKarıştırılan Kelimeler: incense\nKelime Ailesi: incentivize (fiil)\nKullanım Notu: İnsanları daha çok çalışmaya, üretmeye veya satın almaya motive etmek için verilen maddi veya manevi ödüllerdir.", "Noun", "incentives", "YDS, YÖKDİL, TOEFL"],
+      ["justify", "haklı çıkarmak", "You must [justify] your late arrival to work.", "İşe geç gelişini [haklı çıkarmalısın].", "Kelime (Tür): justify (Fiil)\nTemel Anlamı: haklı çıkarmak\nDiğer Anlamları: savunmak, mazeret göstermek\nCümle Yapısı / Edatı: justify doing something\nCollocations: justify a decision (bir kararı savunmak - mantık bağlamında)\nEş Anlamlılar: defend, explain\nZıt Anlamlılar: condemn, accuse\nPhrasal Verbs: -\nDeyimler: the end justifies the means (amaca giden her yol mübahtır)\nKarıştırılan Kelimeler: justice\nKelime Ailesi: justification (isim)\nKullanım Notu: Bir hatayı, kararı veya yapılan harcamayı geçerli ve mantıklı sebepler sunarak savunmak için kullanılır.", "Verb", "justifies, justified, justifying", "YDS, YÖKDİL, IELTS"]
+    ]
   }
 ]
