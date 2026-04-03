@@ -1,0 +1,210 @@
+{
+  "name": "A1 Hata Avcısı",
+  "levelInfo": "A1",
+  "type": "error_hunter",
+  "words": [
+    [
+      "chicken",
+      "I usually eat chicken for dinner.",
+      "I usually eat a chicken for dinner.",
+      "Sayılabilirlik (Countable/Uncountable)",
+      "Yiyecek olarak tavuk etinden bahsederken 'chicken' sayılamaz (uncountable) kabul edilir ve başına 'a' almaz. 'A chicken' dersen masada bütün, canlı bir tavuk var gibi anlaşılır."
+    ],
+    [
+      "dialogue",
+      "We had a long dialogue about the new project.",
+      "We made a long dialogue about the new project.",
+      "Kalıp (Collocation)",
+      "İngilizcede diyalog kurmak veya sohbet etmek için 'make' (yapmak) fiili değil, 'have a dialogue / conversation' (sahip olmak) kalıbı kullanılır."
+    ],
+    [
+      "daily",
+      "I drink two cups of coffee daily.",
+      "I drink two cups of coffee in daily.",
+      "Edat (Preposition)",
+      "'Daily' (her gün/günlük) kelimesi zarf olarak kullanıldığında önüne 'in' veya 'on' gibi bir edat almaz, tek başına kullanılır."
+    ],
+    [
+      "kind",
+      "It is very kind of you to help me.",
+      "It is very kind from you to help me.",
+      "Edat (Preposition)",
+      "Birine nezaketinden dolayı teşekkür ederken her zaman 'kind OF you' kalıbı kullanılır. Türkçedeki 'senden' mantığıyla 'from' kullanmak yaygın bir hatadır."
+    ],
+    [
+      "eight",
+      "The class starts at eight o'clock.",
+      "The class starts in eight o'clock.",
+      "Edat (Preposition)",
+      "İngilizcede net saatleri söylerken daima 'at' edatı kullanılır (at eight). Aylarda veya yıllarda 'in', günlerde ise 'on' kullanılır."
+    ],
+    [
+      "photo",
+      "Can you take a photo of us?",
+      "Can you make a photo of us?",
+      "Kalıp (Collocation)",
+      "Fotoğraf çekmek eylemi İngilizcede her zaman 'take' fiili ile ifade edilir. 'Make a photo' doğrudan hatalı bir Türkçe çevirisidir."
+    ],
+    [
+      "ask",
+      "I want to ask you a question.",
+      "I want to ask to you a question.",
+      "Edat (Preposition)",
+      "'Ask' fiili birine soru sorarken araya 'to' edatı almaz. Doğrudan hedef kişiyi belirtiriz: 'ask him', 'ask you'."
+    ],
+    [
+      "bird",
+      "Look at that beautiful bird in the sky!",
+      "Look at that beautiful bird on the sky!",
+      "Edat (Preposition)",
+      "Gökyüzünde derken 'on' (üzerinde) değil, gökyüzünün üç boyutlu alanının içinde anlamında 'in the sky' kullanılır."
+    ],
+    [
+      "south",
+      "Antalya is in the south of Turkey.",
+      "Antalya is at the south of Turkey.",
+      "Edat (Preposition)",
+      "Yönleri (güney, kuzey) belirtirken o bölgenin kapsadığı alanı vurgulamak için 'in the south' kalıbı kullanılır."
+    ],
+    [
+      "tall",
+      "My brother is a very tall man.",
+      "My brother is a very long man.",
+      "Kelime Seçimi (Word Choice)",
+      "İnsanların, binaların veya ağaçların boyundan bahsederken 'tall' kullanılır. 'Long' daha çok yollar, nehirler veya saçlar için geçerlidir."
+    ],
+    [
+      "potato",
+      "I bought some potatoes from the market.",
+      "I bought some potatos from the market.",
+      "Yazım / Çoğul Eki (Spelling)",
+      "Sonu 'o' harfi ile biten bazı kelimeler (potato, tomato) çoğul yapılırken sadece '-s' değil, '-es' takısı alır (potatoes)."
+    ],
+    [
+      "juice",
+      "Can I have some orange juice?",
+      "Can I have an orange juice?",
+      "Sayılabilirlik (Countable/Uncountable)",
+      "'Juice' (meyve suyu) sıvı olduğu için İngilizcede sayılamaz. 'An orange juice' yerine 'some juice' veya 'a glass of juice' demelisin."
+    ],
+    [
+      "nineteen",
+      "My sister is nineteen years old.",
+      "My sister is nineteen year old.",
+      "Çoğul Eki (Plural)",
+      "Yaş belirtirken sayı birden büyük olduğu için 'year' kelimesi çoğul yapılarak 'years old' şeklinde kullanılmalıdır."
+    ],
+    [
+      "ninety",
+      "My grandfather is ninety years old.",
+      "My grandfather is in ninety years old.",
+      "Edat Fazlalığı (Redundancy)",
+      "İngilizcede yaş söylerken başına 'in' veya 'at' gibi bir edat gelmez. Sadece 'To Be' fiili (am/is/are) yeterlidir."
+    ],
+    [
+      "cream",
+      "I like to eat strawberries with cream.",
+      "I like to eat strawberries by cream.",
+      "Edat (Preposition)",
+      "Bir yiyeceğin başka bir yiyecekle 'birlikte' yendiğini belirtirken her zaman 'with' edatı kullanılır. 'By' ise vasıta/araç bildirir."
+    ],
+    [
+      "arrive",
+      "What time did you arrive at the hotel?",
+      "What time did you arrive to the hotel?",
+      "Edat (Preposition)",
+      "'Arrive' fiili hiçbir zaman 'to' edatı almaz! Bina veya otel gibi küçük yerlere varırken 'arrive at', ülke veya şehir gibi yerlere varırken 'arrive in' kullanılır."
+    ],
+    [
+      "fall",
+      "The leaves fall from the trees in autumn.",
+      "The leaves fall of the trees in autumn.",
+      "Edat (Preposition)",
+      "Bir yerden ayrılmak veya düşmek anlamında 'from' kullanılır. 'Of' aitlik bildirir, burada kullanılamaz."
+    ],
+    [
+      "online",
+      "I prefer to shop online.",
+      "I prefer to shop on online.",
+      "Edat Fazlalığı (Redundancy)",
+      "'Online' kelimesi zarf olarak kullanıldığında önüne 'on', 'in' veya 'at' edatı almaz, tek başına kullanılır."
+    ],
+    [
+      "yeah",
+      "Yeah, I think you are right.",
+      "Yeah, I am think you are right.",
+      "Fiil Kullanımı (Verb Form)",
+      "'Think' (düşünmek) bir ana fiildir. Geniş zamanda fiilin önüne ekstra olarak 'am/is/are' eklenmez. Sadece 'I think' yeterlidir."
+    ],
+    [
+      "go",
+      "Let's go shopping this weekend!",
+      "Let's go to shopping this weekend!",
+      "Fiilimsi (Gerund)",
+      "'Go' fiilinden sonra bir etkinlik (shopping, swimming, running) geliyorsa araya 'to' girmez. Doğrudan 'go + V-ing' kalıbı kullanılır."
+    ],
+    [
+      "them",
+      "I saw my friends and invited them to the party.",
+      "I saw my friends and invited they to the party.",
+      "Zamir (Pronoun)",
+      "Cümlenin nesnesi konumunda olan 'onları' veya 'onlara' anlamında 'they' (özne) değil, 'them' (nesne zamiri) kullanılmalıdır."
+    ],
+    [
+      "cousin",
+      "My cousin is coming to visit us.",
+      "My cousin he is coming to visit us.",
+      "Çifte Özne (Double Subject)",
+      "Cümlede zaten bir özne ('My cousin') olduğu için peşinden tekrar 'he' veya 'she' demek İngilizcede gramer hatasıdır."
+    ],
+    [
+      "dark",
+      "It gets dark very early in winter.",
+      "The weather becomes dark very early in winter.",
+      "Kalıp (Collocation)",
+      "Havanın kararması İngilizcede 'weather' (hava) kelimesi ile değil, doğrudan 'It gets dark' kalıbıyla söylenir."
+    ],
+    [
+      "seven",
+      "I have seven books in my bag.",
+      "I have seven book in my bag.",
+      "Çoğul Eki (Plural)",
+      "İngilizcede sayı birden (1) büyükse, ardından gelen sayılabilir isim mutlaka çoğul takısı (-s) almalıdır."
+    ],
+    [
+      "famous",
+      "Paris is famous for its museums.",
+      "Paris is famous with its museums.",
+      "Edat (Preposition)",
+      "Bir şehrin, ülkenin veya kişinin 'bir şeyiyle ünlü olması' kalıbı her zaman 'famous FOR' şeklindedir, Türkçe düşünülüp 'with' (ile) kullanılmaz."
+    ],
+    [
+      "more",
+      "Can you give me more information?",
+      "Can you give me more informations?",
+      "Sayılabilirlik (Countable/Uncountable)",
+      "'Information' (bilgi) kelimesi İngilizcede sayılamaz (uncountable) kabul edilir ve asla çoğul takısı (-s) almaz."
+    ],
+    [
+      "area",
+      "There are many shops in this area.",
+      "There are many shops at this area.",
+      "Edat (Preposition)",
+      "Belirli sınırları olan geniş bir 'bölgenin içinde' olduğumuzu vurgularken 'in this area' kullanırız, nokta atışı konum belirten 'at' kullanılmaz."
+    ],
+    [
+      "spring",
+      "The flowers bloom in the spring.",
+      "The flowers bloom at the spring.",
+      "Edat (Preposition)",
+      "Mevsim isimlerinden (spring, summer, autumn, winter) önce her zaman 'in' edatı kullanılır."
+    ],
+    [
+      "butter",
+      "I like to put butter on my toast.",
+      "I like to put a butter on my toast.",
+      "Sayılabilirlik (Countable/Uncountable)",
+      "'Butter' (tereyağı) eriyebilen/sayılamayan bir madde olduğu için başına tekil belirteci olan 'a' veya 'an' almaz. Sadece 'butter' denir."
+    ]
+  ]
+}
