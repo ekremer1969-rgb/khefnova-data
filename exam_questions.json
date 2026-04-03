@@ -1,0 +1,162 @@
+[
+  {
+    "word": "alleviate",
+    "questionType": "Cloze Test",
+    "question": "To _______ the symptoms of the allergy, the doctor recommended taking antihistamines every morning.",
+    "options": ["trigger", "alleviate", "exceed", "grasp"],
+    "answer": "alleviate",
+    "hint": "Boşluktan sonraki 'symptoms of the allergy' (alerji belirtileri) ifadesi, bu belirtileri azaltmak/hafifletmek anlamına gelen olumlu bir fiil gerektirir. 'Alleviate' (hafifletmek) tam buraya uyar."
+  },
+  {
+    "word": "overcome",
+    "questionType": "Translation",
+    "question": "It took him years to overcome the trauma of the accident.",
+    "options": ["Kazanın travması yıllarca üstesinden gelinemedi.", "Kazanın travmasını atlatmak için yıllarca bekledi.", "Kazanın travmasını atlatması yıllarını aldı.", "Yıllar sonra kazanın travmasını hafifletti."],
+    "answer": "Kazanın travmasını atlatması yıllarını aldı.",
+    "hint": "Çeviri sorularında özne-yüklem uyumuna dikkat et. 'It took him years' (onun yıllarını aldı) ve 'overcome' (aşmak/üstesinden gelmek/atlatmak) eşleşmesi sadece C şıkkında vardır."
+  },
+  {
+    "word": "compulsory",
+    "questionType": "Cloze Test",
+    "question": "In many European countries, primary education is _______, meaning all children must attend school by law.",
+    "options": ["ambiguous", "valid", "hostile", "compulsory"],
+    "answer": "compulsory",
+    "hint": "'must attend school by law' (kanunen okula gitmek zorundadır) ifadesi, boşluğa 'zorunlu/mecburi' anlamına gelen 'compulsory' sıfatının geleceğini açıkça gösterir."
+  },
+  {
+    "word": "fluctuate",
+    "questionType": "Synonym",
+    "question": "Which of the following is closest in meaning to the word 'fluctuate' as used in economic contexts?",
+    "options": ["remain steady", "continuously vary", "strictly exceed", "firmly grasp"],
+    "answer": "continuously vary",
+    "hint": "'Fluctuate' kelimesi inip çıkmak, dalgalanmak anlamına gelir. İngilizce karşılığı 'vary' (değişmek) veya 'change continuously'dir."
+  },
+  {
+    "word": "ambiguous",
+    "questionType": "Cloze Test",
+    "question": "The instructions provided by the manager were so _______ that none of the employees knew exactly what to do.",
+    "options": ["profound", "ambiguous", "abundant", "inevitable"],
+    "answer": "ambiguous",
+    "hint": "'none of the employees knew exactly what to do' (çalışanların hiçbiri tam olarak ne yapacağını bilemedi) ifadesi, talimatların 'belirsiz' veya 'net olmayan' (ambiguous) olduğunu kanıtlar."
+  },
+  {
+    "word": "inevitable",
+    "questionType": "Cloze Test",
+    "question": "When a company fails to innovate and adapt to new technologies, bankruptcy becomes almost _______.",
+    "options": ["inevitable", "valid", "susceptible", "feasible"],
+    "answer": "inevitable",
+    "hint": "Şirket yenilik yapmazsa iflasın 'kaçınılmaz' (inevitable) olacağı vurgulanmaktadır. Sebep-sonuç bağlamında olumsuz durumu tamamlayan en güçlü sıfattır."
+  },
+  {
+    "word": "profound",
+    "questionType": "Translation",
+    "question": "The invention of the internet has had a profound impact on modern society.",
+    "options": ["İnternetin icadı modern toplumu tamamen değiştirmiştir.", "İnternetin icadının modern toplumdaki etkisi çok abartılmaktadır.", "İnternetin icadıyla modern toplum derinden etkilenmiştir.", "İnternetin icadı modern toplum üzerinde derin bir etki bırakmıştır."],
+    "answer": "İnternetin icadı modern toplum üzerinde derin bir etki bırakmıştır.",
+    "hint": "'profound impact' tamlaması doğrudan 'derin etki' olarak çevrilmelidir. Ayrıca 'has had' (bırakmıştır/sahiptir) ana fiildir. Kelime kelime tam eşleşme son şıktadır."
+  },
+  {
+    "word": "crucial",
+    "questionType": "Synonym",
+    "question": "Choose the best synonym for the word 'crucial' in the context of a project's success.",
+    "options": ["trivial", "optional", "vital", "hostile"],
+    "answer": "vital",
+    "hint": "'Crucial' çok önemli, hayati, kritik demektir. Eş anlamlısı 'vital' veya 'essential' kelimeleridir. 'Trivial' tam zıttıdır (önemsiz)."
+  },
+  {
+    "word": "susceptible",
+    "questionType": "Cloze Test",
+    "question": "Children and the elderly are generally more _______ to respiratory infections during the winter months.",
+    "options": ["hostile", "susceptible", "valid", "abundant"],
+    "answer": "susceptible",
+    "hint": "Boşluktan sonra gelen 'to respiratory infections' (solunum yolu enfeksiyonlarına) ifadesiyle birlikte 'susceptible to' (yatkın/savunmasız olmak) kalıbı kullanılır."
+  },
+  {
+    "word": "trigger",
+    "questionType": "Cloze Test",
+    "question": "Certain environmental factors, such as air pollution and strong odors, can _______ asthma attacks in patients.",
+    "options": ["cease", "alleviate", "dedicate", "trigger"],
+    "answer": "trigger",
+    "hint": "Çevresel faktörlerin astım krizlerini 'başlatması' veya 'tetiklemesi' (trigger) mantıklıdır. 'Alleviate' (hafifletmek) ve 'cease' (dinmek) tam tersi anlama gelir."
+  },
+  {
+    "word": "valid",
+    "questionType": "Cloze Test",
+    "question": "Without a _______ passport and a proper visa, you will not be allowed to enter the country.",
+    "options": ["valid", "profound", "compulsory", "ambiguous"],
+    "answer": "valid",
+    "hint": "Pasaport veya kimlik gibi resmi belgelerin 'geçerli' olması gerekir. Bu tür yasal durumlarda İngilizcede her zaman 'valid' sıfatı kullanılır."
+  },
+  {
+    "word": "abundant",
+    "questionType": "Translation",
+    "question": "Solar energy is an abundant and renewable resource that can help reduce our reliance on fossil fuels.",
+    "options": ["Güneş enerjisi fosil yakıtlara bağımlılığımızı azaltabilen bol ve yenilenebilir bir kaynaktır.", "Güneş enerjisi fosil yakıtları azaltmak için kullanılan en bol kaynaktır.", "Güneş enerjisi bol olduğu için fosil yakıtlara bağımlılığımızı yenileyebilir.", "Fosil yakıtlara bağımlılığımızı azaltmak için bol ve yenilenebilir güneş enerjisi kullanmalıyız."],
+    "answer": "Güneş enerjisi fosil yakıtlara bağımlılığımızı azaltabilen bol ve yenilenebilir bir kaynaktır.",
+    "hint": "'abundant and renewable resource' tamlaması (bol ve yenilenebilir kaynak) eksiksiz çevrilmeli ve 'is' (dir/dır) fiiline bağlanmalıdır. A şıkkı birebir çeviridir."
+  },
+  {
+    "word": "cease",
+    "questionType": "Synonym",
+    "question": "Which word is the closest synonym to 'cease' in a formal text?",
+    "options": ["continue", "halt", "exceed", "grasp"],
+    "answer": "halt",
+    "hint": "'Cease' fiili durmak, dinmek, son bulmak demektir. 'Halt' veya 'stop' kelimeleri en yakın eş anlamlılarıdır. 'Continue' ise zıt anlamlısıdır."
+  },
+  {
+    "word": "dedicate",
+    "questionType": "Cloze Test",
+    "question": "The famous scientist decided to _______ her entire life to finding a cure for the rare disease.",
+    "options": ["fluctuate", "overcome", "justify", "dedicate"],
+    "answer": "dedicate",
+    "hint": "'her entire life to finding a cure' (tüm hayatını tedavi bulmaya) ifadesi, bir amaca 'adamak' (dedicate) fiilini zorunlu kılar. 'Dedicate ... to' ayrılmaz bir kalıptır."
+  },
+  {
+    "word": "exceed",
+    "questionType": "Cloze Test",
+    "question": "If the luggage weight continues to _______ the airline's 20-kilogram limit, passengers will have to pay an extra fee.",
+    "options": ["trigger", "alleviate", "exceed", "cease"],
+    "answer": "exceed",
+    "hint": "Bagaj ağırlığının '20-kilogram limitini' (20 kiloluk sınırı) 'aşması/geçmesi' durumunda ekstra ücret ödenir. Sınırı aşmak 'exceed' fiiliyle ifade edilir."
+  },
+  {
+    "word": "feasible",
+    "questionType": "Synonym",
+    "question": "What is the most accurate synonym for the word 'feasible' in project management?",
+    "options": ["impractical", "viable", "ambiguous", "hostile"],
+    "answer": "viable",
+    "hint": "'Feasible' kelimesi yapılabilir, uygulanabilir demektir. 'Viable', 'possible' veya 'practical' kelimeleri proje yönetiminde en yakın eş anlamlılarıdır."
+  },
+  {
+    "word": "grasp",
+    "questionType": "Cloze Test",
+    "question": "The lecture on quantum physics was so complicated that most of the students failed to _______ the main concepts.",
+    "options": ["exceed", "fluctuate", "grasp", "dedicate"],
+    "answer": "grasp",
+    "hint": "'fail to ... the main concepts' (ana kavramları ... konusunda başarısız olmak) ifadesinde boşluğa 'anlamak/kavramak' anlamına gelen 'grasp' gelmelidir."
+  },
+  {
+    "word": "hostile",
+    "questionType": "Cloze Test",
+    "question": "The negotiation broke down quickly because the representatives from both sides exhibited a very _______ attitude.",
+    "options": ["feasible", "hostile", "valid", "profound"],
+    "answer": "hostile",
+    "hint": "Müzakerelerin (negotiation) çökmesi, tarafların 'düşmanca/saldırgan' (hostile) bir tutum (attitude) sergilediğini gösterir. Diğer seçenekler anlamca uyumsuzdur."
+  },
+  {
+    "word": "incentive",
+    "questionType": "Translation",
+    "question": "The government offers tax reductions as an incentive for companies to invest in green energy.",
+    "options": ["Hükümetin şirketlere sunduğu vergi indirimleri yeşil enerji için bir teşviktir.", "Yeşil enerjiye yatırım yapan şirketler hükümetten teşvik olarak vergi indirimi alırlar.", "Hükümet vergi indirimleri sunarak şirketleri yeşil enerjiye teşvik etmektedir.", "Hükümet, şirketlerin yeşil enerjiye yatırım yapması için bir teşvik olarak vergi indirimleri sunar."],
+    "answer": "Hükümet, şirketlerin yeşil enerjiye yatırım yapması için bir teşvik olarak vergi indirimleri sunar.",
+    "hint": "'as an incentive' (bir teşvik olarak) bir zarf öbeğidir. 'The government offers' (Hükümet sunar) cümlenin ana yüklemidir. Tam gramer eşleşmesi sadece D şıkkındadır."
+  },
+  {
+    "word": "justify",
+    "questionType": "Cloze Test",
+    "question": "The CEO failed to _______ the massive budget cuts, leading to widespread protests among the workers.",
+    "options": ["alleviate", "justify", "trigger", "cease"],
+    "answer": "justify",
+    "hint": "'massive budget cuts' (büyük bütçe kesintilerini) çalışanlara karşı 'savunmak/haklı çıkarmak' gerekir. Bunu yapamamak 'fail to justify' ile ifade edilir."
+  }
+]
