@@ -1,36 +1,67 @@
 {
-  "name": "A1 Okuma Modülü",
+  "name": "A1 Okuma Modülü - Test Seti",
   "levelInfo": "A1",
   "type": "reading",
   "words": [
-    ["chicken", "After the walk, we go to a cafe and eat [chicken] sandwiches.", "Cafe Time", "chicken: 'Chicken' kelimesi hem çiftlikteki hayvan (tavuk) hem de tabaktaki yiyecek (tavuk eti) anlamına gelir."],
-    ["dialogue", "We always have a good [dialogue] about our lives during the walk.", "A Good Chat", "dialogue: Günlük sohbette 'conversation' kelimesi daha sık duyulsa da, 'dialogue' karşılıklı ve derin fikir alışverişini mükemmel ifade eder."],
-    ["daily", "We meet for our [daily] walk at eight o'clock in the morning.", "Morning Routine", "daily: Hem sıfat hem de zarf olarak kullanılabilir. 'Daily routine' (günlük rutin) İngilizcede en çok duyacağın kalıplardan biridir."],
-    ["kind", "I have a very [kind] friend. We meet for a walk every morning.", "A Good Friend", "kind: 'Nazik/kibar' demektir. Birine teşekkür ederken 'It is very kind of you' (Çok naziksiniz) demek İngilizcede çok havalı bir kullanımdır."],
-    ["eight", "We meet for our morning walk at [eight] o'clock.", "Early Morning", "eight: İngilizcede saatleri söylerken daima 'at' edatıyla birlikte kullanılır (at eight o'clock)."],
-    ["photo", "I always ask my brother to take a [photo] of the beautiful bird.", "Taking Pictures", "photo: Fotoğraf çekmek için her zaman 'take a photo' kalıbı kullanılır, 'make' denmez."],
-    ["ask", "I always [ask] my brother to take a photo of the bird.", "Asking for Help", "ask: Birinden bir şey istemek veya soru sormak anlamındadır. 'Ask a question' (soru sormak) veya 'ask for help' (yardım istemek) şeklinde sıkça duyarsın."],
-    ["bird", "There is a beautiful blue [bird] in the tree near my house.", "The Blue Bird", "bird: Kuş anlamına gelir. Telaffuzu 'börd' şeklindedir, 'r' harfi genelde çok baskın okunmaz."],
-    ["south", "I live in the [south] of the city.", "City Life", "south: Güney demektir. Yön isimleri İngilizcede genelde 'the' takısı ile kullanılır (in the south)."],
-    ["tall", "There is a [tall] tree near my house.", "The Big Tree", "tall: Uzun boylu demektir. İnsanlar, ağaçlar veya binalar için kullanılır ama yollar veya nehirler için 'long' kullanılır."],
-    ["potato", "We love eating baked [potato] for dinner.", "Grandfather's Dinner", "potato: Patates anlamına gelir. Çoğulu 'potatoes' şeklinde yazılır. İngiliz kültüründe yemeklerin ayrılmaz parçasıdır."],
-    ["juice", "After dinner, we always drink fresh apple [juice] together.", "Fresh Drink", "juice: Meyve suyu demektir. 'Orange juice' (portakal suyu) veya 'apple juice' (elma suyu) şeklinde tamlama olarak çok sık kullanılır."],
-    ["nineteen", "My grandfather is old, but I am only [nineteen].", "Being Young", "nineteen: Ondokuz demektir. Sonu 'teen' ile biten sayılar (13-19 arası) gençler (teenager) ifade eder. Vurgu son hecededir."],
-    ["ninety", "My grandfather is [ninety] years old.", "Grandfather", "ninety: Doksan demektir. Sonu 'ty' ile biten onluk sayılarda vurgu her zaman ilk hecededir (NINE-ty)."],
-    ["cream", "We love eating baked potatoes with sour [cream].", "Tasty Food", "cream: Krema demektir. Kahvede, tatlılarda veya çorbalarda kullanılır. 'Ice cream' (dondurma) kelimesinin de köküdür."],
-    ["arrive", "It is very easy and the boxes usually [arrive] at my house in two days.", "Delivery", "arrive: Varmak, ulaşmak anlamına gelir. Büyük şehirlere veya ülkelere varırken 'arrive in', ev gibi daha küçük ve belirli yerlere varırken 'arrive at' edatı kullanılır."],
-    ["fall", "I love to go shopping online in the [fall].", "Shopping Season", "fall: Hem 'düşmek' fiili hem de 'sonbahar' mevsimi anlamına gelir (Amerikan İngilizcesinde). İngilizler mevsim için genelde 'autumn' der."],
-    ["online", "I love to go shopping [online] in the fall.", "Easy Shopping", "online: Çevrimiçi, internette demektir. Hem sıfat (online game) hem de zarf (shop online) olarak kullanılabilir."],
-    ["yeah", "[Yeah], I love to go shopping online.", "Agreeing", "yeah: 'Yes' kelimesinin günlük konuşmadaki, çok daha rahat ve sık kullanılan versiyonudur."],
-    ["go", "I love to [go] shopping online in the fall.", "Free Time", "go: Gitmek demektir. Hemen ardından bir etkinlik gelirse genellikle 'ing' takısı alır (go shopping, go swimming)."],
-    ["them", "My cousin is a famous singer. I usually see [them] on TV.", "On TV", "them: 'Onları/onlara' anlamına gelen nesne zamiridir. Cümlede her zaman fiilden veya edattan sonra gelir (I see them)."],
-    ["cousin", "My [cousin] is a famous singer.", "Family Member", "cousin: Kuzen demektir. İngilizcede kız veya erkek ayrımı yoktur, her ikisi için de aynı kelime kullanılır."],
-    ["dark", "She wakes up every morning, even when it is still [dark] outside.", "Early Wake Up", "dark: Karanlık veya koyu renk demektir. Hem hava durumu (it is dark) hem de renkler (dark blue) için kullanılır."],
-    ["seven", "She wakes up at [seven] o'clock every morning.", "Morning Time", "seven: Yedi sayısıdır. İngiliz kültüründe şanslı sayı olarak bilinir."],
-    ["famous", "My cousin is a [famous] singer.", "The Star", "famous: Ünlü, meşhur demektir. 'Famous for' kalıbı (bir şeyiyle ünlü olmak) sınavlarda ve günlük dilde çok çıkar (Turkey is famous for its tea)."],
-    ["more", "We need [more] time to finish the work in this area.", "Extra Time", "more: Daha veya daha fazla anlamına gelir. Sayılabilen veya sayılamayan isimlerle kullanılır (more time, more apples)."],
-    ["area", "We need more time to finish the work in this [area].", "Work Zone", "area: Alan veya bölge demektir. Belirli sınırları olan yerler veya konu alanları için sıkça kullanılır."],
-    ["spring", "It is very beautiful here in the [spring].", "Beautiful Season", "spring: İlkbahar mevsimi anlamına gelir. 'In the spring' (ilkbaharda) şeklinde kullanımı yaygındır. Ayrıca 'yay' veya 'su kaynağı' gibi anlamları da vardır."],
-    ["butter", "I love eating fresh bread with [butter] in the mornings.", "Breakfast", "butter: Tereyağı demektir. Sayılamayan bir kelime olduğu için başına 'a' veya 'an' almaz, tek başına kullanılır."]
+    [
+      "chicken",
+      "In the heart of Barcelos, a small town in northern Portugal, there is a very famous legend. Long ago, a traveler was accused of a crime he did not commit. He was very afraid and told the judge that he was innocent. The judge was about to eat a roasted bird for dinner. The traveler pointed at the bird and said, 'If I am innocent, this bird will stand up and sing.' Everyone laughed at him because it seemed impossible. However, at that exact moment, the roasted [chicken] stood up and began to sing loudly. The judge was shocked and immediately released the man. Today, you can see colorful ceramic statues of this bird all over Portugal. It is a symbol of luck, honesty, and justice. Tourists love to buy these small statues as souvenirs from their trips to Lisbon or Porto. The story is told to children in every school. It reminds everyone that the truth always comes out in the end, even in the most surprising ways...",
+      "The Legend of Barcelos",
+      "chicken: Hem canlı hayvan (tavuk) hem de et (tavuk eti) için kullanılır. Portekiz'in en ünlü simgelerinden biri olan 'Galo de Barcelos' (Barcelos Horozu) aslında bu kelimeyle ilişkilendirilir."
+    ],
+    [
+      "dialogue",
+      "Lisbon is a city where history and modern life meet on every corner. If you walk through the narrow streets of Alfama, you can hear the beautiful sound of Fado music coming from the small restaurants. One evening, an old musician and a young student were sitting outside a cafe. The student wanted to learn how to play the Portuguese guitar. They started a long and interesting [dialogue] about the soul of the music. The old man explained that Fado is not just about notes; it is about feeling and 'saudade'. They talked about the ocean, the old ships, and the sailors who left their families long ago. The student listened with great respect. This conversation lasted until midnight. Other people in the cafe stopped to listen to them. It was a perfect example of how music can bring different generations together. By the end of the night, the student felt a deep connection to the city's traditions and promised to practice every day...",
+      "Music of the Soul",
+      "dialogue: Karşılıklı konuşma veya fikir alışverişi demektir. Günlük dilde 'conversation' daha yaygın olsa da, 'dialogue' daha derin ve anlamlı görüşmeleri ifade etmek için harika bir tercihtir."
+    ],
+    [
+      "daily",
+      "Every morning in Porto, the sun rises over the Douro River and the city begins to wake up. For Maria, her [daily] routine is very important and she never changes it. She starts her day at six o'clock. First, she walks to the local bakery to buy fresh 'Pão' for her family. The smell of warm bread fills the streets. Then, she goes to the Ribeira district to open her small shop where she sells traditional tiles called 'Azulejos'. She cleans the windows and prepares the tea. Many tourists visit her shop throughout the day. She loves talking to people from different countries and sharing stories about Porto's history. In the afternoon, she takes a short break and sits by the river to watch the boats pass by. In the evening, she goes home and cooks a traditional fish soup. For Maria, this simple life is full of happiness and peace. She believes that the small things we do every day make life beautiful...",
+      "Life by the River",
+      "daily: 'Günlük' demektir. Hem sıfat (daily routine) hem de zarf (I exercise daily) olarak kullanılabilir. Portekiz'de sabah rutinleri oldukça geleneksel ve sakindir."
+    ],
+    [
+      "kind",
+      "Last summer, Thomas traveled to the Algarve region in the south of Portugal. He was exploring a small village near the cliffs when he got lost. He did not have a map and his phone battery was dead. He felt very worried because it was getting dark. Suddenly, he saw an old woman sitting in her garden. She noticed that Thomas looked confused and she called him over. She was a very [kind] lady and she offered him a glass of fresh orange juice. Even though Thomas spoke only a little Portuguese, she understood his problem. she gave him clear directions to his hotel and even gave him some lemons from her tree. Thomas felt very lucky to meet her. He realized that the people of Portugal are very welcoming to visitors. He finally reached his hotel safely and told his friends about the woman's generosity. This experience was the highlight of his vacation and he promised to visit the village again...",
+      "A Helping Hand",
+      "kind: 'Nazik, kibar, yardımsever' anlamlarına gelir. Birine 'It's very kind of you' (Çok naziksiniz) demek İngilizcede en şık teşekkür etme yöntemlerinden biridir."
+    ],
+    [
+      "eight",
+      "The city of Coimbra is famous for its old university, which is one of the oldest in the world. Every year, thousands of students come here to study law, medicine, and history. One group of friends decided to meet for a study session in the grand library. They agreed to meet at exactly [eight] o'clock in the evening. The library is a magical place with thousands of old books and beautiful gold decorations. They worked hard for several hours, reading about the kings and queens of Portugal. At ten o'clock, they took a break and walked through the dark corridors of the university. They could hear the bells of the clock tower ringing. The moon was bright and the city was very quiet. They felt proud to be part of such a historic place. After finishing their work, they walked back to their dormitories, tired but happy with what they learned. They promised to meet at the same time the next day to continue their research...",
+      "The Historic Library",
+      "eight: Sekiz sayısıdır. Saatleri söylerken 'at eight o'clock' şeklinde 'at' edatı ile kullanılır. Coimbra'da akşam sekiz, öğrencilerin kütüphanelerde yoğunlaştığı bir saattir."
+    ],
+    [
+      "photo",
+      "Sintra is a town that looks like it came from a fairy tale. It has many colorful palaces, mysterious gardens, and old castles on top of the hills. Elena visited the Pena Palace on a misty Tuesday morning. The palace is bright yellow and red, and it looks amazing against the green trees. She took out her professional camera because she wanted to take a perfect [photo] of the architecture. She spent a long time finding the best angle. Suddenly, the mist cleared and the sun started to shine on the palace walls. It was a beautiful moment. Elena clicked the button and captured the magic of the scene. Later that day, she showed the picture to her friends on social media. Everyone was amazed by the colors and the beauty of Sintra. Elena decided that this was her favorite place in the whole country. She bought a small frame in a local shop so she could hang the picture in her living room back home...",
+      "A Fairy Tale Town",
+      "photo: Fotoğraf demektir. 'Take a photo' (fotoğraf çekmek) kalıbı ile kullanılır; 'make' veya 'do' fiilleri ile kullanılmaz."
+    ],
+    [
+      "ask",
+      "Traveling in a foreign country can be difficult if you don't know the language well. When David arrived at the Santa Apolónia station in Lisbon, he didn't know which train to take to go to Fatima. He looked at the big screens, but there was too much information. He decided to [ask] a station worker for some help. The worker was very busy, but he stopped to listen to David's question. He explained that the next train was on platform five and it was leaving in ten minutes. David thanked him and ran towards the platform. He was very happy that he decided to speak up. On the train, he met another traveler and they started talking. He learned that it is always better to reach out to people when you are unsure. By the time he arrived in Fatima, he felt much more confident about navigating the Portuguese transport system. He enjoyed his trip and learned many new things...",
+      "Finding the Way",
+      "ask: Sormak veya istemek (ask for) demektir. Birinden yardım istemek için 'ask for help' kalıbı sıkça kullanılır."
+    ],
+    [
+      "bird",
+      "The Azores are a group of islands in the middle of the Atlantic Ocean. They are famous for their green volcanoes, blue lakes, and unique nature. One of the most special things about these islands is the wildlife. While hiking on the island of São Miguel, Peter saw a very rare [bird] sitting on a volcanic rock. It had bright feathers and a very strange song. Peter stayed very quiet because he didn't want to scare it away. He watched it through his binoculars for a long time. The animal was looking for small insects in the grass. Suddenly, it flew high into the sky towards the ocean. Peter felt very lucky because not many people see this species in the wild. He wrote about this moment in his travel diary. He realized that the Azores are a paradise for people who love animals and nature. He spent the rest of his trip exploring the forests and hoping to see more hidden treasures...",
+      "The Island Treasure",
+      "bird: Kuş demektir. Portekiz'in Azor adaları, özellikle kuş gözlemciliği (bird watching) için dünyanın en önemli noktalarından biridir."
+    ],
+    [
+      "south",
+      "Portugal is a small country, but it has a very diverse landscape. In the north, there are many mountains and green forests. In the [south], the weather is much warmer and the beaches are famous all over Europe. This region is called the Algarve. Many people go there in the summer to swim in the clear blue water and enjoy the sun. The coastline has many beautiful caves and tall cliffs. There are also many small fishing villages where you can eat the best grilled sardines in the world. The life in this part of the country is very relaxed and slow. Tourists love to walk along the sandy beaches in the evening. The sunsets are spectacular and the sky turns orange and purple. For many people, a holiday in this region is the perfect way to forget about their stress and enjoy the beauty of the Mediterranean climate...",
+      "The Sunny Algarve",
+      "south: Güney demektir. Portekiz'in güney bölgesi (Algarve), sıcak iklimi ve turistik plajlarıyla tanınır. Yön isimleri genelde 'the' ile kullanılır (in the south)."
+    ],
+    [
+      "tall",
+      "In the city of Lisbon, there is a very famous structure called the Santa Justa Lift. It was built over a hundred years ago and it is made of iron. It is a very [tall] tower that connects the lower streets of the city to the higher square of Carmo. When you stand at the bottom, you have to look high up to see the top. Many people wait in line to ride the elevator to the terrace. From the top, you can see the whole city, including the castle and the river. The view is absolutely breathtaking, especially at sunset. The elevator is not only a tourist attraction but also a piece of art. It was designed by a student of Gustave Eiffel, who built the Eiffel Tower in Paris. It reminds everyone of the industrial history of the city. Visiting this tower is a must for anyone who wants to see Lisbon from a different perspective...",
+      "A View from Above",
+      "tall: Uzun veya yüksek demektir. İnsanlar, binalar veya kuleler gibi dikey uzunluklar için 'tall', yollar veya nehirler gibi yatay uzunluklar için 'long' kullanılır."
+    ]
   ]
 }
