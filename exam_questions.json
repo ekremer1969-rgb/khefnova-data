@@ -1,7 +1,7 @@
 [
   {
     "name": "YDT/YDS Sorular (60-70)",
-    "levelInfo": "A1, A2, B1, B2, C2",
+    "levelInfo": "A1, A2, B1, B2, C1",
     "type": "word",
     "words": [
       ["ability", "VOCAB", "Eagles have the amazing _____ to see small prey from far away.", "[ability]", "construction", "slightly", "suddenly", "reach", "Kartalların yüksekten uçup küçük avları avlaması (amaç/sebep), onların çok uzaktan görebilme konusunda harika bir 'yeteneğe, kabiliyete' (sonuç özelliği) sahip olmalarını gerektirir. Yetenek anlamındaki '[ability]' ismi doğru cevaptır."],
@@ -1760,7 +1760,7 @@
   },
   {
     "name": "YDT/YDS Sorular (70-85)",
-    "levelInfo": "A1, A2, B1, B2, C2",
+    "levelInfo": "A1, A2, B1, B2, C1",
     "type": "word",
     "words": [
       ["abolish", "EN-TR", "The leader fought hard to [abolish] the unfair taxes in the country.", "Lider, ülkedeki adaletsiz vergileri kaldırmak için sıkı bir şekilde mücadele etti.", "Liderin sıkı bir şekilde mücadele etmesi ülkedeki adaletsiz vergileri kaldırdı.", "Ülkedeki adaletsiz vergileri kaldırmak liderin sıkı bir mücadelesini gerektirdi.", "Lider ülkedeki adaletsiz vergilerle savaşarak onları tamamen ortadan kaldırdı.", "Ülkedeki adaletsiz vergiler liderin onlarla sıkıca savaşmasıyla ortadan kalktı.", "'[abolish]' kelimesi 'kaldırmak, feshetmek' anlamındadır. Vergilerin adaletsiz olması (sebep durumu), liderin bunları kaldırmak amacıyla savaşmasına (sonuç eylemi) yol açmıştır. 'To abolish' amaç yapısı ilk şıkta tamdır."],
@@ -3005,7 +3005,7 @@
   },
   {
     "name": "YDT/YDS Sorular (85 üstü)",
-    "levelInfo": "A1, A2, B1, B2, C2",
+    "levelInfo": "A1, A2, B1, B2, C1",
     "type": "word",
     "words": [
       ["albeit", "VOCAB", "He accepted the extremely low salary, _____ with great reluctance and deep sadness.", "[albeit]", "identical", "mature", "ongoing", "intermediate", "Son derece düşük bir maaşı kabul etmek (eylem) ile bunu büyük bir isteksizlik ve üzüntüyle yapmak (durum) arasında bir tezat vardır. İki cümleyi '-e rağmen, gerçi' anlamıyla zıtlık kurarak bağlayan kelime '[albeit]' olmalıdır."],
@@ -14538,7 +14538,7 @@
   },
   {
     "name": "Hap Bilgiler Sorular (60-70)",
-    "levelInfo": "A2, B1, B2",
+    "levelInfo": "A1, A2, B1, B2, C1",
     "type": "grammar",
     "words": [
       ["Abate, Mitigate", "VOCAB", "The experienced doctor immediately prescribed a strong painkiller in order to [mitigate] the severe pain in the patient's injured leg.", "[mitigate]", "escalate", "trigger", "boost", "provoke", "Doktorun, hastanın bacağındaki şiddetli ağrıyı 'hafifletmek / azaltmak' için güçlü bir ağrı kesici yazdığı kurgulanmıştır.\nAcı, kriz veya felaketlerin etkisini yatıştırmak anlamında 'mitigate' veya 'abate' fiilleri kullanılır. 'Escalate' ve 'trigger' ağrıyı daha da artıracağı için eksi-artı mantığıyla elenir."],
@@ -14677,7 +14677,7 @@
   },
   {
     "name": "Hap Bilgiler Sorular (70-85)",
-    "levelInfo": "A2, B1, B2",
+    "levelInfo": "A1, A2, B1, B2, C1",
     "type": "grammar",
     "words": [
       ["A number of vs. The number of - Translation", "VOCAB", "Because of the heavy snowstorm, [a number of] schools in the district are closed today.", "[a number of]", "the number of", "every", "each", "much", "Cümlenin yüklemi 'are closed' (çoğul) olduğu için özne 'pek çok okul' anlamına gelen 'a number of' kalıbı olmalıdır.\nEğer boşluğa 'the number of' (sayısı) gelseydi, yüklem tekil (is closed) olmak zorundaydı."],
@@ -15344,7 +15344,7 @@
   },
   {
     "name": "Hap Bilgiler Sorular (85 üstü)",
-    "levelInfo": "A2, B1, B2",
+    "levelInfo": "A1, A2, B1, B2, C1",
     "type": "grammar",
     "words": [
       ["A number of vs. The number of - Verb Agreement", "VOCAB", "Because of the newly assigned popular teacher, [the number of] students in the language class is increasing every single day.", "[the number of]", "a number of", "a lot of", "many", "several", "Cümlenin yüklemi 'is increasing' (tekil) olduğu için 'öğrencilerin sayısı' anlamına gelen 'the number of' kalıbı seçilmelidir.\n'A number of' (pek çok) çoğul yüklem (are) gerektirdiği için elenir."],
