@@ -1,0 +1,31 @@
+name: Purge jsDelivr cache
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'ready_collections_*.json'
+      - 'version.json'
+      - 'exam_questions.json'
+  workflow_dispatch:
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Purge jsDelivr cache
+        run: |
+          REPO="ekremer1969-rgb/khefnova-data"
+          BRANCH="main"
+          FILES=$(ls ready_collections_*.json 2>/dev/null; echo version.json; echo exam_questions.json)
+          for file in $FILES; do
+            if [ -f "$file" ]; then
+              URL="https://purge.jsdelivr.net/gh/$REPO@$BRANCH/$file"
+              echo "Purging: $URL"
+              curl -sS "$URL" || echo "Purge failed for $file"
+              echo ""
+            fi
+          done
