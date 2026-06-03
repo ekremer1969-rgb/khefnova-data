@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "episodes": [
+    {
+      "id": "intro_spaced",
+      "monthsAfterInstall": 0,
+      "levels": ["A1", "A2", "B1", "B2", "C1"],
+      "topic": "Aralıklı Tekrar",
+      "message": "KhefNova'nın temelindeki yöntem: aralıklı tekrar. Neden işe yaradığını kısa videolarla anla — öğrendiklerin kalıcı olsun.",
+      "videos": [
+        { "duration": "11 dk", "url": "https://www.youtube.com/watch?v=RsCeJx_87JA" },
+        { "duration": "9 dk", "url": "https://www.youtube.com/watch?v=bw-c5MoP-Jk" },
+        { "duration": "11 dk", "url": "https://www.youtube.com/watch?v=4MPIDqQOs6c" },
+        { "duration": "9 dk", "url": "https://www.youtube.com/watch?v=EMlNstwTHfU" }
+      ]
+    },
+    {
+      "id": "m2_lower_memory",
+      "monthsAfterInstall": 2,
+      "levels": ["A1", "A2"],
+      "topic": "Hafıza Teknikleri",
+      "message": "Kelimeleri daha kolay aklında tutmak için pratik hafıza teknikleri.",
+      "videos": [
+        { "duration": "4 dk", "url": "https://www.youtube.com/watch?v=w0GQ0ktoy_A" },
+        { "duration": "14 dk", "url": "https://www.youtube.com/watch?v=5t0vz6eEidM" },
+        { "duration": "5 dk", "url": "https://www.youtube.com/watch?v=LTKBQXsg1-8&list=PLLQLkh-RTydN0y1azpQD9srDrldoTEV3f" },
+        { "duration": "17 dk", "url": "https://www.youtube.com/watch?v=OWlTvFESGpI" }
+      ]
+    },
+    {
+      "id": "m2_upper_recall",
+      "monthsAfterInstall": 2,
+      "levels": ["B1", "B2", "C1"],
+      "topic": "Aktif Hatırlama",
+      "message": "Pasif okumak yerine aktif hatırlama: bilgiyi beynine geri çağırarak öğrenmeyi güçlendir.",
+      "videos": [
+        { "duration": "12 dk", "url": "https://www.youtube.com/watch?v=nsZkote-nCw" },
+        { "duration": "11 dk", "url": "https://www.youtube.com/watch?v=a5NWJMI0h5A" },
+        { "duration": "6 dk", "url": "https://www.youtube.com/watch?v=qGgi2ZX4tGw" },
+        { "duration": "12 dk (İng.)", "url": "https://www.youtube.com/watch?v=MSq-KGj_cnY" }
+      ]
+    },
+    {
+      "id": "m4_lower_recall",
+      "monthsAfterInstall": 4,
+      "levels": ["A1", "A2"],
+      "topic": "Aktif Hatırlama",
+      "message": "Pasif okumak yerine aktif hatırlama: bilgiyi beynine geri çağırarak öğrenmeyi güçlendir.",
+      "videos": [
+        { "duration": "12 dk", "url": "https://www.youtube.com/watch?v=nsZkote-nCw" },
+        { "duration": "11 dk", "url": "https://www.youtube.com/watch?v=a5NWJMI0h5A" },
+        { "duration": "6 dk", "url": "https://www.youtube.com/watch?v=qGgi2ZX4tGw" },
+        { "duration": "12 dk (İng.)", "url": "https://www.youtube.com/watch?v=MSq-KGj_cnY" }
+      ]
+    },
+    {
+      "id": "m4_upper_motivation",
+      "monthsAfterInstall": 4,
+      "levels": ["B1", "B2", "C1"],
+      "topic": "Ders Çalışma Motivasyonu",
+      "message": "Yolun ortasında motivasyonu canlı tutmak için: çalışma disiplini ve azim üzerine.",
+      "videos": [
+        { "duration": "10 dk", "url": "https://www.youtube.com/watch?v=JKBLEi-LLBE" },
+        { "duration": "6 dk", "url": "https://www.youtube.com/watch?v=zAvWlLh0Jb0" },
+        { "duration": "6 dk", "url": "https://www.youtube.com/watch?v=NYOIoxH-Qoo" },
+        { "duration": "10 dk", "url": "https://www.youtube.com/watch?v=_PV_SBFJS74" }
+      ]
+    },
+    {
+      "id": "m6_lower_understand_speak",
+      "monthsAfterInstall": 6,
+      "levels": ["A1", "A2"],
+      "topic": "Anlıyorum ama Konuşamıyorum",
+      "message": "Anlıyorsun ama konuşmaya gelince tıkanıyor musun? Bu engeli aşmanın yolları.",
+      "videos": [
+        { "duration": "11 dk", "url": "https://www.youtube.com/watch?v=tyEYxbifO-4" },
+        { "duration": "9 dk", "url": "https://www.youtube.com/watch?v=UXXcFjb_aNg" },
+        { "duration": "12 dk", "url": "https://www.youtube.com/watch?v=WU3KEJtqoI0" },
+        { "duration": "17 dk", "url": "https://www.youtube.com/watch?v=_6Xdx8S-Tx8" }
+      ]
+    },
+    {
+      "id": "m6_upper_think_english",
+      "monthsAfterInstall": 6,
+      "levels": ["B1", "B2", "C1"],
+      "topic": "İngilizce Düşünme",
+      "message": "Akıcılığın anahtarı: çeviri yapmadan doğrudan İngilizce düşünmeye geçmek.",
+      "videos": [
+        { "duration": "4 dk", "url": "https://www.youtube.com/watch?v=iKb6LlRt4lc" },
+        { "duration": "5 dk", "url": "https://www.youtube.com/watch?v=sjkkVnsiOCA" },
+        { "duration": "14 dk", "url": "https://www.youtube.com/watch?v=n4BR6iNpBTI" },
+        { "duration": "11 dk", "url": "https://www.youtube.com/watch?v=gPjsRJdWVgs" }
+      ]
+    },
+    {
+      "id": "m8_all_fear_of_mistakes",
+      "monthsAfterInstall": 8,
+      "levels": ["A1", "A2", "B1", "B2", "C1"],
+      "topic": "Hata Yapma Korkusu",
+      "message": "Konuşurken hata yapmaktan korkma — hata, öğrenmenin parçası. Bu korkuyu yenmenin yolları.",
+      "videos": [
+        { "duration": "13 dk", "url": "https://www.youtube.com/watch?v=Lze11riXGcE" },
+        { "duration": "8 dk", "url": "https://www.youtube.com/watch?v=4Hm6ZBKqDrk" },
+        { "duration": "18 dk", "url": "https://www.youtube.com/watch?v=GonVoqD02v0" },
+        { "duration": "15 dk", "url": "https://www.youtube.com/watch?v=XYrzazvPS9A" },
+        { "duration": "9 dk", "url": "https://www.youtube.com/watch?v=yHN_i-vI7J0" }
+      ]
+    }
+  ]
+}
