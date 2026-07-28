@@ -23,7 +23,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "leaves absorb harmful gases",
-      "why_correct": "Paragraftaki agac dikme cumlesi yapraklarin zararli gazlari emerek havayi temizledigini acikca belirtmektedir."
+      "why_correct": "Paragraftaki ağaç dikme cümlesi yaprakların zararlı gazları emerek havayı temizlediğini açıkça belirtmektedir."
     }
   },
   {
@@ -50,7 +50,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "using phones too much can cause eye strain",
-      "why_correct": "Metindeki sonlara dogru gecen cumle telefonlarin asiri kullaniminin goz yorgunluguna yol acabilecegini aciklar."
+      "why_correct": "Metindeki sonlara doğru geçen cümle telefonların aşırı kullanımının göz yorgunluğuna yol açabileceğini açıklar."
     }
   },
   {
@@ -77,7 +77,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Fresh fruits and vegetables contain vital vitamins that protect us from illnesses",
-      "why_correct": "Paragraf taze meyve ve sebzelerin icerdigi vitaminler sayesinde bizi hastaliklardan korudugunu belirtir."
+      "why_correct": "Paragraf taze meyve ve sebzelerin içerdiği vitaminler sayesinde bizi hastalıklardan koruduğunu belirtir."
     }
   },
   {
@@ -104,7 +104,7 @@
       ],
       "correct_key": "C",
       "evidence_snippet": "These giant structures served as tombs for their rulers, known as pharaohs",
-      "why_correct": "Metindeki ikinci cumle bu dev yapilarin firavun olarak bilinen hukumdarlar icin mezar gorevi gordugunu acikca ifade eder."
+      "why_correct": "Metindeki ikinci cümle bu dev yapıların firavun olarak bilinen hükümdarlar için mezar görevi gördüğünü açıkça ifade eder."
     }
   },
   {
@@ -131,7 +131,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Reading simple stories in the target language helps build a strong vocabulary quickly",
-      "why_correct": "Paragraf hedef dilde basit hikayeler okumanin hizli bir sekilde guclu kelime bilgisi olusturmaya yardimci olacagini ifade etmektedir."
+      "why_correct": "Paragraf hedef dilde basit hikayeler okumanın hızlı bir şekilde güçlü kelime bilgisi oluşturmaya yardımcı olacağını ifade etmektedir."
     }
   },
   {
@@ -158,7 +158,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "monthly budget helps people track unnecessary expenses",
-      "why_correct": "Paragraf aylik bir butce yapmanin gereksiz harcamalarin kolayca takip edilmesine yardimci oldugunu belirtir."
+      "why_correct": "Paragraf aylık bir bütçe yapmanın gereksiz harcamaların kolayca takip edilmesine yardımcı olduğunu belirtir."
     }
   },
   {
@@ -185,7 +185,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Heat from the sun makes liquid water evaporate into vapor",
-      "why_correct": "Metindeki ikinci cumle gunes isisinin sivi suyun buharlasmasini sagladigini dogrudan soyler."
+      "why_correct": "Metindeki ikinci cümle güneş ısısının sıvı suyun buharlaşmasını sağladığını doğrudan söyler."
     }
   },
   {
@@ -212,7 +212,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "allow older generations to pass traditions to children",
-      "why_correct": "Paragraftaki ilgili cumle festivallerin yasli nesillerin gelenekleri cocuklara aktarmasina olanak tanidigini belirtmektedir."
+      "why_correct": "Paragraftaki ilgili cümle festivallerin yaşlı nesillerin gelenekleri çocuklara aktarmasına olanak tanıdığını belirtmektedir."
     }
   },
   {
@@ -239,7 +239,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "factories turn old bottles into new useful materials",
-      "why_correct": "Paragraf geri donusum yapildiginda fabrikalarin eski siseleri yeni yararli malzemelere donusturdugunu ifade eder."
+      "why_correct": "Paragraf geri dönüşüm yapıldığında fabrikaların eski şişeleri yeni yararlı malzemelere dönüştürdüğünü ifade eder."
     }
   },
   {
@@ -266,7 +266,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "these vehicles run on electric batteries",
-      "why_correct": "Metindeki ikinci cumle bu araclarin benzin yerine elektrikli bataryalarla calistigini net bir sekilde ifade etmektedir."
+      "why_correct": "Metindeki ikinci cümle bu araçların benzin yerine elektrikli bataryalarla çalıştığını net bir şekilde ifade etmektedir."
     }
   },
   {
@@ -293,7 +293,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Walking thirty minutes every day",
-      "why_correct": "Paragraf her gun otuz dakika yurumenin kalbi guclendirdigini ve ekstra kalori yaktigini dogrudan soyler."
+      "why_correct": "Paragraf her gün otuz dakika yürümenin kalbi güçlendirdiğini ve ekstra kalori yaktığını doğrudan söyler."
     }
   },
   {
@@ -320,7 +320,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "emperors built this wall to protect their country from enemies",
-      "why_correct": "Metindeki ikinci cumle antik imparatorlarin bu tasi ulkelerini dusmanlardan korumak icin insa ettiklerini soyler."
+      "why_correct": "Metindeki ikinci cümle antik imparatorların bu taşı ülkelerini düşmanlardan korumak için inşa ettiklerini söyler."
     }
   },
   {
@@ -347,7 +347,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "helps the mind relax for better sleep",
-      "why_correct": "Paragraf yatmadan once kitap okumanin zihni rahatlatarak daha iyi bir uykuya yardimci oldugunu belirtmektedir."
+      "why_correct": "Paragraf yatmadan önce kitap okumanın zihni rahatlatarak daha iyi bir uykuya yardımcı olduğunu belirtmektedir."
     }
   },
   {
@@ -374,7 +374,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "AI cannot replace the genuine human empathy needed for daily patient care",
-      "why_correct": "Paragraf yapay zekanin hasta bakimi icin gerekli olan insani empatinin yerini alamayacagini acikca belirtir."
+      "why_correct": "Paragraf yapay zekanın hasta bakımı için gerekli olan insani empatinin yerini alamayacağını açıkça belirtir."
     }
   },
   {
@@ -401,7 +401,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "communities sometimes complain about the loud noise and visual impact of these tall turbines",
-      "why_correct": "Metindeki dorduncu cumle yerel topluluklarin bu yuksek turbinlerin gurultusu ve gorsel etkisi hakkinda sikayetci oldugunu belirtir."
+      "why_correct": "Metindeki dördüncü cümle yerel toplulukların bu yüksek türbinlerin gürültüsü ve görsel etkisi hakkında şikayetçi olduğunu belirtir."
     }
   },
   {
@@ -428,7 +428,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Practicing mindfulness meditation regularly reduces cortisol levels and lowers high blood pressure",
-      "why_correct": "Metin duzenli meditasyon yapmanin kortizol seviyelerini azalttigini ve yuksek tansiyonu dusurdugunu aciklar."
+      "why_correct": "Metin düzenli meditasyon yapmanın kortizol seviyelerini azalttığını ve yüksek tansiyonu düşürdüğünü açıklar."
     }
   },
   {
@@ -455,7 +455,7 @@
       ],
       "correct_key": "C",
       "evidence_snippet": "artists introduced revolutionary techniques like linear perspective to create realistic paintings",
-      "why_correct": "Paragraf sanatcilarin gercekci resimler yapmak icin dogrusal perspektif gibi devrimci teknikler kullandigini acikca yazar."
+      "why_correct": "Paragraf sanatçıların gerçekçi resimler yapmak için doğrusal perspektif gibi devrimci teknikler kullandığını açıkça yazar."
     }
   },
   {
@@ -482,7 +482,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "virtual classrooms often lack the rich personal interactions found in physical schools",
-      "why_correct": "Metin sanal siniflarin fiziksel okullarda bulunan zengin kisisel etkilesimlerden yoksun oldugunu vurgulamaktadir."
+      "why_correct": "Metin sanal sınıfların fiziksel okullarda bulunan zengin kişisel etkileşimlerden yoksun olduğunu vurgulamaktadır."
     }
   },
   {
@@ -509,7 +509,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "local industries sometimes struggle to compete with low cost imported goods",
-      "why_correct": "Metin yerel sanayilerin bazen dusuk maliyetli ithal mallarla rekabet etmekte zorlandigini acikca ifade eder."
+      "why_correct": "Metin yerel sanayilerin bazen düşük maliyetli ithal mallarla rekabet etmekte zorlandığını açıkça ifade eder."
     }
   },
   {
@@ -536,7 +536,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "convert this solar energy along with carbon dioxide and water into glucose",
-      "why_correct": "Paragraf bitkilerin gunes enerjisini karbondioksit ve suyla birlikte glikoza donusturdugunu net bir sekilde ifade etmektedir."
+      "why_correct": "Paragraf bitkilerin güneş enerjisini karbondioksit ve suyla birlikte glikoza dönüştürdüğünü net bir şekilde ifade etmektedir."
     }
   },
   {
@@ -563,7 +563,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Turkish coffee is famous for its slow preparation",
-      "why_correct": "Paragraf Turk kahvesinin yavas hazirlanisiyla meshur oldugunu dogrudan belirtmektedir."
+      "why_correct": "Paragraf Türk kahvesinin yavaş hazırlanışıyla meşhur olduğunu doğrudan belirtmektedir."
     }
   },
   {
@@ -590,7 +590,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "creatures survive by using chemicals instead of sunlight for energy production",
-      "why_correct": "Metin bu canlilarin enerji uretimi icin gunes isigi yerine kimyasallari kullandigini belirtmektedir."
+      "why_correct": "Metin bu canlıların enerji üretimi için güneş ışığı yerine kimyasalları kullandığını belirtmektedir."
     }
   },
   {
@@ -617,7 +617,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "students use VR headsets to practice delicate surgical procedures without any risk to patients",
-      "why_correct": "Paragraf tip ogrencilerinin VR basliklarini hassas cerrahi prosedurleri hastalar icin risk olusturmadan uygulamak icin kullandigini aciklar."
+      "why_correct": "Paragraf tıp öğrencilerinin VR başlıklarını hassas cerrahi prosedürleri hastalar için risk oluşturmadan uygulamak için kullandığını açıklar."
     }
   },
   {
@@ -644,7 +644,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "light from screens suppresses melatonin, which is the hormone responsible for sleepiness",
-      "why_correct": "Paragraftaki ilgili cumle ekranlardan gelen mavi isigin uykululuk halinden sorumlu olan melatonin hormonunu baskiladigini soyler."
+      "why_correct": "Paragraftaki ilgili cümle ekranlardan gelen mavi ışığın uykululuk halinden sorumlu olan melatonin hormonunu baskıladığını söyler."
     }
   },
   {
@@ -671,7 +671,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "this network facilitated the exchange of religious beliefs and technologies",
-      "why_correct": "Metin bu agin sadece maddi ticaretle sinirli kalmayip dini inanclarin ve teknolojilerin degisimini de kolaylastirdigini belirtir."
+      "why_correct": "Metin bu ağın sadece maddi ticaretle sınırlı kalmayıp dini inançların ve teknolojilerin değişimini de kolaylaştırdığını belirtir."
     }
   },
   {
@@ -698,7 +698,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Central banks try to manage this issue by adjusting national interest rates",
-      "why_correct": "Metin merkez bankalarinin bu sorunu ulusal faiz oranlarini ayarlayarak yonetmeye calistigini dogrudan ifade eder."
+      "why_correct": "Metin merkez bankalarının bu sorunu ulusal faiz oranlarını ayarlayarak yönetmeye çalıştığını doğrudan ifade eder."
     }
   },
   {
@@ -725,7 +725,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "qubits can exist in a state of superposition, enabling the simultaneous processing of extremely massive datasets",
-      "why_correct": "Metindeki ucuncu cumle kubitlerin ayni anda devasa veri setlerini islemesine olanak taniyan durumun superpozisyon durumu oldugunu aciklar."
+      "why_correct": "Metindeki üçüncü cümle kübitlerin aynı anda devasa veri setlerini işlemesine olanak tanıyan durumun süperpozisyon durumu olduğunu açıklar."
     }
   },
   {
@@ -752,7 +752,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "neuroscientists believed that the adult brain was entirely static and incapable of structural alterations",
-      "why_correct": "Paragraf bilim insanlarinin yetiskin beyninin tamamen statik ve yapisal degisikliklerden yoksun olduguna dair eski inanclarinin modern goruntuleme ile curutuldugunu belirtir."
+      "why_correct": "Paragraf bilim insanlarının yetişkin beyninin tamamen statik ve yapısal değişikliklerden yoksun olduğuna dair eski inançlarının modern görüntüleme ile çürütüldüğünü belirtir."
     }
   },
   {
@@ -779,7 +779,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "undergoes chemical reactions that yield carbonic acid, thereby reducing pH levels",
-      "why_correct": "Metindeki ikinci cumle karbondioksitin deniz suyunda cozunmesiyle karbonik asit olustugunu ve pH seviyelerinin dustugunu acikca ifade eder."
+      "why_correct": "Metindeki ikinci cümle karbondioksitin deniz suyunda çözünmesiyle karbonik asit oluştuğunu ve pH seviyelerinin düştüğünü açıkça ifade eder."
     }
   },
   {
@@ -806,7 +806,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "skeptics frequently point to extreme price volatility and significant energy consumption as major barriers to global adoption",
-      "why_correct": "Paragraftaki ilgili cumle kripto para karsitlarinin asiri fiyat dalgalanmasi ve yuksek enerji tuketimini buyuk engeller olarak gordugunu belirtir."
+      "why_correct": "Paragraftaki ilgili cümle kripto para karşıtlarının aşırı fiyat dalgalanması ve yüksek enerji tüketimini büyük engeller olarak gördüğünü belirtir."
     }
   },
   {
@@ -833,7 +833,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "overcrowded cities, creating unprecedented public health challenges due to poor sanitation",
-      "why_correct": "Paragraf ailelerin kalabalik sehirlere goc etmesinin yetersiz sanitasyon nedeniyle benzeri gorulmemis halk sagligi sorunlarina yol actigini belirtir."
+      "why_correct": "Paragraf ailelerin kalabalık şehirlere göç etmesinin yetersiz sanitasyon nedeniyle benzeri görülmemiş halk sağlığı sorunlarına yol açtığını belirtir."
     }
   },
   {
@@ -841,7 +841,7 @@
     "type": "regression_lock",
     "topic": "Science (Genetic Engineering)",
     "level": "hard",
-    "paragraph_raw": "CRISPR gene editing technology has revolutionized the field of biotechnology, allowing scientists to modify genomic sequences with unparalleled precision. By utilizing a specialized enzyme to cut DNA strands at exact locations, researchers can disable harmful mutations or insert beneficial traits. This molecular tool holds immense potential for eradicating hereditary disorders and developing resilient crops capable of surviving harsh climates. Nevertheless, the possibility of off target mutations and the ethical implications of modifying human embryos raise severe concerns among global bioethicists. International regulatory consensus remains crucial to govern the deployment of this transformative biotechnology.",
+    "paragraph_raw": "CRISPR gene editing technology has revolutionized the field of biotechnology, allowing scientists to modify genomic sequences with unparalleled precision. By utilizing a specialized enzyme to cut DNA strands at exact locations, researchers can disable harmful mutations or insert beneficial traits. This molecular tool holds immense potential for eradicating hereditary disorders and developing resilient crops capable of surviving harsh climates. Nevertheless, the possibility of off target mutations and the ethical implications of modifying human embryos raise severe concerns among global bioethicists. International regulatory consensus remains crucial to govern the deployment of this transformative technology.",
     "comprehension_question": {
       "question_text": "According to the passage, what specific risk associated with CRISPR raises severe concerns among bioethicists?",
       "options": [
@@ -860,7 +860,7 @@
       ],
       "correct_key": "C",
       "evidence_snippet": "possibility of off target mutations and the ethical implications of modifying human embryos raise severe concerns",
-      "why_correct": "Metindeki dorduncu cumle hedef disi mutasyon olasiligi ve insan embriyolarini degistirmenin etik sonuclarinin ciddi endiseler yarattigini acikca yazar."
+      "why_correct": "Metindeki dördüncü cümle hedef dışı mutasyon olasılığı ve insan embriyolarını değiştirmenin etik sonuçlarının ciddi endişeler yarattığını açıkça yazar."
     }
   },
   {
@@ -887,7 +887,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "human error, such as falling victim to phishing schemes, remains the most vulnerable entry point for attackers",
-      "why_correct": "Paragraf guvenlik analistlerinin oltama saldirilarina kurban gitmek gibi insan hatalarini saldirganlar icin en zayif giris noktasi olarak gorduklerini belirtir."
+      "why_correct": "Paragraf güvenlik analistlerinin oltalama saldırılarına kurban gitmek gibi insan hatalarını saldırganlar için en zayıf giriş noktası olarak gördüklerini belirtir."
     }
   },
   {
@@ -914,7 +914,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "traditional apprenticeship, physical skills are demonstrated and replicated, whereas cognitive apprenticeship focuses on abstract intellectual metacognitive skills",
-      "why_correct": "Metindeki ikinci cumle geleneksel ciraklikta fiziksel becerilerin gosterildigini, bilissel cirakligin ise soyut zihinsel becerilere odaklandigini belirtir."
+      "why_correct": "Metindeki ikinci cümle geleneksel çıraklıkta fiziksel becerilerin gösterildiğini, bilişsel çıraklığın ise soyut zihinsel becerilere odaklandığını belirtir."
     }
   },
   {
@@ -941,7 +941,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "when a language perishes, unique cultural worldviews and localized environmental knowledge are permanently lost",
-      "why_correct": "Metin dilbilimcilerin bir dil yok oldugunda benzersiz kulturel dunya goruslerinin ve yerel cevresel bilgilerin kalici olarak kaybolacagi uyarisini aktarmaktadir."
+      "why_correct": "Metin dilbilimcilerin bir dil yok olduğunda benzersiz kültürel dünya görüşlerinin ve yerel çevresel bilgilerin kalıcı olarak kaybolacağı uyarısını aktarmaktadır."
     }
   },
   {
@@ -968,7 +968,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Standard economic models traditionally assume that individuals are perfectly rational agents who always seek to maximize their personal utility",
-      "why_correct": "Paragraf standart ekonomik modellerin bireyleri her zaman kisisel faydalarini maksimize etmeye calisan mukemmel derecede rasyonel temsilciler olarak kabul ettigini belirtir."
+      "why_correct": "Paragraf standart ekonomik modellerin bireyleri her zaman kişisel faydalarını maksimize etmeye çalışan mükemmel derecede rasyonel temsilciler olarak kabul ettiğini belirtir."
     }
   },
   {
@@ -995,7 +995,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "utilizing pendentives, which are triangular supports that distribute the immense weight of the dome to four massive pillars",
-      "why_correct": "Metindeki ikinci cumle mimarlarin kubbenin devasa agirligini dort buyuk sutuna dagitan ucgen destekler yani pandantifler kullanarak bu yapi basarisini elde ettigini aciklar."
+      "why_correct": "Metindeki ikinci cümle mimarların kubbenin devasa ağırlığını dört büyük sütuna dağıtan üçgen destekler yani pandantifler kullanarak bu yapı başarısını elde ettiğini açıklar."
     }
   },
   {
@@ -1022,7 +1022,7 @@
       ],
       "correct_key": "C",
       "evidence_snippet": "volcanic activity and cosmic radiation can mimic these chemical structures, complicating definitive scientific conclusions",
-      "why_correct": "Metin volkanik faaliyetlerin ve kozmik radyasyonun bu kimyasal yapilari taklit edebilecegini ve bu durumun kesin bilimsel sonuclari zorlastirdigini belirtir."
+      "why_correct": "Metin volkanik faaliyetlerin ve kozmik radyasyonun bu kimyasal yapıları taklit edebileceğini ve bu durumun kesin bilimsel sonuçları zorlaştırdığını belirtir."
     }
   },
   {
@@ -1049,7 +1049,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "harnesses the patient's own immune system to target and destroy malignant cells",
-      "why_correct": "Paragraf immunoterapinin hastanin kendi bagisiklik sistemini kanserli hücreleri hedef almak ve yok etmek icin kullandigini belirterek farkini aciklar."
+      "why_correct": "Paragraf immünoterapinin hastanın kendi bağışıklık sistemini kanserli hücreleri hedef almak ve yok etmek için kullandığını belirterek farkını açıklar."
     }
   },
   {
@@ -1076,7 +1076,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "protecting isolated habitats is insufficient; maintaining large wildlife corridors is crucial for genetic exchange",
-      "why_correct": "Metin sadece izole habitatlari korumanin yetersiz oldugunu ve populasyonlar arasinda genetik alisveris icin yaban hayati koridorlarinin surdurulmesi gerektigini vurgular."
+      "why_correct": "Metin sadece izole habitatları korumanın yetersiz olduğunu ve popülasyonlar arasında genetik alışveriş için yaban hayatı koridorlarının sürdürülmesi gerektiğini vurgular."
     }
   },
   {
@@ -1103,7 +1103,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Robotic rovers on Mars collect soil samples",
-      "why_correct": "Metnin ilk cumlesi robotik araclarin antik su izlerini aramak icin toprak ornekleri topladigini aciklar."
+      "why_correct": "Metnin ilk cümlesi robotik araçların antik su izlerini aramak için toprak örnekleri topladığını açıklar."
     }
   },
   {
@@ -1130,7 +1130,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "corals to lose their vibrant colors and weaken",
-      "why_correct": "Ikinci cumle okyanus sicakliklarinin artmasinin mercanlarin canli renklerini kaybetmesine ve zayiflamasina yol actigini belirtir."
+      "why_correct": "İkinci cümle okyanus sıcaklıklarının artmasının mercanların canlı renklerini kaybetmesine ve zayıflamasına yol açtığını belirtir."
     }
   },
   {
@@ -1157,7 +1157,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "uses stacked layers and artificial lights instead of traditional soil",
-      "why_correct": "Ikinci cumle dikey tarim yonteminin geleneksel toprak yerine ust uste dizilmis katmanlar ve yapay isiklar kullandigini ifade eder."
+      "why_correct": "İkinci cümle dikey tarım yönteminin geleneksel toprak yerine üst üste dizilmiş katmanlar ve yapay ışıklar kullandığını ifade eder."
     }
   },
   {
@@ -1184,7 +1184,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "relied solely on gravity to move water",
-      "why_correct": "Ikinci cumlede su kemerlerinin suyu uzun mesafelere tasimak icin sadece yercekimine guvendigi acikca belirtilmistir."
+      "why_correct": "İkinci cümlede su kemerlerinin suyu uzun mesafelere taşımak için sadece yerçekimine güvendiği açıkça belirtilmiştir."
     }
   },
   {
@@ -1211,7 +1211,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "by destroying harmful bacteria or stopping them from reproducing",
-      "why_correct": "Ikinci cumle antibiyotiklerin zararli bakterileri yok ederek veya uremelerini durdurarak calistigini dogrudan bildirir."
+      "why_correct": "İkinci cümle antibiyotiklerin zararlı bakterileri yok ederek veya üremelerini durdurarak çalıştığını doğrudan bildirir."
     }
   },
   {
@@ -1229,7 +1229,7 @@
         },
         {
           "key": "B",
-          "text": "They can detect sudden falls and send emergency alerts."
+          "text": "They can detect sudden falls and send emergency alerts automatically."
         },
         {
           "key": "C",
@@ -1238,7 +1238,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "detect sudden falls and send emergency alerts automatically",
-      "why_correct": "Ucuncu cumle bazi akilli saat modellerinin ani dususleri algilayip otomatik olarak acil durum uyarisi gonderebildigini dogrulamaktadir."
+      "why_correct": "Üçüncü cümle bazı akıllı saat modellerinin ani düşüşleri algılayıp otomatik olarak acil durum uyarısı gönderebildiğini doğrulamaktadır."
     }
   },
   {
@@ -1265,7 +1265,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "absorb carbon dioxide from the atmosphere",
-      "why_correct": "Ikinci cumlede genc agaclarin buyurken atmosferdeki karbondioksiti emdigi acikca belirtilmistir."
+      "why_correct": "İkinci cümlede genç ağaçların büyürken atmosferdeki karbondioksiti emdiği açıkça belirtilmiştir."
     }
   },
   {
@@ -1292,7 +1292,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "improves cognitive flexibility",
-      "why_correct": "Ilk cumle erken yasta ikinci bir dil ogrenmenin bilissel esnekligi artirdigini net bir sekilde ifade eder."
+      "why_correct": "İlk cümle erken yaşta ikinci bir dil öğrenmenin bilişsel esnekliği artırdığını net bir şekilde ifade eder."
     }
   },
   {
@@ -1319,7 +1319,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "use magnetic levitation to eliminate friction",
-      "why_correct": "Ucuncu cumle modern yuksek hizli trenlerin surtunmeyi ortadan kaldirmak icin manyetik levitasyon kullandigini aciklar."
+      "why_correct": "Üçüncü cümle modern yüksek hızlı trenlerin sürtünmeyi ortadan kaldırmak için manyetik levitasyon kullandığını açıklar."
     }
   },
   {
@@ -1346,7 +1346,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "use beams of electrons instead of light",
-      "why_correct": "Ikinci cumle elektron mikroskoplarinin goruntu olusturmak icin isik yerine elektron demetleri kullandigini belirtmektedir."
+      "why_correct": "İkinci cümle elektron mikroskoplarının görüntü oluşturmak için ışık yerine elektron demetleri kullandığını belirtmektedir."
     }
   },
   {
@@ -1373,7 +1373,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "processes daily memories and clears out toxic waste",
-      "why_correct": "Ikinci cumle uyku sirasinda beynin gunluk anilari isledigini ve toksik atiklari temizledigini acikca yazar."
+      "why_correct": "İkinci cümle uyku sırasında beynin günlük anıları işlediğini ve toksik atıkları temizlediğini açıkça yazar."
     }
   },
   {
@@ -1400,7 +1400,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "used natural minerals and charcoal",
-      "why_correct": "Ikinci cumle ilk sanatcilarin tas duvarlara resim yapmak icin dogal mineraller ve komur kullandigini belirtir."
+      "why_correct": "İkinci cümle ilk sanatçıların taş duvarlara resim yapmak için doğal mineraller ve kömür kullandığını belirtir."
     }
   },
   {
@@ -1418,7 +1418,7 @@
         },
         {
           "key": "B",
-          "text": "Free access to books, digital computers, and workshops."
+          "text": "Free access to thousands of books, digital computers, and educational workshops."
         },
         {
           "key": "C",
@@ -1427,7 +1427,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "free access to thousands of books, digital computers, and educational workshops",
-      "why_correct": "Ikinci cumle halk kutuphanelerinin kitaplara, bilgisayarlara ve calisaylara ucretsiz erisim sundugunu belirtmektedir."
+      "why_correct": "İkinci cümle halk kütüphanelerinin kitaplara, bilgisayarlara ve çalıştaylara ücretsiz erişim sunduğunu belirtmektedir."
     }
   },
   {
@@ -1445,7 +1445,7 @@
         },
         {
           "key": "B",
-          "text": "Sea creatures mistake them for food, leading to injuries and poisoning."
+          "text": "Sea creatures mistake them for food, leading to internal injuries and chemical poisoning."
         },
         {
           "key": "C",
@@ -1454,7 +1454,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Sea creatures often mistake microplastics for food, which leads to internal injuries and chemical poisoning",
-      "why_correct": "Ucuncu cumle deniz canlilarinin mikroplastikleri yiyecek sanarak tukettigini ve bunun yaralanma ile zehirlenmeye yol actigini belirtir."
+      "why_correct": "Üçüncü cümle deniz canlılarının mikroplastikleri yiyecek sanarak tükettiğini ve bunun yaralanma ile zehirlenmeye yol açtığını belirtir."
     }
   },
   {
@@ -1481,7 +1481,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "facilitated the spread of religions, scientific knowledge, and artistic styles",
-      "why_correct": "Ucuncu cumle Ipek Yolu'nun fiziki ticaretin otesinde dinlerin, bilimsel bilginin ve sanatsal tarzlarin yayilmasini kolaylastirdigini belirtir."
+      "why_correct": "Üçüncü cümle İpek Yolu'nun fiziki ticaretin ötesinde dinlerin, bilimsel bilginin ve sanatsal tarzların yayılmasını kolaylaştırdığını belirtir."
     }
   },
   {
@@ -1508,7 +1508,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "produces glucose, which serves as food for the plant",
-      "why_correct": "Ucuncu cumlede fotosentez reaksiyonunun bitki icin besin gorevi goren glukoz urettigi acikca belirtilmistir."
+      "why_correct": "Üçüncü cümlede fotosentez reaksiyonunun bitki için besin görevi gören glikoz ürettiği açıkça belirtilmiştir."
     }
   },
   {
@@ -1535,7 +1535,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "build objects layer by layer using digital designs",
-      "why_correct": "Ikinci cumle uct boyutlu yazicilarin nesneleri dijital tasarimlar kullanarak katman katman insa ettigini aciklar."
+      "why_correct": "İkinci cümle üç boyutlu yazıcıların nesneleri dijital tasarımlar kullanarak katman katman inşa ettiğini açıklar."
     }
   },
   {
@@ -1553,7 +1553,7 @@
         },
         {
           "key": "B",
-          "text": "They analyze the structure of a virus to identify immune triggers."
+          "text": "They analyze the structure of a virus to identify components that trigger an immune response."
         },
         {
           "key": "C",
@@ -1562,7 +1562,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "analyze the structure of a virus to identify components that trigger an immune response",
-      "why_correct": "Ikinci cumle bilim insanlarinin yeni bir asi gelistirirken ilk olarak virusun yapisini inceleyip bagisiklik yanitini tetikleyen bilesenleri belirledigini soyler."
+      "why_correct": "İkinci cümle bilim insanlarının yeni bir aşı geliştirirken ilk olarak virüsün yapısını inceleyip bağışıklık yanıtını tetikleyen bileşenleri belirlediğini söyler."
     }
   },
   {
@@ -1589,7 +1589,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "promotes better teamwork and reduces workplace conflicts",
-      "why_correct": "Ucuncu cumle duygusal zekanin profesyonel ortamlarda daha iyi takim calismasini tesvik ettigini ve catismalari azalttigini belirtir."
+      "why_correct": "Üçüncü cümle duygusal zekanın profesyonel ortamlarda daha iyi takım çalışmasını teşvik ettiğini ve çatışmaları azalttığını belirtir."
     }
   },
   {
@@ -1607,7 +1607,7 @@
         },
         {
           "key": "B",
-          "text": "By burying the Roman city under a thick layer of ash."
+          "text": "By burying the Roman city of Pompeii under ash."
         },
         {
           "key": "C",
@@ -1616,7 +1616,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "buried the Roman city of Pompeii under ash",
-      "why_correct": "Ilk cumle Yanardag patlamasinin Pompeii sehrini kul altinda birakarak korudugunu belirtmektedir."
+      "why_correct": "İlk cümle Yanardag patlamasının Pompeii şehrini kül altında bırakarak koruduğunu belirtmektedir."
     }
   },
   {
@@ -1634,7 +1634,7 @@
         },
         {
           "key": "B",
-          "text": "Group discussions, practical experiments, and problem-solving exercises."
+          "text": "involves activities like group discussions, practical experiments, and real-world problem-solving exercises."
         },
         {
           "key": "C",
@@ -1643,7 +1643,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "involves activities like group discussions, practical experiments, and real-world problem-solving exercises",
-      "why_correct": "Ikinci cumle aktif ogrenmenin grup tartismalari, deneyler ve problem cozme gibi etkinlikleri icerdigini belirtir."
+      "why_correct": "İkinci cümle aktif öğrenmenin grup tartışmaları, deneyler ve problem çözme gibi etkinlikleri içerdiğini belirtir."
     }
   },
   {
@@ -1661,7 +1661,7 @@
         },
         {
           "key": "B",
-          "text": "Every unit of national currency buys a smaller percentage of a good."
+          "text": "every unit of national currency buys a smaller percentage of a good."
         },
         {
           "key": "C",
@@ -1670,7 +1670,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "every unit of national currency buys a smaller percentage of a good",
-      "why_correct": "Ikinci cumle enflasyon doneminde ulusal para biriminin her biriminin daha az mal satin alabildigini ifade eder."
+      "why_correct": "İkinci cümle enflasyon döneminde ulusal para biriminin her biriminin daha az mal satın alabildiğini ifade eder."
     }
   },
   {
@@ -1688,7 +1688,7 @@
         },
         {
           "key": "B",
-          "text": "By applying organic compost and using natural predators."
+          "text": "apply organic compost to enrich the soil and use natural predators to control crop pests."
         },
         {
           "key": "C",
@@ -1697,7 +1697,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "apply organic compost to enrich the soil and use natural predators to control crop pests",
-      "why_correct": "Ikinci cumle organik ciftcilerin topragi zenginlestirmek icin organik kompost, zararlilarla mucadele icin ise dogal avcilar kullandigini belirtir."
+      "why_correct": "İkinci cümle organik çiftçilerin toprağı zenginleştirmek için organik kompost, zararlılarla mücadele için ise doğal avcılar kullandığını belirtir."
     }
   },
   {
@@ -1715,7 +1715,7 @@
         },
         {
           "key": "B",
-          "text": "Tectonic plates beneath the Earth surface suddenly shifting and releasing energy."
+          "text": "tectonic plates beneath the surface of the Earth suddenly shift and release energy."
         },
         {
           "key": "C",
@@ -1724,7 +1724,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "tectonic plates beneath the surface of the Earth suddenly shift and release energy",
-      "why_correct": "Ilk cumle depremlerin yer kabugunun altindaki tektonik levhalarin ani hareketi ve enerji aciga cikarmasiyla meydana geldigini belirtir."
+      "why_correct": "İlk cümle depremlerin yer kabuğunun altındaki tektonik levhaların ani hareketi ve enerji açığa çıkarmasıyla meydana geldiğini belirtir."
     }
   },
   {
@@ -1738,11 +1738,11 @@
       "options": [
         {
           "key": "A",
-          "text": "It eliminates the need for any digital communication platforms."
+          "text": "It eliminates the need for any digital collaboration platforms."
         },
         {
           "key": "B",
-          "text": "It reduces the need for expensive commercial office space."
+          "text": "reduces the need for expensive commercial office space."
         },
         {
           "key": "C",
@@ -1751,7 +1751,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "reduces the need for expensive commercial office space",
-      "why_correct": "Ikinci cumlede calisanlarin evden calismasina izin vermenin pahali ticari ofis alanina olan ihtiyaci azalttigi belirtilmektedir."
+      "why_correct": "İkinci cümlede çalışanların evden çalışmasına izin vermenin pahalı ticari ofis alanına olan ihtiyacı azalttığı belirtilmektedir."
     }
   },
   {
@@ -1769,7 +1769,7 @@
         },
         {
           "key": "B",
-          "text": "Due to freezing temperatures and immense water pressure in the dark zone."
+          "text": "due to freezing temperatures and immense water pressure."
         },
         {
           "key": "C",
@@ -1778,7 +1778,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "due to freezing temperatures and immense water pressure",
-      "why_correct": "Ilk cumle dondurucu sicakliklar ve yuksek su basinci nedeniyle derin denizleri kesfetmek icin robotik denizaltilarin kullanilmasi gerektigini belirtir."
+      "why_correct": "İlk cümle dondurucu sıcaklıklar ve yüksek su basıncı nedeniyle derin denizleri keşfetmek için robotik denizaltıların kullanılması gerektiğini belirtir."
     }
   },
   {
@@ -1796,7 +1796,7 @@
         },
         {
           "key": "B",
-          "text": "Massive reservoirs flood nearby habitats, displacing wildlife and rural communities."
+          "text": "massive reservoirs flood nearby terrestrial habitats, displacing local wildlife and forcing rural communities to relocate."
         },
         {
           "key": "C",
@@ -1805,7 +1805,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "massive reservoirs flood nearby terrestrial habitats, displacing local wildlife and forcing rural communities to relocate",
-      "why_correct": "Ikinci cumle buyuk barajlarin gollerinin cevredeki karasal yasam alanlarini sular altinda birakarak vahsi yasami ve kirsal topluluklari goc etmeye zorladigini dogrulamaktadir."
+      "why_correct": "İkinci cümle büyük barajların göllerinin çevredeki karasal yaşam alanlarını sular altında bırakarak vahşi yaşamı ve kırsal toplulukları göç etmeye zorladığını doğrulamaktadır."
     }
   },
   {
@@ -1823,7 +1823,7 @@
         },
         {
           "key": "B",
-          "text": "The brain ability to reorganize itself by forming new neural connections throughout life."
+          "text": "the brain ability to reorganize itself by forming new neural connections throughout life."
         },
         {
           "key": "C",
@@ -1832,7 +1832,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "the brain ability to reorganize itself by forming new neural connections throughout life",
-      "why_correct": "Ikinci cumlede noroplastisitenin beynin hayat boyu yeni sinirsel baglantilar kurarak kendini yeniden organize etme yetenegi oldugu aciklanmistir."
+      "why_correct": "İkinci cümlede nöroplastisitenin beynin hayat boyu yeni sinirsel bağlantılar kurarak kendini yeniden organize etme yeteneği olduğu açıklanmıştır."
     }
   },
   {
@@ -1850,7 +1850,7 @@
         },
         {
           "key": "B",
-          "text": "It enabled mass production of texts, drastically lowering the cost of books."
+          "text": "enabled the mass production of texts, drastically lowering the cost of books."
         },
         {
           "key": "C",
@@ -1859,7 +1859,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "enabled the mass production of texts, drastically lowering the cost of books",
-      "why_correct": "Ucuncu cumle matbaanin metinlerin seri uretimini saglayarak kitap maliyetlerini buyuk oranda dusurdugunu belirtir."
+      "why_correct": "Üçüncü cümle matbaanın metinlerin seri üretimini sağlayarak kitap maliyetlerini büyük oranda düşürdüğünü belirtir."
     }
   },
   {
@@ -1877,7 +1877,7 @@
         },
         {
           "key": "B",
-          "text": "By observing tiny dips in stellar brightness caused when a planet crossed in front of its star."
+          "text": "observing tiny dips in stellar brightness caused when a planet crossed in front of its host star."
         },
         {
           "key": "C",
@@ -1886,7 +1886,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "observing tiny dips in stellar brightness caused when a planet crossed in front of its host star",
-      "why_correct": "Ikinci cumle Kepler teleskobunun gezegenlerin yildizlarinin onunden gecerken olusturdugu parlaklik dususlerini gozlemleyerek kesif yaptigini aciklar."
+      "why_correct": "İkinci cümle Kepler teleskobunun gezegenlerin yıldızlarının önünden geçerken oluşturduğu parlaklık düşüşlerini gözlemleyerek keşif yaptığını açıklar."
     }
   },
   {
@@ -1904,7 +1904,7 @@
         },
         {
           "key": "B",
-          "text": "The stored carbon is released back into the atmosphere as carbon dioxide."
+          "text": "the stored carbon is released back into the atmosphere as carbon dioxide."
         },
         {
           "key": "C",
@@ -1913,7 +1913,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "the stored carbon is released back into the atmosphere as carbon dioxide",
-      "why_correct": "Ikinci cumlede ormanlik alanlarin tarim icin temizlenmesiyle depolanan karbonun atmosfere karbondioksit olarak geri salindigi belirtilmektedir."
+      "why_correct": "İkinci cümlede ormanlık alanların tarım için temizlenmesiyle depolanan karbonun atmosfere karbondioksit olarak geri salındığı belirtilmektedir."
     }
   },
   {
@@ -1931,7 +1931,7 @@
         },
         {
           "key": "B",
-          "text": "They perform chemosynthesis by converting toxic chemicals into organic energy."
+          "text": "convert toxic chemicals like hydrogen sulfide from the vents into organic energy."
         },
         {
           "key": "C",
@@ -1940,7 +1940,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "convert toxic chemicals like hydrogen sulfide from the vents into organic energy",
-      "why_correct": "Ucuncu cumlede bu mikroorganizmalarin hidrojen sulfur gibi toksik kimyasallari organik enerjiye donusturerek kemosentez yaptigi belirtilmistir."
+      "why_correct": "Üçüncü cümlede bu mikroorganizmaların hidrojen sülfür gibi toksik kimyasalları organik enerjiye dönüştürerek kemosentez yaptığı belirtilmiştir."
     }
   },
   {
@@ -1958,7 +1958,7 @@
         },
         {
           "key": "B",
-          "text": "To collect all human knowledge and store papyrus scrolls."
+          "text": "aimed to collect all human knowledge, storing hundreds of thousands of papyrus scrolls."
         },
         {
           "key": "C",
@@ -1967,7 +1967,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "aimed to collect all human knowledge, storing hundreds of thousands of papyrus scrolls",
-      "why_correct": "Ucuncu cumle Iskenderiye Kutuphanesi'nin tum insanlik bilgisini toplamayi ve binlerce papirus rulosunu depolamayi hedefledigini acikca yazar."
+      "why_correct": "Üçüncü cümle İskenderiye Kütüphanesi'nin tüm insanlık bilgisini toplamayı ve binlerce papirüs rulosunu depolamayı hedeflediğini açıkça yazar."
     }
   },
   {
@@ -1985,7 +1985,7 @@
         },
         {
           "key": "B",
-          "text": "They focus solely on details supporting their views while ignoring contradictory facts."
+          "text": "focus solely on details that support their views while ignoring contradictory facts."
         },
         {
           "key": "C",
@@ -1994,7 +1994,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "focus solely on details that support their views while ignoring contradictory facts",
-      "why_correct": "Ucuncu cumle dogrulama yanliliginin bireylerin sadece kendi goruslerini destekleyen detaylara odaklanmasina ve karsi gorusleri gormezden gelmesine yol actigini belirtir."
+      "why_correct": "Üçüncü cümle doğrulama yanlılığının bireylerin sadece kendi görüşlerini destekleyen detaylara odaklanmasına ve karşı görüşleri görmezden gelmesine yol açtığını belirtir."
     }
   },
   {
@@ -2012,7 +2012,7 @@
         },
         {
           "key": "B",
-          "text": "They do not use standardized testing until the end of high school."
+          "text": "Finnish schools do not use standardized testing to measure student progress until the end of high school."
         },
         {
           "key": "C",
@@ -2021,7 +2021,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Finnish schools do not use standardized testing to measure student progress until the end of high school",
-      "why_correct": "Ikinci cumle Finlandiya okullarinin lise sonuna kadar ogrenci ilerlemesini olcmek icin standart testler kullanmadigini belirtir."
+      "why_correct": "İkinci cümle Finlandiya okullarının lise sonuna kadar öğrenci ilerlemesini ölçmek için standart testler kullanmadığını belirtir."
     }
   },
   {
@@ -2039,7 +2039,7 @@
         },
         {
           "key": "B",
-          "text": "Because they lack physical assets to act as collateral."
+          "text": "Traditional commercial banks typically refuse to offer credit to poor individuals because they lack physical assets to act as collateral."
         },
         {
           "key": "C",
@@ -2048,7 +2048,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Traditional commercial banks typically refuse to offer credit to poor individuals because they lack physical assets to act as collateral",
-      "why_correct": "Ikinci cumlede geleneksel bankalarin teminat olarak gosterecek fiziksel varliklari bulunmayan yoksul bireylere kredi vermeyi reddettigi belirtilir."
+      "why_correct": "İkinci cümlede geleneksel bankaların teminat olarak gösterecek fiziksel varlıkları bulunmayan yoksul bireylere kredi vermeyi reddettiği belirtilir."
     }
   },
   {
@@ -2066,7 +2066,7 @@
         },
         {
           "key": "B",
-          "text": "The strongest bacteria survive and develop resistance to these drugs."
+          "text": "strongest bacteria survive and develop resistance to these drugs."
         },
         {
           "key": "C",
@@ -2075,7 +2075,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "strongest bacteria survive and develop resistance to these drugs",
-      "why_correct": "Ikinci cumle antibiyotik tedavisinin erken birakilmasinin en guclu bakterilerin hayatta kalmasina ve direnc kazanmasina neden oldugunu aciklar."
+      "why_correct": "İkinci cümle antibiyotik tedavisinin erken bırakılmasının en güçlü bakterilerin hayatta kalmasına ve direnç kazanmasına neden olduğunu açıklar."
     }
   },
   {
@@ -2093,7 +2093,7 @@
         },
         {
           "key": "B",
-          "text": "They offer opportunities for outdoor recreation, reducing stress and improving cardiovascular health."
+          "text": "offer citizens vital opportunities for outdoor recreation, reducing chronic stress and improving cardiovascular health."
         },
         {
           "key": "C",
@@ -2102,7 +2102,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "offer citizens vital opportunities for outdoor recreation, reducing chronic stress and improving cardiovascular health",
-      "why_correct": "Ikinci cumle kentsel yesil alanlarin acik hava rekreasyonu saglayarak kronik stresi azalttigini ve kalp damar sagligini iyilestirdigini belirtir."
+      "why_correct": "İkinci cümle kentsel yeşil alanların açık hava rekreasyonu sağlayarak kronik stresi azalttığını ve kalp damar sağlığını iyileştirdiğini belirtir."
     }
   },
   {
@@ -2120,7 +2120,7 @@
         },
         {
           "key": "B",
-          "text": "A light-emitting molecule called luciferin and an enzyme helper called luciferase."
+          "text": "requires a light-emitting molecule called luciferin and an enzyme helper known as luciferase."
         },
         {
           "key": "C",
@@ -2129,7 +2129,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "requires a light-emitting molecule called luciferin and an enzyme helper known as luciferase",
-      "why_correct": "Dorduncu cumle biyoluminesans reaksiyonunun gerceklesmesi icin lusiferin molekulu ve lusiferaz enziminin gerektigini belirtir."
+      "why_correct": "Dördüncü cümle biyolüminesans reaksiyonunun gerçekleşmesi için lüsiferin molekülü ve lüsiferaz enziminin gerektiğini belirtir."
     }
   },
   {
@@ -2147,7 +2147,7 @@
         },
         {
           "key": "B",
-          "text": "By reducing the need for chemical fertilizers and synthetic pesticides."
+          "text": "reducing the need for chemical fertilizers and synthetic pesticides."
         },
         {
           "key": "C",
@@ -2156,7 +2156,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "reducing the need for chemical fertilizers and synthetic pesticides",
-      "why_correct": "Dorduncu cumle ekim nobetinin kimyasal gubre ve sentetik pestisit ihtiyacini azaltarak su kaynaklarini kirlilikten korudugunu belirtir."
+      "why_correct": "Dördüncü cümle ekim nöbetinin kimyasal gübre ve sentetik pestisit ihtiyacini azaltarak su kaynaklarını kirlilikten koruduğunu belirtir."
     }
   },
   {
@@ -2183,7 +2183,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Water is a unique substance because it can exist in three states",
-      "why_correct": "Ilk cumle suyun uc farkli fiziksel halde bulunabilmesi nedeniyle benzersiz bir madde oldugunu aciklamaktadir."
+      "why_correct": "İlk cümle suyun üç farklı fiziksel halde bulunabilmesi nedeniyle benzersiz bir madde olduğunu açıklamaktadır."
     }
   },
   {
@@ -2210,7 +2210,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "brought fresh water from distant hills directly to public baths",
-      "why_correct": "Ikinci cumle su kemerlerinin taze suyu uzak tepelerden dogrudan halk banyolarina tasidigini belirtmektedir."
+      "why_correct": "İkinci cümle su kemerlerinin taze suyu uzak tepelerden doğrudan halk banyolarına taşıdığını belirtmektedir."
     }
   },
   {
@@ -2237,7 +2237,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "find warmer weather and abundant food",
-      "why_correct": "Ikinci cumle kuslarin daha sicak hava ve bol yiyecek bulmak amaciyla guneye goc ettigini gostermektedir."
+      "why_correct": "İkinci cümle kuşların daha sıcak hava ve bol yiyecek bulmak amacıyla güneye göç ettiğini göstermektedir."
     }
   },
   {
@@ -2264,7 +2264,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "the brain actively processes and stores new memories",
-      "why_correct": "Ikinci cumle beynin derin uyku sirasinda yeni anilari aktif olarak isleyip depoladigini aciklamaktadir."
+      "why_correct": "İkinci cümle beynin derin uyku sırasında yeni anıları aktif olarak işleyip depoladığını açıklamaktadır."
     }
   },
   {
@@ -2291,7 +2291,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "craters formed by violent space rock impacts",
-      "why_correct": "Ikinci cumle aydaki derin kraterlerin sert uzay tasi carpmalari sonucu olustugunu dogrulamaktadir."
+      "why_correct": "İkinci cümle Ay'daki derin kraterlerin sert uzay taşı çarpmaları sonucu oluştuğunu doğrulamaktadır."
     }
   },
   {
@@ -2318,7 +2318,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "reduces electricity waste by turning off unused appliances",
-      "why_correct": "Ucuncu cumle bu teknolojinin kullanilmayan cihazlari kapatarak elektrik israfini azalttigini acikca belirtir."
+      "why_correct": "Üçüncü cümle bu teknolojinin kullanılmayan cihazları kapatarak elektrik israfını azalttığını açıkça belirtir."
     }
   },
   {
@@ -2345,7 +2345,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "communicate with each other using a series of unique clicks and whistles",
-      "why_correct": "Ikinci cumle yunuslarin kendi aralarinda ozel tiklama ve ıslık sesleri kullanarak iletisim kurdugunu belirtmektedir."
+      "why_correct": "İkinci cümle yunusların kendi aralarında özel tıklama ve ıslık sesleri kullanarak iletişim kurduğunu belirtmektedir."
     }
   },
   {
@@ -2372,7 +2372,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "used natural red and black earth minerals to create lasting colors",
-      "why_correct": "Ikinci cumle tarih oncesi insanlarin kalici renkler elde etmek icin dogal kirmizi ve siyah toprak minerallerini kullandigini aciklamaktadir."
+      "why_correct": "İkinci cümle tarih öncesi insanların kalıcı renkler elde etmek için doğal kırmızı ve siyah toprak minerallerini kullandığını açıklamaktadır."
     }
   },
   {
@@ -2399,7 +2399,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "absorb bright sunlight to produce their own organic food",
-      "why_correct": "Ilk cumle yesil bitkilerin kendi organik besinlerini uretmek amaciyla parlak gunes isigini emdigini ifade etmektedir."
+      "why_correct": "İlk cümle yeşil bitkilerin kendi organik besinlerini üretmek amacıyla parlak güneş ışığını emdiğini ifade etmektedir."
     }
   },
   {
@@ -2426,7 +2426,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Practicing daily conversations is the most effective way to gain fluency",
-      "why_correct": "Ucuncu cumle bir dilde akicilik kazanmak icin gunluk konusma pratigi yapmanin en etkili yol oldugunu vurgulamaktadir."
+      "why_correct": "Üçüncü cümle bir dilde akıcılık kazanmak için günlük konuşma pratiği yapmanın en etkili yol olduğunu vurgulamaktadır."
     }
   },
   {
@@ -2453,7 +2453,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "escapes to the surface and becomes known as liquid lava",
-      "why_correct": "Ucuncu cumle yeryuzune ulasan magmanin sivi lav olarak adlandirildigini acikca ifade etmektedir."
+      "why_correct": "Üçüncü cümle yeryüzüne ulaşan magmanın sıvı lav olarak adlandırıldığını açıkça ifade etmektedir."
     }
   },
   {
@@ -2480,7 +2480,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "used sharp clay tablets to record business deals",
-      "why_correct": "Ilk cumle Mezopotamyali katiplerin kil tabletleri ticari anlasmalari kaydetmek amaciyla kullandiklarini belirtir."
+      "why_correct": "İlk cümle Mezopotamyalı kâtiplerin kil tabletleri ticari anlaşmaları kaydetmek amacıyla kullandıklarını belirtir."
     }
   },
   {
@@ -2507,7 +2507,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "stimulates the release of brain chemicals that lower stress levels",
-      "why_correct": "Ucuncu cumle duzenli yuruyusun stresi azaltan beyin kimyasallarinin salgilanmasini tetikledigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle düzenli yürüyüşün stresi azaltan beyin kimyasallarının salgılanmasını tetiklediğini açıklamaktadır."
     }
   },
   {
@@ -2534,7 +2534,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Planting native trees helps restore lost ecosystems and absorbs tons of atmospheric carbon dioxide",
-      "why_correct": "Ucuncu cumle yerli agaclar dikmenin kaybolan ekosistemleri onarmaya ve karbon emmeye yardimci oldugunu dogrulamaktadir."
+      "why_correct": "Üçüncü cümle yerli ağaçlar dikmenin kaybolan ekosistemleri onarmaya ve karbon emmeye yardımcı olduğunu doğrulamaktadır."
     }
   },
   {
@@ -2561,7 +2561,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "adding raw materials layer by layer, industrial printers can construct complex metal parts with minimal waste",
-      "why_correct": "Ikinci cumle endustriyel yazicilarin ham maddeleri katman katman ekleyerek karmasik parcalari urettigini ortaya koyar."
+      "why_correct": "İkinci cümle endüstriyel yazıcıların ham maddeleri katman katman ekleyerek karmaşık parçaları ürettiğini ortaya koyar."
     }
   },
   {
@@ -2588,7 +2588,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "beneficial bacteria break down sugars to produce lactic acid",
-      "why_correct": "Ikinci cumle fermente surecinde yararli bakterilerin sekerleri parcalayarak laktik asit urettigini belirtmektedir."
+      "why_correct": "İkinci cümle fermente sürecinde yararlı bakterilerin şekerleri parçalayarak laktik asit ürettiğini belirtmektedir."
     }
   },
   {
@@ -2615,7 +2615,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "winding valleys that closely resemble dry riverbeds on Earth",
-      "why_correct": "Ikinci cumle fotograflanan kivrimli vadilerin Dunyadaki kuru nehir yataklarina cok benzedigini ifade eder."
+      "why_correct": "İkinci cümle fotoğraflanan kıvrımlı vadilerin Dünya'daki kuru nehir yataklarına çok benzediğini ifade eder."
     }
   },
   {
@@ -2642,7 +2642,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "reduces biological markers of anxiety, such as cortisol levels",
-      "why_correct": "Ucuncu cumle nefes egzersizleri yapmanin kortizol gibi kaygi belirteclerini azalttigini belirtir."
+      "why_correct": "Üçüncü cümle nefes egzersizleri yapmanın kortizol gibi kaygı belirteçlerini azalttığını belirtir."
     }
   },
   {
@@ -2669,7 +2669,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "use specialized chemical reactions to generate life-supporting energy",
-      "why_correct": "Ucuncu cumle okyanus dibindeki canlilarin enerji uretmek icin ozel kimyasal reaksiyonlar kullandigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle okyanus dibindeki canlıların enerji üretmek için özel kimyasal reaksiyonlar kullandığını açıklamaktadır."
     }
   },
   {
@@ -2696,7 +2696,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "observing the starlight passing through an exoplanet's outer gas layers",
-      "why_correct": "Ikinci cumle arastirmacilarin dis gezegenlerin gaz tabakalarindan gecen yildiz isigini gozlemleyerek kimyasal elementleri tespit edebildigini gosterir."
+      "why_correct": "İkinci cümle araştırmacıların dış gezegenlerin gaz tabakalarından geçen yıldız ışığını gözlemleyerek kimyasal elementleri tespit edebildiğini gösterir."
     }
   },
   {
@@ -2723,7 +2723,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "employing natural pest control methods instead",
-      "why_correct": "Ikinci cumle organik ciftcilerin zararlilarla mucadele etmek icin dogal yontemleri tercih ettigini belirtmektedir."
+      "why_correct": "İkinci cümle organik çiftçilerin zararlılarla mücadele etmek için doğal yöntemleri tercih ettiğini belirtmektedir."
     }
   },
   {
@@ -2750,7 +2750,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "high-pressure steam spins massive turbine blades",
-      "why_correct": "Ucuncu cumle yuksek basincli buharin devasa turbin pervanelerini dondurdugunu acikca ortaya koyar."
+      "why_correct": "Üçüncü cümle yüksek basınçlı buharın devasa türbin pervanelerini döndürdüğünü açıkça ortaya koyar."
     }
   },
   {
@@ -2777,7 +2777,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "significantly improves the mental health of city residents",
-      "why_correct": "Ucuncu cumle kamusal parklar olusturmanin sehir sakinlerinin ruh sagligini onemli olcude iyilestirdigini belirtmektedir."
+      "why_correct": "Üçüncü cümle kamusal parklar oluşturmanın şehir sakinlerinin ruh sağlığını önemli ölçüde iyileştirdiğini belirtmektedir."
     }
   },
   {
@@ -2804,7 +2804,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "traditional knowledge regarding medicinal wild plants often helps modern pharmacologists discover new treatments",
-      "why_correct": "Ikinci cumle geleneksel bilgilerin modern eczacilarin yeni tedaviler kesfetmesine yardimci oldugunu dogrulamaktadir."
+      "why_correct": "İkinci cümle geleneksel bilgilerin modern eczacıların yeni tedaviler keşfetmesine yardımcı olduğunu doğrulamaktadır."
     }
   },
   {
@@ -2831,7 +2831,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Vaccines work by introducing harmless viral proteins to train the body's immune system",
-      "why_correct": "Ikinci cumle asilarin vucuda zararsiz virus proteinleri tanitma yoluyla bagisiklik sistemini egiterek calistigini aciklar."
+      "why_correct": "İkinci cümle aşıların vücuda zararsız virüs proteinleri tanıtma yoluyla bağışıklık sistemini eğiterek çalıştığını açıklar."
     }
   },
   {
@@ -2858,7 +2858,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "allows the animal to blend seamlessly into the snowy northern landscape",
-      "why_correct": "Ucuncu cumle kurk rengi degisiminin tilkinin karli kuzey manzarasina kusursuzca karismasina olanak tanidigini belirtir."
+      "why_correct": "Üçüncü cümle kürk rengi değişiminin tilkinin karlı kuzey manzarasına kusursuzca karışmasına olanak tanıdığını belirtir."
     }
   },
   {
@@ -2885,7 +2885,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "believed that the physical structure of the adult brain remained completely static after childhood",
-      "why_correct": "Ikinci cumle bilim insanlarinin gecmiste yetiskin beyninin fiziksel yapisinin cocukluktan sonra tamamen sabit kaldigina inandiklarini belirtmektedir."
+      "why_correct": "İkinci cümle bilim insanlarının geçmişte yetişkin beyninin fiziksel yapısının çocukluktan sonra tamamen sabit kaldığına inandıklarını belirtmektedir."
     }
   },
   {
@@ -2912,7 +2912,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "When seawater temperatures rise even slightly above normal, stressed corals expel these colorful algae",
-      "why_correct": "Ucuncu cumle deniz suyu sicakligi normalin biraz uzerine ciktiginda stres altindaki mercanlarin bu algleri disari attigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle deniz suyu sıcaklığı normalin biraz üzerine çıktığında stres altındaki mercanların bu algleri dışarı attığını açıklamaktadır."
     }
   },
   {
@@ -2939,7 +2939,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "cannot observe dark matter directly because it emits no detectable light or electromagnetic radiation",
-      "why_correct": "Ikinci cumle gokbilimcilerin karanlik maddeyi dogrudan gozlemleyememe sebebinin onun isik veya radyasyon yaymamasi oldugunu aciklar."
+      "why_correct": "İkinci cümle gökbilimcilerin karanlık maddeyi doğrudan gözlemleyememe sebebinin onun ışık veya radyasyon yaymaması olduğunu açıklar."
     }
   },
   {
@@ -2966,7 +2966,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "abundant coal reserves and innovative steam engines powered the first automated textile factories",
-      "why_correct": "Ikinci cumle bol komur rezervleri ile yenilikci buhar makinelerinin ilk otomatik tekstil fabrikalarina guc verdigini dogrulamaktadir."
+      "why_correct": "İkinci cümle bol kömür rezervleri ile yenilikçi buhar makinelerinin ilk otomatik tekstil fabrikalarına güç verdiğini doğrulamaktadır."
     }
   },
   {
@@ -2993,7 +2993,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "larger plastic waste, such as bottles and bags, breaks down due to exposure to sunlight and physical wave action",
-      "why_correct": "Ikinci cumle mikroplastiklerin buyuk plastik atiklarin gunes isigi ve dalga hareketiyle parcalanmasi sonucu olustugunu belirtir."
+      "why_correct": "İkinci cümle mikroplastiklerin büyük plastik atıkların güneş ışığı ve dalga hareketiyle parçalanması sonucu oluştuğunu belirtir."
     }
   },
   {
@@ -3020,7 +3020,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "view difficult challenges as valuable opportunities to learn rather than as threatening indicators of personal failure",
-      "why_correct": "Ikinci cumle gelisim zihniyetine sahip insanlarin zorluklari basarisizlik gostergesi degil ogrenme firsati olarak gorduklerini belirtir."
+      "why_correct": "İkinci cümle gelişim zihniyetine sahip insanların zorlukları başarısızlık göstergesi değil öğrenme fırsatı olarak gördüklerini belirtir."
     }
   },
   {
@@ -3047,7 +3047,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "maintaining global biodiversity through their highly efficient pollination services",
-      "why_correct": "Ilk cumle arilarin cicekli bitkilerin uremesini destekleyen yuksek verimli tozlasma hizmetleri sundugunu aciklamaktadir."
+      "why_correct": "İlk cümle arıların çiçekli bitkilerin üremesini destekleyen yüksek verimli tozlaşma hizmetleri sunduğunu açıklamaktadır."
     }
   },
   {
@@ -3074,7 +3074,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "aimed to collect all human knowledge by copying manuscripts from traveling merchants",
-      "why_correct": "Ikinci cumle Alexandria kütüphanesinin seyyah tuccarlardan alinan el yazmalarini kopyalayarak tum bilgileri toplamayi hedefledigini belirtir."
+      "why_correct": "İkinci cümle İskenderiye kütüphanesinin seyyah tüccarlardan alınan el yazmalarını kopyalayarak tüm bilgileri toplamayı hedeflediğini belirtir."
     }
   },
   {
@@ -3101,7 +3101,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Derived from the natural defense mechanisms of bacteria against attacking viruses",
-      "why_correct": "Ikinci cumle CRISPR teknolojisinin bakterilerin saldirgan viruslere karsi gelistirdigi dogal savunma mekanizmalarindan turetildigini aciklar."
+      "why_correct": "İkinci cümle CRISPR teknolojisinin bakterilerin saldırgan virüslere karşı geliştirdiği doğal savunma mekanizmalarından türetildiğini açıklar."
     }
   },
   {
@@ -3128,7 +3128,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "noticing that the coastlines of South America and Africa fit together perfectly",
-      "why_correct": "Ikinci cumle Alfred Wegener'in Guney Amerika ve Afrika kiyilarinin bir yapboz gibi birbiriyle uyustugunu fark ettigini belirtir."
+      "why_correct": "İkinci cümle Alfred Wegener'in Güney Amerika ve Afrika kıyılarının bir yapboz gibi birbiriyle uyuştuğunu fark ettiğini belirtir."
     }
   },
   {
@@ -3155,7 +3155,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "countries raised high import taxes to protect local industries",
-      "why_correct": "Ucuncu cumle ulkelerin yerli sanayilerini korumak amaciyla yuksek ithalat vergileri koydugunu dogrulamaktadir."
+      "why_correct": "İkinci cümle ülkelerin yerli sanayilerini korumak amacıyla yüksek ithalat vergileri koyduğunu doğrulamaktadır."
     }
   },
   {
@@ -3182,7 +3182,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "emits extremely high-frequency sound waves through its mouth or nose that travel through the air",
-      "why_correct": "Ikinci cumle yarasalarin yuksek frekansli ses dalgalari yayarak karanlikta yollarini bulduklarini ve avlandiklarini belirtir."
+      "why_correct": "İkinci cümle yarasaların yüksek frekanslı ses dalgaları yayarak karanlıkta yollarını bulduklarını ve avlandıklarını belirtir."
     }
   },
   {
@@ -3209,7 +3209,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "spending excessive time on social media is closely linked to increased feelings of loneliness and social anxiety among teenagers",
-      "why_correct": "Ucuncu cumle sosyal medyada asiri zaman gecirmenin gencler arasinda yalnizlik ve sosyal kaygiyi artirdigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle sosyal medyada aşırı zaman geçirmenin gençler arasında yalnızlık ve sosyal kaygıyı artırdığını açıklamaktadır."
     }
   },
   {
@@ -3236,7 +3236,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "experts believe it functioned as an astronomical calendar to mark the winter solstice",
-      "why_correct": "Son cumle uzmanlarin Stonehenge yapisinin kis donumunu isaretlemek icin gokbilimsel bir takvim olarak kullanildigina inandigini gosterir."
+      "why_correct": "Son cümle uzmanların Stonehenge yapısının kış dönümünü işaretlemek için gökbilimsel bir takvim olarak kullanıldığına inandığını gösterir."
     }
   },
   {
@@ -3263,7 +3263,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "High winds spread the forest fires across green valleys",
-      "why_correct": "Ucuncu cumle yuksek ruzgarlarin orman yanginlarini yesil vadiler boyunca yaydigini acikca belirtir."
+      "why_correct": "Üçüncü cümle yüksek rüzgarların orman yangınlarını yeşil vadiler boyunca yaydığını açıkça belirtir."
     }
   },
   {
@@ -3290,7 +3290,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Teenagers who sleep eight hours every night perform better in school exams",
-      "why_correct": "Ikinci cumle her gece sekiz saat uyuyan genclerin okul sinavlarinda daha basarili oldugunu gosterir."
+      "why_correct": "İkinci cümle her gece sekiz saat uyuyan gençlerin okul sınavlarında daha başarılı olduğunu gösterir."
     }
   },
   {
@@ -3317,7 +3317,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "press symbols on wet clay tablets",
-      "why_correct": "Ikinci cumle Sumerlerin isaretleri islak kil tabletler uzerine bastirdigini belirtir."
+      "why_correct": "İkinci cümle Sümerlerin işaretleri ıslak kil tabletler üzerine bastırdığını belirtir."
     }
   },
   {
@@ -3344,7 +3344,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Teachers prepare fun worksheets before the trip",
-      "why_correct": "Ucuncu cumle ogretmenlerin geziden once eglenceli calisma kagitlari hazirladigini aciklar."
+      "why_correct": "Üçüncü cümle öğretmenlerin geziden önce eğlenceli çalışma kağıtları hazırladığını açıklar."
     }
   },
   {
@@ -3371,7 +3371,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "athletes use these wearable devices to plan their weekly running schedules",
-      "why_correct": "Ikinci cumle sporcularin bu giyilebilir cihazlari haftalik kosu programlarini planlamak icin kullandigini gosterir."
+      "why_correct": "İkinci cümle sporcuların bu giyilebilir cihazları haftalık koşu programlarını planlamak için kullandığını gösterir."
     }
   },
   {
@@ -3398,7 +3398,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "searching for sweet nectar",
-      "why_correct": "Ikinci cumle arilarin tatli nektar ararken cicekler arasinda polen tasidigini belirtir."
+      "why_correct": "İkinci cümle arıların tatlı nektar ararken çiçekler arasında polen taşıdığını belirtir."
     }
   },
   {
@@ -3425,7 +3425,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "prepare hot tea with great care to show respect to guests",
-      "why_correct": "Ikinci cumle ailelerin misafirlere saygi gostermek icin sicak cayi buyuk bir ozenle hazirladigini belirtir."
+      "why_correct": "İkinci cümle ailelerin misafirlere saygı göstermek için sıcak çayı büyük bir özenle hazırladığını belirtir."
     }
   },
   {
@@ -3452,7 +3452,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "happens because of the strong lunar gravitational pull",
-      "why_correct": "Ikinci cumle su hareketinin Ayin guclu yercekimi cekiminden dolayi gerceklestigini aciklar."
+      "why_correct": "İkinci cümle su hareketinin Ayın güçlü yerçekimi çekiminden dolayı gerçekleştiğini açıklar."
     }
   },
   {
@@ -3479,7 +3479,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "use high-frequency sounds to navigate and hunt",
-      "why_correct": "Ilk cumle yunuslarin karanlik sularda yon bulmak ve avlanmak icin yuksek frekansli sesler kullandigini belirtir."
+      "why_correct": "İlk cümle yunusların karanlık sularda yön bulmak ve avlanmak için yüksek frekanslı sesler kullandığını belirtir."
     }
   },
   {
@@ -3506,7 +3506,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "learn new vocabulary much faster",
-      "why_correct": "Ikinci cumle kitap dinleyen cocuklarin yeni kelimeleri cok daha hizli ogrendigini belirtir."
+      "why_correct": "İkinci cümle kitap dinleyen çocukların yeni kelimeleri çok daha hızlı öğrendiğini belirtir."
     }
   },
   {
@@ -3533,7 +3533,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "run on electric rails instead of using dirty diesel fuel",
-      "why_correct": "Ikinci cumle elektrikli trenlerin dizel yakit yerine elektrikli raylar uzerinde calistigini gosterir."
+      "why_correct": "İkinci cümle elektrikli trenlerin dizel yakıt yerine elektrikli raylar üzerinde çalıştığını gösterir."
     }
   },
   {
@@ -3560,7 +3560,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "improves cardiovascular health without putting heavy pressure on sensitive joints",
-      "why_correct": "Ikinci cumle yuzmenin hassas eklemlere agir baski uygulamadan kalp damar sagligini iyilestirdigini belirtir."
+      "why_correct": "İkinci cümle yüzmenin hassas eklemlere ağır baskı uygulamadan kalp damar sağlığını iyileştirdiğini belirtir."
     }
   },
   {
@@ -3587,7 +3587,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "storing water in thick stems",
-      "why_correct": "Ilk cumle kaktuslerin suyu kalin govdelerinde depolayarak hayatta kaldigini aciklar."
+      "why_correct": "İlk cümle kaktüslerin suyu kalın gövdelerinde depolayarak hayatta kaldığını açıklar."
     }
   },
   {
@@ -3614,7 +3614,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "use solar panels to generate power during the dusty Martian day",
-      "why_correct": "Ikinci cumle robotik araclarin Mars gunu boyunca guc uretmek icin gunes panelleri kullandigini belirtir."
+      "why_correct": "İkinci cümle robotik araçların Mars günü boyunca güç üretmek için güneş panelleri kullandığını belirtir."
     }
   },
   {
@@ -3641,7 +3641,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "transform these discarded plastics into durable building materials",
-      "why_correct": "Ucuncu cumle modern geri donusum girisimlerinin atik plastikleri dayanikli yapi malzemelerine donusturmayi hedefledigini belirtir."
+      "why_correct": "Üçüncü cümle modern geri dönüşüm girişimlerinin atık plastikleri dayanıklı yapı malzemelerine dönüştürmeyi hedeflediğini belirtir."
     }
   },
   {
@@ -3668,7 +3668,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "working in biophilic offices significantly reduces employee stress levels and boosts daily productivity",
-      "why_correct": "Ucuncu cumle biyofilik ofislerde calismanin calisanlarin stres seviyelerini azalttigini ve uretkenligi artirdigini kanitlamaktadir."
+      "why_correct": "Üçüncü cümle biyofilik ofislerde çalışmanın çalışanların stres seviyelerini azalttığını ve üretkenliği artırdığını kanıtlamaktadır."
     }
   },
   {
@@ -3695,7 +3695,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "emphasizes consuming fresh vegetables, olive oil, whole grains, and lean fish",
-      "why_correct": "Ikinci cumle Akdeniz diyetinin taze sebzeler, zeytinyagi, tam tahillar ve yagsiz balik tuketimini vurguladigini gosterir."
+      "why_correct": "İkinci cümle Akdeniz diyetinin taze sebzeler, zeytinyağı, tam tahıllar ve yağsız balık tüketimini vurguladığını gösterir."
     }
   },
   {
@@ -3722,7 +3722,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "makes complex scientific concepts much easier for young minds to grasp",
-      "why_correct": "Ucuncu cumle sanal gercekligin karmasik bilimsel kavramlarin kavranmasini kolaylastirdigini belirtir."
+      "why_correct": "Üçüncü cümle sanal gerçekliğin karmaşık bilimsel kavramların kavranmasını kolaylaştırdığını belirtir."
     }
   },
   {
@@ -3749,7 +3749,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "corals expel the tiny symbiotic algae living inside their tissues",
-      "why_correct": "Ikinci cumle mercanlarin dokularinda yasayan kucuk simbiyotik algleri disari attigi icin beyazlastigini aciklar."
+      "why_correct": "İkinci cümle mercanların dokularında yaşayan küçük simbiyotik algleri dışarı attığı için beyazlaştığını açıklar."
     }
   },
   {
@@ -3776,7 +3776,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "geothermal energy provides a constant power supply regardless of weather conditions",
-      "why_correct": "Dorduncu cumle jeotermal enerjinin hava kosullarindan bagimsiz olarak kesintisiz guc sagladigini belirtir."
+      "why_correct": "Dördüncü cümle jeotermal enerjinin hava koşullarından bağımsız olarak kesintisiz güç sağladığını belirtir."
     }
   },
   {
@@ -3803,7 +3803,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "using the sun's position and Earth's magnetic fields",
-      "why_correct": "Ikinci cumle kral kelebeklerinin gunesin konumunu ve Dunyanin manyetik alanlarini kullanarak yon bulduklarini aciklar."
+      "why_correct": "İkinci cümle kral kelebeklerinin güneşin konumunu ve Dünyanın manyetik alanlarını kullanarak yön bulduklarını açıklar."
     }
   },
   {
@@ -3830,7 +3830,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "people favor information that aligns with existing beliefs",
-      "why_correct": "Ilk cumle onaylama yanliligi yasayan kisilerin mevcut inanclariyla uyusan bilgileri tercih ettigini belirtir."
+      "why_correct": "İlk cümle onaylama yanlılığı yaşayan kişilerin mevcut inançlarıyla uyuşan bilgileri tercih ettiğini belirtir."
     }
   },
   {
@@ -3857,7 +3857,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "expanding agricultural farms and modern borders are restricting their historical migration routes",
-      "why_correct": "Dorduncu cumle tarim arazilerinin genislemesinin ve modern sinirlarin gocerlerin yollarini kisitladigini belirtir."
+      "why_correct": "Dördüncü cümle tarım arazilerinin genişlemesinin ve modern sınırların göçerlerin yollarını kısıtladığını belirtir."
     }
   },
   {
@@ -3884,7 +3884,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "analyzing wave arrival times at multiple stations, scientists can pinpoint the exact epicenter",
-      "why_correct": "Ucuncu cumle deprem dalgalarinin istasyonlara ulasma surelerinin analiz edilmesiyle merkez üssünün saptandigini belirtir."
+      "why_correct": "Üçüncü cümle deprem dalgalarının istasyonlara ulaşma sürelerinin analiz edilmesiyle merkez üssünün saptandığını belirtir."
     }
   },
   {
@@ -3911,7 +3911,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "younger generations transition to global languages for better economic opportunities",
-      "why_correct": "Ikinci cumle genc nesillerin daha iyi ekonomik firsatlar icin kuresel dillere gecis yaptigini gosterir."
+      "why_correct": "İkinci cümle genç nesillerin daha iyi ekonomik fırsatlar için küresel dillere geçiş yaptığını gösterir."
     }
   },
   {
@@ -3938,7 +3938,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "focuses on minimizing the environmental impact of modern commercial buildings",
-      "why_correct": "Ilk cumle surdurulebilir mimarinin temel odak noktasinin binalarin cevresel etkilerini en aza indirmek oldugunu belirtir."
+      "why_correct": "İlk cümle sürdürülebilir mimarinin temel odak noktasının binaların çevresel etkilerini en aza indirmek olduğunu belirtir."
     }
   },
   {
@@ -3965,7 +3965,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "comparing these subtle light shifts with known chemical patterns in terrestrial laboratories, researchers can deduce the atmospheric composition",
-      "why_correct": "Ucuncu cumle isik kaymalarinin laboratuvardaki bilinen kimyasal kaliplarla karsilastirilmasi sayesinde atmosfer bilesenlerinin cozuldugunu aciklar."
+      "why_correct": "Üçüncü cümle ışık kaymalarının laboratuvardaki bilinen kimyasal kalıplarla karşılaştırılması sayesinde atmosfer bileşenlerinin çözüldüğünü açıklar."
     }
   },
   {
@@ -3992,7 +3992,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "overprescribing antibiotics for minor infections, combined with their extensive use in livestock feed, have accelerated natural bacterial evolution",
-      "why_correct": "Ikinci cumle antibiyotiklerin asiri recete edilmesinin ve hayvancilikta kullanilmasinin bakteriyel evrimi hizlandirdigini belirtir."
+      "why_correct": "İkinci cümle antibiyotiklerin aşırı reçete edilmesinin ve hayvancılıkta kullanılmasının bakteriyel evrimi hızlandırdığını belirtir."
     }
   },
   {
@@ -4019,7 +4019,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "informal settlements emerge without proper access to clean water, electricity, or sanitation",
-      "why_correct": "Ikinci cumle plansiz kentlesmenin temiz su ve kanalizasyondan yoksun kayit disi yerlesimlerin ortaya cikmasina yol actigini gosterir."
+      "why_correct": "İkinci cümle plansız kentleşmenin temiz su ve kanalizasyondan yoksun kayıt dışı yerleşimlerin ortaya çıkmasına yol açtığını gösterir."
     }
   },
   {
@@ -4046,7 +4046,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "airborne scanning system shoots millions of laser pulses toward the ground and measures the time they take to bounce back",
-      "why_correct": "Ikinci cumle Lidar sisteminin havadan lazer darbeleri gondererek bunlarin geri donus surelerini olctugunu aciklar."
+      "why_correct": "İkinci cümle Lidar sisteminin havadan lazer darbeleri göndererek bunların geri dönüş sürelerini ölçtüğünü açıklar."
     }
   },
   {
@@ -4073,7 +4073,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "deprives them of essential workplace protections. Gig workers typically lack access to employer-sponsored health insurance, paid sick leave",
-      "why_correct": "Ikinci ve ucuncu cumleler gonderi ekonomisindeki calisanlarin hastalik izni gibi temel guvencelerden yoksun oldugunu gosterir."
+      "why_correct": "İkinci ve üçüncü cümleler gönderi ekonomisindeki çalışanların hastalık izni gibi temel güvencelerden yoksun olduğunu gösterir."
     }
   },
   {
@@ -4100,7 +4100,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "poses a critical danger to shell-building organisms, such as oysters, crabs, and tiny marine snails, by dissolving their protective calcium structures",
-      "why_correct": "Ucuncu cumle deniz asitlenmesinin kabuklu canlilarin koruyucu kalsiyum yapilarini cozerek onlara zarar verdigini belirtir."
+      "why_correct": "Üçüncü cümle deniz asitlenmesinin kabuklu canlıların koruyucu kalsiyum yapılarını çözerek onlara zarar verdiğini belirtir."
     }
   },
   {
@@ -4127,7 +4127,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "growth is significantly stimulated by physical aerobic exercise, cognitive training, and rich sensory environments",
-      "why_correct": "Ucuncu cumle yetiskinlerde yeni beyin hucresi olusumunun egzersiz, zihinsel egitim ve zengin duyusal ortamlarla tetiklendigini gosterir."
+      "why_correct": "Üçüncü cümle yetişkinlerde yeni beyin hücresi oluşumunun egzersiz, zihinsel eğitim ve zengin duyusal ortamlarla tetiklendiğini gösterir."
     }
   },
   {
@@ -4154,7 +4154,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "soil melts, allowing microbes to decompose the ancient organic material. This biological decomposition releases massive quantities of methane",
-      "why_correct": "Dorduncu ve besinci cumleler donmus topragin erimesiyle mikroplarin organik maddeleri parcalayip metan ve karbondioksit saldigini aciklar."
+      "why_correct": "Dördüncü ve beşinci cümleler donmuş toprağın erimesiyle mikropların organik maddeleri parçalayıp metan ve karbondioksit saldığını açıklar."
     }
   },
   {
@@ -4181,7 +4181,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "enabled the rapid, low-cost mass production of texts, democratizing access to scientific knowledge",
-      "why_correct": "Ucuncu cumle matbaanin metinlerin dusuk maliyetle seri uretimini saglayarak bilgiye erisimi demokratiklestirdigini gosterir."
+      "why_correct": "Üçüncü cümle matbaanın metinlerin düşük maliyetle seri üretimini sağlayarak bilgiye erişimi demokratikleştirdiğini gösterir."
     }
   },
   {
@@ -4208,7 +4208,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "cosmic expansion stretches light waves into longer infrared wavelengths over billions of years, traditional optical telescopes cannot detect",
-      "why_correct": "Ikinci cumle evrensel genislemenin isik dalgalarini kizilotesi boyuna esnetmesi nedeniyle geleneksel teleskoplarin bu yildizlari goremedigini aciklar."
+      "why_correct": "İkinci cümle evrensel genişlemenin ışık dalgalarını kızılötesi boyuna esnetmesi nedeniyle geleneksel teleskopların bu yıldızları göremediğini açıklar."
     }
   },
   {
@@ -4235,7 +4235,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "links high daily screen time with increased rates of teenage anxiety, depression, and feelings of social isolation",
-      "why_correct": "Ucuncu cumle yuksek ekran suresinin genclerde kaygi, depresyon ve sosyal izolasyon hissiyle iliskili oldugunu gosterir."
+      "why_correct": "Üçüncü cümle yüksek ekran süresinin gençlerde kaygı, depresyon ve sosyal izolasyon hissiyle ilişkili olduğunu gösterir."
     }
   },
   {
@@ -4262,7 +4262,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "uses a customized RNA guide to locate a specific mutated gene and a specialized enzyme to cut the DNA strands",
-      "why_correct": "Ikinci cumle CRISPR sisteminin bir RNA kilavuzu ile hedef geni bulup bir enzim yardimiyla DNA zincirlerini kestigini belirtir."
+      "why_correct": "İkinci cümle CRISPR sisteminin bir RNA kılavuzu ile hedef geni bulup bir enzim yardımıyla DNA zincirlerini kestiğini belirtir."
     }
   },
   {
@@ -4289,7 +4289,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "caused by the dense concentration of concrete buildings and asphalt roads, which absorb solar heat",
-      "why_correct": "Ikinci cumle kentsel isi adasi etkisinin temel nedeninin gunes isisini emen beton binalar ve asfalt yollar oldugunu belirtir."
+      "why_correct": "İkinci cümle kentsel ısı adası etkisinin temel nedeninin güneş ısısını emen beton binalar ve asfalt yollar olduğunu belirtir."
     }
   },
   {
@@ -4316,7 +4316,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "enabling permanent settlements and the specialization of labor. Instead of wandering constantly",
-      "why_correct": "Ilk iki cumle tarima gecisin gida fazlasi yaratarak kalici yerlesimleri ve is bolumunu mumkun kildigini aciklar."
+      "why_correct": "İlk iki cümle tarıma geçişin gıda fazlası yaratarak kalıcı yerleşimleri ve iş bölümünü mümkün kıldığını açıklar."
     }
   },
   {
@@ -4343,7 +4343,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Helicopters drop cold water to extinguish the massive flames quickly",
-      "why_correct": "Ucuncu cümle helikopterlerin buyuk alevleri hizla sondurmek icin soguk su biraktigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle helikopterlerin büyük alevleri hızla söndürmek için soğuk su bıraktığını açıklamaktadır."
     }
   },
   {
@@ -4370,7 +4370,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Charging the battery twice a week is usually enough",
-      "why_correct": "Besinci cümle akilli saat bataryasini haftada iki kez sarj etmenin genellikle yeterli oldugunu belirtir."
+      "why_correct": "Beşinci cümle akıllı saat bataryasını haftada iki kez şarj etmenin genellikle yeterli olduğunu belirtir."
     }
   },
   {
@@ -4397,7 +4397,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Doctors recommend morning walks in green parks to reduce mental stress",
-      "why_correct": "Ucuncu cümle doktorlarin zihinsel stresi azaltmak icin yesil parklarda sabah yuruyusleri yapilmasini tavsiye ettigini gosterir."
+      "why_correct": "Üçüncü cümle doktorların zihinsel stresi azaltmak için yeşil parklarda sabah yürüyüşleri yapılmasını tavsiye ettiğini gösterir."
     }
   },
   {
@@ -4424,7 +4424,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "These strategic locations allowed soldiers to watch the surrounding land easily",
-      "why_correct": "Ikinci cümle bu stratejik konumlarin askerlerin cevredeki araziyi kolayca gozetlemesine izin verdigini belirtir."
+      "why_correct": "İkinci cümle bu stratejik konumların askerlerin çevredeki araziyi kolayca gözetlemesine izin verdiğini belirtir."
     }
   },
   {
@@ -4451,7 +4451,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "They collect colorful pollen to produce natural honey in their hives",
-      "why_correct": "Ikinci cümle arilarin kovanlarinda dogal bal uretmek icin renkli polen topladiklarini aciklamaktadir."
+      "why_correct": "İkinci cümle arıların kovanlarında doğal bal üretmek için renkli polen topladıklarını açıklamaktadır."
     }
   },
   {
@@ -4478,7 +4478,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Friendly librarians help young children find interesting storybooks to read",
-      "why_correct": "Ucuncu cümle guler yuzlu kutuphanecilerin kucuk cocuklarin ilginc hikaye kitaplari bulmalarina yardimci oldugunu belirtir."
+      "why_correct": "Üçüncü cümle güler yüzlü kütüphanecilerin küçük çocukların ilginç hikaye kitapları bulmalarına yardımcı olduğunu belirtir."
     }
   },
   {
@@ -4505,7 +4505,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Local governments support these creative projects to make urban areas look friendlier",
-      "why_correct": "Ucuncu cümle yerel yonetimlerin kentsel alanlarin daha samimi gorunmesi icin bu yaratici projeleri destekledigini gosterir."
+      "why_correct": "Üçüncü cümle yerel yönetimlerin kentsel alanların daha samimi görünmesi için bu yaratıcı projeleri desteklediğini gösterir."
     }
   },
   {
@@ -4532,7 +4532,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "People serve black tea in small tulip shaped glasses to guests",
-      "why_correct": "Ikinci cümle siyah cayin misafirlere kucuk lale bicimli bardaklarda servis edildigini belirtir."
+      "why_correct": "İkinci cümle siyah çayın misafirlere küçük lale biçimli bardaklarda servis edildiğini belirtir."
     }
   },
   {
@@ -4559,7 +4559,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "These dedicated pathways keep active cyclists safe from fast cars and buses",
-      "why_correct": "Ikinci cümle bu ozel bisiklet yollarinin aktif bisikletlileri hizli arabalardan ve otobuslerden korudugunu ifade eder."
+      "why_correct": "İkinci cümle bu özel bisiklet yollarının aktif bisikletlileri hızlı arabalardan ve otobüslerden koruduğunu ifade eder."
     }
   },
   {
@@ -4586,7 +4586,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "They store fat in their large humps to survive without food for weeks",
-      "why_correct": "Ucuncu cümle develerin yiyeceksiz haftalarca hayatta kalabilmek icin horguclerinde yag depoladiklarini aciklamaktadir."
+      "why_correct": "Üçüncü cümle develerin yiyeceksiz haftalarca hayatta kalabilmek için hörgüçlerinde yağ depoladıklarını açıklamaktadır."
     }
   },
   {
@@ -4613,7 +4613,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "It takes about twenty seven days to complete one full orbit",
-      "why_correct": "Ikinci cümle Ay'in dunya etrafindaki bir tam donusunu yaklasik yirmi yedi gunde tamamladigini gosterir."
+      "why_correct": "İkinci cümle Ay'ın dünya etrafındaki bir tam dönüşünü yaklaşık yirmi yedi günde tamamladığını gösterir."
     }
   },
   {
@@ -4640,7 +4640,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Modern skyscrapers are built using extremely strong steel and glass",
-      "why_correct": "Birinci cümle modern gokdelenlerin son derece guclu celik ve cam kullanilarak insa edildigini belirtir."
+      "why_correct": "Birinci cümle modern gökdelenlerin son derece güçlü çelik ve cam kullanılarak inşa edildiğini belirtir."
     }
   },
   {
@@ -4667,7 +4667,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Musicians use a flexible wooden bow to pull sweet sounds from strings",
-      "why_correct": "Ikinci cümle muzisyenlerin tellerden tatli sesler cikarmak icin esnek bir ahsap yay kullandiklarini belirtir."
+      "why_correct": "İkinci cümle müzisyenlerin tellerden tatlı sesler çıkarmak için esnek bir ahşap yay kullandıklarını belirtir."
     }
   },
   {
@@ -4694,7 +4694,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Pompeii was completely buried under volcanic ash during the eruption of Mount Vesuvius",
-      "why_correct": "Birinci cümle Pompeii kentinin Vezuv Yanardagi'nin patlamasi sirasinda olusan volkanik kullerin altinda kaldigini aciklamaktadir."
+      "why_correct": "Birinci cümle Pompeii kentinin Vezüv Yanardağı'nın patlaması sırasında oluşan volkanik küllerin altında kaldığını açıklamaktadır."
     }
   },
   {
@@ -4721,7 +4721,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "chimpanzee groups utilize heavy stones as hammers to crack open hard nut shells",
-      "why_correct": "Ucuncu cümle bazi sempanze gruplarinin sert kuruyemis kabuklarini kirmak icin agir taslari cekic olarak kullandigini gosterir."
+      "why_correct": "Üçüncü cümle bazı şempanze gruplarının sert kuruyemiş kabuklarını kırmak için ağır taşları çekiç olarak kullandığını gösterir."
     }
   },
   {
@@ -4748,7 +4748,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "specialized bacteria around these hot vents use toxic chemical compounds to produce food",
-      "why_correct": "Ikinci cümle hidrotermal bacalar etrafindaki ozel bakterilerin besin uretmek icin toksik kimyasal bilesikleri kullandigini belirtir."
+      "why_correct": "İkinci cümle hidrotermal bacalar etrafındaki özel bakterilerin besin üretmek için toksik kimyasal bileşikleri kullandığını belirtir."
     }
   },
   {
@@ -4775,7 +4775,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "thick green stems perform photosynthesis while storing massive amounts of water",
-      "why_correct": "Ucuncu cümle kaktuslerin kalin yesil govdelerinin su depolarken ayni zamanda fotosentez yaptigini ifade eder."
+      "why_correct": "Üçüncü cümle kaktüslerin kalın yeşil gövdelerinin su depolarken aynı zamanda fotosentez yaptığını ifade eder."
     }
   },
   {
@@ -4802,7 +4802,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "rapid heating causes the air to expand violently, creating the loud sound waves we hear as thunder",
-      "why_correct": "Ucuncu cümle havanin hizla isinmasinin ve siddetle genislemesinin gok gurultusu olarak duyulan ses dalgalarini yarattigini aciklar."
+      "why_correct": "Üçüncü cümle havanın hızla ısınmasının ve şiddetle genişlemesinin gök gürültüsü olarak duyulan ses dalgalarını yarattığını açıklar."
     }
   },
   {
@@ -4829,7 +4829,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "they supply vital fresh water to billions of people downstream",
-      "why_correct": "Ikinci cumle bilim insanlarinin buzullari milyarlarca insana yasamsal taze su sagladigi icin takip ettigini belirtir."
+      "why_correct": "İkinci cümle bilim insanlarının buzulları milyarlarca insana yaşamsal taze su sağladığı için takip ettiğini belirtir."
     }
   },
   {
@@ -4856,7 +4856,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "delivers water directly to plant roots through narrow tubes",
-      "why_correct": "Birinci cümle damlama sulama sisteminin suyu dar tupler araciligiyla dogrudan bitki koklerine ulastirdigini belirtir."
+      "why_correct": "Birinci cümle damlama sulama sisteminin suyu dar tüpler aracılığıyla doğrudan bitki köklerine ulaştırdığını belirtir."
     }
   },
   {
@@ -4883,7 +4883,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "antibiotics are completely ineffective against viral diseases such as flu and common colds",
-      "why_correct": "Ucuncu cümle antibiyotiklerin grip ve soguk alginligi gibi viral hastaliklara karsi tamamen etkisiz oldugunu vurgulamaktadir."
+      "why_correct": "Üçüncü cümle antibiyotiklerin grip ve soğuk algınlığı gibi viral hastalıklara karşı tamamen etkisiz olduğunu vurgulamaktadır."
     }
   },
   {
@@ -4910,7 +4910,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "microfinance institutions rely on group trust to ensure regular repayments",
-      "why_correct": "Ucuncu cümle mikrofinans kuruluslarinin borclarin geri odenmesini saglamak icin grup guvenine dayandigini aciklar."
+      "why_correct": "Üçüncü cümle mikrofinans kuruluşlarının borçların geri ödenmesini sağlamak için grup güvenine dayandığını açıklar."
     }
   },
   {
@@ -4937,7 +4937,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "occurs when a language loses its last native speakers",
-      "why_correct": "Birinci cümle dil olumunun bir dilin son dogal konusurlarini kaybetmesi durumunda gerceklesen kulturel bir surec oldugunu belirtir."
+      "why_correct": "Birinci cümle dil ölümünün bir dilin son doğal konuşurlarını kaybetmesi durumunda gerçekleşen kültürel bir süreç olduğunu belirtir."
     }
   },
   {
@@ -4964,7 +4964,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "caused by toxic sulfur dioxide and nitrogen oxides released from industrial factories",
-      "why_correct": "Birinci cümle asit yagmurlarina endüstriyel fabrikalardan salinan toksik kukurt dioksit ve azot oksitlerin neden oldugunu gosterir."
+      "why_correct": "Birinci cümle asit yağmurlarına endüstriyel fabrikalardan salınan toksik kükürt dioksit ve azot oksitlerin neden olduğunu gösterir."
     }
   },
   {
@@ -4991,7 +4991,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "lack of deep sleep limits the brain's ability to process and store new memories effectively",
-      "why_correct": "Ikinci cümle derin uyku eksikliginin beynin yeni anilari isleme ve depolama yetenegini sinirladigini belirtir."
+      "why_correct": "İkinci cümle derin uyku eksikliğinin beynin yeni anıları işleme ve depolama yeteneğini sınırladığını belirtir."
     }
   },
   {
@@ -5018,7 +5018,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "region in our solar system located between Mars and Jupiter",
-      "why_correct": "Birinci cümle asteroit kusaginin Gunes sistemimizde Mars ve Jupiter arasinda yer alan bir bolge oldugunu aciklar."
+      "why_correct": "Birinci cümle asteroit kuşağının Güneş sistemimizde Mars ve Jüpiter arasında yer alan bir bölge olduğunu açıklar."
     }
   },
   {
@@ -5045,7 +5045,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Because scholars could read ancient Greek fluently, they utilized the Greek text as a precise translation tool",
-      "why_correct": "Ucuncu cümle bilginlerin eski Yunancayi akici sekilde okuyabilmeleri sayesinde bu metni gizemli hiyeroglifleri cozmude bir ceviri araci olarak kullandiklarini belirtir."
+      "why_correct": "Üçüncü cümle bilginlerin eski Yunancayı akıcı şekilde okuyabilmeleri sayesinde bu metni gizemli hiyeroglifleri çözmede bir çeviri aracı olarak kullandıklarını belirtir."
     }
   },
   {
@@ -5072,7 +5072,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Under prolonged thermal stress, corals expel the symbiotic microscopic algae called zooxanthellae",
-      "why_correct": "Ikinci cümle uzamis isi stresi altinda mercanlarin dokularinda yasayan ortak yasamli mikroskobik algleri disari attigini belirtir."
+      "why_correct": "İkinci cümle uzamış ısı stresi altında mercanların dokularında yaşayan ortak yaşamlı mikroskobik algleri dışarı attığını belirtir."
     }
   },
   {
@@ -5099,7 +5099,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "molecular tool acts like tiny scissors that can cut specific segments of DNA to eliminate harmful mutations",
-      "why_correct": "Ikinci cumle CRISPR aracinin zararli mutasyonlari gidermek icin DNA'nin belirli bolumlerini kesen makaslar gibi hareket ettigini belirtir."
+      "why_correct": "İkinci cümle CRISPR aracının zararlı mutasyonları gidermek için DNA'nın belirli bölümlerini kesen makaslar gibi hareket ettiğini belirtir."
     }
   },
   {
@@ -5121,12 +5121,12 @@
         },
         {
           "key": "C",
-          "text": "It forced local churches to stop copying books by hand."
+          "text": "It forced local churches to copy books by hand."
         }
       ],
       "correct_key": "B",
       "evidence_snippet": "Gutenberg's mechanical press allowed for the rapid, mass production of highly accurate texts at a fraction of their previous cost",
-      "why_correct": "Ucuncu cümle Gutenberg'in mekanik matbaasinin yuksek derecede dogru metinlerin hizli ve kitlesel uretimine olanak sagladigini belirtir."
+      "why_correct": "Üçüncü cümle Gutenberg'in mekanik matbaasının yüksek derecede doğru metinlerin hızlı ve kitlesel üretimine olanak sağladığını belirtir."
     }
   },
   {
@@ -5153,7 +5153,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "In response to widespread poverty and massive bank failures, governments abandoned traditional hands-off economic policies",
-      "why_correct": "Ucuncu cümle yaygin yoksulluk ve buyuk banka iflaslarina karsi hükümetlerin geleneksel serbest piyasa politikalarini biraktigini belirtir."
+      "why_correct": "Üçüncü cümle yaygın yoksulluk ve büyük banka iflaslarına karşı hükümetlerin geleneksel serbest piyasa politikalarını bıraktığını belirtir."
     }
   },
   {
@@ -5180,7 +5180,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "By studying these subtle spectral fingerprints, researchers can successfully identify vital compounds",
-      "why_correct": "Ucuncu cümle arastirmacilarin yildiz tayfindaki hafif spektral izleri inceleyerek hayati bilesikleri teshis edebildigini gosterir."
+      "why_correct": "Üçüncü cümle araştırmacıların yıldız tayfındaki hafif spektral izleri inceleyerek hayati bileşikleri teşhis edebildiğini gösterir."
     }
   },
   {
@@ -5207,7 +5207,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "biological communities rely on chemosynthetic bacteria that turn toxic hydrogen sulfide from vents into organic nutrients",
-      "why_correct": "Ikinci cümle derin deniz canlilarinin bacalardan cikan toksik hidrojen sulfuru organik besinlere donusturen kemosentetik bakterilere dayandigini gosterir."
+      "why_correct": "İkinci cümle derin deniz canlılarının bacalarından çıkan toksik hidrojen sülfürü organik besinlere dönüştüren kemosentetik bakterilere dayandığını gösterir."
     }
   },
   {
@@ -5234,7 +5234,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "created a larger fifty two year cycle known as the Calendar Round",
-      "why_correct": "Ucuncu cümle bu iki dongunun birleserek Calendar Round olarak bilinen elli iki yillik daha buyuk bir cevrim olusturdugunu belirtir."
+      "why_correct": "Üçüncü cümle bu iki döngünün birleşerek Calendar Round olarak bilinen elli iki yıllık daha büyük bir çevrim oluşturduğunu belirtir."
     }
   },
   {
@@ -5261,7 +5261,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "threat to global biodiversity when introduced into foreign ecosystems where they lack natural predators to control their populations",
-      "why_correct": "Birinci cümle istilaci türlerin dogal avcilardan yoksun olduklari yabanci ekosistemlere girdiklerinde buyuk bir tehdit olusturduklarini aciklar."
+      "why_correct": "Birinci cümle istilacı türlerin doğal avcılardan yoksun oldukları yabancı ekosistemlere girdiklerinde büyük bir tehdit oluşturduklarını açıklar."
     }
   },
   {
@@ -5288,7 +5288,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Unlike traditional chemotherapy, which directly attacks both healthy and cancerous cells with toxic chemical compounds, immunotherapy utilizes specialized laboratory engineered antibodies",
-      "why_correct": "Ikinci cümle kemoterapinin aksine immunoterapinin tumor hücrelerini hedef almak icin ozel laboratuvar antikorlari kullandigini aciklamaktadir."
+      "why_correct": "İkinci cümle kemoterapinin aksine immünoterapinin tümör hücrelerini hedef almak için özel laboratuvar antikorları kullandığını açıklamaktadır."
     }
   },
   {
@@ -5315,7 +5315,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "because Wegener could not explain the physical mechanism responsible for moving these massive landmasses, his theories were widely rejected",
-      "why_correct": "Dorduncu cümle Wegener'in bu devasa kara kutlelerini hareket ettiren fiziksel mekanizmayi aciklayamadigi icin teorilerinin reddedildigini belirtir."
+      "why_correct": "Dördüncü cümle Wegener'in bu devasa kara kütlelerini hareket ettiren fiziksel mekanizmayı açıklayamadığı için teorilerinin reddedildiğini belirtir."
     }
   },
   {
@@ -5342,7 +5342,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "migrate to urban centers in search of better employment opportunities, higher wages, and improved educational facilities",
-      "why_correct": "Ikinci cümle kirsal kesimdeki iscilerin daha iyi is imkanlari, yuksek ucretler ve gelismis egitim olanaklari arayisiyla kentlere goc ettigini aciklar."
+      "why_correct": "İkinci cümle kırsal kesimdeki işçilerin daha iyi iş imkanları, yüksek ücretler ve gelişmiş eğitim olanakları arayışıyla kentlere göç ettiğini açıklar."
     }
   },
   {
@@ -5369,7 +5369,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "detect its massive presence by observing its powerful gravitational effects on the rotational speeds of visible galaxies and the bending of light",
-      "why_correct": "Ucuncu cümle astrofizikcilerin karanlik maddenin varligini, gorunur galaksilerin donme hizlari ve isigin bukulmesi uzerindeki kutlecekimi etkileriyle saptadiklarini belirtir."
+      "why_correct": "Üçüncü cümle astrofizikçilerin karanlık maddenin varlığını, görünür galaksilerin dönme hızları ve ışığın bükülmesi üzerindeki kütleçekimi etkileriyle saptadıklarını belirtir."
     }
   },
   {
@@ -5396,7 +5396,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "adoption of powerful steam engines and mechanized factories dramatically increased manufacturing outputs and lowered the cost of essential consumer goods",
-      "why_correct": "Ikinci cümle buharlu makinelerin ve fabrikalarin yayginlasmasinin imalat ciktisini artirdigini ve tuketim mallarinin maliyetini dusurdugunu belirtir."
+      "why_correct": "İkinci cümle buharlı makinelerin ve fabrikaların yaygınlaşmasının imalat çıktısını artırdığını ve tüketim mallarının maliyetini düşürdüğünü belirtir."
     }
   },
   {
@@ -5423,7 +5423,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Giant trees absorb massive amounts of carbon dioxide",
-      "why_correct": "Ikinci cumle dev agaclarin atmosferden yuksek miktarda karbondioksit emdigini acikca belirtir."
+      "why_correct": "İkinci cümle dev ağaçların atmosferden yüksek miktarda karbondioksit emdiğini açıkça belirtir."
     }
   },
   {
@@ -5450,7 +5450,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "hydration helps our kidneys filter waste materials more efficiently",
-      "why_correct": "Ikinci cumle yeterli su tuketiminin bobreklerin atik maddeleri daha verimli suzmesine yardimci oldugunu belirtir."
+      "why_correct": "İkinci cümle yeterli su tüketiminin böbreklerin atık maddeleri daha verimli süzmesine yardımcı olduğunu belirtir."
     }
   },
   {
@@ -5477,7 +5477,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "devices constantly monitor heart rates and count steps taken",
-      "why_correct": "Ikinci cumle bu giyilebilir cihazlarin kalp atis hizini surekli izledigini ve adimlari saydigini ifade eder."
+      "why_correct": "İkinci cümle bu giyilebilir cihazların kalp atış hızını sürekli izlediğini ve adımları saydığını ifade eder."
     }
   },
   {
@@ -5504,7 +5504,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "scribes used clay tablets to record business agreements and laws",
-      "why_correct": "Ilk cumle antik yazicilarin ticari anlasmalari ve yasalari kaydetmek icin kil tabletler kullandigini aciklar."
+      "why_correct": "İlk cümle antik yazıcıların ticari anlaşmaları ve yasaları kaydetmek için kil tabletler kullandığını açıklar."
     }
   },
   {
@@ -5531,7 +5531,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Seeing real ancient objects makes historical events feel much more real",
-      "why_correct": "Ikinci cumle gercek antik nesneleri gormenin tarihi olaylari cok daha gercekci hissettirdigini belirtmektedir."
+      "why_correct": "İkinci cümle gerçek antik nesneleri görmenin tarihi olayları çok daha gerçekçi hissettirdiğini belirtmektedir."
     }
   },
   {
@@ -5558,7 +5558,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "they lack natural predators in the new area",
-      "why_correct": "Paragraftaki ikinci cumle istilaci turlerin yeni ortamlarinda dogal avcilarinin olmamasinin hizli nufus artisina yol actigini belirtir."
+      "why_correct": "Paragraftaki ikinci cümle istilacı türlerin yeni ortamlarında doğal avcılarının olmamasının hızlı nüfus artışına yol açtığını belirtir."
     }
   },
   {
@@ -5585,7 +5585,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "songs tell beautiful stories about historical struggles, love, and seasonal harvest celebrations",
-      "why_correct": "Ucuncu cumle geleneksel sarkilarin tarihi mucadeleler, ask ve mevsimlik hasat kutlamalari hakkinda guzel hikayeler anlattigini belirtir."
+      "why_correct": "Üçüncü cümle geleneksel şarkıların tarihi mücadeleler, aşk ve mevsimlik hasat kutlamaları hakkında güzel hikayeler anlattığını belirtir."
     }
   },
   {
@@ -5612,7 +5612,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "screens store thousands of digital books without taking physical space",
-      "why_correct": "Ikinci cumle elektronik ekranlarin fiziki yer kaplamadan binlerce dijital kitabi depolayabildigini ifade eder."
+      "why_correct": "İkinci cümle elektronik ekranların fiziki yer kaplamadan binlerce dijital kitabı depolayabildiğini ifade eder."
     }
   },
   {
@@ -5639,7 +5639,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "discover new plants that might cure dangerous human diseases",
-      "why_correct": "Ucuncu cumle bilim insanlarinin tehlikeli insan hastaliklarini iyilestirebilecek yeni bitkiler kesfetmek icin bu ormanlari ziyaret ettigini belirtir."
+      "why_correct": "Üçüncü cümle bilim insanlarının tehlikeli insan hastalıklarını iyileştirebilecek yeni bitkiler keşfetmek için bu ormanları ziyaret ettiğini belirtir."
     }
   },
   {
@@ -5666,7 +5666,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "During deep rest, our brain processes daily memories and repairs physical cells",
-      "why_correct": "Ikinci cumle derin dinlenme sirasinda beynimizin gunluk anilari isledigini ve fiziki hücreleri onardigini aciklar."
+      "why_correct": "İkinci cümle derin dinlenme sırasında beynimizin günlük anıları işlediğini ve fiziki hücreleri onardığını açıklar."
     }
   },
   {
@@ -5693,7 +5693,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "creating shapes helps calm active minds",
-      "why_correct": "Ikinci cumle renkleri karistirmaya ve sekiller olusturmaya odaklanmanin aktif zihinleri sakinlestirmeye yardimci oldugunu belirtir."
+      "why_correct": "İkinci cümle renkleri karıştırmaya ve şekiller oluşturmaya odaklanmanın aktif zihinleri sakinleştirmeye yardımcı olduğunu belirtir."
     }
   },
   {
@@ -5720,7 +5720,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Because bikes do not burn fossil fuels",
-      "why_correct": "Ucuncu cumle bisikletlerin fosil yakit yakmadigi icin havaya zararli gaz salmadigini netlestirir."
+      "why_correct": "Üçüncü cümle bisikletlerin fosil yakıt yakmadığı için havaya zararlı gaz salmadığını netleştirir."
     }
   },
   {
@@ -5747,7 +5747,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "provide free access to educational books, fast internet, and quiet study spaces",
-      "why_correct": "Ikinci cumle halk kutuphanelerinin egitim kitaplarina, hizli internete ve sessiz calisma alanlarina ucretsiz erisim sagladigini belirtir."
+      "why_correct": "İkinci cümle halk kütüphanelerinin eğitim kitaplarına, hızlı internete ve sessiz çalışma alanlarına ücretsiz erişim sağladığını belirtir."
     }
   },
   {
@@ -5774,7 +5774,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "contain massive deposits of valuable industrial metals like platinum and gold",
-      "why_correct": "Ikinci cumle asteroitlerin platin ve altin gibi degerli endustriyel metallerden olusan buyuk rezervler barindirdigini aciklar."
+      "why_correct": "İkinci cümle asteroitlerin platin ve altın gibi değerli endüstriyel metallerden oluşan büyük rezervler barındırdığını açıklar."
     }
   },
   {
@@ -5801,7 +5801,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "biological surfaces absorb heavy rainfall, which successfully prevents local urban drainage systems from overflowing",
-      "why_correct": "Ikinci cumle bu bitkisel yuzeylerin yogun yagmuru emerek kentsel kanalizasyon sistemlerinin tasmalarini engelledigini aciklar."
+      "why_correct": "İkinci cümle bu bitkisel yüzeylerin yoğun yağmuru emerek kentsel kanalizasyon sistemlerinin taşmalarını engellediğini açıklar."
     }
   },
   {
@@ -5828,7 +5828,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "associations controlled the exact quality of manufactured goods and established fair prices",
-      "why_correct": "Ikinci cumle esnaf birliklerinin uretilen mallarin kalitesini ve adil fiyatlandirmasini kontrol ettigini gosterir."
+      "why_correct": "İkinci cümle esnaf birliklerinin üretilen malların kalitesini ve adil fiyatlandırmasını kontrol ettiğini gösterir."
     }
   },
   {
@@ -5855,7 +5855,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "quantum keys are transmitted through light particles",
-      "why_correct": "Ikinci cumle kuantum anahtarlarinin isik parcaciklari araciligiyla iletildigini dogrudan ifade eder."
+      "why_correct": "İkinci cümle kuantum anahtarlarının ışık parçacıkları aracılığıyla iletildiğini doğrudan ifade eder."
     }
   },
   {
@@ -5882,7 +5882,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "bacteria assist in digesting complex dietary fibers and producing essential vitamins",
-      "why_correct": "Ikinci cumle faydali bakterilerin karmasik lifleri sindirmede ve temel vitaminleri uretmede vucuda yardimci oldugunu belirtir."
+      "why_correct": "İkinci cümle faydalı bakterilerin karmaşık lifleri sindirmede ve temel vitaminleri üretmede vücuda yardımcı olduğunu belirtir."
     }
   },
   {
@@ -5909,7 +5909,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "students participate in group debates, problem-solving tasks, and short presentations",
-      "why_correct": "Ikinci cumle aktif ogrenme sirasinda ogrencilerin grup tartismalarina, problem cozme gorevlerine ve sunumlara katildigini gosterir."
+      "why_correct": "İkinci cümle aktif öğrenme sırasında öğrencilerin grup tartışmalarına, problem çözme görevlerine ve sunumlara katıldığını gösterir."
     }
   },
   {
@@ -5936,7 +5936,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "seismometers detect tiny ground vibrations caused by magma moving deep underneath",
-      "why_correct": "Ikinci cumle yuksek hassasiyetli sismograflarin magmanin hareket etmesiyle olusan kucuk yer sarsintilarini tespit ettigini belirtir."
+      "why_correct": "İkinci cümle yüksek hassasiyetli sismografların magmanın hareket etmesiyle oluşan küçük yer sarsıntılarını tespit ettiğini belirtir."
     }
   },
   {
@@ -5963,7 +5963,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "applications to learn vocabulary and record speeches from the last surviving elderly speakers",
-      "why_correct": "Ikinci cumle genc topluluk uyelerinin kelime ogrenmek ve yasli konusmacilarin seslerini kaydetmek icin akilli telefon uygulamalari kullandigini belirtir."
+      "why_correct": "İkinci cümle genç topluluk üyelerinin kelime öğrenmek ve yaşlı konuşmacıların seslerini kaydetmek için akıllı telefon uygulamaları kullandığını belirtir."
     }
   },
   {
@@ -5990,7 +5990,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "drones equipped with thermal cameras fly over agricultural fields to detect early signs of plant disease and water stress",
-      "why_correct": "Ikinci cumle otonom insansiz hava araclarinin hastalik ve susuzluk belirtilerini erkenden tespit etmek icin uctugunu belirtir."
+      "why_correct": "İkinci cümle otonom insansız hava araçlarının hastalık ve susuzluk belirtilerini erkenden tespit etmek için uçtuğunu belirtir."
     }
   },
   {
@@ -6017,7 +6017,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "merchants carried exotic spices, decorative ceramics, and glass objects",
-      "why_correct": "Ikinci cumle tuccarlarin ipek yolunda baharat, seramik ve cam nesneler tasidigini acikca belirtir."
+      "why_correct": "İkinci cümle tüccarların İpek Yolu'nda baharat, seramik ve cam nesneler taşıdığını açıkça belirtir."
     }
   },
   {
@@ -6044,7 +6044,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "oceans absorb excessive carbon dioxide from the atmosphere, the water chemistry becomes increasingly acidic",
-      "why_correct": "Ikinci cumle okyanuslarin asiri karbondioksit emmesiyle su kimyasinin giderek daha asidik hale geldigini belirtir."
+      "why_correct": "İkinci cümle okyanusların aşırı karbondioksit emmesiyle su kimyasının giderek daha asidik hale geldiğini belirtir."
     }
   },
   {
@@ -6071,7 +6071,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "agriculture has replaced diverse wild grasslands with massive fields of single crops, reducing natural food variety",
-      "why_correct": "Ikinci cumle endustriyel tarimin tek tip urun ekerek arilarin dogal besin cesitliligini azalttigini gosterir."
+      "why_correct": "İkinci cümle endüstriyel tarımın tek tip ürün ekerek arıların doğal besin çeşitliliğini azalttığını gösterir."
     }
   },
   {
@@ -6098,7 +6098,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "prolonged inactivity slows down human metabolism, reducing the body's ability to regulate blood sugar",
-      "why_correct": "Ikinci cumle uzun sure hareketsiz kalmanin metabolizmayi yavaslattigini ve kan sekerini duzenleme becerisini azalttigini belirtir."
+      "why_correct": "İkinci cümle uzun süre hareketsiz kalmanın metabolizmayı yavaşlattığını ve kan şekerini düzenleme becerisini azalttığını belirtir."
     }
   },
   {
@@ -6125,7 +6125,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "When rainwater seeps into a newly formed crack, it wakes up the dormant bacteria",
-      "why_correct": "Ucuncu cumle yagmur suyunun yeni olusan catlaklardan iceri sizmasinin uykuda olan bakterileri uyandirdigini ifade eder."
+      "why_correct": "Üçüncü cümle yağmur suyunun yeni oluşan çatlaklardan içeri sızmasının uykuda olan bakterileri uyandırdığını ifade eder."
     }
   },
   {
@@ -6152,7 +6152,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "primarily caused by the abundance of dark asphalt roads and concrete structures that absorb solar radiation",
-      "why_correct": "Ikinci cumle kentsel isi adasi etkisinin temel olarak gunes radyasyonunu emen koyu renkli asfalt yollar ve beton yapilardan kaynaklandigini belirtir."
+      "why_correct": "İkinci cümle kentsel ısı adası etkisinin temel olarak güneş radyasyonunu emen koyu renkli asfalt yollar ve beton yapılardan kaynaklandığını belirtir."
     }
   },
   {
@@ -6179,7 +6179,7 @@
       ],
       "correct_key": "C",
       "evidence_snippet": "interactions at the boundaries where these plates meet are responsible for some of the most dramatic geological events on Earth",
-      "why_correct": "Ucuncu cumle levhalarin karsilastigi sinirlardaki etkilesimlerin depremler ve volkanlar gibi dramatik jeolojik olaylardan sorumlu oldugunu aciklar."
+      "why_correct": "Üçüncü cümle levhaların karşılaştığı sınırlardaki etkileşimlerin depremler ve volkanlar gibi dramatik jeolojik olaylardan sorumlu olduğunu açıklar."
     }
   },
   {
@@ -6206,7 +6206,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "communities rely on chemosynthetic bacteria that convert toxic chemicals into usable organic energy",
-      "why_correct": "Ikinci cumle bu deniz alti topluluklarinin zehirli kimyasallari organik enerjiye donusturen kemosentetik bakterilere guvendigini aciklar."
+      "why_correct": "İkinci cümle bu deniz altı topluluklarının zehirli kimyasalları organik enerjiye dönüştüren kemosentetik bakterilere güvendiğini açıklar."
     }
   },
   {
@@ -6233,7 +6233,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Because machine learning models are trained on massive historical data sets, they frequently absorb and amplify old human prejudices",
-      "why_correct": "Ikinci cumle yapay zeka modellerinin insan onyargilari barindiran gecmis veri setleriyle egitilmesi nedeniyle bu ayrimciligi buyuttugunu belirtir."
+      "why_correct": "İkinci cümle yapay zeka modellerinin insan önyargıları barındıran geçmiş veri setleriyle eğitilmesi nedeniyle bu ayrımcılığı büyüttüğünü belirtir."
     }
   },
   {
@@ -6260,7 +6260,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "destroy vulnerable bacteria while allowing stronger, mutated strains to survive and reproduce",
-      "why_correct": "Ikinci cumle antibiyotiklerin asiri kullanilmasinin hassas bakterileri yok ederken direnicli ve mutasyonlu olanlarin hayatta kalmasina yol actigini belirtir."
+      "why_correct": "İkinci cümle antibiyotiklerin aşırı kullanılmasının hassas bakterileri yok ederken dirençli ve mutasyonlu olanların hayatta kalmasına yol açtığını belirtir."
     }
   },
   {
@@ -6287,7 +6287,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Because these tiny algae provide corals with the majority of their essential nutrients through photosynthesis, their loss leaves the corals white",
-      "why_correct": "Ucuncu cumle bu kucuk alglerin mercanlara temel besin sagladigini, bu yuzden kayiplarinin ac kalmalarina yol actigini aciklar."
+      "why_correct": "Üçüncü cümle bu küçük alglerin mercanlara temel besin sağladığını, bu yüzden kayıplarının aç kalmalarına yol açtığını açıklar."
     }
   },
   {
@@ -6314,7 +6314,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "food security allowed populations to settle permanently in large villages, leading to the development of specialized professions",
-      "why_correct": "Ucuncu cumle gida guvencesinin nufuslarin kalici olarak yerlesmesine ve uzmanlasmis mesleklerin gelismesine olanak tanidigini belirtir."
+      "why_correct": "Üçüncü cümle gıda güvencesinin nüfusların kalıcı olarak yerleşmesine ve uzmanlaşmış mesleklerin gelişmesine olanak tanıdığını belirtir."
     }
   },
   {
@@ -6341,7 +6341,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "smart grids can easily absorb and store volatile energy generated from renewable sources like wind and solar, which traditional grids often fail to handle",
-      "why_correct": "Ucuncu cumle akilli sebekelerin ruzgar ve gunes gibi yenilenebilir kaynaklardan uretilen dalgali enerjiyi kolayca emip depolayabildigini belirtir."
+      "why_correct": "Üçüncü cümle akıllı şebekelerin rüzgar ve güneş gibi yenilenebilir kaynaklardan üretilen dalgalı enerjiyi kolayca emip depolayabildiğini belirtir."
     }
   },
   {
@@ -6368,7 +6368,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "glymphatic system actively washes toxic proteins, including amyloid-beta, from the physical brain tissues",
-      "why_correct": "Ikinci cumle glimfatik sistemin derin uyku sirasinda beyin dokularindaki zararli proteinleri aktif olarak temizledigini aciklar."
+      "why_correct": "İkinci cümle glimfatik sistemin derin uyku sırasında beyin dokularındaki zararlı proteinleri aktif olarak temizlediğini açıklar."
     }
   },
   {
@@ -6395,7 +6395,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "single-crop commercial pine plantations fail to support diverse wildlife or provide long-term ecological resilience",
-      "why_correct": "Son cumle tek tip ticari cam plantasyonlarinin vahsi yasami destekleyemedigini, bu yuzden yerli turlerin dikilmesi gerektigini aciklar."
+      "why_correct": "Son cümle tek tip ticari çam plantasyonlarının vahşi yaşamı destekleyemediğini, bu yüzden yerli türlerin dikilmesi gerektiğini açıklar."
     }
   },
   {
@@ -6422,7 +6422,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "bilingual children constantly exercise their brain's executive control center to suppress one language while speaking the other",
-      "why_correct": "Ikinci cumle iki dilli cocuklarin bir dili konusurken digerini baskilamak icin beynin yonetici kontrol merkezini surekli calistirdigini belirtir."
+      "why_correct": "İkinci cümle iki dilli çocukların bir dili konuşurken diğerini baskılamak için beynin yönetici kontrol merkezini sürekli çalıştırdığını belirtir."
     }
   },
   {
@@ -6449,7 +6449,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "workers are legally classified as independent contractors rather than official employees, they do not receive essential labor protections",
-      "why_correct": "Ucuncu cumle platform calisanlarinin resmi calisan yerine bagimsiz yuklenici olarak siniflandirilmasi nedeniyle is kanunu korumalarindan yararlanamadigini belirtir."
+      "why_correct": "Üçüncü cümle platform çalışanlarının resmi çalışan yerine bağımsız yüklenici olarak sınıflandırılması nedeniyle iş kanunu korumalarından yararlanamadığını belirtir."
     }
   },
   {
@@ -6476,7 +6476,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "fueled the intellectual movements of the Scientific Revolution by allowing researchers to share and verify scientific findings quickly",
-      "why_correct": "Son cumle matbaanin arastirmacilarin bilimsel bulgulari uluslararasi sinirlar arasinda hizla paylasip dogrulamasina izin vererek devrimi besledigini belirtir."
+      "why_correct": "Son cümle matbaanın araştırmacıların bilimsel bulguları uluslararası sınırlar arasında hızla paylaşıp doğrulamasına izin vererek devrimi beslediğini belirtir."
     }
   },
   {
@@ -6503,7 +6503,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "pandas must consume massive amounts of bamboo daily to survive",
-      "why_correct": "Ikinci cumle dev pandalarin hayatta kalabilmek icin her gun yuksek miktarda bambu tuketmeleri gerektigini aciklar."
+      "why_correct": "İkinci cümle dev pandaların hayatta kalabilmek için her gün yüksek miktarda bambu tüketmeleri gerektiğini açıklar."
     }
   },
   {
@@ -6530,7 +6530,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "acid rain damages historic stone monuments and kills aquatic life",
-      "why_correct": "Ucuncu cumle asit yagmurunun tarihi tas anitlara zarar verdigini ve gollerdeki sucul yasami oldurdugunu belirtir."
+      "why_correct": "Üçüncü cümle asit yağmurunun tarihi taş anıtlara zarar verdiğini ve göllerdeki sucul yaşamı öldürdüğünü belirtir."
     }
   },
   {
@@ -6557,7 +6557,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "thick volcanic ash preserved buildings and everyday objects perfectly",
-      "why_correct": "Ikinci cumle kalin volkanik kulun binalari ve gunluk esyalari yuzyillar boyunca mukemmel sekilde korudugunu aciklar."
+      "why_correct": "İkinci cümle kalın volkanik külün binaları ve günlük eşyaları yüzyıllar boyunca mükemmel şekilde koruduğunu açıklar."
     }
   },
   {
@@ -6584,7 +6584,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "smart thermostats learn household routines to save electricity automatically",
-      "why_correct": "Ikinci cumle akilli termostatlarin elektrik tasarrufu saglamak icin ev halkinin gunluk rutinlerini ogrendigini belirtir."
+      "why_correct": "İkinci cümle akıllı termostatların elektrik tasarrufu sağlamak için ev halkının günlük rutinlerini öğrendiğini belirtir."
     }
   },
   {
@@ -6594,7 +6594,6 @@
     "level": "easy",
     "paragraph_raw": "The discovery of penicillin revolutionized modern healthcare by providing an effective weapon against deadly bacterial infections. In nineteen twenty-eight, Alexander Fleming discovered penicillin by accident in his messy laboratory. He noticed that a strange green mold killed surrounding bacteria in a petri dish. This observation led to the mass production of antibiotics.",
     "comprehension_question": {
-      "thought": "Let's double check word count: 48 words. Perfect.",
       "question_text": "How did Alexander Fleming discover penicillin in nineteen twenty-eight?",
       "options": [
         {
@@ -6612,7 +6611,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Alexander Fleming discovered penicillin by accident in his messy laboratory",
-      "why_correct": "Ikinci cumle Alexander Fleming'in penisilini daginik laboratuvarinda tesadufen kesfettigini belirtir."
+      "why_correct": "İkinci cümle Alexander Fleming'in penisilini dağınık laboratuvarında tesadüfen keşfettiğini belirtir."
     }
   },
   {
@@ -6639,7 +6638,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "strong winds constantly reshape giant sand dunes across the region",
-      "why_correct": "Ikinci cumle guclu ruzgarlarin bolgedeki dev kum tepelerini surekli yeniden sekillendirdigini belirtir."
+      "why_correct": "İkinci cümle güçlü rüzgarların bölgedeki dev kum tepelerini sürekli yeniden şekillendirdiğini belirtir."
     }
   },
   {
@@ -6657,7 +6656,7 @@
         },
         {
           "key": "B",
-          "text": "To perform a unique waggle dance to show food directions."
+          "text": "Honeybees perform a unique waggle dance to show food directions."
         },
         {
           "key": "C",
@@ -6666,7 +6665,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "honeybees perform a unique waggle dance to show food directions",
-      "why_correct": "Ikinci cumle bal arilarinin besin kaynaklarinin yonunu gostermek icin ozel bir dans sergilediklerini belirtir."
+      "why_correct": "İkinci cümle bal arılarının besin kaynaklarının yönünü göstermek için özel bir dans sergilediklerini belirtir."
     }
   },
   {
@@ -6693,7 +6692,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "water expands when it freezes into ice instead of shrinking",
-      "why_correct": "Ikinci cumle suyun dondugunda büzülmek yerine genisledigini aciklar."
+      "why_correct": "İkinci cümle suyun donduğunda büzülmek yerine genişlediğini açıklar."
     }
   },
   {
@@ -6720,7 +6719,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "emperors built the stone wall to protect borders from invaders",
-      "why_correct": "Ikinci cumle imparatorlarin bu tas duvari sinirlari istilacilardan korumak amaciyla insa ettiklerini aciklar."
+      "why_correct": "İkinci cümle imparatorların bu taş duvarı sınırları istilacılardan korumak amacıyla inşa ettiklerini açıklar."
     }
   },
   {
@@ -6747,7 +6746,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "sleeping in a dark room improves brain recovery and memory",
-      "why_correct": "Ikinci cumle karanlik bir odada uyumanin beyin iyilesmesini ve bellegi gelistirdigini belirtir."
+      "why_correct": "İkinci cümle karanlık bir odada uyumanın beyin iyileşmesini ve belleği geliştirdiğini belirtir."
     }
   },
   {
@@ -6774,7 +6773,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "steel cables allow suspension bridges to support extremely heavy trucks",
-      "why_correct": "Ikinci cumle celik kablolarin asma koprulerin cok agir kamyonlari tasimasina olanak sagladigini belirtir."
+      "why_correct": "İkinci cümle çelik kabloların asma köprülerin çok ağır kamyonları taşımasına olanak sağladığını belirtir."
     }
   },
   {
@@ -6801,7 +6800,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "oil paints dry very slowly allowing artists to correct mistakes",
-      "why_correct": "Ikinci cumle yagli boyalarin cok yavas kurudugunu ve bunun sanatcilara hatalarini duzeltme imkani tanidigini aciklar."
+      "why_correct": "İkinci cümle yağlı boyaların çok yavaş kuruduğunu ve bunun sanatçılara hatalarını düzeltme imkanı tanıdığını açıklar."
     }
   },
   {
@@ -6828,7 +6827,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "thick stems store precious water during long dry seasons effectively",
-      "why_correct": "Ikinci cumle kalin govdelerin uzun kurak mevsimlerde suyu etkili bir sekilde depolayarak hayatta kalmayi sagladigini belirtir."
+      "why_correct": "İkinci cümle kalın gövdelerin uzun kurak mevsimlerde suyu etkili bir şekilde depolayarak hayatta kalmayı sağladığını belirtir."
     }
   },
   {
@@ -6855,7 +6854,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "extracts natural heat stored deep within the Earth to generate electricity",
-      "why_correct": "Ikinci cumle jeotermal teknolojisinin elektrik uretmek icin yerin derinliklerindeki dogal isiyi cikardigini belirtir."
+      "why_correct": "İkinci cümle jeotermal teknolojisinin elektrik üretmek için yerin derinliklerindeki doğal ısıyı çıkardığını belirtir."
     }
   },
   {
@@ -6882,7 +6881,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "blockchain relies on a decentralized network of computers to record all transactions securely",
-      "why_correct": "Ikinci cumle blokzincir teknolojisinin islemleri guvenli sekilde kaydetmek icin bilgisayarlardan olusan merkeziyetsiz bir aga dayandigini gosterir."
+      "why_correct": "İkinci cümle blokzincir teknolojisinin işlemleri güvenli şekilde kaydetmek için bilgisayarlardan oluşan merkeziyetsiz bir ağa dayandığını gösterir."
     }
   },
   {
@@ -6909,7 +6908,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Johannes Gutenberg invented the movable type printing press in the fifteenth century",
-      "why_correct": "Ikinci cumle Johannes Gutenberg'in on besinci yuzyilda hareketli metal harfli matbaayi icat ederek kitap uretimini degistirdigini belirtir."
+      "why_correct": "İkinci cümle Johannes Gutenberg'in on beşinci yüzyılda hareketli metal harfli matbaayı icat ederek kitap üretimini değiştirdiğini belirtir."
     }
   },
   {
@@ -6936,7 +6935,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "rapid urban growth also strains existing public infrastructure, causing heavy traffic congestion",
-      "why_correct": "Ucuncu cumle hizli kentsel buyumenin mevcut altyapiyi zorlayarak agir trafik sikisikligina yol actigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle hızlı kentsel büyümenin mevcut altyapıyı zorlayarak ağır trafik sıkışıklığına yol açtığını açıklamaktadır."
     }
   },
   {
@@ -6963,7 +6962,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "flipped classroom model asks students to watch lecture videos at home before class",
-      "why_correct": "Ikinci cumle ters yuz edilmis sinif modelinde ogrencilerin derse gelmeden once evde ders videolarini izlediklerini aciklar."
+      "why_correct": "İkinci cümle ters yüz edilmiş sınıf modelinde öğrencilerin derse gelmeden önce evde ders videolarını izlediklerini açıklar."
     }
   },
   {
@@ -6990,7 +6989,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Mars possesses an extremely thin atmosphere composed mostly of carbon dioxide",
-      "why_correct": "Birinci cumle Mars'in karbondioksitten olusan son derece ince bir atmosfere sahip oldugunu belirtir."
+      "why_correct": "Birinci cümle Mars'ın karbondioksitten oluşan son derece ince bir atmosfere sahip olduğunu belirtir."
     }
   },
   {
@@ -7017,7 +7016,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "vaccines train the human immune system to recognize and fight specific pathogens safely",
-      "why_correct": "Ikinci cumle asilarin insan bagisiklik sistemini belirli patojenleri guvenli sekilde taniyip onlarla mucadele etmesi icin egttigini belirtir."
+      "why_correct": "İkinci cümle aşıların insan bağışıklık sistemini belirli patojenleri güvenli şekilde tanıyıp onlarla mücadele etmesi için eğittiğini belirtir."
     }
   },
   {
@@ -7044,7 +7043,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "mass movement of people from rural villages to major industrial cities",
-      "why_correct": "Birinci cumle fabrikalarin hizli buyumesinin koylerden buyuk sanayi kentlerine dogru kitlesel bir goc hareketini tetikledigini gosterir."
+      "why_correct": "Birinci cümle fabrikaların hızlı büyümesinin köylerden büyük sanayi kentlerine doğru kitlesel bir göç hareketini tetiklediğini gösterir."
     }
   },
   {
@@ -7071,7 +7070,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "probiotics contain beneficial live bacteria that actively support human digestive health",
-      "why_correct": "Ikinci cumle probiyotiklerin insan sindirim sagligini aktif olarak destekleyen yararli canli bakteriler icerdigini belirtir."
+      "why_correct": "İkinci cümle probiyotiklerin insan sindirim sağlığını aktif olarak destekleyen yararlı canlı bakteriler içerdiğini belirtir."
     }
   },
   {
@@ -7098,7 +7097,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "plastic waste breaks down into tiny microplastics that contaminate global food chains",
-      "why_correct": "Ikinci cumle plastik atiklarin zamanla kuresel gida zincirlerini kirleten mikroplastiklere ayristigini belirtir."
+      "why_correct": "İkinci cümle plastik atıkların zamanla küresel gıda zincirlerini kirleten mikroplastiklere ayrıştığını belirtir."
     }
   },
   {
@@ -7125,7 +7124,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "equipped with multispectral cameras to monitor crop health and soil moisture levels",
-      "why_correct": "Ikinci cumle dronlarin urun sagligini ve toprak nemini izlemek icin cok bantli kameralarla donatildigini gosterir."
+      "why_correct": "İkinci cümle dronların ürün sağlığını ve toprak nemini izlemek için çok bantlı kameralarla donatıldığını gösterir."
     }
   },
   {
@@ -7152,7 +7151,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "confirmation bias leads individuals to search for information that matches existing beliefs",
-      "why_correct": "Ikinci cumle dogrulama yanliliginin bireyleri mevcut inanclariyla eslesen bilgileri aramaya yonlendirdigini aciklar."
+      "why_correct": "İkinci cümle doğrulama yanlılığının bireyleri mevcut inanışlarıyla eşleşen bilgileri aramaya yönlendirdiğini açıklar."
     }
   },
   {
@@ -7178,8 +7177,8 @@
         }
       ],
       "correct_key": "B",
-      "evidence_snippet": "venus flytrap catches small insects to obtain vital nitrogen in poor soils",
-      "why_correct": "Ikinci cumle sinekkapan bitkisinin fakir topraklarda yasamsal azot elde etmek icin bocekleri yakaladigini belirtir."
+      "evidence_snippet": "Venus flytrap catches small insects to obtain vital nitrogen in poor soils",
+      "why_correct": "İkinci cümle sinekkapan bitkisinin fakir topraklarda yaşamsal azot elde etmek için böcekleri yakaladığını belirtir."
     }
   },
   {
@@ -7206,7 +7205,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "designed to study the outer solar system and eventually cross into interstellar space",
-      "why_correct": "Birinci cumle ikiz Voyager uzay sondalarinin dis gunes sistemini incelemek ve yildizlararasi uzaya gecmek icin tasarlandigini belirtir."
+      "why_correct": "Birinci cümle ikiz Voyager uzay sondalarının dış güneş sistemini incelemek ve yıldızlararası uzaya geçmek için tasarlandığını belirtir."
     }
   },
   {
@@ -7233,7 +7232,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "dramatic shift in manufacturing methods from manual craftsmanship to steam-powered machinery",
-      "why_correct": "Birinci cumle Sanayi Devrimi'nin el isçiliginden buhar gucuyle calisan makinelere gecisi ifade eden buyuk bir degisim oldugunu belirtir."
+      "why_correct": "Birinci cümle Sanayi Devrimi'nin el işçiliğinden buhar gücüyle çalışan makinelere geçişi ifade eden büyük bir değişim olduğunu belirtir."
     }
   },
   {
@@ -7260,7 +7259,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "fire both when an individual performs a specific action and when they observe someone else doing the same",
-      "why_correct": "Birinci cumle ayna noronlarin hem birey bir eylemi yaptiginda hem de baskasinin ayni eylemi yaptigini izlediginde ateslenen ozel beyin hucreleri oldugunu belirtir."
+      "why_correct": "Birinci cümle ayna nöronların hem birey bir eylemi yaptığında hem de başkasının aynı eylemi yaptığını izlediğinde ateşlenen özel beyin hücreleri olduğunu belirtir."
     }
   },
   {
@@ -7287,7 +7286,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "oceans absorb large amounts of carbon dioxide from the atmosphere, producing carbonic acid",
-      "why_correct": "Ikinci cumle okyanuslarin atmosferdeki karbondioksiti emerek karbonik asit urettigini ve bu sekilde asitlendigini belirtir."
+      "why_correct": "İkinci cümle okyanusların atmosferdeki karbondioksiti emerek karbonik asit ürettiğini ve bu şekilde asitlendiğini belirtir."
     }
   },
   {
@@ -7314,7 +7313,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "shared values, trust, and social networks that enable individuals to work together effectively",
-      "why_correct": "Birinci cumle sosyal sermayenin bireylerin birlikte etkili sekilde calismasini saglayan ortak degerler, guven ve sosyal aglar oldugunu belirtir."
+      "why_correct": "Birinci cümle sosyal sermayenin bireylerin birlikte etkili şekilde çalışmasını sağlayan ortak değerler, güven ve sosyal ağlar olduğunu belirtir."
     }
   },
   {
@@ -7341,7 +7340,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Earth's outer shell is divided into several massive plates that glide slowly over the mantle",
-      "why_correct": "Birinci cumle levha tektonigi teorisinin Dunya'nin dis kabugunun manto uzerinde kayan devasa levhalara bolundugunu acikladigini gosterir."
+      "why_correct": "Birinci cümle levha tektoniği teorisinin Dünya'nın dış kabuğunun manto üzerinde kayan devasa levhalara bölündüğünü açıkladığını gösterir."
     }
   },
   {
@@ -7368,7 +7367,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "integrates psychological insights with economic theories to explain why humans make irrational financial decisions",
-      "why_correct": "Ikinci cumle davranissal ekonominin insanlarin neden rasyonel olmayan finansal kararlar aldigini aciklamak icin psikolojik bulgular ile ekonomi kuramlarini birlestirdigini belirtir."
+      "why_correct": "İkinci cümle davranışsal ekonominin insanların neden rasyonel olmayan finansal kararlar aldığını açıklamak için psikolojik bulgular ile ekonomi kuramlarını birleştirdiğini belirtir."
     }
   },
   {
@@ -7395,7 +7394,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "allows molecular biologists to make precise alterations to DNA sequences with unprecedented ease",
-      "why_correct": "Ikinci cumle CRISPR-Cas9 teknolojisinin molekuler biyologlarin DNA dizilimlerinde kolayca hassas degisiklikler yapmasina olanak tanidigini gosterir."
+      "why_correct": "İkinci cümle CRISPR-Cas9 teknolojisinin moleküler biyologların DNA dizilimlerinde kolayca hassas değişiklikler yapmasına olanak tanıdığını gösterir."
     }
   },
   {
@@ -7422,7 +7421,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "infants possess an innate capacity to distinguish universal phonemes before specializing in their native tongue",
-      "why_correct": "Ikinci cumle bebeklerin an dillerinde uzmanlasmadan once evrensel ses birimlerini ayirt etme konusunda dogustan gelen bir yetenege sahip olduklarini gosterir."
+      "why_correct": "İkinci cümle bebeklerin ana dillerinde uzmanlaşmadan önce evrensel ses birimlerini ayırt etme konusunda doğuştan gelen bir yeteneğe sahip olduklarını gösterir."
     }
   },
   {
@@ -7449,7 +7448,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "urges individuals to distinguish between events within their control and those outside of it",
-      "why_correct": "Birinci cumle Stoacilik felsefesinin bireyleri kontrolu altindaki olaylar ile disindaki olaylari ayirt etmeye tesvik ettigini belirtir."
+      "why_correct": "Birinci cümle Stoacılık felsefesinin bireyleri kontrolü altındaki olaylar ile dışındaki olayları ayırt etmeye teşvik ettiğini belirtir."
     }
   },
   {
@@ -7476,7 +7475,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "facilitated the exchange of philosophical ideas, religious practices, and innovative technologies",
-      "why_correct": "Ikinci cumle Ipek Yolu'nun felsefi fikirlerin, dini uygulamalarin ve yenilikci teknolojilerin alisverisine olanak sagladigini gosterir."
+      "why_correct": "İkinci cümle İpek Yolu'nun felsefi fikirlerin, dini uygulamaların ve yenilikçi teknolojilerin alışverişine olanak sağladığını gösterir."
     }
   },
   {
@@ -7503,7 +7502,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "incorporating natural light, green vegetation, and organic materials into urban office buildings",
-      "why_correct": "Ikinci cumle mimarlarin dogal isik, yesil bitki ortusu ve organik malzemeleri binalara dahil ederek bu tasarimi uyguladiklarini belirtir."
+      "why_correct": "İkinci cümle mimarların doğal ışık, yeşil bitki örtüsü ve organik malzemeleri binalara dahil ederek bu tasarımı uyguladıklarını belirtir."
     }
   },
   {
@@ -7530,7 +7529,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "features the same official decree written in three distinct ancient scripts",
-      "why_correct": "Ikinci cumle Rosetta Tasi'nin uzerinde uc farkli kadim yazi turuyle yazilmis ayni resmi kararnamenin yer aldigini belirtir."
+      "why_correct": "İkinci cümle Rosetta Taşı'nın üzerinde üç farklı kadim yazı türüyle yazılmış aynı resmi kararnamenin yer aldığını belirtir."
     }
   },
   {
@@ -7557,7 +7556,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "high sea temperatures force corals to expel the colorful symbiotic algae living in their tissues",
-      "why_correct": "Ikinci cumle yuksek deniz sicakliklarinin mercanlari dokularindaki renkli algleri disari atmaya zorladigini ve bu yuzden beyazlastiklarini aciklar."
+      "why_correct": "İkinci cümle yüksek deniz sıcaklıklarının mercanları dokularındaki renkli algleri dışarı atmaya zorladığını ve bu yüzden beyazlaştıklarını açıklar."
     }
   },
   {
@@ -7584,7 +7583,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "organic elements improve your digestion and keep your immune system strong",
-      "why_correct": "Ikinci cumle taze elmalardaki organik bilesenlerin sindirimi iyilestirdigini ve bagisiklik sistemini guclendirdigini belirtir."
+      "why_correct": "İkinci cümle taze elmalardaki organik bileşenlerin sindirimi iyileştirdiğini ve bağışıklık sistemini güçlendirdiğini belirtir."
     }
   },
   {
@@ -7611,7 +7610,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Spending less time on smartphones dramatically improves sleep quality and mental focus",
-      "why_correct": "Ucuncu cumle akilli telefonlarda daha az vakit gecirmenin uyku kalitesini ve zihinsel odaklanmayi buyuk olcude artirdigini gosterir."
+      "why_correct": "Üçüncü cümle akıllı telefonlarda daha az vakit geçirmenin uyku kalitesini ve zihinsel odaklanmayı büyük ölçüde artırdığını gösterir."
     }
   },
   {
@@ -7638,7 +7637,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "factories turn old plastic items into useful new materials",
-      "why_correct": "Ikinci cumle geri donusum yapildiginda fabrikalarin eski plastikleri yeni yararli malzemelere donusturdugunu ifade eder."
+      "why_correct": "İkinci cümle geri dönüşüm yapıldığında fabrikaların eski plastikleri yeni yararlı malzemelere dönüştürdüğünü ifade eder."
     }
   },
   {
@@ -7665,7 +7664,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Because of this low gravity, astronauts can jump incredibly high",
-      "why_correct": "Ikinci cumle dusuk yercekimi sayesinde astronotlarin cok yuksege ziplayabildigini net sekilde belirtir."
+      "why_correct": "İkinci cümle düşük yer çekimi sayesinde astronotların çok yükseğe zıplayabildiğini net şekilde belirtir."
     }
   },
   {
@@ -7692,7 +7691,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Thousands of skilled workers moved gigantic limestone blocks across the hot desert without modern machinery",
-      "why_correct": "Ikinci cumle piramitlerin binlerce vasifli isci tarafindan modern makineler olmadan tasinan kirectasi bloklarla yapildigini gosterir."
+      "why_correct": "İkinci cümle piramitlerin binlerce vasıflı işçi tarafından modern makineler olmadan taşınan kireç taşı bloklarla yapıldığını gösterir."
     }
   },
   {
@@ -7719,7 +7718,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Regular walking stimulates blood circulation and helps control body weight",
-      "why_correct": "Ikinci cumle duzenli yuruyusun kan dolasimini uyardigini ve vucut agirligini kontrol etmeye yardimci oldugunu belirtir."
+      "why_correct": "İkinci cümle düzenli yürüyüşün kan dolaşımını uyardığını ve vücut ağırlığını kontrol etmeye yardımcı olduğunu belirtir."
     }
   },
   {
@@ -7746,7 +7745,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Because bamboo contains very little nutrition, these large bears must eat",
-      "why_correct": "Ikinci cumle bambunun cok az besin degeri icermesi nedeniyle bu ayilarin gunde on iki saate kadar beslenmesi gerektigini belirtir."
+      "why_correct": "İkinci cümle bambunun çok az besin değeri içermesi nedeniyle bu ayıların günde on iki saate kadar beslenmesi gerektiğini belirtir."
     }
   },
   {
@@ -7773,7 +7772,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "Studying in libraries encourages concentration and helps individuals finish their academic projects on time",
-      "why_correct": "Ucuncu cumle kutuphanede calismanin odaklanmayi tesvik ettigini ve projelerin zamaninda bitirilmesine yardimci oldugunu gosterir."
+      "why_correct": "Üçüncü cümle kütüphanede çalışmanın odaklanmayı teşvik ettiğini ve projelerin zamanında bitirilmesine yardımcı olduğunu gösterir."
     }
   },
   {
@@ -7800,7 +7799,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "coffee houses served as vibrant social meeting spots where people discussed news",
-      "why_correct": "Ilk cumle kahvehanelerin tarihsel olarak insanlarin haberleri tartistigi dinamik sosyal bulusma noktalari oldugunu belirtir."
+      "why_correct": "İlk cümle kahvehanelerin tarihsel olarak insanların haberleri tartıştığı dinamik sosyal buluşma noktaları olduğunu belirtir."
     }
   },
   {
@@ -7827,7 +7826,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Rain falls when water vapor in the atmosphere cools down and condenses",
-      "why_correct": "Ilk cumle yagmurun atmosferdeki su buharinin soguyup yogusmasiyla yagdigini belirtmektedir."
+      "why_correct": "İlk cümle yağmurun atmosferdeki su buharının soğuyup yoğuşmasıyla yağdığını belirtmektedir."
     }
   },
   {
@@ -7854,7 +7853,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "water molecule consists of two hydrogen atoms bonded tightly to one oxygen atom",
-      "why_correct": "Ilk cumle bir su molekulunun bir oksijen atomuna siki bagli iki hidrojen atomundan olustugunu ifade eder."
+      "why_correct": "İlk cümle bir su molekülünün bir oksijen atomuna sıkı bağlı iki hidrojen atomundan oluştuğunu ifade eder."
     }
   },
   {
@@ -7881,17 +7880,17 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Engineers design these bridges to bend slightly during strong winds or earthquakes without breaking",
-      "why_correct": "Ikinci cumle muhendislerin bu kopruleri guclu ruzgarlarda kirilmadan hafifce esneyecek sekilde tasarladiklarini belirtir."
+      "why_correct": "İkinci cümle mühendislerin bu köprüleri güçlü rüzgarlarda kırılmadan hafifçe esneyecek şekilde tasarladıklarını belirtir."
     }
   },
   {
     "id": "reg293",
     "type": "regression_lock",
-    "topic": "Zoology (Dolphins)",
+    "topic": "Marine Biology (Dolphin Identity)",
     "level": "easy",
-    "paragraph_raw": "Wild dolphins use unique clicking sounds and high whistles to communicate with each other underwater. Each dolphin has a signature whistle that acts like a human name to announce identity. These social mammals work together in groups to hunt fish and protect their young. Their high intelligence makes them highly adaptable creatures.",
+    "paragraph_raw": "Dolphins are intelligent marine animals that live in social groups. Each dolphin has a signature whistle that acts like a human name to announce identity. They use these sounds to locate friends and stay close together. This unique acoustic system helps them survive in the deep ocean.",
     "comprehension_question": {
-      "question_text": "How do individual dolphins announce their identity to others?",
+      "question_text": "According to the text, how do dolphins announce their identity?",
       "options": [
         {
           "key": "A",
@@ -7908,7 +7907,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Each dolphin has a signature whistle that acts like a human name to announce identity",
-      "why_correct": "Ikinci cumle her yunusun kimligini bildirmek icin insan ismi gibi islev goren kendine ozgu bir isliga sahip oldugunu belirtir."
+      "why_correct": "İkinci cümle her yunusun kimliğini bildirmek için insan ismi gibi işlev gören kendine özgü bir ıslığa sahip olduğunu belirtir."
     }
   },
   {
@@ -7935,7 +7934,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Chlorophyll primarily absorbs red and blue light waves while reflecting green light",
-      "why_correct": "Ucuncu cumle klorofilin esas olarak kirmizi ve mavi isik dalgalarini emdigini, yesil isigi ise yansittigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle klorofilin esas olarak kırmızı ve mavi ışık dalgalarını emdiğini, yeşil ışığı ise yansıttığını açıklamaktadır."
     }
   },
   {
@@ -7962,7 +7961,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "overuse of these drugs has allowed certain bacterial strains to develop antibiotic resistance",
-      "why_correct": "Ikinci cumle antibiyotiklerin asiri kullaniminin bazi bakteri turlerinin direnc gelistirmesine neden oldugunu aciklar."
+      "why_correct": "İkinci cümle antibiyotiklerin aşırı kullanımının bazı bakteri türlerinin direnç geliştirmesine neden olduğunu açıklar."
     }
   },
   {
@@ -7989,7 +7988,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "deep radar scans indicate vast reservoirs of water ice beneath the dusty soil",
-      "why_correct": "Ikinci cumle radar taramalarinin tozlu topragin altinda buyuk su buzu rezervleri tespit ettigini belirtmektedir."
+      "why_correct": "İkinci cümle radar taramalarının tozlu toprağın altında büyük su buzu rezervleri tespit ettiğini belirtmektedir."
     }
   },
   {
@@ -8016,7 +8015,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Working from home eliminates stressful daily commutes and offers flexible hours",
-      "why_correct": "Ikinci cumle evden calismanin stresli gunluk yolculuklari ortadan kaldirdigini ve esnek calisma saatleri sundugunu gosterir."
+      "why_correct": "İkinci cümle evden çalışmanın stresli günlük yolculukları ortadan kaldırdığını ve esnek çalışma saatleri sunduğunu gösterir."
     }
   },
   {
@@ -8043,7 +8042,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "Earthquakes occur when tectonic plates moving beneath the Earth's surface get stuck",
-      "why_correct": "Ilk cumle depremlerin yer kabugu altindaki tektonik levhalarin birbirine takilip sikismasi sonucu olustugunu belirtir."
+      "why_correct": "İlk cümle depremlerin yer kabuğu altındaki tektonik levhaların birbirine takılıp sıkışması sonucu oluştuğunu belirtir."
     }
   },
   {
@@ -8070,7 +8069,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "corals expel the colorful algae living inside their tissues and turn completely white",
-      "why_correct": "Ucuncu cumle su sicakligi cok yuksek oldugunda mercanlarin dokularindaki algleri disari attigini ve beyaza donustugunu belirtir."
+      "why_correct": "Üçüncü cümle su sıcaklığı çok yüksek olduğunda mercanların dokularındaki algleri dışarı attığını ve beyaza dönüştüğünü belirtir."
     }
   },
   {
@@ -8097,7 +8096,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "raising interest rates to slow down borrowing and consumer spending",
-      "why_correct": "Ucuncu cumle merkez bankalarinin yuksek enflasyona borclanmayi ve harcamalari yavaslatmak icin faiz oranlarini artirarak yanit verdigini gosterir."
+      "why_correct": "Üçüncü cümle merkez bankalarının yüksek enflasyona borçlanmayı ve harcamaları yavaşlatmak için faiz oranlarını artırarak yanıt verdiğini gösterir."
     }
   },
   {
@@ -8124,7 +8123,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "books had to be copied slowly by hand, making them extremely rare and expensive",
-      "why_correct": "Ikinci cumle matbaadan once kitaplarin elle yavasca kopyalandigini ve bu yuzden cok nadir ve pahali oldugunu gosterir."
+      "why_correct": "İkinci cümle matbaadan önce kitapların elle yavaşça kopyalandığını ve bu yüzden çok nadir ve pahalı olduğunu gösterir."
     }
   },
   {
@@ -8151,7 +8150,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "bees transfer pollen between blossoms, enabling plants to reproduce and grow seeds",
-      "why_correct": "Ikinci cumle arilarin nektar toplarken cicekler arasinda polen tasidigini ve boylece bitkilerin uremesini sagladigini belirtir."
+      "why_correct": "İkinci cümle arıların nektar toplarken çiçekler arasında polen taşıdığını ve böylece bitkilerin üremesini sağladığını belirtir."
     }
   },
   {
@@ -8178,7 +8177,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "disrupts the natural secretion of melatonin, a vital hormone regulating sleep cycles",
-      "why_correct": "Ucuncu cumle bilgisayar ekranlarindan gelen mavi isigin uyku dongulerini duzenleyen melatonin hormonunun salgilanmasini bozdugunu belirtir."
+      "why_correct": "Üçüncü cümle bilgisayar ekranlarından gelen mavi ışığın uyku döngülerini düzenleyen melatonin hormonunun salgılanmasını bozduğunu belirtir."
     }
   },
   {
@@ -8205,7 +8204,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "constantly map the vehicle's surrounding environment, detecting nearby pedestrians",
-      "why_correct": "Ikinci cumle aractaki sensorlerin aracin cevresini surekli haritalandirarak yaya ve bisikletlileri algiladigini ifade eder."
+      "why_correct": "İkinci cümle araçtaki sensörlerin aracın çevresini sürekli haritalandırarak yaya ve bisikletlileri algıladığını ifade eder."
     }
   },
   {
@@ -8232,7 +8231,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "immunotherapy trains specific white blood cells to recognize and destroy cancerous tissues while leaving healthy organs unharmed",
-      "why_correct": "Ucuncu cumle immunoterapinin saglikli organlara zarar vermeden kanserli dokulari yok etmek uzere akyuvarlari eğittiğini belirtir."
+      "why_correct": "Üçüncü cümle immünoterapinin sağlıklı organlara zarar vermeden kanserli dokuları yok etmek üzere akyuvarları eğittiğini belirtir."
     }
   },
   {
@@ -8259,7 +8258,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "solar energy generation drops significantly during cloudy days or at night",
-      "why_correct": "Ikinci cumle bulutlu gunlerde veya geceleri gunes enerjisi uretiminin ciddi sekilde dusmesi nedeniyle bataryalarin gerekli oldugunu aciklar."
+      "why_correct": "İkinci cümle bulutlu günlerde veya geceleri güneş enerjisi üretiminin ciddi şekilde düşmesi nedeniyle bataryaların gerekli olduğunu açıklar."
     }
   },
   {
@@ -8286,7 +8285,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "seemed to violate the fundamental rule that nothing can travel faster than the speed of light",
-      "why_correct": "Ikinci cumle Einstein'in bu durumu isik hizindan daha hizli hicbir seyin hareket edemeyecegi kuralini ihlal ettigi icin urpertici buldugunu aciklar."
+      "why_correct": "İkinci cümle Einstein'ın bu durumu ışık hızından daha hızlı hiçbir şeyin hareket edemeyeceği kuralını ihlal ettiği için ürpertici bulduğunu açıklar."
     }
   },
   {
@@ -8313,7 +8312,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "cognitive training exercises can stimulate the birth of new synapses and strengthen vital neural circuits in elderly patients",
-      "why_correct": "Ucuncu cumle bilissel egitim egzersizlerinin yasli hastalarda yeni sinapslarin olusmasini tetikledigini ve sinir yollarini guclendirdigini belirtir."
+      "why_correct": "Üçüncü cümle bilişsel eğitim egzersizlerinin yaşlı hastalarda yeni sinapsların oluşmasını tetiklediğini ve sinir yollarını güçlendirdiğini belirtir."
     }
   },
   {
@@ -8340,7 +8339,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "discovering a distinct, globally distributed sediment layer containing high levels of iridium",
-      "why_correct": "Son cumle bilim insanlarinin dunya genelinde yuksek oranda iridyum iceren bir tortu tabakasi kesfederek asteroit teorisini dogruladiklarini aciklar."
+      "why_correct": "Son cümle bilim insanlarının dünya genelinde yüksek oranda iridyum içeren bir tortu tabakası keşfederek asteroit teorisini doğruladıklarını açıklar."
     }
   },
   {
@@ -8367,7 +8366,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "chemical reaction occurs that forms carbonic acid and lowers the pH levels of the water",
-      "why_correct": "Ikinci cumle deniz suyunun karbondioksiti emmesiyle karbonik asit olustugunu ve suyun pH seviyesinin dustugunu belirtmektedir."
+      "why_correct": "İkinci cümle deniz suyunun karbondioksiti emmesiyle karbonik asit oluştuğunu ve suyun pH seviyesinin düştüğünü belirtmektedir."
     }
   },
   {
@@ -8394,7 +8393,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "using a vanishing point where all parallel lines in a painting appear to meet on the horizon",
-      "why_correct": "Ikinci cumle Brunelleschi'nin tum paralel çizgilerin ufukta birlestigi bir kacis noktasi kullanarak bu geometrik yontemi gosterdigini aciklar."
+      "why_correct": "İkinci cümle Brunelleschi'nin tüm paralel çizgilerin ufukta birleştiği bir kaçış noktası kullanarak bu geometrik yöntemi gösterdiğini açıklar."
     }
   },
   {
@@ -8421,7 +8420,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "early feathers likely served as insulation to regulate body temperature or as colorful displays to attract mates",
-      "why_correct": "Besinci cumle ilk tuylerin ucus yerine vucut isisini duzenlemek veya esleri cezbetmek amacıyla kullanildigini gosterir."
+      "why_correct": "Beşinci cümle ilk tüylerin uçuş yerine vücut ısısını düzenlemek veya eşleri cezbetmek amacıyla kullanıldığını gösterir."
     }
   },
   {
@@ -8448,7 +8447,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "total absence of employer-provided benefits like health insurance, paid leaves, and retirement savings",
-      "why_correct": "Ikinci cumle elestirmenlerin isveren tarafindan saglanan saglik sigortasi gibi sosyal haklarin tamamen yoksun olmasindan endise duydugunu gosterir."
+      "why_correct": "İkinci cümle eleştirmenlerin işveren tarafından sağlanan sağlık sigortası gibi sosyal hakların tamamen yoksun olmasından endişe duyduğunu gösterir."
     }
   },
   {
@@ -8475,7 +8474,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "soil melts, allowing microbes to decompose the organic matter and release carbon dioxide and methane gases",
-      "why_correct": "Ucuncu cumle donmus topragin erimesiyle mikroplarin organik maddeyi parcalayarak karbondioksit ve metan gazi saldigini aciklamaktadir."
+      "why_correct": "Üçüncü cümle donmuş toprağın erimesiyle mikropların organik maddeyi parçalayarak karbondioksit ve metan gazı saldığını açıklamaktadır."
     }
   },
   {
@@ -8502,7 +8501,7 @@
       ],
       "correct_key": "A",
       "evidence_snippet": "CRISPR utilizes a specialized guiding molecule to locate a specific gene sequence and cut it cleanly",
-      "why_correct": "Ikinci cumle CRISPR teknolojisinin belirli bir gen dizisini bulup kesmek icin ozel bir rehber molekul kullandigini belirtir."
+      "why_correct": "İkinci cümle CRISPR teknolojisinin belirli bir gen dizisini bulup kesmek için özel bir rehber molekül kullandığını belirtir."
     }
   },
   {
@@ -8529,7 +8528,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "clay figures were created to protect the emperor in the afterlife and demonstrate his imperial power",
-      "why_correct": "Dorduncu cumle arkeologlarin bu kil figürlerin imparatoru ahirette korumak ve gucunu gostermek amacıyla yapildigina inandiklarini gosterir."
+      "why_correct": "Dördüncü cümle arkeologların bu kil figürlerin imparatoru ahirette korumak ve gücünü göstermek amacıyla yapıldığına inandıklarını gösterir."
     }
   },
   {
@@ -8556,7 +8555,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "forces air to travel faster over the top surface than underneath it. This speed difference creates lower air pressure on top, generating an upward lift",
-      "why_correct": "Metindeki ikinci ve ucuncu cumleler kanadin seklinden dolayi ustte dusuk basinc olustugunu ve bunun kaldirma kuvveti yarattigini aciklar."
+      "why_correct": "Metindeki ikinci ve üçüncü cümleler kanadın şeklinden dolayı üstte düşük basınç oluştuğunu ve bunun kaldırma kuvveti yarattığını açıklar."
     }
   },
   {
@@ -8583,7 +8582,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "where people actively search for, favor, and recall information that confirms their pre-existing beliefs",
-      "why_correct": "Ikinci cumle dogrulama yanliligini insanlarin kendi inanislarini destekleyen bilgileri aktif olarak aramasi ve kayirmasi olarak tanımlar."
+      "why_correct": "İkinci cümle doğrulama yanlılığını insanların kendi inanışlarını destekleyen bilgileri aktif olarak araması ve kayırması olarak tanımlar."
     }
   },
   {
@@ -8610,7 +8609,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "stones were carefully aligned to mark major astronomical events, particularly the summer solstice sunrise",
-      "why_correct": "Ikinci cumle dikili taslarin gokbilimsel olaylari, ozellikle yaz gundonumu gun dogumunu isaret etmek icin hizalandigini belirtir."
+      "why_correct": "İkinci cümle dikili taşların gökbilimsel olayları, özellikle yaz gündönümü gün doğumunu işaret etmek için hizalandığını belirtir."
     }
   },
   {
@@ -8637,7 +8636,7 @@
       ],
       "correct_key": "B",
       "evidence_snippet": "By hunting excess elk, wolves allowed overgrazed willow and aspen trees along rivers to recover",
-      "why_correct": "Ucuncu cumle kurtlarin asiri elk geyigi nufusunu avlayarak nehir kenarindaki agaclarin iyilesmesini sagladigini belirtir."
+      "why_correct": "Üçüncü cümle kurtların aşırı elk geyiği nüfusunu avlayarak nehir kenarındaki ağaçların iyileşmesini sağladığını belirtir."
     }
   }
 ]
