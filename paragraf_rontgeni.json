@@ -8172,12 +8172,12 @@
  {
   "id": "pxr191",
   "topic": "Urban Trees (Environment)",
-  "paragraph_raw": "Many city builders assume that building wide highways is the only key to kentsel gelişme. Paving empty roads with concrete indeed allows rapid vehicle speeds and supports trade deliveries during busy daytime hours. Urban tree canopy, instead of simple concrete blocks, cools city temperatures and cleans toxic air. A municipal report of eighty districts showed that green streets dropped local heat wave peaks by four degrees. The main lesson is that city vegetation is highly necessary for modern urban life.",
+  "paragraph_raw": "Many city builders assume that building wide highways is the only key to urban development. Paving empty roads with concrete indeed allows rapid vehicle speeds and supports trade deliveries during busy daytime hours. Urban tree canopy, instead of simple concrete blocks, cools city temperatures and cleans toxic air. A municipal report of eighty districts showed that green streets dropped local heat wave peaks by four degrees. The main lesson is that city vegetation is highly necessary for modern urban life.",
   "tr": "Birçok şehir kurucusu, geniş otoyollar inşa etmenin kentsel gelişmenin tek anahtarı olduğunu varsayar. Boş yolları betonla kaplamak gerçekten de hızlı araç hızlarına izin verir ve yoğun gündüz saatlerinde ticari teslimatları destekler. Şehir ağaç örtüsü ise basit beton bloklar yerine şehir sıcaklıklarını soğutur ve zehirli havayı temizler. Seksen bölgeyi kapsayan belediye raporu, yeşil sokakların yerel ısı dalgası zirvelerini dört derece düşürdüğünü gösterdi. Temel ders, şehir bitki örtüsünün modern kentsel yaşam için son derece gerekli olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
-    "text": "Many city builders assume that building wide highways is the only key to kentsel gelişme.",
+    "text": "Many city builders assume that building wide highways is the only key to urban development.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
     "why": "Şehir kurucularının geniş beton otoyolların gelişme için yegane yol olduğuna dair yaygın inancını sunar."
