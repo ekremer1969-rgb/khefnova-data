@@ -1221,7 +1221,7 @@
  },
  {
   "id": "cy062",
-  "root": "a woman ___",
+  "root": "woman",
   "level": "C1",
   "note": "of = içindeki nitelik · with = üstündeki somut şey",
   "slots": [
@@ -3008,6 +3008,3644 @@
     "en": "He still struggles ___ the language after ten years.",
     "tr": "On yıl sonra hâlâ dille boğuşuyor.",
     "sense": "neyle boğuşmak"
+   }
+  ]
+ },
+ {
+  "id": "cy151",
+  "root": "stay",
+  "level": "B1",
+  "note": "until = hangi ana kadar · for = ne kadar süre",
+  "slots": [
+   {
+    "prep": "until",
+    "en": "We stayed ___ the very end of the ceremony.",
+    "tr": "Törenin ta sonuna kadar kaldık.",
+    "sense": "hangi ana kadar"
+   },
+   {
+    "prep": "for",
+    "en": "They stayed ___ three nights in a small guesthouse.",
+    "tr": "Küçük bir pansiyonda üç gece kaldılar.",
+    "sense": "süre uzunluğu"
+   }
+  ]
+ },
+ {
+  "id": "cy152",
+  "root": "finish",
+  "level": "B1",
+  "note": "by = en geç ne zaman · in = ne kadar sürede",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "Please finish the report ___ Friday afternoon.",
+    "tr": "Lütfen raporu en geç cuma öğleden sonra bitir.",
+    "sense": "son teslim anı"
+   },
+   {
+    "prep": "in",
+    "en": "She finished the whole novel ___ two days.",
+    "tr": "Bütün romanı iki günde bitirdi.",
+    "sense": "ne kadar sürede"
+   }
+  ]
+ },
+ {
+  "id": "cy153",
+  "root": "study",
+  "level": "B1",
+  "note": "since = ne zamandan beri · for = ne kadar süredir",
+  "slots": [
+   {
+    "prep": "since",
+    "en": "I have studied German ___ my first year at university.",
+    "tr": "Üniversitedeki ilk yılımdan beri Almanca çalışıyorum.",
+    "sense": "başlangıç noktası"
+   },
+   {
+    "prep": "for",
+    "en": "I have studied German ___ almost six years.",
+    "tr": "Neredeyse altı yıldır Almanca çalışıyorum.",
+    "sense": "süre uzunluğu"
+   }
+  ]
+ },
+ {
+  "id": "cy154",
+  "root": "start",
+  "level": "B1",
+  "note": "at = saat · on = gün · in = ay, yıl, mevsim",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "The lecture starts ___ nine o'clock sharp.",
+    "tr": "Ders tam dokuzda başlıyor.",
+    "sense": "saat"
+   },
+   {
+    "prep": "on",
+    "en": "The new course starts ___ Monday morning.",
+    "tr": "Yeni kurs pazartesi sabahı başlıyor.",
+    "sense": "gün / tarih"
+   },
+   {
+    "prep": "in",
+    "en": "The football season starts ___ September.",
+    "tr": "Futbol sezonu eylülde başlıyor.",
+    "sense": "ay / yıl / mevsim"
+   }
+  ]
+ },
+ {
+  "id": "cy155",
+  "root": "born",
+  "level": "B1",
+  "note": "in = yıl · on = gün · at = saat",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "My grandmother was born ___ 1938.",
+    "tr": "Büyükannem 1938'de doğdu.",
+    "sense": "yıl"
+   },
+   {
+    "prep": "on",
+    "en": "He was born ___ a cold February morning.",
+    "tr": "Soğuk bir şubat sabahında doğdu.",
+    "sense": "belirli gün"
+   },
+   {
+    "prep": "at",
+    "en": "The twins were born ___ midnight.",
+    "tr": "İkizler gece yarısı doğdu.",
+    "sense": "tam saat"
+   }
+  ]
+ },
+ {
+  "id": "cy156",
+  "root": "late",
+  "level": "B1",
+  "note": "for = neye geç kalındı · by = ne kadarlık gecikme",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "She was ten minutes late ___ the job interview.",
+    "tr": "İş görüşmesine on dakika geç kaldı.",
+    "sense": "neye geç kalındı"
+   },
+   {
+    "prep": "by",
+    "en": "The morning train arrived late ___ twenty minutes.",
+    "tr": "Sabah treni yirmi dakika gecikmeli geldi.",
+    "sense": "ne kadar gecikme"
+   }
+  ]
+ },
+ {
+  "id": "cy157",
+  "root": "deliver",
+  "level": "B2",
+  "note": "by = hangi güne kadar · within = ne kadarlık sürenin içinde",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "The goods must be delivered ___ Thursday evening.",
+    "tr": "Mallar en geç perşembe akşamına kadar teslim edilmeli.",
+    "sense": "son gün"
+   },
+   {
+    "prep": "within",
+    "en": "The goods must be delivered ___ three working days.",
+    "tr": "Mallar üç iş günü içinde teslim edilmeli.",
+    "sense": "süre dolmadan"
+   }
+  ]
+ },
+ {
+  "id": "cy158",
+  "root": "absent",
+  "level": "B1",
+  "note": "from = neyden yok · for = ne kadar süredir",
+  "slots": [
+   {
+    "prep": "from",
+    "en": "The clerk has been absent ___ work all week.",
+    "tr": "Memur bütün hafta işten uzak kaldı.",
+    "sense": "neyden yok"
+   },
+   {
+    "prep": "for",
+    "en": "The clerk has been absent ___ almost ten days.",
+    "tr": "Memur neredeyse on gündür yok.",
+    "sense": "ne kadar süredir"
+   }
+  ]
+ },
+ {
+  "id": "cy159",
+  "root": "sleep",
+  "level": "B2",
+  "note": "through = baştan sona uyanmadan · until = hangi saate kadar",
+  "slots": [
+   {
+    "prep": "through",
+    "en": "The baby slept ___ the entire thunderstorm.",
+    "tr": "Bebek fırtına boyunca hiç uyanmadı.",
+    "sense": "başından sonuna uyanmadan"
+   },
+   {
+    "prep": "until",
+    "en": "On Sundays he sleeps ___ noon.",
+    "tr": "Pazar günleri öğlene kadar uyur.",
+    "sense": "hangi saate kadar"
+   }
+  ]
+ },
+ {
+  "id": "cy160",
+  "root": "postpone",
+  "level": "B2",
+  "note": "until = hangi tarihe · for = ne kadarlık süreyle",
+  "slots": [
+   {
+    "prep": "until",
+    "en": "The final match was postponed ___ next Saturday.",
+    "tr": "Final maçı gelecek cumartesiye ertelendi.",
+    "sense": "hangi tarihe"
+   },
+   {
+    "prep": "for",
+    "en": "The final match was postponed ___ a whole week.",
+    "tr": "Final maçı tam bir hafta ertelendi.",
+    "sense": "ne kadarlık erteleme"
+   }
+  ]
+ },
+ {
+  "id": "cy161",
+  "root": "last",
+  "level": "B1",
+  "note": "for = ne kadar sürdü · until = hangi ana kadar sürdü",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "The power cut lasted ___ almost six hours.",
+    "tr": "Elektrik kesintisi neredeyse altı saat sürdü.",
+    "sense": "ne kadar sürdü"
+   },
+   {
+    "prep": "until",
+    "en": "The heavy snow lasted ___ the middle of March.",
+    "tr": "Yoğun kar mart ortasına kadar sürdü.",
+    "sense": "ne zamana kadar"
+   }
+  ]
+ },
+ {
+  "id": "cy162",
+  "root": "graduate",
+  "level": "B1",
+  "note": "from = hangi okuldan · in = hangi yıl",
+  "slots": [
+   {
+    "prep": "from",
+    "en": "She graduated ___ a well-known engineering faculty.",
+    "tr": "Tanınmış bir mühendislik fakültesinden mezun oldu.",
+    "sense": "hangi okuldan"
+   },
+   {
+    "prep": "in",
+    "en": "She graduated ___ 2019 with the highest marks.",
+    "tr": "2019'da en yüksek notlarla mezun oldu.",
+    "sense": "hangi yıl"
+   }
+  ]
+ },
+ {
+  "id": "cy163",
+  "root": "reply",
+  "level": "B2",
+  "note": "within = sürenin içinde kalarak · after = neyin ardından",
+  "slots": [
+   {
+    "prep": "within",
+    "en": "He replied ___ an hour of receiving the message.",
+    "tr": "Mesajı aldıktan sonra bir saat içinde cevap verdi.",
+    "sense": "sürenin içinde"
+   },
+   {
+    "prep": "after",
+    "en": "He replied only ___ a long and awkward silence.",
+    "tr": "Ancak uzun ve tuhaf bir sessizliğin ardından cevap verdi.",
+    "sense": "bir şeyin ardından"
+   }
+  ]
+ },
+ {
+  "id": "cy164",
+  "root": "quiet",
+  "level": "B2",
+  "note": "throughout = başından sonuna boyunca · at = tam o anda",
+  "slots": [
+   {
+    "prep": "throughout",
+    "en": "The mountain village stays quiet ___ the year.",
+    "tr": "Dağ köyü yıl boyunca sessiz kalır.",
+    "sense": "baştan sona, boyunca"
+   },
+   {
+    "prep": "at",
+    "en": "The whole street goes quiet ___ sunset.",
+    "tr": "Bütün sokak gün batımında sessizleşir.",
+    "sense": "tam o anda"
+   }
+  ]
+ },
+ {
+  "id": "cy165",
+  "root": "time",
+  "level": "B2",
+  "note": "on time = tam zamanında · in time = yetişerek · at times = zaman zaman",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The Japanese delegation always arrives ___ time.",
+    "tr": "Japon heyeti her zaman tam zamanında gelir.",
+    "sense": "tam kararlaştırılan anda"
+   },
+   {
+    "prep": "in",
+    "en": "We reached the platform just ___ time.",
+    "tr": "Perona tam yetişecek şekilde vardık.",
+    "sense": "geç kalmadan, yetişerek"
+   },
+   {
+    "prep": "at",
+    "en": "___ times he can be extremely impatient.",
+    "tr": "Zaman zaman son derece sabırsız olabiliyor.",
+    "sense": "zaman zaman"
+   }
+  ]
+ },
+ {
+  "id": "cy166",
+  "root": "first",
+  "level": "B1",
+  "note": "at first = ilk başta · for the first time = ilk kez",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "___ first the machine seemed impossible to use.",
+    "tr": "İlk başta makine kullanılamaz gibi görünüyordu.",
+    "sense": "ilk başta"
+   },
+   {
+    "prep": "for",
+    "en": "He is visiting Istanbul ___ the first time.",
+    "tr": "İstanbul'u ilk kez ziyaret ediyor.",
+    "sense": "ilk kez"
+   }
+  ]
+ },
+ {
+  "id": "cy167",
+  "root": "holiday",
+  "level": "B1",
+  "note": "on holiday = tatilde · for a holiday = tatil amacıyla",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The whole family is ___ holiday in Antalya.",
+    "tr": "Bütün aile Antalya'da tatilde.",
+    "sense": "tatilde olma hâli"
+   },
+   {
+    "prep": "for",
+    "en": "They went to the coast ___ a short holiday.",
+    "tr": "Kısa bir tatil için sahile gittiler.",
+    "sense": "ne amaçla"
+   }
+  ]
+ },
+ {
+  "id": "cy168",
+  "root": "business",
+  "level": "B1",
+  "note": "on business = iş seyahatinde · in ... business = o sektörde",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "My uncle is in Berlin ___ business this week.",
+    "tr": "Amcam bu hafta iş için Berlin'de.",
+    "sense": "iş amacıyla"
+   },
+   {
+    "prep": "in",
+    "en": "Her family has been ___ the textile business for years.",
+    "tr": "Ailesi yıllardır tekstil işinde.",
+    "sense": "hangi sektörde"
+   }
+  ]
+ },
+ {
+  "id": "cy169",
+  "root": "count",
+  "level": "B1",
+  "note": "on = güvenmek · to = kaça kadar saymak",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "You can always count ___ your oldest friends.",
+    "tr": "En eski dostlarına her zaman güvenebilirsin.",
+    "sense": "güvenmek"
+   },
+   {
+    "prep": "to",
+    "en": "The frightened child slowly counted ___ twenty.",
+    "tr": "Korkmuş çocuk yavaşça yirmiye kadar saydı.",
+    "sense": "rakam sayma"
+   }
+  ]
+ },
+ {
+  "id": "cy170",
+  "root": "meet",
+  "level": "B1",
+  "note": "at = hangi etkinlikte · on = hangi gün",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "We first met ___ a conference in Izmir.",
+    "tr": "İlk kez İzmir'deki bir konferansta tanıştık.",
+    "sense": "yer / etkinlik"
+   },
+   {
+    "prep": "on",
+    "en": "We first met ___ a cold December evening.",
+    "tr": "İlk kez soğuk bir aralık akşamı tanıştık.",
+    "sense": "belirli gün"
+   }
+  ]
+ },
+ {
+  "id": "cy171",
+  "root": "wake",
+  "level": "B1",
+  "note": "at = saatte · from = uykudan, rüyadan",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "The farmer wakes ___ five every single morning.",
+    "tr": "Çiftçi her sabah beşte uyanır.",
+    "sense": "saat"
+   },
+   {
+    "prep": "from",
+    "en": "She suddenly woke ___ a deep, dreamless sleep.",
+    "tr": "Derin, rüyasız bir uykudan aniden uyandı.",
+    "sense": "neyden uyanmak"
+   }
+  ]
+ },
+ {
+  "id": "cy172",
+  "root": "expire",
+  "level": "B2",
+  "note": "in = ay veya yıl · on = tam tarih",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "Your residence permit expires ___ March.",
+    "tr": "Oturma iznin martta doluyor.",
+    "sense": "ay / yıl"
+   },
+   {
+    "prep": "on",
+    "en": "The special offer expires ___ 31 December.",
+    "tr": "Özel teklif 31 Aralık'ta sona eriyor.",
+    "sense": "tam tarih"
+   }
+  ]
+ },
+ {
+  "id": "cy173",
+  "root": "rain",
+  "level": "B1",
+  "note": "for = ne kadar süre · during = hangi dönem içinde",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "It rained without stopping ___ three whole days.",
+    "tr": "Tam üç gün boyunca durmadan yağmur yağdı.",
+    "sense": "ne kadar süreyle"
+   },
+   {
+    "prep": "during",
+    "en": "It rains here mostly ___ the spring months.",
+    "tr": "Burada yağmur çoğunlukla bahar aylarında yağar.",
+    "sense": "hangi dönemde"
+   }
+  ]
+ },
+ {
+  "id": "cy174",
+  "root": "visit",
+  "level": "B1",
+  "note": "to = nereye gidilen ziyaret · from = kimden gelen ziyaret",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "This is my first visit ___ the capital.",
+    "tr": "Bu, başkente ilk ziyaretim.",
+    "sense": "nereye yapılan ziyaret"
+   },
+   {
+    "prep": "from",
+    "en": "We had an unexpected visit ___ the inspectors.",
+    "tr": "Müfettişlerden beklenmedik bir ziyaret aldık.",
+    "sense": "kimden gelen ziyaret"
+   }
+  ]
+ },
+ {
+  "id": "cy175",
+  "root": "happen",
+  "level": "B2",
+  "note": "during = hangi zaman diliminde · to = kimin başına",
+  "slots": [
+   {
+    "prep": "during",
+    "en": "The accident happened ___ the night shift.",
+    "tr": "Kaza gece vardiyasında oldu.",
+    "sense": "hangi zaman diliminde"
+   },
+   {
+    "prep": "to",
+    "en": "Something very strange happened ___ my brother.",
+    "tr": "Kardeşimin başına çok tuhaf bir şey geldi.",
+    "sense": "kimin başına"
+   }
+  ]
+ },
+ {
+  "id": "cy176",
+  "root": "submit",
+  "level": "B2",
+  "note": "by = hangi tarihe kadar · to = kime teslim",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "Applications must be submitted ___ 15 May.",
+    "tr": "Başvurular en geç 15 Mayıs'a kadar sunulmalı.",
+    "sense": "son tarih"
+   },
+   {
+    "prep": "to",
+    "en": "Submit the completed form ___ the registrar's office.",
+    "tr": "Doldurulan formu öğrenci işlerine teslim et.",
+    "sense": "kime / nereye"
+   }
+  ]
+ },
+ {
+  "id": "cy177",
+  "root": "walk",
+  "level": "B1",
+  "note": "along = boyunca · past = önünden geçerek · into = içine",
+  "slots": [
+   {
+    "prep": "along",
+    "en": "We walked ___ the river bank for an hour.",
+    "tr": "Bir saat boyunca nehir kıyısı boyunca yürüdük.",
+    "sense": "uzun bir hat boyunca"
+   },
+   {
+    "prep": "past",
+    "en": "She walked ___ the shop without even noticing it.",
+    "tr": "Dükkânın önünden fark etmeden geçip gitti.",
+    "sense": "önünden geçip gitmek"
+   },
+   {
+    "prep": "into",
+    "en": "He walked ___ the office without knocking.",
+    "tr": "Kapıyı çalmadan ofise girdi.",
+    "sense": "içine girmek"
+   }
+  ]
+ },
+ {
+  "id": "cy178",
+  "root": "drive",
+  "level": "B1",
+  "note": "through = içinden geçerek · around = etrafında dolaşarak · into = çarparak içine",
+  "slots": [
+   {
+    "prep": "through",
+    "en": "We drove ___ a long, badly lit tunnel.",
+    "tr": "Uzun ve kötü aydınlatılmış bir tünelin içinden geçtik.",
+    "sense": "içinden geçerek"
+   },
+   {
+    "prep": "around",
+    "en": "They drove ___ the old town looking for a hotel.",
+    "tr": "Otel ararken eski şehirde dolandılar.",
+    "sense": "etrafında dolaşmak"
+   },
+   {
+    "prep": "into",
+    "en": "The lorry drove straight ___ a concrete wall.",
+    "tr": "Kamyon doğrudan beton bir duvara çarptı.",
+    "sense": "içine / çarparak"
+   }
+  ]
+ },
+ {
+  "id": "cy179",
+  "root": "swim",
+  "level": "B2",
+  "note": "across = karşıdan karşıya · against = ters yönde · towards = …-e doğru",
+  "slots": [
+   {
+    "prep": "across",
+    "en": "He swam ___ the lake and back in an hour.",
+    "tr": "Gölü bir saatte karşıdan karşıya geçip döndü.",
+    "sense": "bir yakadan öbürüne"
+   },
+   {
+    "prep": "against",
+    "en": "It is exhausting to swim ___ such a strong current.",
+    "tr": "Böylesine güçlü bir akıntıya karşı yüzmek yorucudur.",
+    "sense": "karşı yönde"
+   },
+   {
+    "prep": "towards",
+    "en": "The exhausted diver swam slowly ___ the nearest boat.",
+    "tr": "Bitkin dalgıç yavaşça en yakın tekneye doğru yüzdü.",
+    "sense": "…-e doğru"
+   }
+  ]
+ },
+ {
+  "id": "cy180",
+  "root": "fly",
+  "level": "B2",
+  "note": "over = üstünden geçerek · above = daha yukarıda · across = bir uçtan öbürüne",
+  "slots": [
+   {
+    "prep": "over",
+    "en": "The helicopter flew low ___ our village.",
+    "tr": "Helikopter köyümüzün üzerinden alçaktan uçtu.",
+    "sense": "üstünden geçerek"
+   },
+   {
+    "prep": "above",
+    "en": "We were flying ___ the clouds in bright sunshine.",
+    "tr": "Parlak güneşte bulutların yukarısında uçuyorduk.",
+    "sense": "daha yukarıda, temassız"
+   },
+   {
+    "prep": "across",
+    "en": "It takes about ten hours to fly ___ the Atlantic.",
+    "tr": "Atlantik'i uçarak geçmek yaklaşık on saat sürer.",
+    "sense": "bir uçtan öbürüne"
+   }
+  ]
+ },
+ {
+  "id": "cy181",
+  "root": "jump",
+  "level": "B1",
+  "note": "over = üzerinden aşarak · off = üstünden aşağı · into = içine",
+  "slots": [
+   {
+    "prep": "over",
+    "en": "The horse jumped easily ___ the low fence.",
+    "tr": "At alçak çiti kolayca aştı.",
+    "sense": "üzerinden aşarak"
+   },
+   {
+    "prep": "off",
+    "en": "The boy jumped ___ the wall and ran away.",
+    "tr": "Çocuk duvardan atlayıp kaçtı.",
+    "sense": "üstünden aşağı"
+   },
+   {
+    "prep": "into",
+    "en": "The children jumped ___ the freezing water.",
+    "tr": "Çocuklar buz gibi suya atladı.",
+    "sense": "içine"
+   }
+  ]
+ },
+ {
+  "id": "cy182",
+  "root": "climb",
+  "level": "B1",
+  "note": "onto = üstüne · up = yukarı doğru",
+  "slots": [
+   {
+    "prep": "onto",
+    "en": "The cat climbed ___ the roof and refused to come down.",
+    "tr": "Kedi çatıya çıktı ve inmeyi reddetti.",
+    "sense": "üstüne çıkmak"
+   },
+   {
+    "prep": "up",
+    "en": "Slowly he climbed ___ the narrow wooden stairs.",
+    "tr": "Yavaşça dar tahta merdivenleri tırmandı.",
+    "sense": "yukarı doğru"
+   }
+  ]
+ },
+ {
+  "id": "cy183",
+  "root": "sit",
+  "level": "B1",
+  "note": "at = masa başında · on = yüzeyin üstünde · in = içine gömülerek",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "The guests sat ___ the table and waited.",
+    "tr": "Konuklar masaya oturup beklediler.",
+    "sense": "masa başı"
+   },
+   {
+    "prep": "on",
+    "en": "The old man sat ___ the wooden bench alone.",
+    "tr": "Yaşlı adam tahta bankta yalnız oturuyordu.",
+    "sense": "yüzeyin üstünde"
+   },
+   {
+    "prep": "in",
+    "en": "She sat ___ the deep armchair by the fire.",
+    "tr": "Şöminenin yanındaki derin koltuğa gömüldü.",
+    "sense": "içine gömülerek"
+   }
+  ]
+ },
+ {
+  "id": "cy184",
+  "root": "hang",
+  "level": "B1",
+  "note": "on = yüzeye yapışık · from = bir yerden sarkarak",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "A large calendar was hanging ___ the kitchen wall.",
+    "tr": "Mutfak duvarında büyük bir takvim asılıydı.",
+    "sense": "yüzeye yapışık"
+   },
+   {
+    "prep": "from",
+    "en": "A heavy brass lamp hung ___ the ceiling.",
+    "tr": "Tavandan ağır bir pirinç lamba sarkıyordu.",
+    "sense": "bir yerden sarkarak"
+   }
+  ]
+ },
+ {
+  "id": "cy185",
+  "root": "stare",
+  "level": "B1",
+  "note": "at = bir noktaya · into = derinliğine dalarak",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "He stared ___ the stranger for a long moment.",
+    "tr": "Yabancıya uzun bir an boyunca baktı.",
+    "sense": "bir noktaya bakmak"
+   },
+   {
+    "prep": "into",
+    "en": "She sat staring ___ the empty fireplace.",
+    "tr": "Boş şöminenin içine dalıp gitmişti.",
+    "sense": "derinliğine dalıp bakmak"
+   }
+  ]
+ },
+ {
+  "id": "cy186",
+  "root": "smile",
+  "level": "B2",
+  "note": "at = kime gülümsemek · on = talihin yaver gitmesi",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "The nurse smiled kindly ___ the frightened child.",
+    "tr": "Hemşire korkmuş çocuğa şefkatle gülümsedi.",
+    "sense": "kime gülümsemek"
+   },
+   {
+    "prep": "on",
+    "en": "Fortune finally smiled ___ the young inventor.",
+    "tr": "Talih sonunda genç mucide güldü.",
+    "sense": "talih yaver gitmek"
+   }
+  ]
+ },
+ {
+  "id": "cy187",
+  "root": "move",
+  "level": "B1",
+  "note": "towards = …-e doğru · into = içine · out of = içinden dışarı",
+  "slots": [
+   {
+    "prep": "towards",
+    "en": "Public opinion is slowly moving ___ serious reform.",
+    "tr": "Kamuoyu yavaşça ciddi bir reforma doğru kayıyor.",
+    "sense": "…-e doğru yönelmek"
+   },
+   {
+    "prep": "into",
+    "en": "They moved ___ a larger flat last spring.",
+    "tr": "Geçen bahar daha büyük bir daireye taşındılar.",
+    "sense": "içine taşınmak"
+   },
+   {
+    "prep": "out of",
+    "en": "He moved ___ the family home at eighteen.",
+    "tr": "On sekizinde aile evinden ayrıldı.",
+    "sense": "içinden çıkmak"
+   }
+  ]
+ },
+ {
+  "id": "cy188",
+  "root": "lean",
+  "level": "B2",
+  "note": "towards = …-e meyletmek · against = …-e yaslanmak",
+  "slots": [
+   {
+    "prep": "towards",
+    "en": "The committee is leaning ___ a temporary solution.",
+    "tr": "Komisyon geçici bir çözüme meylediyor.",
+    "sense": "…-e meyletmek"
+   },
+   {
+    "prep": "against",
+    "en": "He leaned ___ the wall and closed his eyes.",
+    "tr": "Duvara yaslanıp gözlerini kapattı.",
+    "sense": "…-e yaslanmak"
+   }
+  ]
+ },
+ {
+  "id": "cy189",
+  "root": "run",
+  "level": "B2",
+  "note": "into = rastlamak · out of = tükenmek · after = peşinden koşmak",
+  "slots": [
+   {
+    "prep": "into",
+    "en": "I ran ___ an old classmate at the airport.",
+    "tr": "Havalimanında eski bir sınıf arkadaşıma rastladım.",
+    "sense": "rastlamak"
+   },
+   {
+    "prep": "out of",
+    "en": "The kitchen has run ___ sugar again.",
+    "tr": "Mutfakta yine şeker bitti.",
+    "sense": "tükenmek"
+   },
+   {
+    "prep": "after",
+    "en": "The dog ran ___ the postman down the street.",
+    "tr": "Köpek sokak boyunca postacının peşinden koştu.",
+    "sense": "peşinden koşmak"
+   }
+  ]
+ },
+ {
+  "id": "cy190",
+  "root": "come",
+  "level": "B2",
+  "note": "across = tesadüfen bulmak · into = (mirasa) konmak",
+  "slots": [
+   {
+    "prep": "across",
+    "en": "I came ___ these letters while cleaning the attic.",
+    "tr": "Tavan arasını temizlerken bu mektuplara rastladım.",
+    "sense": "tesadüfen bulmak"
+   },
+   {
+    "prep": "into",
+    "en": "She came ___ a large fortune when her uncle died.",
+    "tr": "Amcası ölünce büyük bir servete kondu.",
+    "sense": "mirasa konmak"
+   }
+  ]
+ },
+ {
+  "id": "cy191",
+  "root": "break",
+  "level": "B2",
+  "note": "into = zorla içeri girmek · through = engeli yararak geçmek",
+  "slots": [
+   {
+    "prep": "into",
+    "en": "Thieves broke ___ the pharmacy during the night.",
+    "tr": "Hırsızlar gece eczaneye girdi.",
+    "sense": "zorla girmek"
+   },
+   {
+    "prep": "through",
+    "en": "Researchers finally broke ___ the language barrier.",
+    "tr": "Araştırmacılar sonunda dil engelini aştı.",
+    "sense": "engeli aşmak"
+   }
+  ]
+ },
+ {
+  "id": "cy192",
+  "root": "keep",
+  "level": "B2",
+  "note": "to = üstünden ayrılmamak · from = alıkoymak · off = uzak durmak",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "Please keep ___ the main road after dark.",
+    "tr": "Hava karardıktan sonra ana yoldan ayrılma.",
+    "sense": "üstünden ayrılmamak"
+   },
+   {
+    "prep": "from",
+    "en": "Nothing could keep him ___ finishing the race.",
+    "tr": "Hiçbir şey onu yarışı bitirmekten alıkoyamadı.",
+    "sense": "alıkoymak"
+   },
+   {
+    "prep": "off",
+    "en": "Visitors are asked to keep ___ the grass.",
+    "tr": "Ziyaretçilerden çimlere basmamaları rica ediliyor.",
+    "sense": "uzak durmak"
+   }
+  ]
+ },
+ {
+  "id": "cy193",
+  "root": "hold",
+  "level": "B2",
+  "note": "against = birine kusur olarak yüklemek · onto = tutunmak",
+  "slots": [
+   {
+    "prep": "against",
+    "en": "Don't hold my old mistakes ___ me forever.",
+    "tr": "Eski hatalarımı sonsuza dek bana karşı kullanma.",
+    "sense": "kusur olarak yüklemek"
+   },
+   {
+    "prep": "onto",
+    "en": "She held tightly ___ the railing as the ship rolled.",
+    "tr": "Gemi yalpalarken korkuluğa sıkıca tutundu.",
+    "sense": "sıkıca tutunmak"
+   }
+  ]
+ },
+ {
+  "id": "cy194",
+  "root": "go",
+  "level": "B2",
+  "note": "through = zor dönemden geçmek · without = …-siz idare etmek · by = zaman geçip gitmek",
+  "slots": [
+   {
+    "prep": "through",
+    "en": "The family went ___ a very difficult winter.",
+    "tr": "Aile çok zor bir kış geçirdi.",
+    "sense": "zor bir dönem yaşamak"
+   },
+   {
+    "prep": "without",
+    "en": "No community can go ___ clean drinking water.",
+    "tr": "Hiçbir topluluk temiz içme suyu olmadan yapamaz.",
+    "sense": "…-siz idare etmek"
+   },
+   {
+    "prep": "by",
+    "en": "Ten long years went ___ before they met again.",
+    "tr": "Yeniden buluşmadan önce on uzun yıl geçti.",
+    "sense": "zaman geçip gitmek"
+   }
+  ]
+ },
+ {
+  "id": "cy195",
+  "root": "get",
+  "level": "C1",
+  "note": "over = atlatmak · through = içinden geçmek · around = kaçınmak",
+  "slots": [
+   {
+    "prep": "over",
+    "en": "It took her months to get ___ the illness.",
+    "tr": "Hastalığı atlatması aylar sürdü.",
+    "sense": "atlatmak"
+   },
+   {
+    "prep": "through",
+    "en": "How did he get ___ the security check so quickly?",
+    "tr": "Güvenlik kontrolünden nasıl bu kadar çabuk geçti?",
+    "sense": "içinden geçmek"
+   },
+   {
+    "prep": "around",
+    "en": "There is simply no getting ___ these figures.",
+    "tr": "Bu rakamlardan kaçmanın hiçbir yolu yok.",
+    "sense": "kaçınmak, geçiştirmek"
+   }
+  ]
+ },
+ {
+  "id": "cy196",
+  "root": "pass",
+  "level": "B2",
+  "note": "for = … sanılmak · through = içinden geçmek",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "With that accent he could easily pass ___ a local.",
+    "tr": "O aksanla kolayca yerli sanılabilirdi.",
+    "sense": "… sanılmak"
+   },
+   {
+    "prep": "through",
+    "en": "The new road passes ___ three small villages.",
+    "tr": "Yeni yol üç küçük köyün içinden geçiyor.",
+    "sense": "içinden geçmek"
+   }
+  ]
+ },
+ {
+  "id": "cy197",
+  "root": "see",
+  "level": "C1",
+  "note": "through = içyüzünü anlamak · to = icabına bakmak",
+  "slots": [
+   {
+    "prep": "through",
+    "en": "Everyone could see ___ his clumsy excuses.",
+    "tr": "Herkes onun beceriksiz bahanelerinin içyüzünü görüyordu.",
+    "sense": "içyüzünü anlamak"
+   },
+   {
+    "prep": "to",
+    "en": "Please see ___ it that every door is locked.",
+    "tr": "Lütfen bütün kapıların kilitlenmesinin icabına bak.",
+    "sense": "icabına bakmak"
+   }
+  ]
+ },
+ {
+  "id": "cy198",
+  "root": "take",
+  "level": "B2",
+  "note": "to = ısınmak · after = benzemek · on = üstlenmek",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "The baby has really taken ___ her new nanny.",
+    "tr": "Bebek yeni dadısını gerçekten sevdi.",
+    "sense": "ısınmak, sevmek"
+   },
+   {
+    "prep": "after",
+    "en": "Everyone says the boy takes ___ his grandfather.",
+    "tr": "Herkes çocuğun dedesine çektiğini söylüyor.",
+    "sense": "…-e çekmek"
+   },
+   {
+    "prep": "on",
+    "en": "She has taken ___ far too much work this term.",
+    "tr": "Bu dönem çok fazla iş üstlendi.",
+    "sense": "üstlenmek"
+   }
+  ]
+ },
+ {
+  "id": "cy199",
+  "root": "turn",
+  "level": "B2",
+  "note": "into = dönüşmek · to = yardım için başvurmak · on = düşman kesilmek",
+  "slots": [
+   {
+    "prep": "into",
+    "en": "The caterpillar slowly turns ___ a butterfly.",
+    "tr": "Tırtıl yavaşça kelebeğe dönüşür.",
+    "sense": "dönüşmek"
+   },
+   {
+    "prep": "to",
+    "en": "In a crisis most people turn ___ their families.",
+    "tr": "Kriz anında çoğu insan ailesine başvurur.",
+    "sense": "başvurmak"
+   },
+   {
+    "prep": "on",
+    "en": "The angry crowd suddenly turned ___ the referee.",
+    "tr": "Öfkeli kalabalık aniden hakeme düşman kesildi.",
+    "sense": "aniden düşman kesilmek"
+   }
+  ]
+ },
+ {
+  "id": "cy200",
+  "root": "show",
+  "level": "B1",
+  "note": "around = gezdirmek · to = kime göstermek",
+  "slots": [
+   {
+    "prep": "around",
+    "en": "The guide showed us ___ the old palace.",
+    "tr": "Rehber bize eski sarayı gezdirdi.",
+    "sense": "gezdirmek"
+   },
+   {
+    "prep": "to",
+    "en": "He proudly showed the photograph ___ his colleagues.",
+    "tr": "Fotoğrafı gururla meslektaşlarına gösterdi.",
+    "sense": "kime göstermek"
+   }
+  ]
+ },
+ {
+  "id": "cy201",
+  "root": "way",
+  "level": "B2",
+  "note": "on the way = yolda · in the way = engel · under way = başlamış durumda",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "I met an old friend ___ the way home.",
+    "tr": "Eve giderken yolda eski bir dosta rastladım.",
+    "sense": "yolda, gitmekteyken"
+   },
+   {
+    "prep": "in",
+    "en": "Please move these boxes; they are ___ the way.",
+    "tr": "Şu kutuları çeker misin, yolu kapatıyorlar.",
+    "sense": "engel olarak"
+   },
+   {
+    "prep": "under",
+    "en": "A major reform of the system is already ___ way.",
+    "tr": "Sistemde büyük bir reform çoktan başlamış durumda.",
+    "sense": "başlamış, sürmekte"
+   }
+  ]
+ },
+ {
+  "id": "cy202",
+  "root": "investigation",
+  "level": "B2",
+  "note": "under investigation = hakkında soruşturma var · investigation into = neyin soruşturması",
+  "slots": [
+   {
+    "prep": "under",
+    "en": "Two senior officials are currently ___ investigation.",
+    "tr": "İki üst düzey yetkili şu anda soruşturma altında.",
+    "sense": "soruşturma altında olmak"
+   },
+   {
+    "prep": "into",
+    "en": "The police opened an investigation ___ the warehouse fire.",
+    "tr": "Polis depo yangınıyla ilgili soruşturma başlattı.",
+    "sense": "neyin soruşturması"
+   }
+  ]
+ },
+ {
+  "id": "cy203",
+  "root": "attack",
+  "level": "B2",
+  "note": "attack on = kime yönelik · under attack = saldırıya uğramakta",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The article was a direct attack ___ the health minister.",
+    "tr": "Yazı, sağlık bakanına doğrudan bir saldırıydı.",
+    "sense": "kime yönelik saldırı"
+   },
+   {
+    "prep": "under",
+    "en": "The border town has been ___ attack since dawn.",
+    "tr": "Sınır kasabası şafaktan beri saldırı altında.",
+    "sense": "saldırıya maruz kalmak"
+   }
+  ]
+ },
+ {
+  "id": "cy204",
+  "root": "fire",
+  "level": "B2",
+  "note": "on fire = yanıyor · under fire = ateş altında",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The abandoned warehouse was ___ fire again.",
+    "tr": "Terk edilmiş depo yine yanıyordu.",
+    "sense": "yanmakta"
+   },
+   {
+    "prep": "under",
+    "en": "The patrol came ___ fire near the checkpoint.",
+    "tr": "Devriye kontrol noktası yakınında ateş altında kaldı.",
+    "sense": "ateş altında"
+   }
+  ]
+ },
+ {
+  "id": "cy205",
+  "root": "repair",
+  "level": "B2",
+  "note": "beyond repair = onarılamaz · under repair = onarım hâlinde",
+  "slots": [
+   {
+    "prep": "beyond",
+    "en": "The old wooden bridge was damaged ___ repair.",
+    "tr": "Eski ahşap köprü onarılamayacak kadar hasar gördü.",
+    "sense": "onarılamayacak ölçüde"
+   },
+   {
+    "prep": "under",
+    "en": "The east wing is closed while it is ___ repair.",
+    "tr": "Doğu kanadı onarımdayken kapalı.",
+    "sense": "onarım hâlinde"
+   }
+  ]
+ },
+ {
+  "id": "cy206",
+  "root": "doubt",
+  "level": "B2",
+  "note": "beyond doubt = kuşku götürmez · in doubt = kuşkulu, belirsiz",
+  "slots": [
+   {
+    "prep": "beyond",
+    "en": "His honesty in that affair is ___ doubt.",
+    "tr": "O meselede dürüstlüğü kuşku götürmez.",
+    "sense": "kuşku götürmez"
+   },
+   {
+    "prep": "in",
+    "en": "The result of the election is still ___ doubt.",
+    "tr": "Seçimin sonucu hâlâ belirsiz.",
+    "sense": "belirsiz, kuşkulu"
+   }
+  ]
+ },
+ {
+  "id": "cy207",
+  "root": "reach",
+  "level": "B2",
+  "note": "within reach = ulaşılabilir · out of reach = erişilemez",
+  "slots": [
+   {
+    "prep": "within",
+    "en": "A safe vaccine now seems ___ reach.",
+    "tr": "Güvenli bir aşı artık ulaşılabilir görünüyor.",
+    "sense": "ulaşılabilir"
+   },
+   {
+    "prep": "out of",
+    "en": "Keep all medicines ___ reach of small children.",
+    "tr": "Bütün ilaçları küçük çocukların erişemeyeceği yerde tut.",
+    "sense": "erişilemez"
+   }
+  ]
+ },
+ {
+  "id": "cy208",
+  "root": "stock",
+  "level": "B1",
+  "note": "in stock = stokta var · out of stock = tükenmiş",
+  "slots": [
+   {
+    "prep": "out of",
+    "en": "I'm sorry, that model is ___ stock at the moment.",
+    "tr": "Üzgünüm, o model şu anda stokta yok.",
+    "sense": "tükenmiş"
+   },
+   {
+    "prep": "in",
+    "en": "We still have plenty of them ___ stock.",
+    "tr": "Onlardan hâlâ bolca stokta var.",
+    "sense": "stokta mevcut"
+   }
+  ]
+ },
+ {
+  "id": "cy209",
+  "root": "date",
+  "level": "B2",
+  "note": "out of date = eskimiş · up to date = güncel",
+  "slots": [
+   {
+    "prep": "out of",
+    "en": "The information on that website is badly ___ date.",
+    "tr": "O sitedeki bilgiler fena hâlde eskimiş.",
+    "sense": "eskimiş"
+   },
+   {
+    "prep": "up to",
+    "en": "Please keep the patient records ___ date.",
+    "tr": "Hasta kayıtlarını güncel tut.",
+    "sense": "güncel"
+   }
+  ]
+ },
+ {
+  "id": "cy210",
+  "root": "order",
+  "level": "B1",
+  "note": "in order = düzenli, sıralı · out of order = bozuk",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "The names are listed ___ alphabetical order.",
+    "tr": "İsimler alfabetik sırayla listelenmiş.",
+    "sense": "sıralı"
+   },
+   {
+    "prep": "out of",
+    "en": "The lift in our building is ___ order again.",
+    "tr": "Binamızdaki asansör yine bozuk.",
+    "sense": "bozuk, çalışmıyor"
+   }
+  ]
+ },
+ {
+  "id": "cy211",
+  "root": "touch",
+  "level": "B2",
+  "note": "in touch = irtibatta · out of touch = bağlantısı kopuk",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "We are still ___ touch with our old neighbours.",
+    "tr": "Eski komşularımızla hâlâ irtibattayız.",
+    "sense": "irtibatta"
+   },
+   {
+    "prep": "out of",
+    "en": "He has been ___ touch with his family for years.",
+    "tr": "Yıllardır ailesiyle bağlantısı kopuk.",
+    "sense": "bağlantısı kopuk"
+   }
+  ]
+ },
+ {
+  "id": "cy212",
+  "root": "sight",
+  "level": "B2",
+  "note": "in sight = görünürde · out of sight = gözden uzak",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "Land was finally ___ sight after twelve days.",
+    "tr": "On iki gün sonra kara nihayet göründü.",
+    "sense": "görünürde"
+   },
+   {
+    "prep": "out of",
+    "en": "The small plane quickly went ___ sight.",
+    "tr": "Küçük uçak hızla gözden kayboldu.",
+    "sense": "gözden uzak"
+   }
+  ]
+ },
+ {
+  "id": "cy213",
+  "root": "mind",
+  "level": "B2",
+  "note": "in mind = akılda tutmak · on your mind = zihni meşgul eden · out of your mind = aklını yitirmiş",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "Please keep the new deadline ___ mind.",
+    "tr": "Lütfen yeni son tarihi aklında tut.",
+    "sense": "akılda tutmak"
+   },
+   {
+    "prep": "on",
+    "en": "You clearly have something ___ your mind tonight.",
+    "tr": "Bu akşam belli ki aklını kurcalayan bir şey var.",
+    "sense": "zihni meşgul etmek"
+   },
+   {
+    "prep": "out of",
+    "en": "He was ___ his mind with worry that night.",
+    "tr": "O gece endişeden aklını kaçırmak üzereydi.",
+    "sense": "aklını yitirmiş"
+   }
+  ]
+ },
+ {
+  "id": "cy214",
+  "root": "risk",
+  "level": "B2",
+  "note": "risk of = neyin riski · at risk = tehlikede · risk to = neye yönelik risk",
+  "slots": [
+   {
+    "prep": "of",
+    "en": "There is a serious risk ___ infection here.",
+    "tr": "Burada ciddi bir enfeksiyon riski var.",
+    "sense": "riskin türü"
+   },
+   {
+    "prep": "at",
+    "en": "The whole crew was ___ risk during the storm.",
+    "tr": "Fırtına sırasında bütün mürettebat tehlikedeydi.",
+    "sense": "tehlikedeki taraf"
+   },
+   {
+    "prep": "to",
+    "en": "Heavy smoking is a real risk ___ your health.",
+    "tr": "Yoğun sigara içmek sağlığın için gerçek bir risktir.",
+    "sense": "riskin hedefi"
+   }
+  ]
+ },
+ {
+  "id": "cy215",
+  "root": "stake",
+  "level": "C1",
+  "note": "at stake = tehlikede, söz konusu · stake in = …-de hisse",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "Thousands of jobs are now ___ stake.",
+    "tr": "Şimdi binlerce iş tehlikede.",
+    "sense": "tehlikede, söz konusu"
+   },
+   {
+    "prep": "in",
+    "en": "He owns a large stake ___ the shipping company.",
+    "tr": "Denizcilik şirketinde büyük bir payı var.",
+    "sense": "hisse, pay"
+   }
+  ]
+ },
+ {
+  "id": "cy216",
+  "root": "average",
+  "level": "B2",
+  "note": "on average = ortalama olarak · above = üstünde · below = altında",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "___ average, he reads two books a month.",
+    "tr": "Ortalama olarak ayda iki kitap okur.",
+    "sense": "ortalama olarak"
+   },
+   {
+    "prep": "above",
+    "en": "Her marks are well ___ average this term.",
+    "tr": "Bu dönem notları ortalamanın epey üstünde.",
+    "sense": "ortalamanın üstünde"
+   },
+   {
+    "prep": "below",
+    "en": "Rainfall was ___ average for the third year.",
+    "tr": "Yağış üçüncü yıldır ortalamanın altındaydı.",
+    "sense": "ortalamanın altında"
+   }
+  ]
+ },
+ {
+  "id": "cy217",
+  "root": "board",
+  "level": "C1",
+  "note": "on board = araçta, gemide · across the board = istisnasız her alanda",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "There were forty passengers ___ board the ferry.",
+    "tr": "Feribotta kırk yolcu vardı.",
+    "sense": "araçta, gemide"
+   },
+   {
+    "prep": "across",
+    "en": "Prices rose ___ the board last winter.",
+    "tr": "Geçen kış fiyatlar istisnasız her alanda arttı.",
+    "sense": "istisnasız her alanda"
+   }
+  ]
+ },
+ {
+  "id": "cy218",
+  "root": "condition",
+  "level": "B2",
+  "note": "in ... condition = hangi durumda · on condition = şartıyla",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "The second-hand car is ___ excellent condition.",
+    "tr": "İkinci el araba mükemmel durumda.",
+    "sense": "hangi durumda"
+   },
+   {
+    "prep": "on",
+    "en": "I will lend you the money ___ one condition.",
+    "tr": "Sana parayı tek bir şartla ödünç veririm.",
+    "sense": "şartıyla"
+   }
+  ]
+ },
+ {
+  "id": "cy219",
+  "root": "principle",
+  "level": "C1",
+  "note": "in principle = ilke olarak, kuramda · on principle = ilkesi gereği",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "___ principle I agree, but the timing is wrong.",
+    "tr": "İlke olarak katılıyorum ama zamanlama yanlış.",
+    "sense": "kuramda, ilke olarak"
+   },
+   {
+    "prep": "on",
+    "en": "She resigned ___ principle, not for money.",
+    "tr": "Para için değil, ilkesi gereği istifa etti.",
+    "sense": "ilkesi gereği"
+   }
+  ]
+ },
+ {
+  "id": "cy220",
+  "root": "terms",
+  "level": "C1",
+  "note": "on ... terms = nasıl bir ilişkiyle · in terms of = … açısından",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The two brothers finally parted ___ good terms.",
+    "tr": "İki kardeş sonunda dostça ayrıldı.",
+    "sense": "hangi ilişki içinde"
+   },
+   {
+    "prep": "in",
+    "en": "Think of the project ___ terms of long-term cost.",
+    "tr": "Projeyi uzun vadeli maliyet açısından düşün.",
+    "sense": "… açısından"
+   }
+  ]
+ },
+ {
+  "id": "cy221",
+  "root": "excess",
+  "level": "C1",
+  "note": "in excess of = …-i aşan · an excess of = neyin fazlası",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "The final bill was ___ excess of five thousand liras.",
+    "tr": "Son fatura beş bin lirayı aşıyordu.",
+    "sense": "…-i aşan"
+   },
+   {
+    "prep": "of",
+    "en": "There is a clear excess ___ supply in the market.",
+    "tr": "Piyasada belirgin bir arz fazlası var.",
+    "sense": "neyin fazlası"
+   }
+  ]
+ },
+ {
+  "id": "cy222",
+  "root": "duty",
+  "level": "B2",
+  "note": "on duty = görev başında · duty to = kime karşı yükümlülük",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The night guard was ___ duty until six.",
+    "tr": "Gece bekçisi altıya kadar görev başındaydı.",
+    "sense": "görev başında"
+   },
+   {
+    "prep": "to",
+    "en": "Every engineer has a duty ___ the public.",
+    "tr": "Her mühendisin kamuya karşı bir görevi vardır.",
+    "sense": "kime karşı görev"
+   }
+  ]
+ },
+ {
+  "id": "cy223",
+  "root": "strike",
+  "level": "B2",
+  "note": "on strike = grevde · strike at = hangi iş yerinde",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The dock workers have been ___ strike for a week.",
+    "tr": "Liman işçileri bir haftadır grevde.",
+    "sense": "grevde"
+   },
+   {
+    "prep": "at",
+    "en": "There was a long strike ___ the tyre factory.",
+    "tr": "Lastik fabrikasında uzun bir grev oldu.",
+    "sense": "hangi iş yerinde"
+   }
+  ]
+ },
+ {
+  "id": "cy224",
+  "root": "end",
+  "level": "B2",
+  "note": "in the end = nihayetinde · at the end = hangi noktada · put an end to = neye son vermek",
+  "slots": [
+   {
+    "prep": "in",
+    "en": "___ the end they agreed to share the cost.",
+    "tr": "Sonunda masrafı paylaşmayı kabul ettiler.",
+    "sense": "nihayetinde"
+   },
+   {
+    "prep": "at",
+    "en": "The pharmacy is ___ the end of this street.",
+    "tr": "Eczane bu sokağın sonunda.",
+    "sense": "hangi noktada"
+   },
+   {
+    "prep": "to",
+    "en": "The treaty finally put an end ___ the fighting.",
+    "tr": "Antlaşma sonunda çatışmalara son verdi.",
+    "sense": "neye son vermek"
+   }
+  ]
+ },
+ {
+  "id": "cy225",
+  "root": "purpose",
+  "level": "B1",
+  "note": "on purpose = kasten · for ... purposes = … amacıyla",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "He broke the vase ___ purpose, not by accident.",
+    "tr": "Vazoyu kazara değil, kasten kırdı.",
+    "sense": "kasten"
+   },
+   {
+    "prep": "for",
+    "en": "This room is used ___ storage purposes only.",
+    "tr": "Bu oda yalnızca depolama amacıyla kullanılıyor.",
+    "sense": "hangi amaçla"
+   }
+  ]
+ },
+ {
+  "id": "cy226",
+  "root": "heart",
+  "level": "B2",
+  "note": "by heart = ezbere · at heart = özünde",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "The children learned the whole poem ___ heart.",
+    "tr": "Çocuklar bütün şiiri ezberledi.",
+    "sense": "ezbere"
+   },
+   {
+    "prep": "at",
+    "en": "She is a very generous woman ___ heart.",
+    "tr": "Özünde çok cömert bir kadındır.",
+    "sense": "özünde, aslında"
+   }
+  ]
+ },
+ {
+  "id": "cy227",
+  "root": "mistake",
+  "level": "B2",
+  "note": "by mistake = yanlışlıkla · mistake for = … ile karıştırmak",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "I opened your letter ___ mistake.",
+    "tr": "Mektubunu yanlışlıkla açtım.",
+    "sense": "yanlışlıkla"
+   },
+   {
+    "prep": "for",
+    "en": "People often mistake her ___ her twin sister.",
+    "tr": "İnsanlar onu sık sık ikiz kardeşiyle karıştırır.",
+    "sense": "biriyle karıştırmak"
+   }
+  ]
+ },
+ {
+  "id": "cy228",
+  "root": "use",
+  "level": "B1",
+  "note": "use of = neyin kullanımı · use for = kime, neye yarar",
+  "slots": [
+   {
+    "prep": "of",
+    "en": "The use ___ mobile phones is banned in the hall.",
+    "tr": "Salonda cep telefonu kullanımı yasak.",
+    "sense": "neyin kullanımı"
+   },
+   {
+    "prep": "for",
+    "en": "This rusty old key has no use ___ anyone.",
+    "tr": "Bu paslı eski anahtar kimsenin işine yaramaz.",
+    "sense": "kime yarar"
+   }
+  ]
+ },
+ {
+  "id": "cy229",
+  "root": "record",
+  "level": "B2",
+  "note": "record of = neyin kaydı · record for = hangi dalda rekor",
+  "slots": [
+   {
+    "prep": "of",
+    "en": "There is no written record ___ the payment.",
+    "tr": "Ödemeye dair yazılı bir kayıt yok.",
+    "sense": "neyin kaydı"
+   },
+   {
+    "prep": "for",
+    "en": "She holds the national record ___ the 400 metres.",
+    "tr": "400 metrede ulusal rekor onda.",
+    "sense": "hangi dalda rekor"
+   }
+  ]
+ },
+ {
+  "id": "cy230",
+  "root": "mercy",
+  "level": "C1",
+  "note": "at the mercy of = kimin insafına kalmak · mercy to = kime merhamet",
+  "slots": [
+   {
+    "prep": "of",
+    "en": "The small boat was at the mercy ___ the waves.",
+    "tr": "Küçük tekne dalgaların insafına kalmıştı.",
+    "sense": "kimin insafına"
+   },
+   {
+    "prep": "to",
+    "en": "The judge showed no mercy ___ the young offender.",
+    "tr": "Yargıç genç suçluya hiç merhamet göstermedi.",
+    "sense": "kime merhamet"
+   }
+  ]
+ },
+ {
+  "id": "cy231",
+  "root": "send",
+  "level": "B1",
+  "note": "by = hangi yolla · to = kime, nereye",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "Please send the signed contract ___ registered post.",
+    "tr": "İmzalı sözleşmeyi taahhütlü postayla gönder.",
+    "sense": "hangi yolla"
+   },
+   {
+    "prep": "to",
+    "en": "Please send a copy ___ the head office.",
+    "tr": "Bir kopyasını genel merkeze gönder.",
+    "sense": "kime, nereye"
+   }
+  ]
+ },
+ {
+  "id": "cy232",
+  "root": "learn",
+  "level": "B1",
+  "note": "by = hangi yolla, -erek · from = kimden",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "Small children learn mostly ___ imitating adults.",
+    "tr": "Küçük çocuklar çoğunlukla yetişkinleri taklit ederek öğrenir.",
+    "sense": "hangi yöntemle"
+   },
+   {
+    "prep": "from",
+    "en": "I learned a great deal ___ my first manager.",
+    "tr": "İlk müdürümden çok şey öğrendim.",
+    "sense": "kimden"
+   }
+  ]
+ },
+ {
+  "id": "cy233",
+  "root": "communicate",
+  "level": "B1",
+  "note": "with = kiminle · by = hangi araçla",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "It is hard to communicate ___ someone who never listens.",
+    "tr": "Hiç dinlemeyen biriyle iletişim kurmak zordur.",
+    "sense": "kiminle"
+   },
+   {
+    "prep": "by",
+    "en": "The two offices communicate mainly ___ email.",
+    "tr": "İki ofis çoğunlukla e-postayla haberleşiyor.",
+    "sense": "hangi araçla"
+   }
+  ]
+ },
+ {
+  "id": "cy234",
+  "root": "increase",
+  "level": "B2",
+  "note": "by = ne kadarlık artış · to = hangi düzeye",
+  "slots": [
+   {
+    "prep": "by",
+    "en": "Fuel prices increased ___ fifteen percent last year.",
+    "tr": "Yakıt fiyatları geçen yıl yüzde on beş arttı.",
+    "sense": "ne kadarlık artış"
+   },
+   {
+    "prep": "to",
+    "en": "The city population has increased ___ nine million.",
+    "tr": "Şehrin nüfusu dokuz milyona yükseldi.",
+    "sense": "hangi düzeye"
+   }
+  ]
+ },
+ {
+  "id": "cy235",
+  "root": "cut",
+  "level": "B1",
+  "note": "with = hangi aletle · into = kaç parçaya",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "He cut the thick rope ___ a hunting knife.",
+    "tr": "Kalın halatı bir av bıçağıyla kesti.",
+    "sense": "hangi aletle"
+   },
+   {
+    "prep": "into",
+    "en": "She cut the cake ___ eight equal pieces.",
+    "tr": "Pastayı sekiz eşit parçaya böldü.",
+    "sense": "kaç parçaya"
+   }
+  ]
+ },
+ {
+  "id": "cy236",
+  "root": "swear",
+  "level": "B2",
+  "note": "at = kime küfretmek · by = güvenip yemin etmek",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "He swore ___ the driver who blocked the road.",
+    "tr": "Yolu kapatan sürücüye küfretti.",
+    "sense": "kime küfretmek"
+   },
+   {
+    "prep": "by",
+    "en": "My grandmother swears ___ that old herbal remedy.",
+    "tr": "Büyükannem o eski bitkisel ilaca kefil olur.",
+    "sense": "…-e çok güvenmek"
+   }
+  ]
+ },
+ {
+  "id": "cy237",
+  "root": "work",
+  "level": "B1",
+  "note": "as = gerçekten o kimlikle · like = benzetme, gibi",
+  "slots": [
+   {
+    "prep": "as",
+    "en": "He works ___ a night guard at the museum.",
+    "tr": "Müzede gece bekçisi olarak çalışıyor.",
+    "sense": "gerçekten o görevde"
+   },
+   {
+    "prep": "like",
+    "en": "That poor man works ___ a machine, never resting.",
+    "tr": "O zavallı adam makine gibi çalışıyor, hiç dinlenmiyor.",
+    "sense": "benzetme"
+   }
+  ]
+ },
+ {
+  "id": "cy238",
+  "root": "seem",
+  "level": "B1",
+  "note": "like = neye benziyor · to = kime öyle geliyor",
+  "slots": [
+   {
+    "prep": "like",
+    "en": "Three hundred liras seems ___ a reasonable price.",
+    "tr": "Üç yüz lira makul bir fiyat gibi görünüyor.",
+    "sense": "… gibi görünmek"
+   },
+   {
+    "prep": "to",
+    "en": "The answer seems obvious ___ everyone but him.",
+    "tr": "Cevap ondan başka herkese apaçık görünüyor.",
+    "sense": "kime öyle geliyor"
+   }
+  ]
+ },
+ {
+  "id": "cy239",
+  "root": "regard",
+  "level": "B2",
+  "note": "as = ne olarak görülüyor · with = hangi duyguyla bakılıyor",
+  "slots": [
+   {
+    "prep": "as",
+    "en": "He is widely regarded ___ the finest surgeon here.",
+    "tr": "Buranın en iyi cerrahı olarak görülüyor.",
+    "sense": "… olarak görmek"
+   },
+   {
+    "prep": "with",
+    "en": "The proposal was regarded ___ deep suspicion.",
+    "tr": "Öneriye derin bir kuşkuyla bakıldı.",
+    "sense": "hangi duyguyla bakmak"
+   }
+  ]
+ },
+ {
+  "id": "cy240",
+  "root": "dress",
+  "level": "B1",
+  "note": "as = kimin kılığında · in = ne giymiş",
+  "slots": [
+   {
+    "prep": "as",
+    "en": "He came to the party dressed ___ a pirate.",
+    "tr": "Partiye korsan kılığında geldi.",
+    "sense": "kılığına girmek"
+   },
+   {
+    "prep": "in",
+    "en": "She was dressed ___ black from head to toe.",
+    "tr": "Tepeden tırnağa siyahlar giymişti.",
+    "sense": "hangi renk, hangi kıyafet"
+   }
+  ]
+ },
+ {
+  "id": "cy241",
+  "root": "act",
+  "level": "B2",
+  "note": "as = ne rolüyle · on = neye dayanarak",
+  "slots": [
+   {
+    "prep": "as",
+    "en": "The retired teacher acted ___ his legal guardian.",
+    "tr": "Emekli öğretmen onun yasal vasisi olarak hareket etti.",
+    "sense": "… rolünü üstlenmek"
+   },
+   {
+    "prep": "on",
+    "en": "The police acted ___ information from a neighbour.",
+    "tr": "Polis bir komşudan gelen ihbara göre harekete geçti.",
+    "sense": "…-e dayanarak davranmak"
+   }
+  ]
+ },
+ {
+  "id": "cy242",
+  "root": "qualify",
+  "level": "B2",
+  "note": "for = neye hak kazanmak · as = hangi meslekte yetkin olmak",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "This income does not qualify you ___ a student loan.",
+    "tr": "Bu gelir seni öğrenim kredisine hak kazandırmıyor.",
+    "sense": "neye hak kazanmak"
+   },
+   {
+    "prep": "as",
+    "en": "She qualified ___ a pharmacist three years ago.",
+    "tr": "Üç yıl önce eczacı olarak diploma aldı.",
+    "sense": "hangi meslekten yetkin olmak"
+   }
+  ]
+ },
+ {
+  "id": "cy243",
+  "root": "vote",
+  "level": "B1",
+  "note": "for = lehine · against = aleyhine · on = neyin oylaması",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "Most of the members voted ___ the new proposal.",
+    "tr": "Üyelerin çoğu yeni öneriye evet oyu verdi.",
+    "sense": "lehine"
+   },
+   {
+    "prep": "against",
+    "en": "Only three delegates voted ___ it.",
+    "tr": "Yalnızca üç delege ona karşı oy kullandı.",
+    "sense": "aleyhine"
+   },
+   {
+    "prep": "on",
+    "en": "Parliament will vote ___ the bill tomorrow.",
+    "tr": "Meclis yarın tasarıyı oylayacak.",
+    "sense": "neyi oylamak"
+   }
+  ]
+ },
+ {
+  "id": "cy244",
+  "root": "insure",
+  "level": "B2",
+  "note": "against = hangi riske karşı · for = hangi tutara",
+  "slots": [
+   {
+    "prep": "against",
+    "en": "The house is insured ___ fire and flood.",
+    "tr": "Ev yangına ve sele karşı sigortalı.",
+    "sense": "hangi riske karşı"
+   },
+   {
+    "prep": "for",
+    "en": "The painting is insured ___ two million euros.",
+    "tr": "Tablo iki milyon euroya sigortalı.",
+    "sense": "hangi bedele"
+   }
+  ]
+ },
+ {
+  "id": "cy245",
+  "root": "discriminate",
+  "level": "B2",
+  "note": "against = ayrımcılık yapmak · between = iki şeyi ayırt etmek",
+  "slots": [
+   {
+    "prep": "against",
+    "en": "The old law openly discriminated ___ women.",
+    "tr": "Eski yasa kadınlara açıkça ayrımcılık yapıyordu.",
+    "sense": "ayrımcılık yapmak"
+   },
+   {
+    "prep": "between",
+    "en": "Babies soon learn to discriminate ___ familiar and strange faces.",
+    "tr": "Bebekler tanıdık ve yabancı yüzleri ayırt etmeyi çabuk öğrenir.",
+    "sense": "ayırt etmek"
+   }
+  ]
+ },
+ {
+  "id": "cy246",
+  "root": "arrest",
+  "level": "B2",
+  "note": "for = hangi suçtan · on = hangi şüpheyle",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "Two men were arrested ___ shoplifting yesterday.",
+    "tr": "Dün iki adam mağaza hırsızlığından tutuklandı.",
+    "sense": "hangi suçtan"
+   },
+   {
+    "prep": "on",
+    "en": "He was arrested ___ suspicion of fraud.",
+    "tr": "Dolandırıcılık şüphesiyle tutuklandı.",
+    "sense": "hangi gerekçeyle"
+   }
+  ]
+ },
+ {
+  "id": "cy247",
+  "root": "gap",
+  "level": "B2",
+  "note": "between = iki şey arasında · in = tek şeyin içindeki boşluk",
+  "slots": [
+   {
+    "prep": "between",
+    "en": "There is a huge gap ___ the rich and the poor.",
+    "tr": "Zenginle yoksul arasında büyük bir uçurum var.",
+    "sense": "iki taraf arasında"
+   },
+   {
+    "prep": "in",
+    "en": "There is a serious gap ___ his knowledge of history.",
+    "tr": "Tarih bilgisinde ciddi bir boşluk var.",
+    "sense": "tek şeyin kendi içinde"
+   }
+  ]
+ },
+ {
+  "id": "cy248",
+  "root": "fall",
+  "level": "B2",
+  "note": "behind = geride kalmak · for = kanmak, tuzağa düşmek",
+  "slots": [
+   {
+    "prep": "behind",
+    "en": "The team has fallen ___ the league leaders.",
+    "tr": "Takım lig liderlerinin gerisine düştü.",
+    "sense": "geride kalmak"
+   },
+   {
+    "prep": "for",
+    "en": "Thousands of people fell ___ that fake advertisement.",
+    "tr": "Binlerce kişi o sahte reklama kandı.",
+    "sense": "kanmak"
+   }
+  ]
+ },
+ {
+  "id": "cy249",
+  "root": "do",
+  "level": "B2",
+  "note": "do with = ihtiyacı olmak · do without = onsuz idare etmek",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "I could really do ___ a good night's sleep.",
+    "tr": "İyi bir gece uykusuna gerçekten ihtiyacım var.",
+    "sense": "…-e ihtiyaç duymak"
+   },
+   {
+    "prep": "without",
+    "en": "We shall have to do ___ a car for a while.",
+    "tr": "Bir süre arabasız idare etmek zorunda kalacağız.",
+    "sense": "…-siz idare etmek"
+   }
+  ]
+ },
+ {
+  "id": "cy250",
+  "root": "choose",
+  "level": "B2",
+  "note": "between = iki seçenek · among = ikiden çok · from = hangi listeden",
+  "slots": [
+   {
+    "prep": "between",
+    "en": "You must choose ___ the two offers by Friday.",
+    "tr": "Cumaya kadar iki teklif arasında seçim yapmalısın.",
+    "sense": "iki seçenek arasında"
+   },
+   {
+    "prep": "among",
+    "en": "It is hard to choose ___ so many talented candidates.",
+    "tr": "Bu kadar yetenekli aday arasından seçim yapmak zor.",
+    "sense": "ikiden çok seçenek arasından"
+   },
+   {
+    "prep": "from",
+    "en": "Please choose one dish ___ the list below.",
+    "tr": "Lütfen aşağıdaki listeden bir yemek seç.",
+    "sense": "hangi kaynaktan"
+   }
+  ]
+ },
+ {
+  "id": "cy251",
+  "root": "spread",
+  "level": "B2",
+  "note": "among = topluluğun bireyleri arasında · through = bir bütünün her yanına",
+  "slots": [
+   {
+    "prep": "among",
+    "en": "The rumour spread quickly ___ the factory workers.",
+    "tr": "Söylenti fabrika işçileri arasında hızla yayıldı.",
+    "sense": "topluluğun içinde"
+   },
+   {
+    "prep": "through",
+    "en": "The fire spread ___ the whole building in minutes.",
+    "tr": "Yangın dakikalar içinde bütün binaya yayıldı.",
+    "sense": "bir bütünün her yanına"
+   }
+  ]
+ },
+ {
+  "id": "cy252",
+  "root": "rank",
+  "level": "C1",
+  "note": "among = grubun içinde yer almak · as = hangi sıra olarak",
+  "slots": [
+   {
+    "prep": "among",
+    "en": "The city now ranks ___ the safest in Europe.",
+    "tr": "Şehir artık Avrupa'nın en güvenlileri arasında yer alıyor.",
+    "sense": "… arasında yer almak"
+   },
+   {
+    "prep": "as",
+    "en": "He is officially ranked ___ number three in the world.",
+    "tr": "Resmî olarak dünya üçüncüsü sayılıyor.",
+    "sense": "… olarak sıralanmak"
+   }
+  ]
+ },
+ {
+  "id": "cy253",
+  "root": "gather",
+  "level": "B2",
+  "note": "around = etrafında toplanmak · from = hangi kaynaktan derlenmek",
+  "slots": [
+   {
+    "prep": "around",
+    "en": "The children gathered ___ the old storyteller.",
+    "tr": "Çocuklar yaşlı masalcının etrafında toplandı.",
+    "sense": "etrafında toplanmak"
+   },
+   {
+    "prep": "from",
+    "en": "The data was gathered ___ five different hospitals.",
+    "tr": "Veriler beş ayrı hastaneden toplandı.",
+    "sense": "hangi kaynaktan"
+   }
+  ]
+ },
+ {
+  "id": "cy254",
+  "root": "search",
+  "level": "B2",
+  "note": "for = neyi arıyorsun · through = neyin içini karıştırıyorsun",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "Rescue teams searched ___ the missing climbers all night.",
+    "tr": "Kurtarma ekipleri bütün gece kayıp dağcıları aradı.",
+    "sense": "neyi aramak"
+   },
+   {
+    "prep": "through",
+    "en": "She searched ___ every drawer in the house.",
+    "tr": "Evdeki her çekmeceyi didik didik aradı.",
+    "sense": "neyin içini karıştırmak"
+   }
+  ]
+ },
+ {
+  "id": "cy255",
+  "root": "feed",
+  "level": "B1",
+  "note": "on = neyle beslenmek · to = kime yedirmek",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "Barn owls feed mainly ___ small rodents.",
+    "tr": "Peçeli baykuşlar başlıca küçük kemirgenlerle beslenir.",
+    "sense": "neyle beslenmek"
+   },
+   {
+    "prep": "to",
+    "en": "Never feed chocolate ___ a dog.",
+    "tr": "Bir köpeğe asla çikolata verme.",
+    "sense": "kime yedirmek"
+   }
+  ]
+ },
+ {
+  "id": "cy256",
+  "root": "owe",
+  "level": "B2",
+  "note": "to = kime borçlu · for = neyin karşılığı",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "She owes her whole career ___ that one teacher.",
+    "tr": "Bütün kariyerini o tek öğretmene borçlu.",
+    "sense": "kime borçlu"
+   },
+   {
+    "prep": "for",
+    "en": "He still owes me ___ last month's tickets.",
+    "tr": "Geçen ayki biletlerin parasını hâlâ bana borçlu.",
+    "sense": "neyin bedeli"
+   }
+  ]
+ },
+ {
+  "id": "cy257",
+  "root": "credit",
+  "level": "C1",
+  "note": "with = kime atfedilmek · to = hangi hesaba yatmak",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "She is usually credited ___ inventing the device.",
+    "tr": "Cihazı icat etmek genelde ona atfedilir.",
+    "sense": "kime atfedilmek"
+   },
+   {
+    "prep": "to",
+    "en": "The money was credited ___ your account this morning.",
+    "tr": "Para bu sabah hesabına geçti.",
+    "sense": "hangi hesaba geçmek"
+   }
+  ]
+ },
+ {
+  "id": "cy258",
+  "root": "entrust",
+  "level": "C1",
+  "note": "entrust KİŞİ with ŞEY · entrust ŞEY to KİŞİ — sıra edatı belirler",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "They entrusted the young clerk ___ the office keys.",
+    "tr": "Genç memura ofis anahtarlarını emanet ettiler.",
+    "sense": "KİŞİ with EŞYA"
+   },
+   {
+    "prep": "to",
+    "en": "They entrusted the office keys ___ the young clerk.",
+    "tr": "Ofis anahtarlarını genç memura emanet ettiler.",
+    "sense": "EŞYA to KİŞİ"
+   }
+  ]
+ },
+ {
+  "id": "cy259",
+  "root": "exchange",
+  "level": "B2",
+  "note": "for = neyin yerine · with = kiminle karşılıklı",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "She exchanged the shirt ___ a larger size.",
+    "tr": "Gömleği daha büyük bir bedenle değiştirdi.",
+    "sense": "neyle takas etmek"
+   },
+   {
+    "prep": "with",
+    "en": "The two leaders exchanged a few words ___ each other.",
+    "tr": "İki lider birbiriyle birkaç kelime konuştu.",
+    "sense": "kiminle karşılıklı"
+   }
+  ]
+ },
+ {
+  "id": "cy260",
+  "root": "collaborate",
+  "level": "B2",
+  "note": "with = kiminle · on = hangi iş üzerinde",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "She collaborated ___ two researchers from Vienna.",
+    "tr": "Viyanalı iki araştırmacıyla birlikte çalıştı.",
+    "sense": "kiminle"
+   },
+   {
+    "prep": "on",
+    "en": "They collaborated ___ a new Turkish-German dictionary.",
+    "tr": "Yeni bir Türkçe-Almanca sözlük üzerinde birlikte çalıştılar.",
+    "sense": "hangi iş üzerinde"
+   }
+  ]
+ },
+ {
+  "id": "cy261",
+  "root": "experiment",
+  "level": "B2",
+  "note": "with = neyle deneme yapmak · on = kimin üzerinde denemek",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "Chemists have been experimenting ___ lighter materials.",
+    "tr": "Kimyagerler daha hafif malzemelerle deneyler yapıyor.",
+    "sense": "neyle denemek"
+   },
+   {
+    "prep": "on",
+    "en": "The new drug was first experimented ___ mice.",
+    "tr": "Yeni ilaç önce fareler üzerinde denendi.",
+    "sense": "kimin üzerinde"
+   }
+  ]
+ },
+ {
+  "id": "cy262",
+  "root": "conspire",
+  "level": "C1",
+  "note": "against = kime karşı · with = kiminle birlikte",
+  "slots": [
+   {
+    "prep": "against",
+    "en": "Several generals conspired ___ the young king.",
+    "tr": "Birkaç general genç krala karşı komplo kurdu.",
+    "sense": "kime karşı"
+   },
+   {
+    "prep": "with",
+    "en": "He conspired ___ two officers to seize the palace.",
+    "tr": "Sarayı ele geçirmek için iki subayla iş birliği yaptı.",
+    "sense": "kiminle birlikte"
+   }
+  ]
+ },
+ {
+  "id": "cy263",
+  "root": "dispense",
+  "level": "C1",
+  "note": "with = …-siz yapmak · to = kime dağıtmak",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "In an emergency we can dispense ___ formalities.",
+    "tr": "Acil bir durumda formalitelerden vazgeçebiliriz.",
+    "sense": "…-den vazgeçmek"
+   },
+   {
+    "prep": "to",
+    "en": "The machine dispenses hot drinks ___ staff free of charge.",
+    "tr": "Makine personele ücretsiz sıcak içecek veriyor.",
+    "sense": "kime dağıtmak"
+   }
+  ]
+ },
+ {
+  "id": "cy264",
+  "root": "resign",
+  "level": "C1",
+  "note": "from = görevden ayrılmak · to = kaderine razı olmak",
+  "slots": [
+   {
+    "prep": "from",
+    "en": "He resigned ___ the board after a long argument.",
+    "tr": "Uzun bir tartışmadan sonra yönetim kurulundan istifa etti.",
+    "sense": "neyden ayrılmak"
+   },
+   {
+    "prep": "to",
+    "en": "She has resigned herself ___ a very long wait.",
+    "tr": "Çok uzun bir bekleyişe razı oldu.",
+    "sense": "…-e boyun eğmek"
+   }
+  ]
+ },
+ {
+  "id": "cy265",
+  "root": "tap",
+  "level": "C1",
+  "note": "into = gizli kaynaktan yararlanmak · on = hafifçe vurmak",
+  "slots": [
+   {
+    "prep": "into",
+    "en": "The company tapped ___ a completely new market.",
+    "tr": "Şirket bambaşka bir pazardan yararlanmaya başladı.",
+    "sense": "…-den yararlanmak"
+   },
+   {
+    "prep": "on",
+    "en": "She tapped gently ___ the window to wake him.",
+    "tr": "Onu uyandırmak için cama hafifçe vurdu.",
+    "sense": "…-e hafifçe vurmak"
+   }
+  ]
+ },
+ {
+  "id": "cy266",
+  "root": "bank",
+  "level": "C1",
+  "note": "on = bel bağlamak · with = hangi bankada hesabı olmak",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "Don't bank ___ his help; he often forgets.",
+    "tr": "Onun yardımına bel bağlama, sık sık unutur.",
+    "sense": "bel bağlamak"
+   },
+   {
+    "prep": "with",
+    "en": "Our family has banked ___ the same institution for years.",
+    "tr": "Ailemiz yıllardır aynı kurumla çalışıyor.",
+    "sense": "hangi bankayla çalışmak"
+   }
+  ]
+ },
+ {
+  "id": "cy267",
+  "root": "bargain",
+  "level": "C1",
+  "note": "for = beklemek, hesaba katmak · with = kiminle pazarlık etmek",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "We had not bargained ___ such heavy traffic.",
+    "tr": "Böylesine yoğun bir trafiği hesaba katmamıştık.",
+    "sense": "hesaba katmak"
+   },
+   {
+    "prep": "with",
+    "en": "He bargained ___ the seller for almost an hour.",
+    "tr": "Satıcıyla neredeyse bir saat pazarlık etti.",
+    "sense": "kiminle pazarlık"
+   }
+  ]
+ },
+ {
+  "id": "cy268",
+  "root": "hover",
+  "level": "C1",
+  "note": "over = başında dolanmak · between = iki değer arasında gezinmek",
+  "slots": [
+   {
+    "prep": "over",
+    "en": "A nervous waiter hovered ___ our table all evening.",
+    "tr": "Tedirgin bir garson bütün akşam masamızın başında dolandı.",
+    "sense": "üstünde dolanmak"
+   },
+   {
+    "prep": "between",
+    "en": "The temperature hovered ___ zero and five degrees.",
+    "tr": "Sıcaklık sıfırla beş derece arasında gidip geldi.",
+    "sense": "iki değer arasında"
+   }
+  ]
+ },
+ {
+  "id": "cy269",
+  "root": "advise",
+  "level": "B2",
+  "note": "on = hangi konuda öğüt · against = yapma yönünde uyarı",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "The lawyer advised us ___ the terms of the contract.",
+    "tr": "Avukat bize sözleşme şartları konusunda danışmanlık yaptı.",
+    "sense": "hangi konuda"
+   },
+   {
+    "prep": "against",
+    "en": "The doctor advised him ___ flying for a month.",
+    "tr": "Doktor ona bir ay uçmamasını öğütledi.",
+    "sense": "yapmaması yönünde"
+   }
+  ]
+ },
+ {
+  "id": "cy270",
+  "root": "press",
+  "level": "B2",
+  "note": "for = ne talebiyle ısrar etmek · against = …-e bastırmak",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "The union is still pressing ___ higher wages.",
+    "tr": "Sendika hâlâ daha yüksek ücret için baskı yapıyor.",
+    "sense": "ne talebiyle"
+   },
+   {
+    "prep": "against",
+    "en": "He pressed his face ___ the cold window.",
+    "tr": "Yüzünü soğuk cama bastırdı.",
+    "sense": "…-e bastırmak"
+   }
+  ]
+ },
+ {
+  "id": "cy271",
+  "root": "pour",
+  "level": "B2",
+  "note": "into = içine akıtmak · over = üstüne dökmek",
+  "slots": [
+   {
+    "prep": "into",
+    "en": "The state poured millions ___ the failing project.",
+    "tr": "Devlet batmakta olan projeye milyonlar akıttı.",
+    "sense": "içine akıtmak"
+   },
+   {
+    "prep": "over",
+    "en": "She poured the hot sauce ___ the grilled meat.",
+    "tr": "Sıcak sosu ızgara etin üzerine döktü.",
+    "sense": "üstüne dökmek"
+   }
+  ]
+ },
+ {
+  "id": "cy272",
+  "root": "dig",
+  "level": "B2",
+  "note": "into = derinlemesine araştırmak · for = ne bulmak için kazmak",
+  "slots": [
+   {
+    "prep": "into",
+    "en": "The journalist dug ___ the company's old records.",
+    "tr": "Gazeteci şirketin eski kayıtlarını didikledi.",
+    "sense": "derinlemesine araştırmak"
+   },
+   {
+    "prep": "for",
+    "en": "The villagers were digging ___ water, not gold.",
+    "tr": "Köylüler altın değil, su arıyordu.",
+    "sense": "neyi aramak için"
+   }
+  ]
+ },
+ {
+  "id": "cy273",
+  "root": "report",
+  "level": "B2",
+  "note": "to = kime bağlı olmak · on = neyi haberleştirmek",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "All new staff report ___ the site manager.",
+    "tr": "Bütün yeni personel şantiye şefine bağlıdır.",
+    "sense": "kime bağlı olmak"
+   },
+   {
+    "prep": "on",
+    "en": "She reported ___ the earthquake for two weeks.",
+    "tr": "İki hafta boyunca depremle ilgili haber yaptı.",
+    "sense": "neyi haberleştirmek"
+   }
+  ]
+ },
+ {
+  "id": "cy274",
+  "root": "respond",
+  "level": "B2",
+  "note": "to = neye cevap · with = neyle cevap",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "He responded ___ the harsh criticism very calmly.",
+    "tr": "Sert eleştiriye çok sakin karşılık verdi.",
+    "sense": "neye karşılık"
+   },
+   {
+    "prep": "with",
+    "en": "The government responded ___ a new set of sanctions.",
+    "tr": "Hükümet yeni bir yaptırım paketiyle karşılık verdi.",
+    "sense": "neyle karşılık"
+   }
+  ]
+ },
+ {
+  "id": "cy275",
+  "root": "spring",
+  "level": "C1",
+  "note": "from = neyden doğmak · to = …-e fırlamak",
+  "slots": [
+   {
+    "prep": "from",
+    "en": "The whole idea sprang ___ a chance remark.",
+    "tr": "Bütün fikir tesadüfi bir sözden doğdu.",
+    "sense": "neyden doğmak"
+   },
+   {
+    "prep": "to",
+    "en": "He sprang ___ his feet when the door opened.",
+    "tr": "Kapı açılınca ayağa fırladı.",
+    "sense": "…-e fırlamak"
+   }
+  ]
+ },
+ {
+  "id": "cy276",
+  "root": "frown",
+  "level": "C1",
+  "note": "at = kime kaşını çatmak · on = onaylamamak, hoş görmemek",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "The old librarian frowned ___ the noisy students.",
+    "tr": "Yaşlı kütüphaneci gürültücü öğrencilere kaşlarını çattı.",
+    "sense": "kime kaş çatmak"
+   },
+   {
+    "prep": "on",
+    "en": "Society still frowns ___ such careless behaviour.",
+    "tr": "Toplum böyle savruk davranışları hâlâ hoş karşılamıyor.",
+    "sense": "hoş görmemek"
+   }
+  ]
+ },
+ {
+  "id": "cy277",
+  "root": "expand",
+  "level": "B2",
+  "note": "on = ayrıntılandırmak · into = yeni alana yayılmak",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "Could you expand ___ your second argument?",
+    "tr": "İkinci savını biraz açar mısın?",
+    "sense": "ayrıntılandırmak"
+   },
+   {
+    "prep": "into",
+    "en": "The firm expanded ___ three Asian markets last year.",
+    "tr": "Firma geçen yıl üç Asya pazarına açıldı.",
+    "sense": "…-e yayılmak"
+   }
+  ]
+ },
+ {
+  "id": "cy278",
+  "root": "venture",
+  "level": "C1",
+  "note": "into = göze alıp içine girmek · beyond = sınırın ötesine geçmek",
+  "slots": [
+   {
+    "prep": "into",
+    "en": "Few investors ventured ___ that unstable market.",
+    "tr": "Az sayıda yatırımcı o istikrarsız pazara girmeyi göze aldı.",
+    "sense": "göze alıp girmek"
+   },
+   {
+    "prep": "beyond",
+    "en": "He never ventured ___ his own quiet village.",
+    "tr": "Kendi sessiz köyünün ötesine hiç adım atmadı.",
+    "sense": "sınırın ötesine"
+   }
+  ]
+ },
+ {
+  "id": "cy279",
+  "root": "hint",
+  "level": "B2",
+  "note": "hint at = ima etmek · a hint of = belli belirsiz bir iz",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "The minister hinted ___ a possible early election.",
+    "tr": "Bakan olası bir erken seçime ima etti.",
+    "sense": "ima etmek"
+   },
+   {
+    "prep": "of",
+    "en": "There was a clear hint ___ irony in her voice.",
+    "tr": "Sesinde açık bir alay tınısı vardı.",
+    "sense": "belli belirsiz iz"
+   }
+  ]
+ },
+ {
+  "id": "cy280",
+  "root": "whisper",
+  "level": "B1",
+  "note": "to = kime fısıldamak · about = ne hakkında dedikodu",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "She whispered something ___ her younger sister.",
+    "tr": "Küçük kız kardeşine bir şeyler fısıldadı.",
+    "sense": "kime fısıldamak"
+   },
+   {
+    "prep": "about",
+    "en": "People are whispering ___ his sudden wealth.",
+    "tr": "İnsanlar onun ani zenginliği hakkında fısıldaşıyor.",
+    "sense": "ne hakkında"
+   }
+  ]
+ },
+ {
+  "id": "cy281",
+  "root": "immune",
+  "level": "C1",
+  "note": "to = etkilenmez, bağışık · from = hukuken muaf",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "A few lucky people seem immune ___ the virus.",
+    "tr": "Birkaç şanslı insan virüse bağışık görünüyor.",
+    "sense": "etkilenmemek"
+   },
+   {
+    "prep": "from",
+    "en": "Diplomats are immune ___ prosecution in that country.",
+    "tr": "Diplomatlar o ülkede kovuşturmadan muaftır.",
+    "sense": "muaf, dokunulmaz"
+   }
+  ]
+ },
+ {
+  "id": "cy282",
+  "root": "liable",
+  "level": "C1",
+  "note": "to = …-e açık olmak · for = hukuken sorumlu olmak",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "Prices are liable ___ change without notice.",
+    "tr": "Fiyatlar haber verilmeksizin değişebilir.",
+    "sense": "…-e açık, meyilli"
+   },
+   {
+    "prep": "for",
+    "en": "The driver is liable ___ any damage to the vehicle.",
+    "tr": "Sürücü araçtaki her hasardan sorumludur.",
+    "sense": "hukuken sorumlu"
+   }
+  ]
+ },
+ {
+  "id": "cy283",
+  "root": "poor",
+  "level": "B2",
+  "note": "at = hangi beceride zayıf · in = hangi madde bakımından yoksul",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "He has always been poor ___ mental arithmetic.",
+    "tr": "Zihinden hesapta hep zayıf olmuştur.",
+    "sense": "hangi işte beceriksiz"
+   },
+   {
+    "prep": "in",
+    "en": "The soil here is extremely poor ___ nitrogen.",
+    "tr": "Buradaki toprak azot bakımından çok fakir.",
+    "sense": "hangi madde bakımından"
+   }
+  ]
+ },
+ {
+  "id": "cy284",
+  "root": "present",
+  "level": "B2",
+  "note": "at = etkinlikte hazır bulunmak · in = bir şeyin içinde bulunmak",
+  "slots": [
+   {
+    "prep": "at",
+    "en": "Over two hundred guests were present ___ the ceremony.",
+    "tr": "Törende iki yüzden fazla konuk hazır bulundu.",
+    "sense": "etkinlikte hazır bulunmak"
+   },
+   {
+    "prep": "in",
+    "en": "Traces of lead were present ___ the drinking water.",
+    "tr": "İçme suyunda kurşun izleri vardı.",
+    "sense": "içinde bulunmak"
+   }
+  ]
+ },
+ {
+  "id": "cy285",
+  "root": "strict",
+  "level": "B1",
+  "note": "with = kime karşı · about = hangi konuda",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "The new headmaster is very strict ___ his teachers.",
+    "tr": "Yeni müdür öğretmenlerine karşı çok katı.",
+    "sense": "kime karşı katı"
+   },
+   {
+    "prep": "about",
+    "en": "The school is extremely strict ___ punctuality.",
+    "tr": "Okul dakiklik konusunda son derece katı.",
+    "sense": "hangi konuda katı"
+   }
+  ]
+ },
+ {
+  "id": "cy286",
+  "root": "expert",
+  "level": "C1",
+  "note": "on = hangi konunun uzmanı · at = hangi işi yapmakta usta",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "She is a leading expert ___ Ottoman archives.",
+    "tr": "Osmanlı arşivleri konusunda önde gelen bir uzman.",
+    "sense": "hangi konuda bilgi"
+   },
+   {
+    "prep": "at",
+    "en": "He is remarkably expert ___ settling family disputes.",
+    "tr": "Aile anlaşmazlıklarını çözmekte olağanüstü ustadır.",
+    "sense": "hangi işte usta"
+   }
+  ]
+ },
+ {
+  "id": "cy287",
+  "root": "right",
+  "level": "C1",
+  "note": "right to = neye sahip olma hakkı · rights over = ne üzerinde tasarruf hakkı",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "Every child has a right ___ free basic education.",
+    "tr": "Her çocuğun parasız temel eğitim hakkı vardır.",
+    "sense": "neye hak"
+   },
+   {
+    "prep": "over",
+    "en": "The company has exclusive rights ___ the design.",
+    "tr": "Şirketin tasarım üzerinde münhasır hakları var.",
+    "sense": "ne üzerinde hak"
+   }
+  ]
+ },
+ {
+  "id": "cy288",
+  "root": "cause",
+  "level": "B2",
+  "note": "cause of = neyin sebebi · cause for = neye gerekçe",
+  "slots": [
+   {
+    "prep": "of",
+    "en": "Investigators are still seeking the cause ___ the fire.",
+    "tr": "Müfettişler hâlâ yangının nedenini arıyor.",
+    "sense": "neyin sebebi"
+   },
+   {
+    "prep": "for",
+    "en": "There is really no cause ___ alarm yet.",
+    "tr": "Henüz gerçekten telaşa gerek yok.",
+    "sense": "neye gerekçe"
+   }
+  ]
+ },
+ {
+  "id": "cy289",
+  "root": "respect",
+  "level": "C1",
+  "note": "respect for = kime saygı · with respect to = … konusuna gelince",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "The young officer had no respect ___ authority.",
+    "tr": "Genç subayın otoriteye hiç saygısı yoktu.",
+    "sense": "kime saygı"
+   },
+   {
+    "prep": "to",
+    "en": "With respect ___ your last question, I disagree.",
+    "tr": "Son sorunuza gelince, katılmıyorum.",
+    "sense": "…-e gelince"
+   }
+  ]
+ },
+ {
+  "id": "cy290",
+  "root": "wrong",
+  "level": "B1",
+  "note": "wrong with = neyin arızası · wrong about = kim hakkında yanılmak",
+  "slots": [
+   {
+    "prep": "with",
+    "en": "What exactly is wrong ___ the engine?",
+    "tr": "Motorun tam olarak nesi var?",
+    "sense": "neyin sorunu"
+   },
+   {
+    "prep": "about",
+    "en": "You were completely wrong ___ him.",
+    "tr": "Onun hakkında tamamen yanılmışsın.",
+    "sense": "kim hakkında yanılmak"
+   }
+  ]
+ },
+ {
+  "id": "cy291",
+  "root": "clear",
+  "level": "B2",
+  "note": "clear about = hangi konuda net · clear of = neyden arınmış",
+  "slots": [
+   {
+    "prep": "about",
+    "en": "Be very clear ___ your intentions from the start.",
+    "tr": "Baştan itibaren niyetin konusunda çok net ol.",
+    "sense": "hangi konuda net"
+   },
+   {
+    "prep": "of",
+    "en": "By noon the mountain road was clear ___ snow.",
+    "tr": "Öğlene kadar dağ yolu kardan temizlendi.",
+    "sense": "neyden arınmış"
+   }
+  ]
+ },
+ {
+  "id": "cy292",
+  "root": "safe",
+  "level": "B1",
+  "note": "safe from = hangi tehlikeye karşı güvende · safe for = hangi kullanıma elverişli",
+  "slots": [
+   {
+    "prep": "from",
+    "en": "The upper village is completely safe ___ flooding.",
+    "tr": "Yukarı köy sel tehlikesinden tamamen uzak.",
+    "sense": "hangi tehlikeden korunmuş"
+   },
+   {
+    "prep": "for",
+    "en": "Is this well water really safe ___ drinking?",
+    "tr": "Bu kuyu suyu içmek için gerçekten güvenli mi?",
+    "sense": "hangi kullanım için"
+   }
+  ]
+ },
+ {
+  "id": "cy293",
+  "root": "useful",
+  "level": "B1",
+  "note": "useful to = kime yararlı · useful for = hangi iş için elverişli",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "That old map proved very useful ___ us.",
+    "tr": "O eski harita bizim için çok yararlı oldu.",
+    "sense": "kime yararlı"
+   },
+   {
+    "prep": "for",
+    "en": "This blade is useful ___ cutting thin metal.",
+    "tr": "Bu bıçak ince metal kesmek için elverişli.",
+    "sense": "hangi iş için"
+   }
+  ]
+ },
+ {
+  "id": "cy294",
+  "root": "true",
+  "level": "B2",
+  "note": "true to = …-e sadık · true of = … için de geçerli",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "He stayed true ___ his word until the very end.",
+    "tr": "Sonuna kadar sözüne sadık kaldı.",
+    "sense": "sadık kalmak"
+   },
+   {
+    "prep": "of",
+    "en": "The same is unfortunately true ___ many other cities.",
+    "tr": "Aynı şey ne yazık ki birçok başka şehir için de geçerli.",
+    "sense": "kimin için geçerli"
+   }
+  ]
+ },
+ {
+  "id": "cy295",
+  "root": "hard",
+  "level": "B1",
+  "note": "hard on = kime karşı sert · hard for = kime zor gelen",
+  "slots": [
+   {
+    "prep": "on",
+    "en": "Don't be so hard ___ yourself after one mistake.",
+    "tr": "Tek bir hatadan sonra kendine bu kadar yüklenme.",
+    "sense": "kime sert davranmak"
+   },
+   {
+    "prep": "for",
+    "en": "That final question was hard ___ everyone.",
+    "tr": "O son soru herkes için zordu.",
+    "sense": "kime zor gelmek"
+   }
+  ]
+ },
+ {
+  "id": "cy296",
+  "root": "gift",
+  "level": "B1",
+  "note": "gift for = neye yetenek · gift from = kimden gelen hediye",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "The girl clearly has a gift ___ foreign languages.",
+    "tr": "Kızın yabancı dillere karşı bariz bir yeteneği var.",
+    "sense": "neye yetenek"
+   },
+   {
+    "prep": "from",
+    "en": "This silver watch was a gift ___ my grandfather.",
+    "tr": "Bu gümüş saat dedemden bir hediyeydi.",
+    "sense": "kimden hediye"
+   }
+  ]
+ },
+ {
+  "id": "cy297",
+  "root": "clue",
+  "level": "B2",
+  "note": "clue to = neyi çözecek ipucu · clue about = ne hakkında fikir",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "The police found no clue ___ his whereabouts.",
+    "tr": "Polis nerede olduğuna dair hiçbir ipucu bulamadı.",
+    "sense": "neyin anahtarı"
+   },
+   {
+    "prep": "about",
+    "en": "Do you have any clue ___ what really happened?",
+    "tr": "Gerçekte ne olduğu hakkında bir fikrin var mı?",
+    "sense": "ne hakkında fikir"
+   }
+  ]
+ },
+ {
+  "id": "cy298",
+  "root": "benefit",
+  "level": "B2",
+  "note": "benefit of = neyin sağladığı yarar · benefit to = kime yarar",
+  "slots": [
+   {
+    "prep": "of",
+    "en": "The benefits ___ regular exercise are well documented.",
+    "tr": "Düzenli egzersizin yararları iyi belgelenmiştir.",
+    "sense": "neyin yararı"
+   },
+   {
+    "prep": "to",
+    "en": "The new bridge is of great benefit ___ local farmers.",
+    "tr": "Yeni köprü yöre çiftçilerine büyük yarar sağlıyor.",
+    "sense": "kime yarar"
+   }
+  ]
+ },
+ {
+  "id": "cy299",
+  "root": "harm",
+  "level": "B2",
+  "note": "harm to = neye zarar · harm in = hangi davranışta sakınca",
+  "slots": [
+   {
+    "prep": "to",
+    "en": "The chemical does real harm ___ the surrounding soil.",
+    "tr": "Kimyasal çevredeki toprağa gerçek zarar veriyor.",
+    "sense": "neye zarar"
+   },
+   {
+    "prep": "in",
+    "en": "There is no harm ___ asking one more time.",
+    "tr": "Bir kez daha sormanın zararı yok.",
+    "sense": "hangi davranışta zarar"
+   }
+  ]
+ },
+ {
+  "id": "cy300",
+  "root": "bound",
+  "level": "C1",
+  "note": "bound for = nereye gitmekte · bound by = neyle bağlı, yükümlü",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "The old cargo ship was bound ___ Alexandria.",
+    "tr": "Eski yük gemisi İskenderiye'ye gidiyordu.",
+    "sense": "hangi limana giden"
+   },
+   {
+    "prep": "by",
+    "en": "Every civil servant is bound ___ these regulations.",
+    "tr": "Her memur bu yönetmeliklerle bağlıdır.",
+    "sense": "neyle bağlı"
+   }
+  ]
+ },
+ {
+  "id": "cy301",
+  "root": "sail",
+  "level": "B1",
+  "note": "along = bir hat boyunca ilerlemek · into = içine girmek",
+  "slots": [
+   {
+    "prep": "along",
+    "en": "The boat sailed slowly ___ the rocky southern coast.",
+    "tr": "Tekne kayalık güney kıyısı boyunca yavaşça ilerledi.",
+    "sense": "kıyı boyunca"
+   },
+   {
+    "prep": "into",
+    "en": "The fleet sailed ___ the harbour just before dawn.",
+    "tr": "Filo şafaktan hemen önce limana girdi.",
+    "sense": "içine girmek"
+   }
+  ]
+ },
+ {
+  "id": "cy302",
+  "root": "stretch",
+  "level": "B2",
+  "note": "along = boyunca uzanmak · beyond = sınırın ötesine uzanmak",
+  "slots": [
+   {
+    "prep": "along",
+    "en": "A narrow footpath stretches ___ the eastern wall.",
+    "tr": "Doğu duvarı boyunca dar bir patika uzanıyor.",
+    "sense": "boyunca uzanmak"
+   },
+   {
+    "prep": "beyond",
+    "en": "The pine forest stretches far ___ the old border.",
+    "tr": "Çam ormanı eski sınırın çok ötesine uzanıyor.",
+    "sense": "ötesine geçmek"
+   }
+  ]
+ },
+ {
+  "id": "cy303",
+  "root": "park",
+  "level": "B1",
+  "note": "behind = arkasına · under = altına",
+  "slots": [
+   {
+    "prep": "behind",
+    "en": "He parked the car ___ the tall grey van.",
+    "tr": "Arabayı uzun gri minibüsün arkasına park etti.",
+    "sense": "arkasına"
+   },
+   {
+    "prep": "under",
+    "en": "They parked ___ the old plane trees for shade.",
+    "tr": "Gölge için yaşlı çınarların altına park ettiler.",
+    "sense": "altına"
+   }
+  ]
+ },
+ {
+  "id": "cy304",
+  "root": "plan",
+  "level": "B2",
+  "note": "for = neye hazırlık yapmak · beyond = ötesini düşünmek",
+  "slots": [
+   {
+    "prep": "for",
+    "en": "Every city must plan ___ the next long drought.",
+    "tr": "Her şehir bir sonraki uzun kuraklığa hazırlık yapmalı.",
+    "sense": "neye hazırlanmak"
+   },
+   {
+    "prep": "beyond",
+    "en": "Few politicians plan ___ the next election.",
+    "tr": "Çok az siyasetçi bir sonraki seçimin ötesini planlar.",
+    "sense": "ötesini düşünmek"
+   }
+  ]
+ },
+ {
+  "id": "cy305",
+  "root": "remain",
+  "level": "B1",
+  "note": "since = hangi andan beri · for = ne kadar süredir",
+  "slots": [
+   {
+    "prep": "since",
+    "en": "The paper mill has remained closed ___ last October.",
+    "tr": "Kâğıt fabrikası geçen ekimden beri kapalı.",
+    "sense": "ne zamandan beri"
+   },
+   {
+    "prep": "for",
+    "en": "The paper mill has remained closed ___ eight months.",
+    "tr": "Kâğıt fabrikası sekiz aydır kapalı.",
+    "sense": "ne kadar süredir"
+   }
+  ]
+ },
+ {
+  "id": "cy306",
+  "root": "grow",
+  "level": "B2",
+  "note": "since = hangi tarihten beri · into = …-e dönüşerek büyümek",
+  "slots": [
+   {
+    "prep": "since",
+    "en": "The town has grown very rapidly ___ 2015.",
+    "tr": "Kasaba 2015'ten beri çok hızlı büyüdü.",
+    "sense": "hangi tarihten beri"
+   },
+   {
+    "prep": "into",
+    "en": "The small workshop grew ___ a large furniture factory.",
+    "tr": "Küçük atölye büyük bir mobilya fabrikasına dönüştü.",
+    "sense": "…-e dönüşmek"
+   }
+  ]
+ },
+ {
+  "id": "cy307",
+  "root": "silent",
+  "level": "B2",
+  "note": "since = hangi andan beri · during = hangi zaman dilimi içinde",
+  "slots": [
+   {
+    "prep": "since",
+    "en": "The old man has been silent ___ his wife's death.",
+    "tr": "Yaşlı adam karısının ölümünden beri suskun.",
+    "sense": "hangi olaydan beri"
+   },
+   {
+    "prep": "during",
+    "en": "Everyone stayed completely silent ___ the ceremony.",
+    "tr": "Tören boyunca herkes tamamen sessiz kaldı.",
+    "sense": "hangi zaman diliminde"
+   }
+  ]
+ },
+ {
+  "id": "cy308",
+  "root": "available",
+  "level": "B2",
+  "note": "throughout = her yanında · to = kime açık",
+  "slots": [
+   {
+    "prep": "throughout",
+    "en": "The same service is available ___ the country.",
+    "tr": "Aynı hizmet ülkenin her yerinde mevcut.",
+    "sense": "her yanında"
+   },
+   {
+    "prep": "to",
+    "en": "The discount is available ___ registered students only.",
+    "tr": "İndirim yalnızca kayıtlı öğrencilere açık.",
+    "sense": "kime açık"
+   }
+  ]
+ },
+ {
+  "id": "cy309",
+  "root": "hurry",
+  "level": "B1",
+  "note": "past = önünden geçip gitmek · into = içine dalmak",
+  "slots": [
+   {
+    "prep": "past",
+    "en": "She hurried ___ the guard without looking up.",
+    "tr": "Başını kaldırmadan nöbetçinin önünden hızla geçti.",
+    "sense": "önünden geçip gitmek"
+   },
+   {
+    "prep": "into",
+    "en": "He hurried ___ the meeting ten minutes late.",
+    "tr": "Toplantıya on dakika gecikmeyle daldı.",
+    "sense": "içine dalmak"
+   }
+  ]
+ },
+ {
+  "id": "cy310",
+  "root": "level",
+  "level": "B2",
+  "note": "above = yukarısında · below = aşağısında",
+  "slots": [
+   {
+    "prep": "above",
+    "en": "The village lies nine hundred metres ___ sea level.",
+    "tr": "Köy deniz seviyesinden dokuz yüz metre yukarıda.",
+    "sense": "yukarısında"
+   },
+   {
+    "prep": "below",
+    "en": "Large parts of the country lie ___ sea level.",
+    "tr": "Ülkenin büyük bölümü deniz seviyesinin altında.",
+    "sense": "aşağısında"
+   }
+  ]
+ },
+ {
+  "id": "cy311",
+  "root": "sound",
+  "level": "B1",
+  "note": "like = neye benziyor · to = kime öyle geliyor",
+  "slots": [
+   {
+    "prep": "like",
+    "en": "Your whole plan sounds ___ a serious financial risk.",
+    "tr": "Bütün planın ciddi bir mali risk gibi geliyor.",
+    "sense": "neye benziyor"
+   },
+   {
+    "prep": "to",
+    "en": "His explanation sounded very strange ___ everyone.",
+    "tr": "Açıklaması herkese çok tuhaf geldi.",
+    "sense": "kime öyle geliyor"
+   }
+  ]
+ },
+ {
+  "id": "cy312",
+  "root": "behave",
+  "level": "B2",
+  "note": "like = kim gibi (benzetme) · towards = kime karşı",
+  "slots": [
+   {
+    "prep": "like",
+    "en": "Stop behaving ___ a spoilt little child.",
+    "tr": "Şımarık küçük bir çocuk gibi davranmayı bırak.",
+    "sense": "benzetme"
+   },
+   {
+    "prep": "towards",
+    "en": "He behaved very coldly ___ his own guests.",
+    "tr": "Kendi konuklarına karşı çok soğuk davrandı.",
+    "sense": "kime karşı"
+   }
+  ]
+ },
+ {
+  "id": "cy313",
+  "root": "hidden",
+  "level": "B2",
+  "note": "among = birçok şeyin arasında · behind = tek bir şeyin arkasında",
+  "slots": [
+   {
+    "prep": "among",
+    "en": "The stone cottage was hidden ___ tall pine trees.",
+    "tr": "Taş kulübe uzun çamların arasında gizlenmişti.",
+    "sense": "arasında"
+   },
+   {
+    "prep": "behind",
+    "en": "The spare key was hidden ___ the old picture.",
+    "tr": "Yedek anahtar eski tablonun arkasına saklanmıştı.",
+    "sense": "arkasında"
+   }
+  ]
+ },
+ {
+  "id": "cy314",
+  "root": "limit",
+  "level": "B2",
+  "note": "within = sınırın içinde kalarak · to = neyle sınırlı",
+  "slots": [
+   {
+    "prep": "within",
+    "en": "Please keep your essay ___ the stated word limit.",
+    "tr": "Lütfen kompozisyonunu belirtilen kelime sınırı içinde tut.",
+    "sense": "sınırın içinde"
+   },
+   {
+    "prep": "to",
+    "en": "Membership is strictly limited ___ university staff.",
+    "tr": "Üyelik kesinlikle üniversite personeliyle sınırlı.",
+    "sense": "kimle sınırlı"
+   }
+  ]
+ },
+ {
+  "id": "cy315",
+  "root": "law",
+  "level": "B2",
+  "note": "within the law = yasal sınırlar içinde · against the law = yasaya aykırı",
+  "slots": [
+   {
+    "prep": "within",
+    "en": "The demonstration stayed carefully ___ the law.",
+    "tr": "Gösteri dikkatle yasanın sınırları içinde kaldı.",
+    "sense": "yasanın içinde"
+   },
+   {
+    "prep": "against",
+    "en": "What the company did was clearly ___ the law.",
+    "tr": "Şirketin yaptığı açıkça yasaya aykırıydı.",
+    "sense": "yasaya aykırı"
+   }
+  ]
+ },
+ {
+  "id": "cy316",
+  "root": "coast",
+  "level": "B2",
+  "note": "off the coast = kıyıdan açıkta · on the coast = kıyıda",
+  "slots": [
+   {
+    "prep": "off",
+    "en": "The small island lies ten miles ___ the coast.",
+    "tr": "Küçük ada kıyıdan on mil açıkta.",
+    "sense": "açığında, denizde"
+   },
+   {
+    "prep": "on",
+    "en": "There is a quiet fishing village ___ the coast.",
+    "tr": "Kıyıda sessiz bir balıkçı köyü var.",
+    "sense": "kıyı üzerinde"
+   }
+  ]
+ },
+ {
+  "id": "cy317",
+  "root": "spill",
+  "level": "B1",
+  "note": "onto = neyin üstüne · from = neyden",
+  "slots": [
+   {
+    "prep": "onto",
+    "en": "The blue ink spilled ___ the white carpet.",
+    "tr": "Mavi mürekkep beyaz halının üstüne döküldü.",
+    "sense": "üstüne dökülmek"
+   },
+   {
+    "prep": "from",
+    "en": "Water was spilling steadily ___ the cracked pipe.",
+    "tr": "Su, çatlak borudan durmadan sızıyordu.",
+    "sense": "neyden dökülmek"
+   }
+  ]
+ },
+ {
+  "id": "cy318",
+  "root": "leave",
+  "level": "B1",
+  "note": "without = …-meden · for = nereye doğru yola çıkmak",
+  "slots": [
+   {
+    "prep": "without",
+    "en": "He left the room ___ saying a single word.",
+    "tr": "Odadan tek kelime etmeden çıktı.",
+    "sense": "…-meden"
+   },
+   {
+    "prep": "for",
+    "en": "She left ___ Ankara very early this morning.",
+    "tr": "Bu sabah çok erken Ankara'ya doğru yola çıktı.",
+    "sense": "nereye yola çıkmak"
+   }
+  ]
+ },
+ {
+  "id": "cy319",
+  "root": "manage",
+  "level": "B2",
+  "note": "without = …-siz idare etmek · with = ne şekilde, hangi güçlükle",
+  "slots": [
+   {
+    "prep": "without",
+    "en": "We somehow managed ___ any outside help.",
+    "tr": "Bir şekilde dışarıdan hiç yardım almadan idare ettik.",
+    "sense": "…-siz idare etmek"
+   },
+   {
+    "prep": "with",
+    "en": "She managed ___ great difficulty to open the door.",
+    "tr": "Kapıyı büyük güçlükle açmayı başardı.",
+    "sense": "ne şekilde"
+   }
+  ]
+ },
+ {
+  "id": "cy320",
+  "root": "name",
+  "level": "B1",
+  "note": "named after = kimin adı verilmiş · the name of = neyin adı",
+  "slots": [
+   {
+    "prep": "after",
+    "en": "The boy was named ___ his late grandfather.",
+    "tr": "Çocuğa rahmetli dedesinin adı verildi.",
+    "sense": "kimin adını vermek"
+   },
+   {
+    "prep": "of",
+    "en": "I cannot remember the name ___ that narrow street.",
+    "tr": "O dar sokağın adını hatırlayamıyorum.",
+    "sense": "neyin adı"
+   }
+  ]
+ },
+ {
+  "id": "cy321",
+  "root": "scatter",
+  "level": "B2",
+  "note": "across = bir yüzeye saçılmak · among = kişiler arasında dağılmak",
+  "slots": [
+   {
+    "prep": "across",
+    "en": "Books and papers were scattered ___ the wooden floor.",
+    "tr": "Kitaplar ve kâğıtlar tahta zemine saçılmıştı.",
+    "sense": "bir yüzeyin her yanına"
+   },
+   {
+    "prep": "among",
+    "en": "The land was finally scattered ___ seven heirs.",
+    "tr": "Arazi sonunda yedi mirasçı arasında dağıldı.",
+    "sense": "kişiler arasında"
+   }
+  ]
+ },
+ {
+  "id": "cy322",
+  "root": "race",
+  "level": "B2",
+  "note": "past = önünden hızla geçmek · against = …-e karşı yarışmak",
+  "slots": [
+   {
+    "prep": "past",
+    "en": "The runner raced ___ the cheering crowd.",
+    "tr": "Koşucu tezahürat yapan kalabalığın önünden hızla geçti.",
+    "sense": "önünden hızla geçmek"
+   },
+   {
+    "prep": "against",
+    "en": "The rescue team is racing ___ time.",
+    "tr": "Kurtarma ekibi zamana karşı yarışıyor.",
+    "sense": "…-e karşı yarışmak"
+   }
+  ]
+ },
+ {
+  "id": "cy323",
+  "root": "add",
+  "level": "C1",
+  "note": "add up to = toplamda tutmak · add to = neye katkıda bulunmak",
+  "slots": [
+   {
+    "prep": "up to",
+    "en": "The final bill added ___ nearly two thousand liras.",
+    "tr": "Son fatura neredeyse iki bin lirayı buldu.",
+    "sense": "toplamda … tutmak"
+   },
+   {
+    "prep": "to",
+    "en": "His remarks added very little ___ the discussion.",
+    "tr": "Sözleri tartışmaya çok az şey kattı.",
+    "sense": "neye katkı"
+   }
+  ]
+ },
+ {
+  "id": "cy324",
+  "root": "budget",
+  "level": "B2",
+  "note": "within budget = bütçe içinde · beyond budget = bütçeyi aşan",
+  "slots": [
+   {
+    "prep": "within",
+    "en": "The repairs stayed comfortably ___ our modest budget.",
+    "tr": "Onarımlar mütevazı bütçemizin rahatça içinde kaldı.",
+    "sense": "bütçenin içinde"
+   },
+   {
+    "prep": "beyond",
+    "en": "A completely new roof is ___ our budget.",
+    "tr": "Bütünüyle yeni bir çatı bütçemizin ötesinde.",
+    "sense": "bütçenin ötesinde"
+   }
+  ]
+ },
+ {
+  "id": "cy325",
+  "root": "drop",
+  "level": "B2",
+  "note": "below = neyin altına · to = hangi düzeye",
+  "slots": [
+   {
+    "prep": "below",
+    "en": "The night temperature dropped ___ freezing again.",
+    "tr": "Gece sıcaklığı yine donma noktasının altına düştü.",
+    "sense": "…-in altına"
+   },
+   {
+    "prep": "to",
+    "en": "Monthly sales dropped ___ a record low in March.",
+    "tr": "Aylık satışlar martta rekor düşük seviyeye indi.",
+    "sense": "hangi düzeye"
    }
   ]
  }
