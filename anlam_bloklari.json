@@ -8753,10 +8753,10 @@
   {
     "id": "ab278",
     "seviye": 3,
-    "stem": "Before the foreign foreign ambassador arrived at the embassy in Ankara, security personnel, who secured the area, thoroughly inspected every vehicle and entry point.",
+    "stem": "Before the foreign ambassador arrived at the embassy in Ankara, security personnel, who secured the area, thoroughly inspected every vehicle and entry point.",
     "chunks": [
       {
-        "en": "Before the foreign foreign ambassador arrived",
+        "en": "Before the foreign ambassador arrived",
         "tr": "Yabancı büyükelçi varmadan önce",
         "rol": "Zaman"
       },
