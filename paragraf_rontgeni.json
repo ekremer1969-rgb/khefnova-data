@@ -3872,7 +3872,7 @@
  {
   "id": "pxr091",
   "topic": "Electric Cars (Technology)",
-  "paragraph_raw": "Many transport engineers claim that shifting entirely to electric cars quickly eliminates urban carbon footprints. Manufacturing electric engines indeed reduces tailpipe emissions to zero in high density areas. Careful testing tells a different story about the huge pollution produced during battery battery production. A lifecycle analysis showed that building electric cars creates sixty percent more carbon than standard vehicles. Consequently, solving climate change requires a wider mix of clean transport options.",
+  "paragraph_raw": "Many transport engineers claim that shifting entirely to electric cars quickly eliminates urban carbon footprints. Manufacturing electric engines indeed reduces tailpipe emissions to zero in high density areas. Careful testing tells a different story about the huge pollution produced during battery production. A lifecycle analysis showed that building electric cars creates sixty percent more carbon than standard vehicles. Consequently, solving climate change requires a wider mix of clean transport options.",
   "tr": "Birçok ulaşım mühendisi, tamamen elektrikli arabalara geçişin şehirlerdeki karbon ayak izini hızla ortadan kaldıracağını iddia eder. Elektrikli motorlar üretmek, gerçekten de nüfusun yoğun olduğu bölgelerdeki egzoz emisyonlarını sıfıra indirir. Dikkatli testler ise batarya üretimi sırasında ortaya çıkan devasa kirlilik hakkında farklı bir hikaye anlatıyor. Bir yaşam döngüsü analizi, elektrikli araba üretmenin standart araçlara göre yüzde altmış daha fazla karbon yarattığını gösterdi. Sonuç olarak, iklim değişikliğini çözmek daha geniş bir temiz ulaşım seçenekleri karışımı gerektirir.",
   "scaffolding": [
    {
@@ -3891,7 +3891,7 @@
    },
    {
     "sentence_index": 2,
-    "text": "Careful testing tells a different story about the huge pollution produced during battery battery production.",
+    "text": "Careful testing tells a different story about the huge pollution produced during battery production.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
     "why": "Batarya imalatının ve madencilik süreçlerinin arka planında gerçekleşen yoğun karbon salınımına dikkat çekerek tezi çürütür."
@@ -4775,7 +4775,7 @@
  {
   "id": "pxr112",
   "topic": "Coding in Schools (Education)",
-  "paragraph_raw": "Many computer teachers argue that starting software coding lessons in elementary schools is too difficult for kids. Teaching syntax syntax rules to ten year old pupils indeed causes frustration during homework homework cycles. Detailed statistics show a different trend: visual blocks and simple block games help kids build strong logical thinking easily. An educational project with five schools showed that young coders scored thirty percent higher in standard math tests. Consequently, computer coding serves as a highly helpful language to prepare children for scientific challenges.",
+  "paragraph_raw": "Many computer teachers argue that starting software coding lessons in elementary schools is too difficult for kids. Teaching syntax rules to ten year old pupils indeed causes frustration during homework cycles. Detailed statistics show a different trend: visual blocks and simple block games help kids build strong logical thinking easily. An educational project with five schools showed that young coders scored thirty percent higher in standard math tests. Consequently, computer coding serves as a highly helpful language to prepare children for scientific challenges.",
   "tr": "Birçok bilgisayar öğretmeni, ilkokullarda yazılım kodlama derslerine başlamanın çocuklar için çok zor olduğunu savunur. On yaşındaki öğrencilere söz dizimi kurallarını öğretmek, ev ödevi döngüleri sırasında gerçekten de hayal kırıklığına neden olur. Detaylı istatistikler ise farklı bir eğilim gösteriyor: görsel bloklar ve basit blok oyunları, çocukların kolayca güçlü mantıksal düşünme kurmalarına yardımcı olur. Beş okulla yürütülen bir eğitim projesi, genç kodlayıcıların standart matematik testlerinde yüzde otuz daha yüksek puan aldığını gösterdi. Sonuç olarak, bilgisayar kodlama çocukları bilimsel zorluklara hazırlamak için son derece yardımcı bir dil görevi görür.",
   "scaffolding": [
    {
@@ -4787,7 +4787,7 @@
    },
    {
     "sentence_index": 1,
-    "text": "Teaching syntax syntax rules to ten year old pupils indeed causes frustration during homework homework cycles.",
+    "text": "Teaching syntax rules to ten year old pupils indeed causes frustration during homework cycles.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
     "why": "On yaşındaki bir çocuğa kuru kod söz dizimi kuralları yüklemenin ödev yaparken yarattığı zorlukları kabul eder."
@@ -4947,7 +4947,7 @@
  {
   "id": "pxr116",
   "topic": "Electric Bicycles (Urban Planning)",
-  "paragraph_raw": "Many city residents claim that riding electric bicycles does not provide any real physical health advantages. Using a battery power motor motor indeed reduces the muscular effort required to go up steep hills. Careful testing tells a different story about how e-bikes encourage people to ride much longer distances. A transport report found that e-bike owners traveled four times further per week than classic bicycle riders. Therefore, modern electric bikes are highly useful tools to support active lifestyles in hilly cities.",
+  "paragraph_raw": "Many city residents claim that riding electric bicycles does not provide any real physical health advantages. Using a battery power motor indeed reduces the muscular effort required to go up steep hills. Careful testing tells a different story about how e-bikes encourage people to ride much longer distances. A transport report found that e-bike owners traveled four times further per week than classic bicycle riders. Therefore, modern electric bikes are highly useful tools to support active lifestyles in hilly cities.",
   "tr": "Birçok şehir sakini, elektrikli bisiklete binmenin hiçbir gerçek fiziksel sağlık avantajı sağlamadığını iddia eder. Batarya gücüyle çalışan bir motor kullanmak, dik yokuşları çıkmak için gereken kas gücünü gerçekten de azaltır. Dikkatli testler ise elektrikli bisikletlerin insanları çok daha uzun mesafeler sürmeye nasıl teşvik ettiği hakkında farklı bir hikaye anlatıyor. Bir ulaşım raporu, e-bisiklet sahiplerinin haftalık olarak klasik bisiklet sürücülerine göre dört kat daha fazla seyahat ettiğini buldu. Bu nedenle, modern elektrikli bisikletler engebeli şehirlerde aktif yaşam tarzlarını desteklemek için son derece kullanışlı araçlardır.",
   "scaffolding": [
    {
@@ -4959,7 +4959,7 @@
    },
    {
     "sentence_index": 1,
-    "text": "Using a battery power motor motor indeed reduces the muscular effort required to go up steep hills.",
+    "text": "Using a battery power motor indeed reduces the muscular effort required to go up steep hills.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
     "why": "Elektrik motorunun devreye girmesiyle yokuş çıkarken harcanan bacak gücü miktarının azaldığını kabul eder."
@@ -4990,12 +4990,12 @@
  {
   "id": "pxr117",
   "topic": "Noise Pollution (Environmental Health)",
-  "paragraph_raw": "Many factory owners believe that urban traffic noise only causes minor temporary hearing hearing problems. Spending working hours near noisy roads indeed leads to slight ear tiredness that disappears after a quiet sleep. The real picture is that constant noise elevates blood pressure and raises heart attack risk rates. An environmental study of six hundred citizens showed that traffic noise increased cardiovascular diseases by thirty percent. Consequently, reducing urban decibel levels is a necessary strategy to protect public heart health.",
+  "paragraph_raw": "Many factory owners believe that urban traffic noise only causes minor temporary hearing problems. Spending working hours near noisy roads indeed leads to slight ear tiredness that disappears after a quiet sleep. The real picture is that constant noise elevates blood pressure and raises heart attack risk rates. An environmental study of six hundred citizens showed that traffic noise increased cardiovascular diseases by thirty percent. Consequently, reducing urban decibel levels is a necessary strategy to protect public heart health.",
   "tr": "Birçok fabrika sahibi, gürültünün yalnızca geçici kulak yorgunluğu yarattığına inanır. Gürültülü yolların yakınında çalışma saatleri geçirmek, gerçekten de sakin bir uykudan sonra ortadan kalkan hafif kulak yorgunluğuna yol açar. Gerçek tablo ise sürekli gürültünün kan basıncını yükselttiği ve kalp krizi risk oranlarını artırdığıdır. Altı yüz vatandaş üzerinde yapılan bir çevre araştırması, gürültünün kardiyovasküler hastalıkları yüzde otuz oranında artırdığını gösterdi. Sonuç olarak, kentsel desibel seviyelerini düşürmek halkın kalp sağlığını korumak için gerekli bir stratejidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
-    "text": "Many factory owners believe that urban traffic noise only causes minor temporary hearing hearing problems.",
+    "text": "Many factory owners believe that urban traffic noise only causes minor temporary hearing problems.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
     "why": "İşverenlerin çevre gürültüsünün kulak üzerinde kalıcı ve tehlikeli bir hasar yaratmayacağı yönündeki iyimser ön yargısını sunar."
@@ -5033,12 +5033,12 @@
  {
   "id": "pxr118",
   "topic": "Breakfast and Cognition (Nutrition)",
-  "paragraph_raw": "Most busy parents assume that skipping morning breakfast breakfast does not affect child school success. Sending pupils to school on empty stomachs indeed helps save valuable daily preparation time during early hours. Nutritional tracking reveals that healthy morning meals directly support focus and academic memory strength. An educational study of two hundred kids showed that regular breakfast eaters scored much higher in science exams. The main lesson is that nutritious morning meals are vital fuels to improve pupil brain performance.",
+  "paragraph_raw": "Most busy parents assume that skipping morning breakfast does not affect child school success. Sending pupils to school on empty stomachs indeed helps save valuable daily preparation time during early hours. Nutritional tracking reveals that healthy morning meals directly support focus and academic memory strength. An educational study of two hundred kids showed that regular breakfast eaters scored much higher in science exams. The main lesson is that nutritious morning meals are vital fuels to improve pupil brain performance.",
   "tr": "Çoğu yoğun ebeveyn, sabah kahvaltısını atlamanın çocukların okul başarısını etkilemediğini varsayar. Öğrencileri aç karnına okula göndermek, erken saatlerde değerli günlük hazırlık süresinden tasarruf etmeye gerçekten de yardımcı olur. Beslenme takipleri ise sağlıklı sabah öğünlerinin odaklanmayı ve akademik hafıza gücünü doğrudan desteklediğini göstermektedir. İki yüz çocuk üzerinde yapılan bir eğitim araştırması, düzenli kahvaltı yapanların fen sınavlarında çok daha yüksek puanlar aldığını gösterdi. Temel ders, besleyici sabah öğünlerinin öğrencilerin beyin performansını iyileştirmek için hayati yakıtlar olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
-    "text": "Most busy parents assume that skipping morning breakfast breakfast does not affect child school success.",
+    "text": "Most busy parents assume that skipping morning breakfast does not affect child school success.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
     "why": "Yoğun ailelerin kahvaltıyı atlamanın çocukların okul başarısında bir kayıp yaratmayacağına dair yaygın inanışını sunar."
@@ -5936,12 +5936,12 @@
  {
   "id": "pxr139",
   "topic": "Alternative Medicine (Health)",
-  "paragraph_raw": "Many hospital doctors assume that using herbal herbal drinks is a complete waste of valuable recovery time. Drinking warm plant tea indeed cannot cure dangerous medical infections or fix broken body bones. Natural herbal teas, rather than being useless, successfully lower simple throat irritation and improve daily sleep. A clinical trial with eighty patients showed that chamomile cups lowered night coughing scores. The primary takeaway is that certified plant treatments are helpful comfort tools for mild winter cold symptoms.",
+  "paragraph_raw": "Many hospital doctors assume that using herbal drinks is a complete waste of valuable recovery time. Drinking warm plant tea indeed cannot cure dangerous medical infections or fix broken body bones. Natural herbal teas, rather than being useless, successfully lower simple throat irritation and improve daily sleep. A clinical trial with eighty patients showed that chamomile cups lowered night coughing scores. The primary takeaway is that certified plant treatments are helpful comfort tools for mild winter cold symptoms.",
   "tr": "Birçok hastane doktoru, bitki çayları kullanmanın değerli iyileşme süresinin tamamen bir israfı olduğunu varsayar. Sıcak bitki çayı içmek gerçekten de tehlikeli tıbbi enfeksiyonları iyileştiremez veya kırık vücut kemiklerini onaramaz. Doğal bitki çayları ise yararsız olmak yerine basit boğaz tahrişini başarıyla hafifletir ve günlük uykuyu iyileştirir. Seksen hastayı kapsayan klinik bir araştırma, papatya çayının gece öksürük puanlarını düşürdüğünü gösterdi. Temel çıkarım, sertifikalı bitkisel tedavilerin hafif kış soğuk algınlığı semptomları için faydalı rahatlama araçları olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
-    "text": "Many hospital doctors assume that using herbal herbal drinks is a complete waste of valuable recovery time.",
+    "text": "Many hospital doctors assume that using herbal drinks is a complete waste of valuable recovery time.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
     "why": "Bitkisel çayların tedavi sürecinde hiçbir yeri olmayan tamamen zaman kaybettirici unsurlar olduğuna dair yaygın doktor inancını sunar."
@@ -8430,7 +8430,7 @@
  {
   "id": "pxr197",
   "topic": "Electric Trains (Transportation)",
-  "paragraph_raw": "Many trade experts argue that diesel trucks are the most effective way to transport cargo. Road trucks indeed allow direct point to point delivery at any warehouse across the country. Electric trains, rather than diesel transport trucks, move giant cargo volumes with zero emissions. A green transport analysis showed that rail shipping saved eighty percent of national fuel fuel. The main lesson is that expanding electric rail networks represents a highly sustainable strategy.",
+  "paragraph_raw": "Many trade experts argue that diesel trucks are the most effective way to transport cargo. Road trucks indeed allow direct point to point delivery at any warehouse across the country. Electric trains, rather than diesel transport trucks, move giant cargo volumes with zero emissions. A green transport analysis showed that rail shipping saved eighty percent of national fuel. The main lesson is that expanding electric rail networks represents a highly sustainable strategy.",
   "tr": "Birçok ticaret uzmanı, dizel kamyonların kargo taşımak için en etkili yol olduğunu savunur. Karayolu kamyonları gerçekten de ülkedeki herhangi bir depoya doğrudan noktadan noktaya teslimat sağlar. Elektrikli trenler ise dizel nakliye kamyonları yerine devasa kargo hacimlerini sıfır emisyonla taşır. Yeşil bir ulaşım analizi, demiryolu taşımacılığının ulusal yakıt bütçesinin yüzde seksenini kurtardığını gösterdi. Temel ders, elektrikli demiryolu ağlarını genişletmenin son derece sürdürülebilir bir strateji temsil ettiğidir.",
   "scaffolding": [
    {
@@ -8456,7 +8456,7 @@
    },
    {
     "sentence_index": 3,
-    "text": "A green transport analysis showed that rail shipping saved eighty percent of national fuel fuel.",
+    "text": "A green transport analysis showed that rail shipping saved eighty percent of national fuel.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
     "why": "Demiryolu taşımacılığının ulusal yakıt bütçesinde yüzde seksenlik devasa tasarruf sağladığını gösteren verilerle karşı tezi destekler."
