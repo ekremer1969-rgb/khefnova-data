@@ -1,1 +1,5790 @@
-
+[
+  {
+    "head": "seem",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "görünmek",
+    "level": "A2",
+    "answer": "happy",
+    "distractors": [
+      "happily",
+      "happiness",
+      "to be happily"
+    ],
+    "note": "seem devamına zarf değil sıfat alarak özneyi niteler.",
+    "sentence": "The little boy seems [happy] with his new toy car.",
+    "sentence_tr": "Küçük çocuk yeni oyuncak arabasıyla mutlu görünüyor."
+  },
+  {
+    "head": "seem",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "görünmek",
+    "level": "A2",
+    "answer": "consistent",
+    "distractors": [
+      "consistently",
+      "consistency",
+      "to be consistently"
+    ],
+    "note": "seem devamına zarf değil sıfat alarak özneyi niteler.",
+    "sentence": "The initial research findings seem [consistent] with our core hypothesis.",
+    "sentence_tr": "İlk araştırma bulguları temel hipotezimizle tutarlı görünüyor."
+  },
+  {
+    "head": "appear",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "görünmek",
+    "level": "B1",
+    "answer": "empty",
+    "distractors": [
+      "emptily",
+      "emptiness",
+      "to be emptily"
+    ],
+    "note": "appear devamına zarf değil sıfat alarak özneyi niteler.",
+    "sentence": "The old house appeared [empty] after the family moved out.",
+    "sentence_tr": "Aile taşındıktan sonra eski ev boş göründü."
+  },
+  {
+    "head": "appear",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "görünmek",
+    "level": "B1",
+    "answer": "stable",
+    "distractors": [
+      "stably",
+      "stability",
+      "to be stably"
+    ],
+    "note": "appear devamına zarf değil sıfat alarak özneyi niteler.",
+    "sentence": "The ancient stone structures appear [stable] despite centuries of erosion.",
+    "sentence_tr": "Antik taş yapılar, yüzyıllar süren erozyona rağmen dayanıklı görünüyor."
+  },
+  {
+    "head": "become",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "olmak, -leşmek",
+    "level": "A2",
+    "answer": "cold",
+    "distractors": [
+      "coldly",
+      "coldness",
+      "to be coldly"
+    ],
+    "note": "become fiili bir durum değişikliği bildirir ve sıfatla tamamlanır.",
+    "sentence": "The weather becomes [cold] in November.",
+    "sentence_tr": "Kasım ayında hava soğuk olur."
+  },
+  {
+    "head": "become",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "olmak, -leşmek",
+    "level": "A2",
+    "answer": "intense",
+    "distractors": [
+      "intensely",
+      "intensity",
+      "to be intensely"
+    ],
+    "note": "become fiili bir durum değişikliği bildirir ve sıfatla tamamlanır.",
+    "sentence": "Global economic competition became [intense] during the late twentieth century.",
+    "sentence_tr": "Küresel ekonomik rekabet yirminci yüzyılın sonlarında yoğunlaştı."
+  },
+  {
+    "head": "prove",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "(sonunda) ... çıkmak",
+    "level": "B2",
+    "answer": "successful",
+    "distractors": [
+      "successfully",
+      "success",
+      "to be successfully"
+    ],
+    "note": "prove fiili 'bir niteliğe sahip olduğunu göstermek' anlamında sıfat alır.",
+    "sentence": "His simple plan proved [successful] in the end.",
+    "sentence_tr": "Onun basit planı sonunda başarılı çıktı."
+  },
+  {
+    "head": "prove",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "(sonunda) ... çıkmak",
+    "level": "B2",
+    "answer": "effective",
+    "distractors": [
+      "effectively",
+      "effectiveness",
+      "to be effectively"
+    ],
+    "note": "prove fiili 'bir niteliğe sahip olduğunu göstermek' anlamında sıfat alır.",
+    "sentence": "The new scientific methodology proved [effective] for treating the illness.",
+    "sentence_tr": "Yeni bilimsel metodoloji hastalığın tedavisinde etkili çıktı."
+  },
+  {
+    "head": "remain",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... olarak kalmak",
+    "level": "B1",
+    "answer": "silent",
+    "distractors": [
+      "silently",
+      "silence",
+      "to be silently"
+    ],
+    "note": "remain durumun korunduğunu belirtir ve devamına zarf değil sıfat alır.",
+    "sentence": "The children remained [silent] during the teacher's story.",
+    "sentence_tr": "Çocuklar öğretmenin hikayesi boyunca sessiz kaldılar."
+  },
+  {
+    "head": "remain",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... olarak kalmak",
+    "level": "B1",
+    "answer": "unresolved",
+    "distractors": [
+      "unresolvedly",
+      "unresolution",
+      "to be unresolvedly"
+    ],
+    "note": "remain durumun korunduğunu belirtir ve devamına zarf değil sıfat alır.",
+    "sentence": "The controversial legal issue remains [unresolved] despite multiple court hearings.",
+    "sentence_tr": "Tartışmalı yasal konu, çok sayıda mahkeme duruşmasına rağmen çözülmemiş olarak kalıyor."
+  },
+  {
+    "head": "stay",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... kalmak",
+    "level": "A2",
+    "answer": "calm",
+    "distractors": [
+      "calmly",
+      "calmness",
+      "to be calmly"
+    ],
+    "note": "stay fiili durumun devam ettiğini bildirir ve sıfatla tamamlanır.",
+    "sentence": "You need to stay [calm] during the driving test.",
+    "sentence_tr": "Direksiyon sınavı sırasında sakin kalman gerekiyor."
+  },
+  {
+    "head": "stay",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... kalmak",
+    "level": "A2",
+    "answer": "competitive",
+    "distractors": [
+      "competitively",
+      "competitiveness",
+      "to be competitively"
+    ],
+    "note": "stay fiili durumun devam ettiğini bildirir ve sıfatla tamamlanır.",
+    "sentence": "Large technology companies must stay [competitive] in the global market.",
+    "sentence_tr": "Büyük teknoloji şirketleri küresel pazarda rekabetçi kalmalıdır."
+  },
+  {
+    "head": "keep",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "...liğini korumak",
+    "level": "B1",
+    "answer": "warm",
+    "distractors": [
+      "warmly",
+      "warmth",
+      "to be warmly"
+    ],
+    "note": "keep devamına sıfat alarak mevcut bir durumun sürdürüldüğünü ifade eder.",
+    "sentence": "We wore heavy coats to keep [warm] in the snow.",
+    "sentence_tr": "Kar altında sıcak kalmak için kalın paltolar giydik."
+  },
+  {
+    "head": "keep",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "...liğini korumak",
+    "level": "B1",
+    "answer": "secure",
+    "distractors": [
+      "securely",
+      "security",
+      "to be securely"
+    ],
+    "note": "keep devamına sıfat alarak mevcut bir durumun sürdürüldüğünü ifade eder.",
+    "sentence": "Online database servers must keep [secure] against external cyber attacks.",
+    "sentence_tr": "Çevrimiçi veri tabanı sunucuları dış siber saldırılara karşı güvenli kalmalıdır."
+  },
+  {
+    "head": "look",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "görünmek",
+    "level": "A1",
+    "answer": "tired",
+    "distractors": [
+      "tiredly",
+      "tiredness",
+      "to be tiredly"
+    ],
+    "note": "look duyu bildiren bir linking fiildir; devamına zarf değil sıfat alır.",
+    "sentence": "The old man looks [tired] after working in the garden.",
+    "sentence_tr": "Yaşlı adam bahçede çalıştıktan sonra yorgun görünüyor."
+  },
+  {
+    "head": "look",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "görünmek",
+    "level": "A1",
+    "answer": "promising",
+    "distractors": [
+      "promisingly",
+      "promise",
+      "to be promisingly"
+    ],
+    "note": "look duyu bildiren bir linking fiildir; devamına zarf değil sıfat alır.",
+    "sentence": "The economic forecast looks [promising] due to rising export figures.",
+    "sentence_tr": "Yükselen ihracat rakamları nedeniyle ekonomik öngörü umut verici görünüyor."
+  },
+  {
+    "head": "feel",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "hissetmek",
+    "level": "A1",
+    "answer": "cold",
+    "distractors": [
+      "coldly",
+      "coldness",
+      "to be coldly"
+    ],
+    "note": "feel fiili fiziksel veya duygusal durum belirtirken sıfatla nitelenir.",
+    "sentence": "I feel [cold] in this room with the window open.",
+    "sentence_tr": "Penceresi açık olan bu odada soğuk hissediyorum."
+  },
+  {
+    "head": "feel",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "hissetmek",
+    "level": "A1",
+    "answer": "skeptical",
+    "distractors": [
+      "skeptically",
+      "skepticism",
+      "to be skeptically"
+    ],
+    "note": "feel fiili fiziksel veya duygusal durum belirtirken sıfatla nitelenir.",
+    "sentence": "Many voters feel [skeptical] about the new political reforms.",
+    "sentence_tr": "Pek çok seçmen yeni siyasi reformlar konusunda kuşkulu hissediyor."
+  },
+  {
+    "head": "sound",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "kulağa ... gelmek",
+    "level": "A2",
+    "answer": "great",
+    "distractors": [
+      "greatly",
+      "greatness",
+      "to be greatly"
+    ],
+    "note": "sound fiili bir fikir veya sesin niteliğini anlatırken sıfat alır.",
+    "sentence": "Your weekend plan sounds [great] to all of us.",
+    "sentence_tr": "Hafta sonu planın hepimize harika geliyor."
+  },
+  {
+    "head": "sound",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "kulağa ... gelmek",
+    "level": "A2",
+    "answer": "logical",
+    "distractors": [
+      "logically",
+      "logic",
+      "to be logically"
+    ],
+    "note": "sound fiili bir fikir veya sesin niteliğini anlatırken sıfat alır.",
+    "sentence": "The proposed educational method sounds [logical] to most pediatric experts.",
+    "sentence_tr": "Önerilen eğitim yöntemi çoğu pedagoji uzmanına mantıklı geliyor."
+  },
+  {
+    "head": "taste",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "tadı ... olmak",
+    "level": "A2",
+    "answer": "delicious",
+    "distractors": [
+      "deliciously",
+      "deliciousness",
+      "to be deliciously"
+    ],
+    "note": "taste duyu fiili olarak yiyeceğin niteliğini sıfatla tanımlar.",
+    "sentence": "This fresh vegetable soup tastes [delicious] on cold winter days.",
+    "sentence_tr": "Bu taze sebze çorbası soğuk kış günlerinde lezzetli geliyor."
+  },
+  {
+    "head": "taste",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "tadı ... olmak",
+    "level": "A2",
+    "answer": "bitter",
+    "distractors": [
+      "bitterly",
+      "bitterness",
+      "to be bitterly"
+    ],
+    "note": "taste duyu fiili olarak yiyeceğin niteliğini sıfatla tanımlar.",
+    "sentence": "The synthetic chemical compound tastes [bitter] when dissolved in water.",
+    "sentence_tr": "Sentetik kimyasal bileşik suda çözündüğünde acı bir tada sahip olur."
+  },
+  {
+    "head": "smell",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... kokmak",
+    "level": "A2",
+    "answer": "wonderful",
+    "distractors": [
+      "wonderfully",
+      "wonder",
+      "to be wonderfully"
+    ],
+    "note": "smell fiili kokunun niteliğini tarif ederken devamına sıfat alır.",
+    "sentence": "These yellow flowers smell [wonderful] in the morning sun.",
+    "sentence_tr": "Bu sarı çiçekler sabah güneşinde harika kokuyor."
+  },
+  {
+    "head": "smell",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... kokmak",
+    "level": "A2",
+    "answer": "dangerous",
+    "distractors": [
+      "dangerously",
+      "danger",
+      "to be dangerously"
+    ],
+    "note": "smell fiili kokunun niteliğini tarif ederken devamına sıfat alır.",
+    "sentence": "The volatile gas compound smelled [dangerous] to the safety inspectors.",
+    "sentence_tr": "Uçucu gaz bileşiği güvenlik müfettişlerine tehlikeli koktu."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... olmak",
+    "level": "A2",
+    "answer": "sick",
+    "distractors": [
+      "sickly",
+      "sickness",
+      "to be sickly"
+    ],
+    "note": "get fiili geçici bir durum değişikliği belirtirken sıfatla tamamlanır.",
+    "sentence": "You should wear a coat before you get [sick].",
+    "sentence_tr": "Hasta olmadan önce bir palto giymelisin."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... olmak",
+    "level": "A2",
+    "answer": "complicated",
+    "distractors": [
+      "complicatedly",
+      "complication",
+      "to be complicatedly"
+    ],
+    "note": "get fiili geçici bir durum değişikliği belirtirken sıfatla tamamlanır.",
+    "sentence": "The administrative process gets [complicated] without proper digital organization.",
+    "sentence_tr": "Uygun dijital organizasyon olmadan idari süreç karmaşık bir hal alır."
+  },
+  {
+    "head": "grow",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "gitgide ... olmak",
+    "level": "B2",
+    "answer": "impatient",
+    "distractors": [
+      "impatiently",
+      "impatience",
+      "to be impatiently"
+    ],
+    "note": "grow fiili aşamalı bir değişimi nitelemek için sıfat alır.",
+    "sentence": "The waiting passengers grew [impatient] after the flight delay.",
+    "sentence_tr": "Bekleyen yolcular uçuş rötarından sonra sabırsızlaştı."
+  },
+  {
+    "head": "grow",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "gitgide ... olmak",
+    "level": "B2",
+    "answer": "scarce",
+    "distractors": [
+      "scarcely",
+      "scarcity",
+      "to be scarcely"
+    ],
+    "note": "grow fiili aşamalı bir değişimi nitelemek için sıfat alır.",
+    "sentence": "Natural water resources grow [scarce] due to rapid climate change.",
+    "sentence_tr": "Doğal su kaynakları hızlı iklim değişikliği nedeniyle gitgide kıtlaşıyor."
+  },
+  {
+    "head": "turn",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "...e dönmek",
+    "level": "B2",
+    "answer": "yellow",
+    "distractors": [
+      "yellowly",
+      "yellowness",
+      "to be yellowly"
+    ],
+    "note": "turn fiili renk veya durum değişimlerinde sıfatla tamamlanır.",
+    "sentence": "The leaves turn [yellow] when autumn arrives in October.",
+    "sentence_tr": "Ekim ayında sonbahar geldiğinde yapraklar sarıya döner."
+  },
+  {
+    "head": "turn",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "...e dönmek",
+    "level": "B2",
+    "answer": "violent",
+    "distractors": [
+      "violently",
+      "violence",
+      "to be violently"
+    ],
+    "note": "turn fiili renk veya durum değişimlerinde sıfatla tamamlanır.",
+    "sentence": "The public discussion turned [violent] despite the presence of police.",
+    "sentence_tr": "Polisin varlığına rağmen halka açık tartışma şiddetli bir hal aldı."
+  },
+  {
+    "head": "go",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... olmak (go bad)",
+    "level": "B2",
+    "answer": "bad",
+    "distractors": [
+      "badly",
+      "badness",
+      "to be badly"
+    ],
+    "note": "go fiili genellikle olumsuz durum değişikliklerinde sıfat alır (go bad/mad).",
+    "sentence": "Do not eat this meat because it went [bad].",
+    "sentence_tr": "Bu eti yeme çünkü o bozuldu."
+  },
+  {
+    "head": "go",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... olmak (go bad)",
+    "level": "B2",
+    "answer": "wrong",
+    "distractors": [
+      "wrongly",
+      "wrongness",
+      "to be wrongly"
+    ],
+    "note": "go fiili genellikle olumsuz durum değişikliklerinde sıfat alır (go bad/mad).",
+    "sentence": "The chemical experiment went [wrong] because of a temperature change.",
+    "sentence_tr": "Sıcaklık değişimi nedeniyle kimyasal deney ters gitti."
+  },
+  {
+    "head": "fall",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... düşmek (fall silent)",
+    "level": "B2",
+    "answer": "silent",
+    "distractors": [
+      "silently",
+      "silence",
+      "to be silently"
+    ],
+    "note": "fall fiili belirli kalıplarda (fall silent/ill) durum değişikliği bildirir ve sıfat alır.",
+    "sentence": "The entire crowd fell [silent] when the king started speaking.",
+    "sentence_tr": "Kral konuşmaya başladığında tüm kalabalık sessizliğe büründü."
+  },
+  {
+    "head": "fall",
+    "pos": "fiil",
+    "pattern": "adj",
+    "meaning": "... düşmek (fall silent)",
+    "level": "B2",
+    "answer": "ill",
+    "distractors": [
+      "illy",
+      "illness",
+      "to be illy"
+    ],
+    "note": "fall fiili belirli kalıplarda (fall silent/ill) durum değişikliği bildirir ve sıfat alır.",
+    "sentence": "Many vulnerable elderly citizens fell [ill] during the winter epidemic.",
+    "sentence_tr": "Kış salgını sırasında savunmasız birçok yaşlı vatandaş hastalandı."
+  },
+  {
+    "head": "make",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptırmak (zorla)",
+    "level": "A2",
+    "answer": "clean",
+    "distractors": [
+      "to clean",
+      "cleaning",
+      "to cleaning"
+    ],
+    "note": "make nesneden sonra yalın mastar alır; edilgen yapıda ise to-mastar kullanılır.",
+    "sentence": "The teacher made the noisy students [clean] the classroom.",
+    "sentence_tr": "Öğretmen gürültü yapan öğrencilere sınıfı temizletti."
+  },
+  {
+    "head": "make",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptırmak (zorla)",
+    "level": "A2",
+    "answer": "restructure",
+    "distractors": [
+      "to restructure",
+      "restructuring",
+      "to restructuring"
+    ],
+    "note": "make nesneden sonra yalın mastar alır; edilgen yapıda ise to-mastar kullanılır.",
+    "sentence": "Severe economic conditions made the board [restructure] the entire corporation.",
+    "sentence_tr": "Ağır ekonomik koşullar, yönetim kurulunu tüm şirketi yeniden yapılandırmak zorunda bıraktı."
+  },
+  {
+    "head": "let",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "izin vermek / bırakmak",
+    "level": "A2",
+    "answer": "borrow",
+    "distractors": [
+      "to borrow",
+      "borrowing",
+      "to borrowing"
+    ],
+    "note": "let nesneden sonra yalın mastar alır; edilgen kullanımı yoktur (be allowed kullanılır).",
+    "sentence": "My parents let me [borrow] their car for the weekend.",
+    "sentence_tr": "Ailem hafta sonu için arabalarını ödünç almama izin verdi."
+  },
+  {
+    "head": "let",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "izin vermek / bırakmak",
+    "level": "A2",
+    "answer": "pass",
+    "distractors": [
+      "to pass",
+      "passing",
+      "to passing"
+    ],
+    "note": "let nesneden sonra yalın mastar alır; edilgen kullanımı yoktur (be allowed kullanılır).",
+    "sentence": "The strict customs officers let the international travelers [pass] the gate.",
+    "sentence_tr": "Katı gümrük memurları, uluslararası yolcuların kapıdan geçmesine izin verdi."
+  },
+  {
+    "head": "help",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "yardım etmek",
+    "level": "A2",
+    "answer": "finish",
+    "distractors": [
+      "finishing",
+      "to finishing",
+      "finished"
+    ],
+    "note": "help nesneden sonra hem yalın hem de to-mastar alabilir; gerund almaz.",
+    "sentence": "She helped her younger brother [finish] his math homework.",
+    "sentence_tr": "Erkek kardeşinin matematik ödevini bitirmesine yardım etti."
+  },
+  {
+    "head": "help",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "yardım etmek",
+    "level": "A2",
+    "answer": "perform",
+    "distractors": [
+      "performing",
+      "to performing",
+      "performed"
+    ],
+    "note": "help nesneden sonra hem yalın hem de to-mastar alabilir; gerund almaz.",
+    "sentence": "New robotic technologies help surgical teams [perform] complex operations.",
+    "sentence_tr": "Yeni robotik teknolojiler cerrahi ekiplerin karmaşık ameliyatları gerçekleştirmesine yardım ediyor."
+  },
+  {
+    "head": "see",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptığını görmek",
+    "level": "B1",
+    "answer": "cross",
+    "distractors": [
+      "to cross",
+      "to crossing",
+      "crossed"
+    ],
+    "note": "see algı fiili olarak eylemin tamamını görmeyi yalın mastarla ifade eder.",
+    "sentence": "I saw him [cross] the street and enter the bakery.",
+    "sentence_tr": "Onun karşıya geçip fırına girdiğini gördüm."
+  },
+  {
+    "head": "see",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptığını görmek",
+    "level": "B1",
+    "answer": "leave",
+    "distractors": [
+      "to leave",
+      "to leaving",
+      "left"
+    ],
+    "note": "see algı fiili olarak eylemin tamamını görmeyi yalın mastarla ifade eder.",
+    "sentence": "The security guards saw the suspect [leave] the office building.",
+    "sentence_tr": "Güvenlik görevlileri şüphelinin ofis binasından ayrıldığını gördü."
+  },
+  {
+    "head": "hear",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptığını duymak",
+    "level": "B1",
+    "answer": "ring",
+    "distractors": [
+      "to ring",
+      "to ringing",
+      "rang"
+    ],
+    "note": "hear algı fiili olarak eylemin tamamını duymayı yalın mastarla ifade eder.",
+    "sentence": "We heard the phone [ring] three times in the hallway.",
+    "sentence_tr": "Koridorda telefonun üç kez çaldığını duyduk."
+  },
+  {
+    "head": "hear",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptığını duymak",
+    "level": "B1",
+    "answer": "shout",
+    "distractors": [
+      "to shout",
+      "to shouting",
+      "shouted"
+    ],
+    "note": "hear algı fiili olarak eylemin tamamını duymayı yalın mastarla ifade eder.",
+    "sentence": "The witnesses heard the angry customer [shout] at the manager.",
+    "sentence_tr": "Tanıklar, öfkeli müşterinin müdüre bağırdığını duydu."
+  },
+  {
+    "head": "watch",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptığını izlemek",
+    "level": "B1",
+    "answer": "build",
+    "distractors": [
+      "to build",
+      "to building",
+      "built"
+    ],
+    "note": "watch algı fiili olarak eylemin tamamını izlemeyi yalın mastarla ifade eder.",
+    "sentence": "They watched the children [build] a sandcastle on the beach.",
+    "sentence_tr": "Çocukların sahilde kumdan kale yapmasını izlediler."
+  },
+  {
+    "head": "watch",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptığını izlemek",
+    "level": "B1",
+    "answer": "change",
+    "distractors": [
+      "to change",
+      "to changing",
+      "changed"
+    ],
+    "note": "watch algı fiili olarak eylemin tamamını izlemeyi yalın mastarla ifade eder.",
+    "sentence": "The scientific team watched the chemical solution [change] color gradually.",
+    "sentence_tr": "Bilimsel ekip kimyasal çözeltinin renginin kademeli olarak değişmesini izledi."
+  },
+  {
+    "head": "feel",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... hissetmek",
+    "level": "B2",
+    "answer": "blow",
+    "distractors": [
+      "to blow",
+      "to blowing",
+      "blew"
+    ],
+    "note": "feel algı fiili olarak fiziksel eylemin tümünü hissetmeyi yalın mastarla bildirir.",
+    "sentence": "She felt the cold wind [blow] against her pale face.",
+    "sentence_tr": "Soğuk rüzgarın solgun yüzüne doğru estiğini hissetti."
+  },
+  {
+    "head": "feel",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... hissetmek",
+    "level": "B2",
+    "answer": "shake",
+    "distractors": [
+      "to shake",
+      "to shaking",
+      "shook"
+    ],
+    "note": "feel algı fiili olarak fiziksel eylemin tümünü hissetmeyi yalın mastarla bildirir.",
+    "sentence": "The residents felt the ground [shake] during the minor earthquake.",
+    "sentence_tr": "Sakinler hafif deprem sırasında yerin sarsıldığını hissetti."
+  },
+  {
+    "head": "notice",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "fark etmek",
+    "level": "B2",
+    "answer": "jump",
+    "distractors": [
+      "to jump",
+      "to jumping",
+      "jumped"
+    ],
+    "note": "notice algı fiili olarak kısa bir eylemin tamamını yalın mastarla tanımlar.",
+    "sentence": "I noticed the cat [jump] over the high wooden fence.",
+    "sentence_tr": "Kedinin yüksek tahta çitin üzerinden atladığını fark ettim."
+  },
+  {
+    "head": "notice",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "fark etmek",
+    "level": "B2",
+    "answer": "alter",
+    "distractors": [
+      "to alter",
+      "to altering",
+      "altered"
+    ],
+    "note": "notice algı fiili olarak kısa bir eylemin tamamını yalın mastarla tanımlar.",
+    "sentence": "The attentive auditor noticed the accountant [alter] the official ledger.",
+    "sentence_tr": "Dikkatli denetçi, muhasebecinin resmi defteri değiştirdiğini fark etti."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptırmak",
+    "level": "B2",
+    "answer": "print",
+    "distractors": [
+      "to print",
+      "printing",
+      "to printing"
+    ],
+    "note": "have ettirgen yapıda (causative) nesneden sonra yalın mastarla eylemi yaptırmayı belirtir.",
+    "sentence": "I will have my secretary [print] the boarding passes.",
+    "sentence_tr": "Sekreterime biniş kartlarını yazdıracağım."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_bare_inf",
+    "meaning": "... yaptırmak",
+    "level": "B2",
+    "answer": "recalibrate",
+    "distractors": [
+      "to recalibrate",
+      "recalibrating",
+      "to recalibrating"
+    ],
+    "note": "have ettirgen yapıda (causative) nesneden sonra yalın mastarla eylemi yaptırmayı belirtir.",
+    "sentence": "The research director had the technician [recalibrate] the precise laboratory instruments.",
+    "sentence_tr": "Araştırma direktörü, teknisyene hassas laboratuvar aletlerini yeniden kalibre ettirdi."
+  },
+  {
+    "head": "enjoy",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "keyif almak",
+    "level": "A1",
+    "answer": "reading",
+    "distractors": [
+      "to read",
+      "read",
+      "to reading"
+    ],
+    "note": "enjoy eylemin kendisinden duyulan hazzı belirtir ve her zaman gerund alır.",
+    "sentence": "I enjoy [reading] historical books on warm summer days.",
+    "sentence_tr": "Sıcak yaz günlerinde tarihi kitaplar okumaktan keyif alırım."
+  },
+  {
+    "head": "enjoy",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "keyif almak",
+    "level": "A1",
+    "answer": "presenting",
+    "distractors": [
+      "to present",
+      "present",
+      "to presenting"
+    ],
+    "note": "enjoy eylemin kendisinden duyulan hazzı belirtir ve her zaman gerund alır.",
+    "sentence": "Many academics enjoy [presenting] their research at international conferences.",
+    "sentence_tr": "Pek çok akademisyen araştırmalarını uluslararası konferanslarda sunmaktan keyif alır."
+  },
+  {
+    "head": "mind",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "sakınca görmek",
+    "level": "A2",
+    "answer": "opening",
+    "distractors": [
+      "to open",
+      "open",
+      "to opening"
+    ],
+    "note": "mind olumsuz veya soru cümlelerinde rahatsızlık durumunu gerund ile bildirir.",
+    "sentence": "Would you mind [opening] the window for some fresh air?",
+    "sentence_tr": "Temiz hava için pencereyi açmanızda bir sakınca var mı?"
+  },
+  {
+    "head": "mind",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "sakınca görmek",
+    "level": "A2",
+    "answer": "revising",
+    "distractors": [
+      "to revise",
+      "revise",
+      "to revising"
+    ],
+    "note": "mind olumsuz veya soru cümlelerinde rahatsızlık durumunu gerund ile bildirir.",
+    "sentence": "The researcher did not mind [revising] the controversial study several times.",
+    "sentence_tr": "Araştırmacı tartışmalı çalışmayı birkaç kez gözden geçirmekte sakınca görmedi."
+  },
+  {
+    "head": "finish",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bitirmek",
+    "level": "A2",
+    "answer": "washing",
+    "distractors": [
+      "to wash",
+      "wash",
+      "to washing"
+    ],
+    "note": "finish bir eylemin tamamlanmasını ifade eder ve devamına gerund alır.",
+    "sentence": "She finished [washing] the dishes after dinner.",
+    "sentence_tr": "Akşam yemeğinden sonra bulaşıkları yıkamayı bitirdi."
+  },
+  {
+    "head": "finish",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bitirmek",
+    "level": "A2",
+    "answer": "evaluating",
+    "distractors": [
+      "to evaluate",
+      "evaluate",
+      "to evaluating"
+    ],
+    "note": "finish bir eylemin tamamlanmasını ifade eder ve devamına gerund alır.",
+    "sentence": "The committee successfully finished [evaluating] all doctoral applications yesterday.",
+    "sentence_tr": "Komite dün tüm doktora başvurularını değerlendirmeyi başarıyla bitirdi."
+  },
+  {
+    "head": "keep",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... yapmaya devam etmek",
+    "level": "A2",
+    "answer": "running",
+    "distractors": [
+      "to run",
+      "run",
+      "to running"
+    ],
+    "note": "keep bir eylemin kesintisiz sürdüğünü belirtir; devamına doğrudan gerund alır.",
+    "sentence": "Please keep [running] until you reach the finish line.",
+    "sentence_tr": "Lütfen bitiş çizgisine ulaşana kadar koşmaya devam et."
+  },
+  {
+    "head": "keep",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... yapmaya devam etmek",
+    "level": "A2",
+    "answer": "rising",
+    "distractors": [
+      "to rise",
+      "rise",
+      "to rising"
+    ],
+    "note": "keep bir eylemin kesintisiz sürdüğünü belirtir; devamına doğrudan gerund alır.",
+    "sentence": "Global inflation rates keep [rising] despite strict monetary policies.",
+    "sentence_tr": "Sıkı para politikalarına rağmen küresel enflasyon oranları yükselmeye devam ediyor."
+  },
+  {
+    "head": "practise",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "alıştırma yapmak",
+    "level": "A2",
+    "answer": "speaking",
+    "distractors": [
+      "to speak",
+      "speak",
+      "to speaking"
+    ],
+    "note": "practise fiili pratik yaparak beceri geliştirmeyi anlatır ve gerund gerektirir.",
+    "sentence": "You must practise [speaking] English every day to improve.",
+    "sentence_tr": "Gelişmek için her gün İngilizce konuşma alıştırması yapmalısın."
+  },
+  {
+    "head": "practise",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "alıştırma yapmak",
+    "level": "A2",
+    "answer": "performing",
+    "distractors": [
+      "to perform",
+      "perform",
+      "to performing"
+    ],
+    "note": "practise fiili pratik yaparak beceri geliştirmeyi anlatır ve gerund gerektirir.",
+    "sentence": "Young surgeons practise [performing] complex procedures on artificial models.",
+    "sentence_tr": "Genç cerrahlar yapay modeller üzerinde karmaşık ameliyatları gerçekleştirme alıştırması yapar."
+  },
+  {
+    "head": "suggest",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "önermek",
+    "level": "B1",
+    "answer": "taking",
+    "distractors": [
+      "to take",
+      "take",
+      "to taking"
+    ],
+    "note": "suggest bir eylemin yapılmasını önerirken gerund alır; 'suggest sb to do' YANLIŞTIR.",
+    "sentence": "My friend suggested [taking] a taxi to the airport.",
+    "sentence_tr": "Arkadaşım havalimanına taksiyle gitmeyi önerdi."
+  },
+  {
+    "head": "suggest",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "önermek",
+    "level": "B1",
+    "answer": "consuming",
+    "distractors": [
+      "to consume",
+      "consume",
+      "to consuming"
+    ],
+    "note": "suggest bir eylemin yapılmasını önerirken gerund alır; 'suggest sb to do' YANLIŞTIR.",
+    "sentence": "Medical studies suggest [consuming] organic vegetables to reduce health risks.",
+    "sentence_tr": "Tıbbi çalışmalar, sağlık risklerini azaltmak için organik sebzeler tüketmeyi önermektedir."
+  },
+  {
+    "head": "avoid",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "kaçınmak",
+    "level": "B1",
+    "answer": "eating",
+    "distractors": [
+      "to eat",
+      "eat",
+      "to eating"
+    ],
+    "note": "avoid bir durumdan bilinçli olarak kaçınmayı ifade eder ve gerund gerektirir.",
+    "sentence": "You should avoid [eating] sugar late at night.",
+    "sentence_tr": "Gece geç saatlerde şeker yemekten kaçınmalısın."
+  },
+  {
+    "head": "avoid",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "kaçınmak",
+    "level": "B1",
+    "answer": "trading",
+    "distractors": [
+      "to trade",
+      "trade",
+      "to trading"
+    ],
+    "note": "avoid bir durumdan bilinçli olarak kaçınmayı ifade eder ve gerund gerektirir.",
+    "sentence": "Experienced stock investors avoid [trading] volatile assets during market crises.",
+    "sentence_tr": "Deneyimli hisse senedi yatırımcıları piyasa krizlerinde oynak varlıkların ticaretinden kaçınır."
+  },
+  {
+    "head": "admit",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "itiraf etmek",
+    "level": "B1",
+    "answer": "breaking",
+    "distractors": [
+      "to break",
+      "break",
+      "to breaking"
+    ],
+    "note": "admit bir hatayı/durumu kabul etmeyi anlatır ve tümleç olarak gerund alır.",
+    "sentence": "The boy admitted [breaking] the window of the classroom.",
+    "sentence_tr": "Çocuk sınıfın penceresini kırdığını itiraf etti."
+  },
+  {
+    "head": "admit",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "itiraf etmek",
+    "level": "B1",
+    "answer": "misleading",
+    "distractors": [
+      "to mislead",
+      "mislead",
+      "to misleading"
+    ],
+    "note": "admit bir hatayı/durumu kabul etmeyi anlatır ve tümleç olarak gerund alır.",
+    "sentence": "The defense minister admitted [misleading] the public during the military operation.",
+    "sentence_tr": "Savunma bakanı, askeri operasyon sırasında halkı yanılttığını itiraf etti."
+  },
+  {
+    "head": "deny",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "inkâr etmek",
+    "level": "B1",
+    "answer": "stealing",
+    "distractors": [
+      "to steal",
+      "steal",
+      "to stealing"
+    ],
+    "note": "deny yapılan bir eylemi inkâr ederken nesne olarak gerund ile bağlanır.",
+    "sentence": "He denied [stealing] the money from the safe.",
+    "sentence_tr": "Kasadan parayı çaldığını inkâr etti."
+  },
+  {
+    "head": "deny",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "inkâr etmek",
+    "level": "B1",
+    "answer": "receiving",
+    "distractors": [
+      "to receive",
+      "receive",
+      "to receiving"
+    ],
+    "note": "deny yapılan bir eylemi inkâr ederken nesne olarak gerund ile bağlanır.",
+    "sentence": "The accused politician strongly denied [receiving] bribes from the foreign firm.",
+    "sentence_tr": "Suçlanan siyasetçi, yabancı firmadan rüşvet aldığını şiddetle inkâr etti."
+  },
+  {
+    "head": "consider",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "düşünmek, tartmak",
+    "level": "B1",
+    "answer": "buying",
+    "distractors": [
+      "to buy",
+      "buy",
+      "to buying"
+    ],
+    "note": "consider karar öncesi seçenekleri tartmayı ifade eder ve devamına gerund alır.",
+    "sentence": "I am considering [buying] a new laptop next month.",
+    "sentence_tr": "Gelecek ay yeni bir dizüstü bilgisayar almayı düşünüyorum."
+  },
+  {
+    "head": "consider",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "düşünmek, tartmak",
+    "level": "B1",
+    "answer": "expanding",
+    "distractors": [
+      "to expand",
+      "expand",
+      "to expanding"
+    ],
+    "note": "consider karar öncesi seçenekleri tartmayı ifade eder ve devamına gerund alır.",
+    "sentence": "The board of directors considers [expanding] its local market presence.",
+    "sentence_tr": "Yönetim kurulu, yerel pazardaki varlığını genişletmeyi düşünüyor."
+  },
+  {
+    "head": "imagine",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "hayal etmek",
+    "level": "B1",
+    "answer": "living",
+    "distractors": [
+      "to live",
+      "live",
+      "to living"
+    ],
+    "note": "imagine zihinde bir durumu canlandırmayı ifade eder ve gerund ile tamamlanır.",
+    "sentence": "Can you imagine [living] on a desert island alone?",
+    "sentence_tr": "Issız bir adada tek başına yaşamayı hayal edebilir misin?"
+  },
+  {
+    "head": "imagine",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "hayal etmek",
+    "level": "B1",
+    "answer": "discovering",
+    "distractors": [
+      "to discover",
+      "discover",
+      "to discovering"
+    ],
+    "note": "imagine zihinde bir durumu canlandırmayı ifade eder ve gerund ile tamamlanır.",
+    "sentence": "Many theoretical physicists imagine [discovering] alternative dimensions in the future.",
+    "sentence_tr": "Birçok teorik fizikçi gelecekte alternatif boyutlar keşfetmeyi hayal ediyor."
+  },
+  {
+    "head": "miss",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... kaçırmak, özlemek",
+    "level": "B1",
+    "answer": "playing",
+    "distractors": [
+      "to play",
+      "play",
+      "to playing"
+    ],
+    "note": "miss geçmişteki bir alışkanlığı özlemeyi veya bir fırsatı kaçırmayı gerund ile belirtir.",
+    "sentence": "I miss [playing] basketball with my friends.",
+    "sentence_tr": "Arkadaşlarımla basketbol oynamayı özlüyorum."
+  },
+  {
+    "head": "miss",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... kaçırmak, özlemek",
+    "level": "B1",
+    "answer": "hearing",
+    "distractors": [
+      "to hear",
+      "hear",
+      "to hearing"
+    ],
+    "note": "miss geçmişteki bir alışkanlığı özlemeyi veya bir fırsatı kaçırmayı gerund ile belirtir.",
+    "sentence": "Voters deeply miss [hearing] sincere political speeches in modern times.",
+    "sentence_tr": "Seçmenler, modern zamanlarda samimi siyasi konuşmalar duymayı derinden özlüyor."
+  },
+  {
+    "head": "recommend",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "tavsiye etmek",
+    "level": "B1",
+    "answer": "exercising",
+    "distractors": [
+      "to exercise",
+      "exercise",
+      "to exercising"
+    ],
+    "note": "recommend fiili tavsiyede bulunurken doğrudan gerund alır; 'recommend sb to do' YANLIŞTIR.",
+    "sentence": "Doctors recommend [exercising] twice a week for heart health.",
+    "sentence_tr": "Doktorlar, kalp sağlığı için haftada iki kez egzersiz yapmayı tavsiye ediyor."
+  },
+  {
+    "head": "recommend",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "tavsiye etmek",
+    "level": "B1",
+    "answer": "diversifying",
+    "distractors": [
+      "to diversify",
+      "diversify",
+      "to diversifying"
+    ],
+    "note": "recommend fiili tavsiyede bulunurken doğrudan gerund alır; 'recommend sb to do' YANLIŞTIR.",
+    "sentence": "Financial experts recommend [diversifying] investment portfolios to reduce risk.",
+    "sentence_tr": "Finansal uzmanlar, riski azaltmak için yatırım portföylerini çeşitlendirmeyi tavsiye eder."
+  },
+  {
+    "head": "quit",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bırakmak",
+    "level": "B1",
+    "answer": "smoking",
+    "distractors": [
+      "to smoke",
+      "smoke",
+      "to smoking"
+    ],
+    "note": "quit bir eylemi veya alışkanlığı tamamen bırakmayı anlatır ve gerund alır.",
+    "sentence": "My father finally quit [smoking] last year.",
+    "sentence_tr": "Babam geçen yıl nihayet sigara içmeyi bıraktı."
+  },
+  {
+    "head": "quit",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bırakmak",
+    "level": "B1",
+    "answer": "working",
+    "distractors": [
+      "to work",
+      "work",
+      "to working"
+    ],
+    "note": "quit bir eylemi veya alışkanlığı tamamen bırakmayı anlatır ve gerund alır.",
+    "sentence": "The brilliant young scientist quit [working] for the large firm.",
+    "sentence_tr": "Parlak genç bilim insanı büyük firma için çalışmayı bıraktı."
+  },
+  {
+    "head": "give up",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "vazgeçmek",
+    "level": "B1",
+    "answer": "trying",
+    "distractors": [
+      "to try",
+      "try",
+      "to trying"
+    ],
+    "note": "give up phrasal verb'ü çabalamayı bırakmayı anlatır ve edat nedeniyle gerund alır.",
+    "sentence": "Do not give up [trying] to solve the puzzle.",
+    "sentence_tr": "Bulmacayı çözmeye çalışmaktan vazgeçme."
+  },
+  {
+    "head": "give up",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "vazgeçmek",
+    "level": "B1",
+    "answer": "defending",
+    "distractors": [
+      "to defend",
+      "defend",
+      "to defending"
+    ],
+    "note": "give up phrasal verb'ü çabalamayı bırakmayı anlatır ve edat nedeniyle gerund alır.",
+    "sentence": "The sovereign nation refused to give up [defending] its territory.",
+    "sentence_tr": "Egemen ulus, kendi topraklarını savunmaktan vazgeçmeyi reddetti."
+  },
+  {
+    "head": "put off",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "ertelemek",
+    "level": "B1",
+    "answer": "going",
+    "distractors": [
+      "to go",
+      "go",
+      "to going"
+    ],
+    "note": "put off phrasal verb'ü bir eylemi ertelemeyi anlatır ve gerund ile tamamlanır.",
+    "sentence": "We had to put off [going] on a picnic.",
+    "sentence_tr": "Pikniğe gitmeyi ertelemek zorunda kaldık."
+  },
+  {
+    "head": "put off",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "ertelemek",
+    "level": "B1",
+    "answer": "implementing",
+    "distractors": [
+      "to implement",
+      "implement",
+      "to implementing"
+    ],
+    "note": "put off phrasal verb'ü bir eylemi ertelemeyi anlatır ve gerund ile tamamlanır.",
+    "sentence": "The regulatory board decided to put off [implementing] new rules.",
+    "sentence_tr": "Düzenleyici kurul, yeni kuralları uygulamayı ertelemeye karar verdi."
+  },
+  {
+    "head": "carry on",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "sürdürmek",
+    "level": "B1",
+    "answer": "studying",
+    "distractors": [
+      "to study",
+      "study",
+      "to studying"
+    ],
+    "note": "carry on phrasal verb'ü süregelen bir eylemi devam ettirmeyi anlatır ve gerund alır.",
+    "sentence": "You should carry on [studying] hard for the exam.",
+    "sentence_tr": "Sınav için sıkı çalışmayı sürdürmelisin."
+  },
+  {
+    "head": "carry on",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "sürdürmek",
+    "level": "B1",
+    "answer": "exploring",
+    "distractors": [
+      "to explore",
+      "explore",
+      "to exploring"
+    ],
+    "note": "carry on phrasal verb'ü süregelen bir eylemi devam ettirmeyi anlatır ve gerund alır.",
+    "sentence": "Despite many technological challenges, researchers carried on [exploring] deep space.",
+    "sentence_tr": "Pek çok teknolojik zorluğa rağmen, araştırmacılar derin uzayı keşfetmeyi sürdürdü."
+  },
+  {
+    "head": "feel like",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "canı istemek",
+    "level": "B1",
+    "answer": "cooking",
+    "distractors": [
+      "to cook",
+      "cook",
+      "to cooking"
+    ],
+    "note": "feel like yapısı anlık bir istek bildirirken edatı (like) nedeniyle gerund alır.",
+    "sentence": "I do not feel like [cooking] dinner tonight.",
+    "sentence_tr": "Bu akşam canım akşam yemeği pişirmek istemiyor."
+  },
+  {
+    "head": "feel like",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "canı istemek",
+    "level": "B1",
+    "answer": "answering",
+    "distractors": [
+      "to answer",
+      "answer",
+      "to answering"
+    ],
+    "note": "feel like yapısı anlık bir istek bildirirken edatı (like) nedeniyle gerund alır.",
+    "sentence": "The exhausted staff did not feel like [answering] client emails.",
+    "sentence_tr": "Bitkin personel müşterilerin e-postalarını yanıtlamak istemedi."
+  },
+  {
+    "head": "risk",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "göze almak",
+    "level": "B2",
+    "answer": "losing",
+    "distractors": [
+      "to lose",
+      "lose",
+      "to losing"
+    ],
+    "note": "risk fiili olumsuz bir sonuca yol açabilecek bir eylemi yapmayı göze alırken gerund alır.",
+    "sentence": "You risk [losing] your job if you arrive late again.",
+    "sentence_tr": "Tekrar geç gelirsen işini kaybetmeyi göze alırsın."
+  },
+  {
+    "head": "risk",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "göze almak",
+    "level": "B2",
+    "answer": "going",
+    "distractors": [
+      "to go",
+      "go",
+      "to going"
+    ],
+    "note": "risk fiili olumsuz bir sonuca yol açabilecek bir eylemi yapmayı göze alırken gerund alır.",
+    "sentence": "Many small companies risk [going] bankrupt during severe economic downturns.",
+    "sentence_tr": "Birçok küçük şirket, şiddetli ekonomik krizler sırasında iflas etmeyi göze alır."
+  },
+  {
+    "head": "postpone",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "ertelemek",
+    "level": "B2",
+    "answer": "holding",
+    "distractors": [
+      "to hold",
+      "hold",
+      "to holding"
+    ],
+    "note": "postpone bir eylemin ileri bir tarihe ertelendiğini belirtir ve gerund alır.",
+    "sentence": "They postponed [holding] the meeting until next Monday.",
+    "sentence_tr": "Toplantıyı düzenlemeyi önümüzdeki pazartesiye ertelediler."
+  },
+  {
+    "head": "postpone",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "ertelemek",
+    "level": "B2",
+    "answer": "announcing",
+    "distractors": [
+      "to announce",
+      "announce",
+      "to announcing"
+    ],
+    "note": "postpone bir eylemin ileri bir tarihe ertelendiğini belirtir ve gerund alır.",
+    "sentence": "The state university postponed [announcing] the official exam results.",
+    "sentence_tr": "Devlet üniversitesi resmi sınav sonuçlarını açıklamayı erteledi."
+  },
+  {
+    "head": "delay",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "geciktirmek",
+    "level": "B2",
+    "answer": "paying",
+    "distractors": [
+      "to pay",
+      "pay",
+      "to paying"
+    ],
+    "note": "delay geciktirme veya erteleme anlatırken doğrudan gerund tümleç alır.",
+    "sentence": "Please do not delay [paying] your utility bills.",
+    "sentence_tr": "Lütfen faturalarınızı ödemeyi geciktirmeyin."
+  },
+  {
+    "head": "delay",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "geciktirmek",
+    "level": "B2",
+    "answer": "submitting",
+    "distractors": [
+      "to submit",
+      "submit",
+      "to submitting"
+    ],
+    "note": "delay geciktirme veya erteleme anlatırken doğrudan gerund tümleç alır.",
+    "sentence": "The government delayed [submitting] the annual budget proposal to parliament.",
+    "sentence_tr": "Hükümet, yıllık bütçe tasarısını parlamentoya sunmayı geciktirdi."
+  },
+  {
+    "head": "involve",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "içermek",
+    "level": "B2",
+    "answer": "writing",
+    "distractors": [
+      "to write",
+      "write",
+      "to writing"
+    ],
+    "note": "involve bir sürecin parçası olan eylemleri anlatır ve devamına gerund alır.",
+    "sentence": "My daily job involves [writing] emails and answering phone calls.",
+    "sentence_tr": "Günlük işim e-posta yazmayı ve telefonları yanıtlamayı içerir."
+  },
+  {
+    "head": "involve",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "içermek",
+    "level": "B2",
+    "answer": "analyzing",
+    "distractors": [
+      "to analyze",
+      "analyze",
+      "to analyzing"
+    ],
+    "note": "involve bir sürecin parçası olan eylemleri anlatır ve devamına gerund alır.",
+    "sentence": "This extensive research program involves [analyzing] complex genetic mutations.",
+    "sentence_tr": "Bu kapsamlı araştırma programı karmaşık genetik mutasyonları analiz etmeyi içerir."
+  },
+  {
+    "head": "mention",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bahsetmek",
+    "level": "B2",
+    "answer": "seeing",
+    "distractors": [
+      "to see",
+      "see",
+      "to seeing"
+    ],
+    "note": "mention konuşma veya metinde bir eylemden kısaca bahsederken gerund alır.",
+    "sentence": "She mentioned [seeing] your brother at the shopping mall.",
+    "sentence_tr": "Kardeşini alışveriş merkezinde gördüğünden bahsetti."
+  },
+  {
+    "head": "mention",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bahsetmek",
+    "level": "B2",
+    "answer": "observing",
+    "distractors": [
+      "to observe",
+      "observe",
+      "to observing"
+    ],
+    "note": "mention konuşma veya metinde bir eylemden kısaca bahsederken gerund alır.",
+    "sentence": "The report specifically mentioned [observing] strange climate patterns in the region.",
+    "sentence_tr": "Rapor, bölgede garip iklim kalıplarının gözlemlendiğinden özellikle bahsetti."
+  },
+  {
+    "head": "resist",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "direnmek",
+    "level": "B2",
+    "answer": "eating",
+    "distractors": [
+      "to eat",
+      "eat",
+      "to eating"
+    ],
+    "note": "resist bir dürtüye veya dış baskıya karşı koymayı gerund ile anlatır.",
+    "sentence": "I could not resist [eating] a slice of that chocolate cake.",
+    "sentence_tr": "O çikolatalı pastadan bir dilim yemeye direnemedim."
+  },
+  {
+    "head": "resist",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "direnmek",
+    "level": "B2",
+    "answer": "updating",
+    "distractors": [
+      "to update",
+      "update",
+      "to updating"
+    ],
+    "note": "resist bir dürtüye veya dış baskıya karşı koymayı gerund ile anlatır.",
+    "sentence": "Traditional institutions resist [updating] their educational curricula for modern needs.",
+    "sentence_tr": "Geleneksel kurumlar, eğitim müfredatlarını modern ihtiyaçlar için güncellemeye direnir."
+  },
+  {
+    "head": "fancy",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "canı çekmek",
+    "level": "B2",
+    "answer": "going",
+    "distractors": [
+      "to go",
+      "go",
+      "to going"
+    ],
+    "note": "fancy istek veya can çekmesi anlatırken günlük dilde sıkça gerund ile kullanılır.",
+    "sentence": "Do you fancy [going] to a rock concert this Saturday?",
+    "sentence_tr": "Bu cumartesi bir rock konserine gitmek ister misin?"
+  },
+  {
+    "head": "fancy",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "canı çekmek",
+    "level": "B2",
+    "answer": "investing",
+    "distractors": [
+      "to invest",
+      "invest",
+      "to investing"
+    ],
+    "note": "fancy istek veya can çekmesi anlatırken günlük dilde sıkça gerund ile kullanılır.",
+    "sentence": "The young entrepreneur did not fancy [investing] in high-risk ventures.",
+    "sentence_tr": "Genç girişimci yüksek riskli girişimlere yatırım yapmayı istemedi."
+  },
+  {
+    "head": "dread",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "ödü kopmak",
+    "level": "B2",
+    "answer": "visiting",
+    "distractors": [
+      "to visit",
+      "visit",
+      "to visiting"
+    ],
+    "note": "dread gelecekteki bir eyleme dair büyük korku ve endişeyi gerund ile bildirir.",
+    "sentence": "I dread [visiting] the dentist for my tooth problem.",
+    "sentence_tr": "Diş problemim için diş hekimini ziyaret etmekten ödüm kopuyor."
+  },
+  {
+    "head": "dread",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "ödü kopmak",
+    "level": "B2",
+    "answer": "balancing",
+    "distractors": [
+      "to balance",
+      "balance",
+      "to balancing"
+    ],
+    "note": "dread gelecekteki bir eyleme dair büyük korku ve endişeyi gerund ile bildirir.",
+    "sentence": "Many working parents dread [balancing] stressful careers with family life.",
+    "sentence_tr": "Pek çok çalışan ebeveyn, stresli kariyerlerini aile hayatıyla dengelemekten korkuyor."
+  },
+  {
+    "head": "report",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bildirmek",
+    "level": "B2",
+    "answer": "seeing",
+    "distractors": [
+      "to see",
+      "see",
+      "to seeing"
+    ],
+    "note": "report resmi bir durumu veya eylemi yetkililere bildirirken gerund ile bağlanır.",
+    "sentence": "They reported [seeing] a strange object in the forest.",
+    "sentence_tr": "Ormanda garip bir nesne gördüklerini bildirdiler."
+  },
+  {
+    "head": "report",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "bildirmek",
+    "level": "B2",
+    "answer": "detecting",
+    "distractors": [
+      "to detect",
+      "detect",
+      "to detecting"
+    ],
+    "note": "report resmi bir durumu veya eylemi yetkililere bildirirken gerund ile bağlanır.",
+    "sentence": "Local media outlets reported [detecting] radioactive leaks in the facility.",
+    "sentence_tr": "Yerel medya organları tesiste radyoaktif sızıntılar tespit edildiğini bildirdi."
+  },
+  {
+    "head": "can't help",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "...maktan kendini alamamak",
+    "level": "B2",
+    "answer": "laughing",
+    "distractors": [
+      "to laugh",
+      "laugh",
+      "to laughing"
+    ],
+    "note": "can't help elinde olmadan bir eyleme maruz kalmayı gerund ile anlatır.",
+    "sentence": "I can't help [laughing] when she tells funny jokes.",
+    "sentence_tr": "O komik fıkralar anlattığında kendimi gülmekten alamıyorum."
+  },
+  {
+    "head": "can't help",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "...maktan kendini alamamak",
+    "level": "B2",
+    "answer": "noticing",
+    "distractors": [
+      "to notice",
+      "notice",
+      "to noticing"
+    ],
+    "note": "can't help elinde olmadan bir eyleme maruz kalmayı gerund ile anlatır.",
+    "sentence": "Sociologists can't help [noticing] the rapid decline of traditional community values.",
+    "sentence_tr": "Sosyologlar geleneksel toplumsal değerlerin hızlı düşüşünü fark etmekten kendilerini alamıyorlar."
+  },
+  {
+    "head": "can't stand",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "tahammül edememek",
+    "level": "B2",
+    "answer": "waiting",
+    "distractors": [
+      "to wait",
+      "wait",
+      "to waiting"
+    ],
+    "note": "can't stand katlanılamayan can sıkıcı durumları gerund yapısı ile bağlar.",
+    "sentence": "I can't stand [waiting] in long queues at the supermarket.",
+    "sentence_tr": "Süpermarkette uzun kuyruklarda beklemeye katlanamıyorum."
+  },
+  {
+    "head": "can't stand",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "tahammül edememek",
+    "level": "B2",
+    "answer": "receiving",
+    "distractors": [
+      "to receive",
+      "receive",
+      "to receiving"
+    ],
+    "note": "can't stand katlanılamayan can sıkıcı durumları gerund yapısı ile bağlar.",
+    "sentence": "Experienced corporate executives can't stand [receiving] vague and unverified reports.",
+    "sentence_tr": "Deneyimli kurumsal yöneticiler belirsiz ve doğrulanmamış raporlar almaya katlanamaz."
+  },
+  {
+    "head": "appreciate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "kıymetini bilmek",
+    "level": "B2",
+    "answer": "receiving",
+    "distractors": [
+      "to receive",
+      "receive",
+      "to receiving"
+    ],
+    "note": "appreciate yapılan bir iyiliğe veya duruma minnettarlığı gerund ile ifade eder.",
+    "sentence": "I really appreciate [receiving] your helpful advice on this topic.",
+    "sentence_tr": "Bu konuda yardımsever tavsiyenizi almaktan gerçekten memnuniyet duyuyorum."
+  },
+  {
+    "head": "appreciate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "kıymetini bilmek",
+    "level": "B2",
+    "answer": "working",
+    "distractors": [
+      "to work",
+      "work",
+      "to working"
+    ],
+    "note": "appreciate yapılan bir iyiliğe veya duruma minnettarlığı gerund ile ifade eder.",
+    "sentence": "The senior management deeply appreciates [working] with highly motivated professionals.",
+    "sentence_tr": "Üst yönetim, yüksek motivasyonlu profesyonellerle çalışmayı derinden takdir ediyor."
+  },
+  {
+    "head": "anticipate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "öngörmek",
+    "level": "C1",
+    "answer": "having",
+    "distractors": [
+      "to have",
+      "have",
+      "to having"
+    ],
+    "note": "anticipate geleceğe dair bir eylemi öngörürken tümleç olarak gerund alır.",
+    "sentence": "We did not anticipate [having] so many problems during construction.",
+    "sentence_tr": "İnşaat sırasında bu kadar çok sorun yaşamayı öngörmemiştik."
+  },
+  {
+    "head": "anticipate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "öngörmek",
+    "level": "C1",
+    "answer": "confronting",
+    "distractors": [
+      "to confront",
+      "confront",
+      "to confronting"
+    ],
+    "note": "anticipate geleceğe dair bir eylemi öngörürken tümleç olarak gerund alır.",
+    "sentence": "Economic forecasters anticipate [confronting] high inflation rates throughout the year.",
+    "sentence_tr": "Ekonomik tahminciler yıl boyunca yüksek enflasyon oranlarıyla yüzleşmeyi öngörüyor."
+  },
+  {
+    "head": "contemplate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... yapmayı düşünmek",
+    "level": "C1",
+    "answer": "changing",
+    "distractors": [
+      "to change",
+      "change",
+      "to changing"
+    ],
+    "note": "contemplate bir tasarımı veya olasılığı zihinde evirip çevirirken gerund ister.",
+    "sentence": "She is contemplating [changing] her career path next year.",
+    "sentence_tr": "Gelecek yıl kariyer yolunu değiştirmeyi düşünüyor."
+  },
+  {
+    "head": "contemplate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... yapmayı düşünmek",
+    "level": "C1",
+    "answer": "merging",
+    "distractors": [
+      "to merge",
+      "merge",
+      "to merging"
+    ],
+    "note": "contemplate bir tasarımı veya olasılığı zihinde evirip çevirirken gerund ister.",
+    "sentence": "The pharmaceutical board contemplates [merging] with a larger European rival.",
+    "sentence_tr": "İlaç kurulu, daha büyük bir Avrupalı rakiple birleşmeyi düşünüyor."
+  },
+  {
+    "head": "tolerate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "hoş görmek",
+    "level": "C1",
+    "answer": "talking",
+    "distractors": [
+      "to talk",
+      "talk",
+      "to talking"
+    ],
+    "note": "tolerate bir davranışa veya eyleme göz yummak, müsamaha göstermek için gerund alır.",
+    "sentence": "The teacher will not tolerate [talking] during the exam.",
+    "sentence_tr": "Öğretmen sınav sırasında konuşulmasına müsamaha göstermeyecektir."
+  },
+  {
+    "head": "tolerate",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "hoş görmek",
+    "level": "C1",
+    "answer": "restricting",
+    "distractors": [
+      "to restrict",
+      "restrict",
+      "to restricting"
+    ],
+    "note": "tolerate bir davranışa veya eyleme göz yummak, müsamaha göstermek için gerund alır.",
+    "sentence": "Democratic societies do not tolerate [restricting] fundamental civil liberties.",
+    "sentence_tr": "Demokratik toplumlar, temel sivil özgürlüklerin kısıtlanmasını hoş görmez."
+  },
+  {
+    "head": "escape",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "...maktan kurtulmak",
+    "level": "C1",
+    "answer": "going",
+    "distractors": [
+      "to go",
+      "go",
+      "to going"
+    ],
+    "note": "escape kötü bir sonuçtan veya eylemden sıyrılmayı, kurtulmayı gerund ile anlatır.",
+    "sentence": "The criminal managed to escape [going] to prison.",
+    "sentence_tr": "Suçlu hapishaneye gitmekten kurtulmayı başardı."
+  },
+  {
+    "head": "escape",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "...maktan kurtulmak",
+    "level": "C1",
+    "answer": "paying",
+    "distractors": [
+      "to pay",
+      "pay",
+      "to paying"
+    ],
+    "note": "escape kötü bir sonuçtan veya eylemden sıyrılmayı, kurtulmayı gerund ile anlatır.",
+    "sentence": "The corporation narrowly escaped [paying] a massive tax penalty.",
+    "sentence_tr": "Şirket devasa bir vergi cezası ödemekten kıl payı kurtuldu."
+  },
+  {
+    "head": "remember",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "yapmayı unutmamak",
+    "level": "B1",
+    "answer": "to lock",
+    "distractors": [
+      "lock",
+      "locked",
+      "that he lock"
+    ],
+    "note": "remember +to gelecekteki bir görevi; +ing ise geçmişteki eylemi hatırlatır.",
+    "sentence": "Please remember [to lock] the back door before leaving.",
+    "sentence_tr": "Ayrılmadan önce lütfen arka kapıyı kilitlemeyi unutma."
+  },
+  {
+    "head": "remember",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "yapmayı unutmamak",
+    "level": "B1",
+    "answer": "to submit",
+    "distractors": [
+      "submit",
+      "submitted",
+      "that they submit"
+    ],
+    "note": "remember +to gelecekteki bir görevi; +ing ise geçmişteki eylemi hatırlatır.",
+    "sentence": "Candidates must remember [to submit] their applications before Friday.",
+    "sentence_tr": "Adaylar başvurularını cuma gününden önce teslim etmeyi unutmamalıdır."
+  },
+  {
+    "head": "remember",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "yaptığını hatırlamak",
+    "level": "B1",
+    "answer": "locking",
+    "distractors": [
+      "lock",
+      "locked",
+      "that he lock"
+    ],
+    "note": "remember +ing geçmişteki eylemi; +to ise yapılması gereken bir görevi hatırlatır.",
+    "sentence": "I clearly remember [locking] the safe early this morning.",
+    "sentence_tr": "Bu sabah erken saatlerde kasayı kilitlediğimi net bir şekilde hatırlıyorum."
+  },
+  {
+    "head": "remember",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "yaptığını hatırlamak",
+    "level": "B1",
+    "answer": "signing",
+    "distractors": [
+      "sign",
+      "signed",
+      "that they sign"
+    ],
+    "note": "remember +ing geçmişteki eylemi; +to ise yapılması gereken bir görevi hatırlatır.",
+    "sentence": "The witness remembered [signing] the confidential contract last year.",
+    "sentence_tr": "Tanık geçen yıl gizli sözleşmeyi imzaladığını hatırladı."
+  },
+  {
+    "head": "forget",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "yapmayı unutmak",
+    "level": "B1",
+    "answer": "to buy",
+    "distractors": [
+      "buy",
+      "bought",
+      "that he buy"
+    ],
+    "note": "forget +to bir görevi yapmayı unutmaktır; +ing ise yapılanı unutamamayı anlatır.",
+    "sentence": "Do not forget [to buy] some fresh milk today.",
+    "sentence_tr": "Bugün biraz taze süt almayı unutma."
+  },
+  {
+    "head": "forget",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "yapmayı unutmak",
+    "level": "B1",
+    "answer": "to pay",
+    "distractors": [
+      "pay",
+      "paid",
+      "that they pay"
+    ],
+    "note": "forget +to bir görevi yapmayı unutmaktır; +ing ise yapılanı unutamamayı anlatır.",
+    "sentence": "Historical nations often forgot [to pay] their external national debts.",
+    "sentence_tr": "Tarihteki uluslar genellikle dış ulusal borçlarını ödemeyi unuttular."
+  },
+  {
+    "head": "forget",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "yaptığını unutmak",
+    "level": "B1",
+    "answer": "meeting",
+    "distractors": [
+      "meet",
+      "met",
+      "that we meet"
+    ],
+    "note": "forget +ing geçmişte yapılan bir eylemi; +to ise yapılması gerekeni unutmaktır.",
+    "sentence": "I will never forget [meeting] the president in person.",
+    "sentence_tr": "Başkanla şahsen tanıştığımı asla unutmayacağım."
+  },
+  {
+    "head": "forget",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "yaptığını unutmak",
+    "level": "B1",
+    "answer": "visiting",
+    "distractors": [
+      "visit",
+      "visited",
+      "that they visit"
+    ],
+    "note": "forget +ing geçmişte yapılan bir eylemi; +to ise yapılması gerekeni unutmaktır.",
+    "sentence": "Academic scholars never forget [visiting] those ancient library archives.",
+    "sentence_tr": "Akademik araştırmacılar o antik kütüphane arşivlerini ziyaret ettiklerini asla unutmazlar."
+  },
+  {
+    "head": "stop",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "(durup) başka şey yapmak",
+    "level": "B1",
+    "answer": "to buy",
+    "distractors": [
+      "buy",
+      "bought",
+      "that we buy"
+    ],
+    "note": "stop +to bir amaçla durup bir şey yapmaktır; +ing eylemi tamamen bırakmaktır.",
+    "sentence": "We stopped [to buy] some fuel at the station.",
+    "sentence_tr": "İstasyonda biraz yakıt almak için durduk."
+  },
+  {
+    "head": "stop",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "(durup) başka şey yapmak",
+    "level": "B1",
+    "answer": "to consult",
+    "distractors": [
+      "consult",
+      "consulted",
+      "that we consult"
+    ],
+    "note": "stop +to bir amaçla durup bir şey yapmaktır; +ing eylemi tamamen bırakmaktır.",
+    "sentence": "The medical board stopped [to consult] with the chief surgeon.",
+    "sentence_tr": "Sağlık kurulu, başcerrahla istişare etmek için durdu."
+  },
+  {
+    "head": "stop",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "o eylemi bırakmak",
+    "level": "A2",
+    "answer": "smoking",
+    "distractors": [
+      "smoke",
+      "smoked",
+      "that he smoke"
+    ],
+    "note": "stop +ing yapılan bir eylemi sonlandırmaktır; +to ise bir amaçla durmaktır.",
+    "sentence": "My father stopped [smoking] after his doctor warned him.",
+    "sentence_tr": "Babam doktoru onu uyardıktan sonra sigara içmeyi bıraktı."
+  },
+  {
+    "head": "stop",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "o eylemi bırakmak",
+    "level": "A2",
+    "answer": "utilizing",
+    "distractors": [
+      "utilize",
+      "utilized",
+      "that they utilize"
+    ],
+    "note": "stop +ing yapılan bir eylemi sonlandırmaktır; +to ise bir amaçla durmaktır.",
+    "sentence": "The chemical laboratory stopped [utilizing] hazardous mercury elements.",
+    "sentence_tr": "Kimya laboratuvarı tehlikeli cıva elementlerini kullanmayı bıraktı."
+  },
+  {
+    "head": "try",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... yapmaya çalışmak (çaba)",
+    "level": "A2",
+    "answer": "to open",
+    "distractors": [
+      "open",
+      "opened",
+      "that we open"
+    ],
+    "note": "try +to çaba sarf ederek yapmaya çalışmaktır; +ing deneme amaçlı yapmaktır.",
+    "sentence": "I tried [to open] the heavy wooden window yesterday.",
+    "sentence_tr": "Dün ağır ahşap pencereyi açmaya çalıştım."
+  },
+  {
+    "head": "try",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... yapmaya çalışmak (çaba)",
+    "level": "A2",
+    "answer": "to cure",
+    "distractors": [
+      "cure",
+      "cured",
+      "that they cure"
+    ],
+    "note": "try +to çaba sarf ederek yapmaya çalışmaktır; +ing deneme amaçlı yapmaktır.",
+    "sentence": "Experienced doctors tried [to cure] the rare viral infection.",
+    "sentence_tr": "Deneyimli doktorlar nadir görülen viral enfeksiyonu tedavi etmeye çalıştılar."
+  },
+  {
+    "head": "try",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "deneme olsun diye ... yapmak",
+    "level": "B2",
+    "answer": "adding",
+    "distractors": [
+      "add",
+      "added",
+      "that we add"
+    ],
+    "note": "try +ing çözüm yolu olarak denemek demektir; +to ise çaba sarf etmektir.",
+    "sentence": "If the soup is bland, try [adding] some salt.",
+    "sentence_tr": "Eğer çorba tatsızsa biraz tuz eklemeyi dene."
+  },
+  {
+    "head": "try",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "deneme olsun diye ... yapmak",
+    "level": "B2",
+    "answer": "modifying",
+    "distractors": [
+      "modify",
+      "modified",
+      "that we modify"
+    ],
+    "note": "try +ing çözüm yolu olarak denemek demektir; +to ise çaba sarf etmektir.",
+    "sentence": "Try [modifying] the software code if the system remains slow.",
+    "sentence_tr": "Sistem yavaş kalmaya devam ederse yazılım kodunu değiştirmeyi deneyin."
+  },
+  {
+    "head": "regret",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "üzülerek bildirmek (regret to say)",
+    "level": "C1",
+    "answer": "to inform",
+    "distractors": [
+      "inform",
+      "informed",
+      "that we inform"
+    ],
+    "note": "regret +to üzücü bir haberi vermeden öncedir; +ing geçmişteki pişmanlığı anlatır.",
+    "sentence": "I regret [to inform] you that your application failed.",
+    "sentence_tr": "Başvurunuzun başarısız olduğunu size bildirmekten üzüntü duyuyorum."
+  },
+  {
+    "head": "regret",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "üzülerek bildirmek (regret to say)",
+    "level": "C1",
+    "answer": "to announce",
+    "distractors": [
+      "announce",
+      "announced",
+      "that we announce"
+    ],
+    "note": "regret +to üzücü bir haberi vermeden öncedir; +ing geçmişteki pişmanlığı anlatır.",
+    "sentence": "The board regrets [to announce] the sudden budget reduction.",
+    "sentence_tr": "Yönetim kurulu, ani bütçe kesintisini duyurmaktan üzüntü duyar."
+  },
+  {
+    "head": "regret",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "yaptığına pişman olmak",
+    "level": "B2",
+    "answer": "buying",
+    "distractors": [
+      "buy",
+      "bought",
+      "that she buy"
+    ],
+    "note": "regret +ing geçmişte yapılan bir şeyden pişmanlıktır; +to üzücü haber vermektir.",
+    "sentence": "She regrets [buying] that expensive and useless mobile phone.",
+    "sentence_tr": "O pahalı ve kullanışsız cep telefonunu satın aldığına pişman."
+  },
+  {
+    "head": "regret",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "yaptığına pişman olmak",
+    "level": "B2",
+    "answer": "rejecting",
+    "distractors": [
+      "reject",
+      "rejected",
+      "that they reject"
+    ],
+    "note": "regret +ing geçmişte yapılan bir şeyden pişmanlıktır; +to üzücü haber vermektir.",
+    "sentence": "The manager deeply regretted [rejecting] our cooperative business offer.",
+    "sentence_tr": "Müdür, iş birliği teklifimizi reddettiğine derinden pişman oldu."
+  },
+  {
+    "head": "go on",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "bitirip sonra ...e geçmek",
+    "level": "B2",
+    "answer": "to discuss",
+    "distractors": [
+      "discuss",
+      "discussed",
+      "that we discuss"
+    ],
+    "note": "go on +to yeni bir eyleme geçmektir; +ing aynı eyleme devam etmektir.",
+    "sentence": "After greeting us, she went on [to discuss] plans.",
+    "sentence_tr": "Bizi selamladıktan sonra planları tartışmaya geçti."
+  },
+  {
+    "head": "go on",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "bitirip sonra ...e geçmek",
+    "level": "B2",
+    "answer": "to pursue",
+    "distractors": [
+      "pursue",
+      "pursued",
+      "that we pursue"
+    ],
+    "note": "go on +to yeni bir eyleme geçmektir; +ing aynı eyleme devam etmektir.",
+    "sentence": "Having finished college, he went on [to pursue] biology.",
+    "sentence_tr": "Koleji bitirdikten sonra biyoloji alanında ilerlemeye geçti."
+  },
+  {
+    "head": "go on",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... yapmaya devam etmek",
+    "level": "B2",
+    "answer": "talking",
+    "distractors": [
+      "talk",
+      "talked",
+      "that we talk"
+    ],
+    "note": "go on +ing kesintisiz olarak aynı işe devam etmektir; +to yeni eyleme geçmektir.",
+    "sentence": "Please do not go on [talking] during my presentation.",
+    "sentence_tr": "Lütfen sunumum sırasında konuşmaya devam etmeyin."
+  },
+  {
+    "head": "go on",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "... yapmaya devam etmek",
+    "level": "B2",
+    "answer": "investigating",
+    "distractors": [
+      "investigate",
+      "investigated",
+      "that they investigate"
+    ],
+    "note": "go on +ing kesintisiz olarak aynı işe devam etmektir; +to yeni eyleme geçmektir.",
+    "sentence": "The detective went on [investigating] the mysterious theft case.",
+    "sentence_tr": "Dedektif gizemli hırsızlık vakasını araştırmaya devam etti."
+  },
+  {
+    "head": "mean",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "niyet etmek",
+    "level": "B2",
+    "answer": "to hurt",
+    "distractors": [
+      "hurt",
+      "hurts",
+      "that he hurt"
+    ],
+    "note": "mean +to niyet etmek/kastetmektir; +ing ise bir şeyin sonucunu/anlamını belirtir.",
+    "sentence": "I did not mean [to hurt] your feelings today.",
+    "sentence_tr": "Bugün duygularını incitmek istemedim."
+  },
+  {
+    "head": "mean",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "niyet etmek",
+    "level": "B2",
+    "answer": "to offend",
+    "distractors": [
+      "offend",
+      "offends",
+      "that he offend"
+    ],
+    "note": "mean +to niyet etmek/kastetmektir; +ing ise bir şeyin sonucunu/anlamını belirtir.",
+    "sentence": "The politician did not mean [to offend] the local residents.",
+    "sentence_tr": "Siyasetçi yerel halkı gücendirmeyi amaçlamamıştı."
+  },
+  {
+    "head": "mean",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "anlamına gelmek / gerektirmek",
+    "level": "B2",
+    "answer": "waiting",
+    "distractors": [
+      "wait",
+      "waited",
+      "that we wait"
+    ],
+    "note": "mean +ing bir sonucun anlamını belirtir; +to ise niyet etmek/kastetmektir.",
+    "sentence": "Taking this late flight means [waiting] at the airport.",
+    "sentence_tr": "Bu geç uçuşa binmek havalimanında beklemek anlamına geliyor."
+  },
+  {
+    "head": "mean",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "anlamına gelmek / gerektirmek",
+    "level": "B2",
+    "answer": "delaying",
+    "distractors": [
+      "delay",
+      "delayed",
+      "that we delay"
+    ],
+    "note": "mean +ing bir sonucun anlamını belirtir; +to ise niyet etmek/kastetmektir.",
+    "sentence": "Adopting this strict policy means [delaying] the construction project.",
+    "sentence_tr": "Bu katı politikayı benimsemek inşaat projesini geciktirmek anlamına gelir."
+  },
+  {
+    "head": "need",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... gerekmek",
+    "level": "A2",
+    "answer": "to study",
+    "distractors": [
+      "study",
+      "studied",
+      "that they study"
+    ],
+    "note": "need +to etken öznenin ihtiyacıdır; +ing ise edilgen gereklilik belirtir.",
+    "sentence": "Students need [to study] regularly for their final exams.",
+    "sentence_tr": "Öğrencilerin final sınavları için düzenli olarak çalışması gerekir."
+  },
+  {
+    "head": "need",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... gerekmek",
+    "level": "A2",
+    "answer": "to upgrade",
+    "distractors": [
+      "upgrade",
+      "upgraded",
+      "that they upgrade"
+    ],
+    "note": "need +to etken öznenin ihtiyacıdır; +ing ise edilgen gereklilik belirtir.",
+    "sentence": "The technological infrastructure needs [to upgrade] its firewall security.",
+    "sentence_tr": "Teknolojik altyapının güvenlik duvarı güvenliğini yükseltmesi gerekiyor."
+  },
+  {
+    "head": "need",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "(edilgen) ...maya ihtiyaç var",
+    "level": "C1",
+    "answer": "painting",
+    "distractors": [
+      "paint",
+      "painted",
+      "that they paint"
+    ],
+    "note": "need +ing edilgen anlamlı gereksinim bildirir; +to ise etken öznenin ihtiyacıdır.",
+    "sentence": "The dirty living room walls need [painting] this weekend.",
+    "sentence_tr": "Kirli salon duvarlarının bu hafta sonu boyanması gerekiyor."
+  },
+  {
+    "head": "need",
+    "pos": "fiil",
+    "pattern": "gerund",
+    "meaning": "(edilgen) ...maya ihtiyaç var",
+    "level": "C1",
+    "answer": "restructuring",
+    "distractors": [
+      "restructure",
+      "restructured",
+      "that we restructure"
+    ],
+    "note": "need +ing edilgen anlamlı gereksinim bildirir; +to ise etken öznenin ihtiyacıdır.",
+    "sentence": "The state's economic system needs [restructuring] after the crisis.",
+    "sentence_tr": "Krizden sonra devletin ekonomik sisteminin yeniden yapılandırılması gerekiyor."
+  },
+  {
+    "head": "want",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "birinin ... yapmasını istemek",
+    "level": "A2",
+    "answer": "to study",
+    "distractors": [
+      "study",
+      "studying",
+      "to studying"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: want + nesne + to-inf yapısı kurulur.",
+    "sentence": "My parents want me [to study] medicine at university.",
+    "sentence_tr": "Ebeveynlerim üniversitede tıp okumamı istiyor."
+  },
+  {
+    "head": "want",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "birinin ... yapmasını istemek",
+    "level": "A2",
+    "answer": "to rehearse",
+    "distractors": [
+      "rehearse",
+      "rehearsing",
+      "to rehearsing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: want + nesne + to-inf yapısı kurulur.",
+    "sentence": "The director wants the actors [to rehearse] the final scene again.",
+    "sentence_tr": "Yönetmen, oyuncuların son sahnenin provasını tekrar yapmasını istiyor."
+  },
+  {
+    "head": "ask",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "rica etmek",
+    "level": "A2",
+    "answer": "to help",
+    "distractors": [
+      "help",
+      "helping",
+      "to helping"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: ask + nesne + to-inf yapısı kurulur.",
+    "sentence": "She asked her friend [to help] with the house cleaning.",
+    "sentence_tr": "Arkadaşından ev temizliğine yardım etmesini rica etti."
+  },
+  {
+    "head": "ask",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "rica etmek",
+    "level": "A2",
+    "answer": "to submit",
+    "distractors": [
+      "submit",
+      "submitting",
+      "to submitting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: ask + nesne + to-inf yapısı kurulur.",
+    "sentence": "The committee asked the researchers [to submit] their reports immediately.",
+    "sentence_tr": "Komite, araştırmacılardan raporlarını derhal teslim etmelerini rica etti."
+  },
+  {
+    "head": "tell",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "söylemek",
+    "level": "A2",
+    "answer": "to open",
+    "distractors": [
+      "open",
+      "opening",
+      "to opening"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: tell + nesne + to-inf yapısı kurulur.",
+    "sentence": "The teacher told the children [to open] their books.",
+    "sentence_tr": "Öğretmen çocuklara kitaplarını açmalarını söyledi."
+  },
+  {
+    "head": "tell",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "söylemek",
+    "level": "A2",
+    "answer": "to defend",
+    "distractors": [
+      "defend",
+      "defending",
+      "to defending"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: tell + nesne + to-inf yapısı kurulur.",
+    "sentence": "The military commander told the soldiers [to defend] the border.",
+    "sentence_tr": "Askeri komutan, askerlere sınırı savunmalarını söyledi."
+  },
+  {
+    "head": "expect",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "beklemek",
+    "level": "B1",
+    "answer": "to finish",
+    "distractors": [
+      "finish",
+      "finishing",
+      "to finishing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: expect + nesne + to-inf yapısı kurulur.",
+    "sentence": "My manager expects me [to finish] the work by Friday.",
+    "sentence_tr": "Müdürüm işi cumaya kadar bitirmemi bekliyor."
+  },
+  {
+    "head": "expect",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "beklemek",
+    "level": "B1",
+    "answer": "to recover",
+    "distractors": [
+      "recover",
+      "recovering",
+      "to recovering"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: expect + nesne + to-inf yapısı kurulur.",
+    "sentence": "Financial analysts expect the stock market [to recover] next year.",
+    "sentence_tr": "Finansal analistler, borsanın gelecek yıl toparlanmasını bekliyor."
+  },
+  {
+    "head": "allow",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "izin vermek",
+    "level": "B1",
+    "answer": "to use",
+    "distractors": [
+      "use",
+      "using",
+      "to using"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: allow + nesne + to-inf yapısı kurulur.",
+    "sentence": "The school does not allow students [to use] mobile phones.",
+    "sentence_tr": "Okul, öğrencilerin cep telefonu kullanmasına izin vermiyor."
+  },
+  {
+    "head": "allow",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "izin vermek",
+    "level": "B1",
+    "answer": "to work",
+    "distractors": [
+      "work",
+      "working",
+      "to working"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: allow + nesne + to-inf yapısı kurulur.",
+    "sentence": "The temporary visa allows foreign citizens [to work] legally here.",
+    "sentence_tr": "Geçici vize, yabancı vatandaşların burada yasal olarak çalışmasına izin verir."
+  },
+  {
+    "head": "force",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "zorlamak",
+    "level": "B1",
+    "answer": "to cancel",
+    "distractors": [
+      "cancel",
+      "canceling",
+      "to canceling"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: force + nesne + to-inf yapısı kurulur.",
+    "sentence": "The heavy rain forced us [to cancel] our picnic plans.",
+    "sentence_tr": "Şiddetli yağmur bizi piknik planlarımızı iptal etmeye zorladı."
+  },
+  {
+    "head": "force",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "zorlamak",
+    "level": "B1",
+    "answer": "to reduce",
+    "distractors": [
+      "reduce",
+      "reducing",
+      "to reducing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: force + nesne + to-inf yapısı kurulur.",
+    "sentence": "The economic sanctions forced the government [to reduce] public spending.",
+    "sentence_tr": "Ekonomik yaptırımlar hükümeti kamu harcamalarını azaltmaya zorladı."
+  },
+  {
+    "head": "persuade",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "ikna etmek",
+    "level": "B1",
+    "answer": "to join",
+    "distractors": [
+      "join",
+      "joining",
+      "to joining"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: persuade + nesne + to-inf yapısı kurulur.",
+    "sentence": "She persuaded her brother [to join] the local chess club.",
+    "sentence_tr": "Kardeşini yerel satranç kulübüne katılmaya ikna etti."
+  },
+  {
+    "head": "persuade",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "ikna etmek",
+    "level": "B1",
+    "answer": "to sign",
+    "distractors": [
+      "sign",
+      "signing",
+      "to signing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: persuade + nesne + to-inf yapısı kurulur.",
+    "sentence": "The diplomats persuaded the warring nations [to sign] a peace treaty.",
+    "sentence_tr": "Diplomatlar savaşan ulusları barış antlaşması imzalamaya ikna etti."
+  },
+  {
+    "head": "encourage",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "teşvik etmek",
+    "level": "B1",
+    "answer": "to enter",
+    "distractors": [
+      "enter",
+      "entering",
+      "to entering"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: encourage + nesne + to-inf yapısı kurulur.",
+    "sentence": "My teacher encouraged me [to enter] the local art competition.",
+    "sentence_tr": "Öğretmenim beni yerel sanat yarışmasına katılmaya teşvik etti."
+  },
+  {
+    "head": "encourage",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "teşvik etmek",
+    "level": "B1",
+    "answer": "to adopt",
+    "distractors": [
+      "adopt",
+      "adopting",
+      "to adopting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: encourage + nesne + to-inf yapısı kurulur.",
+    "sentence": "Health organizations encourage citizens [to adopt] active lifestyle habits.",
+    "sentence_tr": "Sağlık kuruluşları, vatandaşları aktif yaşam tarzı alışkanlıkları edinmeye teşvik ediyor."
+  },
+  {
+    "head": "advise",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "tavsiye etmek",
+    "level": "B1",
+    "answer": "to sleep",
+    "distractors": [
+      "sleep",
+      "sleeping",
+      "to sleeping"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: advise + nesne + to-inf yapısı kurulur.",
+    "sentence": "The doctor advised him [to sleep] at least eight hours.",
+    "sentence_tr": "Doktor ona en az sekiz saat uyumasını tavsiye etti."
+  },
+  {
+    "head": "advise",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "tavsiye etmek",
+    "level": "B1",
+    "answer": "to diversify",
+    "distractors": [
+      "diversify",
+      "diversifying",
+      "to diversifying"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: advise + nesne + to-inf yapısı kurulur.",
+    "sentence": "Economic consultants advise the corporation [to diversify] its global investments.",
+    "sentence_tr": "Ekonomik danışmanlar kuruma küresel yatırımlarını çeşitlendirmesini tavsiye ediyor."
+  },
+  {
+    "head": "remind",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "hatırlatmak",
+    "level": "B1",
+    "answer": "to lock",
+    "distractors": [
+      "lock",
+      "locking",
+      "to locking"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: remind + nesne + to-inf yapısı kurulur.",
+    "sentence": "Please remind me [to lock] the back door before leaving.",
+    "sentence_tr": "Lütfen çıkmadan önce arka kapıyı kilitlememi bana hatırlat."
+  },
+  {
+    "head": "remind",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "hatırlatmak",
+    "level": "B1",
+    "answer": "to renew",
+    "distractors": [
+      "renew",
+      "renewing",
+      "to renewing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: remind + nesne + to-inf yapısı kurulur.",
+    "sentence": "The system reminds administrative officers [to renew] licenses annually.",
+    "sentence_tr": "Sistem, idari memurlara lisansları yıllık olarak yenilemelerini hatırlatır."
+  },
+  {
+    "head": "invite",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "davet etmek",
+    "level": "B1",
+    "answer": "to attend",
+    "distractors": [
+      "attend",
+      "attending",
+      "to attending"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: invite + nesne + to-inf yapısı kurulur.",
+    "sentence": "They invited us [to attend] their small wedding ceremony.",
+    "sentence_tr": "Bizi küçük düğün törenlerine katılmaya davet ettiler."
+  },
+  {
+    "head": "invite",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "davet etmek",
+    "level": "B1",
+    "answer": "to speak",
+    "distractors": [
+      "speak",
+      "speaking",
+      "to speaking"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: invite + nesne + to-inf yapısı kurulur.",
+    "sentence": "The university invited international experts [to speak] at the conference.",
+    "sentence_tr": "Üniversite, uluslararası uzmanları konferansta konuşma yapmaya davet etti."
+  },
+  {
+    "head": "warn",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "uyarmak",
+    "level": "B1",
+    "answer": "not to swim",
+    "distractors": [
+      "not swim",
+      "not swimming",
+      "to not swimming"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: warn + nesne + to-inf yapısı kurulur.",
+    "sentence": "The lifeguard warned the tourists [not to swim] today.",
+    "sentence_tr": "Cankurtaran turistleri bugün yüzmemeleri konusunda uyardı."
+  },
+  {
+    "head": "warn",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "uyarmak",
+    "level": "B1",
+    "answer": "to wear",
+    "distractors": [
+      "wear",
+      "wearing",
+      "to wearing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: warn + nesne + to-inf yapısı kurulur.",
+    "sentence": "Safety experts warn industrial workers [to wear] protective protective gear.",
+    "sentence_tr": "Güvenlik uzmanları sanayi işçilerini koruyucu ekipman giymeleri konusunda uyarıyor."
+  },
+  {
+    "head": "teach",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "öğretmek",
+    "level": "B1",
+    "answer": "to swim",
+    "distractors": [
+      "swim",
+      "swimming",
+      "to swimming"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: teach + nesne + to-inf yapısı kurulur.",
+    "sentence": "My uncle taught me [to swim] when I was six.",
+    "sentence_tr": "Amcam bana altı yaşımdayken yüzmeyi öğretti."
+  },
+  {
+    "head": "teach",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "öğretmek",
+    "level": "B1",
+    "answer": "to operate",
+    "distractors": [
+      "operate",
+      "operating",
+      "to operating"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: teach + nesne + to-inf yapısı kurulur.",
+    "sentence": "The senior engineer teaches newly hired technicians [to operate] machinery.",
+    "sentence_tr": "Kıdemli mühendis, yeni işe alınan teknisyenlere makineleri çalıştırmayı öğretir."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "... yaptırmak / ikna etmek",
+    "level": "B1",
+    "answer": "to wash",
+    "distractors": [
+      "wash",
+      "washing",
+      "to washing"
+    ],
+    "note": "get nesneden sonra to-mastar alır; make/let gibi yalın mastar almaz.",
+    "sentence": "I finally got my brother [to wash] my dirty car.",
+    "sentence_tr": "Sonunda kardeşimi kirli arabamı yıkamaya ikna ettim."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "... yaptırmak / ikna etmek",
+    "level": "B1",
+    "answer": "to share",
+    "distractors": [
+      "share",
+      "sharing",
+      "to sharing"
+    ],
+    "note": "get nesneden sonra to-mastar alır; make/let gibi yalın mastar almaz.",
+    "sentence": "The marketing department got the consumers [to share] their feedback.",
+    "sentence_tr": "Pazarlama departmanı, tüketicileri geri bildirimlerini paylaşmaya ikna etti."
+  },
+  {
+    "head": "help",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "yardım etmek",
+    "level": "A2",
+    "answer": "to find",
+    "distractors": [
+      "finding",
+      "to finding",
+      "finds"
+    ],
+    "note": "help fiili nesneden sonra to-mastar veya yalın mastar alabilir.",
+    "sentence": "The friendly stranger helped us [to find] our hotel.",
+    "sentence_tr": "Dost canlısı yabancı otelimizi bulmamıza yardım etti."
+  },
+  {
+    "head": "help",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "yardım etmek",
+    "level": "A2",
+    "answer": "to increase",
+    "distractors": [
+      "increasing",
+      "to increasing",
+      "increases"
+    ],
+    "note": "help fiili nesneden sonra to-mastar veya yalın mastar alabilir.",
+    "sentence": "This modern agricultural technology helps farmers [to increase] crop production.",
+    "sentence_tr": "Bu modern tarım teknolojisi, çiftçilerin ürün üretimini artırmasına yardım ediyor."
+  },
+  {
+    "head": "cause",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "neden olmak",
+    "level": "B2",
+    "answer": "to crash",
+    "distractors": [
+      "crash",
+      "crashing",
+      "to crashing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: cause + nesne + to-inf yapısı kurulur.",
+    "sentence": "The sudden power outage caused the computer [to crash].",
+    "sentence_tr": "Ani elektrik kesintisi bilgisayarın çökmesine neden oldu."
+  },
+  {
+    "head": "cause",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "neden olmak",
+    "level": "B2",
+    "answer": "to decline",
+    "distractors": [
+      "decline",
+      "declining",
+      "to declining"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: cause + nesne + to-inf yapısı kurulur.",
+    "sentence": "Uncontrolled factory waste causes marine life [to decline] rapidly.",
+    "sentence_tr": "Kontrolsüz fabrika atıkları, deniz yaşamının hızla azalmasına neden oluyor."
+  },
+  {
+    "head": "enable",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "olanak sağlamak",
+    "level": "B2",
+    "answer": "to pay",
+    "distractors": [
+      "pay",
+      "paying",
+      "to paying"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: enable + nesne + to-inf yapısı kurulur.",
+    "sentence": "This online system enables citizens [to pay] taxes easily.",
+    "sentence_tr": "Bu çevrimiçi sistem, vatandaşların vergileri kolayca ödemesine olanak sağlar."
+  },
+  {
+    "head": "enable",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "olanak sağlamak",
+    "level": "B2",
+    "answer": "to perform",
+    "distractors": [
+      "perform",
+      "performing",
+      "to performing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: enable + nesne + to-inf yapısı kurulur.",
+    "sentence": "Advanced medical technology enables surgeons [to perform] complex heart surgeries.",
+    "sentence_tr": "Gelişmiş tıbbi teknoloji, cerrahların karmaşık kalp ameliyatları yapmasına olanak sağlar."
+  },
+  {
+    "head": "order",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "emretmek",
+    "level": "B2",
+    "answer": "to stop",
+    "distractors": [
+      "stop",
+      "stopping",
+      "to stopping"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: order + nesne + to-inf yapısı kurulur.",
+    "sentence": "The police officer ordered the driver [to stop] immediately.",
+    "sentence_tr": "Polis memuru sürücüye derhal durmasını emretti."
+  },
+  {
+    "head": "order",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "emretmek",
+    "level": "B2",
+    "answer": "to halt",
+    "distractors": [
+      "halt",
+      "halting",
+      "to halting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: order + nesne + to-inf yapısı kurulur.",
+    "sentence": "The local court ordered the major corporation [to halt] construction.",
+    "sentence_tr": "Yerel mahkeme, büyük şirkete inşaatı durdurmasını emretti."
+  },
+  {
+    "head": "permit",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "izin vermek",
+    "level": "B2",
+    "answer": "to enter",
+    "distractors": [
+      "enter",
+      "entering",
+      "to entering"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: permit + nesne + to-inf yapısı kurulur.",
+    "sentence": "The security guard did not permit us [to enter].",
+    "sentence_tr": "Güvenlik görevlisi içeri girmemize izin vermedi."
+  },
+  {
+    "head": "permit",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "izin vermek",
+    "level": "B2",
+    "answer": "to study",
+    "distractors": [
+      "study",
+      "studying",
+      "to studying"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: permit + nesne + to-inf yapısı kurulur.",
+    "sentence": "The strict environmental law permits researchers [to study] endangered species.",
+    "sentence_tr": "Katı çevre yasası, araştırmacıların nesli tükenmekte olan türleri incelemesine izin verir."
+  },
+  {
+    "head": "require",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "şart koşmak",
+    "level": "B2",
+    "answer": "to choose",
+    "distractors": [
+      "choose",
+      "choosing",
+      "to choosing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: require + nesne + to-inf yapısı kurulur.",
+    "sentence": "Most online service companies require users [to choose] strong passwords.",
+    "sentence_tr": "Çevrimiçi hizmet şirketlerinin çoğu, kullanıcıların güçlü şifreler seçmesini şart koşar."
+  },
+  {
+    "head": "require",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "şart koşmak",
+    "level": "B2",
+    "answer": "to install",
+    "distractors": [
+      "install",
+      "installing",
+      "to installing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: require + nesne + to-inf yapısı kurulur.",
+    "sentence": "International safety standards require factory owners [to install] fire alarms.",
+    "sentence_tr": "Uluslararası güvenlik standartları, fabrika sahiplerinin yangın alarmı kurmasını şart koşar."
+  },
+  {
+    "head": "instruct",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "talimat vermek",
+    "level": "B2",
+    "answer": "to fasten",
+    "distractors": [
+      "fasten",
+      "fastening",
+      "to fastening"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: instruct + nesne + to-inf yapısı kurulur.",
+    "sentence": "The flight attendant instructed passengers [to fasten] their seatbelts.",
+    "sentence_tr": "Uçuş görevlisi yolculara emniyet kemerlerini bağlamaları talimatını verdi."
+  },
+  {
+    "head": "instruct",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "talimat vermek",
+    "level": "B2",
+    "answer": "to wear",
+    "distractors": [
+      "wear",
+      "wearing",
+      "to wearing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: instruct + nesne + to-inf yapısı kurulur.",
+    "sentence": "The laboratory manual instructs apprentice researchers [to wear] protective gloves.",
+    "sentence_tr": "Laboratuvar kılavuzu, çırak araştırmacılara koruyucu eldiven giymeleri talimatını verir."
+  },
+  {
+    "head": "convince",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "ikna etmek",
+    "level": "B2",
+    "answer": "to accept",
+    "distractors": [
+      "accept",
+      "accepting",
+      "to accepting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: convince + nesne + to-inf yapısı kurulur.",
+    "sentence": "I could not convince my sister [to accept] my apology.",
+    "sentence_tr": "Kız kardeşimi özrümü kabul etmeye ikna edemedim."
+  },
+  {
+    "head": "convince",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "ikna etmek",
+    "level": "B2",
+    "answer": "to support",
+    "distractors": [
+      "support",
+      "supporting",
+      "to supporting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: convince + nesne + to-inf yapısı kurulur.",
+    "sentence": "We convinced the investment committee [to support] our software start-up.",
+    "sentence_tr": "Yatırım komitesini yazılım girişimimizi desteklemeye ikna ettik."
+  },
+  {
+    "head": "urge",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "ısrarla istemek",
+    "level": "C1",
+    "answer": "to get",
+    "distractors": [
+      "get",
+      "getting",
+      "to getting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: urge + nesne + to-inf yapısı kurulur.",
+    "sentence": "The health department urges everyone [to get] the vaccine.",
+    "sentence_tr": "Sağlık bakanlığı herkesi aşı olmaya ısrarla teşvik ediyor."
+  },
+  {
+    "head": "urge",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "ısrarla istemek",
+    "level": "C1",
+    "answer": "to reduce",
+    "distractors": [
+      "reduce",
+      "reducing",
+      "to reducing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: urge + nesne + to-inf yapısı kurulur.",
+    "sentence": "Environmental groups urge major national governments [to reduce] greenhouse emissions.",
+    "sentence_tr": "Çevre grupları, büyük ulusal hükümetleri sera emisyonlarını azaltmaya ısrarla teşvik ediyor."
+  },
+  {
+    "head": "compel",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "mecbur etmek",
+    "level": "C1",
+    "answer": "to sell",
+    "distractors": [
+      "sell",
+      "selling",
+      "to selling"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: compel + nesne + to-inf yapısı kurulur.",
+    "sentence": "The lack of money compelled him [to sell] his bicycle.",
+    "sentence_tr": "Para eksikliği onu bisikletini satmaya mecbur etti."
+  },
+  {
+    "head": "compel",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "mecbur etmek",
+    "level": "C1",
+    "answer": "to lay off",
+    "distractors": [
+      "lay off",
+      "laying off",
+      "to laying off"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: compel + nesne + to-inf yapısı kurulur.",
+    "sentence": "Unfavorable economic realities compel small businesses [to lay off] workers.",
+    "sentence_tr": "Olumsuz ekonomik gerçekler, küçük işletmeleri işçi çıkarmaya mecbur bırakıyor."
+  },
+  {
+    "head": "oblige",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "zorunda bırakmak",
+    "level": "C1",
+    "answer": "to wait",
+    "distractors": [
+      "wait",
+      "waiting",
+      "to waiting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: oblige + nesne + to-inf yapısı kurulur.",
+    "sentence": "The heavy snow obliged the drivers [to wait] in silence.",
+    "sentence_tr": "Yoğun kar, sürücüleri sessizlik içinde beklemek zorunda bıraktı."
+  },
+  {
+    "head": "oblige",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "zorunda bırakmak",
+    "level": "C1",
+    "answer": "to provide",
+    "distractors": [
+      "provide",
+      "providing",
+      "to providing"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: oblige + nesne + to-inf yapısı kurulur.",
+    "sentence": "Standard safety regulations oblige industrial employers [to provide] medical insurance.",
+    "sentence_tr": "Standart güvenlik düzenlemeleri, endüstriyel işverenleri sağlık sigortası sağlamak zorunda bırakır."
+  },
+  {
+    "head": "forbid",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "yasaklamak",
+    "level": "C1",
+    "answer": "to walk",
+    "distractors": [
+      "walk",
+      "walking",
+      "to walking"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: forbid + nesne + to-inf yapısı kurulur.",
+    "sentence": "The strict law forbids citizens [to walk] on the grass.",
+    "sentence_tr": "Katı kanun, vatandaşların çimlerde yürümesini yasaklamaktadır."
+  },
+  {
+    "head": "forbid",
+    "pos": "fiil",
+    "pattern": "obj_to_inf",
+    "meaning": "yasaklamak",
+    "level": "C1",
+    "answer": "to accept",
+    "distractors": [
+      "accept",
+      "accepting",
+      "to accepting"
+    ],
+    "note": "Nesneden sonra to-mastar gelir: forbid + nesne + to-inf yapısı kurulur.",
+    "sentence": "The high court forbids political candidates [to accept] anonymous donations.",
+    "sentence_tr": "Yüksek mahkeme, siyasi adayların isimsiz bağışları kabul etmesini yasaklamaktadır."
+  },
+  {
+    "head": "suggest",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "önermek",
+    "level": "B1",
+    "answer": "that he rest",
+    "distractors": [
+      "him to rest",
+      "to rest",
+      "he to rest"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "Doctors suggest [that he rest] for a few days.",
+    "sentence_tr": "Doktorlar onun birkaç gün dinlenmesini öneriyor."
+  },
+  {
+    "head": "suggest",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "önermek",
+    "level": "B1",
+    "answer": "that the university adopt",
+    "distractors": [
+      "the university to adopt",
+      "to adopt",
+      "for the university to adopt"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The committee suggested [that the university adopt] a modern grading policy.",
+    "sentence_tr": "Komite, üniversitenin modern bir notlandırma politikası benimsemesini önerdi."
+  },
+  {
+    "head": "insist",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ısrar etmek",
+    "level": "B1",
+    "answer": "that he eat",
+    "distractors": [
+      "him to eat",
+      "to eat",
+      "he to eat"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "My mother insists [that he eat] his dinner.",
+    "sentence_tr": "Annem onun akşam yemeğini yemesi konusunda ısrar ediyor."
+  },
+  {
+    "head": "insist",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ısrar etmek",
+    "level": "B1",
+    "answer": "that the witness testify",
+    "distractors": [
+      "the witness to testify",
+      "to testify",
+      "the witness to testifying"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The defense counsel insisted [that the witness testify] under oath.",
+    "sentence_tr": "Savunma avukatı tanığın yeminli ifade vermesi konusunda ısrar etti."
+  },
+  {
+    "head": "recommend",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "tavsiye etmek",
+    "level": "B1",
+    "answer": "that she read",
+    "distractors": [
+      "to read",
+      "her to read",
+      "she to read"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "Teachers recommend [that she read] this book.",
+    "sentence_tr": "Öğretmenler onun bu kitabı okumasını tavsiye ediyor."
+  },
+  {
+    "head": "recommend",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "tavsiye etmek",
+    "level": "B1",
+    "answer": "that the patient undergo",
+    "distractors": [
+      "that the patient undergoes",
+      "that the patient undergone",
+      "the patient to undergoing"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "International guidelines recommend [that the patient undergo] further clinical testing.",
+    "sentence_tr": "Uluslararası kılavuzlar hastanın daha fazla klinik teste tabi tutulmasını tavsiye ediyor."
+  },
+  {
+    "head": "demand",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "talep etmek",
+    "level": "B2",
+    "answer": "that he resign",
+    "distractors": [
+      "him to resign",
+      "that he resigns",
+      "him resigning"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The workers demand [that he resign] immediately.",
+    "sentence_tr": "İşçiler onun derhal istifa etmesini talep ediyor."
+  },
+  {
+    "head": "demand",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "talep etmek",
+    "level": "B2",
+    "answer": "that the factory suspend",
+    "distractors": [
+      "the factory to suspend",
+      "that the factory suspends",
+      "the factory suspending"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The environmental coalition demanded [that the factory suspend] its chemical operations.",
+    "sentence_tr": "Çevre koalisyonu fabrikanın kimyasal faaliyetlerini askıya almasını talep etti."
+  },
+  {
+    "head": "propose",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "önermek",
+    "level": "B2",
+    "answer": "that she join",
+    "distractors": [
+      "her to join",
+      "that she joins",
+      "she to join"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "I propose [that she join] our research team.",
+    "sentence_tr": "Onun araştırma ekibimize katılmasını öneriyorum."
+  },
+  {
+    "head": "propose",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "önermek",
+    "level": "B2",
+    "answer": "that the department allocate",
+    "distractors": [
+      "the department to allocate",
+      "that the department allocates",
+      "the department to allocating"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The lead researcher proposed [that the department allocate] more funds.",
+    "sentence_tr": "Baş araştırmacı departmanın daha fazla fon tahsis etmesini önerdi."
+  },
+  {
+    "head": "request",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "rica etmek",
+    "level": "B2",
+    "answer": "that he be",
+    "distractors": [
+      "that he is",
+      "that he was",
+      "him being"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "They request [that he be] present at the meeting.",
+    "sentence_tr": "Onun toplantıda hazır bulunmasını rica ediyorlar."
+  },
+  {
+    "head": "request",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "rica etmek",
+    "level": "B2",
+    "answer": "that the nation grant",
+    "distractors": [
+      "that the nation grants",
+      "that the nation granted",
+      "the nation granting"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The diplomatic envoy requested [that the nation grant] political asylum.",
+    "sentence_tr": "Diplomatik temsilci ülkenin siyasi sığınma hakkı tanımasını rica etti."
+  },
+  {
+    "head": "require",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "şart koşmak",
+    "level": "B2",
+    "answer": "that she wear",
+    "distractors": [
+      "that she wears",
+      "that she wore",
+      "her wearing"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "Rules require [that she wear] a uniform.",
+    "sentence_tr": "Kurallar onun üniforma giymesini şart koşuyor."
+  },
+  {
+    "head": "require",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "şart koşmak",
+    "level": "B2",
+    "answer": "that every employee wear",
+    "distractors": [
+      "that every employee wears",
+      "that every employee wore",
+      "every employee wearing"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The safety regulations require [that every employee wear] protective gear.",
+    "sentence_tr": "Güvenlik yönetmelikleri her çalışanın koruyucu ekipman giymesini şart koşuyor."
+  },
+  {
+    "head": "ask",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "istemek",
+    "level": "B2",
+    "answer": "that he stay",
+    "distractors": [
+      "that he stays",
+      "that he stayed",
+      "him staying"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "I ask [that he stay] here tonight.",
+    "sentence_tr": "Onun bu gece burada kalmasını istiyorum."
+  },
+  {
+    "head": "ask",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "istemek",
+    "level": "B2",
+    "answer": "that the student be",
+    "distractors": [
+      "that the student is",
+      "that the student was",
+      "the student being"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The principal asked [that the student be] given another opportunity.",
+    "sentence_tr": "Müdür öğrenciye başka bir fırsat verilmesini istedi."
+  },
+  {
+    "head": "order",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "emretmek",
+    "level": "B2",
+    "answer": "that he pay",
+    "distractors": [
+      "that he pays",
+      "that he paid",
+      "him paying"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The judge ordered [that he pay] the fine.",
+    "sentence_tr": "Hakim onun para cezasını ödemesini emretti."
+  },
+  {
+    "head": "order",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "emretmek",
+    "level": "B2",
+    "answer": "that the soldier remain",
+    "distractors": [
+      "that the soldier remains",
+      "that the soldier remained",
+      "the soldier remaining"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The military commander ordered [that the soldier remain] at his post.",
+    "sentence_tr": "Askeri komutan askerin görev yerinde kalmasını emretti."
+  },
+  {
+    "head": "prefer",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "tercih etmek",
+    "level": "C1",
+    "answer": "that she lead",
+    "distractors": [
+      "that she leads",
+      "that she led",
+      "she to lead"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "We prefer [that she lead] the new project.",
+    "sentence_tr": "Onun yeni projeyi yönetmesini tercih ederiz."
+  },
+  {
+    "head": "prefer",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "tercih etmek",
+    "level": "C1",
+    "answer": "that a candidate hold",
+    "distractors": [
+      "that a candidate holds",
+      "that a candidate held",
+      "candidate to hold"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "Academic institutions prefer [that a candidate hold] a doctorate degree.",
+    "sentence_tr": "Akademik kurumlar bir adayın doktora derecesine sahip olmasını tercih eder."
+  },
+  {
+    "head": "urge",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ısrarla istemek",
+    "level": "C1",
+    "answer": "that he accept",
+    "distractors": [
+      "that he accepts",
+      "that he accepted",
+      "him accepting"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "We urge [that he accept] the peace offer.",
+    "sentence_tr": "Onun barış teklifini kabul etmesini ısrarla istiyoruz."
+  },
+  {
+    "head": "urge",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ısrarla istemek",
+    "level": "C1",
+    "answer": "that the government ban",
+    "distractors": [
+      "that the government bans",
+      "that the government banned",
+      "the government banning"
+    ],
+    "note": "Subjunctive cümlelerde that'den sonraki özne tekil de olsa fiil daima yalın kalır.",
+    "sentence": "The medical board urged [that the government ban] public smoking.",
+    "sentence_tr": "Tıp kurulu hükümetin halka açık alanlarda sigara içilmesini yasaklamasını ısrarla istedi."
+  },
+  {
+    "head": "think",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "sanmak, düşünmek",
+    "level": "A1",
+    "answer": "that the train is late",
+    "distractors": [
+      "the train to be late",
+      "to be late the train",
+      "for the train being late"
+    ],
+    "note": "think fiili bir düşünceyi aktarırken that-cümlesi alır; nesne+to-mastar almaz.",
+    "sentence": "I think [that the train is late] today.",
+    "sentence_tr": "Bugün trenin geciktiğini düşünüyorum."
+  },
+  {
+    "head": "think",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "sanmak, düşünmek",
+    "level": "A1",
+    "answer": "that the interest rates will rise",
+    "distractors": [
+      "the interest rates to rise",
+      "to rise the interest rates",
+      "for rising the interest rates"
+    ],
+    "note": "think fiili bir düşünceyi aktarırken that-cümlesi alır; nesne+to-mastar almaz.",
+    "sentence": "Many economists think [that the interest rates will rise] next quarter.",
+    "sentence_tr": "Pek çok ekonomist gelecek çeyrekte faiz oranlarının artacağını düşünüyor."
+  },
+  {
+    "head": "know",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "bilmek",
+    "level": "A1",
+    "answer": "that the store is closed",
+    "distractors": [
+      "the store to be closed",
+      "the store closing",
+      "of the store closing"
+    ],
+    "note": "know fiili bir gerçeği aktarırken doğrudan that-cümlesi ile tamamlanır.",
+    "sentence": "We know [that the store is closed] on Sundays.",
+    "sentence_tr": "Mağazanın Pazar günleri kapalı olduğunu biliyoruz."
+  },
+  {
+    "head": "know",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "bilmek",
+    "level": "A1",
+    "answer": "that the ancient text was altered",
+    "distractors": [
+      "the ancient text to be altered",
+      "the ancient text altering",
+      "to alter the ancient text"
+    ],
+    "note": "know fiili bir gerçeği aktarırken doğrudan that-cümlesi ile tamamlanır.",
+    "sentence": "Scholars know [that the ancient text was altered] over time.",
+    "sentence_tr": "Bilim insanları antik metnin zaman içinde değiştirildiğini biliyorlar."
+  },
+  {
+    "head": "say",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "söylemek",
+    "level": "A1",
+    "answer": "that she loves her new job",
+    "distractors": [
+      "her to love her new job",
+      "her loving her new job",
+      "to love her new job"
+    ],
+    "note": "say fiili aktarım yaparken that-cümlesi alır; say sb to do yapısı yanlıştır.",
+    "sentence": "She says [that she loves her new job].",
+    "sentence_tr": "Yeni işini çok sevdiğini söylüyor."
+  },
+  {
+    "head": "say",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "söylemek",
+    "level": "A1",
+    "answer": "that global temperatures are rising",
+    "distractors": [
+      "global temperatures to rise",
+      "global temperatures rising",
+      "to rise global temperatures"
+    ],
+    "note": "say fiili aktarım yaparken that-cümlesi alır; say sb to do yapısı yanlıştır.",
+    "sentence": "The official report says [that global temperatures are rising] rapidly.",
+    "sentence_tr": "Resmî rapor, küresel sıcaklıkların hızla arttığını söylüyor."
+  },
+  {
+    "head": "believe",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "inanmak",
+    "level": "A2",
+    "answer": "that he will pass the test",
+    "distractors": [
+      "him passing the test",
+      "for him to pass the test",
+      "to pass the test"
+    ],
+    "note": "believe fiili bir inancı veya görüşü belirtirken that-cümlesiyle kullanılır.",
+    "sentence": "I believe [that he will pass the test] easily.",
+    "sentence_tr": "Sınavı kolayca geçeceğine inanıyorum."
+  },
+  {
+    "head": "believe",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "inanmak",
+    "level": "A2",
+    "answer": "that early humans migrated",
+    "distractors": [
+      "early humans migrating",
+      "for early humans to migrate",
+      "to migrate early humans"
+    ],
+    "note": "believe fiili bir inancı veya görüşü belirtirken that-cümlesiyle kullanılır.",
+    "sentence": "Anthropologists believe [that early humans migrated] for climate reasons.",
+    "sentence_tr": "Antropologlar ilk insanların iklimsel nedenlerle göç ettiğine inanıyor."
+  },
+  {
+    "head": "hope",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ummak",
+    "level": "A2",
+    "answer": "that the weather stays warm",
+    "distractors": [
+      "the weather staying warm",
+      "for the weather staying warm",
+      "the weather of staying warm"
+    ],
+    "note": "hope devamına to-mastar da alabildiği için, that çeldiricilerinde to-mastar kullanılmaz.",
+    "sentence": "We hope [that the weather stays warm] tomorrow.",
+    "sentence_tr": "Yarın havanın sıcak kalmasını umuyoruz."
+  },
+  {
+    "head": "hope",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ummak",
+    "level": "A2",
+    "answer": "that the new treaty works",
+    "distractors": [
+      "the new treaty working",
+      "for the new treaty working",
+      "the new treaty of working"
+    ],
+    "note": "hope devamına to-mastar da alabildiği için, that çeldiricilerinde to-mastar kullanılmaz.",
+    "sentence": "Environmentalists hope [that the new treaty works] next year.",
+    "sentence_tr": "Çevreciler yeni antlaşmanın gelecek yıl işe yaramasını umuyor."
+  },
+  {
+    "head": "expect",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "beklemek",
+    "level": "B1",
+    "answer": "that the delivery will arrive",
+    "distractors": [
+      "the delivery arriving",
+      "the delivery of arriving",
+      "for the delivery arriving"
+    ],
+    "note": "expect devamına to veya nesne+to alabildiği için çeldiricilerde bu yapılar kullanılmamalıdır.",
+    "sentence": "I expect [that the delivery will arrive] today.",
+    "sentence_tr": "Teslimatın bugün ulaşmasını bekliyorum."
+  },
+  {
+    "head": "expect",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "beklemek",
+    "level": "B1",
+    "answer": "that the merger will stimulate market growth",
+    "distractors": [
+      "the merger stimulating market growth",
+      "the merger of stimulating market growth",
+      "for the merger stimulating market growth"
+    ],
+    "note": "expect devamına to veya nesne+to alabildiği için çeldiricilerde bu yapılar kullanılmamalıdır.",
+    "sentence": "Analysts expect [that the merger will stimulate market growth] significantly.",
+    "sentence_tr": "Analistler birleşmenin pazar büyümesini önemli ölçüde canlandırmasını bekliyor."
+  },
+  {
+    "head": "realize",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "fark etmek",
+    "level": "B1",
+    "answer": "that she forgot her car keys",
+    "distractors": [
+      "her to forget her car keys",
+      "her forgetting her car keys",
+      "to forget her car keys"
+    ],
+    "note": "realize bir durumun farkına varıldığını belirtirken that-cümlesi alır.",
+    "sentence": "She realized [that she forgot her car keys] inside.",
+    "sentence_tr": "Araba anahtarlarını içeride unuttuğunu fark etti."
+  },
+  {
+    "head": "realize",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "fark etmek",
+    "level": "B1",
+    "answer": "that the ancient document was authentic",
+    "distractors": [
+      "the ancient document to be authentic",
+      "the ancient document being authentic",
+      "to be authentic the ancient document"
+    ],
+    "note": "realize bir durumun farkına varıldığını belirtirken that-cümlesi alır.",
+    "sentence": "Historians realized [that the ancient document was authentic] after testing.",
+    "sentence_tr": "Tarihçiler testlerden sonra antik belgenin otantik olduğunu fark ettiler."
+  },
+  {
+    "head": "notice",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "fark etmek",
+    "level": "B1",
+    "answer": "that the window was open",
+    "distractors": [
+      "the window to be open",
+      "to be open the window",
+      "for the window being open"
+    ],
+    "note": "notice algı fiili olarak nesne+yalın/gerund alabildiğinden çeldiricilerde to-mastar tercih edilir.",
+    "sentence": "He noticed [that the window was open] last night.",
+    "sentence_tr": "Dün gece pencerenin açık olduğunu fark etti."
+  },
+  {
+    "head": "notice",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "fark etmek",
+    "level": "B1",
+    "answer": "that the star emitted unusual radiation",
+    "distractors": [
+      "the star to emit unusual radiation",
+      "to emit unusual radiation the star",
+      "for the star emitting unusual radiation"
+    ],
+    "note": "notice algı fiili olarak nesne+yalın/gerund alabildiğinden çeldiricilerde to-mastar tercih edilir.",
+    "sentence": "Astronomers noticed [that the star emitted unusual radiation] patterns.",
+    "sentence_tr": "Gökbilimciler yıldızın olağan dışı radyasyon kalıpları yaydığını fark ettiler."
+  },
+  {
+    "head": "agree",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "hemfikir olmak",
+    "level": "B1",
+    "answer": "that the plan is too risky",
+    "distractors": [
+      "the plan being too risky",
+      "the plan of being too risky",
+      "for the plan being too risky"
+    ],
+    "note": "agree devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "They agree [that the plan is too risky].",
+    "sentence_tr": "Planın çok riskli olduğu konusunda hemfikirler."
+  },
+  {
+    "head": "agree",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "hemfikir olmak",
+    "level": "B1",
+    "answer": "that climate change threatens biodiversity",
+    "distractors": [
+      "climate change threatening biodiversity",
+      "for climate change threatening biodiversity",
+      "climate change of threatening biodiversity"
+    ],
+    "note": "agree devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "Scholars agree [that climate change threatens biodiversity] worldwide.",
+    "sentence_tr": "Bilim insanları iklim değişikliğinin dünya çapında biyoçeşitliliği tehdit ettiği konusunda hemfikir."
+  },
+  {
+    "head": "suppose",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "sanmak",
+    "level": "B1",
+    "answer": "that the shop is closed",
+    "distractors": [
+      "the shop to be closed",
+      "the shop closing",
+      "for the shop being closed"
+    ],
+    "note": "suppose varsayım veya olasılık bildirirken bir that-cümlesi ile tamamlanır.",
+    "sentence": "I suppose [that the shop is closed] now.",
+    "sentence_tr": "Dükkanın şu an kapalı olduğunu sanıyorum."
+  },
+  {
+    "head": "suppose",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "sanmak",
+    "level": "B1",
+    "answer": "that the volcanic island formed",
+    "distractors": [
+      "the volcanic island to form",
+      "the volcanic island forming",
+      "for the volcanic island forming"
+    ],
+    "note": "suppose varsayım veya olasılık bildirirken bir that-cümlesi ile tamamlanır.",
+    "sentence": "Geologists suppose [that the volcanic island formed] recently.",
+    "sentence_tr": "Jeologlar volkanik adanın yakın zamanda oluştuğunu tahmin ediyorlar."
+  },
+  {
+    "head": "explain",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "açıklamak",
+    "level": "B1",
+    "answer": "that he was late",
+    "distractors": [
+      "him to be late",
+      "him being late",
+      "to be late him"
+    ],
+    "note": "explain fiili nesne+to-mastar almaz, doğrudan that-cümlesiyle tamamlanır.",
+    "sentence": "He explained [that he was late] because of traffic.",
+    "sentence_tr": "Trafik yüzünden geç kaldığını açıkladı."
+  },
+  {
+    "head": "explain",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "açıklamak",
+    "level": "B1",
+    "answer": "that the experiment failed",
+    "distractors": [
+      "the experiment to fail",
+      "the experiment failing",
+      "to fail the experiment"
+    ],
+    "note": "explain fiili nesne+to-mastar almaz, doğrudan that-cümlesiyle tamamlanır.",
+    "sentence": "The scientists explained [that the experiment failed] due to contamination.",
+    "sentence_tr": "Bilim insanları deneyin kirlenme nedeniyle başarısız olduğunu açıkladılar."
+  },
+  {
+    "head": "admit",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "kabul etmek",
+    "level": "B1",
+    "answer": "that he made a big mistake",
+    "distractors": [
+      "him to make a big mistake",
+      "to make a big mistake",
+      "for him to make a mistake"
+    ],
+    "note": "admit devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "He admitted [that he made a big mistake] yesterday.",
+    "sentence_tr": "Dün büyük bir hata yaptığını kabul etti."
+  },
+  {
+    "head": "admit",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "kabul etmek",
+    "level": "B1",
+    "answer": "that the company faced financial struggles",
+    "distractors": [
+      "the company to face financial struggles",
+      "to face financial struggles",
+      "for the company to face struggles"
+    ],
+    "note": "admit devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "The director admitted [that the company faced financial struggles] lately.",
+    "sentence_tr": "Direktör şirketin son zamanlarda finansal zorluklarla karşı karşıya kaldığını kabul etti."
+  },
+  {
+    "head": "deny",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "inkâr etmek",
+    "level": "B1",
+    "answer": "that she broke the expensive vase",
+    "distractors": [
+      "her to break the expensive vase",
+      "to break the expensive vase",
+      "for her to break the vase"
+    ],
+    "note": "deny devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "She denied [that she broke the expensive vase].",
+    "sentence_tr": "Pahalı vazoyu kırdığını inkâr etti."
+  },
+  {
+    "head": "deny",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "inkâr etmek",
+    "level": "B1",
+    "answer": "that the state budget was mismanaged",
+    "distractors": [
+      "the state budget to be mismanaged",
+      "to be mismanaged the state budget",
+      "for the state budget to be mismanaged"
+    ],
+    "note": "deny devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "The minister denied [that the state budget was mismanaged] intentionally.",
+    "sentence_tr": "Bakan, devlet bütçesinin kasıtlı olarak kötü yönetildiğini inkâr etti."
+  },
+  {
+    "head": "promise",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "söz vermek",
+    "level": "B1",
+    "answer": "that he would call me",
+    "distractors": [
+      "him calling me",
+      "his calling me",
+      "for calling me"
+    ],
+    "note": "promise devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "He promised [that he would call me] later.",
+    "sentence_tr": "Beni daha sonra arayacağına söz verdi."
+  },
+  {
+    "head": "promise",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "söz vermek",
+    "level": "B1",
+    "answer": "that she would reform the tax system",
+    "distractors": [
+      "her reforming the tax system",
+      "her of reforming the tax system",
+      "for her reforming the tax system"
+    ],
+    "note": "promise devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "The candidate promised [that she would reform the tax system] immediately.",
+    "sentence_tr": "Aday, vergi sisteminde hemen reform yapacağına söz verdi."
+  },
+  {
+    "head": "warn",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "uyarmak",
+    "level": "B1",
+    "answer": "that the road was very slippery",
+    "distractors": [
+      "the road being very slippery",
+      "the road of being slippery",
+      "for the road being slippery"
+    ],
+    "note": "warn devamına nesne+to-mastar alabildiği için çeldiricilerde bu yapı kullanılmamalıdır.",
+    "sentence": "They warned [that the road was very slippery].",
+    "sentence_tr": "Yolun çok kaygan olduğu konusunda uyardılar."
+  },
+  {
+    "head": "warn",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "uyarmak",
+    "level": "B1",
+    "answer": "that the incoming hurricane would hit",
+    "distractors": [
+      "the incoming hurricane hitting",
+      "the incoming hurricane of hitting",
+      "for the incoming hurricane hitting"
+    ],
+    "note": "warn devamına nesne+to-mastar alabildiği için çeldiricilerde bu yapı kullanılmamalıdır.",
+    "sentence": "Meteorologists warned [that the incoming hurricane would hit] coastal cities.",
+    "sentence_tr": "Meteorologlar yaklaşan kasırganın kıyı şehirlerini vuracağı konusunda uyardı."
+  },
+  {
+    "head": "complain",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "şikâyet etmek",
+    "level": "B2",
+    "answer": "that the hotel room was cold",
+    "distractors": [
+      "the hotel room to be cold",
+      "to be cold the hotel room",
+      "for the hotel room to be cold"
+    ],
+    "note": "complain devamına about+gerund alabilir; çeldiricilerde to-mastar kullanımı güvenlidir.",
+    "sentence": "Guests complained [that the hotel room was cold].",
+    "sentence_tr": "Misafirler otel odasının soğuk olmasından şikayet ettiler."
+  },
+  {
+    "head": "complain",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "şikâyet etmek",
+    "level": "B2",
+    "answer": "that the municipal public transit services were inadequate",
+    "distractors": [
+      "the municipal public transit services to be inadequate",
+      "to be inadequate the municipal public transit services",
+      "for the municipal public transit services to be inadequate"
+    ],
+    "note": "complain devamına about+gerund alabilir; çeldiricilerde to-mastar kullanımı güvenlidir.",
+    "sentence": "Citizens complained [that the municipal public transit services were inadequate].",
+    "sentence_tr": "Vatandaşlar belediyenin toplu taşıma hizmetlerinin yetersiz olmasından şikâyet etti."
+  },
+  {
+    "head": "claim",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "iddia etmek",
+    "level": "B2",
+    "answer": "that he saw a rare bird",
+    "distractors": [
+      "him seeing a rare bird",
+      "his seeing a rare bird",
+      "for him seeing a rare bird"
+    ],
+    "note": "claim devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "He claims [that he saw a rare bird] yesterday.",
+    "sentence_tr": "Dün nadir bir kuş gördüğünü iddia ediyor."
+  },
+  {
+    "head": "claim",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "iddia etmek",
+    "level": "B2",
+    "answer": "that the therapy reduces chronic pain",
+    "distractors": [
+      "the therapy reducing chronic pain",
+      "the therapy of reducing chronic pain",
+      "for the therapy reducing chronic pain"
+    ],
+    "note": "claim devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "The researcher claims [that the therapy reduces chronic pain] effectively.",
+    "sentence_tr": "Araştırmacı, tedavinin kronik ağrıyı etkili bir şekilde azalttığını iddia ediyor."
+  },
+  {
+    "head": "argue",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "savunmak",
+    "level": "B2",
+    "answer": "that the school rules are unfair",
+    "distractors": [
+      "the school rules to be unfair",
+      "to be unfair the school rules",
+      "the school rules being unfair"
+    ],
+    "note": "argue bir fikri savunurken that-cümlesi alır; nesne+to almaz.",
+    "sentence": "They argue [that the school rules are unfair].",
+    "sentence_tr": "Okul kurallarının adaletsiz olduğunu savunuyorlar."
+  },
+  {
+    "head": "argue",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "savunmak",
+    "level": "B2",
+    "answer": "that free will is an illusion",
+    "distractors": [
+      "free will to be an illusion",
+      "to be an illusion free will",
+      "free will being an illusion"
+    ],
+    "note": "argue bir fikri savunurken that-cümlesi alır; nesne+to almaz.",
+    "sentence": "Philosophers argue [that free will is an illusion] in modern physics.",
+    "sentence_tr": "Filozoflar, modern fizikte özgür iradenin bir illüzyon olduğunu savunurlar."
+  },
+  {
+    "head": "assume",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "varsaymak",
+    "level": "B2",
+    "answer": "that the meeting is canceled",
+    "distractors": [
+      "the meeting to be canceled",
+      "the meeting being canceled",
+      "for the meeting being canceled"
+    ],
+    "note": "assume bir olguyu varsayarken that-cümlesi alır; nesne+to almaz.",
+    "sentence": "I assume [that the meeting is canceled] today.",
+    "sentence_tr": "Toplantının bugün iptal edildiğini varsayıyorum."
+  },
+  {
+    "head": "assume",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "varsaymak",
+    "level": "B2",
+    "answer": "that consumers act rationally",
+    "distractors": [
+      "consumers to act rationally",
+      "consumers acting rationally",
+      "for consumers acting rationally"
+    ],
+    "note": "assume bir olguyu varsayarken that-cümlesi alır; nesne+to almaz.",
+    "sentence": "Economists assume [that consumers act rationally] under stable market conditions.",
+    "sentence_tr": "Ekonomistler, istikrarlı piyasa koşullarında tüketicilerin rasyonel davrandığını varsayar."
+  },
+  {
+    "head": "doubt",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "kuşku duymak",
+    "level": "B2",
+    "answer": "that they will finish on time",
+    "distractors": [
+      "them to finish on time",
+      "them finishing on time",
+      "for them to finish on time"
+    ],
+    "note": "doubt bir şeyin doğruluğundan şüphe ederken that-cümlesi ile tamamlanır.",
+    "sentence": "I doubt [that they will finish on time].",
+    "sentence_tr": "Zamanında bitireceklerinden kuşku duyuyorum."
+  },
+  {
+    "head": "doubt",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "kuşku duymak",
+    "level": "B2",
+    "answer": "that the new economic policy will cure",
+    "distractors": [
+      "the new economic policy to cure",
+      "the new economic policy curing",
+      "for the new economic policy to cure"
+    ],
+    "note": "doubt bir şeyin doğruluğundan şüphe ederken that-cümlesi ile tamamlanır.",
+    "sentence": "Skeptics doubt [that the new economic policy will cure] high inflation.",
+    "sentence_tr": "Şüpheciler, yeni ekonomik politikanın yüksek enflasyonu iyileştireceğinden kuşku duyuyor."
+  },
+  {
+    "head": "reveal",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "açığa vurmak",
+    "level": "B2",
+    "answer": "that the water was polluted",
+    "distractors": [
+      "the water to be polluted",
+      "the water being polluted",
+      "to be polluted the water"
+    ],
+    "note": "reveal gizli kalmış bir durumun ortaya çıktığını belirtirken that-cümlesi alır.",
+    "sentence": "The test revealed [that the water was polluted].",
+    "sentence_tr": "Test, suyun kirli olduğunu açığa vurdu."
+  },
+  {
+    "head": "reveal",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "açığa vurmak",
+    "level": "B2",
+    "answer": "that the ancient city was destroyed",
+    "distractors": [
+      "the ancient city to be destroyed",
+      "the ancient city being destroyed",
+      "to be destroyed the ancient city"
+    ],
+    "note": "reveal gizli kalmış bir durumun ortaya çıktığını belirtirken that-cümlesi alır.",
+    "sentence": "Excavations revealed [that the ancient city was destroyed] by fire.",
+    "sentence_tr": "Kazılar, antik kentin yangın nedeniyle yok olduğunu açığa vurdu."
+  },
+  {
+    "head": "conclude",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "sonucuna varmak",
+    "level": "B2",
+    "answer": "that the task was too difficult",
+    "distractors": [
+      "the task to be too difficult",
+      "the task being too difficult",
+      "to be too difficult the task"
+    ],
+    "note": "conclude çıkarım yapılan bir durumu aktarırken that-cümlesiyle kullanılır.",
+    "sentence": "We concluded [that the task was too difficult].",
+    "sentence_tr": "Görevin çok zor olduğu sonucuna vardık."
+  },
+  {
+    "head": "conclude",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "sonucuna varmak",
+    "level": "B2",
+    "answer": "that the experimental drug was safe",
+    "distractors": [
+      "the experimental drug to be safe",
+      "the experimental drug being safe",
+      "to be safe the experimental drug"
+    ],
+    "note": "conclude çıkarım yapılan bir durumu aktarırken that-cümlesiyle kullanılır.",
+    "sentence": "Researchers concluded [that the experimental drug was safe] for human trials.",
+    "sentence_tr": "Araştırmacılar, deney ilacının insan denemeleri için güvenli olduğu sonucuna vardılar."
+  },
+  {
+    "head": "predict",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "öngörmek",
+    "level": "B2",
+    "answer": "that it will rain",
+    "distractors": [
+      "it to rain",
+      "it raining",
+      "for it to rain"
+    ],
+    "note": "predict gelecekteki bir gelişmeyi tahmin ederken that-cümlesiyle tamamlanır.",
+    "sentence": "Meteorologists predict [that it will rain] all weekend.",
+    "sentence_tr": "Meteorologlar tüm hafta sonu yağmur yağacağını öngörüyor."
+  },
+  {
+    "head": "predict",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "öngörmek",
+    "level": "B2",
+    "answer": "that the global population will peak",
+    "distractors": [
+      "the global population to peak",
+      "the global population peaking",
+      "for the global population to peak"
+    ],
+    "note": "predict gelecekteki bir gelişmeyi tahmin ederken that-cümlesiyle tamamlanır.",
+    "sentence": "Demographers predict [that the global population will peak] soon.",
+    "sentence_tr": "Demograflar, küresel nüfusun yakında zirveye ulaşacağını öngörüyor."
+  },
+  {
+    "head": "guarantee",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "garanti etmek",
+    "level": "B2",
+    "answer": "that the phone is waterproof",
+    "distractors": [
+      "the phone being waterproof",
+      "for the phone being waterproof",
+      "the phone of being waterproof"
+    ],
+    "note": "guarantee devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "They guarantee [that the phone is waterproof].",
+    "sentence_tr": "Telefonun su geçirmez olduğunu garanti ediyorlar."
+  },
+  {
+    "head": "guarantee",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "garanti etmek",
+    "level": "B2",
+    "answer": "that all citizens have equal rights",
+    "distractors": [
+      "all citizens having equal rights",
+      "for all citizens having equal rights",
+      "all citizens of having equal rights"
+    ],
+    "note": "guarantee devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
+    "sentence": "The constitution guarantees [that all citizens have equal rights] before law.",
+    "sentence_tr": "Anayasa, tüm vatandaşların kanun önünde eşit haklara sahip olmasını garanti eder."
+  },
+  {
+    "head": "fear",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "korkmak, endişelenmek",
+    "level": "B2",
+    "answer": "that we might lose the match",
+    "distractors": [
+      "our team to lose the match",
+      "for our team to lose",
+      "of our team to lose"
+    ],
+    "note": "fear devamına to-mastar veya gerund alabildiği için çeldiricilerde bunlar kullanılmaz.",
+    "sentence": "I fear [that we might lose the match] today.",
+    "sentence_tr": "Bugün maçı kaybedebileceğimizden korkuyorum."
+  },
+  {
+    "head": "fear",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "korkmak, endişelenmek",
+    "level": "B2",
+    "answer": "that the dangerous virus will spread",
+    "distractors": [
+      "the dangerous virus to spread",
+      "for the dangerous virus to spread",
+      "of the dangerous virus to spread"
+    ],
+    "note": "fear devamına to-mastar veya gerund alabildiği için çeldiricilerde bunlar kullanılmaz.",
+    "sentence": "Doctors fear [that the dangerous virus will spread] across the continent.",
+    "sentence_tr": "Doktorlar, tehlikeli virüsün kıta geneline yayılmasından endişe ediyorlar."
+  },
+  {
+    "head": "acknowledge",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "kabul etmek",
+    "level": "C1",
+    "answer": "that he made a huge error",
+    "distractors": [
+      "him to make a huge error",
+      "to make a huge error",
+      "for him to make an error"
+    ],
+    "note": "acknowledge devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "He acknowledged [that he made a huge error] in judgment.",
+    "sentence_tr": "Karar verirken büyük bir hata yaptığını kabul etti."
+  },
+  {
+    "head": "acknowledge",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "kabul etmek",
+    "level": "C1",
+    "answer": "that the previous policy was ineffective",
+    "distractors": [
+      "the previous policy to be ineffective",
+      "to be ineffective the previous policy",
+      "for the previous policy to be ineffective"
+    ],
+    "note": "acknowledge devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "The committee acknowledged [that the previous policy was ineffective] during crisis.",
+    "sentence_tr": "Komite, kriz sırasında önceki politikanın etkisiz olduğunu kabul etti."
+  },
+  {
+    "head": "imply",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ima etmek",
+    "level": "C1",
+    "answer": "that we are not telling the truth",
+    "distractors": [
+      "us not to tell the truth",
+      "to not tell the truth",
+      "for us to not tell the truth"
+    ],
+    "note": "imply devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "Your words imply [that we are not telling the truth].",
+    "sentence_tr": "Sözlerin doğruyu söylemediğimizi ima ediyor."
+  },
+  {
+    "head": "imply",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ima etmek",
+    "level": "C1",
+    "answer": "that the nation is entering a recession",
+    "distractors": [
+      "the nation to enter a recession",
+      "to enter a recession the nation",
+      "for the nation to enter a recession"
+    ],
+    "note": "imply devamına gerund alabildiği için çeldiricilerinde gerund kullanılmamalıdır.",
+    "sentence": "The economic data implies [that the nation is entering a recession] period.",
+    "sentence_tr": "Ekonomik veriler, ülkenin bir resesyon dönemine girdiğini ima ediyor."
+  },
+  {
+    "head": "assert",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ileri sürmek",
+    "level": "C1",
+    "answer": "that she is completely innocent",
+    "distractors": [
+      "her to be completely innocent",
+      "her being completely innocent",
+      "to be innocent her"
+    ],
+    "note": "assert fiili bir iddiayı veya görüşü that-cümlesiyle vurgular; nesne+to almaz.",
+    "sentence": "She asserts [that she is completely innocent] of the crime.",
+    "sentence_tr": "Suçtan tamamen masum olduğunu ileri sürüyor."
+  },
+  {
+    "head": "assert",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ileri sürmek",
+    "level": "C1",
+    "answer": "that knowledge is derived",
+    "distractors": [
+      "knowledge to be derived",
+      "knowledge being derived",
+      "to derive knowledge"
+    ],
+    "note": "assert fiili bir iddiayı veya görüşü that-cümlesiyle vurgular; nesne+to almaz.",
+    "sentence": "The philosopher asserted [that knowledge is derived] solely from sensory experience.",
+    "sentence_tr": "Filozof, bilginin yalnızca duyusal deneyimden türetildiğini ileri sürdü."
+  },
+  {
+    "head": "maintain",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ısrarla savunmak",
+    "level": "C1",
+    "answer": "that he did not steal the bicycle",
+    "distractors": [
+      "him to not steal the bicycle",
+      "him not stealing the bicycle",
+      "to not steal the bicycle"
+    ],
+    "note": "maintain bir tezi ısrarla savunurken that-cümlesi alır; nesne+to almaz.",
+    "sentence": "He maintains [that he did not steal the bicycle].",
+    "sentence_tr": "Bisikleti çalmadığını ısrarla savunuyor."
+  },
+  {
+    "head": "maintain",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "ısrarla savunmak",
+    "level": "C1",
+    "answer": "that the original painting was destroyed",
+    "distractors": [
+      "the original painting to be destroyed",
+      "the original painting being destroyed",
+      "to destroy the original painting"
+    ],
+    "note": "maintain bir tezi ısrarla savunurken that-cümlesi alır; nesne+to almaz.",
+    "sentence": "Scholars maintain [that the original painting was destroyed] during the war.",
+    "sentence_tr": "Bilim insanları, orijinal tablonun savaş sırasında yok olduğunu ısrarla savunuyor."
+  },
+  {
+    "head": "allege",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "iddia etmek",
+    "level": "C1",
+    "answer": "that the politician accepted a huge bribe",
+    "distractors": [
+      "the politician to accept a huge bribe",
+      "the politician accepting a huge bribe",
+      "to accept a huge bribe the politician"
+    ],
+    "note": "allege fiili kanıtlanmamış iddialarda that-cümlesi alır; aktif cümlede nesne+to almaz.",
+    "sentence": "They allege [that the politician accepted a huge bribe].",
+    "sentence_tr": "Politikacının büyük bir rüşvet kabul ettiğini iddia ediyorlar."
+  },
+  {
+    "head": "allege",
+    "pos": "fiil",
+    "pattern": "that",
+    "meaning": "iddia etmek",
+    "level": "C1",
+    "answer": "that the corporation falsified its financial reports",
+    "distractors": [
+      "the corporation to falsify its financial reports",
+      "the corporation falsifying its financial reports",
+      "to falsify its financial reports"
+    ],
+    "note": "allege fiili kanıtlanmamış iddialarda that-cümlesi alır; aktif cümlede nesne+to almaz.",
+    "sentence": "Prosecutors allege [that the corporation falsified its financial reports] systematically.",
+    "sentence_tr": "Savcılar, şirketin mali raporlarını sistematik olarak tahrif ettiğini iddia ediyor."
+  },
+  {
+    "head": "want",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "istemek",
+    "level": "A1",
+    "answer": "to buy",
+    "distractors": [
+      "buying",
+      "buy",
+      "to buying"
+    ],
+    "note": "want fiili kendisinden sonra gelen eylemi daima to-mastar ile bağlar.",
+    "sentence": "I want [to buy] a new laptop next week.",
+    "sentence_tr": "Gelecek hafta yeni bir dizüstü bilgisayar almak istiyorum."
+  },
+  {
+    "head": "want",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "istemek",
+    "level": "A1",
+    "answer": "to attract",
+    "distractors": [
+      "attracting",
+      "attract",
+      "to attracting"
+    ],
+    "note": "want fiili kendisinden sonra gelen eylemi daima to-mastar ile bağlar.",
+    "sentence": "Many developing nations want [to attract] foreign direct investment.",
+    "sentence_tr": "Gelişmekte olan birçok ülke doğrudan yabancı sermaye çekmek istiyor."
+  },
+  {
+    "head": "would like",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "istemek (kibar)",
+    "level": "A2",
+    "answer": "to drink",
+    "distractors": [
+      "drinking",
+      "drink",
+      "to drinking"
+    ],
+    "note": "would like kibar bir istek bildirir ve to-mastar ile tamamlanır.",
+    "sentence": "I would like [to drink] a cup of hot tea.",
+    "sentence_tr": "Bir fincan sıcak çay içmek isterim."
+  },
+  {
+    "head": "would like",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "istemek (kibar)",
+    "level": "A2",
+    "answer": "to express",
+    "distractors": [
+      "expressing",
+      "express",
+      "to expressing"
+    ],
+    "note": "would like kibar bir istek bildirir ve to-mastar ile tamamlanır.",
+    "sentence": "The committee would like [to express] its gratitude to all donors.",
+    "sentence_tr": "Komite, tüm bağışçılara şükranlarını sunmak ister."
+  },
+  {
+    "head": "hope",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "ummak",
+    "level": "A2",
+    "answer": "to visit",
+    "distractors": [
+      "visiting",
+      "visit",
+      "to visiting"
+    ],
+    "note": "hope geleceğe yönelik bir beklenti bildirir ve to-mastar alır.",
+    "sentence": "She hopes [to visit] her grandparents during the summer holiday.",
+    "sentence_tr": "Yaz tatilinde büyükanne ve büyükbabasını ziyaret etmeyi umuyor."
+  },
+  {
+    "head": "hope",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "ummak",
+    "level": "A2",
+    "answer": "to find",
+    "distractors": [
+      "finding",
+      "find",
+      "to finding"
+    ],
+    "note": "hope geleceğe yönelik bir beklenti bildirir ve to-mastar alır.",
+    "sentence": "Scientists hope [to find] a cure for this genetic disease.",
+    "sentence_tr": "Bilim insanları bu genetik hastalığa bir tedavi bulmayı umuyor."
+  },
+  {
+    "head": "decide",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "karar vermek",
+    "level": "A2",
+    "answer": "to go",
+    "distractors": [
+      "going",
+      "go",
+      "to going"
+    ],
+    "note": "decide bir karar veya seçimi ifade etmek için to-mastar kullanır.",
+    "sentence": "We decided [to go] to Spain for our holiday.",
+    "sentence_tr": "Tatilimiz için İspanya'ya gitmeye karar verdik."
+  },
+  {
+    "head": "decide",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "karar vermek",
+    "level": "A2",
+    "answer": "to postpone",
+    "distractors": [
+      "postponing",
+      "postpone",
+      "to postponing"
+    ],
+    "note": "decide bir karar veya seçimi ifade etmek için to-mastar kullanır.",
+    "sentence": "The board decided [to postpone] the crucial merger negotiations.",
+    "sentence_tr": "Yönetim kurulu kritik birleşme görüşmelerini ertelemeye karar verdi."
+  },
+  {
+    "head": "plan",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "planlamak",
+    "level": "A2",
+    "answer": "to build",
+    "distractors": [
+      "building",
+      "build",
+      "to building"
+    ],
+    "note": "plan fiili gelecekte yapılacak bir eylemi to-mastar ile planlar.",
+    "sentence": "They plan [to build] a new house near the lake.",
+    "sentence_tr": "Gölün yakınında yeni bir ev inşa etmeyi planlıyorlar."
+  },
+  {
+    "head": "plan",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "planlamak",
+    "level": "A2",
+    "answer": "to upgrade",
+    "distractors": [
+      "upgrading",
+      "upgrade",
+      "to upgrading"
+    ],
+    "note": "plan fiili gelecekte yapılacak bir eylemi to-mastar ile planlar.",
+    "sentence": "The city plans [to upgrade] its public transportation infrastructure.",
+    "sentence_tr": "Belediye, toplu taşıma altyapısını yükseltmeyi planlıyor."
+  },
+  {
+    "head": "agree",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "kabul etmek",
+    "level": "A2",
+    "answer": "to help",
+    "distractors": [
+      "helping",
+      "help",
+      "to helping"
+    ],
+    "note": "agree bir teklifi veya şartı kabul ederken to-mastar ile kullanılır.",
+    "sentence": "He agreed [to help] us with the heavy boxes.",
+    "sentence_tr": "Ağır kutular konusunda bize yardım etmeyi kabul etti."
+  },
+  {
+    "head": "agree",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "kabul etmek",
+    "level": "A2",
+    "answer": "to reduce",
+    "distractors": [
+      "reducing",
+      "reduce",
+      "to reducing"
+    ],
+    "note": "agree bir teklifi veya şartı kabul ederken to-mastar ile kullanılır.",
+    "sentence": "Both nations agreed [to reduce] their carbon emissions significantly.",
+    "sentence_tr": "Her iki ülke de karbon emisyonlarını önemli ölçüde azaltmayı kabul etti."
+  },
+  {
+    "head": "learn",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "öğrenmek",
+    "level": "A2",
+    "answer": "to ride",
+    "distractors": [
+      "riding",
+      "ride",
+      "to riding"
+    ],
+    "note": "learn bir beceri veya yöntemi edinirken daima to-mastar alır.",
+    "sentence": "My little sister learned [to ride] a bicycle yesterday.",
+    "sentence_tr": "Küçük kız kardeşim dün bisiklete binmeyi öğrendi."
+  },
+  {
+    "head": "learn",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "öğrenmek",
+    "level": "A2",
+    "answer": "to analyze",
+    "distractors": [
+      "analyzing",
+      "analyze",
+      "to analyzing"
+    ],
+    "note": "learn bir beceri veya yöntemi edinirken daima to-mastar alır.",
+    "sentence": "Students must learn [to analyze] complex statistical data sets.",
+    "sentence_tr": "Örenciler karmaşık istatistiksel veri setlerini analiz etmeyi öğrenmelidir."
+  },
+  {
+    "head": "expect",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "beklemek",
+    "level": "B1",
+    "answer": "to arrive",
+    "distractors": [
+      "arriving",
+      "arrive",
+      "to arriving"
+    ],
+    "note": "expect gelecekte olması muhtemel eylemleri to-mastar ile niteler.",
+    "sentence": "We expect [to arrive] in London before midnight.",
+    "sentence_tr": "Gece yarısından önce Londra'ya varmayı bekliyoruz."
+  },
+  {
+    "head": "expect",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "beklemek",
+    "level": "B1",
+    "answer": "to see",
+    "distractors": [
+      "seeing",
+      "see",
+      "to seeing"
+    ],
+    "note": "expect gelecekte olması muhtemel eylemleri to-mastar ile niteler.",
+    "sentence": "Economists expect [to see] a decline in inflation rates.",
+    "sentence_tr": "Ekonomistler enflasyon oranlarında bir düşüş görmeyi bekliyor."
+  },
+  {
+    "head": "offer",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "teklif etmek",
+    "level": "B1",
+    "answer": "to carry",
+    "distractors": [
+      "carrying",
+      "carry",
+      "to carrying"
+    ],
+    "note": "offer birine yardım veya hizmet sunarken to-mastar kullanır.",
+    "sentence": "He offered [to carry] my heavy bags to the station.",
+    "sentence_tr": "Ağır çantalarımı istasyona kadar taşımayı teklif etti."
+  },
+  {
+    "head": "offer",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "teklif etmek",
+    "level": "B1",
+    "answer": "to share",
+    "distractors": [
+      "sharing",
+      "share",
+      "to sharing"
+    ],
+    "note": "offer birine yardım veya hizmet sunarken to-mastar kullanır.",
+    "sentence": "The lead researcher offered [to share] his raw data files.",
+    "sentence_tr": "Baş araştırmacı ham veri dosyalarını paylaşmayı teklif etti."
+  },
+  {
+    "head": "refuse",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "reddetmek",
+    "level": "B1",
+    "answer": "to answer",
+    "distractors": [
+      "answering",
+      "answer",
+      "to answering"
+    ],
+    "note": "refuse bir eylemi yapmayı geri çevirirken to-mastar ile kullanılır.",
+    "sentence": "She refused [to answer] his personal questions.",
+    "sentence_tr": "Onun kişisel sorularını yanıtlamayı reddetti."
+  },
+  {
+    "head": "refuse",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "reddetmek",
+    "level": "B1",
+    "answer": "to cooperate",
+    "distractors": [
+      "cooperating",
+      "cooperate",
+      "to cooperating"
+    ],
+    "note": "refuse bir eylemi yapmayı geri çevirirken to-mastar ile kullanılır.",
+    "sentence": "The witness refused [to cooperate] with the federal authorities.",
+    "sentence_tr": "Tanık, federal yetkililerle iş birliği yapmayı reddetti."
+  },
+  {
+    "head": "manage",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "başarmak",
+    "level": "B1",
+    "answer": "to fix",
+    "distractors": [
+      "fixing",
+      "fix",
+      "to fixing"
+    ],
+    "note": "manage zor bir eylemin üstesinden gelmeyi to-mastar ile anlatır.",
+    "sentence": "I managed [to fix] the computer after three hours.",
+    "sentence_tr": "Üç saatin ardından bilgisayarı tamir etmeyi başardım."
+  },
+  {
+    "head": "manage",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "başarmak",
+    "level": "B1",
+    "answer": "to stabilize",
+    "distractors": [
+      "stabilizing",
+      "stabilize",
+      "to stabilizing"
+    ],
+    "note": "manage zor bir eylemin üstesinden gelmeyi to-mastar ile anlatır.",
+    "sentence": "The developing nation managed [to stabilize] its unstable currency.",
+    "sentence_tr": "Gelişmekte olan ülke, istikrarsız para birimini istikrara kavuşturmayı başardı."
+  },
+  {
+    "head": "promise",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "söz vermek",
+    "level": "B1",
+    "answer": "to call",
+    "distractors": [
+      "calling",
+      "call",
+      "to calling"
+    ],
+    "note": "promise bir eylemi yapacağına söz verirken to-mastar alır.",
+    "sentence": "He promised [to call] me as soon as possible.",
+    "sentence_tr": "En kısa sürede beni arayacağına söz verdi."
+  },
+  {
+    "head": "promise",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "söz vermek",
+    "level": "B1",
+    "answer": "to conduct",
+    "distractors": [
+      "conducting",
+      "conduct",
+      "to conducting"
+    ],
+    "note": "promise bir eylemi yapacağına söz verirken to-mastar alır.",
+    "sentence": "The pharmaceutical company promised [to conduct] further clinical trials.",
+    "sentence_tr": "İlaç şirketi daha fazla klinik araştırma yapacağına söz verdi."
+  },
+  {
+    "head": "afford",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "gücü yetmek",
+    "level": "B1",
+    "answer": "to buy",
+    "distractors": [
+      "buying",
+      "buy",
+      "to buying"
+    ],
+    "note": "afford bir şeye maddi/manevi gücün yetmesini to-mastar ile belirtir.",
+    "sentence": "We cannot afford [to buy] a brand new car.",
+    "sentence_tr": "Yepyeni bir araba satın almaya gücümüz yetmez."
+  },
+  {
+    "head": "afford",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "gücü yetmek",
+    "level": "B1",
+    "answer": "to lose",
+    "distractors": [
+      "losing",
+      "lose",
+      "to losing"
+    ],
+    "note": "afford bir şeye maddi/manevi gücün yetmesini to-mastar ile belirtir.",
+    "sentence": "Our organization cannot afford [to lose] these talented young researchers.",
+    "sentence_tr": "Kuruluşumuz bu yetenekli genç araştırmacıları kaybetmeyi göze alamaz."
+  },
+  {
+    "head": "prepare",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "hazırlanmak",
+    "level": "B1",
+    "answer": "to take",
+    "distractors": [
+      "taking",
+      "take",
+      "to taking"
+    ],
+    "note": "prepare bir eylemi yapmaya hazır hale gelmeyi to-mastar ile belirtir.",
+    "sentence": "The students are preparing [to take] their final exams.",
+    "sentence_tr": "Öğrenciler final sınavlarına girmeye hazırlanıyorlar."
+  },
+  {
+    "head": "prepare",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "hazırlanmak",
+    "level": "B1",
+    "answer": "to respond",
+    "distractors": [
+      "responding",
+      "respond",
+      "to responding"
+    ],
+    "note": "prepare bir eylemi yapmaya hazır hale gelmeyi to-mastar ile belirtir.",
+    "sentence": "Medical institutions must prepare [to respond] to the global crisis.",
+    "sentence_tr": "Tıbbi kurumlar küresel krize yanıt vermeye hazırlanmalıdır."
+  },
+  {
+    "head": "choose",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "seçmek",
+    "level": "B1",
+    "answer": "to stay",
+    "distractors": [
+      "staying",
+      "stay",
+      "to staying"
+    ],
+    "note": "choose alternatifler arasından bir eylemi seçmeyi to-mastar ile ifade eder.",
+    "sentence": "They chose [to stay] at home instead of traveling.",
+    "sentence_tr": "Seyahat etmek yerine evde kalmayı seçtiler."
+  },
+  {
+    "head": "choose",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "seçmek",
+    "level": "B1",
+    "answer": "to purchase",
+    "distractors": [
+      "purchasing",
+      "purchase",
+      "to purchasing"
+    ],
+    "note": "choose alternatifler arasından bir eylemi seçmeyi to-mastar ile ifade eder.",
+    "sentence": "Many modern consumers choose [to purchase] organic agricultural products.",
+    "sentence_tr": "Birçok modern tüketici organik tarım ürünleri satın almayı seçiyor."
+  },
+  {
+    "head": "fail",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "başaramamak",
+    "level": "B1",
+    "answer": "to pass",
+    "distractors": [
+      "passing",
+      "pass",
+      "to passing"
+    ],
+    "note": "fail bir eylemi gerçekleştirememeyi veya yapamamayı to-mastar ile bildirir.",
+    "sentence": "He failed [to pass] his driving test again.",
+    "sentence_tr": "Direksiyon sınavını geçmeyi yine başaramadı."
+  },
+  {
+    "head": "fail",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "başaramamak",
+    "level": "B1",
+    "answer": "to implement",
+    "distractors": [
+      "implementing",
+      "implement",
+      "to implementing"
+    ],
+    "note": "fail bir eylemi gerçekleştirememeyi veya yapamamayı to-mastar ile bildirir.",
+    "sentence": "The government failed [to implement] the necessary economic policies.",
+    "sentence_tr": "Hükümet gerekli ekonomik politikaları uygulamayı başaramadı."
+  },
+  {
+    "head": "wish",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "arzu etmek",
+    "level": "B1",
+    "answer": "to speak",
+    "distractors": [
+      "speaking",
+      "speak",
+      "to speaking"
+    ],
+    "note": "wish resmi veya kibar bir isteği belirtirken to-mastar alır.",
+    "sentence": "I wish [to speak] with the manager of the store.",
+    "sentence_tr": "Mağaza müdürü ile görüşmek arzu ediyorum."
+  },
+  {
+    "head": "wish",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "arzu etmek",
+    "level": "B1",
+    "answer": "to initiate",
+    "distractors": [
+      "initiating",
+      "initiate",
+      "to initiating"
+    ],
+    "note": "wish resmi veya kibar bir isteği belirtirken to-mastar alır.",
+    "sentence": "The diplomatic representatives wish [to initiate] new peace talks.",
+    "sentence_tr": "Diplomatik temsilciler yeni barış görüşmeleri başlatmayı arzu ediyor."
+  },
+  {
+    "head": "deserve",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "hak etmek",
+    "level": "B1",
+    "answer": "to win",
+    "distractors": [
+      "winning",
+      "win",
+      "to winning"
+    ],
+    "note": "deserve bir övgüyü veya cezayı hak etmeyi to-mastar ile belirtir.",
+    "sentence": "She deserves [to win] the first prize in art.",
+    "sentence_tr": "Sanat alanında birincilik ödülünü kazanmayı hak ediyor."
+  },
+  {
+    "head": "deserve",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "hak etmek",
+    "level": "B1",
+    "answer": "to receive",
+    "distractors": [
+      "receiving",
+      "receive",
+      "to receiving"
+    ],
+    "note": "deserve bir övgüyü veya cezayı hak etmeyi to-mastar ile belirtir.",
+    "sentence": "This pioneering scientific study deserves [to receive] substantial research funding.",
+    "sentence_tr": "Bu öncü bilimsel çalışma önemli miktarda araştırma fonu almayı hak ediyor."
+  },
+  {
+    "head": "seem",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... gibi görünmek",
+    "level": "B1",
+    "answer": "to like",
+    "distractors": [
+      "liking",
+      "like",
+      "to liking"
+    ],
+    "note": "seem fiili bir eylemin gerçekleşiyor gibi görünmesini to-mastar ile bağlar.",
+    "sentence": "You seem [to like] your new house very much.",
+    "sentence_tr": "Yeni evini çok sevmiş gibi görünüyorsun."
+  },
+  {
+    "head": "seem",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... gibi görünmek",
+    "level": "B1",
+    "answer": "to appreciate",
+    "distractors": [
+      "appreciating",
+      "appreciate",
+      "to appreciating"
+    ],
+    "note": "seem fiili bir eylemin gerçekleşiyor gibi görünmesini to-mastar ile bağlar.",
+    "sentence": "Ancient civilizations seem [to appreciate] astronomical patterns profoundly.",
+    "sentence_tr": "Antik uygarlıklar astronomik kalıpları derinden takdir etmiş gibi görünüyor."
+  },
+  {
+    "head": "pretend",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... rolü yapmak",
+    "level": "B2",
+    "answer": "to sleep",
+    "distractors": [
+      "sleeping",
+      "sleep",
+      "to sleeping"
+    ],
+    "note": "pretend gerçek olmayan bir durumu yapıyormuş gibi göstermek için to-mastar alır.",
+    "sentence": "The little boy pretended [to sleep] when his father entered.",
+    "sentence_tr": "Küçük çocuk babası girdiğinde uyuyor rolü yaptı."
+  },
+  {
+    "head": "pretend",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... rolü yapmak",
+    "level": "B2",
+    "answer": "to comply",
+    "distractors": [
+      "complying",
+      "comply",
+      "to complying"
+    ],
+    "note": "pretend gerçek olmayan bir durumu yapıyormuş gibi göstermek için to-mastar alır.",
+    "sentence": "The company pretended [to comply] with the strict environmental laws.",
+    "sentence_tr": "Şirket, katı çevre yasalarına uyuyormuş gibi rol yaptı."
+  },
+  {
+    "head": "arrange",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "ayarlamak",
+    "level": "B2",
+    "answer": "to meet",
+    "distractors": [
+      "meeting",
+      "meet",
+      "to meeting"
+    ],
+    "note": "arrange bir buluşmayı veya eylemi organize ederken to-mastar alır.",
+    "sentence": "We arranged [to meet] at the cafe tomorrow.",
+    "sentence_tr": "Yarın kafede buluşmak üzere ayarlama yaptık."
+  },
+  {
+    "head": "arrange",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "ayarlamak",
+    "level": "B2",
+    "answer": "to transport",
+    "distractors": [
+      "transporting",
+      "transport",
+      "to transporting"
+    ],
+    "note": "arrange bir buluşmayı veya eylemi organize ederken to-mastar alır.",
+    "sentence": "The logistics division arranged [to transport] the critical vaccine doses.",
+    "sentence_tr": "Lojistik birimi kritik aşı dozlarını taşımak üzere ayarlama yaptı."
+  },
+  {
+    "head": "tend",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "eğiliminde olmak",
+    "level": "B2",
+    "answer": "to forget",
+    "distractors": [
+      "forgetting",
+      "forget",
+      "to forgetting"
+    ],
+    "note": "tend alışkanlık veya genel eğilimleri ifade ederken to-mastar kullanır.",
+    "sentence": "My grandfather tends [to forget] his keys very often.",
+    "sentence_tr": "Dedem anahtarlarını çok sık unutma eğilimindedir."
+  },
+  {
+    "head": "tend",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "eğiliminde olmak",
+    "level": "B2",
+    "answer": "to increase",
+    "distractors": [
+      "increasing",
+      "increase",
+      "to increasing"
+    ],
+    "note": "tend alışkanlık veya genel eğilimleri ifade ederken to-mastar kullanır.",
+    "sentence": "Unemployment rates tend [to increase] during prolonged economic recessions.",
+    "sentence_tr": "İşsizlik oranları, uzun süreli ekonomik durgunluklar sırasında artma eğilimindedir."
+  },
+  {
+    "head": "happen",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "tesadüfen ... olmak",
+    "level": "B2",
+    "answer": "to find",
+    "distractors": [
+      "finding",
+      "find",
+      "to finding"
+    ],
+    "note": "happen tesadüfi olayları ve karşılaşmaları belirtirken to-mastar ile kullanılır.",
+    "sentence": "I happened [to find] your wallet under the table.",
+    "sentence_tr": "Cüzdanını tesadüfen masanın altında buldum."
+  },
+  {
+    "head": "happen",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "tesadüfen ... olmak",
+    "level": "B2",
+    "answer": "to observe",
+    "distractors": [
+      "observing",
+      "observe",
+      "to observing"
+    ],
+    "note": "happen tesadüfi olayları ve karşılaşmaları belirtirken to-mastar ile kullanılır.",
+    "sentence": "The researchers happened [to observe] a rare cellular reaction.",
+    "sentence_tr": "Araştırmacılar tesadüfen nadir görülen bir hücresel reaksiyon gözlemlediler."
+  },
+  {
+    "head": "appear",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... gibi görünmek",
+    "level": "B2",
+    "answer": "to know",
+    "distractors": [
+      "knowing",
+      "know",
+      "to knowing"
+    ],
+    "note": "appear bir durumun gözlemlenen niteliğini belirtirken to-mastar ile kullanılır.",
+    "sentence": "They appear [to know] the secret recipe of this cake.",
+    "sentence_tr": "Bu kekin gizli tarifini biliyor gibi görünüyorlar."
+  },
+  {
+    "head": "appear",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "... gibi görünmek",
+    "level": "B2",
+    "answer": "to orbit",
+    "distractors": [
+      "orbiting",
+      "orbit",
+      "to orbiting"
+    ],
+    "note": "appear bir durumun gözlemlenen niteliğini belirtirken to-mastar ile kullanılır.",
+    "sentence": "The remote galaxy appears [to orbit] a massive black hole.",
+    "sentence_tr": "Uzak galaksi, devasa bir kara deliğin yörüngesinde dönüyor gibi görünüyor."
+  },
+  {
+    "head": "intend",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "niyet etmek",
+    "level": "B2",
+    "answer": "to study",
+    "distractors": [
+      "study",
+      "to studying"
+    ],
+    "note": "intend eylemi -ing yerine çoğunlukla to-mastar ile bağlamayı tercih eder.",
+    "sentence": "I intend [to study] engineering at university next year.",
+    "sentence_tr": "Gelecek yıl üniversitede mühendislik okumaya niyet ediyorum."
+  },
+  {
+    "head": "intend",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "niyet etmek",
+    "level": "B2",
+    "answer": "to construct",
+    "distractors": [
+      "construct",
+      "to constructing"
+    ],
+    "note": "intend eylemi -ing yerine çoğunlukla to-mastar ile bağlamayı tercih eder.",
+    "sentence": "The government intends [to construct] a high-speed railway system.",
+    "sentence_tr": "Hükümet yüksek hızlı bir demir yolu sistemi inşa etmeye niyet ediyor."
+  },
+  {
+    "head": "attempt",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "teşebbüs etmek",
+    "level": "B2",
+    "answer": "to climb",
+    "distractors": [
+      "climb",
+      "to climbing"
+    ],
+    "note": "attempt zor bir eylemi gerçekleştirmeye çalışırken to-mastar ile kullanılır.",
+    "sentence": "The young boy attempted [to climb] the tall tree.",
+    "sentence_tr": "Genç çocuk uzun ağaca tırmanmaya teşebbüs etti."
+  },
+  {
+    "head": "attempt",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "teşebbüs etmek",
+    "level": "B2",
+    "answer": "to penetrate",
+    "distractors": [
+      "penetrate",
+      "to penetrating"
+    ],
+    "note": "attempt zor bir eylemi gerçekleştirmeye çalışırken to-mastar ile kullanılır.",
+    "sentence": "The local startup attempted [to penetrate] the highly competitive market.",
+    "sentence_tr": "Yerel girişim, oldukça rekabetçi pazara girmeye teşebbüs etti."
+  },
+  {
+    "head": "threaten",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "...la tehdit etmek",
+    "level": "B2",
+    "answer": "to cancel",
+    "distractors": [
+      "canceling",
+      "cancel",
+      "to canceling"
+    ],
+    "note": "threaten bir olumsuzluğu yapacağını söylerken to-mastar ile tamamlanır.",
+    "sentence": "They threatened [to cancel] our subscription if we did not pay.",
+    "sentence_tr": "Ödeme yapmazsak aboneliğimizi iptal etmekle tehdit ettiler."
+  },
+  {
+    "head": "threaten",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "...la tehdit etmek",
+    "level": "B2",
+    "answer": "to launch",
+    "distractors": [
+      "launching",
+      "launch",
+      "to launching"
+    ],
+    "note": "threaten bir olumsuzluğu yapacağını söylerken to-mastar ile tamamlanır.",
+    "sentence": "The union threatened [to launch] a nationwide strike next month.",
+    "sentence_tr": "Sendika, gelecek ay ülke çapında bir grev başlatmakla tehdit etti."
+  },
+  {
+    "head": "swear",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "yemin etmek",
+    "level": "B2",
+    "answer": "to tell",
+    "distractors": [
+      "telling",
+      "tell",
+      "to telling"
+    ],
+    "note": "swear bir konuda yemin etmeyi ifade ederken to-mastar kullanır.",
+    "sentence": "I swear [to tell] the truth about the accident.",
+    "sentence_tr": "Kaza hakkında doğruyu söyleyeceğime yemin ederim."
+  },
+  {
+    "head": "swear",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "yemin etmek",
+    "level": "B2",
+    "answer": "to protect",
+    "distractors": [
+      "protecting",
+      "protect",
+      "to protecting"
+    ],
+    "note": "swear bir konuda yemin etmeyi ifade ederken to-mastar kullanır.",
+    "sentence": "The newly elected president swore [to protect] the federal constitution.",
+    "sentence_tr": "Yeni seçilen başkan, federal anayasayı koruyacağına yemin etti."
+  },
+  {
+    "head": "hesitate",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "tereddüt etmek",
+    "level": "B2",
+    "answer": "to ask",
+    "distractors": [
+      "asking",
+      "ask",
+      "to asking"
+    ],
+    "note": "hesitate bir eylemi yaparken çekinmeyi veya duraksamayı to-mastar ile bağlar.",
+    "sentence": "Do not hesitate [to ask] questions during our English class.",
+    "sentence_tr": "İngilizce dersimiz sırasında soru sormaktan çekinmeyin."
+  },
+  {
+    "head": "hesitate",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "tereddüt etmek",
+    "level": "B2",
+    "answer": "to commit",
+    "distractors": [
+      "committing",
+      "commit",
+      "to committing"
+    ],
+    "note": "hesitate bir eylemi yaparken çekinmeyi veya duraksamayı to-mastar ile bağlar.",
+    "sentence": "Potential foreign investors hesitate [to commit] capital under high inflation.",
+    "sentence_tr": "Potansiyel yabancı yatırımcılar yüksek enflasyon altında sermaye yatırmaktan çekiniyorlar."
+  },
+  {
+    "head": "claim",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "iddia etmek",
+    "level": "B2",
+    "answer": "to know",
+    "distractors": [
+      "knowing",
+      "know",
+      "to knowing"
+    ],
+    "note": "claim bir iddiayı veya durumu öne sürerken to-mastar alır.",
+    "sentence": "He claims [to know] the owner of this luxury restaurant.",
+    "sentence_tr": "Bu lüks restoranın sahibini tanıdığını iddia ediyor."
+  },
+  {
+    "head": "claim",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "iddia etmek",
+    "level": "B2",
+    "answer": "to possess",
+    "distractors": [
+      "possessing",
+      "possess",
+      "to possessing"
+    ],
+    "note": "claim bir iddiayı veya durumu öne sürerken to-mastar alır.",
+    "sentence": "The defendant claims [to possess] evidence proving his complete innocence.",
+    "sentence_tr": "Sanık, tamamen masum olduğunu kanıtlayan kanıtlara sahip olduğunu iddia ediyor."
+  },
+  {
+    "head": "aim",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "hedeflemek",
+    "level": "B2",
+    "answer": "to finish",
+    "distractors": [
+      "finishing",
+      "finish",
+      "to finishing"
+    ],
+    "note": "aim fiili bir hedefi veya amacı belirtirken to-mastar alır.",
+    "sentence": "Our group aims [to finish] the science project tonight.",
+    "sentence_tr": "Grubumuz bilim projesini bu gece bitirmeyi hedefliyor."
+  },
+  {
+    "head": "aim",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "hedeflemek",
+    "level": "B2",
+    "answer": "to reduce",
+    "distractors": [
+      "reducing",
+      "reduce",
+      "to reducing"
+    ],
+    "note": "aim fiili bir hedefi veya amacı belirtirken to-mastar alır.",
+    "sentence": "The environmental monetary policy aims [to reduce] harmful industrial emissions.",
+    "sentence_tr": "Çevresel para politikası zararlı endüstriyel emisyonları azaltmayı hedefliyor."
+  },
+  {
+    "head": "demand",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "talep etmek",
+    "level": "B2",
+    "answer": "to speak",
+    "distractors": [
+      "speaking",
+      "speak",
+      "to speaking"
+    ],
+    "note": "demand bir eylemin yapılmasını kesin olarak isterken to-mastar alır.",
+    "sentence": "The angry customer demanded [to speak] with the store manager.",
+    "sentence_tr": "Öfkeli müşteri mağaza müdürüyle görüşmeyi talep etti."
+  },
+  {
+    "head": "demand",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "talep etmek",
+    "level": "B2",
+    "answer": "to hold",
+    "distractors": [
+      "holding",
+      "hold",
+      "to holding"
+    ],
+    "note": "demand bir eylemin yapılmasını kesin olarak isterken to-mastar alır.",
+    "sentence": "The local community demanded [to hold] a referendum on mining.",
+    "sentence_tr": "Yerel halk, madencilik konusunda bir referandum yapılmasını talep etti."
+  },
+  {
+    "head": "care",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "(soru/olumsuz) istemek",
+    "level": "B2",
+    "answer": "to join",
+    "distractors": [
+      "joining",
+      "join",
+      "to joining"
+    ],
+    "note": "care soru ve olumsuzlarda kibarca istemeyi to-mastar ile belirtir.",
+    "sentence": "Would you care [to join] us for a cup of coffee?",
+    "sentence_tr": "Bir fincan kahve için bize katılmak ister misiniz?"
+  },
+  {
+    "head": "care",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "(soru/olumsuz) istemek",
+    "level": "B2",
+    "answer": "to review",
+    "distractors": [
+      "reviewing",
+      "review",
+      "to reviewing"
+    ],
+    "note": "care soru ve olumsuzlarda kibarca istemeyi to-mastar ile belirtir.",
+    "sentence": "Most scientific critics do not care [to review] poorly formulated hypotheses.",
+    "sentence_tr": "Çoğu bilimsel eleştirmen kötü formüle edilmiş hipotezleri gözden geçirmek istemez."
+  },
+  {
+    "head": "long",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "can atmak",
+    "level": "C1",
+    "answer": "to return",
+    "distractors": [
+      "returning",
+      "return",
+      "to returning"
+    ],
+    "note": "long fiili çok güçlü bir arzuyu ve özlemi to-mastar ile ifade eder.",
+    "sentence": "The children long [to return] to their warm homes soon.",
+    "sentence_tr": "Çocuklar yakında sıcak evlerine dönmek için can atıyorlar."
+  },
+  {
+    "head": "long",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "can atmak",
+    "level": "C1",
+    "answer": "to rebuild",
+    "distractors": [
+      "rebuilding",
+      "rebuild",
+      "to rebuilding"
+    ],
+    "note": "long fiili çok güçlü bir arzuyu ve özlemi to-mastar ile ifade eder.",
+    "sentence": "The displaced citizens long [to rebuild] their destroyed historical cities.",
+    "sentence_tr": "Yerinden edilmiş vatandaşlar yıkılan tarihi şehirlerini yeniden inşa etmek için can atıyorlar."
+  },
+  {
+    "head": "strive",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "çabalamak",
+    "level": "C1",
+    "answer": "to improve",
+    "distractors": [
+      "improving",
+      "improve",
+      "to improving"
+    ],
+    "note": "strive büyük bir çaba ve gayret göstermeyi to-mastar ile anlatır.",
+    "sentence": "I strive [to improve] my English vocabulary every single day.",
+    "sentence_tr": "Her gün İngilizce kelime dağarcığımı geliştirmek için çabalıyorum."
+  },
+  {
+    "head": "strive",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "çabalamak",
+    "level": "C1",
+    "answer": "to establish",
+    "distractors": [
+      "establishing",
+      "establish",
+      "to establishing"
+    ],
+    "note": "strive büyük bir çaba ve gayret göstermeyi to-mastar ile anlatır.",
+    "sentence": "Developing nations strive [to establish] sustainable economic development models.",
+    "sentence_tr": "Gelişmekte olan ülkeler sürdürülebilir ekonomik kalkınma modelleri kurmak için çabalıyor."
+  },
+  {
+    "head": "vow",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "ant içmek",
+    "level": "C1",
+    "answer": "to protect",
+    "distractors": [
+      "protecting",
+      "protect",
+      "to protecting"
+    ],
+    "note": "vow ciddiyetle ant içmeyi veya yemin etmeyi to-mastar ile bildirir.",
+    "sentence": "He vowed [to protect] his younger sister from any danger.",
+    "sentence_tr": "Kız kardeşini her türlü tehlikeden koruyacağına ant içti."
+  },
+  {
+    "head": "vow",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "ant içmek",
+    "level": "C1",
+    "answer": "to combat",
+    "distractors": [
+      "combating",
+      "combat",
+      "to combating"
+    ],
+    "note": "vow ciddiyetle ant içmeyi veya yemin etmeyi to-mastar ile bildirir.",
+    "sentence": "The newly established government vowed [to combat] systematic corruption.",
+    "sentence_tr": "Yeni kurulan hükümet sistematik yolsuzlukla mücadele edeceğine ant içti."
+  },
+  {
+    "head": "undertake",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "üstlenmek",
+    "level": "C1",
+    "answer": "to finish",
+    "distractors": [
+      "finishing",
+      "finish",
+      "to finishing"
+    ],
+    "note": "undertake bir görevi yapmayı üstlenirken veya söz verirken to-mastar alır.",
+    "sentence": "She undertook [to finish] the entire report by Friday morning.",
+    "sentence_tr": "Tüm raporu cuma sabahına kadar bitirmeyi üstlendi."
+  },
+  {
+    "head": "undertake",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "üstlenmek",
+    "level": "C1",
+    "answer": "to implement",
+    "distractors": [
+      "implementing",
+      "implement",
+      "to implementing"
+    ],
+    "note": "undertake bir görevi yapmayı üstlenirken veya söz verirken to-mastar alır.",
+    "sentence": "The medical department undertook [to implement] the new safety protocols.",
+    "sentence_tr": "Tıp departmanı yeni güvenlik protokollerini uygulamayı üstlendi."
+  },
+  {
+    "head": "endeavour",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "gayret etmek",
+    "level": "C1",
+    "answer": "to solve",
+    "distractors": [
+      "solving",
+      "solve",
+      "to solving"
+    ],
+    "note": "endeavour resmi bir tonla çabalamayı ve uğraşmayı to-mastar ile belirtir.",
+    "sentence": "We must endeavour [to solve] this difficult math puzzle together.",
+    "sentence_tr": "Bu zor matematik bulmacasını birlikte çözmek için gayret etmeliyiz."
+  },
+  {
+    "head": "endeavour",
+    "pos": "fiil",
+    "pattern": "to_inf",
+    "meaning": "gayret etmek",
+    "level": "C1",
+    "answer": "to deliver",
+    "distractors": [
+      "delivering",
+      "deliver",
+      "to delivering"
+    ],
+    "note": "endeavour resmi bir tonla çabalamayı ve uğraşmayı to-mastar ile belirtir.",
+    "sentence": "Humanitarian organizations endeavour [to deliver] basic medical supplies to areas.",
+    "sentence_tr": "İnsani yardım kuruluşları bölgelere temel tıbbi malzeme ulaştırmak için gayret ediyor."
+  }
+]
