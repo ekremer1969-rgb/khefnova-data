@@ -34,6 +34,13 @@
         "meaning": "yapabilen, muktedir",
         "sentence": "Will you be [able] to come tomorrow?",
         "sentence_tr": "Yarın gelebilecek misin?"
+      },
+      {
+        "word": "unable",
+        "type": "sıfat",
+        "meaning": "yapamayan, aciz",
+        "sentence": "He was [unable] to open the locked door.",
+        "sentence_tr": "Kilitli kapıyı açamadı."
       }
     ]
   },
@@ -3402,13 +3409,6 @@
         "meaning": "körü körüne",
         "sentence": "Do not follow his advice [blindly] today.",
         "sentence_tr": "Onun tavsiyesini bugün körü körüne takip etmeyin."
-      },
-      {
-        "word": "bleed",
-        "type": "fiil",
-        "meaning": "kanamak",
-        "sentence": "The small cut will [bleed] for hours.",
-        "sentence_tr": "Küçük kesik saatlerce kanayacak."
       }
     ]
   },
@@ -3428,6 +3428,13 @@
         "meaning": "kanlı",
         "sentence": "The soldier had a [bloody] shirt yesterday.",
         "sentence_tr": "Askerin dün kanlı bir gömleği vardı."
+      },
+      {
+        "word": "bleed",
+        "type": "fiil",
+        "meaning": "kanamak",
+        "sentence": "The small cut will [bleed] for hours.",
+        "sentence_tr": "Küçük kesik saatlerce kanayacak."
       }
     ]
   },
@@ -8085,13 +8092,6 @@
         "meaning": "dans etme",
         "sentence": "We enjoyed the traditional [dancing] at the festival.",
         "sentence_tr": "Festivaldeki geleneksel dansı çok beğendik."
-      },
-      {
-        "word": "endanger",
-        "type": "fiil",
-        "meaning": "tehlikeye atmak",
-        "sentence": "Do not drive fast because you can [endanger] lives.",
-        "sentence_tr": "Hızlı sürmeyin çünkü hayatları tehlikeye atabilirsiniz."
       }
     ]
   },
@@ -8118,6 +8118,13 @@
         "meaning": "tehlikeli biçimde",
         "sentence": "The high river levels rose [dangerously] fast yesterday.",
         "sentence_tr": "Yüksek nehir seviyeleri dün tehlikeli bir şekilde hızla yükseldi."
+      },
+      {
+        "word": "endanger",
+        "type": "fiil",
+        "meaning": "tehlikeye atmak",
+        "sentence": "Do not drive fast because you can [endanger] lives.",
+        "sentence_tr": "Hızlı sürmeyin çünkü hayatları tehlikeye atabilirsiniz."
       }
     ]
   },
@@ -8208,6 +8215,13 @@
         "meaning": "ölümcül",
         "sentence": "Some snakes have a [deadly] poison.",
         "sentence_tr": "Bazı yılanların ölümcül bir zehri vardır."
+      },
+      {
+        "word": "die",
+        "type": "fiil",
+        "meaning": "ölmek",
+        "sentence": "Many ancient trees will [die] without water.",
+        "sentence_tr": "Birçok antik ağaç susuz ölecek."
       }
     ]
   },
@@ -9410,26 +9424,7 @@
     ]
   },
   {
-    "family": "dictator",
-    "members": [
-      {
-        "word": "dictate",
-        "type": "fiil",
-        "meaning": "dayatmak, dikte etmek",
-        "sentence": "Powerful leaders cannot [dictate] every single rule.",
-        "sentence_tr": "Güçlü liderler her bir kuralı dayatamaz."
-      },
-      {
-        "word": "dictator",
-        "type": "isim",
-        "meaning": "diktatör",
-        "sentence": "The cruel [dictator] controlled the whole nation.",
-        "sentence_tr": "Zalim diktatör tüm ulusu kontrol etti."
-      }
-    ]
-  },
-  {
-    "family": "die",
+    "family": "diagnose",
     "members": [
       {
         "word": "diagnose",
@@ -9451,13 +9446,25 @@
         "meaning": "tanısal",
         "sentence": "They need new [diagnostic] tools for tests.",
         "sentence_tr": "Testler için yeni tanısal araçlara ihtiyaçları var."
+      }
+    ]
+  },
+  {
+    "family": "dictator",
+    "members": [
+      {
+        "word": "dictate",
+        "type": "fiil",
+        "meaning": "dayatmak, dikte etmek",
+        "sentence": "Powerful leaders cannot [dictate] every single rule.",
+        "sentence_tr": "Güçlü liderler her bir kuralı dayatamaz."
       },
       {
-        "word": "die",
-        "type": "fiil",
-        "meaning": "ölmek",
-        "sentence": "Many ancient trees will [die] without water.",
-        "sentence_tr": "Birçok antik ağaç susuz ölecek."
+        "word": "dictator",
+        "type": "isim",
+        "meaning": "diktatör",
+        "sentence": "The cruel [dictator] controlled the whole nation.",
+        "sentence_tr": "Zalim diktatör tüm ulusu kontrol etti."
       }
     ]
   },
@@ -15795,39 +15802,6 @@
     ]
   },
   {
-    "family": "height",
-    "members": [
-      {
-        "word": "hesitate",
-        "type": "fiil",
-        "meaning": "tereddüt etmek",
-        "sentence": "Please do not [hesitate] to call me if you need assistance.",
-        "sentence_tr": "Yardıma ihtiyacınız olursa lütfen beni aramaktan tereddüt etmeyin."
-      },
-      {
-        "word": "hesitation",
-        "type": "isim",
-        "meaning": "tereddüt",
-        "sentence": "She answered the difficult question on the exam without any [hesitation].",
-        "sentence_tr": "Sınavdaki zor soruyu hiç tereddüt etmeden cevapladı."
-      },
-      {
-        "word": "hesitant",
-        "type": "sıfat",
-        "meaning": "tereddütlü",
-        "sentence": "The buyer remained [hesitant] about signing the expensive contract.",
-        "sentence_tr": "Alıcı, pahalı sözleşmeyi imzalama konusunda tereddütlü kaldı."
-      },
-      {
-        "word": "height",
-        "type": "isim",
-        "meaning": "yükseklik, boy",
-        "sentence": "The engineers had to measure the exact [height] of the bridge.",
-        "sentence_tr": "Mühendisler köprünün tam yüksekliğini ölçmek zorundaydı."
-      }
-    ]
-  },
-  {
     "family": "help",
     "members": [
       {
@@ -15892,6 +15866,32 @@
     ]
   },
   {
+    "family": "hesitate",
+    "members": [
+      {
+        "word": "hesitate",
+        "type": "fiil",
+        "meaning": "tereddüt etmek",
+        "sentence": "Please do not [hesitate] to call me if you need assistance.",
+        "sentence_tr": "Yardıma ihtiyacınız olursa lütfen beni aramaktan tereddüt etmeyin."
+      },
+      {
+        "word": "hesitation",
+        "type": "isim",
+        "meaning": "tereddüt",
+        "sentence": "She answered the difficult question on the exam without any [hesitation].",
+        "sentence_tr": "Sınavdaki zor soruyu hiç tereddüt etmeden cevapladı."
+      },
+      {
+        "word": "hesitant",
+        "type": "sıfat",
+        "meaning": "tereddütlü",
+        "sentence": "The buyer remained [hesitant] about signing the expensive contract.",
+        "sentence_tr": "Alıcı, pahalı sözleşmeyi imzalama konusunda tereddütlü kaldı."
+      }
+    ]
+  },
+  {
     "family": "hide",
     "members": [
       {
@@ -15945,6 +15945,13 @@
         "meaning": "oldukça",
         "sentence": "Our manager is a [highly] respected professional in the industry.",
         "sentence_tr": "Müdürümüz sektörde son derece saygı duyulan bir profesyoneldir."
+      },
+      {
+        "word": "height",
+        "type": "isim",
+        "meaning": "yükseklik, boy",
+        "sentence": "The engineers had to measure the exact [height] of the bridge.",
+        "sentence_tr": "Mühendisler köprünün tam yüksekliğini ölçmek zorundaydı."
       }
     ]
   },
@@ -19168,25 +19175,6 @@
     ]
   },
   {
-    "family": "length",
-    "members": [
-      {
-        "word": "logically",
-        "type": "zarf",
-        "meaning": "mantıken",
-        "sentence": "If you think [logically] about the issue, you will find the answer.",
-        "sentence_tr": "Sorun hakkında mantıken düşünürseniz cevabı bulacaksınız."
-      },
-      {
-        "word": "length",
-        "type": "isim",
-        "meaning": "uzunluk",
-        "sentence": "The tailor measured the [length] of the fabric twice before cutting it.",
-        "sentence_tr": "Terzi, kesmeden önce kumaşın uzunluğunu iki kez ölçtü."
-      }
-    ]
-  },
-  {
     "family": "liability",
     "members": [
       {
@@ -19228,7 +19216,12 @@
         "meaning": "liberal",
         "sentence": "The politician holds very [liberal] views on economic matters and trade.",
         "sentence_tr": "Politikacı, ekonomik konular ve ticaret hakkında çok liberal görüşlere sahip."
-      },
+      }
+    ]
+  },
+  {
+    "family": "license",
+    "members": [
       {
         "word": "license",
         "type": "fiil",
@@ -19538,6 +19531,13 @@
         "meaning": "mantıksız",
         "sentence": "His sudden fear of harmless butterflies seemed completely [illogical] to everyone.",
         "sentence_tr": "Zararsız kelebeklerden duyduğu ani korku herkese tamamen mantıksız geldi."
+      },
+      {
+        "word": "logically",
+        "type": "zarf",
+        "meaning": "mantıken",
+        "sentence": "If you think [logically] about the issue, you will find the answer.",
+        "sentence_tr": "Sorun hakkında mantıken düşünürseniz cevabı bulacaksınız."
       }
     ]
   },
@@ -19576,6 +19576,13 @@
         "meaning": "uzun",
         "sentence": "The contract negotiations were a [lengthy] process that lasted several months.",
         "sentence_tr": "Sözleşme müzakereleri birkaç ay süren uzun bir süreçti."
+      },
+      {
+        "word": "length",
+        "type": "isim",
+        "meaning": "uzunluk",
+        "sentence": "The tailor measured the [length] of the fabric twice before cutting it.",
+        "sentence_tr": "Terzi, kesmeden önce kumaşın uzunluğunu iki kez ölçtü."
       }
     ]
   },
@@ -21767,6 +21774,32 @@
         "meaning": "gergin biçimde",
         "sentence": "She waited [nervously] in the hallway for the doctor to bring the test results.",
         "sentence_tr": "Doktorun test sonuçlarını getirmesi için koridorda gergin biçimde bekledi."
+      }
+    ]
+  },
+  {
+    "family": "neutral",
+    "members": [
+      {
+        "word": "neutralise",
+        "type": "fiil",
+        "meaning": "etkisizleştirmek",
+        "sentence": "The technician must [neutralise] the chemical acid before it drains into the river.",
+        "sentence_tr": "Teknisyen, nehre dökülmeden önce kimyasal asidi etkisizleştirmelidir."
+      },
+      {
+        "word": "neutrality",
+        "type": "isim",
+        "meaning": "tarafsızlık",
+        "sentence": "Switzerland is famous for maintaining its strict [neutrality] during world conflicts.",
+        "sentence_tr": "İsviçre, dünya çatışmaları sırasında katı tarafsızlığını korumasıyla ünlüdür."
+      },
+      {
+        "word": "neutral",
+        "type": "sıfat",
+        "meaning": "tarafsız",
+        "sentence": "Journalists should try to remain [neutral] when reporting on political debates.",
+        "sentence_tr": "Gazeteciler, siyasi tartışmalar hakkında haber yaparken tarafsız kalmaya çalışmalıdır."
       }
     ]
   },
@@ -24826,13 +24859,6 @@
         "meaning": "baskı",
         "sentence": "The invention of [printing] changed the history of human communication.",
         "sentence_tr": "Baskının icadı, insan iletişiminin tarihini değiştirdi."
-      },
-      {
-        "word": "imprison",
-        "type": "fiil",
-        "meaning": "hapsetmek",
-        "sentence": "The judge decided to [imprison] the dangerous criminal for ten years.",
-        "sentence_tr": "Yargıç, tehlikeli suçluyu on yıl hapsetmeye karar verdi."
       }
     ]
   },
@@ -24871,6 +24897,13 @@
         "meaning": "mahkûm",
         "sentence": "The escaped [prisoner] was finally caught by the police in the forest.",
         "sentence_tr": "Kaçan mahkûm sonunda ormanda polis tarafından yakalandı."
+      },
+      {
+        "word": "imprison",
+        "type": "fiil",
+        "meaning": "hapsetmek",
+        "sentence": "The judge decided to [imprison] the dangerous criminal for ten years.",
+        "sentence_tr": "Yargıç, tehlikeli suçluyu on yıl hapsetmeye karar verdi."
       }
     ]
   },
@@ -26837,6 +26870,13 @@
         "meaning": "ilgili",
         "sentence": "Please ensure that all the sources you cite in your project are [relevant] to the research question.",
         "sentence_tr": "Lütfen projenizde atıfta bulunduğunuz tüm kaynakların araştırma sorusuyla ilgili olduğundan emin olun."
+      },
+      {
+        "word": "irrelevant",
+        "type": "sıfat",
+        "meaning": "ilgilesiz",
+        "sentence": "His personal opinions on politics are completely [irrelevant] to our current business decision.",
+        "sentence_tr": "Onun siyaset hakkındaki kişisel görüşleri, şu anki ticari kararımızla tamamen ilgisizdir."
       }
     ]
   },
@@ -26903,25 +26943,6 @@
         "meaning": "dinî biçimde, titizlikle",
         "sentence": "The dedicated athlete follows his strict training routine [religiously] every single morning.",
         "sentence_tr": "Kendini adamış sporcu, her sabah sıkı antrenman rutinini titizlikle takip eder."
-      }
-    ]
-  },
-  {
-    "family": "rely",
-    "members": [
-      {
-        "word": "irrelevant",
-        "type": "sıfat",
-        "meaning": "ilgilesiz",
-        "sentence": "His personal opinions on politics are completely [irrelevant] to our current business decision.",
-        "sentence_tr": "Onun siyaset hakkındaki kişisel görüşleri, şu anki ticari kararımızla tamamen ilgisizdir."
-      },
-      {
-        "word": "rely",
-        "type": "fiil",
-        "meaning": "güvenmek",
-        "sentence": "In times of crisis, we must [rely] on our teammates to overcome the heavy workload.",
-        "sentence_tr": "Kriz anlarında, ağır iş yükünün üstesinden gelmek için ekip arkadaşlarımıza güvenmeliyiz."
       }
     ]
   },
@@ -27050,39 +27071,6 @@
         "meaning": "çıkarılabilir",
         "sentence": "This modern laptop features a [removable] battery that can be easily replaced by the user.",
         "sentence_tr": "Bu modern dizüstü bilgisayar, kullanıcı tarafından kolayca değiştirilebilen çıkarılabilir bir pile sahiptir."
-      }
-    ]
-  },
-  {
-    "family": "renew",
-    "members": [
-      {
-        "word": "neutralise",
-        "type": "fiil",
-        "meaning": "etkisizleştirmek",
-        "sentence": "The technician must [neutralise] the chemical acid before it drains into the river.",
-        "sentence_tr": "Teknisyen, nehre dökülmeden önce kimyasal asidi etkisizleştirmelidir."
-      },
-      {
-        "word": "neutrality",
-        "type": "isim",
-        "meaning": "tarafsızlık",
-        "sentence": "Switzerland is famous for maintaining its strict [neutrality] during world conflicts.",
-        "sentence_tr": "İsviçre, dünya çatışmaları sırasında katı tarafsızlığını korumasıyla ünlüdür."
-      },
-      {
-        "word": "neutral",
-        "type": "sıfat",
-        "meaning": "tarafsız",
-        "sentence": "Journalists should try to remain [neutral] when reporting on political debates.",
-        "sentence_tr": "Gazeteciler, siyasi tartışmalar hakkında haber yaparken tarafsız kalmaya çalışmalıdır."
-      },
-      {
-        "word": "renew",
-        "type": "fiil",
-        "meaning": "yenilemek",
-        "sentence": "You need to [renew] your passport before you travel next month.",
-        "sentence_tr": "Gelecek ay seyahat etmeden önce pasaportunuzu yenilemeniz gerekiyor."
       }
     ]
   },
@@ -28340,46 +28328,6 @@
     ]
   },
   {
-    "family": "sale",
-    "members": [
-      {
-        "word": "sale",
-        "type": "isim",
-        "meaning": "satış",
-        "sentence": "The company announced a massive summer [sale] with discounts of up to fifty percent.",
-        "sentence_tr": "Şirket, yüzde elliye varan indirimlerle büyük bir yaz satışı duyurdu."
-      },
-      {
-        "word": "satisfy",
-        "type": "fiil",
-        "meaning": "tatmin etmek, karşılamak",
-        "sentence": "To [satisfy] the graduation requirements, you must complete a capstone project.",
-        "sentence_tr": "Mezuniyet gereksinimlerini karşılamak için bir bitirme projesi tamamlamalısınız."
-      },
-      {
-        "word": "satisfaction",
-        "type": "isim",
-        "meaning": "tatmin, memnuniyet",
-        "sentence": "Customer [satisfaction] is the primary goal of our technical support team.",
-        "sentence_tr": "Müşteri memnuniyeti, teknik destek ekibimizin birincil hedefidir."
-      },
-      {
-        "word": "satisfied",
-        "type": "sıfat",
-        "meaning": "memnun",
-        "sentence": "The manager was highly [satisfied] with the final results of the marketing campaign.",
-        "sentence_tr": "Yönetici, pazarlama kampanyasının nihai sonuçlarından son derece memnundu."
-      },
-      {
-        "word": "satisfying",
-        "type": "sıfat",
-        "meaning": "tatmin edici",
-        "sentence": "Completing a difficult puzzle after hours of work is a very [satisfying] experience.",
-        "sentence_tr": "Saatlerce çalıştıktan sonra zor bir yapbozu tamamlamak çok tatmin edici bir deneyimdir."
-      }
-    ]
-  },
-  {
     "family": "salt",
     "members": [
       {
@@ -28414,6 +28362,39 @@
         "meaning": "kumlu",
         "sentence": "We walked along the beautiful [sandy] beach.",
         "sentence_tr": "Güzel kumlu plaj boyunca yürüdük."
+      }
+    ]
+  },
+  {
+    "family": "satisfy",
+    "members": [
+      {
+        "word": "satisfy",
+        "type": "fiil",
+        "meaning": "tatmin etmek, karşılamak",
+        "sentence": "To [satisfy] the graduation requirements, you must complete a capstone project.",
+        "sentence_tr": "Mezuniyet gereksinimlerini karşılamak için bir bitirme projesi tamamlamalısınız."
+      },
+      {
+        "word": "satisfaction",
+        "type": "isim",
+        "meaning": "tatmin, memnuniyet",
+        "sentence": "Customer [satisfaction] is the primary goal of our technical support team.",
+        "sentence_tr": "Müşteri memnuniyeti, teknik destek ekibimizin birincil hedefidir."
+      },
+      {
+        "word": "satisfied",
+        "type": "sıfat",
+        "meaning": "memnun",
+        "sentence": "The manager was highly [satisfied] with the final results of the marketing campaign.",
+        "sentence_tr": "Yönetici, pazarlama kampanyasının nihai sonuçlarından son derece memnundu."
+      },
+      {
+        "word": "satisfying",
+        "type": "sıfat",
+        "meaning": "tatmin edici",
+        "sentence": "Completing a difficult puzzle after hours of work is a very [satisfying] experience.",
+        "sentence_tr": "Saatlerce çalıştıktan sonra zor bir yapbozu tamamlamak çok tatmin edici bir deneyimdir."
       }
     ]
   },
@@ -28786,6 +28767,13 @@
         "meaning": "satıcı",
         "sentence": "The online [seller] immediately shipped the package after receiving the payment.",
         "sentence_tr": "Çevrimiçi satıcı, ödemeyi aldıktan sonra paketi derhal kargoladı."
+      },
+      {
+        "word": "sale",
+        "type": "isim",
+        "meaning": "satış",
+        "sentence": "The company announced a massive summer [sale] with discounts of up to fifty percent.",
+        "sentence_tr": "Şirket, yüzde elliye varan indirimlerle büyük bir yaz satışı duyurdu."
       }
     ]
   },
@@ -32893,39 +32881,6 @@
     ]
   },
   {
-    "family": "traitor",
-    "members": [
-      {
-        "word": "traitor",
-        "type": "isim",
-        "meaning": "hain",
-        "sentence": "The angry soldiers called him a [traitor].",
-        "sentence_tr": "Öfkeli askerler ona hain dedi."
-      },
-      {
-        "word": "translate",
-        "type": "fiil",
-        "meaning": "çevirmek",
-        "sentence": "Please [translate] this short letter into English.",
-        "sentence_tr": "Lütfen bu kısa mektubu İngilizceye çevir."
-      },
-      {
-        "word": "translation",
-        "type": "isim",
-        "meaning": "çeviri",
-        "sentence": "The literal [translation] of this idiom is funny.",
-        "sentence_tr": "Bu deyimin birebir çevirisi komik."
-      },
-      {
-        "word": "translator",
-        "type": "isim",
-        "meaning": "çevirmen",
-        "sentence": "The professional [translator] finished the document quickly.",
-        "sentence_tr": "Profesyonel çevirmen belgeyi hızla bitirdi."
-      }
-    ]
-  },
-  {
     "family": "transform",
     "members": [
       {
@@ -32960,6 +32915,32 @@
         "meaning": "geçişsel",
         "sentence": "They established a [transitional] government last year.",
         "sentence_tr": "Geçen yıl geçişsel bir hükümet kurdular."
+      }
+    ]
+  },
+  {
+    "family": "translate",
+    "members": [
+      {
+        "word": "translate",
+        "type": "fiil",
+        "meaning": "çevirmek",
+        "sentence": "Please [translate] this short letter into English.",
+        "sentence_tr": "Lütfen bu kısa mektubu İngilizceye çevir."
+      },
+      {
+        "word": "translation",
+        "type": "isim",
+        "meaning": "çeviri",
+        "sentence": "The literal [translation] of this idiom is funny.",
+        "sentence_tr": "Bu deyimin birebir çevirisi komik."
+      },
+      {
+        "word": "translator",
+        "type": "isim",
+        "meaning": "çevirmen",
+        "sentence": "The professional [translator] finished the document quickly.",
+        "sentence_tr": "Profesyonel çevirmen belgeyi hızla bitirdi."
       }
     ]
   },
@@ -33327,46 +33308,6 @@
     ]
   },
   {
-    "family": "unable",
-    "members": [
-      {
-        "word": "unable",
-        "type": "sıfat",
-        "meaning": "yapamayan, aciz",
-        "sentence": "He was [unable] to open the locked door.",
-        "sentence_tr": "Kilitli kapıyı açamadı."
-      },
-      {
-        "word": "understand",
-        "type": "fiil",
-        "meaning": "anlamak",
-        "sentence": "I cannot [understand] this complex math problem.",
-        "sentence_tr": "Bu karmaşık matematik problemini anlayamıyorum."
-      },
-      {
-        "word": "understanding",
-        "type": "isim",
-        "meaning": "anlayış",
-        "sentence": "A mutual [understanding] is key to a friendship.",
-        "sentence_tr": "Karşılıklı bir anlayış dostluğun anahtarıdır."
-      },
-      {
-        "word": "understandable",
-        "type": "sıfat",
-        "meaning": "anlaşılır",
-        "sentence": "Her late arrival was completely [understandable] today.",
-        "sentence_tr": "Onun geç gelişi bugün tamamen anlaşılırdı."
-      },
-      {
-        "word": "understandably",
-        "type": "zarf",
-        "meaning": "anlaşılır biçimde",
-        "sentence": "She was [understandably] upset about the bad news.",
-        "sentence_tr": "Kötü haber yüzünden anlaşılır biçimde üzgündü."
-      }
-    ]
-  },
-  {
     "family": "uncertainty",
     "members": [
       {
@@ -33401,6 +33342,39 @@
         "meaning": "bilinçli olarak",
         "sentence": "I did not [consciously] copy your design.",
         "sentence_tr": "Tasarımınızı bilinçli olarak kopyalamadım."
+      }
+    ]
+  },
+  {
+    "family": "understand",
+    "members": [
+      {
+        "word": "understand",
+        "type": "fiil",
+        "meaning": "anlamak",
+        "sentence": "I cannot [understand] this complex math problem.",
+        "sentence_tr": "Bu karmaşık matematik problemini anlayamıyorum."
+      },
+      {
+        "word": "understanding",
+        "type": "isim",
+        "meaning": "anlayış",
+        "sentence": "A mutual [understanding] is key to a friendship.",
+        "sentence_tr": "Karşılıklı bir anlayış dostluğun anahtarıdır."
+      },
+      {
+        "word": "understandable",
+        "type": "sıfat",
+        "meaning": "anlaşılır",
+        "sentence": "Her late arrival was completely [understandable] today.",
+        "sentence_tr": "Onun geç gelişi bugün tamamen anlaşılırdı."
+      },
+      {
+        "word": "understandably",
+        "type": "zarf",
+        "meaning": "anlaşılır biçimde",
+        "sentence": "She was [understandably] upset about the bad news.",
+        "sentence_tr": "Kötü haber yüzünden anlaşılır biçimde üzgündü."
       }
     ]
   },
