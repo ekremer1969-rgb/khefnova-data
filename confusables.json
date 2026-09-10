@@ -1,1 +1,1302 @@
-
+[
+  {
+    "id": "cf_0001",
+    "topic": "cf_verb",
+    "level": 2,
+    "sentence": "Please [tell] me the truth about what happened.",
+    "answer": "tell",
+    "distractors": [
+      "say",
+      "speak"
+    ],
+    "sentence_tr": "Lütfen bana ne olduğuyla ilgili gerçeği söyle.",
+    "note": "'Tell' doğrudan bir şahıs nesnesi (tell me) alarak kullanılır."
+  },
+  {
+    "id": "cf_0002",
+    "topic": "cf_verb",
+    "level": 2,
+    "sentence": "She didn't [say] anything during the whole meeting.",
+    "answer": "say",
+    "distractors": [
+      "tell",
+      "talk"
+    ],
+    "sentence_tr": "Tüm toplantı boyunca hiçbir şey söylemedi.",
+    "note": "Doğrudan şahıs nesnesi almadan bir söz ifade ederken 'say' kullanılır."
+  },
+  {
+    "id": "cf_0003",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "He can [speak] three foreign languages fluently.",
+    "answer": "speak",
+    "distractors": [
+      "talk",
+      "tell"
+    ],
+    "sentence_tr": "O, üç yabancı dili akıcı bir şekilde konuşabiliyor.",
+    "note": "Dilleri akıcı konuşma yeteneği ifade edilirken 'speak' kullanılır."
+  },
+  {
+    "id": "cf_0004",
+    "topic": "cf_verb",
+    "level": 2,
+    "sentence": "We need to [talk] about our future plans.",
+    "answer": "talk",
+    "distractors": [
+      "say",
+      "tell"
+    ],
+    "sentence_tr": "Gelecek planlarımız hakkında konuşmamız gerekiyor.",
+    "note": "Karşılıklı sohbet etme ve tartışma eyleminde 'talk' tercih edilir."
+  },
+  {
+    "id": "cf_0005",
+    "topic": "cf_verb",
+    "level": 2,
+    "sentence": "My mother always [makes] delicious cakes for us.",
+    "answer": "makes",
+    "distractors": [
+      "does",
+      "creates"
+    ],
+    "sentence_tr": "Annem bizim için her zaman lezzetli kekler yapar.",
+    "note": "Somut bir şey üretme veya pişirme eylemlerinde 'make' kullanılır."
+  },
+  {
+    "id": "cf_0006",
+    "topic": "cf_verb",
+    "level": 2,
+    "sentence": "You should [do] your homework before going out.",
+    "answer": "do",
+    "distractors": [
+      "make",
+      "perform"
+    ],
+    "sentence_tr": "Dışarı çıkmadan önce ödevini yapmalısın.",
+    "note": "Görev, iş ve genel aktiviteler için 'do' fiili kullanılır."
+  },
+  {
+    "id": "cf_0007",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "The sun will [rise] in the east tomorrow.",
+    "answer": "rise",
+    "distractors": [
+      "raise",
+      "arise"
+    ],
+    "sentence_tr": "Güneş yarın doğudan doğacak.",
+    "note": "'Rise' geçişsiz bir fiildir ve nesne almadan kendi kendine yükselmeyi bildirir."
+  },
+  {
+    "id": "cf_0008",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "The government decided to [raise] taxes this year.",
+    "answer": "raise",
+    "distractors": [
+      "rise",
+      "arise"
+    ],
+    "sentence_tr": "Hükümet bu yıl vergileri artırmaya karar verdi.",
+    "note": "'Raise' geçişli bir fiildir ve doğrudan bir nesneyi (taxes) yukarı çekmeyi/artırmayı ifade eder."
+  },
+  {
+    "id": "cf_0009",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "He likes to [lie] on the beach every summer.",
+    "answer": "lie",
+    "distractors": [
+      "lay",
+      "lain"
+    ],
+    "sentence_tr": "Her yaz plajda uzanmayı sever.",
+    "note": "'Uzanmak' anlamındaki 'lie' geçişsizdir ve doğrudan nesne almaz."
+  },
+  {
+    "id": "cf_0010",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "Please [lay] the books on the wooden table.",
+    "answer": "lay",
+    "distractors": [
+      "lie",
+      "lain"
+    ],
+    "sentence_tr": "Lütfen kitapları ahşap masanın üzerine koyun.",
+    "note": "'Bir şeyi yatay koymak/serpmek' anlamındaki 'lay' nesne (the books) alan geçişli fiildir."
+  },
+  {
+    "id": "cf_0011",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "Could you [lend] me your umbrella for today?",
+    "answer": "lend",
+    "distractors": [
+      "borrow",
+      "rent"
+    ],
+    "sentence_tr": "Şemsiyeni bugünlük bana ödünç verebilir misin?",
+    "note": "'Lend' geçici olarak birine bir şey vermektir (ödünç vermek)."
+  },
+  {
+    "id": "cf_0012",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "I need to [borrow] some money from you.",
+    "answer": "borrow",
+    "distractors": [
+      "lend",
+      "hire"
+    ],
+    "sentence_tr": "Senden biraz para ödünç almam gerekiyor.",
+    "note": "'Borrow' birinden geçici olarak bir şey almaktır (ödünç almak)."
+  },
+  {
+    "id": "cf_0013",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "Don't forget to [bring] your documents tomorrow.",
+    "answer": "bring",
+    "distractors": [
+      "take",
+      "fetch"
+    ],
+    "sentence_tr": "Yarın belgelerini getirmeyi unutma.",
+    "note": "'Bring' bir şeyi konuşulan yere doğru getirme eylemidir."
+  },
+  {
+    "id": "cf_0014",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "Please [take] these files to the main office.",
+    "answer": "take",
+    "distractors": [
+      "bring",
+      "carry"
+    ],
+    "sentence_tr": "Lütfen bu dosyaları ana ofise götürün.",
+    "note": "'Take' bir şeyi bulunulan yerden başka bir yere götürme eylemidir."
+  },
+  {
+    "id": "cf_0015",
+    "topic": "cf_verb",
+    "level": 2,
+    "sentence": "She wants to [teach] English to young adults.",
+    "answer": "teach",
+    "distractors": [
+      "learn",
+      "study"
+    ],
+    "sentence_tr": "Genç yetişkinlere İngilizce öğretmek istiyor.",
+    "note": "'Teach' başkasına bilgi aktarma (öğretmek) eylemidir."
+  },
+  {
+    "id": "cf_0016",
+    "topic": "cf_verb",
+    "level": 2,
+    "sentence": "Students [learn] new words through daily practice.",
+    "answer": "learn",
+    "distractors": [
+      "teach",
+      "instruct"
+    ],
+    "sentence_tr": "Öğrenciler günlük pratikle yeni kelimeler öğrenir.",
+    "note": "'Learn' bilgi veya beceri edinme (öğrenmek) eylemidir."
+  },
+  {
+    "id": "cf_0017",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "This old song always [reminds] me of you.",
+    "answer": "reminds",
+    "distractors": [
+      "remembers",
+      "recollects"
+    ],
+    "sentence_tr": "Bu eski şarkı bana her zaman seni hatırlatır.",
+    "note": "'Remind' birine bir şeyi veya kimseyi çağrıştırmak/hatırlatmaktır."
+  },
+  {
+    "id": "cf_0018",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "I cannot [remember] where I parked my car.",
+    "answer": "remember",
+    "distractors": [
+      "remind",
+      "recall"
+    ],
+    "sentence_tr": "Arabamı nereye park ettiğimi hatırlayamıyorum.",
+    "note": "'Remember' zihinde bilgiyi kendiliğinden muhafaza etmek veya anımsamaktır."
+  },
+  {
+    "id": "cf_0019",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "Our local team managed to [win] the championship.",
+    "answer": "win",
+    "distractors": [
+      "beat",
+      "earn"
+    ],
+    "sentence_tr": "Yerel takımımız şampiyonluğu kazanmayı başardı.",
+    "note": "'Win' yarışma, maç veya ödül kazanmak için kullanılır."
+  },
+  {
+    "id": "cf_0020",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "They managed to [beat] their rivals in finals.",
+    "answer": "beat",
+    "distractors": [
+      "win",
+      "gain"
+    ],
+    "sentence_tr": "Finalde rakiplerini yenmeyi başardılar.",
+    "note": "'Beat' bir rakibi veya takımı mağlup etmek anlamındadır."
+  },
+  {
+    "id": "cf_0021",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "The criminal decided to [deny] all the allegations.",
+    "answer": "deny",
+    "distractors": [
+      "refuse",
+      "reject"
+    ],
+    "sentence_tr": "Suçlu tüm iddiaları inkar etmeye karar verdi.",
+    "note": "Suçlamayı veya iddiayı reddedip yalanlamak 'deny' fiiliyle ifade edilir."
+  },
+  {
+    "id": "cf_0022",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "He strictly [refused] to accept their job offer.",
+    "answer": "refused",
+    "distractors": [
+      "denied",
+      "ignored"
+    ],
+    "sentence_tr": "Onların iş teklifini kabul etmeyi kesinlikle reddetti.",
+    "note": "Bir teklif veya daveti geri çevirmek 'refuse' fiilidir."
+  },
+  {
+    "id": "cf_0023",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "Thieves managed to [rob] the central bank yesterday.",
+    "answer": "rob",
+    "distractors": [
+      "steal",
+      "burgle"
+    ],
+    "sentence_tr": "Hırsızlar dün merkez bankasını soymayı başardı.",
+    "note": "'Rob' kişi veya mekanı soymaktır; doğrudan soyulan yer/kişi nesne olur."
+  },
+  {
+    "id": "cf_0024",
+    "topic": "cf_verb",
+    "level": 4,
+    "sentence": "Someone tried to [steal] my bicycle last night.",
+    "answer": "steal",
+    "distractors": [
+      "rob",
+      "snatch"
+    ],
+    "sentence_tr": "Dün gece birisi bisikletimi çalmaya çalıştı.",
+    "note": "'Steal' çalınan nesnenin kendisini doğrudan nesne olarak alır."
+  },
+  {
+    "id": "cf_0025",
+    "topic": "cf_verb",
+    "level": 3,
+    "sentence": "This elegant jacket doesn't [fit] me properly.",
+    "answer": "fit",
+    "distractors": [
+      "suit",
+      "match"
+    ],
+    "sentence_tr": "Bu şık ceket üzerime tam oturmuyor.",
+    "note": "'Fit' bedenin veya ölçünün uymasını ifade eder."
+  },
+  {
+    "id": "cf_0026",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "This small car is very [economical] on fuel.",
+    "answer": "economical",
+    "distractors": [
+      "economic",
+      "economics"
+    ],
+    "sentence_tr": "Bu küçük araba yakıtta çok tasarrufludur.",
+    "note": "'Economical' tasarruflu ve az masraflı anlamındadır; 'economic' ise ekonomi bilimiyle ilgilidir."
+  },
+  {
+    "id": "cf_0027",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "Istanbul is famous for its [historic] monuments.",
+    "answer": "historic",
+    "distractors": [
+      "historical",
+      "history"
+    ],
+    "sentence_tr": "İstanbul tarihi önem taşıyan anıtlarıyla ünlüdür.",
+    "note": "Tarihte büyük önemi olan olay veya yapılar için 'historic' kullanılır."
+  },
+  {
+    "id": "cf_0028",
+    "topic": "cf_adj",
+    "level": 3,
+    "sentence": "She is a very [sensible] person; she acts logically.",
+    "answer": "sensible",
+    "distractors": [
+      "sensitive",
+      "sensory"
+    ],
+    "sentence_tr": "O çok mantıklı bir insandır; mantıkla hareket eder.",
+    "note": "'Sensible' akıllıca ve mantıklı demektir; 'sensitive' ise hassas ve duygusal anlamına gelir."
+  },
+  {
+    "id": "cf_0029",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "He made a [considerable] amount of progress recently.",
+    "answer": "considerable",
+    "distractors": [
+      "considerate",
+      "considering"
+    ],
+    "sentence_tr": "Son zamanlarda kayda değer miktarda ilerleme sağladı.",
+    "note": "'Considerable' büyük, önemli ve kayda değer miktarları anlatır."
+  },
+  {
+    "id": "cf_0030",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "The doctor prescribed a completely [effective] treatment.",
+    "answer": "effective",
+    "distractors": [
+      "efficient",
+      "affective"
+    ],
+    "sentence_tr": "Doktor tamamen etkili bir tedavi reçete etti.",
+    "note": "'Effective' istenen net sonucu veren (etkili); 'efficient' ise verimli çalışan demektir."
+  },
+  {
+    "id": "cf_0031",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "The engine made a [continuous] noise all night.",
+    "answer": "continuous",
+    "distractors": [
+      "continual",
+      "continued"
+    ],
+    "sentence_tr": "Motor bütün gece kesintisiz bir gürültü çıkardı.",
+    "note": "Aralıksız ve kesintisiz süren durumlar için 'continuous' kullanılır."
+  },
+  {
+    "id": "cf_0032",
+    "topic": "cf_adj",
+    "level": 5,
+    "sentence": "The team published an [exhaustive] report on safety.",
+    "answer": "exhaustive",
+    "distractors": [
+      "exhausted",
+      "exhausting"
+    ],
+    "sentence_tr": "Ekip güvenlik konusunda eksiksiz bir rapor yayımladı.",
+    "note": "'Exhaustive' kapsamlı ve detaylı demektir; 'exhausted' ise bitkin anlamına gelir."
+  },
+  {
+    "id": "cf_0033",
+    "topic": "cf_adj",
+    "level": 3,
+    "sentence": "His [childish] behaviour annoyed everyone in the room.",
+    "answer": "childish",
+    "distractors": [
+      "childlike",
+      "childless"
+    ],
+    "sentence_tr": "Ondaki çocukça davranışlar odadaki herkesi rahatsız etti.",
+    "note": "Olumsuz anlamda çocukça ve olgunlaşmamış tavırlar için 'childish' kullanılır."
+  },
+  {
+    "id": "cf_0034",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "Always be [respectful] towards your elderly relatives.",
+    "answer": "respectful",
+    "distractors": [
+      "respectable",
+      "respective"
+    ],
+    "sentence_tr": "Yaşlı akrabalarınıza karşı her zaman saygılı olun.",
+    "note": "Saygı gösteren kişi için 'respectful', saygıdeğer kişi/durum için 'respectable' kullanılır."
+  },
+  {
+    "id": "cf_0035",
+    "topic": "cf_adj",
+    "level": 3,
+    "sentence": "The writer created an [imaginative] story for children.",
+    "answer": "imaginative",
+    "distractors": [
+      "imaginary",
+      "imaginable"
+    ],
+    "sentence_tr": "Yazar çocuklar için hayal gücü yüksek bir hikaye yarattı.",
+    "note": "Yaratıcı ve hayal gücü geniş olan için 'imaginative', kurgusal olan için 'imaginary' kullanılır."
+  },
+  {
+    "id": "cf_0036",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "She is an [industrious] student who studies daily.",
+    "answer": "industrious",
+    "distractors": [
+      "industrial",
+      "industrialized"
+    ],
+    "sentence_tr": "O her gün çalışan çalışkan bir öğrencidir.",
+    "note": "'Industrious' çalışkan ve gayretli demektir; 'industrial' ise sanayi ile ilgilidir."
+  },
+  {
+    "id": "cf_0037",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "They demanded [humane] treatment for all prisoners.",
+    "answer": "humane",
+    "distractors": [
+      "human",
+      "humanitarian"
+    ],
+    "sentence_tr": "Tüm mahkumlar için insani muamele talep ettiler.",
+    "note": "Merhametli ve insancıl muamele için 'humane' sıfatı kullanılır."
+  },
+  {
+    "id": "cf_0038",
+    "topic": "cf_adj",
+    "level": 3,
+    "sentence": "He prefers [classical] music to modern pop songs.",
+    "answer": "classical",
+    "distractors": [
+      "classic",
+      "classy"
+    ],
+    "sentence_tr": "O klasik müziği modern pop şarkılarına tercih eder.",
+    "note": "Müzik veya geleneksel sanat türleri için 'classical' kullanılır."
+  },
+  {
+    "id": "cf_0039",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "We had to find an [alternative] route today.",
+    "answer": "alternative",
+    "distractors": [
+      "alternate",
+      "alternating"
+    ],
+    "sentence_tr": "Bugün alternatif bir rota bulmak zorunda kaldık.",
+    "note": "Seçenek sunan diğer yol/yöntem anlamında 'alternative' tercih edilir."
+  },
+  {
+    "id": "cf_0040",
+    "topic": "cf_adj",
+    "level": 5,
+    "sentence": "A judge must remain [disinterested] during the trial.",
+    "answer": "disinterested",
+    "distractors": [
+      "uninterested",
+      "interesting"
+    ],
+    "sentence_tr": "Bir yargıç duruşma boyunca tarafsız kalmalıdır.",
+    "note": "'Disinterested' tarafsız ve ön yargısız demektir; 'uninterested' ise ilgisiz anlamına gelir."
+  },
+  {
+    "id": "cf_0041",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "The guide gave a [comprehensive] list of hotels.",
+    "answer": "comprehensive",
+    "distractors": [
+      "comprehensible",
+      "comprehending"
+    ],
+    "sentence_tr": "Rehber otellerin kapsamlı bir listesini verdi.",
+    "note": "'Comprehensive' etraflı ve detaylı anlamına gelir; 'comprehensible' ise anlaşılır demektir."
+  },
+  {
+    "id": "cf_0042",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "Her advice proved [invaluable] during the crisis.",
+    "answer": "invaluable",
+    "distractors": [
+      "valueless",
+      "value"
+    ],
+    "sentence_tr": "Onun tavsiyesi kriz sırasında paha biçilemez oldu.",
+    "note": "'Invaluable' paha biçilemez derecede değerli demektir; 'valueless' ise değersiz anlamındadır."
+  },
+  {
+    "id": "cf_0043",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "The city is [notorious] for its heavy traffic.",
+    "answer": "notorious",
+    "distractors": [
+      "notable",
+      "noted"
+    ],
+    "sentence_tr": "Şehir yoğun trafiğiyle kötü bir şöhrete sahiptir.",
+    "note": "Kötü bir özellikle nam salmış veya adı çıkmış durumlar için 'notorious' kullanılır."
+  },
+  {
+    "id": "cf_0044",
+    "topic": "cf_adj",
+    "level": 3,
+    "sentence": "Regular exercise is highly [beneficial] for health.",
+    "answer": "beneficial",
+    "distractors": [
+      "beneficent",
+      "beneficiary"
+    ],
+    "sentence_tr": "Düzenli egzersiz sağlık için son derece faydalıdır.",
+    "note": "'Beneficial' yararlı ve faydalı demektir; 'beneficent' ise cömert/hayırsever anlamına gelir."
+  },
+  {
+    "id": "cf_0045",
+    "topic": "cf_adj",
+    "level": 5,
+    "sentence": "Signing the treaty was a [momentous] event.",
+    "answer": "momentous",
+    "distractors": [
+      "momentary",
+      "momentally"
+    ],
+    "sentence_tr": "Antlaşmayı imzalamak tarihi öneme sahip bir olaydı.",
+    "note": "'Momentous' çok önemli ve tarihi demektir; 'momentary' ise anlık ve kısa süreli anlamına gelir."
+  },
+  {
+    "id": "cf_0046",
+    "topic": "cf_adj",
+    "level": 4,
+    "sentence": "She gave a [credible] explanation for her absence.",
+    "answer": "credible",
+    "distractors": [
+      "credulous",
+      "creditable"
+    ],
+    "sentence_tr": "Devamsızlığı için inandırıcı bir açıklama yaptı.",
+    "note": "'Credible' inanılır ve güvenilir anlamına gelir; 'credulous' ise saf/her şeye inanan demektir."
+  },
+  {
+    "id": "cf_0047",
+    "topic": "cf_adj",
+    "level": 3,
+    "sentence": "He is very [sociable] and enjoys meeting people.",
+    "answer": "sociable",
+    "distractors": [
+      "social",
+      "society"
+    ],
+    "sentence_tr": "O çok sosyalleşmeyi seven biridir ve insanlarla tanışmaktan hoşlanır.",
+    "note": "'Sociable' arkadaş canlısı ve sıcakkanlı kişileri anlatır; 'social' ise toplumla ilgilidir."
+  },
+  {
+    "id": "cf_0048",
+    "topic": "cf_adj",
+    "level": 5,
+    "sentence": "The poem creates a [sensuous] atmosphere of music.",
+    "answer": "sensuous",
+    "distractors": [
+      "sensual",
+      "sensory"
+    ],
+    "sentence_tr": "Şiir müziğin duyulara hitap eden bir atmosferini yaratır.",
+    "note": "Estetik açıdan duyulara hitap eden durumlar için 'sensuous' sıfatı tercih edilir."
+  },
+  {
+    "id": "cf_0049",
+    "topic": "cf_adj",
+    "level": 5,
+    "sentence": "She is a [conscientious] worker who double-checks everything.",
+    "answer": "conscientious",
+    "distractors": [
+      "conscious",
+      "consciousness"
+    ],
+    "sentence_tr": "O her şeyi iki kez kontrol eden vicdanlı ve titiz bir çalışandır.",
+    "note": "'Conscientious' işini titizlikle ve sorumlulukla yapan demektir; 'conscious' ise bilinci açık anlamına gelir."
+  },
+  {
+    "id": "cf_0050",
+    "topic": "cf_adj",
+    "level": 3,
+    "sentence": "Fresh vegetables provide a [healthy] diet for kids.",
+    "answer": "healthy",
+    "distractors": [
+      "healthful",
+      "healthily"
+    ],
+    "sentence_tr": "Taze sebzeler çocuklar için sağlıklı bir beslenme sağlar.",
+    "note": "Sağlığa yararlı veya sağlıklı olan durumlar için 'healthy' kullanılır."
+  },
+  {
+    "id": "cf_0051",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "We took a short [trip] to the beach.",
+    "answer": "trip",
+    "distractors": [
+      "travel",
+      "journey"
+    ],
+    "sentence_tr": "Sahile kısa bir gezi yaptık.",
+    "note": "Kısa gidiş-dönüş gezileri için 'trip' kullanılır."
+  },
+  {
+    "id": "cf_0052",
+    "topic": "cf_noun",
+    "level": 2,
+    "sentence": "She is looking for a new [job] in marketing.",
+    "answer": "job",
+    "distractors": [
+      "work",
+      "career"
+    ],
+    "sentence_tr": "Pazarlama alanında yeni bir iş arıyor.",
+    "note": "Sayılabilen meslek/iş pozisyonu için 'job' kullanılır."
+  },
+  {
+    "id": "cf_0053",
+    "topic": "cf_noun",
+    "level": 4,
+    "sentence": "This antique ring has great emotional [value].",
+    "answer": "value",
+    "distractors": [
+      "price",
+      "cost"
+    ],
+    "sentence_tr": "Bu antika yüzüğün büyük bir manevi değeri var.",
+    "note": "Niteliksel veya duygusal eder/değer anlamında 'value' tercih edilir."
+  },
+  {
+    "id": "cf_0054",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "Don't miss this [opportunity] to study abroad.",
+    "answer": "opportunity",
+    "distractors": [
+      "possibility",
+      "option"
+    ],
+    "sentence_tr": "Yurt dışında okumak için bu fırsatı kaçırmayın.",
+    "note": "Değerlendirilebilecek elverişli imkan/fırsat anlamında 'opportunity' kullanılır."
+  },
+  {
+    "id": "cf_0055",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "The storm caused extensive [damage] to the roof.",
+    "answer": "damage",
+    "distractors": [
+      "harm",
+      "injury"
+    ],
+    "sentence_tr": "Fırtına çatıda büyük hasara yol açtı.",
+    "note": "Eşyaya veya mülke verilen somut fiziki zarar 'damage'dır."
+  },
+  {
+    "id": "cf_0056",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "Bowing is a traditional [custom] in Japan.",
+    "answer": "custom",
+    "distractors": [
+      "habit",
+      "tradition"
+    ],
+    "sentence_tr": "Eğilerek selam vermek Japonya'da geleneksel bir görenektir.",
+    "note": "Toplumsal alışkanlık ve gelenekleşmiş davranış 'custom'dır."
+  },
+  {
+    "id": "cf_0057",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "We sat under the tree in the [shade].",
+    "answer": "shade",
+    "distractors": [
+      "shadow",
+      "darkness"
+    ],
+    "sentence_tr": "Ağacın altında gölgede oturduk.",
+    "note": "Güneş ışığından korunan gölgelik alan 'shade'dir."
+  },
+  {
+    "id": "cf_0058",
+    "topic": "cf_noun",
+    "level": 4,
+    "sentence": "The Mediterranean area is famous for its mild [climate].",
+    "answer": "climate",
+    "distractors": [
+      "weather",
+      "forecast"
+    ],
+    "sentence_tr": "Akdeniz bölgesi ılıman iklimiyle ünlüdür.",
+    "note": "Bir bölgenin uzun süreli genel hava durumu ve iklimi 'climate'dır."
+  },
+  {
+    "id": "cf_0059",
+    "topic": "cf_noun",
+    "level": 2,
+    "sentence": "They bought a small brick [house] near the park.",
+    "answer": "house",
+    "distractors": [
+      "home",
+      "flat"
+    ],
+    "sentence_tr": "Parkın yakınında küçük tuğla bir ev satın aldılar.",
+    "note": "Fiziksel bina ve yapı olarak ev 'house'dur."
+  },
+  {
+    "id": "cf_0060",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "The shop owner greeted every [customer] warmly.",
+    "answer": "customer",
+    "distractors": [
+      "client",
+      "consumer"
+    ],
+    "sentence_tr": "Dükkan sahibi her müşteriyi sıcak bir şekilde karşıladı.",
+    "note": "Bir dükkandan veya mağazadan mal alan kişi 'customer'dır."
+  },
+  {
+    "id": "cf_0061",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "Follow this Italian [recipe] for delicious pasta.",
+    "answer": "recipe",
+    "distractors": [
+      "prescription",
+      "receipt"
+    ],
+    "sentence_tr": "Lezzetli makarna için bu İtalyan yemek tarifini takip edin.",
+    "note": "Yemek pişirme tarifi ve talimatları 'recipe'dir."
+  },
+  {
+    "id": "cf_0062",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "Keep the store [receipt] in case of return.",
+    "answer": "receipt",
+    "distractors": [
+      "recipe",
+      "invoice"
+    ],
+    "sentence_tr": "İade durumuna karşı mağaza fişini saklayın.",
+    "note": "Alışveriş sonrası ödeme yapıldığını gösteren fiş 'receipt'tir."
+  },
+  {
+    "id": "cf_0063",
+    "topic": "cf_noun",
+    "level": 4,
+    "sentence": "The physician wrote a [prescription] for antibiotics.",
+    "answer": "prescription",
+    "distractors": [
+      "recipe",
+      "form"
+    ],
+    "sentence_tr": "Hekim antibiyotik için bir reçete yazdı.",
+    "note": "Doktor tarafından yazılan tıbbi ilaç reçetesi 'prescription'dır."
+  },
+  {
+    "id": "cf_0064",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "Do not accept gifts from a total [stranger].",
+    "answer": "stranger",
+    "distractors": [
+      "foreigner",
+      "alien"
+    ],
+    "sentence_tr": "Hiç tanımadığınız birinden hediye kabul etmeyin.",
+    "note": "Tanınmayan/bilinmeyen kişi 'stranger'dır."
+  },
+  {
+    "id": "cf_0065",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "As a [foreigner], he needed a valid passport.",
+    "answer": "foreigner",
+    "distractors": [
+      "stranger",
+      "immigrant"
+    ],
+    "sentence_tr": "Bir yabancı ülke vatandaşı olarak geçerli bir pasaporta ihtiyacı vardı.",
+    "note": "Başka bir ülkenin vatandaşı olan yabancı 'foreigner'dır."
+  },
+  {
+    "id": "cf_0066",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "The manager receives a fixed monthly [salary].",
+    "answer": "salary",
+    "distractors": [
+      "wage",
+      "income"
+    ],
+    "sentence_tr": "Müdür aylık sabit bir maaş almaktadır.",
+    "note": "Beyaz yakalı veya profesyonellere ödenen aylık sabit maaş 'salary'dir."
+  },
+  {
+    "id": "cf_0067",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "Workers receive an hourly [wage] every Friday.",
+    "answer": "wage",
+    "distractors": [
+      "salary",
+      "pension"
+    ],
+    "sentence_tr": "İşçiler her cuma saatlik ücretlerini alırlar.",
+    "note": "Saatlik, günlük veya haftalık ödenen çalışma ücreti 'wage'dir."
+  },
+  {
+    "id": "cf_0068",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "The final [scene] of the movie was touching.",
+    "answer": "scene",
+    "distractors": [
+      "scenery",
+      "view"
+    ],
+    "sentence_tr": "Filmin son sahnesi çok duygusaldı.",
+    "note": "Film veya tiyatrodaki tek bir bölüm/sahne 'scene'dir."
+  },
+  {
+    "id": "cf_0069",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "We enjoyed the breathtaking mountain [scenery].",
+    "answer": "scenery",
+    "distractors": [
+      "scene",
+      "landscape"
+    ],
+    "sentence_tr": "Nefes kesici dağ manzarasının tadını çıkardık.",
+    "note": "Doğal manzara ve genel çevre görünümü 'scenery'dir."
+  },
+  {
+    "id": "cf_0070",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "We had a light [supper] before bedtime.",
+    "answer": "supper",
+    "distractors": [
+      "lunch",
+      "breakfast"
+    ],
+    "sentence_tr": "Yatmadan önce hafif bir akşam yemeği yedik.",
+    "note": "'Supper' yatmadan önce yenen hafif akşam öğünüdür; 'lunch' öğle, 'breakfast' sabah öğünüdür."
+  },
+  {
+    "id": "cf_0071",
+    "topic": "cf_noun",
+    "level": 4,
+    "sentence": "Smoking is the leading [cause] of lung cancer.",
+    "answer": "cause",
+    "distractors": [
+      "reason",
+      "motive"
+    ],
+    "sentence_tr": "Sigara içmek akciğer kanserinin temel nedenidir.",
+    "note": "Bir sonucun doğrudan kaynağı ve fiziki nedeni 'cause'dur."
+  },
+  {
+    "id": "cf_0072",
+    "topic": "cf_noun",
+    "level": 3,
+    "sentence": "Give me one good [reason] for your delay.",
+    "answer": "reason",
+    "distractors": [
+      "cause",
+      "motive"
+    ],
+    "sentence_tr": "Gecikmen için bana geçerli bir gerekçe ver.",
+    "note": "Bir eylemin gerekçesi 'reason'dır (reason for); bir sonucu doğuran neden ise 'cause'dır (cause of)."
+  },
+  {
+    "id": "cf_0073",
+    "topic": "cf_noun",
+    "level": 4,
+    "sentence": "She is studying international [politics] at university.",
+    "answer": "politics",
+    "distractors": [
+      "policy",
+      "political"
+    ],
+    "sentence_tr": "Üniversitede uluslararası siyaset okuyor.",
+    "note": "Siyaset ve politika bilimi 'politics'dir."
+  },
+  {
+    "id": "cf_0074",
+    "topic": "cf_noun",
+    "level": 4,
+    "sentence": "The company adopted a new privacy [policy].",
+    "answer": "policy",
+    "distractors": [
+      "politics",
+      "politic"
+    ],
+    "sentence_tr": "Şirket yeni bir gizlilik politikası benimsedi.",
+    "note": "Kurum veya devletin izlediği ilke/strateji 'policy'dir."
+  },
+  {
+    "id": "cf_0075",
+    "topic": "cf_noun",
+    "level": 2,
+    "sentence": "He loves reading books about ancient [history].",
+    "answer": "history",
+    "distractors": [
+      "story",
+      "historical"
+    ],
+    "sentence_tr": "Antik tarih hakkında kitaplar okumayı seviyor.",
+    "note": "Geçmişte yaşanmış gerçek olaylar ve tarih bilimi 'history'dir."
+  },
+  {
+    "id": "cf_0076",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "The new government regulations will [affect] small businesses.",
+    "answer": "affect",
+    "distractors": [
+      "effect",
+      "affection"
+    ],
+    "sentence_tr": "Yeni hükümet düzenlemeleri küçük işletmeleri etkileyecek.",
+    "note": "'Affect' eylemi/etkilemeyi bildiren fiildir; 'effect' ise sonuç/etki anlamındaki isimdir."
+  },
+  {
+    "id": "cf_0077",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "She sat [beside] her friend during the whole presentation.",
+    "answer": "beside",
+    "distractors": [
+      "besides",
+      "except"
+    ],
+    "sentence_tr": "Tüm sunum boyunca arkadaşının yanında oturdu.",
+    "note": "'Beside' yanında/yanı başında yer bildiren edattır; 'besides' ise -e ek olarak demektir."
+  },
+  {
+    "id": "cf_0078",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "I have [already] paid the electric bill for this month.",
+    "answer": "already",
+    "distractors": [
+      "yet",
+      "still"
+    ],
+    "sentence_tr": "Bu ayın elektrik faturasını çoktan ödedim.",
+    "note": "Eylemin beklenenden önce bittiğini vurgulayan 'already' olumlu cümlede kullanılır."
+  },
+  {
+    "id": "cf_0079",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "This suit was made [specially] for the wedding ceremony.",
+    "answer": "specially",
+    "distractors": [
+      "especially",
+      "special"
+    ],
+    "sentence_tr": "Bu takım elbise özel olarak düğün töreni için yapıldı.",
+    "note": "Belli bir amaç veya durum için özel tasarlanmış eylemlerde 'specially' tercih edilir."
+  },
+  {
+    "id": "cf_0080",
+    "topic": "cf_other",
+    "level": 2,
+    "sentence": "He doesn't like seafood, and I don't [either].",
+    "answer": "either",
+    "distractors": [
+      "too",
+      "also"
+    ],
+    "sentence_tr": "O deniz ürünlerini sevmez, ben de sevmem.",
+    "note": "Olumsuz cümlelerin sonuna eklenen 'de/da' anlamı için 'either' kullanılır."
+  },
+  {
+    "id": "cf_0081",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "The old system was [altogether] replaced by new software.",
+    "answer": "altogether",
+    "distractors": [
+      "all together",
+      "together"
+    ],
+    "sentence_tr": "Eski sistem tamamen yeni yazılımla değiştirildi.",
+    "note": "'Altogether' tamamen/büsbütün demektir; 'all together' ise hep birlikte anlamına gelir."
+  },
+  {
+    "id": "cf_0082",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "We need to discuss this topic in [further] detail.",
+    "answer": "further",
+    "distractors": [
+      "farther",
+      "farthest"
+    ],
+    "sentence_tr": "Bu konuyu daha ayrıntılı bir şekilde tartışmamız gerekiyor.",
+    "note": "Mesafe dışındaki soyut ilave/daha ileri derece için 'further' kullanılır."
+  },
+  {
+    "id": "cf_0083",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "Of the two options, I prefer the [latter].",
+    "answer": "latter",
+    "distractors": [
+      "later",
+      "latest"
+    ],
+    "sentence_tr": "İki seçenekten ikincisini (sonrakini) tercih ederim.",
+    "note": "Sayılmış iki şeyden ikincisini ifade etmek için 'latter' kullanılır."
+  },
+  {
+    "id": "cf_0084",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "He loves all outdoor sports [especially] mountain biking.",
+    "answer": "especially",
+    "distractors": [
+      "specially",
+      "special"
+    ],
+    "sentence_tr": "Tüm açık hava sporlarını, özellikle de dağ bisikletini sever.",
+    "note": "Bir grup içinden öne çıkarma ve vurgulama yapmak için 'especially' kullanılır."
+  },
+  {
+    "id": "cf_0085",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "Be careful not to [lose] your passport at the airport.",
+    "answer": "lose",
+    "distractors": [
+      "loose",
+      "loosen"
+    ],
+    "sentence_tr": "Havaalanında pasaportunuzu kaybetmemeye dikkat edin.",
+    "note": "'Lose' kaybetmek fiilidir; 'loose' ise gevşek/bol anlamına gelen sıfattır."
+  },
+  {
+    "id": "cf_0086",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "The main [principle] of the firm is absolute honesty.",
+    "answer": "principle",
+    "distractors": [
+      "principal",
+      "principally"
+    ],
+    "sentence_tr": "Firmanın temel ilkesi mutlak dürüstlüktür.",
+    "note": "'Principle' ilke/prensip demektir; 'principal' ise müdür/temel kimsedir."
+  },
+  {
+    "id": "cf_0087",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "She gave me some valuable [advice] about my career.",
+    "answer": "advice",
+    "distractors": [
+      "advise",
+      "advises"
+    ],
+    "sentence_tr": "Kariyerim hakkında bana değerli tavsiyeler verdi.",
+    "note": "'Advice' sayılamayan isimdir (tavsiye); 'advise' ise fiildir (tavsiye etmek)."
+  },
+  {
+    "id": "cf_0088",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "Stress is an inevitable part of [everyday] life.",
+    "answer": "everyday",
+    "distractors": [
+      "every day",
+      "always"
+    ],
+    "sentence_tr": "Stres, günlük yaşamın kaçınılmaz bir parçasıdır.",
+    "note": "'Everyday' ismi niteleyen sıfattır (günlük); 'every day' ise zarf öbeğidir (her gün)."
+  },
+  {
+    "id": "cf_0089",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "This red wine will [complement] the grilled meat nicely.",
+    "answer": "complement",
+    "distractors": [
+      "compliment",
+      "complements"
+    ],
+    "sentence_tr": "Bu kırmızı şarap ızgara eti güzelce tamamlayacaktır.",
+    "note": "'Complement' birbirini tamamlamak; 'compliment' ise iltifat etmektir."
+  },
+  {
+    "id": "cf_0090",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "I wonder [whether] they will accept our proposal.",
+    "answer": "whether",
+    "distractors": [
+      "weather",
+      "climate"
+    ],
+    "sentence_tr": "Teklifimizi kabul edip etmeyeceklerini merak ediyorum.",
+    "note": "'Whether' -ip / -emediği seçeneğini bildiren bağlaçtır; 'weather' hava durumudur."
+  },
+  {
+    "id": "cf_0091",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "They bought new office supplies from the [stationery] shop.",
+    "answer": "stationery",
+    "distractors": [
+      "stationary",
+      "stationers"
+    ],
+    "sentence_tr": "Kırtasiye dükkanından yeni ofis malzemeleri satın aldılar.",
+    "note": "'Stationery' (e ile) kırtasiyedir; 'stationary' (a ile) hareketsiz/duran demektir."
+  },
+  {
+    "id": "cf_0092",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "We ordered chocolate ice cream for [dessert] after dinner.",
+    "answer": "dessert",
+    "distractors": [
+      "desert",
+      "deserts"
+    ],
+    "sentence_tr": "Akşam yemeğinden sonra tatlı olarak çikolatalı dondurma sipariş ettik.",
+    "note": "'Dessert' (çift s ile) tatlıdır; 'desert' ise çöl veya terk etmek demektir."
+  },
+  {
+    "id": "cf_0093",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "She was born in a country [farther] south.",
+    "answer": "farther",
+    "distractors": [
+      "further",
+      "furthest"
+    ],
+    "sentence_tr": "Daha güneydeki bir ülkede doğdu.",
+    "note": "Somut ve ölçülebilir fiziksel mesafe için 'farther' kullanımı esastır."
+  },
+  {
+    "id": "cf_0094",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "I strongly [advise] you to check the document again.",
+    "answer": "advise",
+    "distractors": [
+      "advice",
+      "advices"
+    ],
+    "sentence_tr": "Belgeyi tekrar kontrol etmenizi şiddetle tavsiye ederim.",
+    "note": "'Advise' fiildir (tavsiye etmek); 'advice' ise isimdir (tavsiye)."
+  },
+  {
+    "id": "cf_0095",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "The cat jumped [into] the open cardboard box.",
+    "answer": "into",
+    "distractors": [
+      "in to",
+      "inside of"
+    ],
+    "sentence_tr": "Kedi açık karton kutunun içine atladı.",
+    "note": "İçine doğru hareketi bildiren edat birleşik yazılan 'into' sözcüğüdür."
+  },
+  {
+    "id": "cf_0096",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "First finish your homework, [then] you can play.",
+    "answer": "then",
+    "distractors": [
+      "than",
+      "there"
+    ],
+    "sentence_tr": "Önce ödevini bitir, sonra oyun oynayabilirsin.",
+    "note": "'Then' zaman/sonra bildirir; 'than' ise karşılaştırma edatıdır."
+  },
+  {
+    "id": "cf_0097",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "The boss paid a nice [compliment] to her team.",
+    "answer": "compliment",
+    "distractors": [
+      "complement",
+      "complements"
+    ],
+    "sentence_tr": "Patron ekibine hoş bir iltifatta bulundu.",
+    "note": "'Compliment' iltifat/övgü demektir; 'complement' ise tamamlayıcı unsurdur."
+  },
+  {
+    "id": "cf_0098",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "[Maybe] we will travel abroad during the summer vacation.",
+    "answer": "Maybe",
+    "distractors": [
+      "May be",
+      "Might be"
+    ],
+    "sentence_tr": "Belki yaz tatilinde yurt dışına seyahat ederiz.",
+    "note": "Cümle başında 'belki' anlamında kullanılan birleşik zarf 'maybe' sözcüğüdür."
+  },
+  {
+    "id": "cf_0099",
+    "topic": "cf_other",
+    "level": 3,
+    "sentence": "He runs [every day] to stay fit and healthy.",
+    "answer": "every day",
+    "distractors": [
+      "everyday",
+      "always"
+    ],
+    "sentence_tr": "Formda ve sağlıklı kalmak için her gün koşar.",
+    "note": "Zaman belirten 'her gün' ifadesi ayrı yazılan 'every day' öbeğidir."
+  },
+  {
+    "id": "cf_00100",
+    "topic": "cf_other",
+    "level": 4,
+    "sentence": "She paid for her purchase [in] cash yesterday.",
+    "answer": "in",
+    "distractors": [
+      "with",
+      "by"
+    ],
+    "sentence_tr": "Dün alışverişinin ödemesini nakit olarak yaptı.",
+    "note": "Nakit ödemelerde 'in cash', kart/çek ödemelerinde ise 'by card/check' kullanılır."
+  }
+]
