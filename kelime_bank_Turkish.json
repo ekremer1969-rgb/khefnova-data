@@ -1,1 +1,570 @@
-
+[
+  {
+    "id": "create",
+    "root": "create",
+    "level": "B1",
+    "tr": "yaratmak, oluşturmak",
+    "members": [
+      {"pos": "verb", "word": "create", "tr": "yaratmak"},
+      {"pos": "noun", "word": "creation", "tr": "yaratma, eser"},
+      {"pos": "noun", "word": "creator", "tr": "yaratıcı (kişi)"},
+      {"pos": "noun", "word": "creativity", "tr": "yaratıcılık"},
+      {"pos": "adj", "word": "creative", "tr": "yaratıcı"},
+      {"pos": "adv", "word": "creatively", "tr": "yaratıcı biçimde"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "She has a very [creative] mind.", "sentence_tr": "Çok yaratıcı bir zihni var.", "distractors": ["creation", "creativity", "creatively"]},
+      {"topic": "abstract", "sentence": "The job demands imagination and [creativity].", "sentence_tr": "İş, hayal gücü ve yaratıcılık ister.", "distractors": ["creative", "create", "creatively"]},
+      {"topic": "adv", "sentence": "The team solved the problem [creatively].", "sentence_tr": "Ekip sorunu yaratıcı biçimde çözdü.", "distractors": ["creative", "creativity", "creation"]}
+    ]
+  },
+  {
+    "id": "decide",
+    "root": "decide",
+    "level": "A2",
+    "tr": "karar vermek",
+    "members": [
+      {"pos": "verb", "word": "decide", "tr": "karar vermek"},
+      {"pos": "noun", "word": "decision", "tr": "karar"},
+      {"pos": "adj", "word": "decisive", "tr": "kararlı, belirleyici"},
+      {"pos": "adv", "word": "decisively", "tr": "kararlı biçimde"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "It was a difficult [decision] to make.", "sentence_tr": "Verilmesi zor bir karardı.", "distractors": ["decide", "decisive", "decisively"]},
+      {"topic": "adj", "sentence": "A good leader must be [decisive].", "sentence_tr": "İyi bir lider kararlı olmalıdır.", "distractors": ["decision", "decide", "decisively"]}
+    ]
+  },
+  {
+    "id": "succeed",
+    "root": "succeed",
+    "level": "B1",
+    "tr": "başarmak",
+    "members": [
+      {"pos": "verb", "word": "succeed", "tr": "başarmak"},
+      {"pos": "noun", "word": "success", "tr": "başarı"},
+      {"pos": "adj", "word": "successful", "tr": "başarılı"},
+      {"pos": "adv", "word": "successfully", "tr": "başarıyla"},
+      {"pos": "adj", "word": "unsuccessful", "tr": "başarısız"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "The campaign was highly [successful] this year.", "sentence_tr": "Kampanya bu yıl çok başarılıydı.", "distractors": ["success", "succeed", "successfully"]},
+      {"topic": "abstract", "sentence": "Hard work is the key to [success].", "sentence_tr": "Çok çalışmak başarının anahtarıdır.", "distractors": ["successful", "succeed", "successfully"]},
+      {"topic": "neg", "sentence": "After two [unsuccessful] attempts, he gave up.", "sentence_tr": "İki başarısız denemenin ardından vazgeçti.", "distractors": ["successful", "success", "successfully"]}
+    ]
+  },
+  {
+    "id": "care",
+    "root": "care",
+    "level": "A2",
+    "tr": "önemsemek, özen",
+    "members": [
+      {"pos": "noun", "word": "care", "tr": "özen, bakım"},
+      {"pos": "adj", "word": "careful", "tr": "dikkatli"},
+      {"pos": "adv", "word": "carefully", "tr": "dikkatlice"},
+      {"pos": "adj", "word": "careless", "tr": "dikkatsiz"},
+      {"pos": "adv", "word": "carelessly", "tr": "dikkatsizce"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "Please be [careful] with the hot pan.", "sentence_tr": "Lütfen sıcak tavaya dikkatli ol.", "distractors": ["care", "carefully", "carelessly"]},
+      {"topic": "adv", "sentence": "She read the contract [carefully] before signing.", "sentence_tr": "Sözleşmeyi imzalamadan önce dikkatlice okudu.", "distractors": ["careful", "careless", "care"]},
+      {"topic": "neg", "sentence": "His [careless] driving caused the accident.", "sentence_tr": "Dikkatsiz sürüşü kazaya yol açtı.", "distractors": ["careful", "carefully", "care"]}
+    ]
+  },
+  {
+    "id": "compete",
+    "root": "compete",
+    "level": "B2",
+    "tr": "rekabet etmek, yarışmak",
+    "members": [
+      {"pos": "verb", "word": "compete", "tr": "yarışmak"},
+      {"pos": "noun", "word": "competition", "tr": "yarışma, rekabet"},
+      {"pos": "noun", "word": "competitor", "tr": "rakip (kişi/firma)"},
+      {"pos": "adj", "word": "competitive", "tr": "rekabetçi"},
+      {"pos": "adv", "word": "competitively", "tr": "rekabetçi biçimde"}
+    ],
+    "drills": [
+      {"topic": "agent", "sentence": "Our main [competitor] lowered its prices.", "sentence_tr": "Başlıca rakibimiz fiyatlarını düşürdü.", "distractors": ["competition", "competitive", "compete"]},
+      {"topic": "adj", "sentence": "The market has become extremely [competitive].", "sentence_tr": "Piyasa son derece rekabetçi hâle geldi.", "distractors": ["competition", "competitor", "compete"]},
+      {"topic": "abstract", "sentence": "She won first place in the [competition].", "sentence_tr": "Yarışmada birinciliği kazandı.", "distractors": ["competitive", "competitor", "compete"]}
+    ]
+  },
+  {
+    "id": "differ",
+    "root": "differ",
+    "level": "A2",
+    "tr": "farklı olmak",
+    "members": [
+      {"pos": "verb", "word": "differ", "tr": "farklı olmak"},
+      {"pos": "noun", "word": "difference", "tr": "fark"},
+      {"pos": "adj", "word": "different", "tr": "farklı"},
+      {"pos": "adv", "word": "differently", "tr": "farklı biçimde"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "Their opinions are completely [different].", "sentence_tr": "Görüşleri tamamen farklı.", "distractors": ["difference", "differ", "differently"]},
+      {"topic": "abstract", "sentence": "There is a big [difference] between them.", "sentence_tr": "Aralarında büyük bir fark var.", "distractors": ["different", "differ", "differently"]}
+    ]
+  },
+  {
+    "id": "depend",
+    "root": "depend",
+    "level": "B1",
+    "tr": "bağlı olmak, güvenmek",
+    "members": [
+      {"pos": "verb", "word": "depend", "tr": "bağlı olmak"},
+      {"pos": "noun", "word": "dependence", "tr": "bağımlılık"},
+      {"pos": "adj", "word": "dependent", "tr": "bağımlı"},
+      {"pos": "adj", "word": "independent", "tr": "bağımsız"},
+      {"pos": "noun", "word": "independence", "tr": "bağımsızlık"},
+      {"pos": "adv", "word": "independently", "tr": "bağımsızca"}
+    ],
+    "drills": [
+      {"topic": "neg", "sentence": "Young adults want to be financially [independent].", "sentence_tr": "Genç yetişkinler mali olarak bağımsız olmak ister.", "distractors": ["dependent", "dependence", "depend"]},
+      {"topic": "abstract", "sentence": "The country gained its [independence] in 1923.", "sentence_tr": "Ülke bağımsızlığını 1923'te kazandı.", "distractors": ["independent", "independently", "depend"]},
+      {"topic": "adj", "sentence": "A child is [dependent] on its parents.", "sentence_tr": "Bir çocuk ebeveynlerine bağımlıdır.", "distractors": ["dependence", "depend", "independently"]}
+    ]
+  },
+  {
+    "id": "produce",
+    "root": "produce",
+    "level": "B1",
+    "tr": "üretmek",
+    "members": [
+      {"pos": "verb", "word": "produce", "tr": "üretmek"},
+      {"pos": "noun", "word": "production", "tr": "üretim"},
+      {"pos": "noun", "word": "product", "tr": "ürün"},
+      {"pos": "adj", "word": "productive", "tr": "verimli"},
+      {"pos": "noun", "word": "productivity", "tr": "verimlilik"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "It was a very [productive] meeting.", "sentence_tr": "Çok verimli bir toplantıydı.", "distractors": ["production", "product", "produce"]},
+      {"topic": "abstract", "sentence": "New machines increased factory [productivity].", "sentence_tr": "Yeni makineler fabrika verimliliğini artırdı.", "distractors": ["productive", "produce", "product"]},
+      {"topic": "abstract", "sentence": "The film's [production] took two years.", "sentence_tr": "Filmin yapımı iki yıl sürdü.", "distractors": ["productive", "productivity", "produce"]}
+    ]
+  },
+  {
+    "id": "inform",
+    "root": "inform",
+    "level": "B1",
+    "tr": "bilgilendirmek",
+    "members": [
+      {"pos": "verb", "word": "inform", "tr": "bilgilendirmek"},
+      {"pos": "noun", "word": "information", "tr": "bilgi"},
+      {"pos": "adj", "word": "informative", "tr": "bilgilendirici"},
+      {"pos": "verb", "word": "misinform", "tr": "yanlış bilgilendirmek"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "The website provides useful [information] for tourists.", "sentence_tr": "Site, turistlere yararlı bilgi sunar.", "distractors": ["informative", "inform", "misinform"]},
+      {"topic": "adj", "sentence": "The lecture was clear and highly [informative].", "sentence_tr": "Ders açık ve son derece bilgilendiriciydi.", "distractors": ["information", "inform", "misinform"]},
+      {"topic": "neg", "sentence": "Fake news can [misinform] the public easily.", "sentence_tr": "Sahte haberler halkı kolayca yanlış bilgilendirebilir.", "distractors": ["inform", "information", "informative"]}
+    ]
+  },
+  {
+    "id": "act",
+    "root": "act",
+    "level": "A2",
+    "tr": "hareket etmek, davranmak",
+    "members": [
+      {"pos": "verb", "word": "act", "tr": "davranmak, hareket etmek"},
+      {"pos": "noun", "word": "action", "tr": "eylem"},
+      {"pos": "noun", "word": "activity", "tr": "etkinlik, faaliyet"},
+      {"pos": "noun", "word": "actor", "tr": "oyuncu"},
+      {"pos": "adj", "word": "active", "tr": "etkin, faal"},
+      {"pos": "adv", "word": "actively", "tr": "etkin biçimde"},
+      {"pos": "adj", "word": "inactive", "tr": "etkisiz, hareketsiz"}
+    ],
+    "drills": [
+      {"topic": "agent", "sentence": "He is a famous Hollywood [actor].", "sentence_tr": "O, ünlü bir Hollywood oyuncusudur.", "distractors": ["action", "activity", "active"]},
+      {"topic": "adj", "sentence": "She stays [active] by swimming every day.", "sentence_tr": "Her gün yüzerek faal kalır.", "distractors": ["action", "actively", "activity"]},
+      {"topic": "neg", "sentence": "The volcano has been [inactive] for centuries.", "sentence_tr": "Yanardağ yüzyıllardır etkisiz durumda.", "distractors": ["active", "actively", "action"]}
+    ]
+  },
+  {
+    "id": "nation",
+    "root": "nation",
+    "level": "A2",
+    "tr": "ulus, millet",
+    "members": [
+      {"pos": "noun", "word": "nation", "tr": "ulus"},
+      {"pos": "adj", "word": "national", "tr": "ulusal"},
+      {"pos": "adv", "word": "nationally", "tr": "ulusal düzeyde"},
+      {"pos": "noun", "word": "nationality", "tr": "uyruk"},
+      {"pos": "adj", "word": "international", "tr": "uluslararası"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "The museum is a [national] treasure.", "sentence_tr": "Müze ulusal bir hazinedir.", "distractors": ["nation", "nationally", "nationality"]},
+      {"topic": "abstract", "sentence": "Please write your name and [nationality].", "sentence_tr": "Lütfen adınızı ve uyruğunuzu yazın.", "distractors": ["national", "nation", "nationally"]},
+      {"topic": "neg", "sentence": "English is used for [international] business.", "sentence_tr": "İngilizce uluslararası iş için kullanılır.", "distractors": ["national", "nation", "nationality"]}
+    ]
+  },
+  {
+    "id": "economy",
+    "root": "economy",
+    "level": "B2",
+    "tr": "ekonomi, tutum",
+    "members": [
+      {"pos": "noun", "word": "economy", "tr": "ekonomi"},
+      {"pos": "adj", "word": "economic", "tr": "iktisadi, ekonomiye ilişkin"},
+      {"pos": "adj", "word": "economical", "tr": "tutumlu, hesaplı"},
+      {"pos": "adv", "word": "economically", "tr": "ekonomik açıdan"},
+      {"pos": "noun", "word": "economist", "tr": "iktisatçı"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "The government announced new [economic] policies.", "sentence_tr": "Hükümet yeni iktisadi politikalar açıkladı.", "distractors": ["economical", "economy", "economist"]},
+      {"topic": "adj", "sentence": "A small car is more [economical] on fuel.", "sentence_tr": "Küçük araba yakıtta daha hesaplıdır.", "distractors": ["economic", "economy", "economist"]},
+      {"topic": "agent", "sentence": "The [economist] predicted rising inflation.", "sentence_tr": "İktisatçı, enflasyonun yükseleceğini öngördü.", "distractors": ["economic", "economical", "economy"]}
+    ]
+  },
+  {
+    "id": "respond",
+    "root": "respond",
+    "level": "B1",
+    "tr": "yanıt vermek, tepki vermek",
+    "members": [
+      {"pos": "verb", "word": "respond", "tr": "yanıt vermek"},
+      {"pos": "noun", "word": "response", "tr": "yanıt, tepki"},
+      {"pos": "adj", "word": "responsive", "tr": "duyarlı, yanıt veren"},
+      {"pos": "adj", "word": "unresponsive", "tr": "tepkisiz"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "We received a quick [response] to our email.", "sentence_tr": "E-postamıza hızlı bir yanıt aldık.", "distractors": ["respond", "responsive", "unresponsive"]},
+      {"topic": "adj", "sentence": "The staff were friendly and [responsive].", "sentence_tr": "Personel güler yüzlü ve duyarlıydı.", "distractors": ["response", "respond", "unresponsive"]}
+    ]
+  },
+  {
+    "id": "attract",
+    "root": "attract",
+    "level": "B1",
+    "tr": "çekmek, cezbetmek",
+    "members": [
+      {"pos": "verb", "word": "attract", "tr": "çekmek"},
+      {"pos": "noun", "word": "attraction", "tr": "cazibe, ilgi çeken şey"},
+      {"pos": "adj", "word": "attractive", "tr": "çekici"},
+      {"pos": "adv", "word": "attractively", "tr": "çekici biçimde"},
+      {"pos": "adj", "word": "unattractive", "tr": "çekici olmayan"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "The city offers an [attractive] lifestyle.", "sentence_tr": "Şehir çekici bir yaşam tarzı sunar.", "distractors": ["attraction", "attract", "attractively"]},
+      {"topic": "abstract", "sentence": "The castle is the town's main [attraction].", "sentence_tr": "Kale, kasabanın başlıca cazibe merkezidir.", "distractors": ["attractive", "attract", "attractively"]}
+    ]
+  },
+  {
+    "id": "friend",
+    "root": "friend",
+    "level": "A1",
+    "tr": "arkadaş",
+    "members": [
+      {"pos": "noun", "word": "friend", "tr": "arkadaş"},
+      {"pos": "noun", "word": "friendship", "tr": "arkadaşlık"},
+      {"pos": "adj", "word": "friendly", "tr": "arkadaş canlısı, dostça"},
+      {"pos": "adj", "word": "unfriendly", "tr": "soğuk, dostça olmayan"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "The new neighbours are very [friendly].", "sentence_tr": "Yeni komşular çok arkadaş canlısı.", "distractors": ["friend", "friendship", "unfriendly"]},
+      {"topic": "abstract", "sentence": "Their [friendship] lasted for fifty years.", "sentence_tr": "Arkadaşlıkları elli yıl sürdü.", "distractors": ["friendly", "friend", "unfriendly"]}
+    ]
+  },
+  {
+    "id": "hope",
+    "root": "hope",
+    "level": "A2",
+    "tr": "umut etmek, umut",
+    "members": [
+      {"pos": "noun", "word": "hope", "tr": "umut"},
+      {"pos": "adj", "word": "hopeful", "tr": "umutlu"},
+      {"pos": "adv", "word": "hopefully", "tr": "umarım, umutla"},
+      {"pos": "adj", "word": "hopeless", "tr": "umutsuz"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "She is [hopeful] about the final results.", "sentence_tr": "Nihai sonuçlar konusunda umutlu.", "distractors": ["hope", "hopefully", "hopeless"]},
+      {"topic": "neg", "sentence": "Without water, the situation seemed [hopeless].", "sentence_tr": "Susuz kalınca durum umutsuz görünüyordu.", "distractors": ["hopeful", "hope", "hopefully"]}
+    ]
+  },
+  {
+    "id": "use",
+    "root": "use",
+    "level": "A1",
+    "tr": "kullanmak",
+    "members": [
+      {"pos": "verb", "word": "use", "tr": "kullanmak"},
+      {"pos": "adj", "word": "useful", "tr": "yararlı"},
+      {"pos": "adv", "word": "usefully", "tr": "yararlı biçimde"},
+      {"pos": "adj", "word": "useless", "tr": "işe yaramaz"},
+      {"pos": "noun", "word": "user", "tr": "kullanıcı"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "This dictionary is really [useful] for students.", "sentence_tr": "Bu sözlük öğrenciler için gerçekten yararlı.", "distractors": ["use", "useless", "user"]},
+      {"topic": "neg", "sentence": "The broken tool is now completely [useless].", "sentence_tr": "Kırık alet artık tamamen işe yaramaz.", "distractors": ["useful", "use", "user"]},
+      {"topic": "agent", "sentence": "Every new [user] must create a password.", "sentence_tr": "Her yeni kullanıcı bir parola oluşturmalıdır.", "distractors": ["useful", "useless", "use"]}
+    ]
+  },
+  {
+    "id": "child",
+    "root": "child",
+    "level": "A1",
+    "tr": "çocuk",
+    "members": [
+      {"pos": "noun", "word": "child", "tr": "çocuk"},
+      {"pos": "noun", "word": "childhood", "tr": "çocukluk"},
+      {"pos": "adj", "word": "childish", "tr": "çocukça"},
+      {"pos": "adj", "word": "childlike", "tr": "çocuksu (masum)"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "He spent his [childhood] in a small village.", "sentence_tr": "Çocukluğunu küçük bir köyde geçirdi.", "distractors": ["child", "childish", "childlike"]},
+      {"topic": "adj", "sentence": "Stop being so [childish] about losing.", "sentence_tr": "Kaybetmek konusunda bu kadar çocukça olma.", "distractors": ["child", "childhood", "childlike"]}
+    ]
+  },
+  {
+    "id": "happy",
+    "root": "happy",
+    "level": "A1",
+    "tr": "mutlu",
+    "members": [
+      {"pos": "adj", "word": "happy", "tr": "mutlu"},
+      {"pos": "noun", "word": "happiness", "tr": "mutluluk"},
+      {"pos": "adv", "word": "happily", "tr": "mutlulukla"},
+      {"pos": "adj", "word": "unhappy", "tr": "mutsuz"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "Money cannot always buy [happiness].", "sentence_tr": "Para her zaman mutluluğu satın alamaz.", "distractors": ["happy", "happily", "unhappy"]},
+      {"topic": "adv", "sentence": "The couple lived [happily] for many years.", "sentence_tr": "Çift uzun yıllar mutlulukla yaşadı.", "distractors": ["happy", "happiness", "unhappy"]},
+      {"topic": "neg", "sentence": "She felt [unhappy] about the sudden change.", "sentence_tr": "Ani değişiklikten dolayı mutsuz hissetti.", "distractors": ["happy", "happiness", "happily"]}
+    ]
+  },
+  {
+    "id": "courage",
+    "root": "courage",
+    "level": "B2",
+    "tr": "cesaret",
+    "members": [
+      {"pos": "noun", "word": "courage", "tr": "cesaret"},
+      {"pos": "adj", "word": "courageous", "tr": "cesur"},
+      {"pos": "adv", "word": "courageously", "tr": "cesurca"},
+      {"pos": "verb", "word": "encourage", "tr": "cesaretlendirmek"},
+      {"pos": "verb", "word": "discourage", "tr": "cesaretini kırmak"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "It takes [courage] to admit a mistake.", "sentence_tr": "Bir hatayı kabul etmek cesaret ister.", "distractors": ["courageous", "encourage", "discourage"]},
+      {"topic": "verb", "sentence": "Good teachers [encourage] students to ask questions.", "sentence_tr": "İyi öğretmenler öğrencileri soru sormaya teşvik eder.", "distractors": ["courage", "courageous", "courageously"]},
+      {"topic": "neg", "sentence": "High prices may [discourage] new customers.", "sentence_tr": "Yüksek fiyatlar yeni müşterileri caydırabilir.", "distractors": ["encourage", "courage", "courageous"]}
+    ]
+  },
+  {
+    "id": "persuade",
+    "root": "persuade",
+    "level": "B2",
+    "tr": "ikna etmek",
+    "members": [
+      {"pos": "verb", "word": "persuade", "tr": "ikna etmek"},
+      {"pos": "noun", "word": "persuasion", "tr": "ikna"},
+      {"pos": "adj", "word": "persuasive", "tr": "ikna edici"},
+      {"pos": "adv", "word": "persuasively", "tr": "ikna edici biçimde"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "The lawyer made a [persuasive] argument.", "sentence_tr": "Avukat ikna edici bir savunma yaptı.", "distractors": ["persuasion", "persuade", "persuasively"]},
+      {"topic": "abstract", "sentence": "Advertising relies on the art of [persuasion].", "sentence_tr": "Reklamcılık, ikna sanatına dayanır.", "distractors": ["persuasive", "persuade", "persuasively"]}
+    ]
+  },
+  {
+    "id": "analyse",
+    "root": "analyse",
+    "level": "B2",
+    "tr": "çözümlemek",
+    "members": [
+      {"pos": "verb", "word": "analyse", "tr": "çözümlemek"},
+      {"pos": "noun", "word": "analysis", "tr": "çözümleme, analiz"},
+      {"pos": "noun", "word": "analyst", "tr": "çözümleyici, analist"},
+      {"pos": "adj", "word": "analytical", "tr": "çözümsel, analitik"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "The report includes a detailed [analysis] of costs.", "sentence_tr": "Rapor, maliyetlerin ayrıntılı bir analizini içerir.", "distractors": ["analyse", "analyst", "analytical"]},
+      {"topic": "agent", "sentence": "A financial [analyst] reviewed the company's data.", "sentence_tr": "Bir mali analist, şirketin verilerini inceledi.", "distractors": ["analysis", "analyse", "analytical"]},
+      {"topic": "adj", "sentence": "Solving puzzles needs an [analytical] mind.", "sentence_tr": "Bulmaca çözmek analitik bir zihin gerektirir.", "distractors": ["analysis", "analyst", "analyse"]}
+    ]
+  },
+  {
+    "id": "reside",
+    "root": "reside",
+    "level": "B2",
+    "tr": "ikamet etmek",
+    "members": [
+      {"pos": "verb", "word": "reside", "tr": "ikamet etmek"},
+      {"pos": "noun", "word": "residence", "tr": "konut, ikametgâh"},
+      {"pos": "noun", "word": "resident", "tr": "sakin, oturan kişi"},
+      {"pos": "adj", "word": "residential", "tr": "konut niteliğinde"}
+    ],
+    "drills": [
+      {"topic": "agent", "sentence": "Every [resident] received a parking permit.", "sentence_tr": "Her sakin bir otopark izni aldı.", "distractors": ["residence", "residential", "reside"]},
+      {"topic": "adj", "sentence": "They bought a house in a quiet [residential] area.", "sentence_tr": "Sakin bir konut bölgesinde ev aldılar.", "distractors": ["residence", "resident", "reside"]}
+    ]
+  },
+  {
+    "id": "globe",
+    "root": "globe",
+    "level": "B1",
+    "tr": "küre, dünya",
+    "members": [
+      {"pos": "noun", "word": "globe", "tr": "küre, yerküre"},
+      {"pos": "adj", "word": "global", "tr": "küresel"},
+      {"pos": "adv", "word": "globally", "tr": "küresel ölçekte"},
+      {"pos": "verb", "word": "globalize", "tr": "küreselleştirmek"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "Climate change is a serious [global] problem.", "sentence_tr": "İklim değişikliği ciddi bir küresel sorundur.", "distractors": ["globe", "globally", "globalize"]},
+      {"topic": "adv", "sentence": "The brand is now recognised [globally].", "sentence_tr": "Marka artık küresel ölçekte tanınıyor.", "distractors": ["global", "globe", "globalize"]}
+    ]
+  },
+  {
+    "id": "strong",
+    "root": "strong",
+    "level": "B1",
+    "tr": "güçlü",
+    "members": [
+      {"pos": "adj", "word": "strong", "tr": "güçlü"},
+      {"pos": "noun", "word": "strength", "tr": "güç, kuvvet"},
+      {"pos": "adv", "word": "strongly", "tr": "güçlü biçimde"},
+      {"pos": "verb", "word": "strengthen", "tr": "güçlendirmek"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "Regular exercise builds physical [strength].", "sentence_tr": "Düzenli egzersiz fiziksel gücü artırır.", "distractors": ["strong", "strongly", "strengthen"]},
+      {"topic": "verb", "sentence": "The deal will [strengthen] ties between the countries.", "sentence_tr": "Anlaşma, ülkeler arasındaki bağları güçlendirecek.", "distractors": ["strong", "strength", "strongly"]},
+      {"topic": "adv", "sentence": "The committee [strongly] opposed the new rule.", "sentence_tr": "Komite yeni kurala şiddetle karşı çıktı.", "distractors": ["strong", "strength", "strengthen"]}
+    ]
+  },
+  {
+    "id": "wide",
+    "root": "wide",
+    "level": "A2",
+    "tr": "geniş",
+    "members": [
+      {"pos": "adj", "word": "wide", "tr": "geniş"},
+      {"pos": "noun", "word": "width", "tr": "genişlik"},
+      {"pos": "adv", "word": "widely", "tr": "geniş çapta, yaygın olarak"},
+      {"pos": "verb", "word": "widen", "tr": "genişletmek"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "Measure the length and the [width] carefully.", "sentence_tr": "Uzunluğu ve genişliği dikkatle ölç.", "distractors": ["wide", "widely", "widen"]},
+      {"topic": "verb", "sentence": "The city plans to [widen] the main road.", "sentence_tr": "Şehir, ana yolu genişletmeyi planlıyor.", "distractors": ["wide", "width", "widely"]},
+      {"topic": "adv", "sentence": "The method is [widely] used in schools.", "sentence_tr": "Yöntem okullarda yaygın olarak kullanılır.", "distractors": ["wide", "width", "widen"]}
+    ]
+  },
+  {
+    "id": "beauty",
+    "root": "beauty",
+    "level": "A2",
+    "tr": "güzellik",
+    "members": [
+      {"pos": "noun", "word": "beauty", "tr": "güzellik"},
+      {"pos": "adj", "word": "beautiful", "tr": "güzel"},
+      {"pos": "adv", "word": "beautifully", "tr": "güzelce"},
+      {"pos": "verb", "word": "beautify", "tr": "güzelleştirmek"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "The valley looked [beautiful] in the morning.", "sentence_tr": "Vadi sabahleyin güzel görünüyordu.", "distractors": ["beauty", "beautifully", "beautify"]},
+      {"topic": "adv", "sentence": "She sang the song [beautifully].", "sentence_tr": "Şarkıyı güzelce söyledi.", "distractors": ["beautiful", "beauty", "beautify"]}
+    ]
+  },
+  {
+    "id": "rely",
+    "root": "rely",
+    "level": "B2",
+    "tr": "güvenmek, dayanmak",
+    "members": [
+      {"pos": "verb", "word": "rely", "tr": "güvenmek"},
+      {"pos": "noun", "word": "reliance", "tr": "güven, bağımlılık"},
+      {"pos": "adj", "word": "reliable", "tr": "güvenilir"},
+      {"pos": "adv", "word": "reliably", "tr": "güvenilir biçimde"},
+      {"pos": "adj", "word": "unreliable", "tr": "güvenilmez"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "We need a [reliable] source of energy.", "sentence_tr": "Güvenilir bir enerji kaynağına ihtiyacımız var.", "distractors": ["reliance", "rely", "reliably"]},
+      {"topic": "neg", "sentence": "His car is old and [unreliable].", "sentence_tr": "Arabası eski ve güvenilmez.", "distractors": ["reliable", "reliance", "reliably"]},
+      {"topic": "abstract", "sentence": "Our [reliance] on fossil fuels must decrease.", "sentence_tr": "Fosil yakıtlara bağımlılığımız azalmalı.", "distractors": ["reliable", "rely", "reliably"]}
+    ]
+  },
+  {
+    "id": "sense",
+    "root": "sense",
+    "level": "B2",
+    "tr": "duyu, sağduyu",
+    "members": [
+      {"pos": "noun", "word": "sense", "tr": "duyu, anlam"},
+      {"pos": "adj", "word": "sensible", "tr": "mantıklı, sağduyulu"},
+      {"pos": "adj", "word": "sensitive", "tr": "hassas, duyarlı"},
+      {"pos": "adv", "word": "sensibly", "tr": "mantıklıca"},
+      {"pos": "adj", "word": "insensitive", "tr": "duyarsız"}
+    ],
+    "drills": [
+      {"topic": "adj", "sentence": "Buying insurance was a [sensible] decision.", "sentence_tr": "Sigorta yaptırmak mantıklı bir karardı.", "distractors": ["sensitive", "sense", "sensibly"]},
+      {"topic": "adj", "sentence": "My teeth are [sensitive] to cold drinks.", "sentence_tr": "Dişlerim soğuk içeceklere karşı hassas.", "distractors": ["sensible", "sense", "sensibly"]},
+      {"topic": "neg", "sentence": "His [insensitive] remark hurt her feelings.", "sentence_tr": "Duyarsız sözü, onun duygularını incitti.", "distractors": ["sensitive", "sensible", "sensibly"]}
+    ]
+  },
+  {
+    "id": "pollute",
+    "root": "pollute",
+    "level": "B1",
+    "tr": "kirletmek",
+    "members": [
+      {"pos": "verb", "word": "pollute", "tr": "kirletmek"},
+      {"pos": "noun", "word": "pollution", "tr": "kirlilik"},
+      {"pos": "noun", "word": "pollutant", "tr": "kirletici madde"},
+      {"pos": "adj", "word": "polluted", "tr": "kirlenmiş"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "Air [pollution] is a threat to health.", "sentence_tr": "Hava kirliliği sağlık için bir tehdittir.", "distractors": ["pollute", "polluted", "pollutant"]},
+      {"topic": "adj", "sentence": "Fish cannot live in [polluted] water.", "sentence_tr": "Balıklar kirlenmiş suda yaşayamaz.", "distractors": ["pollution", "pollute", "pollutant"]}
+    ]
+  },
+  {
+    "id": "observe",
+    "root": "observe",
+    "level": "B2",
+    "tr": "gözlemlemek",
+    "members": [
+      {"pos": "verb", "word": "observe", "tr": "gözlemlemek"},
+      {"pos": "noun", "word": "observation", "tr": "gözlem"},
+      {"pos": "noun", "word": "observer", "tr": "gözlemci"},
+      {"pos": "adj", "word": "observant", "tr": "dikkatli, gözünden kaçmayan"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "The doctor kept the patient under [observation].", "sentence_tr": "Doktor hastayı gözlem altında tuttu.", "distractors": ["observe", "observer", "observant"]},
+      {"topic": "agent", "sentence": "A neutral [observer] monitored the election.", "sentence_tr": "Tarafsız bir gözlemci seçimi izledi.", "distractors": ["observation", "observe", "observant"]},
+      {"topic": "adj", "sentence": "An [observant] child notices small details.", "sentence_tr": "Dikkatli bir çocuk küçük ayrıntıları fark eder.", "distractors": ["observation", "observer", "observe"]}
+    ]
+  },
+  {
+    "id": "manage",
+    "root": "manage",
+    "level": "B1",
+    "tr": "yönetmek, başarmak",
+    "members": [
+      {"pos": "verb", "word": "manage", "tr": "yönetmek"},
+      {"pos": "noun", "word": "management", "tr": "yönetim"},
+      {"pos": "noun", "word": "manager", "tr": "yönetici"},
+      {"pos": "adj", "word": "manageable", "tr": "yönetilebilir, üstesinden gelinebilir"},
+      {"pos": "adj", "word": "unmanageable", "tr": "yönetilemez"}
+    ],
+    "drills": [
+      {"topic": "agent", "sentence": "The [manager] approved our holiday requests.", "sentence_tr": "Yönetici, tatil taleplerimizi onayladı.", "distractors": ["management", "manage", "manageable"]},
+      {"topic": "abstract", "sentence": "Good time [management] reduces stress.", "sentence_tr": "İyi zaman yönetimi stresi azaltır.", "distractors": ["manager", "manage", "manageable"]},
+      {"topic": "neg", "sentence": "The workload became almost [unmanageable].", "sentence_tr": "İş yükü neredeyse yönetilemez hâle geldi.", "distractors": ["manageable", "management", "manage"]}
+    ]
+  },
+  {
+    "id": "patient",
+    "root": "patient",
+    "level": "A2",
+    "tr": "sabırlı",
+    "members": [
+      {"pos": "adj", "word": "patient", "tr": "sabırlı"},
+      {"pos": "noun", "word": "patience", "tr": "sabır"},
+      {"pos": "adv", "word": "patiently", "tr": "sabırla"},
+      {"pos": "adj", "word": "impatient", "tr": "sabırsız"}
+    ],
+    "drills": [
+      {"topic": "abstract", "sentence": "Learning a language requires a lot of [patience].", "sentence_tr": "Bir dil öğrenmek çok sabır gerektirir.", "distractors": ["patient", "patiently", "impatient"]},
+      {"topic": "adv", "sentence": "They waited [patiently] for the doors to open.", "sentence_tr": "Kapıların açılmasını sabırla beklediler.", "distractors": ["patient", "patience", "impatient"]},
+      {"topic": "neg", "sentence": "He grew [impatient] as the queue moved slowly.", "sentence_tr": "Sıra yavaş ilerledikçe sabırsızlandı.", "distractors": ["patient", "patience", "patiently"]}
+    ]
+  }
+]
