@@ -193,7 +193,7 @@
     "drills": [
       {"topic": "adj", "sentence": "The museum is a [national] treasure.", "sentence_tr": "Müze ulusal bir hazinedir.", "distractors": ["nation", "nationally", "nationality"]},
       {"topic": "abstract", "sentence": "Please write your name and [nationality].", "sentence_tr": "Lütfen adınızı ve uyruğunuzu yazın.", "distractors": ["national", "nation", "nationally"]},
-      {"topic": "neg", "sentence": "English is used for [international] business.", "sentence_tr": "İngilizce uluslararası iş için kullanılır.", "distractors": ["national", "nation", "nationality"]}
+      {"topic": "adj", "sentence": "English is used for [international] business.", "sentence_tr": "İngilizce uluslararası iş için kullanılır.", "distractors": ["national", "nation", "nationality"]}
     ]
   },
   {
