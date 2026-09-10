@@ -1,1 +1,3922 @@
-
+[
+  {
+    "id": "ia_0001",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "We waited for [an] hour before the bus arrived.",
+    "answer": "an",
+    "distractors": [
+      "a",
+      "the"
+    ],
+    "sentence_tr": "Otobüs gelmeden önce bir saat bekledik.",
+    "note": "'Hour' kelimesi sessiz harfle başlasa da okunuşu sesli harfle (our) başladığı için 'an' alır."
+  },
+  {
+    "id": "ia_0002",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "She studies biology at [a] university in Boston.",
+    "answer": "a",
+    "distractors": [
+      "an",
+      "the"
+    ],
+    "sentence_tr": "O, Boston'da bir üniversitede biyoloji okuyor.",
+    "note": "'University' kelimesi sesli harfle başlasa da okunuşu 'y' sesiyle başladığı için 'a' alır."
+  },
+  {
+    "id": "ia_0003",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "He earned [an] MBA degree from Harvard last year.",
+    "answer": "an",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Geçen yıl Harvard'dan bir MBA derecesi aldı.",
+    "note": "Kısaltmaların ilk harfi sesli okunduğunda (em-bee-ay) başa 'an' gelir."
+  },
+  {
+    "id": "ia_0004",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "I bought a book; [the] book was very interesting.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "an"
+    ],
+    "sentence_tr": "Bir kitap satın aldım; kitap çok ilgi çekiciydi.",
+    "note": "İkinci kez bahsedilen ve artık bilinen isimlerin önünde 'the' kullanılır."
+  },
+  {
+    "id": "ia_0005",
+    "topic": "articles_geo",
+    "level": 1,
+    "sentence": "[The] sun shines brightly in the clear sky today.",
+    "answer": "The",
+    "distractors": [
+      "A",
+      "—"
+    ],
+    "sentence_tr": "Güneş bugün açık gökyüzünde parlak bir şekilde parlıyor.",
+    "note": "Dünyada eşsiz ve tek olan varlıkların adlarının önünde 'the' kullanılır."
+  },
+  {
+    "id": "ia_0006",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "This is [the] best meal I have ever eaten.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Bu, şimdiye kadar yediğim en iyi yemek.",
+    "note": "Üstünlük (superlative) bildiren 'best' sıfatından önce 'the' kullanılır."
+  },
+  {
+    "id": "ia_0007",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "Neil Armstrong was [the] first man on the moon.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "an"
+    ],
+    "sentence_tr": "Neil Armstrong, aydaki ilk insandı.",
+    "note": "Sıra sayıları (first, second, third) belirtilirken isimden önce 'the' gelir."
+  },
+  {
+    "id": "ia_0008",
+    "topic": "articles_geo",
+    "level": 4,
+    "sentence": "The criminal was convicted and sent to [—] prison.",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "a"
+    ],
+    "sentence_tr": "Suçlu hüküm giydi ve cezaevine gönderildi.",
+    "note": "Hapishane asıl amacı (mahkum olarak yatmak) için kullanıldığında 'the' almaz."
+  },
+  {
+    "id": "ia_0009",
+    "topic": "articles_geo",
+    "level": 4,
+    "sentence": "The lawyer visited [the] prison to meet his client.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Avukat, müvekkiliyle görüşmek için hapishaneye gitti.",
+    "note": "Hapishane gibi kurumlar ziyaret amacıyla ziyaret edildiğinde 'the' kullanılır."
+  },
+  {
+    "id": "ia_0010",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "The government should support [the] elderly in our society.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "an"
+    ],
+    "sentence_tr": "Hükümet toplumumuzdaki yaşlıları desteklemelidir.",
+    "note": "'The + sıfat' yapısı (the elderly, the poor) belirli bir insan grubunu ifade eder."
+  },
+  {
+    "id": "ia_0011",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "[The] French are famous for their delicious cuisine.",
+    "answer": "The",
+    "distractors": [
+      "A",
+      "—"
+    ],
+    "sentence_tr": "Fransızlar lezzetli mutfaklarıyla ünlüdür.",
+    "note": "'The' edatı millet adlarının önüne geldiğinde o milletin halkını temsil eder."
+  },
+  {
+    "id": "ia_0012",
+    "topic": "articles_geo",
+    "level": 1,
+    "sentence": "We usually have [—] breakfast at eight every morning.",
+    "answer": "—",
+    "distractors": [
+      "a",
+      "the"
+    ],
+    "sentence_tr": "Genellikle her sabah saat sekizde kahvaltı yaparız.",
+    "note": "Öğün adlarından (breakfast, lunch, dinner) önce tanımlık kullanılmaz."
+  },
+  {
+    "id": "ia_0013",
+    "topic": "articles_geo",
+    "level": 1,
+    "sentence": "Can you speak [—] English fluently during meetings?",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "an"
+    ],
+    "sentence_tr": "Toplantılarda akıcı bir şekilde İngilizce konuşabiliyor musunuz?",
+    "note": "Dil adlarından (English, Turkish, German) önce tanımlık gelmez."
+  },
+  {
+    "id": "ia_0014",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "She is learning [the] English language at school.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "O, okulda İngiliz dilini öğreniyor.",
+    "note": "Dil adının yanında 'language' sözcüğü geçerse 'the' kullanılır."
+  },
+  {
+    "id": "ia_0015",
+    "topic": "articles_geo",
+    "level": 1,
+    "sentence": "My sister likes to play [—] tennis on weekends.",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "a"
+    ],
+    "sentence_tr": "Kız kardeşim hafta sonları tenis oynamayı sever.",
+    "note": "Spor ve oyun adlarından önce tanımlık (a/an/the) kullanılmaz."
+  },
+  {
+    "id": "ia_0016",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "He learned to play [the] piano at a young age.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "O, küçük yaşta piyano çalmayı öğrendi.",
+    "note": "Müzik aletleri çalınırken enstrüman adının önüne 'the' gelir."
+  },
+  {
+    "id": "ia_0017",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "[—] Love is essential for a happy family life.",
+    "answer": "—",
+    "distractors": [
+      "The",
+      "A"
+    ],
+    "sentence_tr": "Sevgi, mutlu bir aile hayatı için gereklidir.",
+    "note": "Genel anlamda kullanılan soyut isimlerin (love, happiness) önünde tanımlık yer almaz."
+  },
+  {
+    "id": "ia_0018",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "They traveled to [the] USA for their annual vacation.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Yıllık tatilleri için Amerika Birleşik Devletleri'ne seyahat ettiler.",
+    "note": "İçinde 'United', 'States', 'Kingdom' veya çoğul eki olan ülke adları 'the' alır."
+  },
+  {
+    "id": "ia_0019",
+    "topic": "articles_geo",
+    "level": 1,
+    "sentence": "Paris is the capital city of [—] France.",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "a"
+    ],
+    "sentence_tr": "Paris, Fransa'nın başkentidir.",
+    "note": "Tekil yapıdaki özel ülke adları (France, Turkey, Germany) tanımlık almaz."
+  },
+  {
+    "id": "ia_0020",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "Tulips are very popular in [the] Netherlands.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Laleler Hollanda'da çok popülerdir.",
+    "note": "Çoğul takısı (-s) içeren ülke adları (the Netherlands, the Philippines) 'the' alır."
+  },
+  {
+    "id": "ia_0021",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "[The] Nile is the longest river in Africa.",
+    "answer": "The",
+    "distractors": [
+      "A",
+      "—"
+    ],
+    "sentence_tr": "Nil, Afrika'daki en uzun nehirdir.",
+    "note": "Nehir, deniz, okyanus ve kanal adlarının önünde 'the' kullanılır."
+  },
+  {
+    "id": "ia_0022",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "They went camping near [—] Lake Van last summer.",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "a"
+    ],
+    "sentence_tr": "Geçen yaz Van Gölü yakınlarında kamp yapmaya gittiler.",
+    "note": "Önünde 'Lake' kelimesi bulunan tekil göl isimleri tanımlık ('the') almaz."
+  },
+  {
+    "id": "ia_0023",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "Climbers attempted to scale [—] Mount Everest yesterday.",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "a"
+    ],
+    "sentence_tr": "Dağcılar dün Everest Dağı'na tırmanmaya çalıştılar.",
+    "note": "Tekil dağ isimleri (Mount Everest) tanımlık almaz."
+  },
+  {
+    "id": "ia_0024",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "Skiers love to visit [the] Alps every winter.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Kayakçılar her kış Alpler'i ziyaret etmeyi sever.",
+    "note": "Dağ sıraları (the Alps, the Himalayas) tanımlık olarak 'the' alır."
+  },
+  {
+    "id": "ia_0025",
+    "topic": "articles_geo",
+    "level": 2,
+    "sentence": "We decided to spend our holiday in [—] Cyprus.",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "a"
+    ],
+    "sentence_tr": "Tatilimizi Kıbrıs'ta geçirmeye karar verdik.",
+    "note": "Tekil ada adları (Cyprus, Sicily) tanımlık almaz."
+  },
+  {
+    "id": "ia_0026",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "Many tourists dream of visiting [the] Maldives.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Birçok turist Maldivler'i ziyaret etmeyi hayal eder.",
+    "note": "Takımadalar (the Maldives, the Bahamas) çoğul yapıda olduğu için 'the' alır."
+  },
+  {
+    "id": "ia_0027",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "Camels are well adapted to life in [the] Sahara.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Develer Sahra Çölü'ndeki yaşama iyi uyum sağlamıştır.",
+    "note": "Çöl adları (the Sahara, the Gobi) tanımlık olarak 'the' alır."
+  },
+  {
+    "id": "ia_0028",
+    "topic": "articles_geo",
+    "level": 1,
+    "sentence": "China is located on the continent of [—] Asia.",
+    "answer": "—",
+    "distractors": [
+      "the",
+      "an"
+    ],
+    "sentence_tr": "Çin, Asya kıtasında yer almaktadır.",
+    "note": "Kıta isimleri (Asia, Europe, Africa) tanımlık almaz."
+  },
+  {
+    "id": "ia_0029",
+    "topic": "articles_geo",
+    "level": 4,
+    "sentence": "He reads [the] Times every morning during breakfast.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "—"
+    ],
+    "sentence_tr": "Her sabah kahvaltıda The Times gazetesini okur.",
+    "note": "Gazete isimlerinin önünde tanımlık olarak 'the' kullanılır."
+  },
+  {
+    "id": "ia_0030",
+    "topic": "articles_geo",
+    "level": 3,
+    "sentence": "Ships crossed [the] Atlantic Ocean to reach America.",
+    "answer": "the",
+    "distractors": [
+      "an",
+      "—"
+    ],
+    "sentence_tr": "Gemiler Amerika'ya ulaşmak için Atlas Okyanusu'nu geçti.",
+    "note": "Okyanus isimleri (the Atlantic, the Pacific) önlerine 'the' alır."
+  },
+  {
+    "id": "ia_0031",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "He has [few] friends, so he often feels lonely.",
+    "answer": "few",
+    "distractors": [
+      "a few",
+      "little"
+    ],
+    "sentence_tr": "Pek az arkadaşı var, bu yüzden sık sık yalnız hisseder.",
+    "note": "Sayılabilen isimlerle olumsuz anlamda 'neredeyse hiç' demek için 'few' kullanılır."
+  },
+  {
+    "id": "ia_0032",
+    "topic": "quantity",
+    "level": 2,
+    "sentence": "I have [a few] questions before we start.",
+    "answer": "a few",
+    "distractors": [
+      "few",
+      "a little"
+    ],
+    "sentence_tr": "Başlamadan önce birkaç sorum var.",
+    "note": "Sayılabilen çoğul isimlerle olumlu anlamda 'birkaç tane' demek için 'a few' tercih edilir."
+  },
+  {
+    "id": "ia_0033",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "There is [little] hope left for a quick solution.",
+    "answer": "little",
+    "distractors": [
+      "a little",
+      "few"
+    ],
+    "sentence_tr": "Hızlı bir çözüm için neredeyse hiç umut kalmadı.",
+    "note": "Sayılamayan isimlerle olumsuz (yetersiz) anlam vermek için 'little' kullanılır."
+  },
+  {
+    "id": "ia_0034",
+    "topic": "quantity",
+    "level": 2,
+    "sentence": "Add [a little] sugar to soften the flavor.",
+    "answer": "a little",
+    "distractors": [
+      "little",
+      "a few"
+    ],
+    "sentence_tr": "Tadı yumuşatmak için biraz şeker ekleyin.",
+    "note": "Sayılamayan isimlerle olumlu anlamda 'az miktarda/biraz' demek için 'a little' kullanılır."
+  },
+  {
+    "id": "ia_0035",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "There were [fewer] errors in her second attempt.",
+    "answer": "fewer",
+    "distractors": [
+      "less",
+      "lesser"
+    ],
+    "sentence_tr": "İkinci denemesinde daha az hata vardı.",
+    "note": "Sayılabilen çoğul isimlerin kıyaslamasında 'daha az' anlamı için 'fewer' kullanılır."
+  },
+  {
+    "id": "ia_0036",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "We should consume [less] electricity to save energy.",
+    "answer": "less",
+    "distractors": [
+      "fewer",
+      "few"
+    ],
+    "sentence_tr": "Enerji tasarrufu yapmak için daha az elektrik tüketmeliyiz.",
+    "note": "Sayılamayan isimlerin karşılaştırılmasında 'daha az' anlamı veren yapı 'less'tir."
+  },
+  {
+    "id": "ia_0037",
+    "topic": "quantity",
+    "level": 4,
+    "sentence": "A number of students [have] passed the exam.",
+    "answer": "have",
+    "distractors": [
+      "has",
+      "is"
+    ],
+    "sentence_tr": "Birçok öğrenci sınavı geçti.",
+    "note": "'A number of' kalıbından sonra çoğul isim ve çoğul fiil (have/are) gelir."
+  },
+  {
+    "id": "ia_0038",
+    "topic": "quantity",
+    "level": 4,
+    "sentence": "The number of accidents [has] decreased significantly.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "are"
+    ],
+    "sentence_tr": "Kazaların sayısı önemli ölçüde azaldı.",
+    "note": "'The number of' yapısı adedin kendisini vurguladığı için tekil fiil almaktadır."
+  },
+  {
+    "id": "ia_0039",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "A large amount of [money] was wasted.",
+    "answer": "money",
+    "distractors": [
+      "coins",
+      "dollars"
+    ],
+    "sentence_tr": "Büyük miktarda para heba edildi.",
+    "note": "'Amount of' yapısı sadece sayılamayan (tekil) isimlerle birlikte kullanılır."
+  },
+  {
+    "id": "ia_0040",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "A large number of [books] were donated.",
+    "answer": "books",
+    "distractors": [
+      "paper",
+      "furniture"
+    ],
+    "sentence_tr": "Çok sayıda kitap bağışlandı.",
+    "note": "'Number of' tamlamasından sonra mutlaka sayılabilen çoğul bir isim gelir."
+  },
+  {
+    "id": "ia_0041",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "[Each] student receives a personal certificate.",
+    "answer": "Each",
+    "distractors": [
+      "All",
+      "Both"
+    ],
+    "sentence_tr": "Her bir öğrenci kişisel bir sertifika alır.",
+    "note": "'Each' grubu tek tek vurgular; ardından tekil isim ve tekil fiil gelir."
+  },
+  {
+    "id": "ia_0042",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "She checks her email [every] morning.",
+    "answer": "every",
+    "distractors": [
+      "all",
+      "each of"
+    ],
+    "sentence_tr": "E-postasını her sabah kontrol eder.",
+    "note": "Periyodik zaman aralıklarında ve genellemelerde 'every' sıfatı tercih edilir."
+  },
+  {
+    "id": "ia_0043",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "He spent the [whole] day repairing the roof.",
+    "answer": "whole",
+    "distractors": [
+      "all",
+      "every"
+    ],
+    "sentence_tr": "Bütün günü çatıyı tamir ederek geçirdi.",
+    "note": "'The whole + tekil isim' yapısı bir şeyin eksiksiz tamamını ifade eder."
+  },
+  {
+    "id": "ia_0044",
+    "topic": "quantity",
+    "level": 2,
+    "sentence": "[All] the cars were parked in line.",
+    "answer": "All",
+    "distractors": [
+      "Whole",
+      "Every"
+    ],
+    "sentence_tr": "Tüm arabalar sırayla park edilmişti.",
+    "note": "Çoğul veya sayılamayan isimlerin bütününü kapsamak için 'all' kullanılır."
+  },
+  {
+    "id": "ia_0045",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "[Both] candidates prepared well for the debate.",
+    "answer": "Both",
+    "distractors": [
+      "Either",
+      "Neither"
+    ],
+    "sentence_tr": "Her iki aday da münazaraya iyi hazırlandı.",
+    "note": "İki unsurun her ikisini birden kapsamak için 'both' kullanılır ve çoğul fiil alır."
+  },
+  {
+    "id": "ia_0046",
+    "topic": "quantity",
+    "level": 4,
+    "sentence": "Neither option [is] suitable for our project.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "İki seçenekten hiçbiri projemize uygun değildir.",
+    "note": "'Neither' yapısı iki şeyden 'hiçbiri' anlamındadır ve doğrudan tekil fiille kullanılır."
+  },
+  {
+    "id": "ia_0047",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "You can choose [either] room for the weekend.",
+    "answer": "either",
+    "distractors": [
+      "both",
+      "all"
+    ],
+    "sentence_tr": "Hafta sonu için iki odadan birini seçebilirsin.",
+    "note": "İki alternatiften 'herhangi biri / bir tanesi' anlamında 'either' tercih edilir."
+  },
+  {
+    "id": "ia_0048",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "There were [no] seats left on the bus.",
+    "answer": "no",
+    "distractors": [
+      "none",
+      "any"
+    ],
+    "sentence_tr": "Otobüste hiç boş koltuk kalmamıştı.",
+    "note": "Cümlede 'hiç' anlamında direkt isimden önce tanımlık olmaksızın 'no' sıfatı gelir."
+  },
+  {
+    "id": "ia_0049",
+    "topic": "quantity",
+    "level": 4,
+    "sentence": "We wanted bread, but there was [none] left.",
+    "answer": "none",
+    "distractors": [
+      "no",
+      "any"
+    ],
+    "sentence_tr": "Ekmek istiyorduk ama hiç kalmamıştı.",
+    "note": "'None' bir zamirdir; kendisinden sonra doğrudan isim gelmez, boşluğu tek başına doldurur."
+  },
+  {
+    "id": "ia_0050",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "[Most] people enjoy listening to music.",
+    "answer": "Most",
+    "distractors": [
+      "Most of",
+      "Almost"
+    ],
+    "sentence_tr": "İnsanların çoğu müzik dinlemekten hoşlanır.",
+    "note": "Genel anlamda 'çoğu' derken doğrudan isimden önce 'most' kullanılır ('of' gelmez)."
+  },
+  {
+    "id": "ia_0051",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "Most [of the] students failed the hard test.",
+    "answer": "of the",
+    "distractors": [
+      "of",
+      "the"
+    ],
+    "sentence_tr": "Öğrencilerin çoğu zor testi geçemedi.",
+    "note": "Belirli bir gruptan bahsederken 'most of the + çoğul isim' kalıbı kurulur."
+  },
+  {
+    "id": "ia_0052",
+    "topic": "quantity",
+    "level": 2,
+    "sentence": "Would you like [another] cup of coffee?",
+    "answer": "another",
+    "distractors": [
+      "other",
+      "others"
+    ],
+    "sentence_tr": "Bir fincan daha kahve ister misiniz?",
+    "note": "Tekil sayılabilen bir ismin önünde 'bir tane daha / ek olarak bir' anlamında 'another' kullanılır."
+  },
+  {
+    "id": "ia_0053",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "Some students passed, while [others] failed.",
+    "answer": "others",
+    "distractors": [
+      "other",
+      "another"
+    ],
+    "sentence_tr": "Bazı öğrenciler geçti, diğerleri ise kaldı.",
+    "note": "'Others' ismi nitelemeyen, direkt 'diğer kişiler/şeyler' anlamında zamir olarak kullanılır."
+  },
+  {
+    "id": "ia_0054",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "She holds a pen in [the other] hand.",
+    "answer": "the other",
+    "distractors": [
+      "another",
+      "others"
+    ],
+    "sentence_tr": "Diğer elinde bir kalem tutuyor.",
+    "note": "İki seçenekten bilinen 'diğeri / öbürü' kastedildiğinde 'the other' ifadesi gelir."
+  },
+  {
+    "id": "ia_0055",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "There are [other] methods to solve this.",
+    "answer": "other",
+    "distractors": [
+      "another",
+      "others"
+    ],
+    "sentence_tr": "Bunu çözmek için başka yöntemler de var.",
+    "note": "Çoğul bir isimden önce 'başka / diğer' sıfatı olarak 'other' tercih edilir."
+  },
+  {
+    "id": "ia_0056",
+    "topic": "quantity",
+    "level": 4,
+    "sentence": "There is [hardly any] water left in the jug.",
+    "answer": "hardly any",
+    "distractors": [
+      "plenty of",
+      "a lot of"
+    ],
+    "sentence_tr": "Sürahide neredeyse hiç su kalmadı.",
+    "note": "'Hardly any' neredeyse hiç anlamında olumsuzluk katan miktar yapısıdır."
+  },
+  {
+    "id": "ia_0057",
+    "topic": "quantity",
+    "level": 3,
+    "sentence": "Don't rush, we have [plenty of] time.",
+    "answer": "plenty of",
+    "distractors": [
+      "few",
+      "fewer"
+    ],
+    "sentence_tr": "Acele etmeyin, bolca vaktimiz var.",
+    "note": "'Plenty of' bol miktarda / fazlasıyla anlamında hem sayılan hem sayılamayanla kullanılır."
+  },
+  {
+    "id": "ia_0058",
+    "topic": "quantity",
+    "level": 2,
+    "sentence": "How [much] traffic was there on the road?",
+    "answer": "much",
+    "distractors": [
+      "many",
+      "few"
+    ],
+    "sentence_tr": "Yolda ne kadar trafik vardı?",
+    "note": "Sayılamayan 'traffic' gibi isimlerle miktar sormak için 'how much' kullanılır."
+  },
+  {
+    "id": "ia_0059",
+    "topic": "quantity",
+    "level": 2,
+    "sentence": "How [many] languages can you speak fluently?",
+    "answer": "many",
+    "distractors": [
+      "much",
+      "little"
+    ],
+    "sentence_tr": "Kaç dili akıcı bir şekilde konuşabiliyorsun?",
+    "note": "Sayılabilen çoğul isimlerin adedini sormak için 'how many' yapısı uygundur."
+  },
+  {
+    "id": "ia_0060",
+    "topic": "quantity",
+    "level": 4,
+    "sentence": "You can visit us at [any] time tomorrow.",
+    "answer": "any",
+    "distractors": [
+      "some",
+      "no"
+    ],
+    "sentence_tr": "Bizi yarın herhangi bir zamanda ziyaret edebilirsin.",
+    "note": "'Any' olumlu cümlede kullanıldığında 'herhangi bir / fark etmez' anlamı taşır."
+  },
+  {
+    "id": "ia_0061",
+    "topic": "comparison",
+    "level": 2,
+    "sentence": "This computer is as fast [as] the newer model.",
+    "answer": "as",
+    "distractors": [
+      "than",
+      "like",
+      "from"
+    ],
+    "sentence_tr": "Bu bilgisayar yeni model kadar hızlıdır.",
+    "note": "Eşitlik karşılaştırmasında 'as + sıfat + as' kalıbı kullanılır."
+  },
+  {
+    "id": "ia_0062",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "Today is not so cold [as] yesterday was.",
+    "answer": "as",
+    "distractors": [
+      "than",
+      "like"
+    ],
+    "sentence_tr": "Bugün hava dün olduğu kadar soğuk değil.",
+    "note": "Olumsuz eşitlik yapılarında 'not so / as' kalıbı tercih edilir."
+  },
+  {
+    "id": "ia_0063",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "She speaks English as fluently as her brother [does].",
+    "answer": "does",
+    "distractors": [
+      "is",
+      "has"
+    ],
+    "sentence_tr": "O, İngilizceyi erkek kardeşi kadar akıcı konuşur.",
+    "note": "Eşitlik cümlelerinin sonundaki yardımcı fiil ana cümlenin fiiliyle uyumlu olmalıdır."
+  },
+  {
+    "id": "ia_0064",
+    "topic": "comparison",
+    "level": 2,
+    "sentence": "Her jacket is the same color [as] mine.",
+    "answer": "as",
+    "distractors": [
+      "with",
+      "from",
+      "like"
+    ],
+    "sentence_tr": "Onun ceketi benimkiyle aynı renktedir.",
+    "note": "'The same' ifadesinden sonra karşılaştırma edatı olarak 'as' kullanılır."
+  },
+  {
+    "id": "ia_0065",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "Your ideas are very similar [to] my own.",
+    "answer": "to",
+    "distractors": [
+      "with",
+      "as",
+      "from"
+    ],
+    "sentence_tr": "Senin fikirlerin benimkilerle oldukça benzerdir.",
+    "note": "'Similar' sıfatı edat olarak 'to' ile kullanılır."
+  },
+  {
+    "id": "ia_0066",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "This culture is completely different [from] ours.",
+    "answer": "from",
+    "distractors": [
+      "than",
+      "to",
+      "with"
+    ],
+    "sentence_tr": "Bu kültür bizimkinden tamamen farklıdır.",
+    "note": "'Different' sıfatı standart İngilizcede 'from' edatıyla kullanılır."
+  },
+  {
+    "id": "ia_0067",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "This exam was much harder [than] the previous one.",
+    "answer": "than",
+    "distractors": [
+      "from",
+      "as",
+      "to"
+    ],
+    "sentence_tr": "Bu sınav bir önceki sınavdan çok daha zordu.",
+    "note": "Üstünlük (comparative) derecelendirmesinden sonra 'than' edatı kullanılır."
+  },
+  {
+    "id": "ia_0068",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "The new phone is slightly [more] expensive than the old one.",
+    "answer": "more",
+    "distractors": [
+      "much",
+      "most",
+      "as"
+    ],
+    "sentence_tr": "Yeni telefon eskisinden biraz daha pahalıdır.",
+    "note": "Çok heceli sıfatlarda üstünlük yapısı 'more + sıfat + than' ile kurulur."
+  },
+  {
+    "id": "ia_0069",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "The train is far [faster] than the bus.",
+    "answer": "faster",
+    "distractors": [
+      "fast",
+      "fastest",
+      "more fast"
+    ],
+    "sentence_tr": "Tren otobüsten katbekat daha hızlıdır.",
+    "note": "'Far' zarfı üstünlük belirten sıfatın derecesini vurgulamak için kullanılır."
+  },
+  {
+    "id": "ia_0070",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "Living in a village is even [quieter] than before.",
+    "answer": "quieter",
+    "distractors": [
+      "more quiet",
+      "quietest",
+      "as quiet"
+    ],
+    "sentence_tr": "Bir köyde yaşamak eskisine göre daha da sakindir.",
+    "note": "Tek heceli veya '-y' ile biten iki heceli sıfatlar comparative takısı '-er' alır."
+  },
+  {
+    "id": "ia_0071",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "The more you practice, the [better] you become.",
+    "answer": "better",
+    "distractors": [
+      "good",
+      "best",
+      "more good"
+    ],
+    "sentence_tr": "Ne kadar çok pratik yaparsanız, o kadar iyi olursunuz.",
+    "note": "'The comparative, the comparative' yapısında oranlı artış ifade edilir."
+  },
+  {
+    "id": "ia_0072",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "The higher we climbed, [the] colder it became.",
+    "answer": "the",
+    "distractors": [
+      "more",
+      "a",
+      "much"
+    ],
+    "sentence_tr": "Ne kadar yükseğe tırmandıysak, hava o kadar soğudu.",
+    "note": "Çift üstünlük (double comparative) kalıbında her iki taraf da 'the' ile başlar."
+  },
+  {
+    "id": "ia_0073",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "The weather is getting warmer [and] warmer every day.",
+    "answer": "and",
+    "distractors": [
+      "to",
+      "than",
+      "or"
+    ],
+    "sentence_tr": "Hava her geçen gün gittikçe ısınıyor.",
+    "note": "Giderek artan değişimi anlatmak için 'comparative + and + comparative' yapısı kullanılır."
+  },
+  {
+    "id": "ia_0074",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "Mount Everest is the highest mountain [in] the world.",
+    "answer": "in",
+    "distractors": [
+      "of",
+      "from",
+      "at"
+    ],
+    "sentence_tr": "Everest Dağı dünyadaki en yüksek dağdır.",
+    "note": "Mekân veya grup içi en üstünlük bildiren yapılarda genellikle 'in' edatı kullanılır."
+  },
+  {
+    "id": "ia_0075",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "This was the happiest day [of] my entire life.",
+    "answer": "of",
+    "distractors": [
+      "in",
+      "from",
+      "than"
+    ],
+    "sentence_tr": "Bu tüm hayatımın en mutlu günüydü.",
+    "note": "Zaman dilimi veya süre belirten en üstünlük yapılarında 'of' edatı tercih edilir."
+  },
+  {
+    "id": "ia_0076",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "She is one of the most talented engineers [in] the firm.",
+    "answer": "in",
+    "distractors": [
+      "of",
+      "from"
+    ],
+    "sentence_tr": "O, şirketteki en yetenekli mühendislerden biridir.",
+    "note": "'One of the + en üstünlük sıfatı + çoğul isim' kalıbından sonra grup 'in' ile belirtilir."
+  },
+  {
+    "id": "ia_0077",
+    "topic": "comparison",
+    "level": 5,
+    "sentence": "This is by far [the] most expensive luxury hotel here.",
+    "answer": "the",
+    "distractors": [
+      "a",
+      "more",
+      "much"
+    ],
+    "sentence_tr": "Açık ara buradaki en pahalı lüks otel budur.",
+    "note": "'By far' ifadesi en üstünlük (superlative) sıfatının derecesini kuvvetlendirir."
+  },
+  {
+    "id": "ia_0078",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "This product is far superior [to] its market competitors.",
+    "answer": "to",
+    "distractors": [
+      "than",
+      "from",
+      "over"
+    ],
+    "sentence_tr": "Bu ürün piyasadaki rakiplerinden katbekat üstündür.",
+    "note": "'Superior' sıfatı karşılaştırmada 'than' yerine 'to' edatını alır."
+  },
+  {
+    "id": "ia_0079",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "His experience is inferior [to] that of his colleague.",
+    "answer": "to",
+    "distractors": [
+      "than",
+      "from",
+      "with"
+    ],
+    "sentence_tr": "Onun deneyimi meslektaşınınkinden daha aşağıdadır.",
+    "note": "'Inferior' sıfatı karşılaştırma bağlamında 'to' edatıyla kullanılır."
+  },
+  {
+    "id": "ia_0080",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "She is senior [to] all other officers in rank.",
+    "answer": "to",
+    "distractors": [
+      "than",
+      "from",
+      "of"
+    ],
+    "sentence_tr": "O, rütbece diğer tüm subaylardan daha kıdemlidir.",
+    "note": "'Senior' ve 'junior' gibi Latin kökenli sıfatlar karşılaştırmada 'to' alır."
+  },
+  {
+    "id": "ia_0081",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "My sister is three years [older] than I am.",
+    "answer": "older",
+    "distractors": [
+      "elder",
+      "eldest"
+    ],
+    "sentence_tr": "Kız kardeşim benden üç yaş büyük.",
+    "note": "'Elder' yalnızca isimden önce kullanılır ('elder sister') ve 'than' ile gelmez; karşılaştırmada 'older' kullanılır."
+  },
+  {
+    "id": "ia_0082",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "We need further information before making a final [decision].",
+    "answer": "decision",
+    "distractors": [
+      "decide",
+      "decisive"
+    ],
+    "sentence_tr": "Son kararı vermeden önce daha fazla bilgiye ihtiyacımız var.",
+    "note": "'Further' soyut anlamda 'daha fazla / ilave' anlamına gelen üstünlük şeklidir."
+  },
+  {
+    "id": "ia_0083",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "Which of the two proposals is [better] for us?",
+    "answer": "better",
+    "distractors": [
+      "best",
+      "good"
+    ],
+    "sentence_tr": "İki tekliften hangisi bizim için daha iyidir?",
+    "note": "Sadece iki şey karşılaştırılırken en üstünlük (best) değil, üstünlük (better) kullanılır."
+  },
+  {
+    "id": "ia_0084",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "I prefer drinking tea [to] coffee in the morning.",
+    "answer": "to",
+    "distractors": [
+      "than",
+      "from",
+      "over"
+    ],
+    "sentence_tr": "Sabahları çay içmeyi kahveye tercih ederim.",
+    "note": "'Prefer' fiili iki şey arasında tercih yaparken 'to' edatını alır."
+  },
+  {
+    "id": "ia_0085",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "She would rather stay home [than] go out tonight.",
+    "answer": "than",
+    "distractors": [
+      "to",
+      "from",
+      "instead"
+    ],
+    "sentence_tr": "O bu gece dışarı çıkmaktansa evde kalmayı tercih eder.",
+    "note": "'Would rather + yalın fiil' kalıbı karşılaştırmada 'than' ile kullanılır."
+  },
+  {
+    "id": "ia_0086",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "He worked hard [as] a manager for ten years.",
+    "answer": "as",
+    "distractors": [
+      "like",
+      "such"
+    ],
+    "sentence_tr": "O ten yıl boyunca müdür olarak çok çalıştı.",
+    "note": "Gerçek unvan veya görevi ifade ederken '-olarak' anlamında 'as' kullanılır."
+  },
+  {
+    "id": "ia_0087",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "She runs fast [like] a professional athlete.",
+    "answer": "like",
+    "distractors": [
+      "as",
+      "so"
+    ],
+    "sentence_tr": "O profesyonel bir atlet gibi hızlı koşar.",
+    "note": "Benzetme edatı olarak isimden önce '-gibi' anlamında 'like' kullanılır."
+  },
+  {
+    "id": "ia_0088",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "He does not earn as [much] money as his brother.",
+    "answer": "much",
+    "distractors": [
+      "many",
+      "more"
+    ],
+    "sentence_tr": "O erkek kardeşi kadar çok para kazanmıyor.",
+    "note": "Sayılamayan isimlerde eşitlik karşılaştırması 'as much + isim + as' ile yapılır."
+  },
+  {
+    "id": "ia_0089",
+    "topic": "comparison",
+    "level": 3,
+    "sentence": "There are twice as [many] students here today.",
+    "answer": "many",
+    "distractors": [
+      "much",
+      "more"
+    ],
+    "sentence_tr": "Bugün burada iki kat daha fazla öğrenci var.",
+    "note": "Kat belirten karşılaştırmalarda çoğul sayılan isimler 'as many' alır."
+  },
+  {
+    "id": "ia_0090",
+    "topic": "comparison",
+    "level": 4,
+    "sentence": "This house is three times as large [as] our old one.",
+    "answer": "as",
+    "distractors": [
+      "than",
+      "from",
+      "to"
+    ],
+    "sentence_tr": "Bu ev bizim eski evimizin üç katı büyüklüğündedir.",
+    "note": "Kat belirtilen eşitlik yapılarında 'X times as + sıfat + as' kalıbı kurulur."
+  },
+  {
+    "id": "ia_0091",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "Neither the manager nor the employees [were] present at the meeting.",
+    "answer": "were",
+    "distractors": [
+      "was",
+      "is"
+    ],
+    "sentence_tr": "Ne müdür ne de çalışanlar toplantıda hazırdı.",
+    "note": "Neither ... nor bağlacında fiil kendisine en yakın özneye göre çekimlenir."
+  },
+  {
+    "id": "ia_0092",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "Either the teacher or the student [has] the classroom key.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "having"
+    ],
+    "sentence_tr": "Sınıf anahtarı ya öğretmende ya da öğrencide.",
+    "note": "Either ... or yapısında yükleme en yakın özne tekil ise fiil de tekil olur."
+  },
+  {
+    "id": "ia_0093",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Not only the driver but also the passengers [were] injured.",
+    "answer": "were",
+    "distractors": [
+      "was",
+      "is"
+    ],
+    "sentence_tr": "Sadece sürücü değil, yolcular da yaralandı.",
+    "note": "Not only ... but also kalıbında fiilin uyumunu ikinci özne belirler."
+  },
+  {
+    "id": "ia_0094",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The professor, as well as her students, [is] attending today.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "Profesör, öğrencilerinin yanı sıra bugün katılıyor.",
+    "note": "As well as ile bağlanan yapılarda fiil ilk özneye göre çekimlenir."
+  },
+  {
+    "id": "ia_0095",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The CEO, along with his assistants, [has] arrived now.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "having"
+    ],
+    "sentence_tr": "CEO, asistanlarıyla birlikte şimdi geldi.",
+    "note": "Along with edatı cümle öznesinin tekilliğini bozmaz ve fiil tekil kalır."
+  },
+  {
+    "id": "ia_0096",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The director, together with the board members, [decides] on policy.",
+    "answer": "decides",
+    "distractors": [
+      "decide",
+      "deciding"
+    ],
+    "sentence_tr": "Müdür, yönetim kurulu üyeleriyle birlikte politikaya karar verir.",
+    "note": "Together with yapısı ana özneyi etkilemez ve fiil tekil çekimlenir."
+  },
+  {
+    "id": "ia_0097",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The lead singer, accompanied by guitarists, [gives] a concert tonight.",
+    "answer": "gives",
+    "distractors": [
+      "give",
+      "giving"
+    ],
+    "sentence_tr": "Solist, gitaristler eşliğinde bu gece bir konser veriyor.",
+    "note": "Accompanied by öbeği ara bilgidir ve yüklem tekil kalır."
+  },
+  {
+    "id": "ia_0098",
+    "topic": "agreement",
+    "level": 2,
+    "sentence": "Every boy and girl [was] given a gift yesterday.",
+    "answer": "was",
+    "distractors": [
+      "were",
+      "are"
+    ],
+    "sentence_tr": "Dün her bir oğlan ve kız çocuğuna hediye verildi.",
+    "note": "Every veya each ile niteleyen özneler ve ile bağlansa bile fiil tekildir."
+  },
+  {
+    "id": "ia_0099",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "Each of the candidates [has] ten minutes to present.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "having"
+    ],
+    "sentence_tr": "Adayların her birinin sunum yapmak için on dakikası var.",
+    "note": "Each of yapısından sonra gelen çoğul isme rağmen fiil tekil olur."
+  },
+  {
+    "id": "ia_0100",
+    "topic": "agreement",
+    "level": 2,
+    "sentence": "One of my best friends [lives] in London now.",
+    "answer": "lives",
+    "distractors": [
+      "live",
+      "living"
+    ],
+    "sentence_tr": "En iyi arkadaşlarımdan biri şu an Londra'da yaşıyor.",
+    "note": "One of kalıbında asıl özne bir kelimesi olduğu için fiil tekildir."
+  },
+  {
+    "id": "ia_0101",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "He is one of the players who [were] selected.",
+    "answer": "were",
+    "distractors": [
+      "was",
+      "is"
+    ],
+    "sentence_tr": "O, seçilen oyunculardan biridir.",
+    "note": "One of the ve çoğul isim sonrası gelen who nitelemesinde fiil çoğuldur."
+  },
+  {
+    "id": "ia_0102",
+    "topic": "agreement",
+    "level": 5,
+    "sentence": "She is the only one of the students who [has] passed.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "having"
+    ],
+    "sentence_tr": "Sınavı geçen öğrencilerden tek kişi o.",
+    "note": "The only one of kalıbında vurgu tek kişide olduğu için fiil tekildir."
+  },
+  {
+    "id": "ia_0103",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "A number of applicants [have] submitted their forms.",
+    "answer": "have",
+    "distractors": [
+      "has",
+      "is"
+    ],
+    "sentence_tr": "Birçok başvuru sahibi formlarını teslim etti.",
+    "note": "A number of ifadesi birçok anlamına gelir ve çoğul fiil alır."
+  },
+  {
+    "id": "ia_0104",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "The number of accidents [has] decreased significantly this year.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "are"
+    ],
+    "sentence_tr": "Kaza sayısı bu yıl belirgin şekilde azaldı.",
+    "note": "The number of yapısı sayı kavramını ifade eder ve tekil fiil alır."
+  },
+  {
+    "id": "ia_0105",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "The police [are] investigating the sudden disappearance of the money.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "was"
+    ],
+    "sentence_tr": "Polis, paranın aniden kaybolmasını araştırıyor.",
+    "note": "Police sözcüğü gramer açısından her zaman çoğul fiil alır."
+  },
+  {
+    "id": "ia_0106",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "The cattle [are] grazing peacefully in the green field.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "was"
+    ],
+    "sentence_tr": "Büyükbaş hayvanlar yeşil tarlada huzurla otluyor.",
+    "note": "Cattle kelimesi yapıca çoğuldur ve daima çoğul yüklem ister."
+  },
+  {
+    "id": "ia_0107",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The committee [has] reached a final decision on this matter.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "are"
+    ],
+    "sentence_tr": "Komite bu konuda nihai bir karara vardı.",
+    "note": "Topluluk isimleri tek bir bütün olarak hareket ettiğinde tekil fiil alır."
+  },
+  {
+    "id": "ia_0108",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "My family [have] different views on this difficult issue.",
+    "answer": "have",
+    "distractors": [
+      "has",
+      "is"
+    ],
+    "sentence_tr": "Ailemin birey olarak bu zor konuda farklı görüşleri var.",
+    "note": "Topluluk ismi üyelerin bireysel görüşlerine odaklandığında çoğul fiil alır."
+  },
+  {
+    "id": "ia_0109",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "Physics [is] a challenging subject for many high school students.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "Fizik, birçok lise öğrencisi için zorlu bir derstir.",
+    "note": "Sonunda s takısı bulunan bilim ve ders adları tekil fiil alır."
+  },
+  {
+    "id": "ia_0110",
+    "topic": "agreement",
+    "level": 2,
+    "sentence": "The news [was] surprising for everyone in the room.",
+    "answer": "was",
+    "distractors": [
+      "were",
+      "are"
+    ],
+    "sentence_tr": "Haber odadaki herkes için şaşırtıcıydı.",
+    "note": "News kelimesi sayılamayan tekil bir isimdir ve daima tekil fiil ister."
+  },
+  {
+    "id": "ia_0111",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "Ten miles [is] a long distance to walk in one day.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "On mil, bir günde yürünmek için uzun bir mesafedir.",
+    "note": "Mesafe ve zaman birimleri bütünsel bir miktar sayıldığından tekil yüklem alır."
+  },
+  {
+    "id": "ia_0112",
+    "topic": "agreement",
+    "level": 2,
+    "sentence": "Fifty dollars [is] too much to pay for a shirt.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "Elli dolar bir gömlek için ödenmeyecek kadar çok.",
+    "note": "Para tutarları toplam bir meblağ ifade ettiğinde tekil fiille kullanılır."
+  },
+  {
+    "id": "ia_0113",
+    "topic": "agreement",
+    "level": 2,
+    "sentence": "Reading books [helps] students expand their general vocabulary.",
+    "answer": "helps",
+    "distractors": [
+      "help",
+      "helping"
+    ],
+    "sentence_tr": "Kitap okumak öğrencilerin kelime hazinesini genişletmesine yardımcı olur.",
+    "note": "Özne konumundaki eylemsi yapıları daima tekil fiil gerektirir."
+  },
+  {
+    "id": "ia_0114",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "What we urgently need [is] clear guidance from our team leader.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "Acil ihtiyacımız olan şey, takım liderimizden net bir rehberliktir.",
+    "note": "Özne görevindeki yan cümlecikler tekil kabul edilir ve tekil yüklem alır."
+  },
+  {
+    "id": "ia_0115",
+    "topic": "agreement",
+    "level": 2,
+    "sentence": "These scissors [are] too dull to cut thick paper properly.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "was"
+    ],
+    "sentence_tr": "Bu makas kalın kâğıdı düzgünce kesmek için çok körelmiş.",
+    "note": "İki parçadan oluşan alet ve giysi isimleri çoğul yüklem alır."
+  },
+  {
+    "id": "ia_0116",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "A pair of trousers [was] left on the chair yesterday.",
+    "answer": "was",
+    "distractors": [
+      "were",
+      "are"
+    ],
+    "sentence_tr": "Dün sandalyenin üzerinde bir pantolon bırakılmıştı.",
+    "note": "A pair of kalıbı özne olduğunda vurgu çift nesnede olduğu için fiil tekildir."
+  },
+  {
+    "id": "ia_0117",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "More than one student [has] failed the final exam today.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "are"
+    ],
+    "sentence_tr": "Bugün final sınavında bir öğrenciden fazlası başarısız oldu.",
+    "note": "More than one ve tekil isim yapısı biçimsel olarak tekil yüklem gerektirir."
+  },
+  {
+    "id": "ia_0118",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "The majority of the voters [support] the new economic proposal.",
+    "answer": "support",
+    "distractors": [
+      "supports",
+      "supporting"
+    ],
+    "sentence_tr": "Seçmenlerin çoğunluğu yeni ekonomik teklifi destekliyor.",
+    "note": "The majority of ve çoğul isim tamlamasından sonra çoğul fiil kullanılır."
+  },
+  {
+    "id": "ia_0119",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "Half of the cake [was] eaten by the kids.",
+    "answer": "was",
+    "distractors": [
+      "were",
+      "are"
+    ],
+    "sentence_tr": "Kekin yarısı çocuklar tarafından yendi.",
+    "note": "Kesir ve yüzde ifadelerinden sonra gelen isim sayılamayan ise fiil tekildir."
+  },
+  {
+    "id": "ia_0120",
+    "topic": "agreement",
+    "level": 2,
+    "sentence": "Bread and butter [is] his favorite breakfast every morning.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "Tereyağlı ekmek her sabah onun en sevdiği kahvaltıdır.",
+    "note": "And ile bağlanan iki sözcük tek bir kavram oluşturuyorsa yüklem tekil olur."
+  },
+  {
+    "id": "ia_0121",
+    "topic": "connectors",
+    "level": 3,
+    "sentence": "He succeeded [despite] all the severe difficulties he faced.",
+    "answer": "despite",
+    "distractors": [
+      "although",
+      "even though"
+    ],
+    "sentence_tr": "Karşılaştığı tüm ağır zorluklara rağmen başarılı oldu.",
+    "note": "'Despite' kendisinden sonra isim/isim öbeği alırken 'although' tam cümle gerektirir."
+  },
+  {
+    "id": "ia_0122",
+    "topic": "connectors",
+    "level": 3,
+    "sentence": "The match was canceled [because of] the heavy rain.",
+    "answer": "because of",
+    "distractors": [
+      "because",
+      "since"
+    ],
+    "sentence_tr": "Şiddetli yağmur nedeniyle maç iptal edildi.",
+    "note": "'Because of' sebep bildiren isim öbeğiyle; 'because' ise tam cümleyle kullanılır."
+  },
+  {
+    "id": "ia_0123",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "She studied hard [so that] she could pass the test.",
+    "answer": "so that",
+    "distractors": [
+      "in order to",
+      "so as to"
+    ],
+    "sentence_tr": "Sınavı geçebilmek amacıyla çok çalıştı.",
+    "note": "'So that' yapısından sonra özne ve modül içeren tam cümle gelir."
+  },
+  {
+    "id": "ia_0124",
+    "topic": "connectors",
+    "level": 3,
+    "sentence": "Take an umbrella [in case] it rains later today.",
+    "answer": "in case",
+    "distractors": [
+      "if",
+      "unless"
+    ],
+    "sentence_tr": "Bugün ilerleyen saatlerde yağmur yağar diye yanına şemsiye al.",
+    "note": "'In case' olası bir duruma karşı önlem almayı anlatır; 'if' ise şarta bağlıdır."
+  },
+  {
+    "id": "ia_0125",
+    "topic": "connectors",
+    "level": 3,
+    "sentence": "You cannot enter the hall [unless] you have a ticket.",
+    "answer": "unless",
+    "distractors": [
+      "if",
+      "provided"
+    ],
+    "sentence_tr": "Biletiniz olmadıkça salona giremezsiniz.",
+    "note": "'Unless' olumsuz şart anlamı taşır ('if not') ve kendi cümleciği olumludur."
+  },
+  {
+    "id": "ia_0126",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "You may stay here [as long as] you keep quiet.",
+    "answer": "as long as",
+    "distractors": [
+      "as well as",
+      "as far as"
+    ],
+    "sentence_tr": "Sessiz kaldığınız sürece burada kalabilirsiniz.",
+    "note": "'As long as' / 'provided that' koşul bildirir (-dığı sürece / şartıyla)."
+  },
+  {
+    "id": "ia_0127",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "The test was difficult; [however], most students passed.",
+    "answer": "however",
+    "distractors": [
+      "although",
+      "whereas"
+    ],
+    "sentence_tr": "Sınav zordu; yine de öğrencilerin çoğu geçti.",
+    "note": "'However' cümle başı/noktalı virgülden sonra zıtlık geçişi sağlayan zarftır."
+  },
+  {
+    "id": "ia_0128",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "My brother loves football, [whereas] I prefer basketball.",
+    "answer": "whereas",
+    "distractors": [
+      "however",
+      "despite"
+    ],
+    "sentence_tr": "Erkek kardeşim futbolu severken ben basketbolu tercih ederim.",
+    "note": "'Whereas' iki durum arasındaki doğrudan karşılaştırma ve tezatlığı bağlar."
+  },
+  {
+    "id": "ia_0129",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "He is very rich; [furthermore], he is extremely generous.",
+    "answer": "furthermore",
+    "distractors": [
+      "nevertheless",
+      "otherwise"
+    ],
+    "sentence_tr": "O çok zengindir; dahası, son derece cömerttir.",
+    "note": "'Furthermore' / 'moreover' ek bilgi ekleyen ekleme bağlaçlarıdır."
+  },
+  {
+    "id": "ia_0130",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "Run fast; [otherwise], you will miss the train.",
+    "answer": "otherwise",
+    "distractors": [
+      "therefore",
+      "likewise"
+    ],
+    "sentence_tr": "Hızlı koş; aksi takdirde treni kaçıracaksın.",
+    "note": "'Otherwise' koşul gerçekleşmezse ortaya çıkacak olumsuz sonucu belirtir."
+  },
+  {
+    "id": "ia_0131",
+    "topic": "connectors",
+    "level": 3,
+    "sentence": "It was [such] a cold day that we stayed indoors.",
+    "answer": "such",
+    "distractors": [
+      "so",
+      "too"
+    ],
+    "sentence_tr": "O kadar soğuk bir gündü ki içeride kaldık.",
+    "note": "'Such + (a/an) + sıfat + isim + that' yapısı sonuç bildirir."
+  },
+  {
+    "id": "ia_0132",
+    "topic": "connectors",
+    "level": 3,
+    "sentence": "The music was [so] loud that I couldn't sleep.",
+    "answer": "so",
+    "distractors": [
+      "such",
+      "very"
+    ],
+    "sentence_tr": "Müzik o kadar yüksek sesliydi ki uyuyamadım.",
+    "note": "'So + sıfat/zarf + that' yapısı sebep-sonuç bağlar."
+  },
+  {
+    "id": "ia_0133",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "She woke up early [in order to] catch the train.",
+    "answer": "in order to",
+    "distractors": [
+      "so that",
+      "for"
+    ],
+    "sentence_tr": "Trene yetişmek amacıyla erkenden uyandı.",
+    "note": "'In order to' / 'so as to' amaç bildiren yalın fiil alarak kullanılır."
+  },
+  {
+    "id": "ia_0134",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "[In addition to] French, she speaks fluent Spanish.",
+    "answer": "In addition to",
+    "distractors": [
+      "In addition",
+      "Furthermore"
+    ],
+    "sentence_tr": "Fransızcaya ek olarak akıcı bir şekilde İspanyolca konuşur.",
+    "note": "'In addition to' edat yapısındadır ve kendisinden sonra isim/gerund gelir."
+  },
+  {
+    "id": "ia_0135",
+    "topic": "connectors",
+    "level": 5,
+    "sentence": "The plan failed [due to] poor organization.",
+    "answer": "due to",
+    "distractors": [
+      "owing",
+      "because"
+    ],
+    "sentence_tr": "Plan zayıf organizasyon nedeniyle başarısız oldu.",
+    "note": "'Due to' / 'owing to' edat grupları doğrudan isim öbeği alır."
+  },
+  {
+    "id": "ia_0136",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "He acts [as if] he knew everything about politics.",
+    "answer": "as if",
+    "distractors": [
+      "like",
+      "even though"
+    ],
+    "sentence_tr": "Politika hakkında her şeyi biliyormuş gibi davranıyor.",
+    "note": "'As if' / 'as though' yapısı -mış gibi anlamı katar ve cümle alır."
+  },
+  {
+    "id": "ia_0137",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "[Unlike] her sister, Jane is very outgoing.",
+    "answer": "Unlike",
+    "distractors": [
+      "Whereas",
+      "In contrast"
+    ],
+    "sentence_tr": "Kız kardeşinin aksine Jane çok girişkendir.",
+    "note": "'Unlike' zıtlık bildiren ve kendisinden sonra isim alan edattır."
+  },
+  {
+    "id": "ia_0138",
+    "topic": "connectors",
+    "level": 5,
+    "sentence": "The traffic was terrible; [consequently], we were late.",
+    "answer": "consequently",
+    "distractors": [
+      "nevertheless",
+      "whereas"
+    ],
+    "sentence_tr": "Trafik korkunçtu; sonuç olarak geç kaldık.",
+    "note": "'Consequently' / 'as a result' sonuç belirten geçiş zarflarıdır."
+  },
+  {
+    "id": "ia_0139",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "You must study [even if] you feel tired.",
+    "answer": "even if",
+    "distractors": [
+      "even though",
+      "as if"
+    ],
+    "sentence_tr": "Yorgun hissetsen bile ders çalışmalısın.",
+    "note": "'Even if' var sayılan olumsuz şarta rağmen varsayım tezatlığı kurar."
+  },
+  {
+    "id": "ia_0140",
+    "topic": "connectors",
+    "level": 5,
+    "sentence": "[Notwithstanding] the opposition, the law was passed.",
+    "answer": "Notwithstanding",
+    "distractors": [
+      "Although",
+      "Whereas"
+    ],
+    "sentence_tr": "Muhalefete rağmen yasa kabul edildi.",
+    "note": "'Notwithstanding' resmi dilde '-e rağmen' anlamına gelen edattır."
+  },
+  {
+    "id": "ia_0141",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "[Given that] fuel prices rose, fares increased.",
+    "answer": "Given that",
+    "distractors": [
+      "Because of",
+      "Due to"
+    ],
+    "sentence_tr": "Yakıt fiyatlarının arttığı dikkate alınırsa bilet ücretleri zamlandı.",
+    "note": "'Given that' durumun dikkate alındığını belirten cümle alan sebep bağlacıdır."
+  },
+  {
+    "id": "ia_0142",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "He didn't give up; [on the contrary], he worked harder.",
+    "answer": "on the contrary",
+    "distractors": [
+      "on the other hand",
+      "furthermore"
+    ],
+    "sentence_tr": "Pes etmedi; aksine, daha çok çalıştı.",
+    "note": "'On the contrary' önceki olumsuz iddiayı tam tersiyle çürütmek için kullanılır."
+  },
+  {
+    "id": "ia_0143",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "He spent years abroad; [meanwhile], his family stayed home.",
+    "answer": "meanwhile",
+    "distractors": [
+      "therefore",
+      "otherwise"
+    ],
+    "sentence_tr": "O yıllarca yurt dışında kaldı; bu esnada ailesi evde kaldı.",
+    "note": "'Meanwhile' eş zamanlı gelişen farklı bir eyleme geçiş yapar."
+  },
+  {
+    "id": "ia_0144",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "We decided to go out [despite] the cold wind.",
+    "answer": "despite",
+    "distractors": [
+      "in spite",
+      "even though"
+    ],
+    "sentence_tr": "Soğuk rüzgâra rağmen dışarı çıkmaya karar verdik.",
+    "note": "'In spite of' edatı 'of' ile kullanılır; 'despite' ise 'of' almaz."
+  },
+  {
+    "id": "ia_0145",
+    "topic": "connectors",
+    "level": 5,
+    "sentence": "He will accept [provided that] the conditions are fair.",
+    "answer": "provided that",
+    "distractors": [
+      "in case",
+      "unless"
+    ],
+    "sentence_tr": "Şartların adil olması koşuluyla kabul edecek.",
+    "note": "'Provided that' kesin şart bildirir ve olumlu koşul cümlesi alır."
+  },
+  {
+    "id": "ia_0146",
+    "topic": "connectors",
+    "level": 5,
+    "sentence": "[Seeing that] everyone is ready, we can start.",
+    "answer": "Seeing that",
+    "distractors": [
+      "In order that",
+      "In spite of"
+    ],
+    "sentence_tr": "Herkes hazır olduğuna göre başlayabiliriz.",
+    "note": "'Seeing that' / 'seeing as' durumun görünürlüğüne dayalı gerekçe bildirir."
+  },
+  {
+    "id": "ia_0147",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "Many citrus fruits, [such as] oranges, contain vitamin C.",
+    "answer": "such as",
+    "distractors": [
+      "for example",
+      "like as"
+    ],
+    "sentence_tr": "Portakal gibi birçok narenciye türü C vitamini içerir.",
+    "note": "'Such as' isimlerden önce somut örnekleme yapmak için kullanılır."
+  },
+  {
+    "id": "ia_0148",
+    "topic": "connectors",
+    "level": 5,
+    "sentence": "The weather was bad; [nevertheless], they completed the hike.",
+    "answer": "nevertheless",
+    "distractors": [
+      "therefore",
+      "consequently"
+    ],
+    "sentence_tr": "Hava kötüydü; yine de yürüyüşü tamamladılar.",
+    "note": "'Nevertheless' beklenmedik zıtlık veya direnç anlatan geçiş zarfıdır."
+  },
+  {
+    "id": "ia_0149",
+    "topic": "connectors",
+    "level": 5,
+    "sentence": "He walked quietly [for fear that] he might wake the baby.",
+    "answer": "for fear that",
+    "distractors": [
+      "so as to",
+      "in case of"
+    ],
+    "sentence_tr": "Bebeği uyandırabilir korkusuyla sessizce yürüdü.",
+    "note": "'For fear that' olumsuz olası sonuç kaygısını belirten cümle alan bağlaçtır."
+  },
+  {
+    "id": "ia_0150",
+    "topic": "connectors",
+    "level": 4,
+    "sentence": "She has neither called [nor] sent a text today.",
+    "answer": "nor",
+    "distractors": [
+      "or",
+      "and"
+    ],
+    "sentence_tr": "Bugün ne aradı ne de mesaj attı.",
+    "note": "'Neither - nor' ikili bağlacında ikinci unsur 'nor' ile bağlanır."
+  },
+  {
+    "id": "ia_0151",
+    "topic": "relatives",
+    "level": 2,
+    "sentence": "The doctor [who] treated my father was very experienced.",
+    "answer": "who",
+    "distractors": [
+      "which",
+      "whom"
+    ],
+    "sentence_tr": "Babamı tedavi eden doktor çok tecrübeliydi.",
+    "note": "İnsanları niteleyen özne konumundaki sıfat cümlelerinde 'who' kullanılır."
+  },
+  {
+    "id": "ia_0152",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "The teacher with [whom] I spoke was very helpful.",
+    "answer": "whom",
+    "distractors": [
+      "who",
+      "which"
+    ],
+    "sentence_tr": "Kendiseyle konuştuğum öğretmen çok yardımcı oldu.",
+    "note": "Edatlardan (preposition) sonra insanları nitelemek için nesne durumundaki 'whom' tercih edilir."
+  },
+  {
+    "id": "ia_0153",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "The man [whose] car was stolen called the police.",
+    "answer": "whose",
+    "distractors": [
+      "who's",
+      "which"
+    ],
+    "sentence_tr": "Arabası çalınan adam polisi aradı.",
+    "note": "Aitlik/sahiplik bildiren sıfat cümlelerinde yalın isimden önce 'whose' kullanılır."
+  },
+  {
+    "id": "ia_0154",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "She married a doctor [who's] living in London now.",
+    "answer": "who's",
+    "distractors": [
+      "whose",
+      "whom"
+    ],
+    "sentence_tr": "Şu anda Londra'da yaşayan bir doktorla evlendi.",
+    "note": "'Who's' ifadesi 'who is' kelimesinin kısaltmasıdır; sahiplik belirten 'whose' ile karıştırılmamalıdır."
+  },
+  {
+    "id": "ia_0155",
+    "topic": "relatives",
+    "level": 2,
+    "sentence": "The book [which] is on the table belongs to me.",
+    "answer": "which",
+    "distractors": [
+      "who",
+      "whom"
+    ],
+    "sentence_tr": "Masanın üzerindeki kitap bana aittir.",
+    "note": "Cansız varlıkları ve hayvanları nitelemek için 'which' kullanılır."
+  },
+  {
+    "id": "ia_0156",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "This is the house [where] my grandfather was born.",
+    "answer": "where",
+    "distractors": [
+      "which",
+      "what"
+    ],
+    "sentence_tr": "Bu, dedemin doğduğu evdir.",
+    "note": "İçinde bir eylemin gerçekleştiği mekânları nitelemek için 'where' kullanılır."
+  },
+  {
+    "id": "ia_0157",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "This is the house [which] I bought last year.",
+    "answer": "which",
+    "distractors": [
+      "where",
+      "wherever"
+    ],
+    "sentence_tr": "Bu, geçen yıl satın aldığım evdir.",
+    "note": "Mekân ismi doğrudan eylemin nesnesi konumundaysa 'where' değil 'which' kullanılır."
+  },
+  {
+    "id": "ia_0158",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "I still remember the day [when] we first met.",
+    "answer": "when",
+    "distractors": [
+      "which",
+      "where"
+    ],
+    "sentence_tr": "İlk karşılaştığımız günü hâlâ hatırlıyorum.",
+    "note": "Zaman belirten isimleri nitelemek için bağlaç olarak 'when' kullanılır."
+  },
+  {
+    "id": "ia_0159",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "I will never forget the day [which] changed my life.",
+    "answer": "which",
+    "distractors": [
+      "when",
+      "where"
+    ],
+    "sentence_tr": "Hayatımı değiştiren günü asla unutmayacağım.",
+    "note": "Zaman ismi cümlenin öznesi veya nesnesi konumundaysa 'when' yerine 'which' gelir."
+  },
+  {
+    "id": "ia_0160",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "That is the main reason [why] he resigned yesterday.",
+    "answer": "why",
+    "distractors": [
+      "which",
+      "where"
+    ],
+    "sentence_tr": "Dün istifa etmesinin temel nedeni işte budur.",
+    "note": "'Reason' kelimesinden sonra sebep bildiren sıfat cümlesi kurmak için 'why' kullanılır."
+  },
+  {
+    "id": "ia_0161",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "My uncle, [who] lives in Paris, is an architect.",
+    "answer": "who",
+    "distractors": [
+      "that",
+      "whom"
+    ],
+    "sentence_tr": "Paris'te yaşayan amcam bir mimardır.",
+    "note": "Virgülle ayrılan ekstra bilgi cümlelerinde (non-defining) 'that' kullanılamaz."
+  },
+  {
+    "id": "ia_0162",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "His latest novel, [which] was published yesterday, sold out.",
+    "answer": "which",
+    "distractors": [
+      "that",
+      "what"
+    ],
+    "sentence_tr": "Dün yayımlanan son romanı tükendi.",
+    "note": "Virgülden sonra gelen cansız nitelemelerinde 'that' değil 'which' tercih edilir."
+  },
+  {
+    "id": "ia_0163",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "He passed the exam, [which] surprised all of us.",
+    "answer": "which",
+    "distractors": [
+      "that",
+      "what"
+    ],
+    "sentence_tr": "Sınavı geçti, ki bu hepimizi şaşırttı.",
+    "note": "Önceki cümlenin tamamına gönderme yapan virgülden sonraki yapılarda 'which' kullanılır."
+  },
+  {
+    "id": "ia_0164",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "This is the topic in [which] I am interested.",
+    "answer": "which",
+    "distractors": [
+      "that",
+      "where"
+    ],
+    "sentence_tr": "İlgilendiğim konu tam olarak budur.",
+    "note": "Edatlardan (in, on, at) sonra ilgi zamiri olarak 'that' kullanılamaz, 'which' gelir."
+  },
+  {
+    "id": "ia_0165",
+    "topic": "relatives",
+    "level": 5,
+    "sentence": "He has three brothers, all of [whom] are doctors.",
+    "answer": "whom",
+    "distractors": [
+      "who",
+      "them"
+    ],
+    "sentence_tr": "Üç erkek kardeşi var, hepsi de doktordur.",
+    "note": "Miktar belirten ifadelerden sonra (all of, most of) insanları bağlamak için 'whom' kullanılır."
+  },
+  {
+    "id": "ia_0166",
+    "topic": "relatives",
+    "level": 5,
+    "sentence": "She bought two dresses, both of [which] were expensive.",
+    "answer": "which",
+    "distractors": [
+      "that",
+      "them"
+    ],
+    "sentence_tr": "İkisi de pahalı olan iki elbise satın aldı.",
+    "note": "'Most of', 'both of' gibi miktar yapılarından sonra nesneler için 'which' kullanılır."
+  },
+  {
+    "id": "ia_0167",
+    "topic": "relatives",
+    "level": 5,
+    "sentence": "We interviewed ten applicants, none of [whom] were suitable.",
+    "answer": "whom",
+    "distractors": [
+      "who",
+      "that"
+    ],
+    "sentence_tr": "Hiçbiri uygun olmayan on adayla mülakat yaptık.",
+    "note": "'None of' miktar yapısının ardından insanları bağlarken ilgi zamiri olarak 'whom' gelir."
+  },
+  {
+    "id": "ia_0168",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "The man [standing] near the door is my professor.",
+    "answer": "standing",
+    "distractors": [
+      "stood",
+      "stands"
+    ],
+    "sentence_tr": "Kapının yanında duran adam benim profesörümdür.",
+    "note": "Etken (active) sıfat cümlesi kısaltmalarında fiilin '-ing' hali kullanılır."
+  },
+  {
+    "id": "ia_0169",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "Anyone [wishing] to join the tour must register online.",
+    "answer": "wishing",
+    "distractors": [
+      "wished",
+      "wishes"
+    ],
+    "sentence_tr": "Tura katılmak isteyen herkes çevrim içi kayıt olmalıdır.",
+    "note": "Geniş veya şimdiki zamandaki etken cümle kısaltmasında fiile '-ing' eklenir."
+  },
+  {
+    "id": "ia_0170",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "Students [attending] the seminar will receive a certificate tomorrow.",
+    "answer": "attending",
+    "distractors": [
+      "attended",
+      "attends"
+    ],
+    "sentence_tr": "Seminere katılan öğrenciler yarın bir sertifika alacaklar.",
+    "note": "İsmi niteleyen etken kısaltmalarda zaman fark etmeksizin sıfat fiil '-ing' biçimindedir."
+  },
+  {
+    "id": "ia_0171",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "The report [prepared] by the committee was very detailed.",
+    "answer": "prepared",
+    "distractors": [
+      "preparing",
+      "prepares"
+    ],
+    "sentence_tr": "Komite tarafından hazırlanan rapor oldukça detaylıydı.",
+    "note": "Edilgen (passive) sıfat cümlesi kısaltmalarında fiilin 3. hali (V3) tercih edilir."
+  },
+  {
+    "id": "ia_0172",
+    "topic": "relatives",
+    "level": 3,
+    "sentence": "Goods [imported] from China are subject to custom tax.",
+    "answer": "imported",
+    "distractors": [
+      "importing",
+      "imports"
+    ],
+    "sentence_tr": "Çin'den ithal edilen mallar gümrük vergisine tabidir.",
+    "note": "Edilgen anlam taşıyan sıfat cümlesi kısaltmasında geçmiş zaman ortacı (V3) kullanılır."
+  },
+  {
+    "id": "ia_0173",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "The money [stolen] from the bank was never recovered.",
+    "answer": "stolen",
+    "distractors": [
+      "stealing",
+      "steals"
+    ],
+    "sentence_tr": "Bankadan çalınan para asla geri bulunamadı.",
+    "note": "Nesneyi niteleyen edilgen kısaltmalarda 'which was stolen' yapısı 'stolen' haline gelir."
+  },
+  {
+    "id": "ia_0174",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "Neil Armstrong was the first man [to walk] on the moon.",
+    "answer": "to walk",
+    "distractors": [
+      "walking",
+      "walked"
+    ],
+    "sentence_tr": "Neil Armstrong aya ayak basan ilk insandı.",
+    "note": "'The first', 'the last', 'the only' gibi sıra yapılarından sonra kısaltma 'to V1' ile yapılır."
+  },
+  {
+    "id": "ia_0175",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "She was the last student [to leave] the classroom.",
+    "answer": "to leave",
+    "distractors": [
+      "leaving",
+      "left"
+    ],
+    "sentence_tr": "Sınıftan ayrılan son öğrenci o oldu.",
+    "note": "'The last' kelimesinin nitelediği ismi kısaltırken 'to + yalın fiil' yapısı kullanılır."
+  },
+  {
+    "id": "ia_0176",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "He is the only candidate [to pass] the test.",
+    "answer": "to pass",
+    "distractors": [
+      "passing",
+      "passed"
+    ],
+    "sentence_tr": "Testi geçen tek aday odur.",
+    "note": "'The only' sıfatından sonra gelen sıfat cümlesi kısaltması 'to V1' biçiminde kurulur."
+  },
+  {
+    "id": "ia_0177",
+    "topic": "relatives",
+    "level": 5,
+    "sentence": "This is the best solution [to be] proposed so far.",
+    "answer": "to be",
+    "distractors": [
+      "being",
+      "been"
+    ],
+    "sentence_tr": "Bu, şu ana kadar önerilen en iyi çözümdür.",
+    "note": "Superlative yapılardan sonraki edilgen kısaltmalarda 'to be V3' yapısı tercih edilir."
+  },
+  {
+    "id": "ia_0178",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "I did not understand [what] he said during dinner.",
+    "answer": "what",
+    "distractors": [
+      "that",
+      "which"
+    ],
+    "sentence_tr": "Yemek sırasında ne söylediğini anlamadım.",
+    "note": "İçinde kendi nesnesini/ismini barındıran 'şey' anlamındaki yapı 'what' ile kurulur."
+  },
+  {
+    "id": "ia_0179",
+    "topic": "relatives",
+    "level": 4,
+    "sentence": "The manager [responsible] for marketing resigned from his position.",
+    "answer": "responsible",
+    "distractors": [
+      "responsibly",
+      "responsibility"
+    ],
+    "sentence_tr": "Pazarlamadan sorumlu olan müdür görevinden istifa etti.",
+    "note": "'Who is responsible' yapısındaki sıfat öbeği kısaltmasında doğrudan sıfat yalın kalır."
+  },
+  {
+    "id": "ia_0180",
+    "topic": "relatives",
+    "level": 5,
+    "sentence": "The scientist [credited] with the invention received an award.",
+    "answer": "credited",
+    "distractors": [
+      "crediting",
+      "credits"
+    ],
+    "sentence_tr": "Buluşla ilişkilendirilen bilim insanı bir ödül aldı.",
+    "note": "Edatla bağlanan edilgen nitelikli kısaltmalarda geçmiş zaman ortacı (V3) kullanılır."
+  },
+  {
+    "id": "ia_0181",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "The ground is wet; it [must have rained] last night.",
+    "answer": "must have rained",
+    "distractors": [
+      "should have rained",
+      "can't have rained"
+    ],
+    "sentence_tr": "Yer ıslak; dün gece yağmur yağmış olmalı.",
+    "note": "Geçmişe yönelik güçlü olumlu çıkarımlarda 'must have V3' kullanılır."
+  },
+  {
+    "id": "ia_0182",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "He [can't have stolen] the money; he was abroad.",
+    "answer": "can't have stolen",
+    "distractors": [
+      "must have stolen",
+      "should have stolen"
+    ],
+    "sentence_tr": "Parayı o çalmış olamaz; o yurt dışındaydı.",
+    "note": "Geçmişe yönelik güçlü olumsuz çıkarımlarda 'can't have V3' kullanılır."
+  },
+  {
+    "id": "ia_0183",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "You [should have studied] harder for the exam.",
+    "answer": "should have studied",
+    "distractors": [
+      "must have studied",
+      "needn't have studied"
+    ],
+    "sentence_tr": "Sınava daha çok çalışmalıydın.",
+    "note": "Geçmişte yapılmalıydı ama yapılmadı pişmanlığı/eleştirisi 'should have V3' ile verilir."
+  },
+  {
+    "id": "ia_0184",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "You [needn't have brought] an umbrella; it didn't rain.",
+    "answer": "needn't have brought",
+    "distractors": [
+      "didn't need to bring",
+      "must have brought"
+    ],
+    "sentence_tr": "Şemsiye getirmene gerek yoktu; yağmur yağmadı.",
+    "note": "Eylemin yapıldığı ancak gereksiz olduğu durumlar 'needn't have V3' ile ifade edilir."
+  },
+  {
+    "id": "ia_0185",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "I [didn't need to buy] milk because we had plenty.",
+    "answer": "didn't need to buy",
+    "distractors": [
+      "needn't have bought",
+      "must have bought"
+    ],
+    "sentence_tr": "Bolca sütümüz olduğu için süt almama gerek kalmadı.",
+    "note": "Geçmişte gerek olmadığı için yapılmayan eylemlerde 'didn't need to V1' tercih edilir."
+  },
+  {
+    "id": "ia_0186",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "Despite the storm, the pilot [was able to land] safely.",
+    "answer": "was able to land",
+    "distractors": [
+      "could land",
+      "should land"
+    ],
+    "sentence_tr": "Fırtınaya rağmen pilot güvenli bir şekilde inmeyi başardı.",
+    "note": "Geçmişte zorlu/spesifik bir durumda üstesinden gelip başarma 'was/were able to' gerektirir."
+  },
+  {
+    "id": "ia_0187",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "You [had better leave] now, or you will be late.",
+    "answer": "had better leave",
+    "distractors": [
+      "would better leave",
+      "had better to leave"
+    ],
+    "sentence_tr": "Şimdi çıksan iyi edersin, yoksa geç kalacaksın.",
+    "note": "'Had better' güçlü uyarı/tavsiye bildirir ve ardından yalın fiil (bare infinitive) alır."
+  },
+  {
+    "id": "ia_0188",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "You [had better not touch] that hot iron plate.",
+    "answer": "had better not touch",
+    "distractors": [
+      "had not better touch",
+      "would better not touch"
+    ],
+    "sentence_tr": "O sıcak ütü plakasına dokunmasan iyi edersin.",
+    "note": "'Had better' yapısının olumsuzu 'had better not + V1' biçimindedir."
+  },
+  {
+    "id": "ia_0189",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "I [would rather stay] at home than go out tonight.",
+    "answer": "would rather stay",
+    "distractors": [
+      "would prefer stay",
+      "had rather stay"
+    ],
+    "sentence_tr": "Bu gece dışarı çıkmaktansa evde kalmayı tercih ederim.",
+    "note": "'Would rather' tercihlerde yalın fiil alır ve ikinci seçenek 'than' ile bağlanır."
+  },
+  {
+    "id": "ia_0190",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "She [would prefer to walk] rather than take the bus.",
+    "answer": "would prefer to walk",
+    "distractors": [
+      "would prefer walk",
+      "would rather to walk"
+    ],
+    "sentence_tr": "Otobüse binmektense yürümeyi tercih eder.",
+    "note": "'Would prefer' kalıbı fiilden önce 'to' gerektirir (would prefer to V1)."
+  },
+  {
+    "id": "ia_0191",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "We [are supposed to hand] in our report today.",
+    "answer": "are supposed to hand",
+    "distractors": [
+      "are supposed hand",
+      "supposed to hand"
+    ],
+    "sentence_tr": "Raporumuzu bugün teslim etmemiz gerekiyor.",
+    "note": "Kural, beklenti veya görev bildiren durumlarda 'be supposed to V1' yapısı kullanılır."
+  },
+  {
+    "id": "ia_0192",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "He [was supposed to call] me yesterday, but he forgot.",
+    "answer": "was supposed to call",
+    "distractors": [
+      "must have called",
+      "should call"
+    ],
+    "sentence_tr": "Dün beni araması gerekiyordu ama unuttu.",
+    "note": "Geçmişte beklenip de gerçekleşmeyen eylemler 'was/were supposed to V1' ile anlatılır."
+  },
+  {
+    "id": "ia_0193",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "The lights are on; they [must be studying] inside now.",
+    "answer": "must be studying",
+    "distractors": [
+      "should study",
+      "can't be studying"
+    ],
+    "sentence_tr": "Işıklar açık; şu an içeride çalışıyor olmalılar.",
+    "note": "Şu an devam eden eyleme yönelik güçlü çıkarımlarda 'must be V-ing' kullanılır."
+  },
+  {
+    "id": "ia_0194",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "It is midnight; she [can't be working] at the office.",
+    "answer": "can't be working",
+    "distractors": [
+      "must be working",
+      "needn't be working"
+    ],
+    "sentence_tr": "Gece yarısı oldu; o şu an ofiste çalışıyor olamaz.",
+    "note": "Şu anki eylemin imkansızlığına dair çıkarımlarda 'can't be V-ing' yapısı kullanılır."
+  },
+  {
+    "id": "ia_0195",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "My grandfather [used to live] in a small village.",
+    "answer": "used to live",
+    "distractors": [
+      "would live",
+      "got used to live"
+    ],
+    "sentence_tr": "Dedem küçük bir köyde yaşardı.",
+    "note": "Geçmişteki durum ve durum fiillerinde (live, hold vb.) 'would' değil 'used to' kullanılır."
+  },
+  {
+    "id": "ia_0196",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "Every summer, we [would go] fishing by the lake.",
+    "answer": "would go",
+    "distractors": [
+      "used to going",
+      "were used to go"
+    ],
+    "sentence_tr": "Her yaz göl kenarında balık tutmaya giderdik.",
+    "note": "Geçmişte düzenli tekrarlanan hareket/eylem fiillerinde 'would V1' kullanılabilir."
+  },
+  {
+    "id": "ia_0197",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "She [is used to working] late hours every night.",
+    "answer": "is used to working",
+    "distractors": [
+      "used to work",
+      "is used to work"
+    ],
+    "sentence_tr": "Her gece geç saatlere kadar çalışmaya alışkındır.",
+    "note": "'Be used to' yapısından sonra fiilin *-ing* hali (gerund) gelir."
+  },
+  {
+    "id": "ia_0198",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "You will soon [get used to living] in cold weather.",
+    "answer": "get used to living",
+    "distractors": [
+      "get used to live",
+      "use to live"
+    ],
+    "sentence_tr": "Yakında soğuk havada yaşamaya alışacaksın.",
+    "note": "Alışma sürecini (alışmak) anlatan 'get used to' yapısı da '-ing' alır."
+  },
+  {
+    "id": "ia_0199",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "He was not at home; he [might have gone] out.",
+    "answer": "might have gone",
+    "distractors": [
+      "must go",
+      "should go"
+    ],
+    "sentence_tr": "Evde değildi; dışarı çıkmış olabilir.",
+    "note": "Geçmişe dair zayıf/düşük ihtimaller 'might have V3' ile ifade edilir."
+  },
+  {
+    "id": "ia_0200",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "The car [wouldn't start] despite all our efforts this morning.",
+    "answer": "wouldn't start",
+    "distractors": [
+      "shouldn't start",
+      "needn't start"
+    ],
+    "sentence_tr": "Bu sabah tüm çabalarımıza rağmen araba çalışmadı (inat etti).",
+    "note": "Geçmişte nesnelerin veya kişilerin göstermediği direnç/direnme 'wouldn't V1' ile anlatılır."
+  },
+  {
+    "id": "ia_0201",
+    "topic": "modals",
+    "level": 2,
+    "sentence": "[Shall we take] a break after this section?",
+    "answer": "Shall we take",
+    "distractors": [
+      "Will we take",
+      "Would we take"
+    ],
+    "sentence_tr": "Bu bölümden sonra bir ara verelim mi?",
+    "note": "Birinci çoğul şahısta (we) öneri ve teklif sunarken 'Shall we V1' kalıbı kullanılır."
+  },
+  {
+    "id": "ia_0202",
+    "topic": "modals",
+    "level": 2,
+    "sentence": "[Would you like to] join us for dinner tonight?",
+    "answer": "Would you like to",
+    "distractors": [
+      "Do you like to",
+      "Will you like to"
+    ],
+    "sentence_tr": "Bu akşam akşam yemeğinde bize katılmak ister misiniz?",
+    "note": "Kibar davet ve tekliflerde 'Would you like to V1' yapısı tercih edilir."
+  },
+  {
+    "id": "ia_0203",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "The letter [must have been sent] by mistake yesterday.",
+    "answer": "must have been sent",
+    "distractors": [
+      "must send",
+      "should be sent"
+    ],
+    "sentence_tr": "Mektup dün yanlışlıkla gönderilmiş olmalı.",
+    "note": "Geçmişe yönelik edilgen (passive) çıkarımlarda 'must have been V3' kullanılır."
+  },
+  {
+    "id": "ia_0204",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "You [could have helped] him, but you just watched.",
+    "answer": "could have helped",
+    "distractors": [
+      "must have helped",
+      "needn't have helped"
+    ],
+    "sentence_tr": "Ona yardım edebilirdin ama sen sadece izledin.",
+    "note": "Geçmişte imkan varken yapılmayan eylemler 'could have V3' ile sitem şeklinde söylenir."
+  },
+  {
+    "id": "ia_0205",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "Visitors [must not enter] the lab without permission.",
+    "answer": "must not enter",
+    "distractors": [
+      "don't have to enter",
+      "needn't enter"
+    ],
+    "sentence_tr": "Ziyaretçilerin izinsiz laboratuvara girmesi kesinlikle yasaktır.",
+    "note": "Yasaklama ve kesin olumsuz zorunluluk bildirmede 'must not (mustn't)' kullanılır."
+  },
+  {
+    "id": "ia_0206",
+    "topic": "modals",
+    "level": 2,
+    "sentence": "You [don't have to pay]; admission is free today.",
+    "answer": "don't have to pay",
+    "distractors": [
+      "must not pay",
+      "had better not pay"
+    ],
+    "sentence_tr": "Ödeme yapmanıza gerek yok; bugün giriş ücretsizdir.",
+    "note": "Zorunluluğun olmadığı (gereksizlik) durumlarda 'don't have to' kullanılır."
+  },
+  {
+    "id": "ia_0207",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "He [ought to have informed] us before changing plans.",
+    "answer": "ought to have informed",
+    "distractors": [
+      "must have informed",
+      "had to inform"
+    ],
+    "sentence_tr": "Planları değiştirmeden önce bizi bilgilendirmeliydi.",
+    "note": "'Ought to have V3', 'should have V3' ile aynı anlamda geçmiş pişmanlığı/eleştirisi bildirir."
+  },
+  {
+    "id": "ia_0208",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "Such a big project [can't be finished] in one day.",
+    "answer": "can't be finished",
+    "distractors": [
+      "must not finish",
+      "needn't be finished"
+    ],
+    "sentence_tr": "Böylesine büyük bir proje tek bir günde bitirilemez.",
+    "note": "Şimdiki/genel zamanda edilgen imkansızlık çıkarımlarında 'can't be V3' yapısı kullanılır."
+  },
+  {
+    "id": "ia_0209",
+    "topic": "modals",
+    "level": 4,
+    "sentence": "I [would have called] you, but my phone battery died.",
+    "answer": "would have called",
+    "distractors": [
+      "should call",
+      "must have called"
+    ],
+    "sentence_tr": "Seni arayacaktım ama telefonumun şarjı bitti.",
+    "note": "Geçmişte niyetlenip engelden ötürü gerçekleşmeyen eylemlerde 'would have V3' kullanılır."
+  },
+  {
+    "id": "ia_0210",
+    "topic": "modals",
+    "level": 3,
+    "sentence": "[Would you mind opening] the window for a moment?",
+    "answer": "Would you mind opening",
+    "distractors": [
+      "Would you mind open",
+      "Do you mind to open"
+    ],
+    "sentence_tr": "Pencereyi bir anlığına açabilir misiniz (sakıncası var mı)?",
+    "note": "'Would you mind' kalıbı rica bildirdiğinde fiil *-ing* takısı alır."
+  },
+  {
+    "id": "ia_0211",
+    "topic": "inversion",
+    "level": 4,
+    "sentence": "Rarely [have I] seen such a magnificent performance.",
+    "answer": "have I",
+    "distractors": [
+      "I have",
+      "I had"
+    ],
+    "sentence_tr": "Nadir şekilde bu kadar muhteşem bir performans gördüm.",
+    "note": "Olumsuz zarf 'rarely' cümle başında yer aldığında cümle devrik yapı kazanır."
+  },
+  {
+    "id": "ia_0212",
+    "topic": "inversion",
+    "level": 4,
+    "sentence": "Seldom [does she] leave the office before six.",
+    "answer": "does she",
+    "distractors": [
+      "she does",
+      "she leaves"
+    ],
+    "sentence_tr": "Ofisten saat altıdan önce nadiren çıkar.",
+    "note": "'Seldom' kısıtlayıcı zarfı cümle başına geldiğinde Geniş Zaman cümlesi 'does + özne' şeklinde devrilir."
+  },
+  {
+    "id": "ia_0213",
+    "topic": "inversion",
+    "level": 4,
+    "sentence": "Never [had they] encountered such a difficult problem.",
+    "answer": "had they",
+    "distractors": [
+      "they had",
+      "they have"
+    ],
+    "sentence_tr": "Daha önce hiç bu kadar zor bir sorunla karşılaşmamışlardı.",
+    "note": "'Never' zaman zarfı cümle başında devrik yapı gerektirir ve 'had + özne' sırasını alır."
+  },
+  {
+    "id": "ia_0214",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Hardly [had he] arrived when the rain started.",
+    "answer": "had he",
+    "distractors": [
+      "he had",
+      "he has"
+    ],
+    "sentence_tr": "Tam varmıştı ki yağmur başladı.",
+    "note": "'Hardly - when' yapısında ilk yan cümle devrik past perfect biçimindedir."
+  },
+  {
+    "id": "ia_0215",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Scarcely [had I] sat down when the phone rang.",
+    "answer": "had I",
+    "distractors": [
+      "I had",
+      "I have"
+    ],
+    "sentence_tr": "Henüz yeni oturmuştum ki telefon çaldı.",
+    "note": "'Scarcely - when' bağlacı devrik Past Perfect yapısıyla hemen ardından gerçekleşen olayı bağlar."
+  },
+  {
+    "id": "ia_0216",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Barely [had she] entered before the bell rang.",
+    "answer": "had she",
+    "distractors": [
+      "she had",
+      "she has"
+    ],
+    "sentence_tr": "Henüz içeri yeni girmişti ki zil çaldı.",
+    "note": "'Barely - when' yapısında cümle başındaki kısıtlayıcı yapı devriklik oluşturur."
+  },
+  {
+    "id": "ia_0217",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "No sooner [had we] left than the storm began.",
+    "answer": "had we",
+    "distractors": [
+      "we had",
+      "did we"
+    ],
+    "sentence_tr": "Tam ayrılmıştık ki fırtına başladı.",
+    "note": "'No sooner' devrik Past Perfect gerektirir ve ikinci cümlecik 'than' ile bağlanır."
+  },
+  {
+    "id": "ia_0218",
+    "topic": "inversion",
+    "level": 4,
+    "sentence": "Little [did he] know about the surprise party.",
+    "answer": "did he",
+    "distractors": [
+      "he knew",
+      "he did"
+    ],
+    "sentence_tr": "Sürpriz partiden neredeyse hiç haberi yoktu.",
+    "note": "'Little' olumsuzluk anlamıyla cümle başında kullanıldığında 'did + özne + yalın fiil' devrik yapısı kurulur."
+  },
+  {
+    "id": "ia_0219",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Little [did they] suspect that he was lying.",
+    "answer": "did they",
+    "distractors": [
+      "they suspected",
+      "they did"
+    ],
+    "sentence_tr": "Yalan söylediğinden neredeyse hiç şüphelenmemişlerdi.",
+    "note": "'Little' tam olumsuzluk hissettirerek geçmiş zaman fiilini devrik yapar."
+  },
+  {
+    "id": "ia_0220",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Only by working hard [can you] achieve success.",
+    "answer": "can you",
+    "distractors": [
+      "you can",
+      "you will"
+    ],
+    "sentence_tr": "Ancak sıkı çalışarak başarıya ulaşabilirsin.",
+    "note": "'Only by + V-ing' ifadesinden sonra gelen ana cümle devrik yardımcı fiil dizilimi kazanır."
+  },
+  {
+    "id": "ia_0221",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Only in this way [will we] solve the crisis.",
+    "answer": "will we",
+    "distractors": [
+      "we will",
+      "we can"
+    ],
+    "sentence_tr": "Krizi ancak bu şekilde çözeceğiz.",
+    "note": "'Only in this way' edat öbeği cümle başındayken devam eden ana cümle devrik yazılır."
+  },
+  {
+    "id": "ia_0222",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Only after the meeting [did I] understand everything.",
+    "answer": "did I",
+    "distractors": [
+      "I did",
+      "I understood"
+    ],
+    "sentence_tr": "Her şeyi ancak toplantıdan sonra anladım.",
+    "note": "'Only after' zaman öbeği cümle başındayken ana cümle devrik Past Simple biçimini alır."
+  },
+  {
+    "id": "ia_0223",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Only when he arrived [did we] start eating.",
+    "answer": "did we",
+    "distractors": [
+      "we did",
+      "we started"
+    ],
+    "sentence_tr": "Yemek yemeye ancak o geldiğinde başladık.",
+    "note": "'Only when' yapısında devriklik ana cümlede gerçekleşir."
+  },
+  {
+    "id": "ia_0224",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Not until yesterday [did she] hear the news.",
+    "answer": "did she",
+    "distractors": [
+      "she did",
+      "she heard"
+    ],
+    "sentence_tr": "Haberi ancak dün duyabildi.",
+    "note": "'Not until' yapısında devriklik ana cümlenin yardımcı fiilinde gerçekleşir."
+  },
+  {
+    "id": "ia_0225",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Not until we reached home [did it] rain.",
+    "answer": "did it",
+    "distractors": [
+      "it did",
+      "it rained"
+    ],
+    "sentence_tr": "Eve varana kadar yağmur yağmadı.",
+    "note": "'Not until + cümle' öbeğini takip eden ana cümlede devrik yapı uygulanır."
+  },
+  {
+    "id": "ia_0226",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Under no circumstances [should you] touch this button.",
+    "answer": "should you",
+    "distractors": [
+      "you should",
+      "you must"
+    ],
+    "sentence_tr": "Hangi koşulda olursa olsun bu düğmeye dokunmamalısın.",
+    "note": "'Under no circumstances' tam olumsuzluk yapısı cümle başında devrik modal kullanmayı gerektirir."
+  },
+  {
+    "id": "ia_0227",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "On no account [must employees] leave early.",
+    "answer": "must employees",
+    "distractors": [
+      "employees must",
+      "employees should"
+    ],
+    "sentence_tr": "Çalışanlar hiçbir şekilde erken ayrılmamalıdır.",
+    "note": "'On no account' kesin yasak ifadesidir ve devrik cümle dizilimi alır."
+  },
+  {
+    "id": "ia_0228",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "In no way [can this] decision be justified.",
+    "answer": "can this",
+    "distractors": [
+      "this can",
+      "this could"
+    ],
+    "sentence_tr": "Bu karar hiçbir şekilde haklı çıkarılamaz.",
+    "note": "'In no way' olumsuzluk öbeği cümle başında modalı özneden önce getirir."
+  },
+  {
+    "id": "ia_0229",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "At no time [did he] offer an apology.",
+    "answer": "did he",
+    "distractors": [
+      "he did",
+      "he offered"
+    ],
+    "sentence_tr": "Hiçbir zaman bir özür sunmadı.",
+    "note": "'At no time' zaman yapısı olumsuz anlam taşıdığı için Past Simple devrikligi zorunludur."
+  },
+  {
+    "id": "ia_0230",
+    "topic": "inversion",
+    "level": 4,
+    "sentence": "Not only [is he] smart, but he is also kind.",
+    "answer": "is he",
+    "distractors": [
+      "he is",
+      "he was"
+    ],
+    "sentence_tr": "O sadece zeki değil, aynı zamanda naziktir.",
+    "note": "'Not only' cümle başında yer aldığında ilk yan cümle devrik yapıya bürünür."
+  },
+  {
+    "id": "ia_0231",
+    "topic": "inversion",
+    "level": 4,
+    "sentence": "Not only [did she] pass, but she ranked first.",
+    "answer": "did she",
+    "distractors": [
+      "she did",
+      "she passed"
+    ],
+    "sentence_tr": "Sadece geçmekle kalmadı, aynı zamanda birinci oldu.",
+    "note": "'Not only' bağımsız cümle başında Past Simple için 'did + özne + V1' devrik kalıbını alır."
+  },
+  {
+    "id": "ia_0232",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "So cold [was the] weather that we stayed inside.",
+    "answer": "was the",
+    "distractors": [
+      "the was",
+      "the weather"
+    ],
+    "sentence_tr": "Hava o kadar soğuktu ki içeride kaldık.",
+    "note": "'So + sıfat' cümlenin başına alındığında yüklem öznenin önüne geçer."
+  },
+  {
+    "id": "ia_0233",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Such [was his] anger that nobody dared speak.",
+    "answer": "was his",
+    "distractors": [
+      "his was",
+      "his anger"
+    ],
+    "sentence_tr": "Öfkesi o kadar büyüktü ki kimse konuşmaya cesaret edemedi.",
+    "note": "'Such + be' vurgulu yapısıyla başlayan cümle devrik fiil-özne düzenine sahiptir."
+  },
+  {
+    "id": "ia_0234",
+    "topic": "inversion",
+    "level": 2,
+    "sentence": "He likes tea, and so [do I].",
+    "answer": "do I",
+    "distractors": [
+      "I do",
+      "I am"
+    ],
+    "sentence_tr": "O çayı sever, ben de severim.",
+    "note": "Olumlu cümleye katılım gösteren 'so' yapısı devrik yardımcı fiil kullanır."
+  },
+  {
+    "id": "ia_0235",
+    "topic": "inversion",
+    "level": 2,
+    "sentence": "She didn't come, and neither [did I].",
+    "answer": "did I",
+    "distractors": [
+      "I did",
+      "I didn't"
+    ],
+    "sentence_tr": "O gelmedi, ben de gelmedim.",
+    "note": "Olumsuz katılmada 'neither' veya 'nor' kelimelerinden sonra devrik yapı gelir."
+  },
+  {
+    "id": "ia_0236",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Should you [need] help, please call me anytime.",
+    "answer": "need",
+    "distractors": [
+      "needed",
+      "needs"
+    ],
+    "sentence_tr": "Yardıma ihtiyacınız olursa lütfen beni istediğiniz zaman arayın.",
+    "note": "Type 1 koşul devriğinde 'If' atılır ve 'Should' başa geçer."
+  },
+  {
+    "id": "ia_0237",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Were I [rich], I would travel around the world.",
+    "answer": "rich",
+    "distractors": [
+      "be rich",
+      "to rich"
+    ],
+    "sentence_tr": "Zengin olsaydım dünyayı gezerdim.",
+    "note": "Type 2 koşul cümlesinde 'If I were' yerine 'if' kaldırılarak 'Were I' devrik yapısı kurulur."
+  },
+  {
+    "id": "ia_0238",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Were he to [ask] me, I would agree.",
+    "answer": "ask",
+    "distractors": [
+      "asked",
+      "asking"
+    ],
+    "sentence_tr": "Bana soracak olsaydı kabul ederdim.",
+    "note": "Type 2 eylem fiillerinde 'If he were to ask' devrildiğinde 'Were he to ask' biçimini alır."
+  },
+  {
+    "id": "ia_0239",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Had I [known] the truth, I wouldn't have come.",
+    "answer": "known",
+    "distractors": [
+      "knew",
+      "know"
+    ],
+    "sentence_tr": "Gerçeği bilseydim gelmezdim.",
+    "note": "Type 3 koşul cümlesinde 'If I had known' yapısı 'Had I known' şeklinde devrilir."
+  },
+  {
+    "id": "ia_0240",
+    "topic": "inversion",
+    "level": 5,
+    "sentence": "Had they [arrived] earlier, we would have met.",
+    "answer": "arrived",
+    "distractors": [
+      "arrive",
+      "arriving"
+    ],
+    "sentence_tr": "Daha erken gelmiş olsalardı karşılaşırdık.",
+    "note": "Past Perfect koşul devriğinde başa geçen 'Had' kelimesinden sonra V3 kalır."
+  },
+  {
+    "id": "ia_0241",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "She worked [hard] all day to complete the project.",
+    "answer": "hard",
+    "distractors": [
+      "hardly",
+      "hardness"
+    ],
+    "sentence_tr": "Projeyi tamamlamak için bütün gün çok çalıştı.",
+    "note": "'Hard' hem sıfat hem 'yoğun/çok' anlamında zarftır; 'hardly' ise 'neredeyse hiç' demektir."
+  },
+  {
+    "id": "ia_0242",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "I could [hardly] hear what the speaker was saying.",
+    "answer": "hardly",
+    "distractors": [
+      "hard",
+      "harder"
+    ],
+    "sentence_tr": "Konuşmacının ne söylediğini neredeyse hiç duyamıyordum.",
+    "note": "'Hardly' 'güçlükle/neredeyse hiç' anlamına gelir ve olumsuzluk katar."
+  },
+  {
+    "id": "ia_0243",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "He arrived [late] for the morning meeting again.",
+    "answer": "late",
+    "distractors": [
+      "lately",
+      "latest"
+    ],
+    "sentence_tr": "Sabah toplantısına yine geç geldi.",
+    "note": "Zaman olarak geç kalmayı anlatırken 'late' zarfı kullanılır; 'lately' ise 'son zamanlarda' demektir."
+  },
+  {
+    "id": "ia_0244",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Have you seen any good movies [lately]?",
+    "answer": "lately",
+    "distractors": [
+      "late",
+      "later"
+    ],
+    "sentence_tr": "Son zamanlarda hiç iyi film gördün mü?",
+    "note": "'Lately' 'son zamanlarda/yakınlarda' anlamına gelen ve genelde Present Perfect ile kullanılan zarftır."
+  },
+  {
+    "id": "ia_0245",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The plane was flying [high] above the clouds.",
+    "answer": "high",
+    "distractors": [
+      "highly",
+      "height"
+    ],
+    "sentence_tr": "Uçak bulutların çok yukarısında uçuyordu.",
+    "note": "Fiziksel/yükseklik anlamında 'high' zarfı kullanılır."
+  },
+  {
+    "id": "ia_0246",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "This new book is [highly] recommended by experts.",
+    "answer": "highly",
+    "distractors": [
+      "high",
+      "higher"
+    ],
+    "sentence_tr": "Bu yeni kitap uzmanlar tarafından son derece tavsiye ediliyor.",
+    "note": "Soyut derece vurgusunda (son derece/büyük ölçüde) 'highly' zarfı kullanılır."
+  },
+  {
+    "id": "ia_0247",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "My best friend lives very [near] my house.",
+    "answer": "near",
+    "distractors": [
+      "nearly",
+      "nearer"
+    ],
+    "sentence_tr": "En iyi arkadaşım evimin çok yakınında yaşıyor.",
+    "note": "Mekânsal/fiziksel yakınlık için 'near' edatı/zarfı kullanılır."
+  },
+  {
+    "id": "ia_0248",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The concert is [nearly] finished now.",
+    "answer": "nearly",
+    "distractors": [
+      "near",
+      "nearness"
+    ],
+    "sentence_tr": "Konser şimdi neredeyse bitti.",
+    "note": "'Nearly' 'yaklaşık olarak / neredeyse' anlamına gelen derece zarfıdır."
+  },
+  {
+    "id": "ia_0249",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The divers plunged [deep] into the ocean.",
+    "answer": "deep",
+    "distractors": [
+      "deeply",
+      "depth"
+    ],
+    "sentence_tr": "Dalgıçlar okyanusun derinliklerine daldı.",
+    "note": "Fiziksel derinlik ifade ederken 'deep' zarfı kullanılır."
+  },
+  {
+    "id": "ia_0250",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "We were [deeply] moved by her sad story.",
+    "answer": "deeply",
+    "distractors": [
+      "deep",
+      "deeper"
+    ],
+    "sentence_tr": "Olayın üzücü hikayesinden derin bir şekilde etkilendik.",
+    "note": "Duygusal ve soyut derinlik anlatılırken 'deeply' zarfı tercih edilir."
+  },
+  {
+    "id": "ia_0251",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "Children under five can travel [free] on buses.",
+    "answer": "free",
+    "distractors": [
+      "freely",
+      "freedom"
+    ],
+    "sentence_tr": "Beş yaş altındaki çocuklar otobüslerde ücretsiz seyahat edebilir.",
+    "note": "'Free' ücretsiz anlamında zarf olarak kullanılır; 'freely' ise özgürce demektir."
+  },
+  {
+    "id": "ia_0252",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Citizens can express their opinions [freely] here.",
+    "answer": "freely",
+    "distractors": [
+      "free",
+      "freer"
+    ],
+    "sentence_tr": "Vatandaşlar görüşlerini burada özgürce ifade edebilirler.",
+    "note": "'Freely' kısıtlama olmaksızın, 'özgürce/serbestçe' anlamı taşır."
+  },
+  {
+    "id": "ia_0253",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The movie stopped [short] due to a technical fault.",
+    "answer": "short",
+    "distractors": [
+      "shortly",
+      "shortness"
+    ],
+    "sentence_tr": "Film teknik bir arıza nedeniyle aniden durdu.",
+    "note": "'Stop short' aniden/beklenmedik şekilde durmak anlamına gelen kalıp bir ifadedir."
+  },
+  {
+    "id": "ia_0254",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The train will arrive [shortly] at platform two.",
+    "answer": "shortly",
+    "distractors": [
+      "short",
+      "shorter"
+    ],
+    "sentence_tr": "Tren birazdan ikinci perona varacak.",
+    "note": "'Shortly' 'az sonra / birazdan' anlamına gelen zaman zarfıdır."
+  },
+  {
+    "id": "ia_0255",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "The fresh soup smells [delicious] today.",
+    "answer": "delicious",
+    "distractors": [
+      "deliciously",
+      "delicacy"
+    ],
+    "sentence_tr": "Taze çorba bugün lezzetli kokuyor.",
+    "note": "Hissiyat ve algı fiillerinden (smell, taste, feel) sonra sıfat kullanılır."
+  },
+  {
+    "id": "ia_0256",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "She carefully tasted the [hot] tea.",
+    "answer": "hot",
+    "distractors": [
+      "hotly",
+      "heat"
+    ],
+    "sentence_tr": "Sıcak çayı dikkatlice tattı.",
+    "note": "Niteleme sıfatı ismi doğrudan önünden niteler."
+  },
+  {
+    "id": "ia_0257",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Your proposal sounds very [interesting] to us.",
+    "answer": "interesting",
+    "distractors": [
+      "interestingly",
+      "interest"
+    ],
+    "sentence_tr": "Teklifiniz bize çok ilgi çekici geliyor.",
+    "note": "'Sound' algı fiilinden sonra durumu tanımlayan sıfat gelir."
+  },
+  {
+    "id": "ia_0258",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "He looked [angry] when he read the letter.",
+    "answer": "angry",
+    "distractors": [
+      "angrily",
+      "anger"
+    ],
+    "sentence_tr": "Mektubu okuduğunda öfkeli görünüyordu.",
+    "note": "'Look' görünmek anlamında bağ fiil (linking verb) olarak sıfat alır."
+  },
+  {
+    "id": "ia_0259",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "He looked [angrily] at the rude stranger.",
+    "answer": "angrily",
+    "distractors": [
+      "angry",
+      "anger"
+    ],
+    "sentence_tr": "Kaba yabancıya öfkeyle baktı.",
+    "note": "'Look at' bakmak eylemini ifade ettiğinde eylemi niteleyen zarf (angrily) kullanılır."
+  },
+  {
+    "id": "ia_0260",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "The long lecture was really [boring].",
+    "answer": "boring",
+    "distractors": [
+      "bored",
+      "boredom"
+    ],
+    "sentence_tr": "Uzun ders gerçekten sıkıcıydı.",
+    "note": "Hissiyatı veren/sebep olan durumlar '-ing' sıfatı ile tanımlanır."
+  },
+  {
+    "id": "ia_0261",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "The tired students felt very [bored] during class.",
+    "answer": "bored",
+    "distractors": [
+      "boring",
+      "boredom"
+    ],
+    "sentence_tr": "Yorgun öğrenciler ders boyunca çok sıkılmış hissetti.",
+    "note": "Duyguyu bizzat hisseden kişiyi tanımlarken '-ed' eki almış sıfat kullanılır."
+  },
+  {
+    "id": "ia_0262",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "We heard some [surprising] news this morning.",
+    "answer": "surprising",
+    "distractors": [
+      "surprised",
+      "surprise"
+    ],
+    "sentence_tr": "Bu sabah şaşırtıcı haberler duyduk.",
+    "note": "Etkiyi yaratan nesne veya durumlar '-ing' sıfatı alır."
+  },
+  {
+    "id": "ia_0263",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "She was [surprised] to see her old friend.",
+    "answer": "surprised",
+    "distractors": [
+      "surprising",
+      "surprise"
+    ],
+    "sentence_tr": "Eski arkadaşını gördüğüne şaşırdı.",
+    "note": "Etkilenen kişi duyguyu yaşadığı için '-ed' sıfatı kullanılır."
+  },
+  {
+    "id": "ia_0264",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "She plays the violin remarkably [well].",
+    "answer": "well",
+    "distractors": [
+      "good",
+      "goodness"
+    ],
+    "sentence_tr": "Kemanı son derece iyi çalıyor.",
+    "note": "Fiili nitelemek için 'good' sıfatı değil, 'well' zarfı kullanılır."
+  },
+  {
+    "id": "ia_0265",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "He is a very [good] soccer player.",
+    "answer": "good",
+    "distractors": [
+      "well",
+      "best"
+    ],
+    "sentence_tr": "O çok iyi bir futbol oyuncusudur.",
+    "note": "İsmi niteleyen ifade sıfat olan 'good'dur."
+  },
+  {
+    "id": "ia_0266",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "He drives too [fast] on the highway.",
+    "answer": "fast",
+    "distractors": [
+      "fastly",
+      "faster"
+    ],
+    "sentence_tr": "Otoyolda çok hızlı araba kullanıyor.",
+    "note": "'Fast' hem sıfat hem zarftır; İngilizcede 'fastly' diye bir kelime yoktur."
+  },
+  {
+    "id": "ia_0267",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "She wore a lovely [red] silk dress.",
+    "answer": "red",
+    "distractors": [
+      "redly",
+      "redness"
+    ],
+    "sentence_tr": "Çok güzel kırmızı ipek bir elbise giymişti.",
+    "note": "Sıfat sıralamasında renk (red) materyalden (silk) önce gelir."
+  },
+  {
+    "id": "ia_0268",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "The manager is [presently] away on business.",
+    "answer": "presently",
+    "distractors": [
+      "present",
+      "presence"
+    ],
+    "sentence_tr": "Müdür şu anda iş gezisindedir.",
+    "note": "'Presently' 'şu anda / halihazırda' anlamına gelen zarftır."
+  },
+  {
+    "id": "ia_0269",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The bullet passed [clean] through the wall.",
+    "answer": "clean",
+    "distractors": [
+      "cleanly",
+      "cleanliness"
+    ],
+    "sentence_tr": "Mermi duvarı tamamen delip geçti.",
+    "note": "'Clean' zarf olarak 'tamamen/tam ortasından' anlamına gelir."
+  },
+  {
+    "id": "ia_0270",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "I will speak to the manager [directly].",
+    "answer": "directly",
+    "distractors": [
+      "direct",
+      "direction"
+    ],
+    "sentence_tr": "Müdürle doğrudan görüşeceğim.",
+    "note": "Aracı olmadan 'doğrudan/bizzat' anlamında 'directly' zarfı kullanılır."
+  },
+  {
+    "id": "ia_0271",
+    "topic": "short_forms",
+    "level": 2,
+    "sentence": "She likes coffee, and [so] do I.",
+    "answer": "so",
+    "distractors": [
+      "too",
+      "also"
+    ],
+    "sentence_tr": "O kahve sever, ben de severim.",
+    "note": "Olumlu cümleye 'de/da' katılımı sağlanırken 'so + yardımcı fiil + özne' yapısı kullanılır."
+  },
+  {
+    "id": "ia_0272",
+    "topic": "short_forms",
+    "level": 2,
+    "sentence": "He doesn't eat meat, and [neither] do I.",
+    "answer": "neither",
+    "distractors": [
+      "either",
+      "so"
+    ],
+    "sentence_tr": "O et yemez, ben de yemem.",
+    "note": "Olumsuz cümleye aynı fikirde katılım sağlanırken 'neither/nor + yardımcı fiil + özne' yapısı kullanılır."
+  },
+  {
+    "id": "ia_0273",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "You passed the exam! — So I [did]!",
+    "answer": "did",
+    "distractors": [
+      "do",
+      "have"
+    ],
+    "sentence_tr": "Sınavı geçtin! — Gerçekten de geçtim!",
+    "note": "Aynı özneyle söyleneni doğrulayıp şaşkınlık veya vurgu belirtirken 'So + özne + yardımcı fiil' kullanılır."
+  },
+  {
+    "id": "ia_0274",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "I am late for the meeting, [aren't] I?",
+    "answer": "aren't",
+    "distractors": [
+      "am not",
+      "don't"
+    ],
+    "sentence_tr": "Toplantıya geç kaldım, değil mi?",
+    "note": "'I am' yapısının olumsuz soru takısı (tag question) istisnai olarak 'aren't I' biçimindedir."
+  },
+  {
+    "id": "ia_0275",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "Let's go to the beach tomorrow, [shall] we?",
+    "answer": "shall",
+    "distractors": [
+      "will",
+      "don't"
+    ],
+    "sentence_tr": "Yarın plaja gidelim, olur mu?",
+    "note": "'Let's' ile başlayan öneri cümlelerinin soru takısı daima 'shall we' olur."
+  },
+  {
+    "id": "ia_0276",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "Close the door behind you, [will] you?",
+    "answer": "will",
+    "distractors": [
+      "do",
+      "shall"
+    ],
+    "sentence_tr": "Arkanızdan kapıyı kapatın, olur mu?",
+    "note": "Olumlu emir cümlelerinin soru takısı genellikle 'will you' ile yapılır."
+  },
+  {
+    "id": "ia_0277",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "Nobody called me while I was out, [did] they?",
+    "answer": "did",
+    "distractors": [
+      "didn't",
+      "don't"
+    ],
+    "sentence_tr": "Ben dışarıdayken kimse beni aramadı, değil mi?",
+    "note": "'Nobody' gibi anlamca olumsuz özneler olumlu soru takısı alır ve zamiri 'they' olur."
+  },
+  {
+    "id": "ia_0278",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "She hardly ever watches television, [does] she?",
+    "answer": "does",
+    "distractors": [
+      "doesn't",
+      "isn't"
+    ],
+    "sentence_tr": "O neredeyse hiç televizyon izlemez, değil mi?",
+    "note": "'Hardly' gibi örtük olumsuzluk zarfları içeren cümlelerin soru takısı olumlu yapılır."
+  },
+  {
+    "id": "ia_0279",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "Nothing went wrong during the event, [did] it?",
+    "answer": "did",
+    "distractors": [
+      "didn't",
+      "wasn't"
+    ],
+    "sentence_tr": "Etkinlik sırasında hiçbir şey ters gitmedi, değil mi?",
+    "note": "'Nothing' öznesi cümleyi olumsuz yaptığı için soru takısı olumlu ve zamiri 'it' olur."
+  },
+  {
+    "id": "ia_0280",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "Everyone was present at the meeting, [weren't] they?",
+    "answer": "weren't",
+    "distractors": [
+      "wasn't",
+      "isn't"
+    ],
+    "sentence_tr": "Herkes toplantıda hazırdı, değil mi?",
+    "note": "'Everyone' belgisiz zamiri tekil fiil alsa da soru takısında 'they' ve çoğul fiil kullanılır."
+  },
+  {
+    "id": "ia_0281",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "Don't make any noise in here, [will] you?",
+    "answer": "will",
+    "distractors": [
+      "do",
+      "shall"
+    ],
+    "sentence_tr": "Burada hiç gürültü yapmayın, tamam mı?",
+    "note": "Olumsuz emir cümlelerinin soru takısı daima 'will you' şeklinde kurulur."
+  },
+  {
+    "id": "ia_0282",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "He plays guitar much better than I [do].",
+    "answer": "do",
+    "distractors": [
+      "am",
+      "have"
+    ],
+    "sentence_tr": "O, gitarı benden çok daha iyi çalar.",
+    "note": "Karşılaştırma cümlelerinde eylemin tekrarını önlemek için uygun yardımcı fiil (do/does) kullanılır."
+  },
+  {
+    "id": "ia_0283",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "She asked me to call, so I promised [to].",
+    "answer": "to",
+    "distractors": [
+      "it",
+      "so"
+    ],
+    "sentence_tr": "Aramamı rica etti, ben de arayacağıma söz verdim.",
+    "note": "Mastar yapılarında tekrarlanan fiil düşürülerek sadece 'to' edatı bırakılabilir."
+  },
+  {
+    "id": "ia_0284",
+    "topic": "short_forms",
+    "level": 2,
+    "sentence": "She loves classical music, and so [does] her sister.",
+    "answer": "does",
+    "distractors": [
+      "is",
+      "has"
+    ],
+    "sentence_tr": "O klasik müziği çok sever, kız kardeşi de öyle.",
+    "note": "Geniş zaman olumlu katılımında özneye uygun olarak 'does/do' yardımcı fiili seçilir."
+  },
+  {
+    "id": "ia_0285",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "They haven't finished yet, and [nor] have we.",
+    "answer": "nor",
+    "distractors": [
+      "so",
+      "either"
+    ],
+    "sentence_tr": "Henüz bitirmediler, biz de bitirmedik.",
+    "note": "'Nor' yapısı da 'neither' gibi olumsuz katılım sağlar ve sonrasında devrik fiil gelir."
+  },
+  {
+    "id": "ia_0286",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "You have never been abroad before, [have] you?",
+    "answer": "have",
+    "distractors": [
+      "haven't",
+      "don't"
+    ],
+    "sentence_tr": "Daha önce hiç yurt dışına gitmedin, değil mi?",
+    "note": "'Never' kelimesi cümleyi olumsuz yaptığı için soru takısı olumlu yardımcı fiil alır."
+  },
+  {
+    "id": "ia_0287",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "Somebody left their umbrella here, [didn't] they?",
+    "answer": "didn't",
+    "distractors": [
+      "didn't he",
+      "wasn't it"
+    ],
+    "sentence_tr": "Biri şemsiyesini burada unuttu, değil mi?",
+    "note": "'Somebody' belgisiz zamiri için soru takısında zamir olarak 'they' kullanılır."
+  },
+  {
+    "id": "ia_0288",
+    "topic": "short_forms",
+    "level": 2,
+    "sentence": "There is a solution to this problem, [isn't] there?",
+    "answer": "isn't",
+    "distractors": [
+      "aren't",
+      "is it"
+    ],
+    "sentence_tr": "Bu sorunun bir çözümü var, değil mi?",
+    "note": "'There is/are' yapılarının soru takısında 'there' kelimesi özne konumunu korur."
+  },
+  {
+    "id": "ia_0289",
+    "topic": "short_forms",
+    "level": 5,
+    "sentence": "Let us handle this difficult matter, [will] you?",
+    "answer": "will",
+    "distractors": [
+      "shall",
+      "don't"
+    ],
+    "sentence_tr": "Bırakın bu zor meseleyi biz halledelim, olur mu?",
+    "note": "'Let us' izin veya emir anlamı taşıdığında soru takısı 'shall we' değil 'will you' olur."
+  },
+  {
+    "id": "ia_0290",
+    "topic": "short_forms",
+    "level": 2,
+    "sentence": "He can speak French fluently, and so [can] I.",
+    "answer": "can",
+    "distractors": [
+      "do",
+      "is"
+    ],
+    "sentence_tr": "O akıcı Fransızca konuşabilir, ben de konuşabilirim.",
+    "note": "Modal içeren olumlu cümlelere katılımda aynı modal yardımcı fiil tekrarlanır."
+  },
+  {
+    "id": "ia_0291",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "She didn't attend, and [neither] did her friend.",
+    "answer": "neither",
+    "distractors": [
+      "either",
+      "so"
+    ],
+    "sentence_tr": "O katılmadı, arkadaşı da katılmadı.",
+    "note": "Geçmiş zaman olumsuz katılımında 'neither + did + özne' kalıbı kullanılır."
+  },
+  {
+    "id": "ia_0292",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "I think he is honest, [isn't] he?",
+    "answer": "isn't",
+    "distractors": [
+      "don't I",
+      "doesn't he"
+    ],
+    "sentence_tr": "Bence o dürüst biri, değil mi?",
+    "note": "'I think' gibi ana cümle fikir bildirdiğinde soru takısı ara cümleciğe göre yapılır."
+  },
+  {
+    "id": "ia_0293",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "Don't forget to lock the door, [will] you?",
+    "answer": "will",
+    "distractors": [
+      "do",
+      "shall"
+    ],
+    "sentence_tr": "Kapıyı kilitlemeyi unutma, tamam mı?",
+    "note": "Olumsuz emir cümlelerinde soru takısı her zaman 'will you' şeklindedir."
+  },
+  {
+    "id": "ia_0294",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "You had better leave now, [hadn't] you?",
+    "answer": "hadn't",
+    "distractors": [
+      "wouldn't",
+      "didn't"
+    ],
+    "sentence_tr": "Şimdi çıksan iyi olur, değil mi?",
+    "note": "'Had better' kalıbının soru takısı 'hadn't + özne' şeklinde oluşturulur."
+  },
+  {
+    "id": "ia_0295",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "You would rather stay home tonight, [wouldn't] you?",
+    "answer": "wouldn't",
+    "distractors": [
+      "hadn't",
+      "didn't"
+    ],
+    "sentence_tr": "Bu akşam evde kalmayı tercih edersin, değil mi?",
+    "note": "'Would rather' kalıbının soru takısı 'wouldn't + özne' biçimindedir."
+  },
+  {
+    "id": "ia_0296",
+    "topic": "short_forms",
+    "level": 2,
+    "sentence": "This is your new bicycle, [isn't] it?",
+    "answer": "isn't",
+    "distractors": [
+      "is it",
+      "aren't they"
+    ],
+    "sentence_tr": "Bu senin yeni bisikletin, değil mi?",
+    "note": "'This/That' özneleri soru takısında yerini 'it' zamirine bırakır."
+  },
+  {
+    "id": "ia_0297",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "Nothing can stop us now, [can] it?",
+    "answer": "can",
+    "distractors": [
+      "can't",
+      "can't it"
+    ],
+    "sentence_tr": "Artık hiçbir şey bizi durduramaz, değil mi?",
+    "note": "'Nothing' cümleyi olumsuz yaptığı için olumlu modal ve 'it' zamiri kullanılır."
+  },
+  {
+    "id": "ia_0298",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "He works much harder than I [do].",
+    "answer": "do",
+    "distractors": [
+      "am",
+      "have"
+    ],
+    "sentence_tr": "O benden çok daha sıkı çalışır.",
+    "note": "Karşılaştırmalarda geniş zaman eylemi tekrar etmemek için 'do/does' ikamesi yapılır."
+  },
+  {
+    "id": "ia_0300",
+    "topic": "short_forms",
+    "level": 4,
+    "sentence": "She didn't study hard, nor [did] she pass.",
+    "answer": "did",
+    "distractors": [
+      "does",
+      "was"
+    ],
+    "sentence_tr": "Sıkı çalışmadı, geçmedi de.",
+    "note": "'Nor' bağlacından sonra gelen ikinci cümle devrik geçmiş zaman (did + özne + V1) olur."
+  },
+  {
+    "id": "ia_0299",
+    "topic": "short_forms",
+    "level": 3,
+    "sentence": "I have a lot of work to do, [don't] I?",
+    "answer": "don't",
+    "distractors": [
+      "haven't",
+      "am not"
+    ],
+    "sentence_tr": "Yapacak çok işim var, değil mi?",
+    "note": "Amerikan İngilizcesinde ve genel modern gramerde asıl fiil 'have' için 'don't I' tercih edilir."
+  }
+]
