@@ -465,10 +465,10 @@
     "head": "affinity",
     "pos": "isim",
     "prep": "for",
-    "pattern": "affinity for/with",
+    "pattern": "affinity for",
     "meaning": "sempati, yakınlık, eğilim",
     "level": "C1",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "Yatkınlık/sevgi için 'for'; ortak yön veya benzerlikte 'with'.",
     "sentence": "She has a natural affinity [for] learning languages.",
     "sentence_tr": "Dil öğrenmeye karşı doğal bir yakınlığı var."
   },
@@ -476,10 +476,10 @@
     "head": "affinity",
     "pos": "isim",
     "prep": "for",
-    "pattern": "affinity for/with",
+    "pattern": "affinity for",
     "meaning": "sempati, yakınlık, eğilim",
     "level": "C1",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "Yatkınlık/sevgi için 'for'; ortak yön veya benzerlikte 'with'.",
     "sentence": "The poet showed a strong affinity [for] romantic themes.",
     "sentence_tr": "Şair, romantik temalara karşı güçlü bir yakınlık gösterdi."
   },
@@ -575,10 +575,10 @@
     "head": "agreement",
     "pos": "isim",
     "prep": "on",
-    "pattern": "agreement on/with",
+    "pattern": "agreement on",
     "meaning": "anlaşma, uzlaşma",
     "level": "B1",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "Konu veya nokta için 'on'; bir kişiyle anlaşmada 'with'.",
     "sentence": "We finally reached an agreement [on] the price.",
     "sentence_tr": "Sonunda fiyat üzerinde bir anlaşmaya vardık."
   },
@@ -586,10 +586,10 @@
     "head": "agreement",
     "pos": "isim",
     "prep": "on",
-    "pattern": "agreement on/with",
+    "pattern": "agreement on",
     "meaning": "anlaşma, uzlaşma",
     "level": "B1",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "Konu veya nokta için 'on'; bir kişiyle anlaşmada 'with'.",
     "sentence": "Nations failed to reach an agreement [on] carbon limits.",
     "sentence_tr": "Uluslararası düzeyde karbon sınırları konusunda bir uzlaşmaya varılamadı."
   },
@@ -710,7 +710,7 @@
     "pattern": "amazed at/by",
     "meaning": "şaşırmış",
     "level": "B1",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "We were completely amazed [at] the magician's clever tricks.",
     "sentence_tr": "Sihirbazın zekice numaralarına tamamen şaşırdık."
   },
@@ -721,7 +721,7 @@
     "pattern": "amazed at/by",
     "meaning": "şaşırmış",
     "level": "B1",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "Historians are amazed [at] the advanced technology of ancient societies.",
     "sentence_tr": "Tarihçiler antik toplumların gelişmiş teknolojisine hayran kalıyorlar."
   },
@@ -1040,7 +1040,7 @@
     "pattern": "appreciation of/for",
     "meaning": "takdir, şükran, beğenme",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' minnettarlık; 'of' değerini/önemini anlama.",
     "sentence": "The teacher showed deep appreciation [for] our hard work.",
     "sentence_tr": "Öğretmen sıkı çalışmamız için derin bir takdir gösterdi."
   },
@@ -1051,7 +1051,7 @@
     "pattern": "appreciation of/for",
     "meaning": "takdir, şükran, beğenme",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' minnettarlık; 'of' değerini/önemini anlama.",
     "sentence": "The curator expressed sincere appreciation [for] the generous museum donation.",
     "sentence_tr": "Küratör, müzeye yapılan cömert bağış için samimi şükranlarını sundu."
   },
@@ -1370,7 +1370,7 @@
     "pattern": "astonished at/by",
     "meaning": "şaşırmış, hayrete düşmüş",
     "level": "B2",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "We were astonished [at] the beautiful mountain view.",
     "sentence_tr": "Güzel dağ manzarası karşısında hayrete düştük."
   },
@@ -1381,7 +1381,7 @@
     "pattern": "astonished at/by",
     "meaning": "şaşırmış, hayrete düşmüş",
     "level": "B2",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "Historians are astonished [at] the preservation of the scroll.",
     "sentence_tr": "Tarihçiler, parşömenin korunmuş olması karşısında hayrete düşmüşlerdir."
   },
@@ -1458,7 +1458,7 @@
     "pattern": "attitude to/towards",
     "meaning": "tutum, tavır, yaklaşım",
     "level": "B1",
-    "note": "Eylemin veya eğilimin yöneldiği genel doğrultuyu ve hedefi belirtir.",
+    "note": "Anlam aynı; 'towards' İngiliz yazımında daha yaygın.",
     "sentence": "She has a very positive attitude [towards] her daily work.",
     "sentence_tr": "Günlük işine karşı çok olumlu bir tutumu var."
   },
@@ -1469,7 +1469,7 @@
     "pattern": "attitude to/towards",
     "meaning": "tutum, tavır, yaklaşım",
     "level": "B1",
-    "note": "Eylemin veya eğilimin yöneldiği genel doğrultuyu ve hedefi belirtir.",
+    "note": "Anlam aynı; 'towards' İngiliz yazımında daha yaygın.",
     "sentence": "Public attitude [towards] renewable energy resources has shifted significantly.",
     "sentence_tr": "Yenilenebilir enerji kaynaklarına yönelik toplumsal tutum önemli ölçüde değişti."
   },
@@ -1898,7 +1898,7 @@
     "pattern": "boast about/of sth",
     "meaning": "böbürlenmek, övünmek",
     "level": "B2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'of' daha resmî/edebî; 'about' günlük dilde yaygın.",
     "sentence": "He loves to boast [about] his new expensive car.",
     "sentence_tr": "Yeni pahalı arabası hakkında böbürlenmeyi sever."
   },
@@ -1909,7 +1909,7 @@
     "pattern": "boast about/of sth",
     "meaning": "böbürlenmek, övünmek",
     "level": "B2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'of' daha resmî/edebî; 'about' günlük dilde yaygın.",
     "sentence": "The university can boast [about] its high employment rate.",
     "sentence_tr": "Üniversite, yüksek istihdam oranıyla övünebilir."
   },
@@ -1920,7 +1920,7 @@
     "pattern": "bored with/of",
     "meaning": "sıkılmış, bıkmış",
     "level": "A2",
-    "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
+    "note": "'of' konuşma dilinde; 'with' standart yazımda.",
     "sentence": "She is bored [with] her routine daily tasks.",
     "sentence_tr": "Rutin günlük işlerinden sıkıldı."
   },
@@ -1931,7 +1931,7 @@
     "pattern": "bored with/of",
     "meaning": "sıkılmış, bıkmış",
     "level": "A2",
-    "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
+    "note": "'of' konuşma dilinde; 'with' standart yazımda.",
     "sentence": "Consumers often become bored [with] repetitive advertisement campaigns.",
     "sentence_tr": "Tüketiciler genellikle tekrarlayan reklam campaigns'lerinden sıkılır."
   },
@@ -2137,10 +2137,10 @@
     "head": "careful",
     "pos": "sıfat",
     "prep": "about",
-    "pattern": "careful of/about",
+    "pattern": "careful about",
     "meaning": "dikkatli, özenli",
     "level": "A2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "Bir konuda özenli olmak 'about'; tehlikeye karşı dikkatte 'of'.",
     "sentence": "Please be careful [about] what you say here.",
     "sentence_tr": "Lütfen burada ne söylediğine dikkat et."
   },
@@ -2148,10 +2148,10 @@
     "head": "careful",
     "pos": "sıfat",
     "prep": "about",
-    "pattern": "careful of/about",
+    "pattern": "careful about",
     "meaning": "dikkatli, özenli",
     "level": "A2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "Bir konuda özenli olmak 'about'; tehlikeye karşı dikkatte 'of'.",
     "sentence": "Researchers must be careful [about] protecting participant confidentiality.",
     "sentence_tr": "Araştırmacılar katılımcı gizliliğini koruma konusunda dikkatli olmalıdır."
   },
@@ -2162,7 +2162,7 @@
     "pattern": "cater for/to sb",
     "meaning": "hizmet sunmak, hitap etmek",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' ihtiyacı karşılar; 'to' gönlünü yapar/şımartır.",
     "sentence": "This hotel does not cater [for] large families.",
     "sentence_tr": "Bu otel geniş ailelere hizmet sunmamaktadır."
   },
@@ -2173,7 +2173,7 @@
     "pattern": "cater for/to sb",
     "meaning": "hizmet sunmak, hitap etmek",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' ihtiyacı karşılar; 'to' gönlünü yapar/şımartır.",
     "sentence": "The curriculum must cater [for] the diverse needs of students.",
     "sentence_tr": "Müfredat öğrencilerin çeşitli ihtiyaçlarına cevap vermelidir."
   },
@@ -2426,7 +2426,7 @@
     "pattern": "compare sth with/to sth",
     "meaning": "karşılaştırmak",
     "level": "B1",
-    "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
+    "note": "'to' benzetir; 'with' farkları karşılaştırır.",
     "sentence": "Do not compare your life [with] others.",
     "sentence_tr": "Hayatını başkalarıyla karşılaştırma."
   },
@@ -2437,7 +2437,7 @@
     "pattern": "compare sth with/to sth",
     "meaning": "karşılaştırmak",
     "level": "B1",
-    "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
+    "note": "'to' benzetir; 'with' farkları karşılaştırır.",
     "sentence": "Scientists compared the new drug [with] the old.",
     "sentence_tr": "Bilim insanları yeni ilacı eski ilaçla karşılaştırdı."
   },
@@ -2445,10 +2445,10 @@
     "head": "comparison",
     "pos": "isim",
     "prep": "between",
-    "pattern": "comparison between/with",
+    "pattern": "comparison between",
     "meaning": "karşılaştırma, kıyaslama",
     "level": "B1",
-    "note": "İki unsur veya taraf arasındaki ilişkiyi, karşılaştırmayı veya köprüyü gösterir.",
+    "note": "İki unsur arasında 'between'; tek bir şeyle kıyasta 'with'.",
     "sentence": "I made a quick comparison [between] these two laptops.",
     "sentence_tr": "Bu iki dizüstü bilgisayar arasında hızlı bir karşılaştırma yaptım."
   },
@@ -2456,10 +2456,10 @@
     "head": "comparison",
     "pos": "isim",
     "prep": "between",
-    "pattern": "comparison between/with",
+    "pattern": "comparison between",
     "meaning": "karşılaştırma, kıyaslama",
     "level": "B1",
-    "note": "İki unsur veya taraf arasındaki ilişkiyi, karşılaştırmayı veya köprüyü gösterir.",
+    "note": "İki unsur arasında 'between'; tek bir şeyle kıyasta 'with'.",
     "sentence": "Researchers drew a comparison [between] urban and rural migration trends.",
     "sentence_tr": "Araştırmacılar, kentsel ve kırsal göç eğilimleri arasında bir karşılaştırma yaptı."
   },
@@ -2643,10 +2643,10 @@
     "head": "concern",
     "pos": "isim",
     "prep": "about",
-    "pattern": "concern about/for",
+    "pattern": "concern about",
     "meaning": "endişe, kaygı",
     "level": "B1",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "Endişe konusu için 'about'; birinin iyiliğini kollamada 'for'.",
     "sentence": "My mother expressed deep concern [about] my poor exam results.",
     "sentence_tr": "Annem zayıf sınav sonuçlarım hakkında derin endişesini dile getirdi."
   },
@@ -2654,10 +2654,10 @@
     "head": "concern",
     "pos": "isim",
     "prep": "about",
-    "pattern": "concern about/for",
+    "pattern": "concern about",
     "meaning": "endişe, kaygı",
     "level": "B1",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "Endişe konusu için 'about'; birinin iyiliğini kollamada 'for'.",
     "sentence": "Global leaders raised serious concern [about] rising nuclear proliferation risks.",
     "sentence_tr": "Küresel liderler, artan nükleer yayılma riskleri konusunda ciddi endişelerini dile getirdi."
   },
@@ -2778,7 +2778,7 @@
     "pattern": "confident of/about",
     "meaning": "kendinden emin, güvenen",
     "level": "B1",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'of' bir sonuçtan emin; 'about' bir konuda rahat.",
     "sentence": "She is confident [about] passing her driving test tomorrow.",
     "sentence_tr": "Yarın direksiyon sınavını geçeceğinden emin."
   },
@@ -2789,7 +2789,7 @@
     "pattern": "confident of/about",
     "meaning": "kendinden emin, güvenen",
     "level": "B1",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'of' bir sonuçtan emin; 'about' bir konuda rahat.",
     "sentence": "Scientists are confident [about] the accuracy of their model.",
     "sentence_tr": "Bilim insanları modellerinin doğruluğundan emindirler."
   },
@@ -4120,7 +4120,7 @@
     "pattern": "disappointed at/about sth",
     "meaning": "hayal kırıklığına uğramış (bir şey hakkında)",
     "level": "B1",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "Anlam aynı; olaya veya duruma üzülmeyi anlatır.",
     "sentence": "He felt disappointed [about] the bad exam results.",
     "sentence_tr": "Kötü sınav sonuçları hakkında hayal kırıklığına uğradı."
   },
@@ -4131,7 +4131,7 @@
     "pattern": "disappointed at/about sth",
     "meaning": "hayal kırıklığına uğramış (bir şey hakkında)",
     "level": "B1",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "Anlam aynı; olaya veya duruma üzülmeyi anlatır.",
     "sentence": "Analysts were disappointed [about] the sudden decline in productivity.",
     "sentence_tr": "Analistler, üretkenlikteki ani düşüş nedeniyle hayal kırıklığına uğradılar."
   },
@@ -4142,7 +4142,7 @@
     "pattern": "disappointed with/in sb",
     "meaning": "hayal kırıklığına uğramış (biri yüzünden/birinden)",
     "level": "B1",
-    "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
+    "note": "'in' kişiye daha derin hayal kırıklığı; 'with' genel.",
     "sentence": "She was deeply disappointed [with] her lazy business partner.",
     "sentence_tr": "Tembel iş ortağından dolayı derin bir hayal kırıklığına uğradı."
   },
@@ -4153,7 +4153,7 @@
     "pattern": "disappointed with/in sb",
     "meaning": "hayal kırıklığına uğramış (biri yüzünden/birinden)",
     "level": "B1",
-    "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
+    "note": "'in' kişiye daha derin hayal kırıklığı; 'with' genel.",
     "sentence": "Investors were disappointed [with] the executive committee's poor choices.",
     "sentence_tr": "Yatırımcılar, yönetim kurulunun kötü seçimleri nedeniyle hayal kırıklığına uğradı."
   },
@@ -4758,7 +4758,7 @@
     "pattern": "essential to/for",
     "meaning": "için çok önemli, şart, elzem",
     "level": "B1",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "'to' vazgeçilmez bağ; 'for' amaç/gereklilik (anlam aynı).",
     "sentence": "Regular exercise is essential [to] good health.",
     "sentence_tr": "Düzenli egzersiz iyi bir sağlık için çok önemlidir."
   },
@@ -4769,7 +4769,7 @@
     "pattern": "essential to/for",
     "meaning": "için çok önemli, şart, elzem",
     "level": "B1",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "'to' vazgeçilmez bağ; 'for' amaç/gereklilik (anlam aynı).",
     "sentence": "Secure property rights are essential [to] economic development.",
     "sentence_tr": "Güvenli mülkiyet hakları ekonomik gelişme için temel öneme sahiptir."
   },
@@ -5198,7 +5198,7 @@
     "pattern": "free from/of",
     "meaning": "uzak, muaf, arınmış",
     "level": "B1",
-    "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
+    "note": "'from' bir şeyden kurtulma; 'of' bir şeyin yokluğu.",
     "sentence": "The children are finally free [from] danger here.",
     "sentence_tr": "Çocuklar burada nihayet tehlikeden uzaktır."
   },
@@ -5209,7 +5209,7 @@
     "pattern": "free from/of",
     "meaning": "uzak, muaf, arınmış",
     "level": "B1",
-    "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
+    "note": "'from' bir şeyden kurtulma; 'of' bir şeyin yokluğu.",
     "sentence": "Scientific experiments must be free [from] personal bias.",
     "sentence_tr": "Bilimsel deneyler kişisel önyargılardan uzak olmalıdır."
   },
@@ -5220,7 +5220,7 @@
     "pattern": "frown on/upon sth",
     "meaning": "onaylamamak, hoş karşılamamak",
     "level": "C1",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "'upon', 'on'un resmî hâli; anlam birebir aynı.",
     "sentence": "My parents frown [on] eating dinner in front of the TV.",
     "sentence_tr": "Annem ve babam televizyon karşısında akşam yemeği yenmesini onaylamaz."
   },
@@ -5231,7 +5231,7 @@
     "pattern": "frown on/upon sth",
     "meaning": "onaylamamak, hoş karşılamamak",
     "level": "C1",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "'upon', 'on'un resmî hâli; anlam birebir aynı.",
     "sentence": "Many traditional academic institutions frown [upon] such informal teaching methods.",
     "sentence_tr": "Birçok geleneksel akademik kurum bu tür resmi olmayan öğretim yöntemlerini hoş karşılamaz."
   },
@@ -5484,7 +5484,7 @@
     "pattern": "happy about/with",
     "meaning": "memnun, mutlu",
     "level": "A2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'about' habere/duruma; 'with' bir düzenlemeye/kişiye.",
     "sentence": "She was happy [about] her exam results yesterday.",
     "sentence_tr": "Dün sınav sonuçlarından memnun kaldı."
   },
@@ -5495,7 +5495,7 @@
     "pattern": "happy about/with",
     "meaning": "memnun, mutlu",
     "level": "A2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'about' habere/duruma; 'with' bir düzenlemeye/kişiye.",
     "sentence": "Investors are happy [about] the steady rise in revenues.",
     "sentence_tr": "Yatırımcılar gelirlerdeki istikrarlı artıstan memnun."
   },
@@ -5880,7 +5880,7 @@
     "pattern": "indispensable to/for",
     "meaning": "vazgeçilmez, çok önemli",
     "level": "C1",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "'to' vazgeçilmez bağ; 'for' amaç/gereklilik (anlam aynı).",
     "sentence": "A good dictionary is indispensable [to] every language learner.",
     "sentence_tr": "İyi bir sözlük, her dil öğrenen için vazgeçilmezdir."
   },
@@ -5891,7 +5891,7 @@
     "pattern": "indispensable to/for",
     "meaning": "vazgeçilmez, çok önemli",
     "level": "C1",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "'to' vazgeçilmez bağ; 'for' amaç/gereklilik (anlam aynı).",
     "sentence": "Reliable data is indispensable [to] scientific research.",
     "sentence_tr": "Güvenilir veriler, bilimsel araştırmalar için vazgeçilmezdir."
   },
@@ -6012,7 +6012,7 @@
     "pattern": "information about/on",
     "meaning": "bilgi, hakkında bilgi",
     "level": "A2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'on' belirli bir konuda daha resmî; 'about' genel.",
     "sentence": "Can you give me some information [about] the tour?",
     "sentence_tr": "Bana tur hakkında biraz bilgi verebilir misiniz?"
   },
@@ -6023,7 +6023,7 @@
     "pattern": "information about/on",
     "meaning": "bilgi, hakkında bilgi",
     "level": "A2",
-    "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
+    "note": "'on' belirli bir konuda daha resmî; 'about' genel.",
     "sentence": "The report provides detailed information [about] demographic changes.",
     "sentence_tr": "Rapor, demografik değişiklikler hakkında ayrıntılı bilgi sağlamaktadır."
   },
@@ -6713,10 +6713,10 @@
     "head": "limit",
     "pos": "isim",
     "prep": "on",
-    "pattern": "limit on/to",
+    "pattern": "limit on",
     "meaning": "sınır, kısıtlama",
     "level": "B1",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "Bir şeye konan sınırlama 'on'; ulaşılan uç/derece için 'to'.",
     "sentence": "The city has set a strict limit [on] parking times.",
     "sentence_tr": "Şehir, park sürelerine katı bir sınır getirdi."
   },
@@ -6724,10 +6724,10 @@
     "head": "limit",
     "pos": "isim",
     "prep": "on",
-    "pattern": "limit on/to",
+    "pattern": "limit on",
     "meaning": "sınır, kısıtlama",
     "level": "B1",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "Bir şeye konan sınırlama 'on'; ulaşılan uç/derece için 'to'.",
     "sentence": "The government imposed a strict limit [on] carbon emissions.",
     "sentence_tr": "Hükümet, karbon emisyonlarına katı bir sınır uyguladı."
   },
@@ -7222,7 +7222,7 @@
     "pattern": "oblivious to/of",
     "meaning": "habersiz, farkında olmayan",
     "level": "C1",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "'of' biraz daha resmî/eski; anlam aynı.",
     "sentence": "He was completely oblivious [to] the cold winter weather.",
     "sentence_tr": "Soğuk kış havasından tamamen habersizdi."
   },
@@ -7233,7 +7233,7 @@
     "pattern": "oblivious to/of",
     "meaning": "habersiz, farkında olmayan",
     "level": "C1",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "'of' biraz daha resmî/eski; anlam aynı.",
     "sentence": "Some politicians remain oblivious [to] shifting public sentiments.",
     "sentence_tr": "Bazı politikacılar, değişen halk eğilimlerinin farkında olmamaya devam ediyor."
   },
@@ -7310,7 +7310,7 @@
     "pattern": "opinion on/about",
     "meaning": "fikir, görüş",
     "level": "A2",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "'on' belirli konuda daha resmî; 'about' genel/günlük.",
     "sentence": "What is your opinion [on] this new movie?",
     "sentence_tr": "Bu yeni film hakkındaki fikrin nedir?"
   },
@@ -7321,7 +7321,7 @@
     "pattern": "opinion on/about",
     "meaning": "fikir, görüş",
     "level": "A2",
-    "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
+    "note": "'on' belirli konuda daha resmî; 'about' genel/günlük.",
     "sentence": "Public opinion [on] environmental policies has shifted significantly.",
     "sentence_tr": "Çevre politikalarına ilişkin kamuoyu görüşü önemli ölçüde değişti."
   },
@@ -8080,7 +8080,7 @@
     "pattern": "protection against/from",
     "meaning": "koruma, önlem",
     "level": "B1",
-    "note": "Eylemin bir karşı güce, engele veya tehdide yönelik duruşunu belirtir.",
+    "note": "'against' tehdide karşı direnç; 'from' kaynaktan siper.",
     "sentence": "This warm coat offers good protection [against] the cold wind.",
     "sentence_tr": "Bu sıcak palto soğuk rüzgara karşı iyi bir koruma sağlar."
   },
@@ -8091,7 +8091,7 @@
     "pattern": "protection against/from",
     "meaning": "koruma, önlem",
     "level": "B1",
-    "note": "Eylemin bir karşı güce, engele veya tehdide yönelik duruşunu belirtir.",
+    "note": "'against' tehdide karşı direnç; 'from' kaynaktan siper.",
     "sentence": "Vaccination programs provide critical protection [against] infectious diseases.",
     "sentence_tr": "Aşı programları bulaşıcı hastalıklara karşı kritik koruma sağlar."
   },
@@ -9422,7 +9422,7 @@
     "pattern": "shocked at/by",
     "meaning": "şoke olmuş, sarsılmış",
     "level": "B1",
-    "note": "Eylemin sınırlarına riayet etmeyi veya bir kurala bağlılığı gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "She was deeply shocked [by] the sudden bad news.",
     "sentence_tr": "Ani kötü haber karşısında derin bir şok yaşadı."
   },
@@ -9433,7 +9433,7 @@
     "pattern": "shocked at/by",
     "meaning": "şoke olmuş, sarsılmış",
     "level": "B1",
-    "note": "Eylemin sınırlarına riayet etmeyi veya bir kurala bağlılığı gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "Markets were shocked [by] the unexpected increase in interest rates.",
     "sentence_tr": "Piyasalar, faiz oranlarındaki beklenmedik artışla sarsıldı."
   },
@@ -9532,7 +9532,7 @@
     "pattern": "skilled at/in",
     "meaning": "becerikli, yetenekli, usta",
     "level": "B2",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'at' bir işi yapmada; 'in' bir alanda usta.",
     "sentence": "My uncle is highly skilled [at] repairing old clocks.",
     "sentence_tr": "Amcam eski saatleri onarma konusunda oldukça beceriklidir."
   },
@@ -9543,7 +9543,7 @@
     "pattern": "skilled at/in",
     "meaning": "becerikli, yetenekli, usta",
     "level": "B2",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'at' bir işi yapmada; 'in' bir alanda usta.",
     "sentence": "Experienced researchers are skilled [at] analyzing complex statistical patterns.",
     "sentence_tr": "Deneyimli araştırmacılar karmaşık istatistiksel kalıpları analiz etmede ustadır."
   },
@@ -9576,7 +9576,7 @@
     "pattern": "sorry for/about",
     "meaning": "üzgün, pişman",
     "level": "A2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' sorumluluk/pişmanlık; 'about' duruma üzülme.",
     "sentence": "I am so sorry [for] keeping you waiting.",
     "sentence_tr": "Seni beklettiğim için çok üzgünüm."
   },
@@ -9587,7 +9587,7 @@
     "pattern": "sorry for/about",
     "meaning": "üzgün, pişman",
     "level": "A2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' sorumluluk/pişmanlık; 'about' duruma üzülme.",
     "sentence": "The board expressed being sorry [for] the project delays.",
     "sentence_tr": "Yönetim kurulu proje gecikmelerinden dolayı üzüntülerini bildirdi."
   },
@@ -10104,7 +10104,7 @@
     "pattern": "sure of/about",
     "meaning": "emin",
     "level": "A2",
-    "note": "Sıfatın yöneldiği kaynağı veya niteliğin doğduğu kökeni belirtir.",
+    "note": "'of' bir gerçekten emin; 'about' bir konuda rahat.",
     "sentence": "Are you sure [of] the departure time?",
     "sentence_tr": "Kalkış saatinden emin misin?"
   },
@@ -10115,7 +10115,7 @@
     "pattern": "sure of/about",
     "meaning": "emin",
     "level": "A2",
-    "note": "Sıfatın yöneldiği kaynağı veya niteliğin doğduğu kökeni belirtir.",
+    "note": "'of' bir gerçekten emin; 'about' bir konuda rahat.",
     "sentence": "Scientists are now sure [of] the liquid water presence.",
     "sentence_tr": "Bilim insanları artık sıvı suyun varlığından emin."
   },
@@ -10126,7 +10126,7 @@
     "pattern": "surprised at/by",
     "meaning": "şaşırmış, hayret etmiş",
     "level": "A2",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "She was surprised [at] the sudden birthday party.",
     "sentence_tr": "Aniden yapılan doğum günü partisine şaşırdı."
   },
@@ -10137,7 +10137,7 @@
     "pattern": "surprised at/by",
     "meaning": "şaşırmış, hayret etmiş",
     "level": "A2",
-    "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
+    "note": "'by' nedeni/faili vurgular; 'at' anlık tepkiyi.",
     "sentence": "Researchers were surprised [at] the rapid rate of mutation.",
     "sentence_tr": "Araştırmacılar hızlı mutasyon oranına şaşırdılar."
   },
@@ -10214,7 +10214,7 @@
     "pattern": "sympathetic to/towards",
     "meaning": "sempati duyan, anlayış gösteren, sıcak bakan",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "Anlam aynı; 'towards' biraz daha resmî.",
     "sentence": "My boss was sympathetic [to] my family problems.",
     "sentence_tr": "Patronum ailevi sorunlarıma anlayış gösterdi."
   },
@@ -10225,7 +10225,7 @@
     "pattern": "sympathetic to/towards",
     "meaning": "sempati duyan, anlayış gösteren, sıcak bakan",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "Anlam aynı; 'towards' biraz daha resmî.",
     "sentence": "The committee was sympathetic [to] the proposed policy reforms.",
     "sentence_tr": "Komite önerilen politika reformlarına sıcak baktı."
   },
@@ -10409,10 +10409,10 @@
     "head": "tendency",
     "pos": "isim",
     "prep": "to",
-    "pattern": "tendency to/towards",
+    "pattern": "tendency to",
     "meaning": "eğilim, meyil",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "Mastarla (to do) 'to'; isimle birlikte 'towards'.",
     "sentence": "He has a clear tendency [to] talk too much.",
     "sentence_tr": "Çok fazla konuşmaya yönelik net bir eğilimi var."
   },
@@ -10420,10 +10420,10 @@
     "head": "tendency",
     "pos": "isim",
     "prep": "to",
-    "pattern": "tendency to/towards",
+    "pattern": "tendency to",
     "meaning": "eğilim, meyil",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "Mastarla (to do) 'to'; isimle birlikte 'towards'.",
     "sentence": "Some patients have a genetic tendency [to] develop heart diseases.",
     "sentence_tr": "Bazı hastaların kalp hastalığı geliştirmeye yönelik genetik bir eğilimi vardır."
   },
@@ -10610,7 +10610,7 @@
     "pattern": "tolerance for/of",
     "meaning": "tolerans, hoşgörü, dayanıklılık",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' katlanma kapasitesi; 'of' kabullenme.",
     "sentence": "The teacher has no tolerance [for] late homework.",
     "sentence_tr": "Öğretmenin geç teslim edilen ödevlere hiç toleransı yoktur."
   },
@@ -10621,7 +10621,7 @@
     "pattern": "tolerance for/of",
     "meaning": "tolerans, hoşgörü, dayanıklılık",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
+    "note": "'for' katlanma kapasitesi; 'of' kabullenme.",
     "sentence": "This plant species has a high tolerance [for] extreme drought.",
     "sentence_tr": "Bu bitki türü aşırı kuraklığa karşı yüksek bir toleransa sahiptir."
   },
@@ -10651,10 +10651,10 @@
     "head": "transition",
     "pos": "isim",
     "prep": "to",
-    "pattern": "transition to/from",
+    "pattern": "transition to",
     "meaning": "geçiş",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "Geçilen hedef için 'to'; ayrılınan nokta için 'from' (yön farkı).",
     "sentence": "Our transition [to] the new school was very easy.",
     "sentence_tr": "Yeni okula geçişimiz çok kolay oldu."
   },
@@ -10662,10 +10662,10 @@
     "head": "transition",
     "pos": "isim",
     "prep": "to",
-    "pattern": "transition to/from",
+    "pattern": "transition to",
     "meaning": "geçiş",
     "level": "B2",
-    "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
+    "note": "Geçilen hedef için 'to'; ayrılınan nokta için 'from' (yön farkı).",
     "sentence": "The country completed its transition [to] a market economy successfully.",
     "sentence_tr": "Ülke, piyasa ekonomisine geçişini başarıyla tamamladı."
   },
@@ -10695,10 +10695,10 @@
     "head": "trend",
     "pos": "isim",
     "prep": "towards",
-    "pattern": "trend towards/in",
+    "pattern": "trend towards",
     "meaning": "eğilim, yönelim",
     "level": "B2",
-    "note": "Eylemin veya eğilimin yöneldiği genel doğrultuyu ve hedefi belirtir.",
+    "note": "Yönelim için 'towards'; bir alanın içindeki eğilimde 'in'.",
     "sentence": "There is a trend [towards] healthier food choices now.",
     "sentence_tr": "Şu anda daha sağlıklı gıda seçimlerine yönelik bir eğilim var."
   },
@@ -10706,10 +10706,10 @@
     "head": "trend",
     "pos": "isim",
     "prep": "towards",
-    "pattern": "trend towards/in",
+    "pattern": "trend towards",
     "meaning": "eğilim, yönelim",
     "level": "B2",
-    "note": "Eylemin veya eğilimin yöneldiği genel doğrultuyu ve hedefi belirtir.",
+    "note": "Yönelim için 'towards'; bir alanın içindeki eğilimde 'in'.",
     "sentence": "Data indicates a clear trend [towards] remote work models globally.",
     "sentence_tr": "Veriler, küresel olarak uzaktan çalışma modellerine yönelik net bir eğilimi göstermektedir."
   },
