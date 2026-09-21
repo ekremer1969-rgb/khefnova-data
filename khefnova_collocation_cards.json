@@ -1,1 +1,4065 @@
-
+[
+  {
+    "id": "col_vn_0001",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make a mistake",
+    "verb": "make",
+    "rest": "a mistake",
+    "tr": "hata yapmak",
+    "en_prompt": "Don't worry, everyone ___ a mistake sometimes.",
+    "en_full": "Don't worry, everyone makes a mistake sometimes.",
+    "tr_full": "Endişelenme, herkes bazen hata yapar.",
+    "distractors": [
+      "do",
+      "have",
+      "get"
+    ],
+    "note": "'Mistake' kelimesiyle 'make' kullanılır. Türkçedeki 'yapmak' etkisinden dolayı 'do a mistake' en sık yapılan öğrenci hatasıdır."
+  },
+  {
+    "id": "col_vn_0002",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a decision",
+    "verb": "make",
+    "rest": "a decision",
+    "tr": "karar vermek",
+    "en_prompt": "After thinking for days, Ayşe finally ___ a decision.",
+    "en_full": "After thinking for days, Ayşe finally made a decision.",
+    "tr_full": "Günlerce düşündükten sonra Ayşe sonunda bir karar verdi.",
+    "distractors": [
+      "do",
+      "have",
+      "get"
+    ],
+    "note": "'Decision' ile 'make' kullanılır. 'Take a decision' da İngiliz İngilizcesinde doğrudur; 'do/have/get' ise yanlıştır."
+  },
+  {
+    "id": "col_vn_0003",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make progress",
+    "verb": "make",
+    "rest": "progress",
+    "tr": "ilerleme kaydetmek",
+    "en_prompt": "Ali has ___ great progress in English this term.",
+    "en_full": "Ali has made great progress in English this term.",
+    "tr_full": "Ali bu dönem İngilizcede büyük ilerleme kaydetti.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Progress' (ilerleme) soyut bir süreçtir ve 'make' ile kullanılır; 'do progress' Türkçe düşünme hatasıdır."
+  },
+  {
+    "id": "col_vn_0004",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a difference",
+    "verb": "make",
+    "rest": "a difference",
+    "tr": "fark yaratmak",
+    "en_prompt": "Your help will ___ a big difference to our team.",
+    "en_full": "Your help will make a big difference to our team.",
+    "tr_full": "Yardımın ekibimiz için büyük bir fark yaratacak.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Fark yaratmak/oluşturmak' anlamında 'make a difference' kalıbı kullanılır; 'do' kullanılamaz."
+  },
+  {
+    "id": "col_vn_0005",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make an effort",
+    "verb": "make",
+    "rest": "an effort",
+    "tr": "çaba göstermek",
+    "en_prompt": "Mehmet needs to ___ an effort to pass the exam.",
+    "en_full": "Mehmet needs to make an effort to pass the exam.",
+    "tr_full": "Mehmet'in sınavı geçmek için çaba göstermesi gerekiyor.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Effort' (çaba/gayret) bir sonuç üretme çabası olduğu için 'make' alır; 'do effort' yanlıştır."
+  },
+  {
+    "id": "col_vn_0006",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make a plan",
+    "verb": "make",
+    "rest": "a plan",
+    "tr": "plan yapmak",
+    "en_prompt": "We should ___ a plan for the weekend trip.",
+    "en_full": "We should make a plan for the weekend trip.",
+    "tr_full": "Hafta sonu gezisi için bir plan yapmalıyız.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Plan oluşturmak/tasarlamak 'make a plan' ile belirtilir; 'do a plan' yanlıştır."
+  },
+  {
+    "id": "col_vn_0007",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a promise",
+    "verb": "make",
+    "rest": "a promise",
+    "tr": "söz vermek",
+    "en_prompt": "Zeynep always keeps her word when she ___ a promise.",
+    "en_full": "Zeynep always keeps her word when she makes a promise.",
+    "tr_full": "Zeynep söz verdiğinde her zaman sözünü tutar.",
+    "distractors": [
+      "do",
+      "have",
+      "take"
+    ],
+    "note": "'Söz vermek' anlamında 'make a promise' kullanılır; 'give a promise' de doğrudur ama 'do' verilmez."
+  },
+  {
+    "id": "col_vn_0008",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a suggestion",
+    "verb": "make",
+    "rest": "a suggestion",
+    "tr": "öneride bulunmak",
+    "en_prompt": "Can I ___ a suggestion regarding our project plan?",
+    "en_full": "Can I make a suggestion regarding our project plan?",
+    "tr_full": "Proje planımızla ilgili bir öneride bulunabilir miyim?",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Öneri yapmak/bulunmak' 'make a suggestion' kalıbıdır; 'do a suggestion' kullanılmaz."
+  },
+  {
+    "id": "col_vn_0009",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make a phone call",
+    "verb": "make",
+    "rest": "a phone call",
+    "tr": "telefon görüşmesi yapmak",
+    "en_prompt": "I need to step outside and ___ a phone call.",
+    "en_full": "I need to step outside and make a phone call.",
+    "tr_full": "Dışarı çıkıp bir telefon görüşmesi yapmam gerekiyor.",
+    "distractors": [
+      "do",
+      "give",
+      "have"
+    ],
+    "note": "'Telefon araması yapmak' 'make a call' olarak söylenir; 'do a phone call' hatalı bir kullanımdır."
+  },
+  {
+    "id": "col_vn_0010",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make money",
+    "verb": "make",
+    "rest": "money",
+    "tr": "para kazanmak",
+    "en_prompt": "He works hard every day to ___ money for his family.",
+    "en_full": "He works hard every day to make money for his family.",
+    "tr_full": "Ailesi için para kazanmak amacıyla her gün çok çalışıyor.",
+    "distractors": [
+      "do",
+      "have",
+      "take"
+    ],
+    "note": "'Para kazanmak/üretmek' 'make money' veya 'earn money' ile ifade edilir; 'do money' yanlıştır."
+  },
+  {
+    "id": "col_vn_0011",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make noise",
+    "verb": "make",
+    "rest": "noise",
+    "tr": "gürültü yapmak",
+    "en_prompt": "Please don't ___ noise while the baby is sleeping.",
+    "en_full": "Please don't make noise while the baby is sleeping.",
+    "tr_full": "Bebek uyurken lütfen gürültü yapmayın.",
+    "distractors": [
+      "do",
+      "give",
+      "have"
+    ],
+    "note": "'Gürültü çıkarmak/yapmak' 'make noise' eşdizimidir; Türkçedeki 'yapmak' nedeniyle 'do noise' demek hatadır."
+  },
+  {
+    "id": "col_vn_0012",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "do homework",
+    "verb": "do",
+    "rest": "homework",
+    "tr": "ödev yapmak",
+    "en_prompt": "Ali always ___ his homework right after school.",
+    "en_full": "Ali always does his homework right after school.",
+    "tr_full": "Ali ödevini her zaman okuldan hemen sonra yapar.",
+    "distractors": [
+      "make",
+      "take",
+      "give"
+    ],
+    "note": "Ödev ve rutin görevlerde 'do' kullanılır; 'make homework' Türkçeden birebir çeviri hatasıdır."
+  },
+  {
+    "id": "col_vn_0013",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "do the dishes",
+    "verb": "do",
+    "rest": "the dishes",
+    "tr": "bulaşıkları yıkamak",
+    "en_prompt": "Ayşe usually ___ the dishes after dinner.",
+    "en_full": "Ayşe usually does the dishes after dinner.",
+    "tr_full": "Ayşe akşam yemeğinden sonra genellikle bulaşıkları yıkar.",
+    "distractors": [
+      "make",
+      "take",
+      "have"
+    ],
+    "note": "Ev işi/temizlik eylemlerinde 'do' kullanılır ('do the dishes'); 'make the dishes' kelime anlamıyla tabak üretmektir."
+  },
+  {
+    "id": "col_vn_0014",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "do the laundry",
+    "verb": "do",
+    "rest": "the laundry",
+    "tr": "çamaşır yıkamak",
+    "en_prompt": "Mehmet will ___ the laundry on Sunday morning.",
+    "en_full": "Mehmet will do the laundry on Sunday morning.",
+    "tr_full": "Mehmet pazar sabahı çamaşır yıkayacak.",
+    "distractors": [
+      "make",
+      "take",
+      "have"
+    ],
+    "note": "Çamaşır yıkama ev işi olduğu için 'do the laundry' denir; 'make the laundry' hatalıdır."
+  },
+  {
+    "id": "col_vn_0015",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "do the shopping",
+    "verb": "do",
+    "rest": "the shopping",
+    "tr": "market alışverişi yapmak",
+    "en_prompt": "We need to ___ the shopping before the supermarket closes.",
+    "en_full": "We need to do the shopping before the supermarket closes.",
+    "tr_full": "Süpermarket kapanmadan önce market alışverişini yapmalıyız.",
+    "distractors": [
+      "make",
+      "take",
+      "have"
+    ],
+    "note": "Genel ev/gıda alışverişi görevi için 'do the shopping' kullanılır; 'go shopping' de doğrudur ama 'make' kullanılamaz."
+  },
+  {
+    "id": "col_vn_0016",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "do exercise",
+    "verb": "do",
+    "rest": "exercise",
+    "tr": "egzersiz yapmak",
+    "en_prompt": "It is healthy to ___ exercise every morning.",
+    "en_full": "It is healthy to do exercise every morning.",
+    "tr_full": "Her sabah egzersiz yapmak sağlıklıdır.",
+    "distractors": [
+      "make",
+      "take",
+      "have"
+    ],
+    "note": "Bedensel aktivite ve sporda 'do exercise' veya 'take exercise' kullanılır; 'make exercise' yanlıştır."
+  },
+  {
+    "id": "col_vn_0017",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "do the cleaning",
+    "verb": "do",
+    "rest": "the cleaning",
+    "tr": "temizlik yapmak",
+    "en_prompt": "They ___ the cleaning together every Saturday.",
+    "en_full": "They do the cleaning together every Saturday.",
+    "tr_full": "Her cumartesi temizliği birlikte yaparlar.",
+    "distractors": [
+      "make",
+      "take",
+      "have"
+    ],
+    "note": "Ev işi kategorisinde olduğu için 'do the cleaning' kullanılır; 'make cleaning' Türkçe düşünme hatasıdır."
+  },
+  {
+    "id": "col_vn_0018",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "do research",
+    "verb": "do",
+    "rest": "research",
+    "tr": "araştırma yapmak",
+    "en_prompt": "Scientists ___ research to find a cured cure for diseases.",
+    "en_full": "Scientists do research to find a cure for diseases.",
+    "tr_full": "Bilim insanları hastalıklara çare bulmak için araştırma yaparlar.",
+    "distractors": [
+      "make",
+      "take",
+      "give"
+    ],
+    "note": "'Research' sayılamayan bir isimdir ve 'do research' olarak kullanılır; 'make research' en yaygın öğrenci hatasıdır."
+  },
+  {
+    "id": "col_vn_0019",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "do a favour",
+    "verb": "do",
+    "rest": "a favour",
+    "tr": "iyilik yapmak",
+    "en_prompt": "Could you ___ me a favour and hold this door?",
+    "en_full": "Could you do me a favour and hold this door?",
+    "tr_full": "Bana bir iyilik yapıp bu kapıyı tutabilir misin?",
+    "distractors": [
+      "make",
+      "give",
+      "take"
+    ],
+    "note": "'İyilik yapmak' kalıbı 'do someone a favour' şeklindedir; 'make a favour' kullanılamaz."
+  },
+  {
+    "id": "col_vn_0020",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "do business",
+    "verb": "do",
+    "rest": "business",
+    "tr": "iş yapmak",
+    "en_prompt": "Our company prefers to ___ business with trusted partners.",
+    "en_full": "Our company prefers to do business with trusted partners.",
+    "tr_full": "Şirketimiz güvenilir ortaklarla iş yapmayı tercih eder.",
+    "distractors": [
+      "make",
+      "take",
+      "have"
+    ],
+    "note": "'İş/ticaret yapmak' anlamında 'do business' kullanılır; 'make business' en sık yapılan vahim kelime hatasıdır."
+  },
+  {
+    "id": "col_vn_0021",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "do your best",
+    "verb": "do",
+    "rest": "your best",
+    "tr": "elinden geleni yapmak",
+    "en_prompt": "Just ___ your best and don't worry about the score.",
+    "en_full": "Just do your best and don't worry about the score.",
+    "tr_full": "Sadece elinden geleni yap ve puan için endişelenme.",
+    "distractors": [
+      "make",
+      "take",
+      "give"
+    ],
+    "note": "'Elinden gelenin en iyisini yapmak' 'do your best' deyimidir; 'make your best' yanlıştır."
+  },
+  {
+    "id": "col_vn_0022",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "do harm",
+    "verb": "do",
+    "rest": "harm",
+    "tr": "zarar vermek",
+    "en_prompt": "Eating too much sugar can ___ harm to your health.",
+    "en_full": "Eating too much sugar can do harm to your health.",
+    "tr_full": "Çok fazla şeker yemek sağlığınıza zarar verebilir.",
+    "distractors": [
+      "make",
+      "take",
+      "give"
+    ],
+    "note": "'Zarar vermek/dokunmak' 'do harm' (veya 'cause harm') ile söylenir; 'make harm' hatalıdır."
+  },
+  {
+    "id": "col_vn_0023",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "take a photo",
+    "verb": "take",
+    "rest": "a photo",
+    "tr": "fotoğraf çekmek",
+    "en_prompt": "Ali ___ a photo of the castle yesterday.",
+    "en_full": "Ali took a photo of the castle yesterday.",
+    "tr_full": "Ali dün kalenin bir fotoğrafını çekti.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "'Photo' ile 'take' kullanılır; 'make/do a photo' sık yapılan bir hatadır."
+  },
+  {
+    "id": "col_vn_0024",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "take medicine",
+    "verb": "take",
+    "rest": "medicine",
+    "tr": "ilaç almak",
+    "en_prompt": "You should ___ medicine if you feel sick.",
+    "en_full": "You should take medicine if you feel sick.",
+    "tr_full": "Hasta hissediyorsan ilaç almalısın.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Medicine' için 'take' kullanılır; Türkçedeki 'almak' etkisiyle 'get' sanılabilir ama 'make/do' yanlıştır."
+  },
+  {
+    "id": "col_vn_0025",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take part",
+    "verb": "take",
+    "rest": "part",
+    "tr": "katılmak",
+    "en_prompt": "Ayşe will ___ part in the competition tomorrow.",
+    "en_full": "Ayşe will take part in the competition tomorrow.",
+    "tr_full": "Ayşe yarın yarışmaya katılacak.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "'Take part in' bir etkinliğe katılmak demektir; 'do part' veya 'make part' kullanılamaz."
+  },
+  {
+    "id": "col_vn_0026",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take action",
+    "verb": "take",
+    "rest": "action",
+    "tr": "harekete geçmek",
+    "en_prompt": "The manager must ___ action immediately.",
+    "en_full": "The manager must take action immediately.",
+    "tr_full": "Müdür derhal harekete geçmelidir.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Önlem almak/harekete geçmek anlamında 'take action' sabittir; 'make action' Türkçe mantık hatasıdır."
+  },
+  {
+    "id": "col_vn_0027",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take place",
+    "verb": "take",
+    "rest": "place",
+    "tr": "gerçekleşmek",
+    "en_prompt": "The meeting will ___ place in the hall.",
+    "en_full": "The meeting will take place in the hall.",
+    "tr_full": "Toplantı salonda gerçekleşecek.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "Bir olayın yer alması/gerçekleşmesi 'take place' ile ifade edilir; 'make place' yanlış eşdizimdir."
+  },
+  {
+    "id": "col_vn_0028",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take turns",
+    "verb": "take",
+    "rest": "turns",
+    "tr": "sırayla yapmak",
+    "en_prompt": "The students ___ turns to answer the questions.",
+    "en_full": "The students take turns to answer the questions.",
+    "tr_full": "Öğrenciler soruları cevaplamak için sırayla hareket ederler.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "Sırayla bir iş yapmak 'take turns' kelimesidir; 'do turns' veya 'make turns' hatalıdır."
+  },
+  {
+    "id": "col_vn_0029",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take a deep breath",
+    "verb": "take",
+    "rest": "a deep breath",
+    "tr": "derin nefes almak",
+    "en_prompt": "Mehmet ___ a deep breath before speaking.",
+    "en_full": "Mehmet took a deep breath before speaking.",
+    "tr_full": "Mehmet konuşmadan önce derin bir nefes aldı.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "Nefes almak için 'take' kullanılır; 'make a breath' veya 'do a breath' kesinlikle yanlıştır."
+  },
+  {
+    "id": "col_vn_0030",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take a risk",
+    "verb": "take",
+    "rest": "a risk",
+    "tr": "risk almak",
+    "en_prompt": "Successful entrepreneurs often ___ a risk.",
+    "en_full": "Successful entrepreneurs often take a risk.",
+    "tr_full": "Başarılı girişimciler sıklıkla risk alırlar.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "Risk almak 'take a risk' olarak kullanılır; 'make a risk' Türkçeden birebir hatalı çeviridir."
+  },
+  {
+    "id": "col_vn_0031",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take a course",
+    "verb": "take",
+    "rest": "a course",
+    "tr": "kursa yazılmak",
+    "en_prompt": "Zeynep decided to ___ an online English course.",
+    "en_full": "Zeynep decided to take an online English course.",
+    "tr_full": "Zeynep çevrimiçi bir İngilizce kursuna yazılmaya karar verdi.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "Kursa katılmak/yazılmak 'take a course' ile söylenir; 'make/do a course' deyimsel değildir."
+  },
+  {
+    "id": "col_vn_0032",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "pay the bill",
+    "verb": "pay",
+    "rest": "the bill",
+    "tr": "hesabı ödemek",
+    "en_prompt": "Ali forgot to ___ the bill at the restaurant.",
+    "en_full": "Ali forgot to pay the bill at the restaurant.",
+    "tr_full": "Ali restoranda hesabı ödemeyi unuttu.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Hesap/fatura ödemek için 'pay' kullanılır; 'give/make the bill' yanlış kalıptır."
+  },
+  {
+    "id": "col_vn_0033",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "pay the rent",
+    "verb": "pay",
+    "rest": "the rent",
+    "tr": "kira ödemek",
+    "en_prompt": "We have to ___ the rent at the end of the month.",
+    "en_full": "We have to pay the rent at the end of the month.",
+    "tr_full": "Ay sonunda kirayı ödemek zorundayız.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Kira ödemelerinde 'pay the rent' kullanılır; 'give/make the rent' hatalı ifadedir."
+  },
+  {
+    "id": "col_vn_0034",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "pay attention",
+    "verb": "pay",
+    "rest": "attention",
+    "tr": "dikkat etmek",
+    "en_prompt": "Please ___ attention to the teacher.",
+    "en_full": "Please pay attention to the teacher.",
+    "tr_full": "Lütfen öğretmene dikkat edin.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Dikkat etmek 'pay attention' şeklindedir; 'give attention' veya 'take attention' çeldiricileri yanlıştır."
+  },
+  {
+    "id": "col_vn_0035",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give advice",
+    "verb": "give",
+    "rest": "advice",
+    "tr": "tavsiye vermek",
+    "en_prompt": "My father always ___ me useful advice.",
+    "en_full": "My father always gives me useful advice.",
+    "tr_full": "Babam bana her zaman faydalı tavsiyeler verir.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "Tavsiye vermek 'give advice' kalıbıdır; 'make advice' veya 'do advice' Türkçe çeviri hatasıdır."
+  },
+  {
+    "id": "col_vn_0036",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give a hand",
+    "verb": "give",
+    "rest": "a hand",
+    "tr": "yardım etmek",
+    "en_prompt": "Can you ___ me a hand with these boxes?",
+    "en_full": "Can you give me a hand with these boxes?",
+    "tr_full": "Bu kutularda bana yardım edebilir misin?",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Yardım etmek anlamındaki deyimsel ifade 'give a hand' kelimesidir; 'take/make a hand' kullanılmaz."
+  },
+  {
+    "id": "col_vn_0037",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give a lift",
+    "verb": "give",
+    "rest": "a lift",
+    "tr": "arabayla bırakmak",
+    "en_prompt": "Ahmet offered to ___ me a lift to the station.",
+    "en_full": "Ahmet offered to give me a lift to the station.",
+    "tr_full": "Ahmet beni istasyona arabayla bırakmayı teklif etti.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Birini arabayla bırakmak 'give a lift' olarak söylenir; 'take a lift' veya 'make a lift' hatalıdır."
+  },
+  {
+    "id": "col_vn_0038",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give permission",
+    "verb": "give",
+    "rest": "permission",
+    "tr": "izin vermek",
+    "en_prompt": "The teacher didn't ___ permission to leave early.",
+    "en_full": "The teacher didn't give permission to leave early.",
+    "tr_full": "Öğretmen erken çıkmak için izin vermedi.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "İzin vermek 'give permission' ile sağlanır; 'make permission' veya 'do permission' yanlış kullanımdır."
+  },
+  {
+    "id": "col_vn_0039",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give an example",
+    "verb": "give",
+    "rest": "an example",
+    "tr": "örnek vermek",
+    "en_prompt": "Could you ___ an example to clarify this point?",
+    "en_full": "Could you give an example to clarify this point?",
+    "tr_full": "Bu noktayı açıklamak için bir örnek verebilir misiniz?",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Örnek vermek 'give an example' ifadesidir; 'make an example' farklı bir anlam (ibret kılmak) taşır, burada yanlıştır."
+  },
+  {
+    "id": "col_vn_0040",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give a discount",
+    "verb": "give",
+    "rest": "a discount",
+    "tr": "indirim yapmak",
+    "en_prompt": "The shop owner decided to ___ a small discount.",
+    "en_full": "The shop owner decided to give a small discount.",
+    "tr_full": "Dükkan sahibi küçük bir indirim yapmaya karar verdi.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "İndirim yapmak 'give a discount' kalıbıdır; 'make a discount' Türkçe 'indirim yapmak' mantığından kaynaklanan hatalı kullanımdır."
+  },
+  {
+    "id": "col_vn_0041",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give a reason",
+    "verb": "give",
+    "rest": "a reason",
+    "tr": "gerekçe göstermek",
+    "en_prompt": "He refused to ___ any reason for his decision.",
+    "en_full": "He refused to give any reason for his decision.",
+    "tr_full": "Kararı için hiçbir gerekçe göstermeyi kabul etmedi.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Gerekçe göstermek/sebeb bildirmek 'give a reason' şeklindedir; 'make a reason' yanlış bir kalıptır."
+  },
+  {
+    "id": "col_vn_0042",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "reach an agreement",
+    "verb": "reach",
+    "rest": "an agreement",
+    "tr": "anlaşmaya varmak",
+    "en_prompt": "The two companies finally ___ an agreement.",
+    "en_full": "The two companies finally reached an agreement.",
+    "tr_full": "İki şirket sonunda bir anlaşmaya vardı.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Anlaşmaya varmak 'reach an agreement' ifadesidir; 'do an agreement' deyimsel dışıdır."
+  },
+  {
+    "id": "col_vn_0043",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "cause a problem",
+    "verb": "cause",
+    "rest": "a problem",
+    "tr": "soruna yol açmak",
+    "en_prompt": "Heavy rain can ___ severe problems in traffic.",
+    "en_full": "Heavy rain can cause severe problems in traffic.",
+    "tr_full": "Şiddetli yağmur trafikte ciddi sorunlara yol açabilir.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Soruna neden olmak 'cause a problem' şeklindedir; 'make a problem' yerine 'cause' tercih edilir."
+  },
+  {
+    "id": "col_vn_0044",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "solve a problem",
+    "verb": "solve",
+    "rest": "a problem",
+    "tr": "sorun çözmek",
+    "en_prompt": "We need to ___ this technical problem quickly.",
+    "en_full": "We need to solve this technical problem quickly.",
+    "tr_full": "Bu teknik sorunu hızlıca çözmemiz gerekiyor.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Sorun çözmek 'solve a problem' kalıbıdır; 'make a problem' sorun yaratmaktır, çözmek anlamına gelmez."
+  },
+  {
+    "id": "col_vn_0045",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "set a goal",
+    "verb": "set",
+    "rest": "a goal",
+    "tr": "hedef koymak",
+    "en_prompt": "Every student should ___ clear goals for the future.",
+    "en_full": "Every student should set clear goals for the future.",
+    "tr_full": "Her öğrenci gelecek için net hedefler koymalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Hedef belirlemek/koymak 'set a goal' eşdizimidir; 'make a goal' veya 'do a goal' yanlıştır."
+  },
+  {
+    "id": "col_vn_0046",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "set an example",
+    "verb": "set",
+    "rest": "an example",
+    "tr": "örnek olmak",
+    "en_prompt": "Good leaders always ___ an example for others.",
+    "en_full": "Good leaders always set an example for others.",
+    "tr_full": "İyi liderler her zaman başkalarına örnek olurlar.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Örnek teşkil etmek/örnek olmak 'set an example' şeklinde söylenir; 'make an example' cezalandırmak/ibret etmek anlamındadır."
+  },
+  {
+    "id": "col_vn_0047",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "start a business",
+    "verb": "start",
+    "rest": "a business",
+    "tr": "iş kurmak",
+    "en_prompt": "Ayşe wants to ___ a business after graduation.",
+    "en_full": "Ayşe wants to start a business after graduation.",
+    "tr_full": "Ayşe mezuniyetten sonra bir iş kurmak istiyor.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Sıfırdan iş kurmak 'start a business' kalıbıdır; 'make a business' yanlış kullanımdır."
+  },
+  {
+    "id": "col_vn_0048",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "run a business",
+    "verb": "run",
+    "rest": "a business",
+    "tr": "işletmeyi yürütmek",
+    "en_prompt": "Ali has been trying to ___ a business for five years.",
+    "en_full": "Ali has been trying to run a business for five years.",
+    "tr_full": "Ali beş yıldır bir işletmeyi yürütmeye çalışıyor.",
+    "distractors": [
+      "make",
+      "do",
+      "drive"
+    ],
+    "note": "İşletme çalıştırmak/yönetmek için 'run' kullanılır; Türkçedeki 'yapmak' mantığıyla 'make/do a business' kullanımı yanlıştır."
+  },
+  {
+    "id": "col_vn_0049",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "pose a risk",
+    "verb": "pose",
+    "rest": "a risk",
+    "tr": "risk oluşturmak",
+    "en_prompt": "Old chemical factories can ___ a severe risk to public health.",
+    "en_full": "Old chemical factories can pose a severe risk to public health.",
+    "tr_full": "Eski kimya fabrikaları toplum sağlığı için ciddi bir risk oluşturabilir.",
+    "distractors": [
+      "make",
+      "give",
+      "have"
+    ],
+    "note": "Tehlike veya risk oluşturmak anlamında akademik İngilizcede 'pose a risk' tercih edilir; 'make' veya 'give' yanlıştır."
+  },
+  {
+    "id": "col_vn_0050",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "meet a deadline",
+    "verb": "meet",
+    "rest": "a deadline",
+    "tr": "teslim tarihine yetişmek",
+    "en_prompt": "We worked hard yesterday to ___ the tight deadline.",
+    "en_full": "We worked hard yesterday to meet the tight deadline.",
+    "tr_full": "Dün sıkışık teslim tarihine yetişmek için çok çalıştık.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Son teslim tarihine uymak/yetişmek 'meet a deadline' ile ifade edilir; 'make/do a deadline' yaygın bir hatadır."
+  },
+  {
+    "id": "col_vn_0051",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "raise money",
+    "verb": "raise",
+    "rest": "money",
+    "tr": "para toplamak",
+    "en_prompt": "The students organized a charity concert to ___ money.",
+    "en_full": "The students organized a charity concert to raise money.",
+    "tr_full": "Öğrenciler bağış amacıyla para toplamak için bir konser düzenledi.",
+    "distractors": [
+      "do",
+      "take",
+      "give"
+    ],
+    "note": "Hayır kurumu veya proje için para toplamak 'raise money' kelimesiyle söylenir; 'do/take money' yanlıştır."
+  },
+  {
+    "id": "col_vn_0052",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "gain weight",
+    "verb": "gain",
+    "rest": "weight",
+    "tr": "kilo almak",
+    "en_prompt": "Mehmet started to ___ weight after he quit smoking.",
+    "en_full": "Mehmet started to gain weight after he quit smoking.",
+    "tr_full": "Mehmet sigarayı bıraktıktan sonra kilo almaya başladı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Kilo almak 'gain weight' veya 'put on weight' şeklindedir; Türkçedeki 'almak' nedeniyle 'take weight' demek hatadır."
+  },
+  {
+    "id": "col_vn_0053",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "lose weight",
+    "verb": "lose",
+    "rest": "weight",
+    "tr": "kilo vermek",
+    "en_prompt": "Ayşe goes jogging every morning to ___ weight.",
+    "en_full": "Ayşe goes jogging every morning to lose weight.",
+    "tr_full": "Ayşe kilo vermek için her sabah tempolu koşu yapıyor.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Kilo vermek için 'lose weight' kullanılır; Türkçedeki 'vermek' kelimesinden dolayı 'give weight' demek yanlıştır."
+  },
+  {
+    "id": "col_vn_0054",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "score a goal",
+    "verb": "score",
+    "rest": "a goal",
+    "tr": "gol atmak",
+    "en_prompt": "The young player managed to ___ a goal in the match.",
+    "en_full": "The young player managed to score a goal in the match.",
+    "tr_full": "Genç oyuncu maçta bir gol atmayı başardı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Skor üretmek/gol atmak 'score a goal' olarak söylenir; 'make a goal' veya 'do a goal' mantığı yanlıştır."
+  },
+  {
+    "id": "col_vn_0055",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "win a game",
+    "verb": "win",
+    "rest": "a game",
+    "tr": "maç kazanmak",
+    "en_prompt": "Our team played brilliantly and managed to ___ the game.",
+    "en_full": "Our team played brilliantly and managed to win the game.",
+    "tr_full": "Takımımız harika oynadı ve maçı kazanmayı başardı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Oyun veya maç kazanmak 'win a game'dir; 'make/do a game' denmez."
+  },
+  {
+    "id": "col_vn_0056",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "lose a game",
+    "verb": "lose",
+    "rest": "a game",
+    "tr": "maç kaybetmek",
+    "en_prompt": "Nobody likes to ___ an important game like this.",
+    "en_full": "Nobody likes to lose an important game like this.",
+    "tr_full": "Kimse böyle önemli bir maçı kaybetmekten hoşlanmaz.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Yenilmek/maç kaybetmek 'lose a game' ile verilir; 'make/do a game' kullanılamaz."
+  },
+  {
+    "id": "col_vn_0057",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "tell the truth",
+    "verb": "tell",
+    "rest": "the truth",
+    "tr": "doğruyu söylemek",
+    "en_prompt": "You should always ___ the truth to your parents.",
+    "en_full": "You should always tell the truth to your parents.",
+    "tr_full": "Ailene her zaman doğruyu söylemelisin.",
+    "distractors": [
+      "say",
+      "speak",
+      "talk"
+    ],
+    "note": "'Truth' kalıbı 'tell' ile kullanılır; 'say the truth' en sık yapılan öğrenci hatasıdır."
+  },
+  {
+    "id": "col_vn_0058",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "tell a lie",
+    "verb": "tell",
+    "rest": "a lie",
+    "tr": "yalan söylemek",
+    "en_prompt": "It is wrong to ___ a lie to your friends.",
+    "en_full": "It is wrong to tell a lie to your friends.",
+    "tr_full": "Arkadaşlarına yalan söylemek yanlıştır.",
+    "distractors": [
+      "say",
+      "speak",
+      "talk"
+    ],
+    "note": "'Lie' sözcüğü 'tell' alır; 'say a lie' veya 'speak a lie' kullanımı hatalıdır."
+  },
+  {
+    "id": "col_vn_0059",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "tell a story",
+    "verb": "tell",
+    "rest": "a story",
+    "tr": "hikâye anlatmak",
+    "en_prompt": "Grandmother used to ___ us a story every night.",
+    "en_full": "Grandmother used to tell us a story every night.",
+    "tr_full": "Büyükanne her gece bize bir hikâye anlatırdı.",
+    "distractors": [
+      "say",
+      "speak",
+      "talk"
+    ],
+    "note": "Hikâye aktarmak/anlatmak 'tell a story'dir; 'say a story' kelime bazlı çeviri hatasıdır."
+  },
+  {
+    "id": "col_vn_0060",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "tell a joke",
+    "verb": "tell",
+    "rest": "a joke",
+    "tr": "fıkra anlatmak",
+    "en_prompt": "Mehmet loves to ___ funny jokes during lunch breaks.",
+    "en_full": "Mehmet loves to tell funny jokes during lunch breaks.",
+    "tr_full": "Mehmet öğle aralarında komik fıkralar anlatmayı çok sever.",
+    "distractors": [
+      "say",
+      "speak",
+      "talk"
+    ],
+    "note": "Espritüel fıkra anlatmak 'tell a joke' kalıbıyla ifade edilir; 'say/make a joke' yanlıştır."
+  },
+  {
+    "id": "col_vn_0061",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "tell the time",
+    "verb": "tell",
+    "rest": "the time",
+    "tr": "saati söylemek",
+    "en_prompt": "My little brother learned to ___ the time yesterday.",
+    "en_full": "My little brother learned to tell the time yesterday.",
+    "tr_full": "Küçük erkek kardeşim dün saati okumayı/söylemeyi öğrendi.",
+    "distractors": [
+      "say",
+      "make",
+      "speak"
+    ],
+    "note": "Saatin kaç olduğunu okuyabilmek/söyleyebilmek 'tell the time' ifadesiyle verilir; 'say the time' yanlıştır."
+  },
+  {
+    "id": "col_vn_0062",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "catch fire",
+    "verb": "catch",
+    "rest": "fire",
+    "tr": "alev almak",
+    "en_prompt": "Dry trees can easily ___ fire in summer months.",
+    "en_full": "Dry trees can easily catch fire in summer months.",
+    "tr_full": "Kuru ağaçlar yaz aylarında kolayca alev alabilir.",
+    "distractors": [
+      "take",
+      "get",
+      "make"
+    ],
+    "note": "Ateş/alev almak 'catch fire' eşdizimidir; 'get fire' veya 'take fire' İngilizcede kullanılmaz."
+  },
+  {
+    "id": "col_vn_0063",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "brush your teeth",
+    "verb": "brush",
+    "rest": "your teeth",
+    "tr": "dişini fırçalamak",
+    "en_prompt": "You should ___ your teeth before going to bed.",
+    "en_full": "You should brush your teeth before going to bed.",
+    "tr_full": "Yatmadan önce dişlerini fırçalamalısın.",
+    "distractors": [
+      "wash",
+      "make",
+      "do"
+    ],
+    "note": "Diş temizliği için 'brush' kullanılır; 'wash your teeth' yanlış bir kullanımı temsil eder."
+  },
+  {
+    "id": "col_vn_0064",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "plant a tree",
+    "verb": "plant",
+    "rest": "a tree",
+    "tr": "ağaç dikmek",
+    "en_prompt": "Volunteers gathered in the forest to ___ new trees.",
+    "en_full": "Volunteers gathered in the forest to plant new trees.",
+    "tr_full": "Gönüllüler yeni ağaçlar dikmek için ormanda toplandı.",
+    "distractors": [
+      "make",
+      "do",
+      "put"
+    ],
+    "note": "Fidan/ağaç toprağa ekmek 'plant a tree' şeklindedir; 'make a tree' veya 'put a tree' yanlıştır."
+  },
+  {
+    "id": "col_vn_0065",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "water the plants",
+    "verb": "water",
+    "rest": "the plants",
+    "tr": "bitkileri sulamak",
+    "en_prompt": "Don't forget to ___ the plants in the garden.",
+    "en_full": "Don't forget to water the plants in the garden.",
+    "tr_full": "Bahçedeki bitkileri sulamayı unutma.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Sulamak eylemi doğrudan fiil olarak 'water the plants' şeklinde yapılır; 'give water' deyimsel ana kalıp değildir."
+  },
+  {
+    "id": "col_vn_0066",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "book a ticket",
+    "verb": "book",
+    "rest": "a ticket",
+    "tr": "bilet ayırtmak",
+    "en_prompt": "Zeynep decided to ___ a flight ticket online.",
+    "en_full": "Zeynep decided to book a flight ticket online.",
+    "tr_full": "Zeynep internetten uçak bileti ayırtmaya karar verdi.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Rezervasyon/bilet alma eylemi 'book a ticket'tır; 'make a ticket' veya 'do a ticket' denmez."
+  },
+  {
+    "id": "col_vn_0067",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "book a room",
+    "verb": "book",
+    "rest": "a room",
+    "tr": "oda ayırtmak",
+    "en_prompt": "We need to ___ a room before traveling to İzmir.",
+    "en_full": "We need to book a room before traveling to İzmir.",
+    "tr_full": "İzmir'e seyahat etmeden önce bir oda ayırtmamız gerekiyor.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Otel odası ayırtmak 'book a room' (veya 'reserve a room') şeklinde verilir; 'make a room' yanlıştır."
+  },
+  {
+    "id": "col_vn_0068",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "order food",
+    "verb": "order",
+    "rest": "food",
+    "tr": "yemek ısmarlamak",
+    "en_prompt": "They decided to ___ food from a local restaurant.",
+    "en_full": "They decided to order food from a local restaurant.",
+    "tr_full": "Yerel bir restorandan yemek sipariş etmeye/ısmarlamaya karar verdiler.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Sipariş vermek/ısmarlamak 'order food'dur; Türkçedeki 'vermek' kalıbından ötürü 'give food' demek farklı anlama gelir."
+  },
+  {
+    "id": "col_vn_0069",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "follow instructions",
+    "verb": "follow",
+    "rest": "instructions",
+    "tr": "talimatlara uymak",
+    "en_prompt": "You must carefully ___ the instructions during the exam.",
+    "en_full": "You must carefully follow the instructions during the exam.",
+    "tr_full": "Sınav sırasında talimatlara dikkatle uymalısınız.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Yönerge ve talimatlara uymak 'follow instructions' ile ifade edilir; 'do/make instructions' yanlıştır."
+  },
+  {
+    "id": "col_vn_0070",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "catch a ball",
+    "verb": "catch",
+    "rest": "a ball",
+    "tr": "topu yakalamak",
+    "en_prompt": "The dog ran quickly to ___ the flying ball.",
+    "en_full": "The dog ran quickly to catch the flying ball.",
+    "tr_full": "Köpek uçan topu yakalamak için hızla koştu.",
+    "distractors": [
+      "take",
+      "make",
+      "hold"
+    ],
+    "note": "Havada gelen nesneyi yakalamak 'catch a ball' kalıbıdır; 'take a ball' veya 'make a ball' yanlıştır."
+  },
+  {
+    "id": "col_vn_0071",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "keep a secret",
+    "verb": "keep",
+    "rest": "a secret",
+    "tr": "sır saklamak",
+    "en_prompt": "Can I trust you to ___ a secret about this?",
+    "en_full": "Can I trust you to keep a secret about this?",
+    "tr_full": "Bu konuda sır saklayacağın hususunda sana güvenebilir miyim?",
+    "distractors": [
+      "hold",
+      "save",
+      "make"
+    ],
+    "note": "Sır tutmak/saklamak 'keep a secret' olarak söylenir; 'hold/save a secret' Türkçeden yanlış aktarımdır."
+  },
+  {
+    "id": "col_vn_0072",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "keep a diary",
+    "verb": "keep",
+    "rest": "a diary",
+    "tr": "günlük tutmak",
+    "en_prompt": "Ayşe has been trying to ___ a diary since middle school.",
+    "en_full": "Ayşe has been trying to keep a diary since middle school.",
+    "tr_full": "Ayşe ortaokuldan beri günlük tutmaya çalışıyor.",
+    "distractors": [
+      "hold",
+      "save",
+      "make"
+    ],
+    "note": "Günlük yazmak/tutmak 'keep a diary'dir; 'hold a diary' veya 'write a diary' yerine bu kalıp esastır."
+  },
+  {
+    "id": "col_vn_0073",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "keep track",
+    "verb": "keep",
+    "rest": "track",
+    "tr": "takip etmek",
+    "en_prompt": "You should ___ track of your daily expenses carefully.",
+    "en_full": "You should keep track of your daily expenses carefully.",
+    "tr_full": "Günlük masraflarını dikkatlice takip etmelisin.",
+    "distractors": [
+      "hold",
+      "take",
+      "make"
+    ],
+    "note": "'Track' (takip/iz) kelimesiyle 'keep' kullanılır; 'hold/take/make track' yanlıştır."
+  },
+  {
+    "id": "col_vn_0074",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "break the law",
+    "verb": "break",
+    "rest": "the law",
+    "tr": "yasayı çiğnemek",
+    "en_prompt": "Anyone who ___ the law will be punished by court.",
+    "en_full": "Anyone who breaks the law will be punished by court.",
+    "tr_full": "Yasayı çiğneyen herkes mahkeme tarafından cezalandırılacaktır.",
+    "distractors": [
+      "make",
+      "do",
+      "cut"
+    ],
+    "note": "Kural veya yasa ihlalinde 'break' kullanılır; 'cut/make the law' Türkçeden yanlış aktarımdır."
+  },
+  {
+    "id": "col_vn_0075",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "break a record",
+    "verb": "break",
+    "rest": "a record",
+    "tr": "rekor kırmak",
+    "en_prompt": "Ali trained hard and ___ the world record yesterday.",
+    "en_full": "Ali trained hard and broke the world record yesterday.",
+    "tr_full": "Ali çok çalıştı ve dün dünya rekorunu kırdı.",
+    "distractors": [
+      "make",
+      "do",
+      "cut"
+    ],
+    "note": "Rekor kırmak ifadesinde 'break a record' kullanılır; 'make/cut a record' kullanılmaz."
+  },
+  {
+    "id": "col_vn_0076",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "break a habit",
+    "verb": "break",
+    "rest": "a habit",
+    "tr": "alışkanlığı bırakmak",
+    "en_prompt": "It is usually very difficult to ___ a bad habit.",
+    "en_full": "It is usually very difficult to break a bad habit.",
+    "tr_full": "Kötü bir alışkanlığı bırakmak genellikle çok zordur.",
+    "distractors": [
+      "make",
+      "do",
+      "cut"
+    ],
+    "note": "Alışkanlığı sonlandırmada 'break a habit' kalıbı geçerlidir."
+  },
+  {
+    "id": "col_vn_0077",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "break the rules",
+    "verb": "break",
+    "rest": "the rules",
+    "tr": "kuralları çiğnemek",
+    "en_prompt": "Students must not ___ the school rules during exams.",
+    "en_full": "Students must not break the school rules during exams.",
+    "tr_full": "Öğrenciler sınavlar sırasında okul kurallarını çiğnememelidir.",
+    "distractors": [
+      "make",
+      "do",
+      "cut"
+    ],
+    "note": "Kuralları ihlal etmek anlamında 'break the rules' kullanılır."
+  },
+  {
+    "id": "col_vn_0078",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "break a promise",
+    "verb": "break",
+    "rest": "a promise",
+    "tr": "sözünü bozmak",
+    "en_prompt": "Mehmet promised to help me, so he won't ___ it.",
+    "en_full": "Mehmet promised to help me, so he won't break it.",
+    "tr_full": "Mehmet bana yardım edeceğine söz verdi, bu yüzden sözünü bozmayacaktır.",
+    "distractors": [
+      "make",
+      "do",
+      "cut"
+    ],
+    "note": "Sözü tutmamak/bozmak için 'break a promise' yapısı kullanılır."
+  },
+  {
+    "id": "col_vn_0079",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take advantage",
+    "verb": "take",
+    "rest": "advantage",
+    "tr": "yararlanmak",
+    "en_prompt": "You should ___ advantage of this scholarship opportunity.",
+    "en_full": "You should take advantage of this scholarship opportunity.",
+    "tr_full": "Bu burs fırsatından yararlanmalısın.",
+    "distractors": [
+      "make",
+      "do",
+      "get"
+    ],
+    "note": "Fırsatlardan yararlanmak/faydalanmak anlamında 'take advantage of' eşdizimi sabittir."
+  },
+  {
+    "id": "col_vn_0080",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take measures",
+    "verb": "take",
+    "rest": "measures",
+    "tr": "önlem almak",
+    "en_prompt": "The government must ___ urgent measures against inflation.",
+    "en_full": "The government must take urgent measures against inflation.",
+    "tr_full": "Hükümet enflasyona karşı acil önlemler almalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Önlem/tedbir almak yapısında 'take measures' kullanılır; 'make/do measures' yanlıştır."
+  },
+  {
+    "id": "col_vn_0081",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take precautions",
+    "verb": "take",
+    "rest": "precautions",
+    "tr": "tedbir almak",
+    "en_prompt": "Workers should ___ safety precautions before entering the factory.",
+    "en_full": "Workers should take safety precautions before entering the factory.",
+    "tr_full": "İşçiler fabrikaya girmeden önce güvenlik tedbirleri almalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Tedbir almak anlamında 'take precautions' eşdizimi kullanılır."
+  },
+  {
+    "id": "col_vn_0082",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take steps",
+    "verb": "take",
+    "rest": "steps",
+    "tr": "adım atmak",
+    "en_prompt": "We need to ___ concrete steps to solve this crisis.",
+    "en_full": "We need to take concrete steps to solve this crisis.",
+    "tr_full": "Bu krizi çözmek için somut adımlar atmalıyız.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Eyleme geçmek/adım atmak anlamında 'take steps' yapısı kullanılır."
+  },
+  {
+    "id": "col_vn_0083",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take the lead",
+    "verb": "take",
+    "rest": "the lead",
+    "tr": "liderliği ele almak",
+    "en_prompt": "Ayşe decided to ___ the lead in this new project.",
+    "en_full": "Ayşe decided to take the lead in this new project.",
+    "tr_full": "Ayşe bu yeni projede liderliği ele almaya karar verdi.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Liderliği üstlenmek/ele almak anlamında 'take the lead' yapısı esastır."
+  },
+  {
+    "id": "col_vn_0084",
+    "type": "vn",
+    "level": "C1",
+    "collocation": "take office",
+    "verb": "take",
+    "rest": "office",
+    "tr": "göreve gelmek",
+    "en_prompt": "The new president will ___ office next month.",
+    "en_full": "The new president will take office next month.",
+    "tr_full": "Yeni başkan önümüzdeki ay göreve başlayacak.",
+    "distractors": [
+      "make",
+      "do",
+      "get"
+    ],
+    "note": "Resmî makama/göreve gelmek anlamında 'take office' akademiktir."
+  },
+  {
+    "id": "col_vn_0085",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take shape",
+    "verb": "take",
+    "rest": "shape",
+    "tr": "şekillenmek",
+    "en_prompt": "Our research plans are slowly starting to ___ shape.",
+    "en_full": "Our research plans are slowly starting to take shape.",
+    "tr_full": "Araştırma planlarımız yavaş yavaş şekillenmeye başlıyor.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Biçim/şekil almak anlamında 'take shape' eşdizimi sabittir."
+  },
+  {
+    "id": "col_vn_0086",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take effect",
+    "verb": "take",
+    "rest": "effect",
+    "tr": "yürürlüğe girmek",
+    "en_prompt": "The new law will ___ effect starting from January.",
+    "en_full": "The new law will take effect starting from January.",
+    "tr_full": "Yeni kanun ocak ayından itibaren yürürlüğe girecek.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Kanun veya ilacın etkisini göstermesi/yürürlüğe girmesinde 'take effect' kullanılır."
+  },
+  {
+    "id": "col_vn_0087",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take pride",
+    "verb": "take",
+    "rest": "pride",
+    "tr": "gurur duymak",
+    "en_prompt": "Parents always ___ pride in their children's achievements.",
+    "en_full": "Parents always take pride in their children's achievements.",
+    "tr_full": "Ebeveynler çocuklarının başarılarıyla her zaman gurur duyar.",
+    "distractors": [
+      "make",
+      "do",
+      "get"
+    ],
+    "note": "'Pride' ismi 'take pride in' yapısıyla gurur duymak anlamı kazanır."
+  },
+  {
+    "id": "col_vn_0088",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "take responsibility",
+    "verb": "take",
+    "rest": "responsibility",
+    "tr": "sorumluluk almak",
+    "en_prompt": "You must ___ full responsibility for your actions.",
+    "en_full": "You must take full responsibility for your actions.",
+    "tr_full": "Eylemlerinin tüm sorumluluğunu üstlenmelisin.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Sorumluluk üstlenmek ifadesinde 'take responsibility' kullanılır."
+  },
+  {
+    "id": "col_vn_0089",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a profit",
+    "verb": "make",
+    "rest": "a profit",
+    "tr": "kâr etmek",
+    "en_prompt": "The company managed to ___ a large profit this year.",
+    "en_full": "The company managed to make a large profit this year.",
+    "tr_full": "Şirket bu yıl büyük bir kâr etmeyi başardı.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Maddi kâr elde etmek anlamında 'make a profit' kullanılır; 'do a profit' yanlıştır."
+  },
+  {
+    "id": "col_vn_0090",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make an impact",
+    "verb": "make",
+    "rest": "an impact",
+    "tr": "etki yaratmak",
+    "en_prompt": "His speech ___ a lasting impact on the audience.",
+    "en_full": "His speech made a lasting impact on the audience.",
+    "tr_full": "Konuşması dinleyiciler üzerinde kalıcı bir etki yarattı.",
+    "distractors": [
+      "do",
+      "take",
+      "give"
+    ],
+    "note": "Etki bırakmak/yaratmak anlamında 'make an impact' eşdizimi esastır."
+  },
+  {
+    "id": "col_vn_0091",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make an impression",
+    "verb": "make",
+    "rest": "an impression",
+    "tr": "izlenim bırakmak",
+    "en_prompt": "A good outfit helps to ___ a positive impression.",
+    "en_full": "A good outfit helps to make a positive impression.",
+    "tr_full": "İyi bir kıyafet olumlu bir izlenim bırakmaya yardımcı olur.",
+    "distractors": [
+      "do",
+      "take",
+      "give"
+    ],
+    "note": "İzlenim bırakmak ifadesinde 'make an impression' yapısı tercih edilir."
+  },
+  {
+    "id": "col_vn_0092",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make a contribution",
+    "verb": "make",
+    "rest": "a contribution",
+    "tr": "katkıda bulunmak",
+    "en_prompt": "Dr. Zeynep ___ significant contributions to cancer research.",
+    "en_full": "Dr. Zeynep made significant contributions to cancer research.",
+    "tr_full": "Dr. Zeynep kanser araştırmalarına önemli katkılarda bulundu.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Katkı sunmak/bulunmak anlamında 'make a contribution' eşdizimi geçerlidir."
+  },
+  {
+    "id": "col_vn_0093",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make a discovery",
+    "verb": "make",
+    "rest": "a discovery",
+    "tr": "keşif yapmak",
+    "en_prompt": "Scientists ___ an important discovery in the Amazon rainforest.",
+    "en_full": "Scientists made an important discovery in the Amazon rainforest.",
+    "tr_full": "Bilim insanları Amazon yağmur ormanlarında önemli bir keşif yaptı.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Keşif yapmak eyleminde 'make a discovery' kalıbı esastır; 'do a discovery' yanlıştır."
+  },
+  {
+    "id": "col_vn_0094",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make an assumption",
+    "verb": "make",
+    "rest": "an assumption",
+    "tr": "varsayımda bulunmak",
+    "en_prompt": "Do not ___ assumptions without knowing all the facts.",
+    "en_full": "Do not make assumptions without knowing all the facts.",
+    "tr_full": "Tüm gerçekleri bilmeden varsayımlarda bulunmayın.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Varsayım yapmak/bulunmak anlamında 'make an assumption' yapısı kullanılır."
+  },
+  {
+    "id": "col_vn_0095",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make a claim",
+    "verb": "make",
+    "rest": "a claim",
+    "tr": "iddiada bulunmak",
+    "en_prompt": "The reporter ___ a bold claim about the election.",
+    "en_full": "The reporter made a bold claim about the election.",
+    "tr_full": "Muhabir seçim hakkında cesur bir iddiada bulundu.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "İddia ortaya atmak/bulunmak için 'make a claim' kullanılır."
+  },
+  {
+    "id": "col_vn_0096",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make a point",
+    "verb": "make",
+    "rest": "a point",
+    "tr": "önemli bir noktaya değinmek",
+    "en_prompt": "You ___ a very good point during the meeting.",
+    "en_full": "You made a very good point during the meeting.",
+    "tr_full": "Toplantı sırasında çok iyi bir noktaya değindin.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Fikir açıklamak/noktaya temas etmek anlamında 'make a point' kullanılır."
+  },
+  {
+    "id": "col_vn_0097",
+    "type": "vn",
+    "level": "C1",
+    "collocation": "make headway",
+    "verb": "make",
+    "rest": "headway",
+    "tr": "ilerleme sağlamak",
+    "en_prompt": "The team is finally beginning to ___ headway.",
+    "en_full": "The team is finally beginning to make headway.",
+    "tr_full": "Ekip nihayet mesafe kaydetmeye/ilerleme sağlamaya başlıyor.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Zorlu süreçlerde ilerleme kaydetmek anlamında 'make headway' C1 seviye eşdizimdir."
+  },
+  {
+    "id": "col_vn_0098",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "reach a conclusion",
+    "verb": "reach",
+    "rest": "a conclusion",
+    "tr": "sonuca varmak",
+    "en_prompt": "After hours of discussion, the committee finally ___ a conclusion.",
+    "en_full": "After hours of discussion, the committee finally reached a conclusion.",
+    "tr_full": "Saatler süren tartışmanın ardından komite sonunda bir sonuca vardı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Conclusion' ile 'reach' kullanılır; 'make/do a conclusion' İngilizcede yanlış ve deyimsel olmayan kullanımlardır."
+  },
+  {
+    "id": "col_vn_0099",
+    "type": "vn",
+    "level": "C1",
+    "collocation": "reach a compromise",
+    "verb": "reach",
+    "rest": "a compromise",
+    "tr": "uzlaşmaya varmak",
+    "en_prompt": "Both sides agreed to talk and ___ a compromise.",
+    "en_full": "Both sides agreed to talk and reach a compromise.",
+    "tr_full": "Her iki taraf da konuşmayı ve uzlaşmaya varmayı kabul etti.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Compromise' ile 'reach' kullanılır; 'do/take a compromise' hatalı birer çeviri kullanımıdır."
+  },
+  {
+    "id": "col_vn_0100",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "set a deadline",
+    "verb": "set",
+    "rest": "a deadline",
+    "tr": "son tarih koymak",
+    "en_prompt": "The manager decided to ___ a strict deadline for the project.",
+    "en_full": "The manager decided to set a strict deadline for the project.",
+    "tr_full": "Müdür, proje için katı bir son tarih koymaya karar verdi.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Deadline' ile 'set' kullanılır; 'give/make a deadline' ifadeleri Türkçeden birebir çeviri hatasıdır."
+  },
+  {
+    "id": "col_vn_0101",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "set priorities",
+    "verb": "set",
+    "rest": "priorities",
+    "tr": "öncelik belirlemek",
+    "en_prompt": "You must ___ clear priorities to succeed in your job.",
+    "en_full": "You must set clear priorities to succeed in your job.",
+    "tr_full": "İşinizde başarılı olmak için net öncelikler belirlemelisiniz.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Priorities' ile 'set' kullanılır; 'make priorities' deyimsel bir kullanım değildir."
+  },
+  {
+    "id": "col_vn_0102",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "set a target",
+    "verb": "set",
+    "rest": "a target",
+    "tr": "hedef belirlemek",
+    "en_prompt": "The sales team will ___ a high target this year.",
+    "en_full": "The sales team will set a high target this year.",
+    "tr_full": "Satış ekibi bu yıl yüksek bir hedef belirleyecek.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Target' ile 'set' kullanılır; 'make a target' veya 'give a target' deyimsel kalıba uymaz."
+  },
+  {
+    "id": "col_vn_0103",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "set a trend",
+    "verb": "set",
+    "rest": "a trend",
+    "tr": "çığır açmak",
+    "en_prompt": "Her novel style quickly ___ a new fashion trend.",
+    "en_full": "Her novel style quickly set a new fashion trend.",
+    "tr_full": "Onun özgün tarzı hızla yeni bir moda akımı başlattı.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Trend' başlatmak/belirlemek anlamında 'set' kullanılır; 'make a trend' hatalı bir kullanımdır."
+  },
+  {
+    "id": "col_vn_0104",
+    "type": "vn",
+    "level": "A2",
+    "collocation": "set an alarm",
+    "verb": "set",
+    "rest": "an alarm",
+    "tr": "alarm kurmak",
+    "en_prompt": "Don't forget to ___ an alarm for tomorrow morning.",
+    "en_full": "Don't forget to set an alarm for tomorrow morning.",
+    "tr_full": "Yarın sabah için alarm kurmayı unutma.",
+    "distractors": [
+      "make",
+      "do",
+      "put"
+    ],
+    "note": "Alarm kurmak için 'set' kullanılır; 'make an alarm' veya 'put an alarm' yanlış kullanımlardır."
+  },
+  {
+    "id": "col_vn_0105",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "pay a compliment",
+    "verb": "pay",
+    "rest": "a compliment",
+    "tr": "iltifat etmek",
+    "en_prompt": "Ayşe ___ a nice compliment on my new dress.",
+    "en_full": "Ayşe paid a nice compliment on my new dress.",
+    "tr_full": "Ayşe yeni elbisem hakkında güzel bir iltifat etti.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Compliment' ile 'pay' kullanılır; 'make a compliment' Türkçedeki 'iltifat yapmak' mantığından kaynaklanan yaygın öğrenci hatasıdır."
+  },
+  {
+    "id": "col_vn_0106",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "pay a price",
+    "verb": "pay",
+    "rest": "a price",
+    "tr": "bedel ödemek",
+    "en_prompt": "If you cheat, you will eventually ___ a heavy price.",
+    "en_full": "If you cheat, you will eventually pay a heavy price.",
+    "tr_full": "Hile yaparsanız, eninde sonunda ağır bir bedel ödersiniz.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Mecazi veya gerçek 'bedel ödemek' için 'pay' kullanılır; 'make a price' yanlış bir deyimsel kullanımdır."
+  },
+  {
+    "id": "col_vn_0107",
+    "type": "vn",
+    "level": "C1",
+    "collocation": "pay tribute",
+    "verb": "pay",
+    "rest": "tribute",
+    "tr": "saygı sunmak",
+    "en_prompt": "The speaker stood to ___ tribute to the fallen heroes.",
+    "en_full": "The speaker stood to pay tribute to the fallen heroes.",
+    "tr_full": "Konuşmacı düşen kahramanlara saygı sunmak için ayağa kalktı.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Tribute' ile 'pay' kullanılır; 'give/make tribute' resmi ve akademik dile uygun değildir."
+  },
+  {
+    "id": "col_vn_0108",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "pay a fine",
+    "verb": "pay",
+    "rest": "a fine",
+    "tr": "ceza ödemek",
+    "en_prompt": "Ali had to ___ a heavy fine for speeding yesterday.",
+    "en_full": "Ali had to pay a heavy fine for speeding yesterday.",
+    "tr_full": "Ali dün hız yaptığı için ağır bir ceza ödemek zorunda kaldı.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Para cezası ödemek için 'pay' kullanılır; 'give a fine' cezayı kesen makam için değil, ödeyen kişi için geçerli değildir."
+  },
+  {
+    "id": "col_vn_0109",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "pay taxes",
+    "verb": "pay",
+    "rest": "taxes",
+    "tr": "vergi ödemek",
+    "en_prompt": "Every citizen is expected to ___ taxes every year.",
+    "en_full": "Every citizen is expected to pay taxes every year.",
+    "tr_full": "Her vatandaşın her yıl vergi ödemesi beklenir.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Vergi ödemek kalıbı 'pay taxes' şeklindedir; 'give taxes' veya 'make taxes' yanlıştır."
+  },
+  {
+    "id": "col_vn_0110",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "pay interest",
+    "verb": "pay",
+    "rest": "interest",
+    "tr": "faiz ödemek",
+    "en_prompt": "The company must ___ high interest on its bank loan.",
+    "en_full": "The company must pay high interest on its bank loan.",
+    "tr_full": "Şirket banka kredisine yüksek faiz ödemek zorundadır.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "Finansal faiz ödemelerinde 'pay' kullanılır; 'give interest' hatalı bir ifadedir."
+  },
+  {
+    "id": "col_vn_0111",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "give priority",
+    "verb": "give",
+    "rest": "priority",
+    "tr": "öncelik vermek",
+    "en_prompt": "We should ___ priority to urgent customer requests.",
+    "en_full": "We should give priority to urgent customer requests.",
+    "tr_full": "Acil müşteri taleplerine öncelik vermeliyiz.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Priority' eylemine öncelik tanımak için 'give' kullanılır; 'make priority' yanlış bir kalıptır."
+  },
+  {
+    "id": "col_vn_0112",
+    "type": "vn",
+    "level": "C1",
+    "collocation": "give consent",
+    "verb": "give",
+    "rest": "consent",
+    "tr": "rıza göstermek",
+    "en_prompt": "The patient must ___ full consent before the surgical procedure.",
+    "en_full": "The patient must give full consent before the surgical procedure.",
+    "tr_full": "Hasta cerrahi işlemden önce tam rıza vermelidir.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Consent' (onay/rıza) vermek için 'give' kullanılır; 'make consent' hatalı bir deyimsel kullanımdır."
+  },
+  {
+    "id": "col_vn_0113",
+    "type": "vn",
+    "level": "C1",
+    "collocation": "give rise to",
+    "verb": "give",
+    "rest": "rise to",
+    "tr": "yol açmak",
+    "en_prompt": "Economic instability can ___ rise to widespread social conflict.",
+    "en_full": "Economic instability can give rise to widespread social conflict.",
+    "tr_full": "Ekonomik istikrarsızlık yaygın sosyal çatışmalara yol açabilir.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Give rise to' kalıbı akademik İngilizcede 'neden olmak' anlamındadır; 'make/take rise to' yanlıştır."
+  },
+  {
+    "id": "col_vn_0114",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give feedback",
+    "verb": "give",
+    "rest": "feedback",
+    "tr": "geri bildirim vermek",
+    "en_prompt": "The teacher will ___ constructve feedback on your essay.",
+    "en_full": "The teacher will give constructive feedback on your essay.",
+    "tr_full": "Öğretmen makaleniz hakkında yapıcı geri bildirim verecek.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Geri bildirim vermek 'give feedback' kalıbıyla ifade edilir; 'make feedback' Türkçe çeviri hatasıdır."
+  },
+  {
+    "id": "col_vn_0115",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give a presentation",
+    "verb": "give",
+    "rest": "a presentation",
+    "tr": "sunum yapmak",
+    "en_prompt": "Mehmet will ___ a short presentation about the new project.",
+    "en_full": "Mehmet will give a short presentation about the new project.",
+    "tr_full": "Mehmet yeni proje hakkında kısa bir sunum yapacak.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "Sunum yapmak için 'give' kullanılır; 'do a presentation' sık yapılan bir öğrenci hatasıdır."
+  },
+  {
+    "id": "col_vn_0116",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "give a lecture",
+    "verb": "give",
+    "rest": "a lecture",
+    "tr": "ders vermek",
+    "en_prompt": "The professor will ___ a lecture on biology today.",
+    "en_full": "The professor will give a lecture on biology today.",
+    "tr_full": "Profesör bugün biyoloji üzerine ders verecek.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Akademik ders/konferans vermek için 'give' kullanılır; 'make/do a lecture' yanlış ifadelerdir."
+  },
+  {
+    "id": "col_vn_0117",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "give a warning",
+    "verb": "give",
+    "rest": "a warning",
+    "tr": "uyarı vermek",
+    "en_prompt": "The officer decided to ___ a final warning to him.",
+    "en_full": "The officer decided to give a final warning to him.",
+    "tr_full": "Memur ona son bir uyarı vermeye karar verdi.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Warning' için 'give' kullanılır; 'make a warning' Türkçedeki 'uyarı yapmak' düşüncesinden kaynaklanır ve yanlıştır."
+  },
+  {
+    "id": "col_vn_0118",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "keep a promise",
+    "verb": "keep",
+    "rest": "a promise",
+    "tr": "sözünü tutmak",
+    "en_prompt": "Zeynep always tries to ___ her promises to her friends.",
+    "en_full": "Zeynep always tries to keep her promises to her friends.",
+    "tr_full": "Zeynep arkadaşlarına verdiği sözleri her zaman tutmaya çalışır.",
+    "distractors": [
+      "hold",
+      "save",
+      "give"
+    ],
+    "note": "Söz tutmak 'keep a promise' kalıbıdır; 'hold a promise' veya 'save a promise' yanlış kullanımlardır."
+  },
+  {
+    "id": "col_vn_0119",
+    "type": "vn",
+    "level": "B1",
+    "collocation": "keep records",
+    "verb": "keep",
+    "rest": "records",
+    "tr": "kayıt tutmak",
+    "en_prompt": "It is essential to ___ accurate financial records for tax.",
+    "en_full": "It is essential to keep accurate financial records for tax.",
+    "tr_full": "Vergi için doğru finansal kayıtlar tutmak zorunludur.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Kayıt tutmak için 'keep' kullanılır; 'make records' veya 'do records' kalıba uymaz."
+  },
+  {
+    "id": "col_vn_0120",
+    "type": "vn",
+    "level": "B2",
+    "collocation": "keep pace",
+    "verb": "keep",
+    "rest": "pace",
+    "tr": "ayak uydurmak",
+    "en_prompt": "Firms must innovate to ___ pace with modern fast technology.",
+    "en_full": "Firms must innovate to keep pace with modern fast technology.",
+    "tr_full": "Firmalar modern hızlı teknolojiye ayak uydurmak için yenilik yapmalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Hıza/tempoya ayak uydurmak 'keep pace' deyimidir; 'make/do pace' yanlış ifadedir."
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make friends",
+    "verb": "make",
+    "rest": "friends",
+    "tr": "arkadaş edinmek",
+    "en_prompt": "She easily ___ friends at her new school.",
+    "en_full": "She easily makes friends at her new school.",
+    "tr_full": "Yeni okulunda kolayca arkadaş edinir.",
+    "distractors": [
+      "do",
+      "have",
+      "get"
+    ],
+    "note": "'Friends' ile 'make' kullanılır; 'do/have/get friends' deyimsel değildir.",
+    "id": "col_vn_0121"
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make a mess",
+    "verb": "make",
+    "rest": "a mess",
+    "tr": "ortalığı dağıtmak",
+    "en_prompt": "The children ___ a mess in the living room.",
+    "en_full": "The children made a mess in the living room.",
+    "tr_full": "Çocuklar oturma odasını dağıttı.",
+    "distractors": [
+      "do",
+      "have",
+      "take"
+    ],
+    "note": "'Mess' ile 'make' kullanılır; 'do/have/take a mess' yanlıştır.",
+    "id": "col_vn_0122"
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "make a wish",
+    "verb": "make",
+    "rest": "a wish",
+    "tr": "dilek tutmak",
+    "en_prompt": "Close your eyes and ___ a wish now.",
+    "en_full": "Close your eyes and make a wish now.",
+    "tr_full": "Gözlerini kapat ve şimdi bir dilek tut.",
+    "distractors": [
+      "do",
+      "give",
+      "have"
+    ],
+    "note": "'Wish' ile 'make' kullanılır; 'do/give/have a wish' deyimsel değildir.",
+    "id": "col_vn_0123"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make sense",
+    "verb": "make",
+    "rest": "sense",
+    "tr": "mantıklı olmak",
+    "en_prompt": "Your explanation does not ___ sense to me.",
+    "en_full": "Your explanation does not make sense to me.",
+    "tr_full": "Açıklaman bana mantıklı gelmiyor.",
+    "distractors": [
+      "do",
+      "have",
+      "take"
+    ],
+    "note": "'Make sense' = mantıklı olmak; 'do/have/take sense' yanlıştır.",
+    "id": "col_vn_0124"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make an appointment",
+    "verb": "make",
+    "rest": "an appointment",
+    "tr": "randevu almak",
+    "en_prompt": "I need to ___ an appointment with the doctor.",
+    "en_full": "I need to make an appointment with the doctor.",
+    "tr_full": "Doktordan randevu almam gerekiyor.",
+    "distractors": [
+      "do",
+      "take",
+      "give"
+    ],
+    "note": "Randevu için 'make' kullanılır; Türkçe 'almak' etkisiyle 'take an appointment' demek yaygın hatadır.",
+    "id": "col_vn_0125"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a reservation",
+    "verb": "make",
+    "rest": "a reservation",
+    "tr": "rezervasyon yaptırmak",
+    "en_prompt": "We should ___ a reservation before the restaurant fills up.",
+    "en_full": "We should make a reservation before the restaurant fills up.",
+    "tr_full": "Restoran dolmadan rezervasyon yaptırmalıyız.",
+    "distractors": [
+      "do",
+      "take",
+      "give"
+    ],
+    "note": "Rezervasyon için 'make' kullanılır; 'do/take/give a reservation' yanlıştır.",
+    "id": "col_vn_0126"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a complaint",
+    "verb": "make",
+    "rest": "a complaint",
+    "tr": "şikâyette bulunmak",
+    "en_prompt": "The customer wanted to ___ a complaint about the service.",
+    "en_full": "The customer wanted to make a complaint about the service.",
+    "tr_full": "Müşteri hizmetle ilgili şikâyette bulunmak istedi.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Complaint' ile 'make' kullanılır; 'file/lodge a complaint' resmî dilde olur ama 'do/take/have a complaint' yanlıştır.",
+    "id": "col_vn_0127"
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "have breakfast",
+    "verb": "have",
+    "rest": "breakfast",
+    "tr": "kahvaltı yapmak",
+    "en_prompt": "We usually ___ breakfast at seven in the morning.",
+    "en_full": "We usually have breakfast at seven in the morning.",
+    "tr_full": "Genellikle sabah yedide kahvaltı yaparız.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Öğünlerle 'have' kullanılır; 'make breakfast' hazırlamaktır, yemek yemek değildir.",
+    "id": "col_vn_0128"
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "have lunch",
+    "verb": "have",
+    "rest": "lunch",
+    "tr": "öğle yemeği yemek",
+    "en_prompt": "They often ___ lunch together at a small café.",
+    "en_full": "They often have lunch together at a small café.",
+    "tr_full": "Sık sık küçük bir kafede birlikte öğle yemeği yerler.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Öğünlerle 'have' kullanılır; 'make/do/take lunch' yemeği yeme anlamı vermez.",
+    "id": "col_vn_0129"
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "have dinner",
+    "verb": "have",
+    "rest": "dinner",
+    "tr": "akşam yemeği yemek",
+    "en_prompt": "On Sundays the whole family ___ dinner together.",
+    "en_full": "On Sundays the whole family has dinner together.",
+    "tr_full": "Pazar günleri bütün aile birlikte akşam yemeği yer.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Öğünlerle 'have' kullanılır; 'cook dinner' pişirmektir, 'have dinner' yemektir.",
+    "id": "col_vn_0130"
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "have fun",
+    "verb": "have",
+    "rest": "fun",
+    "tr": "eğlenmek",
+    "en_prompt": "The kids ___ fun at the amusement park all day.",
+    "en_full": "The kids had fun at the amusement park all day.",
+    "tr_full": "Çocuklar bütün gün lunaparkta eğlendi.",
+    "distractors": [
+      "do",
+      "take",
+      "get"
+    ],
+    "note": "'Have fun' = eğlenmek; 'make fun' ancak 'of' ile (biriyle alay etmek) kullanılır, farklıdır.",
+    "id": "col_vn_0131"
+  },
+  {
+    "type": "vn",
+    "level": "A2",
+    "collocation": "have a headache",
+    "verb": "have",
+    "rest": "a headache",
+    "tr": "başı ağrımak",
+    "en_prompt": "I cannot study because I ___ a terrible headache.",
+    "en_full": "I cannot study because I have a terrible headache.",
+    "tr_full": "Başım çok ağrıdığı için çalışamıyorum.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "Rahatsızlıklarla 'have' kullanılır; 'make/do/take a headache' yanlıştır.",
+    "id": "col_vn_0132"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have a conversation",
+    "verb": "have",
+    "rest": "a conversation",
+    "tr": "sohbet etmek",
+    "en_prompt": "We ___ a long conversation about our future plans.",
+    "en_full": "We had a long conversation about our future plans.",
+    "tr_full": "Gelecek planlarımız hakkında uzun bir sohbet ettik.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Conversation' ile 'have' kullanılır; 'make/do/take a conversation' yanlıştır.",
+    "id": "col_vn_0133"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have an argument",
+    "verb": "have",
+    "rest": "an argument",
+    "tr": "tartışmak",
+    "en_prompt": "They ___ an argument about who should pay the bill.",
+    "en_full": "They had an argument about who should pay the bill.",
+    "tr_full": "Hesabı kimin ödeyeceği konusunda tartıştılar.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have an argument' = tartışmak; 'make an argument' bir tez öne sürmektir, farklıdır.",
+    "id": "col_vn_0134"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have a meeting",
+    "verb": "have",
+    "rest": "a meeting",
+    "tr": "toplantı yapmak",
+    "en_prompt": "The managers ___ a meeting every Monday morning.",
+    "en_full": "The managers have a meeting every Monday morning.",
+    "tr_full": "Yöneticiler her pazartesi sabahı toplantı yapar.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have/hold a meeting' doğrudur; 'make/do/take a meeting' yanlıştır.",
+    "id": "col_vn_0135"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have a dream",
+    "verb": "have",
+    "rest": "a dream",
+    "tr": "hayal kurmak",
+    "en_prompt": "Many students ___ a dream of studying abroad.",
+    "en_full": "Many students have a dream of studying abroad.",
+    "tr_full": "Birçok öğrenci yurt dışında okuma hayali kurar.",
+    "distractors": [
+      "make",
+      "do",
+      "get"
+    ],
+    "note": "'Have a dream' = hayal/ülkü taşımak; 'make/do/get a dream' yanlıştır.",
+    "id": "col_vn_0136"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have an effect",
+    "verb": "have",
+    "rest": "an effect",
+    "tr": "etkisi olmak",
+    "en_prompt": "Too much sugar can ___ a bad effect on health.",
+    "en_full": "Too much sugar can have a bad effect on health.",
+    "tr_full": "Fazla şeker sağlık üzerinde kötü bir etki yapabilir.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Have/produce an effect' doğrudur; 'make/do/give an effect' yanlıştır.",
+    "id": "col_vn_0137"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have an accident",
+    "verb": "have",
+    "rest": "an accident",
+    "tr": "kaza geçirmek",
+    "en_prompt": "He ___ an accident while driving in the rain.",
+    "en_full": "He had an accident while driving in the rain.",
+    "tr_full": "Yağmurda araba kullanırken kaza geçirdi.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have an accident' = kaza geçirmek; 'make/do/take an accident' yanlıştır.",
+    "id": "col_vn_0138"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have an interview",
+    "verb": "have",
+    "rest": "an interview",
+    "tr": "mülakata girmek",
+    "en_prompt": "She will ___ an interview for the manager position tomorrow.",
+    "en_full": "She will have an interview for the manager position tomorrow.",
+    "tr_full": "Yarın müdürlük pozisyonu için mülakata girecek.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have an interview' = mülakata girmek (adayın eylemi); 'conduct an interview' mülakatı yapandır. 'make/do/take' yanlıştır.",
+    "id": "col_vn_0139"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make a fortune",
+    "verb": "make",
+    "rest": "a fortune",
+    "tr": "servet kazanmak",
+    "en_prompt": "He ___ a fortune by investing in technology early.",
+    "en_full": "He made a fortune by investing in technology early.",
+    "tr_full": "Teknolojiye erken yatırım yaparak servet kazandı.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Make a fortune' = servet kazanmak; 'do/take/have a fortune' yanlıştır.",
+    "id": "col_vn_0140"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "make a breakthrough",
+    "verb": "make",
+    "rest": "a breakthrough",
+    "tr": "çığır açmak",
+    "en_prompt": "Scientists ___ a breakthrough in cancer research.",
+    "en_full": "Scientists made a breakthrough in cancer research.",
+    "tr_full": "Bilim insanları kanser araştırmasında çığır açtı.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Make/achieve a breakthrough' doğrudur; 'do/take/have a breakthrough' yanlıştır.",
+    "id": "col_vn_0141"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make use of",
+    "verb": "make",
+    "rest": "use of",
+    "tr": "yararlanmak",
+    "en_prompt": "You should ___ use of every learning opportunity.",
+    "en_full": "You should make use of every learning opportunity.",
+    "tr_full": "Her öğrenme fırsatından yararlanmalısın.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Make use of' = kullanmak/değerlendirmek; 'do/take/have use of' yanlıştır.",
+    "id": "col_vn_0142"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "make a fuss",
+    "verb": "make",
+    "rest": "a fuss",
+    "tr": "yaygara koparmak",
+    "en_prompt": "There is no need to ___ a fuss over a small mistake.",
+    "en_full": "There is no need to make a fuss over a small mistake.",
+    "tr_full": "Küçük bir hata için yaygara koparmaya gerek yok.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Make a fuss' = yaygara koparmak; 'do/take/have a fuss' yanlıştır.",
+    "id": "col_vn_0143"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have access",
+    "verb": "have",
+    "rest": "access",
+    "tr": "erişimi olmak",
+    "en_prompt": "Students ___ access to the online library at any time.",
+    "en_full": "Students have access to the online library at any time.",
+    "tr_full": "Öğrencilerin çevrim içi kütüphaneye her an erişimi vardır.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have/gain access to' doğrudur; 'make/do/take access' yanlıştır.",
+    "id": "col_vn_0144"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "have the right",
+    "verb": "have",
+    "rest": "the right",
+    "tr": "hakkı olmak",
+    "en_prompt": "Every citizen ___ the right to vote in elections.",
+    "en_full": "Every citizen has the right to vote in elections.",
+    "tr_full": "Her vatandaşın seçimlerde oy verme hakkı vardır.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have the right to' = hakkı olmak; 'make/do/take the right' yanlıştır.",
+    "id": "col_vn_0145"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "have confidence",
+    "verb": "have",
+    "rest": "confidence",
+    "tr": "güveni olmak",
+    "en_prompt": "The coach ___ confidence in his young players.",
+    "en_full": "The coach has confidence in his young players.",
+    "tr_full": "Antrenörün genç oyuncularına güveni var.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Have confidence in' = güvenmek; 'make/do/give confidence' yanlıştır.",
+    "id": "col_vn_0146"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "have influence",
+    "verb": "have",
+    "rest": "influence",
+    "tr": "etkisi olmak",
+    "en_prompt": "The media ___ a strong influence on public opinion.",
+    "en_full": "The media has a strong influence on public opinion.",
+    "tr_full": "Medyanın kamuoyu üzerinde güçlü bir etkisi var.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have/exert influence over' doğrudur; 'make/do/take influence' yanlıştır.",
+    "id": "col_vn_0147"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "have potential",
+    "verb": "have",
+    "rest": "potential",
+    "tr": "potansiyeli olmak",
+    "en_prompt": "This project ___ great potential to help the community.",
+    "en_full": "This project has great potential to help the community.",
+    "tr_full": "Bu projenin topluma yardım etme konusunda büyük potansiyeli var.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Have potential' = potansiyeli olmak; 'make/do/take potential' yanlıştır.",
+    "id": "col_vn_0148"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "gain experience",
+    "verb": "gain",
+    "rest": "experience",
+    "tr": "deneyim kazanmak",
+    "en_prompt": "Interns ___ valuable experience during the summer program.",
+    "en_full": "Interns gain valuable experience during the summer program.",
+    "tr_full": "Stajyerler yaz programında değerli deneyim kazanır.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Gain/get experience' doğrudur; 'make/do/take experience' yanlıştır.",
+    "id": "col_vn_0149"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "gain confidence",
+    "verb": "gain",
+    "rest": "confidence",
+    "tr": "özgüven kazanmak",
+    "en_prompt": "She slowly ___ confidence after months of practice.",
+    "en_full": "She slowly gained confidence after months of practice.",
+    "tr_full": "Aylarca süren pratikten sonra yavaş yavaş özgüven kazandı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Gain/build confidence' doğrudur; 'make/do/take confidence' yanlıştır.",
+    "id": "col_vn_0150"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "gain popularity",
+    "verb": "gain",
+    "rest": "popularity",
+    "tr": "popülerlik kazanmak",
+    "en_prompt": "The app quickly ___ popularity among young users.",
+    "en_full": "The app quickly gained popularity among young users.",
+    "tr_full": "Uygulama genç kullanıcılar arasında hızla popülerlik kazandı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Gain popularity' doğrudur; 'make/do/take popularity' yanlıştır.",
+    "id": "col_vn_0151"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "gain independence",
+    "verb": "gain",
+    "rest": "independence",
+    "tr": "bağımsızlık kazanmak",
+    "en_prompt": "The country ___ independence after a long struggle.",
+    "en_full": "The country gained independence after a long struggle.",
+    "tr_full": "Ülke uzun bir mücadelenin ardından bağımsızlık kazandı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Gain/win independence' doğrudur; 'make/do/take independence' yanlıştır.",
+    "id": "col_vn_0152"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "gain insight",
+    "verb": "gain",
+    "rest": "insight",
+    "tr": "içgörü kazanmak",
+    "en_prompt": "The study helps us ___ insight into human behaviour.",
+    "en_full": "The study helps us gain insight into human behaviour.",
+    "tr_full": "Bu çalışma insan davranışına dair içgörü kazanmamıza yardımcı olur.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Gain insight into' doğrudur; 'make/do/take insight' yanlıştır.",
+    "id": "col_vn_0153"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "gain momentum",
+    "verb": "gain",
+    "rest": "momentum",
+    "tr": "ivme kazanmak",
+    "en_prompt": "The campaign ___ momentum as more people joined.",
+    "en_full": "The campaign gained momentum as more people joined.",
+    "tr_full": "Daha fazla insan katıldıkça kampanya ivme kazandı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Gain/build momentum' doğrudur; 'make/do/take momentum' yanlıştır.",
+    "id": "col_vn_0154"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "gain access",
+    "verb": "gain",
+    "rest": "access",
+    "tr": "erişim sağlamak",
+    "en_prompt": "Hackers tried to ___ access to the company's data.",
+    "en_full": "Hackers tried to gain access to the company's data.",
+    "tr_full": "Bilgisayar korsanları şirketin verilerine erişim sağlamaya çalıştı.",
+    "distractors": [
+      "make",
+      "do",
+      "put"
+    ],
+    "note": "'Gain/get access to' doğrudur; 'make/do/put access' yanlıştır.",
+    "id": "col_vn_0155"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise awareness",
+    "verb": "raise",
+    "rest": "awareness",
+    "tr": "farkındalık yaratmak",
+    "en_prompt": "The campaign aims to ___ awareness about climate change.",
+    "en_full": "The campaign aims to raise awareness about climate change.",
+    "tr_full": "Kampanya iklim değişikliği konusunda farkındalık yaratmayı amaçlıyor.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise awareness' doğrudur; 'make/do/give awareness' yanlıştır.",
+    "id": "col_vn_0156"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise concerns",
+    "verb": "raise",
+    "rest": "concerns",
+    "tr": "endişe uyandırmak",
+    "en_prompt": "The report ___ serious concerns about air pollution.",
+    "en_full": "The report raised serious concerns about air pollution.",
+    "tr_full": "Rapor hava kirliliğiyle ilgili ciddi endişe uyandırdı.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise/voice concerns' doğrudur; 'make/do/give concerns' yanlıştır.",
+    "id": "col_vn_0157"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise funds",
+    "verb": "raise",
+    "rest": "funds",
+    "tr": "fon toplamak",
+    "en_prompt": "The school held a fair to ___ funds for new books.",
+    "en_full": "The school held a fair to raise funds for new books.",
+    "tr_full": "Okul, yeni kitaplar için fon toplamak amacıyla bir kermes düzenledi.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise funds' = fon/para toplamak; 'make/do/give funds' yanlıştır.",
+    "id": "col_vn_0158"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise standards",
+    "verb": "raise",
+    "rest": "standards",
+    "tr": "standartları yükseltmek",
+    "en_prompt": "The new policy aims to ___ standards in education.",
+    "en_full": "The new policy aims to raise standards in education.",
+    "tr_full": "Yeni politika eğitimde standartları yükseltmeyi amaçlıyor.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise standards' doğrudur; 'make/do/give standards' yanlıştır.",
+    "id": "col_vn_0159"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise expectations",
+    "verb": "raise",
+    "rest": "expectations",
+    "tr": "beklentileri yükseltmek",
+    "en_prompt": "Early success can ___ expectations too high.",
+    "en_full": "Early success can raise expectations too high.",
+    "tr_full": "Erken başarı beklentileri aşırı yükseltebilir.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise expectations' doğrudur; 'make/do/give expectations' yanlıştır.",
+    "id": "col_vn_0160"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise an issue",
+    "verb": "raise",
+    "rest": "an issue",
+    "tr": "konuyu gündeme getirmek",
+    "en_prompt": "She ___ an important issue during the meeting.",
+    "en_full": "She raised an important issue during the meeting.",
+    "tr_full": "Toplantı sırasında önemli bir konuyu gündeme getirdi.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise an issue' = konuyu gündeme getirmek; 'make/do/give an issue' yanlıştır.",
+    "id": "col_vn_0161"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise a question",
+    "verb": "raise",
+    "rest": "a question",
+    "tr": "soru gündeme getirmek",
+    "en_prompt": "The findings ___ a question about the study's method.",
+    "en_full": "The findings raise a question about the study's method.",
+    "tr_full": "Bulgular çalışmanın yöntemine dair bir soru gündeme getiriyor.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise/pose a question' = soruyu gündeme getirmek; 'ask a question' soru sormaktır. 'make/do/give a question' yanlıştır.",
+    "id": "col_vn_0162"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "draw attention",
+    "verb": "draw",
+    "rest": "attention",
+    "tr": "dikkat çekmek",
+    "en_prompt": "The bright poster ___ attention to the event.",
+    "en_full": "The bright poster drew attention to the event.",
+    "tr_full": "Parlak afiş etkinliğe dikkat çekti.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Draw/attract attention' doğrudur; 'pay attention' dikkat etmektir. 'make/do/take attention' yanlıştır.",
+    "id": "col_vn_0163"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "draw a conclusion",
+    "verb": "draw",
+    "rest": "a conclusion",
+    "tr": "sonuç çıkarmak",
+    "en_prompt": "It is too early to ___ a conclusion from the data.",
+    "en_full": "It is too early to draw a conclusion from the data.",
+    "tr_full": "Verilerden sonuç çıkarmak için henüz çok erken.",
+    "distractors": [
+      "make",
+      "take",
+      "give"
+    ],
+    "note": "'Draw/reach a conclusion' doğrudur; 'make/take/give a conclusion' yanlıştır.",
+    "id": "col_vn_0164"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "draw a distinction",
+    "verb": "draw",
+    "rest": "a distinction",
+    "tr": "ayrım yapmak",
+    "en_prompt": "The author ___ a clear distinction between the two ideas.",
+    "en_full": "The author draws a clear distinction between the two ideas.",
+    "tr_full": "Yazar iki fikir arasında net bir ayrım yapıyor.",
+    "distractors": [
+      "do",
+      "take",
+      "give"
+    ],
+    "note": "'Draw/make a distinction' ikisi de doğrudur; 'do/take/give a distinction' yanlıştır.",
+    "id": "col_vn_0165"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "draw a line",
+    "verb": "draw",
+    "rest": "a line",
+    "tr": "sınır çizmek",
+    "en_prompt": "We must ___ a line between work and private life.",
+    "en_full": "We must draw a line between work and private life.",
+    "tr_full": "İş ile özel hayat arasına bir sınır çizmeliyiz.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Draw a line' = sınır çizmek/koymak; 'make/do/take a line' yanlıştır.",
+    "id": "col_vn_0166"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "pose a threat",
+    "verb": "pose",
+    "rest": "a threat",
+    "tr": "tehdit oluşturmak",
+    "en_prompt": "Rising sea levels ___ a threat to coastal cities.",
+    "en_full": "Rising sea levels pose a threat to coastal cities.",
+    "tr_full": "Yükselen deniz seviyeleri kıyı şehirleri için tehdit oluşturur.",
+    "distractors": [
+      "do",
+      "have",
+      "give"
+    ],
+    "note": "'Pose/present a threat' doğrudur; 'make a threat' tehdit savurmaktır. 'do/have/give a threat' yanlıştır.",
+    "id": "col_vn_0167"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "pose a challenge",
+    "verb": "pose",
+    "rest": "a challenge",
+    "tr": "zorluk oluşturmak",
+    "en_prompt": "The new rules ___ a challenge for small businesses.",
+    "en_full": "The new rules pose a challenge for small businesses.",
+    "tr_full": "Yeni kurallar küçük işletmeler için bir zorluk oluşturuyor.",
+    "distractors": [
+      "do",
+      "have",
+      "give"
+    ],
+    "note": "'Pose a challenge' = zorluk oluşturmak; 'do/have/give a challenge' yanlıştır.",
+    "id": "col_vn_0168"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "pose a problem",
+    "verb": "pose",
+    "rest": "a problem",
+    "tr": "sorun teşkil etmek",
+    "en_prompt": "Heavy traffic ___ a serious problem for the city.",
+    "en_full": "Heavy traffic poses a serious problem for the city.",
+    "tr_full": "Yoğun trafik şehir için ciddi bir sorun teşkil ediyor.",
+    "distractors": [
+      "do",
+      "have",
+      "give"
+    ],
+    "note": "'Pose/cause a problem' doğrudur; 'do/have/give a problem' yanlıştır.",
+    "id": "col_vn_0169"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "meet demand",
+    "verb": "meet",
+    "rest": "demand",
+    "tr": "talebi karşılamak",
+    "en_prompt": "The factory increased output to ___ demand.",
+    "en_full": "The factory increased output to meet demand.",
+    "tr_full": "Fabrika talebi karşılamak için üretimi artırdı.",
+    "distractors": [
+      "make",
+      "do",
+      "reach"
+    ],
+    "note": "'Meet/satisfy demand' doğrudur; 'make/do/reach demand' yanlıştır.",
+    "id": "col_vn_0170"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "meet requirements",
+    "verb": "meet",
+    "rest": "requirements",
+    "tr": "şartları karşılamak",
+    "en_prompt": "Your application must ___ all the requirements.",
+    "en_full": "Your application must meet all the requirements.",
+    "tr_full": "Başvurunuz tüm şartları karşılamalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "reach"
+    ],
+    "note": "'Meet/fulfil requirements' doğrudur; 'make/do/reach requirements' yanlıştır.",
+    "id": "col_vn_0171"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "meet needs",
+    "verb": "meet",
+    "rest": "needs",
+    "tr": "ihtiyaçları karşılamak",
+    "en_prompt": "The service is designed to ___ the needs of families.",
+    "en_full": "The service is designed to meet the needs of families.",
+    "tr_full": "Hizmet, ailelerin ihtiyaçlarını karşılamak için tasarlandı.",
+    "distractors": [
+      "make",
+      "do",
+      "reach"
+    ],
+    "note": "'Meet/satisfy needs' doğrudur; 'make/do/reach needs' yanlıştır.",
+    "id": "col_vn_0172"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "meet expectations",
+    "verb": "meet",
+    "rest": "expectations",
+    "tr": "beklentileri karşılamak",
+    "en_prompt": "The film failed to ___ the audience's expectations.",
+    "en_full": "The film failed to meet the audience's expectations.",
+    "tr_full": "Film seyircinin beklentilerini karşılayamadı.",
+    "distractors": [
+      "make",
+      "do",
+      "reach"
+    ],
+    "note": "'Meet expectations' doğrudur; 'make/do/reach expectations' yanlıştır.",
+    "id": "col_vn_0173"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "meet standards",
+    "verb": "meet",
+    "rest": "standards",
+    "tr": "standartları karşılamak",
+    "en_prompt": "All products must ___ strict safety standards.",
+    "en_full": "All products must meet strict safety standards.",
+    "tr_full": "Tüm ürünler katı güvenlik standartlarını karşılamalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "reach"
+    ],
+    "note": "'Meet standards' doğrudur; 'make/do/reach standards' yanlıştır.",
+    "id": "col_vn_0174"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "meet a target",
+    "verb": "meet",
+    "rest": "a target",
+    "tr": "hedefi tutturmak",
+    "en_prompt": "The team worked hard to ___ the sales target.",
+    "en_full": "The team worked hard to meet the sales target.",
+    "tr_full": "Takım satış hedefini tutturmak için çok çalıştı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Meet/hit a target' doğrudur; 'make/do/take a target' yanlıştır.",
+    "id": "col_vn_0175"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "strike a balance",
+    "verb": "strike",
+    "rest": "a balance",
+    "tr": "denge kurmak",
+    "en_prompt": "It is hard to ___ a balance between work and rest.",
+    "en_full": "It is hard to strike a balance between work and rest.",
+    "tr_full": "İş ile dinlenme arasında denge kurmak zordur.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Strike/find a balance' doğrudur; 'make/do/take a balance' yanlıştır.",
+    "id": "col_vn_0176"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "strike a deal",
+    "verb": "strike",
+    "rest": "a deal",
+    "tr": "anlaşma yapmak",
+    "en_prompt": "The two companies ___ a deal after long talks.",
+    "en_full": "The two companies struck a deal after long talks.",
+    "tr_full": "İki şirket uzun görüşmelerin ardından anlaşma yaptı.",
+    "distractors": [
+      "do",
+      "take",
+      "have"
+    ],
+    "note": "'Strike/make/close a deal' doğrudur; 'do/take/have a deal' yanlıştır.",
+    "id": "col_vn_0177"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "express concern",
+    "verb": "express",
+    "rest": "concern",
+    "tr": "endişe belirtmek",
+    "en_prompt": "Parents ___ concern about the school's new schedule.",
+    "en_full": "Parents expressed concern about the school's new schedule.",
+    "tr_full": "Veliler okulun yeni programıyla ilgili endişe belirtti.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Express/voice concern' doğrudur; 'make/do/give concern' yanlıştır.",
+    "id": "col_vn_0178"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "express an opinion",
+    "verb": "express",
+    "rest": "an opinion",
+    "tr": "görüş belirtmek",
+    "en_prompt": "Everyone is free to ___ an opinion in class.",
+    "en_full": "Everyone is free to express an opinion in class.",
+    "tr_full": "Sınıfta herkes görüş belirtmekte özgürdür.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Express/give an opinion' doğrudur; 'make/do/take an opinion' yanlıştır.",
+    "id": "col_vn_0179"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "play a role",
+    "verb": "play",
+    "rest": "a role",
+    "tr": "rol oynamak",
+    "en_prompt": "Teachers ___ an important role in a child's life.",
+    "en_full": "Teachers play an important role in a child's life.",
+    "tr_full": "Öğretmenler bir çocuğun hayatında önemli bir rol oynar.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "'Play a role/part' = rol oynamak; 'make/do/have a role' yanlıştır.",
+    "id": "col_vn_0180"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "play a part",
+    "verb": "play",
+    "rest": "a part",
+    "tr": "pay sahibi olmak",
+    "en_prompt": "Luck ___ a big part in his sudden success.",
+    "en_full": "Luck played a big part in his sudden success.",
+    "tr_full": "Şans, onun ani başarısında büyük pay sahibiydi.",
+    "distractors": [
+      "make",
+      "do",
+      "have"
+    ],
+    "note": "'Play a part in' = pay sahibi olmak; 'make/do/have a part' yanlıştır.",
+    "id": "col_vn_0181"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "cause damage",
+    "verb": "cause",
+    "rest": "damage",
+    "tr": "hasara yol açmak",
+    "en_prompt": "The storm ___ serious damage to the old bridge.",
+    "en_full": "The storm caused serious damage to the old bridge.",
+    "tr_full": "Fırtına eski köprüde ciddi hasara yol açtı.",
+    "distractors": [
+      "make",
+      "give",
+      "have"
+    ],
+    "note": "'Cause/do damage' doğrudur; 'make/give/have damage' yanlıştır.",
+    "id": "col_vn_0182"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "provide information",
+    "verb": "provide",
+    "rest": "information",
+    "tr": "bilgi sağlamak",
+    "en_prompt": "The website ___ useful information about visas.",
+    "en_full": "The website provides useful information about visas.",
+    "tr_full": "İnternet sitesi vizeler hakkında yararlı bilgi sağlıyor.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Provide/give information' doğrudur; 'make/do/take information' yanlıştır.",
+    "id": "col_vn_0183"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "provide support",
+    "verb": "provide",
+    "rest": "support",
+    "tr": "destek sağlamak",
+    "en_prompt": "The charity ___ support to homeless families.",
+    "en_full": "The charity provides support to homeless families.",
+    "tr_full": "Yardım kuruluşu evsiz ailelere destek sağlıyor.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Provide/give/offer support' doğrudur; 'make/do/take support' yanlıştır.",
+    "id": "col_vn_0184"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "face a challenge",
+    "verb": "face",
+    "rest": "a challenge",
+    "tr": "zorlukla karşılaşmak",
+    "en_prompt": "Young graduates often ___ a challenge finding jobs.",
+    "en_full": "Young graduates often face a challenge finding jobs.",
+    "tr_full": "Genç mezunlar iş bulmada sıkça zorlukla karşılaşır.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Face/meet a challenge' doğrudur; 'make/do/take a challenge' yanlıştır.",
+    "id": "col_vn_0185"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "hold an election",
+    "verb": "hold",
+    "rest": "an election",
+    "tr": "seçim yapmak",
+    "en_prompt": "The country will ___ an election next spring.",
+    "en_full": "The country will hold an election next spring.",
+    "tr_full": "Ülke gelecek ilkbaharda seçim yapacak.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Hold an election' doğrudur; 'make/do/take an election' yanlıştır.",
+    "id": "col_vn_0186"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "hold talks",
+    "verb": "hold",
+    "rest": "talks",
+    "tr": "görüşme yapmak",
+    "en_prompt": "The leaders will ___ talks to end the conflict.",
+    "en_full": "The leaders will hold talks to end the conflict.",
+    "tr_full": "Liderler çatışmayı sona erdirmek için görüşme yapacak.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Hold talks' = görüşme yapmak; 'make/do/take talks' yanlıştır.",
+    "id": "col_vn_0187"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "launch a campaign",
+    "verb": "launch",
+    "rest": "a campaign",
+    "tr": "kampanya başlatmak",
+    "en_prompt": "The group will ___ a campaign to plant more trees.",
+    "en_full": "The group will launch a campaign to plant more trees.",
+    "tr_full": "Grup, daha fazla ağaç dikmek için kampanya başlatacak.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Launch/start a campaign' doğrudur; 'make/do/take a campaign' yanlıştır.",
+    "id": "col_vn_0188"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make a choice",
+    "verb": "make",
+    "rest": "a choice",
+    "tr": "seçim yapmak",
+    "en_prompt": "You must ___ a choice between these two offers.",
+    "en_full": "You must make a choice between these two offers.",
+    "tr_full": "Bu iki teklif arasında bir seçim yapmalısın.",
+    "distractors": [
+      "do",
+      "take",
+      "get"
+    ],
+    "note": "'Make a choice' = seçim yapmak; 'have a choice' seçeneği olmaktır (farklı). 'do/take/get a choice' yanlıştır.",
+    "id": "col_vn_0189"
+  },
+  {
+    "type": "vn",
+    "level": "B1",
+    "collocation": "make an excuse",
+    "verb": "make",
+    "rest": "an excuse",
+    "tr": "bahane uydurmak",
+    "en_prompt": "He always ___ an excuse for being late.",
+    "en_full": "He always makes an excuse for being late.",
+    "tr_full": "Geç kaldığı için her zaman bir bahane uydurur.",
+    "distractors": [
+      "do",
+      "take",
+      "put"
+    ],
+    "note": "'Make an excuse' = bahane uydurmak; 'give/offer an excuse' de olur ama 'do/take/put an excuse' yanlıştır.",
+    "id": "col_vn_0190"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "reach a verdict",
+    "verb": "reach",
+    "rest": "a verdict",
+    "tr": "karara varmak",
+    "en_prompt": "The jury took hours to ___ a verdict.",
+    "en_full": "The jury took hours to reach a verdict.",
+    "tr_full": "Jüri bir karara varmak için saatlerce uğraştı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Reach/return a verdict' doğrudur; 'make/do/take a verdict' yanlıştır.",
+    "id": "col_vn_0191"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "express gratitude",
+    "verb": "express",
+    "rest": "gratitude",
+    "tr": "şükran belirtmek",
+    "en_prompt": "She wrote a letter to ___ her gratitude.",
+    "en_full": "She wrote a letter to express her gratitude.",
+    "tr_full": "Şükranını belirtmek için bir mektup yazdı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Express/show gratitude' doğrudur; 'make/do/take gratitude' yanlıştır.",
+    "id": "col_vn_0192"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "take a stance",
+    "verb": "take",
+    "rest": "a stance",
+    "tr": "tavır almak",
+    "en_prompt": "The government must ___ a clear stance on the issue.",
+    "en_full": "The government must take a clear stance on the issue.",
+    "tr_full": "Hükûmet konuda net bir tavır almalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Take a stance/stand on' doğrudur; 'make/do/give a stance' yanlıştır.",
+    "id": "col_vn_0193"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "take a toll",
+    "verb": "take",
+    "rest": "a toll",
+    "tr": "yıpratmak",
+    "en_prompt": "Long working hours ___ a toll on his health.",
+    "en_full": "Long working hours took a toll on his health.",
+    "tr_full": "Uzun çalışma saatleri sağlığını yıprattı.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Take a toll on' = yıpratmak; 'make/do/give a toll' yanlıştır.",
+    "id": "col_vn_0194"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "shed light on",
+    "verb": "shed",
+    "rest": "light on",
+    "tr": "ışık tutmak",
+    "en_prompt": "The new study may ___ light on the mystery.",
+    "en_full": "The new study may shed light on the mystery.",
+    "tr_full": "Yeni çalışma bu gizeme ışık tutabilir.",
+    "distractors": [
+      "make",
+      "give",
+      "put"
+    ],
+    "note": "'Shed/throw light on' = ışık tutmak; 'make/give/put light on' yanlıştır.",
+    "id": "col_vn_0195"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "take initiative",
+    "verb": "take",
+    "rest": "initiative",
+    "tr": "inisiyatif almak",
+    "en_prompt": "Good employees ___ initiative without being told.",
+    "en_full": "Good employees take initiative without being told.",
+    "tr_full": "İyi çalışanlar söylenmeden inisiyatif alır.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Take the initiative' = inisiyatif almak; 'make/do/give initiative' yanlıştır.",
+    "id": "col_vn_0196"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "place emphasis",
+    "verb": "place",
+    "rest": "emphasis",
+    "tr": "vurgu yapmak",
+    "en_prompt": "The teacher ___ great emphasis on daily reading.",
+    "en_full": "The teacher places great emphasis on daily reading.",
+    "tr_full": "Öğretmen günlük okumaya büyük önem verir.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Place/put emphasis on' doğrudur; 'make/do/give emphasis' yanlıştır.",
+    "id": "col_vn_0197"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "draw a parallel",
+    "verb": "draw",
+    "rest": "a parallel",
+    "tr": "koşutluk kurmak",
+    "en_prompt": "The writer ___ a parallel between the two wars.",
+    "en_full": "The writer draws a parallel between the two wars.",
+    "tr_full": "Yazar iki savaş arasında koşutluk kuruyor.",
+    "distractors": [
+      "make",
+      "take",
+      "give"
+    ],
+    "note": "'Draw a parallel between' doğrudur; 'make/take/give a parallel' yanlıştır.",
+    "id": "col_vn_0198"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "reach a consensus",
+    "verb": "reach",
+    "rest": "a consensus",
+    "tr": "uzlaşıya varmak",
+    "en_prompt": "The committee finally ___ a consensus on the plan.",
+    "en_full": "The committee finally reached a consensus on the plan.",
+    "tr_full": "Komite plan konusunda sonunda uzlaşıya vardı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Reach a consensus' doğrudur; 'make/do/take a consensus' yanlıştır.",
+    "id": "col_vn_0199"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "spark debate",
+    "verb": "spark",
+    "rest": "debate",
+    "tr": "tartışma başlatmak",
+    "en_prompt": "The decision ___ debate across the whole country.",
+    "en_full": "The decision sparked debate across the whole country.",
+    "tr_full": "Karar bütün ülkede tartışma başlattı.",
+    "distractors": [
+      "make",
+      "do",
+      "take"
+    ],
+    "note": "'Spark/trigger debate' doğrudur; 'make/do/take debate' yanlıştır.",
+    "id": "col_vn_0200"
+  },
+  {
+    "type": "vn",
+    "level": "B2",
+    "collocation": "raise doubts",
+    "verb": "raise",
+    "rest": "doubts",
+    "tr": "şüphe uyandırmak",
+    "en_prompt": "The missing data ___ doubts about the results.",
+    "en_full": "The missing data raised doubts about the results.",
+    "tr_full": "Eksik veriler sonuçlar hakkında şüphe uyandırdı.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Raise/cast doubts' doğrudur; 'make/do/give doubts' yanlıştır.",
+    "id": "col_vn_0201"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "cast doubt",
+    "verb": "cast",
+    "rest": "doubt",
+    "tr": "şüphe düşürmek",
+    "en_prompt": "The witness ___ doubt on the suspect's story.",
+    "en_full": "The witness cast doubt on the suspect's story.",
+    "tr_full": "Tanık, şüphelinin anlattıklarına şüphe düşürdü.",
+    "distractors": [
+      "make",
+      "give",
+      "put"
+    ],
+    "note": "'Cast/throw doubt on' doğrudur; 'make/give/put doubt' yanlıştır.",
+    "id": "col_vn_0202"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "set a precedent",
+    "verb": "set",
+    "rest": "a precedent",
+    "tr": "emsal oluşturmak",
+    "en_prompt": "The court's ruling ___ an important precedent.",
+    "en_full": "The court's ruling set an important precedent.",
+    "tr_full": "Mahkemenin kararı önemli bir emsal oluşturdu.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Set a precedent' doğrudur; 'make/do/give a precedent' yanlıştır.",
+    "id": "col_vn_0203"
+  },
+  {
+    "type": "vn",
+    "level": "C1",
+    "collocation": "bear responsibility",
+    "verb": "bear",
+    "rest": "responsibility",
+    "tr": "sorumluluk taşımak",
+    "en_prompt": "Leaders must ___ responsibility for their decisions.",
+    "en_full": "Leaders must bear responsibility for their decisions.",
+    "tr_full": "Liderler kararlarının sorumluluğunu taşımalıdır.",
+    "distractors": [
+      "make",
+      "do",
+      "give"
+    ],
+    "note": "'Bear/take responsibility' doğrudur; 'make/do/give responsibility' yanlıştır.",
+    "id": "col_vn_0204"
+  },
+  {
+    "id": "col_va_0001",
+    "type": "va",
+    "level": "B1",
+    "collocation": "get angry",
+    "head": "angry",
+    "tr": "sinirlenmek",
+    "en_prompt": "He slowly ___ angry as he read the letter.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "go"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "go",
+    "tr_full": "Mektubu okudukça yavaş yavaş sinirlendi.",
+    "note": "get/become/grow angry doğrudur: get gündelik, become nötr/resmî, grow kademeli. 'go angry' yanlıştır; 'go' başka sıfatlarla değişim verir (go mad, go red) ama 'angry' ile deyimsel değildir."
+  },
+  {
+    "id": "col_va_0002",
+    "type": "va",
+    "level": "B1",
+    "collocation": "get upset",
+    "head": "upset",
+    "tr": "üzülmek",
+    "en_prompt": "Ayşe easily ___ upset when people shout at her.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "go"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "go",
+    "tr_full": "Ayşe, insanlar kendisine bağırdığında kolayca üzülür.",
+    "note": "get/become/grow upset doğrudur: get günlük dilde en yaygın olanıdır, become nötrdür, grow zamanla gelişen duyguyu gösterir. 'go upset' deyimsel olarak yanlıştır."
+  },
+  {
+    "id": "col_va_0003",
+    "type": "va",
+    "level": "B1",
+    "collocation": "get bored",
+    "head": "bored",
+    "tr": "sıkılmak",
+    "en_prompt": "Ali quickly ___ bored during the long speech.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "go"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "go",
+    "tr_full": "Ali uzun konuşma sırasında hızlıca sıkıldı.",
+    "note": "get/become/grow bored doğrudur: get gündelik, become nötr/resmî, grow kademeli. 'go bored' kullanımı yanlıştır."
+  },
+  {
+    "id": "col_va_0004",
+    "type": "va",
+    "level": "B1",
+    "collocation": "get nervous",
+    "head": "nervous",
+    "tr": "gerginleşmek",
+    "en_prompt": "Ayşe always ___ nervous before important exams.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "turn"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "turn",
+    "tr_full": "Ayşe önemli sınavlardan önce her zaman gerginleşir.",
+    "note": "get/become/grow nervous doğrudur. 'turn nervous' kullanımı deyimsel değildir ve yanlıştır."
+  },
+  {
+    "id": "col_va_0005",
+    "type": "va",
+    "level": "A2",
+    "collocation": "get tired",
+    "head": "tired",
+    "tr": "yorulmak",
+    "en_prompt": "The players ___ tired after running for an hour.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "turn"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "turn",
+    "tr_full": "Oyuncular bir saat koştuktan sonra yoruldu.",
+    "note": "get/become/grow tired doğrudur: get gündelik, become resmî, grow zamana yayılan yorgunluk. 'turn tired' yanlıştır."
+  },
+  {
+    "id": "col_va_0006",
+    "type": "va",
+    "level": "B1",
+    "collocation": "get worse",
+    "head": "worse",
+    "tr": "kötüleşmek",
+    "en_prompt": "The weather condition ___ worse in the afternoon.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "make"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "make",
+    "tr_full": "Hava durumu öğleden sonra kötüleşti.",
+    "note": "get/become/grow worse doğrudur. 'make worse' duruma etki etmektir ancak 'kötüleşmek' anlamında 'make' yanlıştır."
+  },
+  {
+    "id": "col_va_0007",
+    "type": "va",
+    "level": "B1",
+    "collocation": "get better",
+    "head": "better",
+    "tr": "iyileşmek",
+    "en_prompt": "Mehmet hopes his health will ___ better soon.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "make"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "make",
+    "tr_full": "Mehmet sağlığının yakında iyileşeceğini umuyor.",
+    "note": "get/become/grow better 'iyileşmek' değişimi verir. 'make better' birini iyileştirmektir, değişim fiili olarak 'make' yanlıştır."
+  },
+  {
+    "id": "col_va_0008",
+    "type": "va",
+    "level": "B1",
+    "collocation": "fall ill",
+    "head": "ill",
+    "tr": "hastalanmak",
+    "en_prompt": "Zeynep ___ ill during her trip to London.",
+    "options": [
+      "fall",
+      "become",
+      "get",
+      "turn"
+    ],
+    "valid": [
+      "fall",
+      "become",
+      "get"
+    ],
+    "wrong": "turn",
+    "tr_full": "Zeynep Londra gezisi sırasında hastalandı.",
+    "note": "fall/become/get ill doğrudur; fall ill daha edebi ve anidir. 'turn ill' kullanımı yanlıştır."
+  },
+  {
+    "id": "col_va_0009",
+    "type": "va",
+    "level": "B2",
+    "collocation": "turn pale",
+    "head": "pale",
+    "tr": "benzi atmak",
+    "en_prompt": "Ali ___ pale when he heard the shocking news.",
+    "options": [
+      "turn",
+      "go",
+      "grow",
+      "fall"
+    ],
+    "valid": [
+      "turn",
+      "go",
+      "grow"
+    ],
+    "wrong": "fall",
+    "tr_full": "Ali şok edici haberi duyduğunda benzi attı.",
+    "note": "turn/go/grow pale renk değişimi gösterir. 'fall pale' kullanımı İngilizcede yanlıştır."
+  },
+  {
+    "id": "col_va_0010",
+    "type": "va",
+    "level": "A2",
+    "collocation": "keep calm",
+    "head": "calm",
+    "tr": "sakin kalmak",
+    "en_prompt": "Please try to ___ calm in an emergency.",
+    "options": [
+      "keep",
+      "stay",
+      "remain",
+      "hold"
+    ],
+    "valid": [
+      "keep",
+      "stay",
+      "remain"
+    ],
+    "wrong": "hold",
+    "tr_full": "Lütfen acil durumda sakin kalmaya çalışın.",
+    "note": "keep/stay/remain calm durumun devamlılığını ifade eder. 'hold calm' kullanımı deyimsel değildir."
+  },
+  {
+    "id": "col_va_0011",
+    "type": "va",
+    "level": "A2",
+    "collocation": "keep quiet",
+    "head": "quiet",
+    "tr": "sessiz kalmak",
+    "en_prompt": "The students were asked to ___ quiet during the test.",
+    "options": [
+      "keep",
+      "stay",
+      "remain",
+      "hold"
+    ],
+    "valid": [
+      "keep",
+      "stay",
+      "remain"
+    ],
+    "wrong": "hold",
+    "tr_full": "Öğrencilerden sınav sırasında sessiz kalmaları istendi.",
+    "note": "keep/stay/remain quiet 'sessiz kalmak' anlamındadır. 'hold quiet' deyimsel bir kullanım değildir."
+  },
+  {
+    "id": "col_va_0012",
+    "type": "va",
+    "level": "B1",
+    "collocation": "keep fit",
+    "head": "fit",
+    "tr": "formda kalmak",
+    "en_prompt": "Ayşe exercises every morning to ___ fit.",
+    "options": [
+      "keep",
+      "stay",
+      "get",
+      "hold"
+    ],
+    "valid": [
+      "keep",
+      "stay",
+      "get"
+    ],
+    "wrong": "hold",
+    "tr_full": "Ayşe formda kalmak için her sabah egzersiz yapar.",
+    "note": "keep/stay/get fit kullanımı doğrudur. 'hold fit' ifadesi İngilizcede yanlıştır."
+  },
+  {
+    "id": "col_va_0013",
+    "type": "va",
+    "level": "B2",
+    "collocation": "fall silent",
+    "head": "silent",
+    "tr": "susmak",
+    "en_prompt": "The crowd suddenly ___ silent as the president entered.",
+    "options": [
+      "fall",
+      "become",
+      "go",
+      "turn"
+    ],
+    "valid": [
+      "fall",
+      "become",
+      "go"
+    ],
+    "wrong": "turn",
+    "tr_full": "Başkan içeri girince kalabalık aniden sustu.",
+    "note": "fall/become/go silent sessizliğe bürünmeyi anlatır. 'turn silent' kullanımı deyimsel değildir."
+  },
+  {
+    "id": "col_va_0014",
+    "type": "va",
+    "level": "B2",
+    "collocation": "grow cold",
+    "head": "cold",
+    "tr": "soğumak",
+    "en_prompt": "The room slowly ___ cold after the heater broke.",
+    "options": [
+      "grow",
+      "get",
+      "go",
+      "fall"
+    ],
+    "valid": [
+      "grow",
+      "get",
+      "go"
+    ],
+    "wrong": "fall",
+    "tr_full": "Isıtıcı bozulduktan sonra oda yavaşça soğudu.",
+    "note": "grow/get/go cold kademeli soğumayı ifade eder. 'fall cold' kullanımı yanlıştır."
+  },
+  {
+    "id": "col_va_0015",
+    "type": "va",
+    "level": "B1",
+    "collocation": "go quiet",
+    "head": "quiet",
+    "tr": "sessizleşmek",
+    "en_prompt": "The room ___ quiet when the teacher walked in.",
+    "options": [
+      "go",
+      "fall",
+      "become",
+      "turn"
+    ],
+    "valid": [
+      "go",
+      "fall",
+      "become"
+    ],
+    "wrong": "turn",
+    "tr_full": "Öğretmen içeri girdiğinde oda sessizleşti.",
+    "note": "go/fall/become quiet kullanımı doğrudur. 'turn quiet' deyimsel anlam taşımaz."
+  },
+  {
+    "id": "col_va_0016",
+    "type": "va",
+    "level": "A2",
+    "collocation": "get dark",
+    "head": "dark",
+    "tr": "(hava) kararmak",
+    "en_prompt": "It starts to ___ dark early in winter.",
+    "options": [
+      "get",
+      "grow",
+      "become",
+      "make"
+    ],
+    "valid": [
+      "get",
+      "grow",
+      "become"
+    ],
+    "wrong": "make",
+    "tr_full": "Kışın hava erken kararmaya başlar.",
+    "note": "get/grow/become dark hava kararmasını anlatır. 'make dark' bu anlamda kullanılamaz."
+  },
+  {
+    "id": "col_va_0017",
+    "type": "va",
+    "level": "A2",
+    "collocation": "get hungry",
+    "head": "hungry",
+    "tr": "acıkmak",
+    "en_prompt": "The children ___ hungry after playing in the park.",
+    "options": [
+      "get",
+      "become",
+      "grow",
+      "turn"
+    ],
+    "valid": [
+      "get",
+      "become",
+      "grow"
+    ],
+    "wrong": "turn",
+    "tr_full": "Çocuklar parkta oynadıktan sonra acıktı.",
+    "note": "get/become/grow hungry acıkma sürecini ifade eder. 'turn hungry' kullanımı yanlıştır."
+  }
+]
