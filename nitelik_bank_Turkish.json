@@ -806,7 +806,7 @@
       "level": "B1",
       "pos": "adj",
       "tr": "Anne çocuğunun sağlığı konusunda endişeliydi.",
-      "sentence": "The mother was concerned about her child health.",
+      "sentence": "The mother was concerned about her child's health.",
       "answer": "concerned",
       "answer_tr": "endişeli",
       "modDistractors": [
@@ -1300,7 +1300,7 @@
       "level": "B1",
       "pos": "adj",
       "tr": "Gecenin ortasında uzak bir ses duyduk.",
-      "sentence": "We heard a distant sound in the middle of night.",
+      "sentence": "We heard a distant sound in the middle of the night.",
       "answer": "distant",
       "answer_tr": "uzak",
       "modDistractors": [
@@ -3561,7 +3561,7 @@
       "level": "B1",
       "pos": "adj",
       "tr": "Restoranda bol yiyecek vardı.",
-      "sentence": "There was plenty food at the restaurant.",
+      "sentence": "There was plenty of food at the restaurant.",
       "answer": "plenty",
       "answer_tr": "bol",
       "modDistractors": [
@@ -5765,7 +5765,7 @@
       "level": "B2",
       "pos": "adj",
       "tr": "Öğrenci öğretmenin sorusuna cevap vermeye gönülsüzdü.",
-      "sentence": "The student was reluctant to answer the teacher question.",
+      "sentence": "The student was reluctant to answer the teacher's question.",
       "answer": "reluctant",
       "answer_tr": "gönülsüz",
       "modDistractors": [
@@ -6373,7 +6373,7 @@
       "level": "B2",
       "pos": "adj",
       "tr": "Hastanın durumunda kademeli bir iyileşme vardı.",
-      "sentence": "There was a gradual improvement in the patient condition.",
+      "sentence": "There was a gradual improvement in the patient's condition.",
       "answer": "gradual",
       "answer_tr": "aşamalı",
       "modDistractors": [
@@ -6582,7 +6582,7 @@
       "level": "B2",
       "pos": "adj",
       "tr": "Öğretmen öğrencinin iddiası konusunda şüpheliydi.",
-      "sentence": "The teacher was doubtful about the student claim.",
+      "sentence": "The teacher was doubtful about the student's claim.",
       "answer": "doubtful",
       "answer_tr": "şüpheli",
       "modDistractors": [
@@ -6658,7 +6658,7 @@
       "level": "C1",
       "pos": "adj",
       "tr": "Evren insan aklı için sonsuz bir gizemdir.",
-      "sentence": "The universe is an infinite mystery to human mind.",
+      "sentence": "The universe is an infinite mystery to the human mind.",
       "answer": "infinite",
       "answer_tr": "sonsuz",
       "modDistractors": [
@@ -6810,7 +6810,7 @@
       "level": "B2",
       "pos": "adj",
       "tr": "Yazarın son kitabında dikkate değer bir fark vardı.",
-      "sentence": "There was a notable difference in author last book.",
+      "sentence": "There was a notable difference in the author's last book.",
       "answer": "notable",
       "answer_tr": "dikkate değer",
       "modDistractors": [
@@ -7095,7 +7095,7 @@
       "level": "C1",
       "pos": "adj",
       "tr": "Yazar bilimsel rapor için tutarlı bir argüman sundu.",
-      "sentence": "The author presented a coherent argument for scientific report.",
+      "sentence": "The author presented a coherent argument for a scientific report.",
       "answer": "coherent",
       "answer_tr": "tutarlı",
       "modDistractors": [
@@ -11750,7 +11750,7 @@
       "level": "A2",
       "pos": "adv",
       "tr": "Tren saat sekizde tam olarak kalktı.",
-      "sentence": "The train left at eight o clock exactly.",
+      "sentence": "The train left at eight o'clock exactly.",
       "answer": "exactly",
       "answer_tr": "tam olarak",
       "modDistractors": [
@@ -12225,7 +12225,7 @@
       "level": "B2",
       "pos": "adv",
       "tr": "Tren saat tam olarak sekizde hareket edecek.",
-      "sentence": "The train will leave precisely at eight oclock.",
+      "sentence": "The train will leave precisely at eight o'clock.",
       "answer": "precisely",
       "answer_tr": "tam olarak",
       "modDistractors": [
@@ -12395,7 +12395,7 @@
       "id": "nk_a2_653",
       "level": "A2",
       "pos": "adv",
-      "tr": "Bedenini sağlıklı ve güçlü tutmak için regularly egzersiz yapar.",
+      "tr": "Bedenini sağlıklı ve güçlü tutmak için düzenli olarak egzersiz yapar.",
       "sentence": "She exercises regularly to keep her body healthy and strong.",
       "answer": "regularly",
       "answer_tr": "düzenli olarak",
@@ -14581,7 +14581,7 @@
       "level": "B2",
       "pos": "adv",
       "tr": "Yerel iş insanı çocuk hastanesine cömert bir şekilde bağışta bulundu.",
-      "sentence": "The local businessman donated generously to the children hospital.",
+      "sentence": "The local businessman donated generously to the children's hospital.",
       "answer": "generously",
       "answer_tr": "cömert bir şekilde",
       "modDistractors": [
@@ -15245,7 +15245,7 @@
       "id": "nk_c1_803",
       "level": "C1",
       "pos": "adj",
-      "tr": "Misafirler kendi odalarına çekildi.",
+      "tr": "Misafirler kendi odalarına döndü.",
       "sentence": "The guests returned to their respective rooms.",
       "answer": "respective",
       "answer_tr": "kendi/ayrı ayrı",
