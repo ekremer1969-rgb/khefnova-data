@@ -739,11 +739,6 @@
         "pv": "bring up",
         "tr": "konu açmak",
         "ex": "She brought up the issue."
-      },
-      {
-        "pv": "turn up",
-        "tr": "çıkagelmek",
-        "ex": "He turned up late."
       }
     ],
     "similar": [
@@ -798,11 +793,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "wind up",
-        "tr": "sonuçlanmak",
-        "ex": "He wound up in hospital."
-      },
       {
         "pv": "give up",
         "tr": "pes etmek",
@@ -861,11 +851,6 @@
     ],
     "family": [
       {
-        "pv": "turn up",
-        "tr": "ortaya çıkmak",
-        "ex": "He turned up late."
-      },
-      {
         "pv": "show off",
         "tr": "hava atmak",
         "ex": "Stop showing off."
@@ -922,11 +907,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "speak out",
-        "tr": "açıkça konuşmak",
-        "ex": "She spoke out against injustice."
-      },
       {
         "pv": "shut up",
         "tr": "susmak",
@@ -986,11 +966,6 @@
     ],
     "family": [
       {
-        "pv": "turn down",
-        "tr": "sesi kısmak",
-        "ex": "Turn down the TV volume."
-      },
-      {
         "pv": "turn off",
         "tr": "kapatmak",
         "ex": "Turn off the lights."
@@ -1048,11 +1023,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "look for",
-        "tr": "aramak",
-        "ex": "I am looking for my keys."
-      },
       {
         "pv": "look after",
         "tr": "ilgilenmek",
@@ -1584,11 +1554,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "wrap up",
-        "tr": "toparlayıp bitirmek",
-        "ex": ""
-      },
       {
         "pv": "round up",
         "tr": "derleyip toplamak",
@@ -2596,11 +2561,6 @@
     ],
     "family": [
       {
-        "pv": "figure out",
-        "tr": "kafa yorup çözmek",
-        "ex": ""
-      },
-      {
         "pv": "work out",
         "tr": "çözmek",
         "ex": ""
@@ -3074,11 +3034,6 @@
         "pv": "hang back",
         "tr": "çekinip geride durmak",
         "ex": ""
-      },
-      {
-        "pv": "chill out",
-        "tr": "rahatlayıp takılmak",
-        "ex": ""
       }
     ],
     "similar": [
@@ -3204,11 +3159,6 @@
       {
         "pv": "run over",
         "tr": "ezmek / taşmak",
-        "ex": ""
-      },
-      {
-        "pv": "use up",
-        "tr": "tüketmek",
         "ex": ""
       }
     ],
@@ -4519,11 +4469,6 @@
         "pv": "fill up",
         "tr": "tamamen doldurmak",
         "ex": "Fill up the tank."
-      },
-      {
-        "pv": "fill out",
-        "tr": "form doldurmak",
-        "ex": "Fill out the application."
       }
     ],
     "similar": [
@@ -7494,7 +7439,7 @@
     "answer_sense": "(işe) koyul, başla; girişimde bulun",
     "answer_syn": "",
     "distractor_verbs": [
-      "went",
+      "brought",
       "got",
       "turned"
     ],
@@ -7561,7 +7506,7 @@
     "answer_sense": "oradan oraya dolan, kımılda",
     "answer_syn": "",
     "distractor_verbs": [
-      "walked",
+      "came",
       "turned",
       "stepped"
     ],
@@ -7696,8 +7641,8 @@
     "answer_syn": "",
     "distractor_verbs": [
       "traveled",
-      "walked",
-      "moved"
+      "talked",
+      "turned"
     ],
     "distractor_particles": [
       "up",
@@ -7963,8 +7908,8 @@
     "answer_sense": "başla, devam et; öne geç",
     "answer_syn": "",
     "distractor_verbs": [
-      "moved",
-      "pushed",
+      "looked",
+      "planned",
       "came"
     ],
     "distractor_particles": [
@@ -8035,7 +7980,7 @@
     "answer_sense": "öne geç, ilerle, sivril",
     "answer_syn": "",
     "distractor_verbs": [
-      "go",
+      "think",
       "paint",
       "cook"
     ],
@@ -8107,8 +8052,8 @@
     "answer_sense": "ileri git, ilerle",
     "answer_syn": "",
     "distractor_verbs": [
-      "pushed",
-      "went",
+      "read",
+      "looked",
       "stepped"
     ],
     "distractor_particles": [
@@ -8179,9 +8124,9 @@
     "answer_sense": "(azimle) ilerle, sür",
     "answer_syn": "",
     "distractor_verbs": [
-      "pressed",
-      "moved",
-      "went"
+      "planned",
+      "thought",
+      "read"
     ],
     "distractor_particles": [
       "up",
@@ -8251,7 +8196,7 @@
     "answer_sense": "önceden planla, ileriyi düşün",
     "answer_syn": "",
     "distractor_verbs": [
-      "think",
+      "push",
       "look",
       "prepare"
     ],
@@ -8318,7 +8263,7 @@
     "answer_sense": "ileriyi düşün, geleceğe bak",
     "answer_syn": "",
     "distractor_verbs": [
-      "think",
+      "move",
       "plan",
       "see"
     ],
@@ -8390,9 +8335,9 @@
     "answer_sense": "hızla ilerle, öne fırla",
     "answer_syn": "",
     "distractor_verbs": [
-      "pushed",
-      "pressed",
-      "moved"
+      "thought",
+      "read",
+      "looked"
     ],
     "distractor_particles": [
       "up",
@@ -8452,9 +8397,9 @@
     "answer_sense": "kararlılıkla sürdür, devam et",
     "answer_syn": "",
     "distractor_verbs": [
-      "pushed",
-      "forged",
-      "moved"
+      "planned",
+      "thought",
+      "read"
     ],
     "distractor_particles": [
       "up",
@@ -8519,9 +8464,9 @@
     "answer_sense": "(yarışta) öne geç, açıl",
     "answer_syn": "",
     "distractor_verbs": [
-      "moved",
-      "got",
-      "pushed"
+      "looked",
+      "planned",
+      "thought"
     ],
     "distractor_particles": [
       "up",
@@ -8736,7 +8681,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "pushed",
-      "ordered",
+      "turned",
       "dragged"
     ],
     "distractor_particles": [
@@ -8869,8 +8814,8 @@
     "answer_sense": "boş boş takıl, dalga geç",
     "answer_syn": "",
     "distractor_verbs": [
-      "played",
-      "messed",
+      "came",
+      "brought",
       "joked"
     ],
     "distractor_particles": [
@@ -9065,8 +9010,8 @@
     "answer_sense": "oyalan, çapkınlık et; kurcala",
     "answer_syn": "",
     "distractor_verbs": [
-      "fooled",
-      "messed",
+      "showed",
+      "pushed",
       "joked"
     ],
     "distractor_particles": [
@@ -9266,7 +9211,7 @@
     "answer_sense": "oradan oraya koştur",
     "answer_syn": "",
     "distractor_verbs": [
-      "rushed",
+      "orderred",
       "walked",
       "chased"
     ],
@@ -9410,8 +9355,8 @@
     "answer_sense": "oralarda takıl, bekle",
     "answer_syn": "",
     "distractor_verbs": [
-      "hung",
-      "waited",
+      "passed",
+      "threw",
       "moved"
     ],
     "distractor_particles": [
@@ -9483,7 +9428,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "spent",
-      "tossed",
+      "swung",
       "passed"
     ],
     "distractor_particles": [
@@ -9628,7 +9573,7 @@
     "distractor_verbs": [
       "pushed",
       "walked",
-      "got"
+      "turned"
     ],
     "distractor_particles": [
       "up",
@@ -9770,8 +9715,8 @@
     "answer_sense": "çevresine topla(n), etrafına üşüş",
     "answer_syn": "",
     "distractor_verbs": [
-      "crowded",
-      "flocked",
+      "came",
+      "brought",
       "stood"
     ],
     "distractor_particles": [
@@ -9837,9 +9782,9 @@
     "answer_sense": "(kalabalık) amaçsız dolan",
     "answer_syn": "",
     "distractor_verbs": [
-      "walked",
-      "wandered",
-      "moved"
+      "showed",
+      "pushed",
+      "orderred"
     ],
     "distractor_particles": [
       "up",
@@ -9899,7 +9844,7 @@
     "answer_sense": "elden ele dolaştır, dağıt",
     "answer_syn": "",
     "distractor_verbs": [
-      "handed",
+      "threw",
       "shared",
       "gave"
     ],
@@ -10043,9 +9988,9 @@
     "answer_sense": "bir kenara ayır, sakla; göz ardı et",
     "answer_syn": "",
     "distractor_verbs": [
-      "put",
+      "brush",
       "keep",
-      "lay"
+      "wave"
     ],
     "distractor_particles": [
       "up",
@@ -10115,7 +10060,7 @@
     "answer_sense": "bir yana koy; (para) ayır; unut",
     "answer_syn": "",
     "distractor_verbs": [
-      "set",
+      "sweep",
       "cast",
       "brush"
     ],
@@ -10322,7 +10267,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "stood",
-      "moved",
+      "shoved",
       "turned"
     ],
     "distractor_particles": [
@@ -10393,8 +10338,8 @@
     "answer_sense": "bir kenara koy, bırak; sakla",
     "answer_syn": "",
     "distractor_verbs": [
-      "put",
-      "set",
+      "turned",
+      "brushed",
       "cast"
     ],
     "distractor_particles": [
@@ -10537,7 +10482,7 @@
     "answer_sense": "itip kenara çek; göz ardı et",
     "answer_syn": "",
     "distractor_verbs": [
-      "brushed",
+      "waved",
       "swept",
       "shoved"
     ],
@@ -10676,8 +10621,8 @@
     "answer_sense": "kenara çekil, yol ver",
     "answer_syn": "",
     "distractor_verbs": [
-      "stepped",
-      "stood",
+      "swept",
+      "shoved",
       "turned"
     ],
     "distractor_particles": [
@@ -11202,7 +11147,7 @@
     "answer_sense": "topla, yerine kaldır",
     "answer_syn": "",
     "distractor_verbs": [
-      "cleared",
+      "gave",
       "stored",
       "filed"
     ],
@@ -11275,7 +11220,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "ran",
-      "backed",
+      "took",
       "turned"
     ],
     "distractor_particles": [
@@ -11315,11 +11260,6 @@
       {
         "pv": "shrink from",
         "tr": "çekinmek, ürkmek",
-        "diff": ""
-      },
-      {
-        "pv": "back away",
-        "tr": "geri çekilmek, kaçınmak",
         "diff": ""
       }
     ]
@@ -11429,11 +11369,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "talk back",
-        "tr": "laf çarpmak",
-        "ex": ""
-      },
       {
         "pv": "snap back",
         "tr": "ters karşılık vermek",
@@ -11698,11 +11633,6 @@
     ],
     "family": [
       {
-        "pv": "report back",
-        "tr": "bilgi getirmek",
-        "ex": ""
-      },
-      {
         "pv": "get back to",
         "tr": "-e dönüş yapmak",
         "ex": ""
@@ -11773,11 +11703,6 @@
         "pv": "ring back",
         "tr": "geri aramak",
         "ex": ""
-      },
-      {
-        "pv": "get back to",
-        "tr": "-e geri dönmek",
-        "ex": ""
       }
     ],
     "similar": [
@@ -11831,16 +11756,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "feed back",
-        "tr": "geri bildirim vermek",
-        "ex": ""
-      },
-      {
-        "pv": "check in",
-        "tr": "durum bildirmek",
-        "ex": ""
-      },
       {
         "pv": "get back to",
         "tr": "-e dönüş yapmak",
@@ -11898,16 +11813,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "scale down",
-        "tr": "ölçek küçültmek",
-        "ex": ""
-      },
-      {
-        "pv": "cut back",
-        "tr": "kısmak",
-        "ex": ""
-      },
       {
         "pv": "pare down",
         "tr": "budayıp azaltmak",
@@ -11971,11 +11876,6 @@
         "ex": ""
       },
       {
-        "pv": "hold up",
-        "tr": "geciktirmek",
-        "ex": ""
-      },
-      {
         "pv": "put back",
         "tr": "ertelemek",
         "ex": ""
@@ -12033,16 +11933,6 @@
     ],
     "family": [
       {
-        "pv": "answer back",
-        "tr": "küstahça karşılık vermek",
-        "ex": ""
-      },
-      {
-        "pv": "snap back",
-        "tr": "ters yanıt vermek",
-        "ex": ""
-      },
-      {
         "pv": "hit back",
         "tr": "karşılık vermek",
         "ex": ""
@@ -12078,7 +11968,7 @@
     "answer_sense": "zihni geriye götürmek, geçmişi anmak",
     "answer_syn": "",
     "distractor_verbs": [
-      "thought",
+      "gave",
       "brought",
       "turned"
     ],
@@ -12140,8 +12030,8 @@
     "answer_sense": "gözyaşını veya duygusunu tutmak, yutmak",
     "answer_syn": "",
     "distractor_verbs": [
-      "fought",
-      "held",
+      "paid",
+      "called",
       "kept"
     ],
     "distractor_particles": [
@@ -12259,9 +12149,9 @@
     "answer_sense": "ürküp geri çekilmek",
     "answer_syn": "",
     "distractor_verbs": [
-      "stepped",
-      "pulled",
-      "moved"
+      "answered",
+      "set",
+      "cut"
     ],
     "distractor_particles": [
       "up",
@@ -12359,11 +12249,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "go back",
-        "tr": "geçmişe dayanmak",
-        "diff": ""
-      },
       {
         "pv": "call back",
         "tr": "anımsatmak",
@@ -12507,7 +12392,7 @@
     "answer_sense": "karşı çıkmak, direnç göstermek",
     "answer_syn": "",
     "distractor_verbs": [
-      "fought",
+      "won",
       "stood",
       "spoke"
     ],
@@ -12631,7 +12516,7 @@
     "answer_sense": "içeceği bir dikişte içmek, kafaya dikmek",
     "answer_syn": "",
     "distractor_verbs": [
-      "knocked",
+      "gave",
       "drank",
       "tossed"
     ],
@@ -12681,7 +12566,7 @@
     "verb": "back",
     "particle": "down",
     "pv": "back down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -12743,7 +12628,7 @@
     "verb": "bear",
     "particle": "down",
     "pv": "bear down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -12800,7 +12685,7 @@
     "verb": "bring",
     "particle": "down",
     "pv": "bring down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -12862,7 +12747,7 @@
     "verb": "come",
     "particle": "down",
     "pv": "come down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -12924,7 +12809,7 @@
     "verb": "die",
     "particle": "down",
     "pv": "die down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -12981,7 +12866,7 @@
     "verb": "get",
     "particle": "down",
     "pv": "get down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13043,7 +12928,7 @@
     "verb": "go",
     "particle": "down",
     "pv": "go down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -13105,7 +12990,7 @@
     "verb": "hand",
     "particle": "down",
     "pv": "hand down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -13167,7 +13052,7 @@
     "verb": "hold",
     "particle": "down",
     "pv": "hold down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13229,7 +13114,7 @@
     "verb": "knock",
     "particle": "down",
     "pv": "knock down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13286,7 +13171,7 @@
     "verb": "set",
     "particle": "down",
     "pv": "set down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13353,7 +13238,7 @@
     "verb": "shoot",
     "particle": "down",
     "pv": "shoot down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13410,7 +13295,7 @@
     "verb": "sit",
     "particle": "down",
     "pv": "sit down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A1",
@@ -13467,7 +13352,7 @@
     "verb": "take",
     "particle": "down",
     "pv": "take down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13529,7 +13414,7 @@
     "verb": "tear",
     "particle": "down",
     "pv": "tear down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13586,7 +13471,7 @@
     "verb": "track",
     "particle": "down",
     "pv": "track down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13638,7 +13523,7 @@
     "verb": "wash",
     "particle": "down",
     "pv": "wash down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13700,7 +13585,7 @@
     "verb": "wear",
     "particle": "down",
     "pv": "wear down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -13757,7 +13642,7 @@
     "verb": "weigh",
     "particle": "down",
     "pv": "weigh down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -13814,7 +13699,7 @@
     "verb": "water",
     "particle": "down",
     "pv": "water down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -13866,7 +13751,7 @@
     "verb": "burn",
     "particle": "down",
     "pv": "burn down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -13923,7 +13808,7 @@
     "verb": "choke",
     "particle": "down",
     "pv": "choke down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -13980,7 +13865,7 @@
     "verb": "close",
     "particle": "down",
     "pv": "close down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14037,7 +13922,7 @@
     "verb": "cool",
     "particle": "down",
     "pv": "cool down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -14055,7 +13940,7 @@
     ],
     "distractor_particles": [
       "up",
-      "off",
+      "over",
       "out"
     ],
     "tokens": [
@@ -14089,7 +13974,7 @@
     "verb": "count",
     "particle": "down",
     "pv": "count down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -14146,7 +14031,7 @@
     "verb": "hunker",
     "particle": "down",
     "pv": "hunker down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -14208,7 +14093,7 @@
     "verb": "live",
     "particle": "down",
     "pv": "live down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -14265,7 +14150,7 @@
     "verb": "narrow",
     "particle": "down",
     "pv": "narrow down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14327,7 +14212,7 @@
     "verb": "nail",
     "particle": "down",
     "pv": "nail down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -14389,7 +14274,7 @@
     "verb": "gun",
     "particle": "down",
     "pv": "gun down",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -14438,20 +14323,14 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "shoot down",
-        "tr": "vuran/düşüren (uçak vb.)",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "breathe_in",
     "verb": "breathe",
     "particle": "in",
     "pv": "breathe in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -14503,7 +14382,7 @@
     "verb": "bring",
     "particle": "in",
     "pv": "bring in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14565,7 +14444,7 @@
     "verb": "call",
     "particle": "in",
     "pv": "call in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14627,7 +14506,7 @@
     "verb": "cash",
     "particle": "in",
     "pv": "cash in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -14679,7 +14558,7 @@
     "verb": "chip",
     "particle": "in",
     "pv": "chip in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14731,7 +14610,7 @@
     "verb": "come",
     "particle": "in",
     "pv": "come in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A1",
@@ -14793,7 +14672,7 @@
     "verb": "cut",
     "particle": "in",
     "pv": "cut in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14855,7 +14734,7 @@
     "verb": "dig",
     "particle": "in",
     "pv": "dig in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14912,7 +14791,7 @@
     "verb": "fit",
     "particle": "in",
     "pv": "fit in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -14964,7 +14843,7 @@
     "verb": "get",
     "particle": "in",
     "pv": "get in",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -15462,11 +15341,6 @@
         "pv": "draw in",
         "tr": "yanaşmak (tren)",
         "diff": ""
-      },
-      {
-        "pv": "pull up",
-        "tr": "aracı durdurmak",
-        "diff": ""
       }
     ]
   },
@@ -15666,7 +15540,7 @@
     "verb": "break",
     "particle": "off",
     "pv": "break off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -15738,7 +15612,7 @@
     "verb": "bring",
     "particle": "off",
     "pv": "bring off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -15805,7 +15679,7 @@
     "verb": "carry",
     "particle": "off",
     "pv": "carry off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -15877,7 +15751,7 @@
     "verb": "come",
     "particle": "off",
     "pv": "come off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -15949,7 +15823,7 @@
     "verb": "doze",
     "particle": "off",
     "pv": "doze off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16006,7 +15880,7 @@
     "verb": "fight",
     "particle": "off",
     "pv": "fight off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16063,7 +15937,7 @@
     "verb": "finish",
     "particle": "off",
     "pv": "finish off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16080,7 +15954,7 @@
       "stayed"
     ],
     "distractor_particles": [
-      "up",
+      "with",
       "out",
       "on"
     ],
@@ -16125,7 +15999,7 @@
     "verb": "give",
     "particle": "off",
     "pv": "give off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16192,7 +16066,7 @@
     "verb": "hold",
     "particle": "off",
     "pv": "hold off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16264,7 +16138,7 @@
     "verb": "keep",
     "particle": "off",
     "pv": "keep off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -16331,7 +16205,7 @@
     "verb": "kick",
     "particle": "off",
     "pv": "kick off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16403,7 +16277,7 @@
     "verb": "knock",
     "particle": "off",
     "pv": "knock off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16480,7 +16354,7 @@
     "verb": "let",
     "particle": "off",
     "pv": "let off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16552,7 +16426,7 @@
     "verb": "live",
     "particle": "off",
     "pv": "live off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16614,7 +16488,7 @@
     "verb": "log",
     "particle": "off",
     "pv": "log off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A2",
@@ -16676,7 +16550,7 @@
     "verb": "nod",
     "particle": "off",
     "pv": "nod off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16733,7 +16607,7 @@
     "verb": "pull",
     "particle": "off",
     "pv": "pull off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16805,7 +16679,7 @@
     "verb": "ring",
     "particle": "off",
     "pv": "ring off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16867,7 +16741,7 @@
     "verb": "round",
     "particle": "off",
     "pv": "round off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -16934,7 +16808,7 @@
     "verb": "rip",
     "particle": "off",
     "pv": "rip off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17006,7 +16880,7 @@
     "verb": "ward",
     "particle": "off",
     "pv": "ward off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -17058,7 +16932,7 @@
     "verb": "laugh",
     "particle": "off",
     "pv": "laugh off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -17110,7 +16984,7 @@
     "verb": "brush",
     "particle": "off",
     "pv": "brush off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -17162,7 +17036,7 @@
     "verb": "ease",
     "particle": "off",
     "pv": "ease off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17214,7 +17088,7 @@
     "verb": "fend",
     "particle": "off",
     "pv": "fend off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -17266,7 +17140,7 @@
     "verb": "block",
     "particle": "off",
     "pv": "block off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17318,7 +17192,7 @@
     "verb": "close",
     "particle": "off",
     "pv": "close off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17375,7 +17249,7 @@
     "verb": "cool",
     "particle": "off",
     "pv": "cool off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17427,7 +17301,7 @@
     "verb": "mark",
     "particle": "off",
     "pv": "mark off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17479,7 +17353,7 @@
     "verb": "sign",
     "particle": "off",
     "pv": "sign off",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17536,7 +17410,7 @@
     "verb": "bring",
     "particle": "on",
     "pv": "bring on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17598,7 +17472,7 @@
     "verb": "call",
     "particle": "on",
     "pv": "call on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17665,7 +17539,7 @@
     "verb": "catch",
     "particle": "on",
     "pv": "catch on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17727,7 +17601,7 @@
     "verb": "come",
     "particle": "on",
     "pv": "come on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A2",
@@ -17794,7 +17668,7 @@
     "verb": "draw",
     "particle": "on",
     "pv": "draw on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -17851,7 +17725,7 @@
     "verb": "drag",
     "particle": "on",
     "pv": "drag on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -17903,7 +17777,7 @@
     "verb": "hang",
     "particle": "on",
     "pv": "hang on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A2",
@@ -17965,7 +17839,7 @@
     "verb": "hit",
     "particle": "on",
     "pv": "hit on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18027,7 +17901,7 @@
     "verb": "lead",
     "particle": "on",
     "pv": "lead on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18084,7 +17958,7 @@
     "verb": "look",
     "particle": "on",
     "pv": "look on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -18146,7 +18020,7 @@
     "verb": "act",
     "particle": "on",
     "pv": "act on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -18203,7 +18077,7 @@
     "verb": "bank",
     "particle": "on",
     "pv": "bank on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -18255,7 +18129,7 @@
     "verb": "build",
     "particle": "on",
     "pv": "build on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -18307,7 +18181,7 @@
     "verb": "dote",
     "particle": "on",
     "pv": "dote on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18369,7 +18243,7 @@
     "verb": "embark",
     "particle": "on",
     "pv": "embark on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18431,7 +18305,7 @@
     "verb": "frown",
     "particle": "on",
     "pv": "frown on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18493,7 +18367,7 @@
     "verb": "gain",
     "particle": "on",
     "pv": "gain on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18542,20 +18416,14 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "catch up with",
-        "tr": "yetişmek, yakalamak",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "pick_on",
     "verb": "pick",
     "particle": "on",
     "pv": "pick on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -18612,7 +18480,7 @@
     "verb": "prey",
     "particle": "on",
     "pv": "prey on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18674,7 +18542,7 @@
     "verb": "spur",
     "particle": "on",
     "pv": "spur on",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -18736,7 +18604,7 @@
     "verb": "bring",
     "particle": "out",
     "pv": "bring out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -18808,7 +18676,7 @@
     "verb": "break",
     "particle": "out",
     "pv": "break out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -18875,7 +18743,7 @@
     "verb": "cross",
     "particle": "out",
     "pv": "cross out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -18937,7 +18805,7 @@
     "verb": "cut",
     "particle": "out",
     "pv": "cut out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19004,7 +18872,7 @@
     "verb": "die",
     "particle": "out",
     "pv": "die out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19061,7 +18929,7 @@
     "verb": "dry",
     "particle": "out",
     "pv": "dry out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19118,7 +18986,7 @@
     "verb": "eat",
     "particle": "out",
     "pv": "eat out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A2",
@@ -19175,7 +19043,7 @@
     "verb": "fall",
     "particle": "out",
     "pv": "fall out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19242,7 +19110,7 @@
     "verb": "get",
     "particle": "out",
     "pv": "get out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A2",
@@ -19314,7 +19182,7 @@
     "verb": "hold",
     "particle": "out",
     "pv": "hold out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19386,7 +19254,7 @@
     "verb": "iron",
     "particle": "out",
     "pv": "iron out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -19443,7 +19311,7 @@
     "verb": "keep",
     "particle": "out",
     "pv": "keep out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -19505,7 +19373,7 @@
     "verb": "knock",
     "particle": "out",
     "pv": "knock out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19572,7 +19440,7 @@
     "verb": "lay",
     "particle": "out",
     "pv": "lay out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19629,7 +19497,7 @@
     "verb": "let",
     "particle": "out",
     "pv": "let out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19696,7 +19564,7 @@
     "verb": "move",
     "particle": "out",
     "pv": "move out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -19758,7 +19626,7 @@
     "verb": "opt",
     "particle": "out",
     "pv": "opt out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19810,7 +19678,7 @@
     "verb": "pass",
     "particle": "out",
     "pv": "pass out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -19877,7 +19745,7 @@
     "verb": "pick",
     "particle": "out",
     "pv": "pick out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -19934,7 +19802,7 @@
     "verb": "print",
     "particle": "out",
     "pv": "print out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -19996,7 +19864,7 @@
     "verb": "pull",
     "particle": "out",
     "pv": "pull out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20068,7 +19936,7 @@
     "verb": "read",
     "particle": "out",
     "pv": "read out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -20125,7 +19993,7 @@
     "verb": "rule",
     "particle": "out",
     "pv": "rule out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20182,7 +20050,7 @@
     "verb": "sell",
     "particle": "out",
     "pv": "sell out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20239,7 +20107,7 @@
     "verb": "set",
     "particle": "out",
     "pv": "set out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20298,11 +20166,6 @@
         "pv": "depart",
         "tr": "ayrılmak, hareket etmek",
         "diff": ""
-      },
-      {
-        "pv": "set off",
-        "tr": "yola çıkmak",
-        "diff": ""
       }
     ]
   },
@@ -20311,7 +20174,7 @@
     "verb": "spell",
     "particle": "out",
     "pv": "spell out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20383,7 +20246,7 @@
     "verb": "spread",
     "particle": "out",
     "pv": "spread out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20450,7 +20313,7 @@
     "verb": "stick",
     "particle": "out",
     "pv": "stick out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20512,7 +20375,7 @@
     "verb": "stretch",
     "particle": "out",
     "pv": "stretch out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20566,20 +20429,14 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "lie down",
-        "tr": "uzanmak",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "take_out",
     "verb": "take",
     "particle": "out",
     "pv": "take out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -20651,7 +20508,7 @@
     "verb": "throw",
     "particle": "out",
     "pv": "throw out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20718,7 +20575,7 @@
     "verb": "try",
     "particle": "out",
     "pv": "try out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20775,7 +20632,7 @@
     "verb": "wear",
     "particle": "out",
     "pv": "wear out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20837,7 +20694,7 @@
     "verb": "wipe",
     "particle": "out",
     "pv": "wipe out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -20894,7 +20751,7 @@
     "verb": "back",
     "particle": "out",
     "pv": "back out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -20956,7 +20813,7 @@
     "verb": "black",
     "particle": "out",
     "pv": "black out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -21008,7 +20865,7 @@
     "verb": "burn",
     "particle": "out",
     "pv": "burn out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21065,7 +20922,7 @@
     "verb": "chicken",
     "particle": "out",
     "pv": "chicken out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21114,20 +20971,14 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "back out",
-        "tr": "vazgeçmek",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "drown_out",
     "verb": "drown",
     "particle": "out",
     "pv": "drown out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21179,7 +21030,7 @@
     "verb": "help",
     "particle": "out",
     "pv": "help out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -21231,7 +21082,7 @@
     "verb": "bail",
     "particle": "out",
     "pv": "bail out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21283,7 +21134,7 @@
     "verb": "bow",
     "particle": "out",
     "pv": "bow out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21335,7 +21186,7 @@
     "verb": "branch",
     "particle": "out",
     "pv": "branch out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21387,7 +21238,7 @@
     "verb": "churn",
     "particle": "out",
     "pv": "churn out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21439,7 +21290,7 @@
     "verb": "dine",
     "particle": "out",
     "pv": "dine out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -21491,7 +21342,7 @@
     "verb": "flesh",
     "particle": "out",
     "pv": "flesh out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21553,7 +21404,7 @@
     "verb": "map",
     "particle": "out",
     "pv": "map out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21615,7 +21466,7 @@
     "verb": "max",
     "particle": "out",
     "pv": "max out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21677,7 +21528,7 @@
     "verb": "phase",
     "particle": "out",
     "pv": "phase out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -21729,7 +21580,7 @@
     "verb": "pig",
     "particle": "out",
     "pv": "pig out",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -22204,11 +22055,6 @@
     ],
     "similar": [
       {
-        "pv": "pass out",
-        "tr": "bayılmak",
-        "diff": ""
-      },
-      {
         "pv": "fall down",
         "tr": "düşmek",
         "diff": ""
@@ -22273,11 +22119,6 @@
       {
         "pv": "look into",
         "tr": "incelemek",
-        "diff": ""
-      },
-      {
-        "pv": "go over",
-        "tr": "gözden geçirmek",
         "diff": ""
       }
     ]
@@ -22559,7 +22400,7 @@
     "distractor_verbs": [
       "broke",
       "pushed",
-      "carried"
+      "fell"
     ],
     "distractor_particles": [
       "up",
@@ -23096,7 +22937,7 @@
     "verb": "team",
     "particle": "up",
     "pv": "team up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23148,7 +22989,7 @@
     "verb": "wrap",
     "particle": "up",
     "pv": "wrap up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -23215,7 +23056,7 @@
     "verb": "screw",
     "particle": "up",
     "pv": "screw up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23272,7 +23113,7 @@
     "verb": "stir",
     "particle": "up",
     "pv": "stir up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23329,7 +23170,7 @@
     "verb": "hang",
     "particle": "up",
     "pv": "hang up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A2",
@@ -23396,7 +23237,7 @@
     "verb": "call",
     "particle": "up",
     "pv": "call up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23463,7 +23304,7 @@
     "verb": "hurry",
     "particle": "up",
     "pv": "hurry up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "A2",
@@ -23515,7 +23356,7 @@
     "verb": "wash",
     "particle": "up",
     "pv": "wash up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -23582,7 +23423,7 @@
     "verb": "dress",
     "particle": "up",
     "pv": "dress up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -23639,7 +23480,7 @@
     "verb": "save",
     "particle": "up",
     "pv": "save up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -23691,7 +23532,7 @@
     "verb": "gang",
     "particle": "up",
     "pv": "gang up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23743,7 +23584,7 @@
     "verb": "pop",
     "particle": "up",
     "pv": "pop up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -23805,7 +23646,7 @@
     "verb": "fix",
     "particle": "up",
     "pv": "fix up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23862,7 +23703,7 @@
     "verb": "free",
     "particle": "up",
     "pv": "free up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23924,7 +23765,7 @@
     "verb": "open",
     "particle": "up",
     "pv": "open up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -23981,7 +23822,7 @@
     "verb": "lock",
     "particle": "up",
     "pv": "lock up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24043,7 +23884,7 @@
     "verb": "bottle",
     "particle": "up",
     "pv": "bottle up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -24105,7 +23946,7 @@
     "verb": "buckle",
     "particle": "up",
     "pv": "buckle up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -24157,7 +23998,7 @@
     "verb": "cover",
     "particle": "up",
     "pv": "cover up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24209,7 +24050,7 @@
     "verb": "crop",
     "particle": "up",
     "pv": "crop up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24258,20 +24099,14 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "pop up",
-        "tr": "aniden belirmek",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "do_up",
     "verb": "do",
     "particle": "up",
     "pv": "do up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24343,7 +24178,7 @@
     "verb": "dry",
     "particle": "up",
     "pv": "dry up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24400,7 +24235,7 @@
     "verb": "ease",
     "particle": "up",
     "pv": "ease up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24457,7 +24292,7 @@
     "verb": "eat",
     "particle": "up",
     "pv": "eat up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -24524,7 +24359,7 @@
     "verb": "fill",
     "particle": "up",
     "pv": "fill up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -24581,7 +24416,7 @@
     "verb": "heat",
     "particle": "up",
     "pv": "heat up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -24638,7 +24473,7 @@
     "verb": "hook",
     "particle": "up",
     "pv": "hook up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24690,7 +24525,7 @@
     "verb": "light",
     "particle": "up",
     "pv": "light up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -24747,7 +24582,7 @@
     "verb": "mess",
     "particle": "up",
     "pv": "mess up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24804,7 +24639,7 @@
     "verb": "mount",
     "particle": "up",
     "pv": "mount up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24856,7 +24691,7 @@
     "verb": "mop",
     "particle": "up",
     "pv": "mop up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24908,7 +24743,7 @@
     "verb": "patch",
     "particle": "up",
     "pv": "patch up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -24960,7 +24795,7 @@
     "verb": "perk",
     "particle": "up",
     "pv": "perk up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25012,7 +24847,7 @@
     "verb": "pile",
     "particle": "up",
     "pv": "pile up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25069,7 +24904,7 @@
     "verb": "prop",
     "particle": "up",
     "pv": "prop up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25121,7 +24956,7 @@
     "verb": "round",
     "particle": "up",
     "pv": "round up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25183,7 +25018,7 @@
     "verb": "scoop",
     "particle": "up",
     "pv": "scoop up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25235,7 +25070,7 @@
     "verb": "shake",
     "particle": "up",
     "pv": "shake up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "C1",
@@ -25297,7 +25132,7 @@
     "verb": "shut",
     "particle": "up",
     "pv": "shut up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -25354,7 +25189,7 @@
     "verb": "size",
     "particle": "up",
     "pv": "size up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25406,7 +25241,7 @@
     "verb": "blow",
     "particle": "up",
     "pv": "blow up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -25483,7 +25318,7 @@
     "verb": "throw",
     "particle": "up",
     "pv": "throw up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -25545,7 +25380,7 @@
     "verb": "tear",
     "particle": "up",
     "pv": "tear up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25612,7 +25447,7 @@
     "verb": "hold",
     "particle": "up",
     "pv": "hold up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25684,7 +25519,7 @@
     "verb": "use",
     "particle": "up",
     "pv": "use up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -25741,7 +25576,7 @@
     "verb": "own",
     "particle": "up",
     "pv": "own up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25808,7 +25643,7 @@
     "verb": "add",
     "particle": "up",
     "pv": "add up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -25870,7 +25705,7 @@
     "verb": "sign",
     "particle": "up",
     "pv": "sign up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -25937,7 +25772,7 @@
     "verb": "line",
     "particle": "up",
     "pv": "line up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B1",
@@ -26009,7 +25844,7 @@
     "verb": "split",
     "particle": "up",
     "pv": "split up",
-    "sep": "",
+    "sep": "intr",
     "obj_type": "none",
     "obj": "",
     "level": "B2",
@@ -26150,12 +25985,12 @@
     "answer_sense": "boş boş oyalan, dalga geç",
     "answer_syn": "",
     "distractor_verbs": [
-      "played",
+      "brought",
       "joked",
-      "messed"
+      "came"
     ],
     "distractor_particles": [
-      "around",
+      "with",
       "away",
       "off"
     ],
@@ -26398,8 +26233,8 @@
     "answer_sense": "aptal aptal takıl, oyalan",
     "answer_syn": "",
     "distractor_verbs": [
-      "played",
-      "messed",
+      "talked",
+      "turned",
       "dallied"
     ],
     "distractor_particles": [
@@ -26460,7 +26295,7 @@
       "idled"
     ],
     "distractor_particles": [
-      "around",
+      "off",
       "away",
       "over"
     ],
@@ -26646,8 +26481,8 @@
     "answer_sense": "başıboş dolaş, gezin",
     "answer_syn": "",
     "distractor_verbs": [
-      "roaming",
-      "walking",
+      "bringing",
+      "coming",
       "strolling"
     ],
     "distractor_particles": [
@@ -26832,7 +26667,7 @@
     "answer_sense": "peşine düş; ardından gel; izle",
     "answer_syn": "",
     "distractor_verbs": [
-      "went",
+      "looked",
       "ran",
       "followed"
     ],
@@ -27003,11 +26838,6 @@
         "pv": "crave",
         "tr": "şiddetle arzulamak, canı çekmek",
         "diff": ""
-      },
-      {
-        "pv": "long for",
-        "tr": "hasretini çekmek",
-        "diff": ""
       }
     ]
   },
@@ -27123,11 +26953,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "call after",
-        "tr": "arkasından seslenmek; adını -den koymak",
-        "diff": ""
-      },
       {
         "pv": "title after",
         "tr": "adını -den almak/koymak",
@@ -27365,11 +27190,6 @@
     ],
     "family": [
       {
-        "pv": "turn against",
-        "tr": "-e karşı olmak",
-        "ex": ""
-      },
-      {
         "pv": "run counter to",
         "tr": "-e ters düşmek",
         "ex": ""
@@ -27437,11 +27257,6 @@
         "ex": ""
       },
       {
-        "pv": "blame for",
-        "tr": "-den dolayı suçlamak",
-        "ex": ""
-      },
-      {
         "pv": "pin on",
         "tr": "suçu -e yıkmak",
         "ex": ""
@@ -27501,16 +27316,6 @@
       {
         "pv": "weigh against",
         "tr": "aleyhine tartmak",
-        "ex": ""
-      },
-      {
-        "pv": "work against",
-        "tr": "aleyhine çalışmak",
-        "ex": ""
-      },
-      {
-        "pv": "tell against",
-        "tr": "aleyhine olmak",
         "ex": ""
       }
     ],
@@ -27574,11 +27379,6 @@
         "pv": "set against",
         "tr": "-e karşı koymak",
         "ex": ""
-      },
-      {
-        "pv": "balance against",
-        "tr": "-e karşı tartmak",
-        "ex": ""
       }
     ],
     "similar": [
@@ -27612,7 +27412,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "move",
-      "go",
+      "count",
       "guard"
     ],
     "distractor_particles": [
@@ -27632,11 +27432,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "go against",
-        "tr": "karşı çıkmak",
-        "ex": ""
-      },
       {
         "pv": "set against",
         "tr": "-e karşı kışkırtmak",
@@ -27700,18 +27495,8 @@
     ],
     "family": [
       {
-        "pv": "protect against",
-        "tr": "-e karşı korumak",
-        "ex": ""
-      },
-      {
         "pv": "watch out for",
         "tr": "-e dikkat etmek",
-        "ex": ""
-      },
-      {
-        "pv": "ward off",
-        "tr": "savuşturmak",
         "ex": ""
       }
     ],
@@ -27767,11 +27552,6 @@
     ],
     "family": [
       {
-        "pv": "count against",
-        "tr": "aleyhine olmak",
-        "ex": ""
-      },
-      {
         "pv": "go against",
         "tr": "ters düşmek",
         "ex": ""
@@ -27813,8 +27593,8 @@
     "answer_syn": "",
     "distractor_verbs": [
       "come",
-      "go",
-      "stand"
+      "hold",
+      "play"
     ],
     "distractor_particles": [
       "for",
@@ -27836,11 +27616,6 @@
       {
         "pv": "go up against",
         "tr": "karşısına çıkmak",
-        "ex": ""
-      },
-      {
-        "pv": "stand against",
-        "tr": "-e karşı aday olmak",
         "ex": ""
       },
       {
@@ -27900,11 +27675,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "protect against",
-        "tr": "-e karşı korumak",
-        "ex": ""
-      },
       {
         "pv": "guard against",
         "tr": "-e karşı tedbir almak",
@@ -27968,18 +27738,8 @@
     ],
     "family": [
       {
-        "pv": "guard against",
-        "tr": "-e karşı tedbir almak",
-        "ex": ""
-      },
-      {
         "pv": "defend against",
         "tr": "-e karşı savunmak",
-        "ex": ""
-      },
-      {
-        "pv": "shield from",
-        "tr": "-den korumak",
         "ex": ""
       }
     ],
@@ -29522,8 +29282,8 @@
     "answer_syn": "",
     "distractor_verbs": [
       "passed",
-      "drifted",
-      "moved"
+      "swung",
+      "turned"
     ],
     "distractor_particles": [
       "about",
@@ -29578,9 +29338,9 @@
     "answer_sense": "gürültülü şakalaş, hoyratça oyna",
     "answer_syn": "",
     "distractor_verbs": [
-      "playing",
-      "fooling",
-      "messing"
+      "coming",
+      "bringing",
+      "showing"
     ],
     "distractor_particles": [
       "about",
@@ -29618,11 +29378,6 @@
     ],
     "similar": [
       {
-        "pv": "fool around",
-        "tr": "boş boş takılmak, şakalaşmak",
-        "diff": ""
-      },
-      {
         "pv": "clown around",
         "tr": "palyaçoluk yapmak, şebeklik etmek",
         "diff": ""
@@ -29646,9 +29401,9 @@
     "answer_sense": "(bir yerlerde) sürt, gezin; hırpala",
     "answer_syn": "",
     "distractor_verbs": [
-      "walking",
+      "pushing",
       "running",
-      "moving"
+      "orderring"
     ],
     "distractor_particles": [
       "about",
@@ -29812,18 +29567,7 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "snoop around",
-        "tr": "sinsice etrafı karıştırmak",
-        "diff": ""
-      },
-      {
-        "pv": "pry into",
-        "tr": "özelini kurcalamak",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "root_around",
@@ -29942,11 +29686,6 @@
         "pv": "rearrange",
         "tr": "yeniden düzenlemek",
         "diff": ""
-      },
-      {
-        "pv": "move around",
-        "tr": "yerini değiştirmek",
-        "diff": ""
       }
     ]
   },
@@ -30005,11 +29744,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "nose around",
-        "tr": "burnunu sokmak, aramak",
-        "diff": ""
-      },
       {
         "pv": "pry",
         "tr": "dikizlemek, kurcalamak",
@@ -30577,7 +30311,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "shouted",
-      "barked",
+      "looked",
       "yelled"
     ],
     "distractor_particles": [
@@ -30822,7 +30556,7 @@
     "answer_sense": "(para/zamanı) çarçur etmek, har vurup harman savurmak",
     "answer_syn": "waste bit by bit",
     "distractor_verbs": [
-      "threw",
+      "kept",
       "passed",
       "gave"
     ],
@@ -30915,11 +30649,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "chip away",
-        "tr": "azar azar yontmak",
-        "ex": ""
-      },
       {
         "pv": "plug away",
         "tr": "sebatla çalışmak",
@@ -31029,11 +30758,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "while away",
-        "tr": "vakit geçirmek",
-        "ex": ""
-      },
       {
         "pv": "fritter away",
         "tr": "çarçur etmek",
@@ -31601,7 +31325,7 @@
     "answer_sense": "süpürüp götürmek / yok etmek",
     "answer_syn": "remove forcefully",
     "distractor_verbs": [
-      "washed",
+      "turned",
       "carried",
       "pulled"
     ],
@@ -31817,7 +31541,7 @@
     "answer_sense": "(ses/işık) yavaşça kesilmek / sönmek",
     "answer_syn": "fade to silence",
     "distractor_verbs": [
-      "faded",
+      "sent",
       "stopped",
       "quieted"
     ],
@@ -31847,11 +31571,6 @@
         "pv": "die out",
         "tr": "nesli tükenmek",
         "ex": "Dinosaurs died out millions of years ago."
-      },
-      {
-        "pv": "die down",
-        "tr": "yatışmak / ateşi/gürültüsü azalmak",
-        "ex": "Wait until the excitement dies down."
       },
       {
         "pv": "fade away",
@@ -31890,7 +31609,7 @@
     "answer_syn": "move away slowly",
     "distractor_verbs": [
       "moved",
-      "floated",
+      "locked",
       "walked"
     ],
     "distractor_particles": [
@@ -31919,11 +31638,6 @@
         "pv": "drift off",
         "tr": "uykuya dalmak",
         "ex": "He drifted off while watching television."
-      },
-      {
-        "pv": "drift apart",
-        "tr": "birbirinden kopmak / uzaklaşmak",
-        "ex": "They drifted apart after university."
       },
       {
         "pv": "float away",
@@ -32201,7 +31915,7 @@
     "distractor_verbs": [
       "sold",
       "paid",
-      "took"
+      "called"
     ],
     "distractor_particles": [
       "out",
@@ -32282,7 +31996,7 @@
     "answer_sense": "geldiği yoldan geri dönmek",
     "answer_syn": "reverse direction",
     "distractor_verbs": [
-      "turned",
+      "answered",
       "walked",
       "headed"
     ],
@@ -32694,7 +32408,7 @@
     "answer_syn": "recline",
     "distractor_verbs": [
       "sat",
-      "leaned",
+      "set",
       "fell"
     ],
     "distractor_particles": [
@@ -33352,7 +33066,7 @@
     ],
     "distractor_particles": [
       "away",
-      "aside",
+      "up",
       "off"
     ],
     "tokens": [
@@ -33414,7 +33128,7 @@
     "answer_syn": "drop in casually",
     "distractor_verbs": [
       "came",
-      "dropped",
+      "got",
       "ran"
     ],
     "distractor_particles": [
@@ -33500,11 +33214,6 @@
         "pv": "adhere to",
         "tr": "-e riayet etmek",
         "ex": ""
-      },
-      {
-        "pv": "comply with",
-        "tr": "-e uymak",
-        "ex": ""
       }
     ],
     "similar": [
@@ -33567,16 +33276,6 @@
         "pv": "bog in",
         "tr": "çamura saplanmak",
         "ex": "The vehicle bogged in near the riverbank."
-      },
-      {
-        "pv": "slow down",
-        "tr": "yavaşlamak",
-        "ex": "Traffic slowed down near the accident site."
-      },
-      {
-        "pv": "hold up",
-        "tr": "geciktirmek",
-        "ex": "Bad weather held up our flight."
       }
     ],
     "similar": [
@@ -33635,11 +33334,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "boil over",
-        "tr": "taşmak / kontrolden çıkmak",
-        "ex": "The soup boiled over onto the stove."
-      },
       {
         "pv": "boil up",
         "tr": "demlemek / kaynatmak",
@@ -33711,11 +33405,6 @@
         "pv": "buckle under",
         "tr": "baskıya boyun eğmek",
         "ex": "He buckled under the intense pressure."
-      },
-      {
-        "pv": "knuckle down",
-        "tr": "sıkı çalışmaya başlamak",
-        "ex": "It's time to knuckle down and finish the project."
       }
     ],
     "similar": [
@@ -33775,11 +33464,6 @@
         "ex": "They clamped a wheel lock on the illegally parked car."
       },
       {
-        "pv": "crack down",
-        "tr": "sert tedbir almak",
-        "ex": "Police crack down on speeding drivers."
-      },
-      {
         "pv": "step down",
         "tr": "istifa etmek / çekilmek",
         "ex": "The CEO decided to step down."
@@ -33816,7 +33500,7 @@
     "answer_syn": "back down",
     "distractor_verbs": [
       "stepped",
-      "backed",
+      "broke",
       "walked"
     ],
     "distractor_particles": [
@@ -33850,11 +33534,6 @@
         "pv": "climb in",
         "tr": "içeri tırmanmak / girmek",
         "ex": "He climbed in through the open window."
-      },
-      {
-        "pv": "back down",
-        "tr": "geri adım atmak",
-        "ex": "Neither side was willing to back down."
       }
     ],
     "similar": [
@@ -33908,16 +33587,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "tone down",
-        "tr": "yumuşatmak / hafifletmek",
-        "ex": "He had to tone down his aggressive language."
-      },
-      {
-        "pv": "water down",
-        "tr": "etkisini azaltmak / seyreltmek",
-        "ex": "The government watered down the new regulations."
-      },
       {
         "pv": "scale down",
         "tr": "ölçeği küçültmek",
@@ -33975,16 +33644,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "face up to",
-        "tr": "kabullenmek / yüzleşmek",
-        "ex": "You must face up to the reality of the situation."
-      },
-      {
-        "pv": "stand up to",
-        "tr": "karşı koymak / dik durmak",
-        "ex": "He learned to stand up to bullies at school."
-      },
       {
         "pv": "stare down",
         "tr": "gözdağı vermek",
@@ -34047,16 +33706,6 @@
     ],
     "family": [
       {
-        "pv": "fall off",
-        "tr": "düşmek / azalmak",
-        "ex": "He fell off his bicycle."
-      },
-      {
-        "pv": "fall over",
-        "tr": "devrilmek / takılıp düşmek",
-        "ex": "She tripped and fell over the rug."
-      },
-      {
         "pv": "fall through",
         "tr": "suya düşmek (plan)",
         "ex": "Our holiday plans fell through."
@@ -34092,7 +33741,7 @@
     "answer_sense": "işaret ederek (aracı) durdurmak",
     "answer_syn": "signal to stop",
     "distractor_verbs": [
-      "waved",
+      "turned",
       "hailed",
       "called"
     ],
@@ -34117,11 +33766,6 @@
         "pv": "flag up",
         "tr": "dikkat çekmek / işaret etmek",
         "ex": "The auditor flagged up several accounting errors."
-      },
-      {
-        "pv": "wave down",
-        "tr": "el sallayarak durdurmak",
-        "ex": "She waved down a bus near the corner."
       },
       {
         "pv": "pull over",
@@ -34181,19 +33825,9 @@
     ],
     "family": [
       {
-        "pv": "track down",
-        "tr": "izini sürerek bulmak",
-        "ex": "I managed to track down an old rare book."
-      },
-      {
         "pv": "run down",
         "tr": "çarpmak / eleştirmek / bulmak",
         "ex": "She ran down the facts before the presentation."
-      },
-      {
-        "pv": "chase down",
-        "tr": "peşinden koşup yakalamak",
-        "ex": "He chased down the thief in the market."
       }
     ],
     "similar": [
@@ -34350,9 +33984,9 @@
     "answer_sense": "sesini kes(mek), sus(mak)",
     "answer_syn": "be quiet",
     "distractor_verbs": [
-      "calmed",
-      "settled",
-      "cooled"
+      "let",
+      "wrote",
+      "handed"
     ],
     "distractor_particles": [
       "out",
@@ -34407,9 +34041,9 @@
     "answer_sense": "sakinleş(mek), sessizleş(mek)",
     "answer_syn": "become calm",
     "distractor_verbs": [
-      "settled",
-      "calmed",
-      "cooled"
+      "shot",
+      "burned",
+      "broke"
     ],
     "distractor_particles": [
       "out",
@@ -34583,9 +34217,9 @@
     "answer_sense": "(öfke/heyecan) yatış(mak), sakinleş(mek)",
     "answer_syn": "calm down",
     "distractor_verbs": [
-      "cooled",
-      "quieted",
-      "settled"
+      "turned",
+      "let",
+      "wrote"
     ],
     "distractor_particles": [
       "out",
@@ -34761,7 +34395,7 @@
     "distractor_verbs": [
       "cut",
       "brought",
-      "knocked"
+      "handed"
     ],
     "distractor_particles": [
       "out",
@@ -35254,7 +34888,7 @@
     "answer_syn": "define precisely, corner",
     "distractor_verbs": [
       "tied",
-      "held",
+      "shot",
       "pushed"
     ],
     "distractor_particles": [
@@ -35556,15 +35190,9 @@
       "up"
     ],
     "tokens": [
-      "the",
-      "accountant",
-      "the",
-      "missing",
-      "funds",
-      "in",
-      "the",
-      "annual",
-      "audit"
+      "The accountant",
+      "the missing funds",
+      "in the annual audit"
     ],
     "senses": [
       {
@@ -35625,14 +35253,9 @@
       "away"
     ],
     "tokens": [
-      "they",
-      "possible",
-      "traffic",
-      "delays",
-      "when",
-      "planning",
-      "their",
-      "journey"
+      "They",
+      "possible traffic delays",
+      "when planning their journey"
     ],
     "senses": [
       {
@@ -35678,7 +35301,7 @@
     "answer_sense": "gerektirmek, talep etmek",
     "answer_syn": "",
     "distractor_verbs": [
-      "asked",
+      "stood",
       "looked",
       "cared"
     ],
@@ -35688,14 +35311,9 @@
       "off"
     ],
     "tokens": [
-      "the",
-      "urgent",
-      "crisis",
-      "immediate",
-      "action",
-      "from",
-      "the",
-      "government"
+      "The urgent crisis",
+      "immediate action",
+      "from the government"
     ],
     "senses": [
       {
@@ -35756,15 +35374,9 @@
       "out"
     ],
     "tokens": [
-      "the",
-      "devoted",
-      "nurse",
-      "the",
-      "elderly",
-      "patient",
-      "with",
-      "great",
-      "patience"
+      "The devoted nurse",
+      "the elderly patient",
+      "with great patience"
     ],
     "senses": [
       {
@@ -35820,14 +35432,9 @@
       "off"
     ],
     "tokens": [
-      "he",
-      "the",
-      "clever",
-      "scam",
-      "and",
-      "lost",
-      "his",
-      "savings"
+      "He",
+      "the clever scam",
+      "and lost his savings"
     ],
     "senses": [
       {
@@ -35888,13 +35495,9 @@
       "off"
     ],
     "tokens": [
-      "she",
-      "the",
-      "healthier",
-      "option",
-      "on",
-      "the",
-      "menu"
+      "She",
+      "the healthier option",
+      "on the menu"
     ],
     "senses": [
       {
@@ -35955,15 +35558,8 @@
       "after"
     ],
     "tokens": [
-      "after",
-      "months",
-      "of",
-      "hard",
-      "work",
-      "she",
-      "a",
-      "peaceful",
-      "vacation"
+      "After months of hard work, she",
+      "a peaceful vacation"
     ],
     "senses": [
       {
@@ -35991,11 +35587,6 @@
     ],
     "similar": [
       {
-        "pv": "yearn for",
-        "tr": "özlemini çekmek",
-        "diff": ""
-      },
-      {
         "pv": "crave for",
         "tr": "aşermek, çok istemek",
         "diff": ""
@@ -36020,7 +35611,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "went",
-      "headed",
+      "fell",
       "called"
     ],
     "distractor_particles": [
@@ -36029,15 +35620,8 @@
       "off"
     ],
     "tokens": [
-      "when",
-      "the",
-      "alarm",
-      "sounded",
-      "everyone",
-      "the",
-      "nearest",
-      "emergency",
-      "exit"
+      "When the alarm sounded, everyone",
+      "the nearest emergency exit"
     ],
     "senses": [
       {
@@ -36098,15 +35682,9 @@
       "on"
     ],
     "tokens": [
-      "the",
-      "passionate",
-      "fans",
-      "their",
-      "home",
-      "team",
-      "throughout",
-      "the",
-      "match"
+      "The passionate fans",
+      "their home team",
+      "throughout the match"
     ],
     "senses": [
       {
@@ -36157,16 +35735,8 @@
       "down"
     ],
     "tokens": [
-      "unable",
-      "to",
-      "get",
-      "the",
-      "full",
-      "amount",
-      "they",
-      "a",
-      "modest",
-      "compromise"
+      "Unable to get the full amount, they",
+      "a modest compromise"
     ],
     "senses": [
       {
@@ -36562,7 +36132,7 @@
     "answer_sense": "öne çıkmak, sorumluluk almak",
     "answer_syn": "come forward",
     "distractor_verbs": [
-      "came",
+      "brought",
       "moved",
       "pressed"
     ],
@@ -36701,7 +36271,7 @@
     "answer_sense": "(zorluklara rağmen) kararlılıkla ilerlemek",
     "answer_syn": "advance",
     "distractor_verbs": [
-      "pressed",
+      "put",
       "went",
       "moved"
     ],
@@ -36768,12 +36338,12 @@
     "answer_sense": "azimle devam etmek, yılmadan ilerlemek",
     "answer_syn": "proceed determinedly",
     "distractor_verbs": [
-      "pushed",
+      "looked",
       "went",
       "moved"
     ],
     "distractor_particles": [
-      "on",
+      "down",
       "back",
       "off"
     ],
@@ -36908,7 +36478,7 @@
     "answer_syn": "choose to join",
     "distractor_verbs": [
       "signed",
-      "joined",
+      "broke",
       "agreed"
     ],
     "distractor_particles": [
@@ -37098,7 +36668,7 @@
     "answer_sense": "el atmak, katkıda bulunmak",
     "answer_syn": "help out",
     "distractor_verbs": [
-      "chipped",
+      "filled",
       "jumped",
       "joined"
     ],
@@ -37372,7 +36942,7 @@
     "answer_syn": "register on arrival",
     "distractor_verbs": [
       "checked",
-      "logged",
+      "dropped",
       "wrote"
     ],
     "distractor_particles": [
@@ -38234,8 +37804,8 @@
     "answer_sense": "derinlemesine araştır",
     "answer_syn": "",
     "distractor_verbs": [
-      "looked",
-      "dug",
+      "ran",
+      "broke",
       "inquired"
     ],
     "distractor_particles": [
@@ -38322,15 +37892,12 @@
     ],
     "senses": [
       {
-        "en": null,
         "tr": "(birikime) el at"
       },
       {
-        "en": null,
         "tr": "-e göz at"
       },
       {
-        "en": null,
         "tr": "şöyle bir bak"
       }
     ],
@@ -39870,11 +39437,6 @@
         "ex": "The company reeled in several new clients."
       },
       {
-        "pv": "rattle off",
-        "tr": "tıkır tıkır saymak",
-        "ex": "He rattled off the statistical figures."
-      },
-      {
         "pv": "roll out",
         "tr": "piyasaya sürmek / sermek",
         "ex": "They rolled out new software updates."
@@ -39987,7 +39549,7 @@
     "answer_sense": "korkutup kaçırmak, ürkütüp uzaklaştırmak",
     "answer_syn": "frighten away",
     "distractor_verbs": [
-      "frightened",
+      "took",
       "chased",
       "driven"
     ],
@@ -40064,7 +39626,7 @@
     "answer_sense": "(bölgeye/binaya) girişi tamamen kapatmak, izole etmek",
     "answer_syn": "close off",
     "distractor_verbs": [
-      "closed",
+      "showed",
       "cordoned",
       "blocked"
     ],
@@ -40095,11 +39657,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "cordon off",
-        "tr": "şerit çekip kapatmak",
-        "ex": "Police cordoned off the crime scene."
-      },
       {
         "pv": "close off",
         "tr": "yolu/girişi kapatmak",
@@ -40141,8 +39698,8 @@
     "answer_sense": "(gaz/su/elektrik akışını veya makineyi) kapatmak, kesmek",
     "answer_syn": "turn off",
     "distractor_verbs": [
-      "turned",
-      "cut",
+      "called",
+      "put",
       "switched"
     ],
     "distractor_particles": [
@@ -40181,11 +39738,6 @@
         "pv": "shut out",
         "tr": "dışarıda bırakmak / girmesini engellemek",
         "ex": "Shut out the cold air by keeping doors closed."
-      },
-      {
-        "pv": "turn off",
-        "tr": "kapatmak (düğmeden)",
-        "ex": "Turn off the lights when you leave."
       }
     ],
     "similar": [
@@ -40218,7 +39770,7 @@
     "answer_sense": "(alkol/ağrı/yorgunluk etkisini) uyuyarak atlatmak/geçirmek",
     "answer_syn": "recover by sleeping",
     "distractor_verbs": [
-      "walked",
+      "broke",
       "worked",
       "shook"
     ],
@@ -40258,11 +39810,6 @@
         "pv": "sleep over",
         "tr": "geceyi başka yerde geçirmek",
         "ex": "My kids asked if their friend could sleep over."
-      },
-      {
-        "pv": "walk off",
-        "tr": "yürüyerek atlatmak / çekip gitmek",
-        "ex": "He walked off his anger with a quick stroll."
       }
     ],
     "similar": [
@@ -40615,7 +40162,7 @@
     "answer_syn": "turn off",
     "distractor_verbs": [
       "closed",
-      "turned",
+      "set",
       "shut"
     ],
     "distractor_particles": [
@@ -41114,7 +40661,7 @@
       "plugged"
     ],
     "distractor_particles": [
-      "in",
+      "out",
       "off",
       "up"
     ],
@@ -41218,9 +40765,9 @@
     "answer_sense": "-e güvenmek, muhtaç olmak",
     "answer_syn": "depend on",
     "distractor_verbs": [
-      "counts",
-      "reckons",
-      "leans"
+      "takes",
+      "puts",
+      "gets"
     ],
     "distractor_particles": [
       "for",
@@ -41322,8 +40869,8 @@
     "answer_sense": "karar kılmak, üzerinde uzlaşmak",
     "answer_syn": "decide upon",
     "distractor_verbs": [
-      "agreed",
-      "decided",
+      "moved",
+      "tried",
       "focused"
     ],
     "distractor_particles": [
@@ -41384,7 +40931,7 @@
       "committed"
     ],
     "distractor_particles": [
-      "up",
+      "off",
       "in",
       "with"
     ],
@@ -41571,9 +41118,9 @@
     "answer_sense": "-i (yemek olarak) yemek, -le beslenmek",
     "answer_syn": "eat as a meal",
     "distractor_verbs": [
-      "feasted",
+      "turned",
       "snacked",
-      "lived"
+      "brought"
     ],
     "distractor_particles": [
       "into",
@@ -41623,11 +41170,6 @@
         "pv": "feast on",
         "tr": "ziyafet çekmek, iştahla yemek",
         "diff": ""
-      },
-      {
-        "pv": "feed on",
-        "tr": "beslenmek",
-        "diff": ""
       }
     ]
   },
@@ -41648,7 +41190,7 @@
     "answer_sense": "-e müdahale/ihlal etmek, el uzatmak",
     "answer_syn": "intrude upon",
     "distractor_verbs": [
-      "infringes",
+      "takes",
       "impinges",
       "borders"
     ],
@@ -41695,18 +41237,7 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "infringe on",
-        "tr": "ihlal etmek, hakkına girmek",
-        "diff": ""
-      },
-      {
-        "pv": "impinge on",
-        "tr": "olumsuz etkilemek, kısıtlamak",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "happen_on",
@@ -41774,11 +41305,6 @@
     ],
     "similar": [
       {
-        "pv": "chance on",
-        "tr": "tesadüfen bulmak",
-        "diff": ""
-      },
-      {
         "pv": "run into",
         "tr": "tesadüfen karşılaşmak",
         "diff": ""
@@ -41802,8 +41328,8 @@
     "answer_sense": "(fırsata/hataya) çullanmak, atlamak",
     "answer_syn": "seize eagerly",
     "distractor_verbs": [
-      "seized",
-      "jumped",
+      "put",
+      "got",
       "leaped"
     ],
     "distractor_particles": [
@@ -41853,11 +41379,6 @@
       {
         "pv": "jump at",
         "tr": "fırsata hemen atlamak",
-        "diff": ""
-      },
-      {
-        "pv": "seize on",
-        "tr": "dört elle sarılmak",
         "diff": ""
       }
     ]
@@ -41927,11 +41448,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "ponder on",
-        "tr": "üzerine kafa yormak",
-        "diff": ""
-      },
       {
         "pv": "dwell on",
         "tr": "üzerinde takılı kalmak/düşünmek",
@@ -42018,7 +41534,7 @@
     "answer_sense": "gizlice gözetlemek, casusluk etmek",
     "answer_syn": "secretly watch",
     "distractor_verbs": [
-      "check",
+      "move",
       "keep",
       "watch"
     ],
@@ -42067,11 +41583,6 @@
     ],
     "similar": [
       {
-        "pv": "keep tabs on",
-        "tr": "yakın takipte tutmak",
-        "diff": ""
-      },
-      {
         "pv": "snoop on",
         "tr": "gizlice burnunu sokmak / gözetlemek",
         "diff": ""
@@ -42095,7 +41606,7 @@
     "answer_sense": "-den beslenip güçlenmek, serpilmek",
     "answer_syn": "flourish because of",
     "distractor_verbs": [
-      "feeds",
+      "tries",
       "grows",
       "depends"
     ],
@@ -42143,11 +41654,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "feed on",
-        "tr": "-den beslenmek/güç almak",
-        "diff": ""
-      },
       {
         "pv": "live on",
         "tr": "-le beslenmek/yaşamak",
@@ -42220,11 +41726,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "refer to",
-        "tr": "değinmek, atıfta bulunmak",
-        "diff": ""
-      },
       {
         "pv": "bring up",
         "tr": "konuyu açmak/gündeme getirmek",
@@ -42743,11 +42244,6 @@
         "ex": ""
       },
       {
-        "pv": "occur to",
-        "tr": "aklına gelmek",
-        "ex": ""
-      },
-      {
         "pv": "come to",
         "tr": "aklına gelmek",
         "ex": ""
@@ -42873,11 +42369,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "catch on",
-        "tr": "çakıp kapmak",
-        "ex": ""
-      },
       {
         "pv": "latch onto",
         "tr": "kavramak",
@@ -43326,7 +42817,7 @@
     "answer_sense": "dengelenmek / eşitlenmek",
     "answer_syn": "become level",
     "distractor_verbs": [
-      "balanced",
+      "ran",
       "matched",
       "settled"
     ],
@@ -43352,16 +42843,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "level off",
-        "tr": "dengeye gelmek",
-        "ex": ""
-      },
-      {
-        "pv": "balance out",
-        "tr": "dengelenmek",
-        "ex": ""
-      },
       {
         "pv": "smooth out",
         "tr": "pürüzleri gidermek",
@@ -43398,7 +42879,7 @@
     "answer_sense": "sudan çekip çıkarmak",
     "answer_syn": "pull out",
     "distractor_verbs": [
-      "pulled",
+      "broke",
       "took",
       "dragged"
     ],
@@ -43486,11 +42967,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "flip out",
-        "tr": "çıldırmak",
-        "ex": ""
-      },
       {
         "pv": "wig out",
         "tr": "paniğe kapılmak",
@@ -43714,7 +43190,7 @@
     "answer_syn": "shut out",
     "distractor_verbs": [
       "closed",
-      "shut",
+      "figured",
       "kept"
     ],
     "distractor_particles": [
@@ -43777,7 +43253,7 @@
     "distractor_verbs": [
       "gave",
       "handed",
-      "shelled"
+      "worked"
     ],
     "distractor_particles": [
       "back",
@@ -44067,7 +43543,7 @@
     "distractor_verbs": [
       "yelled",
       "cried",
-      "called"
+      "pointed"
     ],
     "distractor_particles": [
       "off",
@@ -44143,11 +43619,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "speak up",
-        "tr": "sesini yükseltmek (daha yüksek sesle konuşmak) / sesini duyurmak",
-        "ex": "Please speak up, we can't hear you at the back."
-      },
       {
         "pv": "speak for",
         "tr": "başkasının adına konuşmak",
@@ -44454,11 +43925,6 @@
     ],
     "family": [
       {
-        "pv": "let slip",
-        "tr": "ağzından kaçırmak",
-        "ex": ""
-      },
-      {
         "pv": "come out with",
         "tr": "pat diye söyleyivermek",
         "ex": ""
@@ -44504,7 +43970,7 @@
       "off"
     ],
     "tokens": [
-      "The yoga instructor told them to breathe in deeply and then",
+      "After breathing in deeply, she",
       "slowly"
     ],
     "senses": [
@@ -44598,7 +44064,7 @@
     "answer_sense": "etkisini yok etmek / nötrleştirmek",
     "answer_syn": "neutralize",
     "distractor_verbs": [
-      "wiped",
+      "left",
       "ruled",
       "crossed"
     ],
@@ -44779,7 +44245,7 @@
     "answer_sense": "(bir sonrakine) aktarmak / devretmek",
     "answer_syn": "transfer forward",
     "distractor_verbs": [
-      "handed",
+      "took",
       "passed",
       "moved"
     ],
@@ -44857,7 +44323,7 @@
     "answer_sense": "(sisteme/düzene) geçmek, dönüştürmek",
     "answer_syn": "switch to another system",
     "distractor_verbs": [
-      "switched",
+      "looked",
       "turned",
       "shifted"
     ],
@@ -44935,7 +44401,7 @@
       "coughed"
     ],
     "distractor_particles": [
-      "out",
+      "down",
       "away",
       "up"
     ],
@@ -45032,18 +44498,8 @@
     ],
     "similar": [
       {
-        "pv": "zone out",
-        "tr": "dalgınlaşmak / dikkati dağılmak",
-        "diff": ""
-      },
-      {
         "pv": "drift off",
         "tr": "zihnen uzaklaşmak / uykuya dalmak",
-        "diff": ""
-      },
-      {
-        "pv": "space out",
-        "tr": "dalıp gitmek",
         "diff": ""
       }
     ]
@@ -45066,7 +44522,7 @@
     "answer_syn": "postpone",
     "distractor_verbs": [
       "put",
-      "carried",
+      "got",
       "pushed"
     ],
     "distractor_particles": [
@@ -45377,7 +44833,7 @@
       "brought"
     ],
     "distractor_particles": [
-      "across",
+      "up",
       "out",
       "through"
     ],
@@ -45411,11 +44867,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "put across",
-        "tr": "fikri karşı tarafa geçirmek",
-        "diff": ""
-      },
       {
         "pv": "get across",
         "tr": "anlaşılmasını sağlamak",
@@ -45518,7 +44969,7 @@
     "answer_sense": "uzun uzun düşünmek / tartmak",
     "answer_syn": "ponder",
     "distractor_verbs": [
-      "thought",
+      "ran",
       "talked",
       "turned"
     ],
@@ -45714,11 +45165,6 @@
         "pv": "gloss over",
         "tr": "üstünkörü geçiştirmek",
         "ex": "The report glossed over the safety issues."
-      },
-      {
-        "pv": "cover up",
-        "tr": "gizlemek / örtbas etmek",
-        "ex": "They attempted to cover up the scandal."
       }
     ],
     "similar": [
@@ -46203,7 +45649,7 @@
     "answer_sense": "(zahmetsiz) kolayca geçmek, başarmak",
     "answer_syn": "",
     "distractor_verbs": [
-      "sailed",
+      "pulled",
       "glided",
       "drifted"
     ],
@@ -46317,8 +45763,8 @@
     "answer_sense": "sayfaları çevirmek, göz gezdirmek",
     "answer_syn": "",
     "distractor_verbs": [
-      "flipped",
-      "thumbed",
+      "saw",
+      "got",
       "scanned"
     ],
     "distractor_particles": [
@@ -46377,7 +45823,7 @@
     "answer_sense": "içinden geçmek, uğrayıp geçmek",
     "answer_syn": "",
     "distractor_verbs": [
-      "traveled",
+      "went",
       "walked",
       "crossed"
     ],
@@ -46558,7 +46004,7 @@
     "answer_sense": "eleyip incelemek, dikkatle gözden geçirmek",
     "answer_syn": "",
     "distractor_verbs": [
-      "combed",
+      "broke",
       "sorted",
       "scanned"
     ],
@@ -46759,7 +46205,7 @@
       "looked"
     ],
     "distractor_particles": [
-      "over",
+      "up",
       "out",
       "about"
     ],
@@ -46895,7 +46341,7 @@
     "answer_sense": "(sınavı veya aşamayı) kolayca başarmak / geçmek",
     "answer_syn": "pass with ease",
     "distractor_verbs": [
-      "sailed",
+      "fell",
       "walked",
       "passed"
     ],
@@ -47290,7 +46736,7 @@
     "distractor_verbs": [
       "walked",
       "worked",
-      "plowed"
+      "pulled"
     ],
     "distractor_particles": [
       "across",
@@ -47804,11 +47250,6 @@
     ],
     "family": [
       {
-        "pv": "team up",
-        "tr": "takım oluşturmak",
-        "ex": "They teamed up for the project."
-      },
-      {
         "pv": "join up",
         "tr": "katılmak, birleşmek",
         "ex": "The two groups joined up."
@@ -47921,7 +47362,7 @@
       "gathered"
     ],
     "distractor_particles": [
-      "up",
+      "through",
       "by",
       "off"
     ],
@@ -49801,11 +49242,6 @@
     ],
     "family": [
       {
-        "pv": "look forward to",
-        "tr": "dört gözle beklemek",
-        "ex": "I look forward to meeting you soon."
-      },
-      {
         "pv": "look back",
         "tr": "geçmişe bakmak / anımsamak",
         "ex": "When I look back, I have no regrets."
@@ -50457,13 +49893,8 @@
       "away with"
     ],
     "tokens": [
-      "The",
-      "children",
-      "usually",
-      "mischief",
-      "when",
-      "left",
-      "unsupervised."
+      "The children usually",
+      "mischief when left unsupervised"
     ],
     "senses": [
       {
@@ -52456,13 +51887,7 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "zero in on",
-        "tr": "-e odaklanmak, nişan almak",
-        "diff": ""
-      }
-    ]
+    "similar": []
   },
   {
     "id": "hook_up_with",
@@ -53345,7 +52770,7 @@
     "answer_sense": "(bahane/plan) uydurmak",
     "answer_syn": "concoct",
     "distractor_verbs": [
-      "made",
+      "gave",
       "thought",
       "built"
     ],
@@ -53553,11 +52978,6 @@
     ],
     "family": [
       {
-        "pv": "turn up",
-        "tr": "sesini açmak",
-        "ex": "Could you turn up the radio?"
-      },
-      {
         "pv": "step up",
         "tr": "artırmak / hızlandırmak",
         "ex": "We need to step up production."
@@ -53647,7 +53067,7 @@
     "distractor_verbs": [
       "settled",
       "fixed",
-      "cleared"
+      "took"
     ],
     "distractor_particles": [
       "out",
@@ -53702,7 +53122,7 @@
     "answer_sense": "(motor/cihaz) çalıştırmak",
     "answer_syn": "ignite, energize",
     "distractor_verbs": [
-      "started",
+      "put",
       "warmed",
       "turned"
     ],
@@ -53966,7 +53386,7 @@
     "answer_sense": "(olayı/skandalı) örtbas etmek",
     "answer_syn": "keep secret",
     "distractor_verbs": [
-      "covered",
+      "turned",
       "kept",
       "hid"
     ],
@@ -54112,7 +53532,7 @@
     "distractor_verbs": [
       "softened",
       "eased",
-      "brightened"
+      "brought"
     ],
     "distractor_particles": [
       "out",
@@ -54460,8 +53880,8 @@
     "answer_sense": "canlandırmak / neşe ve enerji katmak",
     "answer_syn": "enliven",
     "distractor_verbs": [
-      "cheered",
-      "livened",
+      "showed",
+      "broke",
       "picked"
     ],
     "distractor_particles": [
@@ -54739,7 +54159,7 @@
     "answer_sense": "tamamen rezerve etmek / yer kalmayacak şekilde doldurmak",
     "answer_syn": "reserve fully",
     "distractor_verbs": [
-      "filled",
+      "held",
       "packed",
       "took"
     ],
@@ -54806,8 +54226,8 @@
     "answer_sense": "(hava/gün) aydınlanmak / açılmak",
     "answer_syn": "become brighter",
     "distractor_verbs": [
-      "cleared",
-      "cheered",
+      "owned",
+      "backed",
       "warmed"
     ],
     "distractor_particles": [
@@ -54833,19 +54253,9 @@
     ],
     "family": [
       {
-        "pv": "cheer up",
-        "tr": "neşelenmek",
-        "ex": "Cheer up, things will get better soon!"
-      },
-      {
         "pv": "light up",
         "tr": "ışıl ışıl parlamak",
         "ex": "The city lights up at night."
-      },
-      {
-        "pv": "clear up",
-        "tr": "(hava) açılmak",
-        "ex": "It will clear up by evening."
       }
     ],
     "similar": [
@@ -55013,7 +54423,7 @@
     "answer_syn": "wrap warmly",
     "distractor_verbs": [
       "dressed",
-      "wrapped",
+      "gave",
       "packed"
     ],
     "distractor_particles": [
@@ -55038,11 +54448,6 @@
       }
     ],
     "family": [
-      {
-        "pv": "wrap up",
-        "tr": "sarınmak / bitirmek",
-        "ex": "Wrap up well, it's chilly tonight."
-      },
       {
         "pv": "dress up",
         "tr": "şık giyinmek",
@@ -55119,11 +54524,6 @@
         "pv": "note down",
         "tr": "not almak",
         "ex": "He noted down the telephone number."
-      },
-      {
-        "pv": "rack up",
-        "tr": "puan/borç biriktirmek",
-        "ex": "The player racked up twenty points in the first half."
       }
     ],
     "similar": [
@@ -55233,16 +54633,8 @@
       "about"
     ],
     "tokens": [
-      "While",
-      "cleaning",
-      "the",
-      "attic,",
-      "she",
-      "an",
-      "old",
-      "box",
-      "of",
-      "letters."
+      "While cleaning the attic, she",
+      "an old box of letters"
     ],
     "senses": [
       {
@@ -55303,16 +54695,8 @@
       "off"
     ],
     "tokens": [
-      "After",
-      "hours",
-      "of",
-      "discussion,",
-      "the",
-      "team",
-      "a",
-      "brilliant",
-      "marketing",
-      "solution."
+      "After hours of discussion, the team",
+      "a brilliant marketing solution"
     ],
     "senses": [
       {
@@ -55363,15 +54747,9 @@
       "off"
     ],
     "tokens": [
-      "The",
-      "president",
+      "The president",
       "citizens",
-      "to",
-      "remain",
-      "calm",
-      "during",
-      "the",
-      "crisis."
+      "to remain calm during the crisis"
     ],
     "senses": [
       {
@@ -55427,17 +54805,8 @@
       "out"
     ],
     "tokens": [
-      "In",
-      "her",
-      "speech,",
-      "she",
-      "her",
-      "years",
-      "of",
-      "experience",
-      "in",
-      "international",
-      "trade."
+      "In her speech, she",
+      "her years of experience in international trade"
     ],
     "senses": [
       {
@@ -55488,15 +54857,9 @@
       "around"
     ],
     "tokens": [
-      "The",
-      "villagers",
-      "the",
-      "old",
-      "teacher",
-      "as",
-      "a",
-      "wise",
-      "mentor."
+      "The villagers",
+      "the old teacher",
+      "as a wise mentor"
     ],
     "senses": [
       {
@@ -55547,14 +54910,9 @@
       "out"
     ],
     "tokens": [
-      "Opposition",
-      "politicians",
-      "the",
-      "scandal",
-      "to",
-      "criticize",
-      "the",
-      "government."
+      "Opposition politicians",
+      "the scandal",
+      "to criticize the government"
     ],
     "senses": [
       {
@@ -55605,12 +54963,8 @@
       "out"
     ],
     "tokens": [
-      "The",
-      "lecture",
-      "several",
-      "complex",
-      "economic",
-      "theories."
+      "The lecture",
+      "several complex economic theories"
     ],
     "senses": [
       {
@@ -55661,14 +55015,9 @@
       "around"
     ],
     "tokens": [
-      "The",
-      "hiker",
-      "a",
-      "quiet",
-      "mountain",
-      "stream",
-      "while",
-      "exploring."
+      "The hiker",
+      "a quiet mountain stream",
+      "while exploring"
     ],
     "senses": [
       {
@@ -55720,13 +55069,7 @@
     ],
     "tokens": [
       "Archaeologists",
-      "ancient",
-      "ruins",
-      "hidden",
-      "deep",
-      "in",
-      "the",
-      "jungle."
+      "ancient ruins hidden deep in the jungle"
     ],
     "senses": [
       {
@@ -55777,17 +55120,8 @@
       "out"
     ],
     "tokens": [
-      "There",
-      "is",
-      "no",
-      "point",
-      "in",
-      "past",
-      "mistakes",
-      "that",
-      "cannot",
-      "be",
-      "changed."
+      "There is no point in",
+      "past mistakes that cannot be changed"
     ],
     "senses": [
       {
@@ -56663,16 +55997,6 @@
     ],
     "family": [
       {
-        "pv": "block off",
-        "tr": "kapatmak, yolu kesmek",
-        "ex": ""
-      },
-      {
-        "pv": "seal off",
-        "tr": "mühürleyip izole etmek",
-        "ex": ""
-      },
-      {
         "pv": "fence off",
         "tr": "çitle ayırmak",
         "ex": ""
@@ -57076,7 +56400,7 @@
     "answer_sense": "(bir konuda) uzlaşmak, anlaşmak",
     "answer_syn": "reach agreement about",
     "distractor_verbs": [
-      "decided",
+      "turned",
       "insisted",
       "focused"
     ],
@@ -57289,16 +56613,7 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "settle on",
-        "tr": "kararlaştırmak"
-      },
-      {
-        "pv": "agree on",
-        "tr": "uzlaşmak"
-      }
-    ]
+    "similar": []
   },
   {
     "id": "pv3_05",
@@ -57355,10 +56670,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "harp on",
-        "tr": "temcit pilavı gibi tekrarlamak"
-      },
       {
         "pv": "focus on",
         "tr": "odaklanmak"
@@ -57419,16 +56730,7 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "expand on",
-        "tr": "ayrıntıya girmek, detaylandırmak"
-      },
-      {
-        "pv": "go into",
-        "tr": "detaylarına girmek"
-      }
-    ]
+    "similar": []
   },
   {
     "id": "pv3_07",
@@ -57557,7 +56859,7 @@
     "answer_sense": "(aynı şeyi) tekrarlayıp durmak, dırdır etmek",
     "answer_syn": "keep talking about",
     "distractor_verbs": [
-      "dwelling",
+      "bringing",
       "insisting",
       "focusing"
     ],
@@ -57594,16 +56896,7 @@
         "ex": ""
       }
     ],
-    "similar": [
-      {
-        "pv": "dwell on",
-        "tr": "üzerinde takılıp kalmak"
-      },
-      {
-        "pv": "go on about",
-        "tr": "uzun uzun konuşmak"
-      }
-    ]
+    "similar": []
   },
   {
     "id": "pv3_10",
@@ -57622,9 +56915,9 @@
     "answer_sense": "-e bağlı olmak, -e dayanmak",
     "answer_syn": "depend on",
     "distractor_verbs": [
-      "depends",
+      "takes",
       "counts",
-      "relies"
+      "puts"
     ],
     "distractor_particles": [
       "to",
@@ -57660,10 +56953,6 @@
       }
     ],
     "similar": [
-      {
-        "pv": "depend on",
-        "tr": "bağlı olmak"
-      },
       {
         "pv": "rely on",
         "tr": "güvenmek, bağlı olmak"
@@ -57811,7 +57100,7 @@
     "answer_sense": "çökmek, göçmek; baskıya boyun eğmek, pes etmek",
     "answer_syn": "collapse, yield, give in",
     "distractor_verbs": [
-      "gave",
+      "handed",
       "broke",
       "fell"
     ],
@@ -57935,7 +57224,7 @@
     "answer_sense": "(günler) kısalmak; (istasyona) girmek/yanaşmak",
     "answer_syn": "shorten, pull in, approach",
     "distractor_verbs": [
-      "pull",
+      "bring",
       "drag",
       "close"
     ],
@@ -57999,7 +57288,7 @@
     "distractor_verbs": [
       "walked",
       "painted",
-      "pulled"
+      "settled"
     ],
     "distractor_particles": [
       "out",
@@ -58121,8 +57410,8 @@
     "answer_sense": "(yemek tariflerinde) köpüğü bozmadan yavaşça karıştırıp yedirmek",
     "answer_syn": "mix gently, incorporate, blend in",
     "distractor_verbs": [
-      "mix",
-      "stir",
+      "let",
+      "break",
       "blend"
     ],
     "distractor_particles": [
@@ -58183,9 +57472,9 @@
     "answer_sense": "(mahsul/eşya) toplamak, devşirmek, güvenli yere almak",
     "answer_syn": "collect, harvest, bring in",
     "distractor_verbs": [
-      "pulled",
+      "filled",
       "brought",
-      "took"
+      "checked"
     ],
     "distractor_particles": [
       "out",
@@ -58246,7 +57535,7 @@
     "answer_syn": "join suddenly, interrupt, chime in",
     "distractor_verbs": [
       "chipped",
-      "stepped",
+      "dropped",
       "dived"
     ],
     "distractor_particles": [
