@@ -1,1 +1,2702 @@
-
+[
+  {
+    "id": "ss01",
+    "type": "Zaman",
+    "text": "{Since} the early 1990s, the number of people working from home ___ steadily in most European countries.",
+    "options": ["has increased", "had increased", "will increase", "was increasing", "increased"],
+    "answer": "has increased",
+    "why": "Şıklar hep aynı fiilin farklı zamanları → bu bir ZAMAN sorusu; ilk iş zaman zarfını aramak. 'Since' + geçmiş bir başlangıç, geçmişten bugüne uzanan süreyi anlatır → Present Perfect: 'has increased'. Zaman sorularında avlanacak kelimeler: since, for, by the time, ago, last, recently, so far.",
+    "tr": "1990'ların başından beri çoğu Avrupa ülkesinde evden çalışan insan sayısı istikrarlı biçimde arttı."
+  },
+  {
+    "id": "ss02",
+    "type": "Bağlaç",
+    "text": "___ the new drug proved highly {effective} in early trials, it was {never} {approved} because of its serious side effects.",
+    "options": ["Since", "Although", "So that", "Once", "Unless"],
+    "answer": "Although",
+    "why": "Şıklar bağlaç → iki yarım arasındaki ANLAM İLİŞKİSİNİ ara. 'effective' (etkili çıktı) ile 'never approved' (hiç onaylanmadı) birbirine ters düşüyor → zıtlık: 'Although'. Since/Once sebep-zaman, Unless koşul, So that amaç bildirir; hiçbiri bu çelişkiyi taşımaz.",
+    "tr": "Yeni ilaç ilk denemelerde oldukça etkili çıkmasına rağmen ciddi yan etkileri yüzünden hiç onaylanmadı."
+  },
+  {
+    "id": "ss03",
+    "type": "Edat",
+    "text": "The long-term success of the project {depends} largely ___ the continued support of local communities.",
+    "options": ["in", "with", "on", "at", "for"],
+    "answer": "on",
+    "why": "Edat sorusunda önce boşluğun SOLUNDAKİ fiile ya da sıfata bak: 'depend on' kalıptır. Araya 'largely' girse de edatı 'depends' belirler. Cümlenin geri kalanını açmana gerek yoktu.",
+    "tr": "Projenin uzun vadeli başarısı büyük ölçüde yerel toplulukların süregelen desteğine bağlı."
+  },
+  {
+    "id": "ss04",
+    "type": "Kelime",
+    "text": "The instructions in the manual were so ___ that even the engineers could {not} {understand} how to assemble the device.",
+    "options": ["reliable", "thorough", "concise", "obscure", "accurate"],
+    "answer": "obscure",
+    "why": "Kelime sorusunda boşluğu açıklayan SONUCU ara. 'so … that' yapısında sonuç sıfatın anlamını verir: mühendisler bile 'could not understand' → talimatlar anlaşılmazdı: 'obscure'. concise (öz), accurate (doğru), thorough (ayrıntılı), reliable (güvenilir) olumlu kalır ve sonuçla çelişir.",
+    "tr": "Kılavuzdaki talimatlar o kadar anlaşılmazdı ki mühendisler bile cihazı nasıl kuracaklarını anlayamadı."
+  },
+  {
+    "id": "ss05",
+    "type": "Edilgen",
+    "text": "The ancient {manuscript}, which ___ in a cave near the Dead Sea in {1947}, is now kept in a museum in Jerusalem.",
+    "options": ["had discovered", "is discovered", "has been discovered", "discovered", "was discovered"],
+    "answer": "was discovered",
+    "why": "Şıklarda hem etken hem edilgen var → iki soru sor. (1) Özne yapan mı, yapılan mı? Bir 'manuscript' (el yazması) kendini bulamaz → edilgen. (2) Ne zaman? 'in 1947' geçmişte bitmiş bir an → Past Simple edilgen: 'was discovered'. 'has been discovered' belirli bir geçmiş tarihle kullanılmaz.",
+    "tr": "Lut Gölü yakınındaki bir mağarada 1947'de bulunan antik el yazması bugün Kudüs'teki bir müzede saklanıyor."
+  },
+  {
+    "id": "ss06",
+    "type": "Koşul",
+    "text": "{If} governments {had} invested more in renewable energy two decades ago, air pollution in cities ___ a much smaller problem {today}.",
+    "options": ["would be", "had been", "will be", "would have been", "is"],
+    "answer": "would be",
+    "why": "Koşul sorusunda iki yarımın zamanını AYRI AYRI oku. 'If … had invested' geçmişe ait (Type 3), ama sonuç 'today' ile bugüne bağlanıyor. Geçmiş koşul + bugünkü sonuç = karma koşul: 'would be'. 'would have been' sonucu da geçmişe taşırdı; 'today' ile çelişir.",
+    "tr": "Hükümetler yirmi yıl önce yenilenebilir enerjiye daha çok yatırım yapmış olsaydı, bugün şehirlerde hava kirliliği çok daha küçük bir sorun olurdu."
+  },
+  {
+    "id": "ss07",
+    "type": "Öbek fiil",
+    "text": "The peace talks ___ after both sides {refused} to make any further {concessions}.",
+    "options": ["gave in", "broke down", "set up", "took over", "carried out"],
+    "answer": "broke down",
+    "why": "Öbek fiil sorusunda öznenin kendisi ve olayın SONUCU belirler: iki taraf da 'refused' (reddetti) daha fazla 'concessions' (taviz) vermeyi → görüşmeler çöktü: 'broke down'. 'gave in' (boyun eğdi) insan öznesi ister ve anlamı tersine çevirir.",
+    "tr": "İki taraf da daha fazla taviz vermeyi reddedince barış görüşmeleri çöktü."
+  },
+  {
+    "id": "ss08",
+    "type": "Bağlaç",
+    "text": "___ does regular exercise improve physical health, {but} it {also} reduces stress and anxiety.",
+    "options": ["Neither", "Hardly", "Not only", "Whether", "Either"],
+    "answer": "Not only",
+    "why": "Çiftli bağlaçlar birbirini ÇAĞIRIR: ikinci yarımda 'but … also' gördüysen başta 'Not only' vardır. Baştaki devrik yapı (does … improve) da bunu destekler. Neither → nor, Either → or, Whether → or ister.",
+    "tr": "Düzenli egzersiz yalnızca fiziksel sağlığı iyileştirmekle kalmaz, stresi ve kaygıyı da azaltır."
+  },
+  {
+    "id": "ss09",
+    "type": "Zaman (çift boşluk)",
+    "text": "{By} the {time} the rescue team ___ the village, most of the residents ___ {already} left their homes.",
+    "options": ["reaches / had", "had reached / have", "reached / have", "reached / had", "has reached / had"],
+    "answer": "reached / had",
+    "why": "Çift boşlukta iki olayın SIRASINI kur. 'By the time' + geçmiş: ekip köye vardığında ('reached'), halk çoktan gitmişti ('had left') → önce olan olay Past Perfect. 'already' de önceliği gösterir. 'reaches / had' zamanları karıştırır, 'have' ise bugüne bağlar.",
+    "tr": "Kurtarma ekibi köye vardığında sakinlerin çoğu evlerini çoktan terk etmişti."
+  },
+  {
+    "id": "ss10",
+    "type": "Edat / bağlaç",
+    "text": "___ heavy {rain} throughout the morning, thousands of fans {waited} {patiently} outside the stadium.",
+    "options": ["In case", "Because of", "Although", "Even if", "Despite"],
+    "answer": "Despite",
+    "why": "İki adım. (1) Boşluktan sonra fiil yok, yalnız isim öbeği var ('heavy rain') → bağlaç değil EDAT lazım: Although, Even if, In case elenir. (2) Yağmura karşın 'waited patiently' (sabırla beklediler) → zıtlık: 'Despite'. 'Because of' yağmuru beklemenin sebebi yapardı; anlamsız.",
+    "tr": "Sabah boyunca yağan şiddetli yağmura rağmen binlerce taraftar stadyumun önünde sabırla bekledi."
+  },
+  {
+    "id": "ss011",
+    "type": "Zaman",
+    "text": "Over the {past} two {decades}, astronomers ___ more than 5,000 planets outside our solar system.",
+    "options": ["have discovered", "will have discovered", "discovered", "had discovered", "were discovering"],
+    "answer": "have discovered",
+    "why": "Zaman sorusunda önce zaman ifadesini avla: 'over the past two decades' (son yirmi yılda) bugüne kadar uzanan bir dönemdir → Present Perfect: 'have discovered'. YDS'de 'over/in the past/last … years' neredeyse her zaman Present Perfect ister.",
+    "tr": "Son yirmi yılda gökbilimciler güneş sistemimizin dışında 5.000'den fazla gezegen keşfetti."
+  },
+  {
+    "id": "ss012",
+    "type": "Zaman",
+    "text": "{By} the {end} of {next} year, the company ___ its new headquarters in Ankara.",
+    "options": ["is completing", "will have completed", "had completed", "has completed", "completed"],
+    "answer": "will have completed",
+    "why": "'By + gelecekteki bir zaman' (by the end of next year) o ana kadar TAMAMLANMIŞ olacak bir işi anlatır → Future Perfect: 'will have completed'. 'had completed' by + geçmiş zaman ister; 'has completed' bugüne bağlar.",
+    "tr": "Gelecek yılın sonuna kadar şirket Ankara'daki yeni genel merkezini tamamlamış olacak."
+  },
+  {
+    "id": "ss013",
+    "type": "Zaman",
+    "text": "The Western Roman Empire ___ for nearly five centuries {before} it finally {collapsed} in 476 AD.",
+    "options": ["has lasted", "has been lasting", "had lasted", "lasts", "will last"],
+    "answer": "had lasted",
+    "why": "İki geçmiş olay var: imparatorluğun sürmesi ve 'collapsed' (çöktü). 'before' ile önce olanı işaretle: çöküşten ÖNCE süren durum → Past Perfect: 'had lasted'. has/have'li şıklar bugüne bağlanır; 476 yılıyla çelişir.",
+    "tr": "Batı Roma İmparatorluğu MS 476'da nihayet çökmeden önce yaklaşık beş yüzyıl sürmüştü."
+  },
+  {
+    "id": "ss014",
+    "type": "Zaman",
+    "text": "{When} the fire alarm suddenly {went} off, the students ___ an exam in the main hall.",
+    "options": ["have been taking", "will take", "take", "were taking", "have taken"],
+    "answer": "were taking",
+    "why": "'When' + ani geçmiş olay (went off) bir işi YARIDA keser. Kesilen, o sırada süren iş → Past Continuous: 'were taking'. have'li şıklar bugüne bağlar; 'take' ve 'will take' geçmişle uyuşmaz.",
+    "tr": "Yangın alarmı aniden çaldığında öğrenciler ana salonda sınava giriyordu."
+  },
+  {
+    "id": "ss015",
+    "type": "Zaman",
+    "text": "Researchers ___ the effects of the new vaccine {for} three years, and the study is {still} going on.",
+    "options": ["are studying", "will study", "had studied", "studied", "have been studying"],
+    "answer": "have been studying",
+    "why": "'for three years' bir süre bildirir, 'still going on' ise işin bugün de sürdüğünü söyler. Geçmişte başlayıp hâlâ süren iş → Present Perfect Continuous: 'have been studying'. 'studied' bitmiş işi anlatır; 'are studying' süre bildiren 'for' ile kullanılmaz.",
+    "tr": "Araştırmacılar üç yıldır yeni aşının etkilerini inceliyor ve çalışma hâlâ sürüyor."
+  },
+  {
+    "id": "ss016",
+    "type": "Zaman",
+    "text": "The Earth ___ around the Sun {once} {every} 365.25 days.",
+    "options": ["revolves", "is revolving", "revolved", "has revolved", "will have revolved"],
+    "answer": "revolves",
+    "why": "Bilimsel gerçek ve düzenli tekrar ('once every 365.25 days') → Simple Present: 'revolves'. 'is revolving' geçici bir durum anlatır; 'revolved' gerçeği geçmişe hapseder.",
+    "tr": "Dünya her 365,25 günde bir Güneş'in etrafında döner."
+  },
+  {
+    "id": "ss017",
+    "type": "Zaman",
+    "text": "{Ever} {since} the smartphone was introduced, the way people communicate ___ dramatically.",
+    "options": ["changed", "has changed", "had changed", "was changing", "changes"],
+    "answer": "has changed",
+    "why": "'Ever since' geçmişteki bir başlangıçtan bugüne uzanır → ana cümlede Present Perfect: 'has changed'. 'Since' cümlesinin kendisi geçmişte (was introduced), sonucu ise bugüne bağlanır.",
+    "tr": "Akıllı telefon piyasaya çıktığından beri insanların iletişim kurma biçimi büyük ölçüde değişti."
+  },
+  {
+    "id": "ss018",
+    "type": "Zaman",
+    "text": "{Last} {year}, more than two million tourists ___ the historical peninsula of Istanbul.",
+    "options": ["had visited", "will have visited", "visited", "visit", "have visited"],
+    "answer": "visited",
+    "why": "'Last year' bitmiş, belirli bir geçmiş zamandır → Past Simple: 'visited'. Present Perfect ('have visited') belirli bir geçmiş zaman ifadesiyle kullanılmaz.",
+    "tr": "Geçen yıl iki milyondan fazla turist İstanbul'un tarihî yarımadasını ziyaret etti."
+  },
+  {
+    "id": "ss019",
+    "type": "Zaman",
+    "text": "{Currently}, the number of students taking online courses ___ faster than at any time in the past.",
+    "options": ["was growing", "had grown", "has grown", "is growing", "grew"],
+    "answer": "is growing",
+    "why": "'Currently' (şu sıralar) şu an süren bir değişimi anlatır → Present Continuous: 'is growing'. 'in the past' ifadesi yalnızca karşılaştırmadır; zamanı 'Currently' belirler.",
+    "tr": "Şu anda çevrim içi ders alan öğrenci sayısı geçmişteki her dönemden daha hızlı artıyor."
+  },
+  {
+    "id": "ss020",
+    "type": "Zaman",
+    "text": "{By} the {time} Columbus {reached} the Americas in 1492, people ___ there for thousands of years.",
+    "options": ["are living", "have been living", "were living", "will have lived", "had been living"],
+    "answer": "had been living",
+    "why": "'By the time' + geçmiş (reached): o geçmiş ana KADAR süregelen durum → Past Perfect (Continuous): 'had been living'. 'for thousands of years' süreyi verir; 'were living' bu süreyi taşıyamaz, have'li şık bugüne bağlar.",
+    "tr": "Kolomb 1492'de Amerika'ya vardığında insanlar binlerce yıldır orada yaşıyordu."
+  },
+  {
+    "id": "ss021",
+    "type": "Zaman",
+    "text": "The committee ___ three different proposals {so} {far}, but none of them has been accepted.",
+    "options": ["has reviewed", "had reviewed", "reviews", "reviewed", "will review"],
+    "answer": "has reviewed",
+    "why": "'So far' (şimdiye kadar) bugüne kadarki toplamı verir → Present Perfect: 'has reviewed'. Cümlenin devamındaki 'has been accepted' de aynı zamanı destekler.",
+    "tr": "Komite şimdiye kadar üç farklı öneriyi inceledi ama hiçbiri kabul edilmedi."
+  },
+  {
+    "id": "ss022",
+    "type": "Zaman",
+    "text": "{While} the scientists {were} analysing the samples, they ___ an unexpected chemical reaction.",
+    "options": ["have noticed", "noticed", "had been noticing", "notice", "will notice"],
+    "answer": "noticed",
+    "why": "'While' + süren geçmiş iş (were analysing) arka planı kurar; o sırada olan ANİ olay → Past Simple: 'noticed'. 'had been noticing' fark etmeyi uzun süren bir işe çevirir; anlamsızdır.",
+    "tr": "Bilim insanları örnekleri incelerken beklenmedik bir kimyasal tepkime fark ettiler."
+  },
+  {
+    "id": "ss023",
+    "type": "Zaman",
+    "text": "Demographers predict that {by} {2050} the world's population ___ nearly ten billion.",
+    "options": ["has reached", "had reached", "will have reached", "is reaching", "reached"],
+    "answer": "will have reached",
+    "why": "'By 2050' gelecekteki bir son tarih: o tarihe kadar gerçekleşmiş olacak → Future Perfect: 'will have reached'. 'predict' (öngörmek) de geleceği işaret eder.",
+    "tr": "Nüfus bilimciler 2050'ye kadar dünya nüfusunun yaklaşık on milyara ulaşmış olacağını öngörüyor."
+  },
+  {
+    "id": "ss024",
+    "type": "Zaman",
+    "text": "Mount Vesuvius ___ in {AD} {79}, burying the Roman city of Pompeii under volcanic ash.",
+    "options": ["has erupted", "had erupted", "has been erupting", "erupted", "erupts"],
+    "answer": "erupted",
+    "why": "Belirli bir geçmiş tarih (AD 79) → Past Simple: 'erupted'. Başka bir geçmiş olaydan önce olduğu söylenmediği için Past Perfect gerekmez; have'li şıklar tarihle çelişir.",
+    "tr": "Vezüv Yanardağı MS 79'da patlayarak Roma kenti Pompeii'yi volkanik külün altına gömdü."
+  },
+  {
+    "id": "ss025",
+    "type": "Zaman",
+    "text": "The patient ___ {already} left the hospital {when} the test results {arrived}.",
+    "options": ["is", "has", "was", "will", "had"],
+    "answer": "had",
+    "why": "İki geçmiş olay: sonuçların gelmesi (arrived) ve hastanın ayrılması. 'already' ayrılmanın ÖNCE olduğunu gösterir → Past Perfect yardımcı fiili: 'had'. 'has' bugüne bağlar; 'was left' edilgen olurdu.",
+    "tr": "Test sonuçları geldiğinde hasta hastaneden çoktan ayrılmıştı."
+  },
+  {
+    "id": "ss026",
+    "type": "Zaman",
+    "text": "{Recently}, several studies ___ a strong link between sleep quality and long-term memory.",
+    "options": ["have shown", "were showing", "show", "had shown", "will show"],
+    "answer": "have shown",
+    "why": "'Recently' (son zamanlarda) yakın geçmişten bugüne etkisi süren sonuçları anlatır → Present Perfect: 'have shown'. Akademik metinlerde 'Recent studies have shown…' kalıbı çok sık çıkar.",
+    "tr": "Son zamanlarda birçok çalışma uyku kalitesi ile uzun süreli bellek arasında güçlü bir bağ olduğunu gösterdi."
+  },
+  {
+    "id": "ss027",
+    "type": "Zaman",
+    "text": "{Next} {month}, the museum ___ a major exhibition on Ottoman calligraphy.",
+    "options": ["had opened", "will open", "has opened", "was opening", "opened"],
+    "answer": "will open",
+    "why": "'Next month' geleceği gösterir → 'will open'. Geriye kalan dört şıkkın hepsi geçmişe ya da bugüne bakar.",
+    "tr": "Müze gelecek ay Osmanlı hat sanatı üzerine büyük bir sergi açacak."
+  },
+  {
+    "id": "ss028",
+    "type": "Zaman",
+    "text": "The engineer ___ on the experiment {for} six hours {when} the power suddenly {went} out.",
+    "options": ["will work", "has been working", "had been working", "is working", "works"],
+    "answer": "had been working",
+    "why": "Geçmişteki bir ana (went out) KADAR süren iş + süre ('for six hours') → Past Perfect Continuous: 'had been working'. 'has been working' aynı yapının bugüne bağlanan hâlidir; geçmiş olayla uyuşmaz.",
+    "tr": "Elektrik aniden kesildiğinde mühendis altı saattir deney üzerinde çalışıyordu."
+  },
+  {
+    "id": "ss029",
+    "type": "Zaman",
+    "text": "The number of bee colonies ___ steadily {since} {2006}, alarming farmers around the world.",
+    "options": ["falls", "fell", "will fall", "has been falling", "had fallen"],
+    "answer": "has been falling",
+    "why": "'since 2006' geçmişten bugüne uzanan süreci işaretler → Present Perfect (Continuous): 'has been falling'. 'steadily' de sürüp giden bir düşüşü anlatır. 'fell' 'since' ile kullanılmaz.",
+    "tr": "Arı kolonilerinin sayısı 2006'dan beri istikrarlı biçimde azalıyor ve bu durum dünyanın dört bir yanındaki çiftçileri kaygılandırıyor."
+  },
+  {
+    "id": "ss030",
+    "type": "Zaman",
+    "text": "Two {centuries} {ago}, most people ___ in small rural villages.",
+    "options": ["have lived", "had lived", "live", "have been living", "lived"],
+    "answer": "lived",
+    "why": "'ago' her zaman bitmiş geçmişi gösterir → Past Simple: 'lived'. have'li şıklar 'ago' ile asla kullanılmaz; 'had lived' başka bir geçmiş olaydan önceliği anlatır, burada öyle bir olay yok.",
+    "tr": "İki yüzyıl önce insanların çoğu küçük kırsal köylerde yaşıyordu."
+  },
+  {
+    "id": "ss031",
+    "type": "Zaman",
+    "text": "As {soon} as the final results {are} announced, we ___ all the candidates by email.",
+    "options": ["will inform", "had informed", "informed", "have informed", "would have informed"],
+    "answer": "will inform",
+    "why": "Zaman bağlacından (as soon as) sonra Simple Present ('are announced') gelir ama anlam gelecektir. Ana cümle bu yüzden geleceği taşır: 'will inform'. Geçmiş şıklar 'are' ile uyuşmaz.",
+    "tr": "Kesin sonuçlar açıklanır açıklanmaz bütün adaylara e-postayla bilgi vereceğiz."
+  },
+  {
+    "id": "ss032",
+    "type": "Zaman",
+    "text": "{Until} the {1950s}, most doctors ___ that smoking was harmless to health.",
+    "options": ["have believed", "believed", "will have believed", "will believe", "believe"],
+    "answer": "believed",
+    "why": "'Until the 1950s' geçmişte kapanmış bir dönemdir → Past Simple: 'believed'. Cümlenin içindeki 'was harmless' de geçmiş zamanla uyumludur; have/will'li şıklar bu dönemle çelişir.",
+    "tr": "1950'lere kadar doktorların çoğu sigaranın sağlığa zararsız olduğuna inanıyordu."
+  },
+  {
+    "id": "ss033",
+    "type": "Zaman",
+    "text": "{Every} {year}, millions of birds ___ thousands of kilometres to warmer regions.",
+    "options": ["had migrated", "are migrating", "migrate", "have migrated", "migrated"],
+    "answer": "migrate",
+    "why": "'Every year' düzenli tekrar bildirir → Simple Present: 'migrate'. 'are migrating' şu an süren tek bir olay anlatır, her yıl tekrarlanan bir alışkanlığı değil.",
+    "tr": "Her yıl milyonlarca kuş daha sıcak bölgelere binlerce kilometre göç eder."
+  },
+  {
+    "id": "ss034",
+    "type": "Zaman",
+    "text": "{By} the {time} the police {arrive}, the thieves ___ with the money.",
+    "options": ["escaped", "have escaped", "had escaped", "will have escaped", "escape"],
+    "answer": "will have escaped",
+    "why": "'By the time' + Simple Present (arrive) gelecekte bir anı gösterir; o ana kadar bitmiş olacak iş → Future Perfect: 'will have escaped'. 'had escaped' 'arrived' gibi geçmiş bir fiil isterdi.",
+    "tr": "Polis gelene kadar hırsızlar parayla birlikte kaçmış olacak."
+  },
+  {
+    "id": "ss035",
+    "type": "Zaman",
+    "text": "The company ___ record profits in the final quarter {of} {2023}.",
+    "options": ["reports", "had reported", "has reported", "will report", "reported"],
+    "answer": "reported",
+    "why": "Tarih belli ve bitmiş (the final quarter of 2023) → Past Simple: 'reported'. Belirli geçmiş bir tarih Present Perfect'i dışarıda bırakır.",
+    "tr": "Şirket 2023'ün son çeyreğinde rekor kâr açıkladı."
+  },
+  {
+    "id": "ss036",
+    "type": "Zaman",
+    "text": "The volcano ___ quiet {since} it last erupted in 1980, but scientists continue to monitor it.",
+    "options": ["has remained", "remains", "remained", "had remained", "will remain"],
+    "answer": "has remained",
+    "why": "'since' + geçmiş bir başlangıç (1980) → ana cümle Present Perfect: 'has remained'. 'remains' ya da 'remained' 'since' ile kurulan süreyi taşıyamaz.",
+    "tr": "Yanardağ en son 1980'de patladığından beri sakin ama bilim insanları onu izlemeyi sürdürüyor."
+  },
+  {
+    "id": "ss037",
+    "type": "Zaman",
+    "text": "{This} {time} {tomorrow}, the astronauts ___ over the Pacific Ocean.",
+    "options": ["will have flown", "will be flying", "have flown", "were flying", "flew"],
+    "answer": "will be flying",
+    "why": "'This time tomorrow' gelecekte belirli bir anda SÜRÜYOR olacak işi gösterir → Future Continuous: 'will be flying'. 'will have flown' uçuşun o ana kadar bitmiş olacağını söylerdi.",
+    "tr": "Yarın bu saatte astronotlar Pasifik Okyanusu üzerinde uçuyor olacak."
+  },
+  {
+    "id": "ss038",
+    "type": "Zaman",
+    "text": "House prices in big cities ___ sharply in {recent} {years}.",
+    "options": ["are rising", "rose", "have risen", "will rise", "had risen"],
+    "answer": "have risen",
+    "why": "'in recent years' (son yıllarda) bugüne uzanan dönemi anlatır → Present Perfect: 'have risen'. Bu ifade YDS'de Present Perfect'in en tipik işaretlerinden biridir.",
+    "tr": "Son yıllarda büyük şehirlerde konut fiyatları keskin biçimde yükseldi."
+  },
+  {
+    "id": "ss039",
+    "type": "Zaman",
+    "text": "{When} the delegates {arrived} at the station, the train ___, so they had to wait for the {next} one.",
+    "options": ["is leaving", "leaves", "will have left", "had left", "has left"],
+    "answer": "had left",
+    "why": "Delegeler geldiğinde (arrived) tren gitmişti; sonraki treni beklemeleri de bunu doğruluyor. Önce olan geçmiş olay → Past Perfect: 'had left'. Diğer şıklar geçmiş anlatımla uyuşmaz.",
+    "tr": "Delegeler istasyona vardığında tren kalkmıştı, bu yüzden bir sonrakini beklemek zorunda kaldılar."
+  },
+  {
+    "id": "ss040",
+    "type": "Bağlaç",
+    "text": "Solar panels {reduce} electricity bills; ___, they help {cut} carbon emissions.",
+    "options": ["otherwise", "nevertheless", "instead", "however", "moreover"],
+    "answer": "moreover",
+    "why": "Noktalı virgülden sonra gelen bağlaç iki cümleyi ANLAMCA bağlar. İki yarım da güneş panellerinin faydasını sayıyor (reduce … / cut …) → ekleme: 'moreover'. however ve nevertheless zıtlık, otherwise 'yoksa', instead 'onun yerine' anlamı taşır.",
+    "tr": "Güneş panelleri elektrik faturalarını düşürür; üstelik karbon salımını azaltmaya da yardımcı olur."
+  },
+  {
+    "id": "ss041",
+    "type": "Bağlaç",
+    "text": "Candidates will {not} be admitted to the exam hall ___ they {show} a valid ID card.",
+    "options": ["unless", "even though", "so that", "because", "whereas"],
+    "answer": "unless",
+    "why": "Olumsuz bir sonuç (will not be admitted) ve bir şart (show a valid ID) → 'eğer … -mezse': 'unless'. because sebep, whereas karşıtlık, so that amaç, even though tezat bildirir; hiçbiri şart kurmaz.",
+    "tr": "Adaylar geçerli bir kimlik kartı göstermedikçe sınav salonuna alınmayacak."
+  },
+  {
+    "id": "ss042",
+    "type": "Bağlaç",
+    "text": "Many parents limit their children's screen time ___ they {can} sleep better at night.",
+    "options": ["even though", "so that", "as if", "whereas", "unless"],
+    "answer": "so that",
+    "why": "Boşluktan sonra 'can' gelmesi amaç bağlacının tipik işaretidir: 'so that + özne + can/could'. Ekran süresini kısıtlamanın AMACI daha iyi uyumaları → 'so that'.",
+    "tr": "Birçok ebeveyn, çocukları geceleri daha iyi uyuyabilsin diye ekran sürelerini sınırlandırır."
+  },
+  {
+    "id": "ss043",
+    "type": "Bağlaç",
+    "text": "{Some} people learn best by listening, ___ {others} prefer to learn by reading.",
+    "options": ["so that", "as soon as", "whereas", "because", "unless"],
+    "answer": "whereas",
+    "why": "'Some … others' kalıbı iki grubu KARŞILAŞTIRIR: bazıları dinleyerek, diğerleri okuyarak. İki durumu karşılaştıran bağlaç → 'whereas' (-ken, oysa). because sebep, unless şart, so that amaç bildirir.",
+    "tr": "Bazı insanlar en iyi dinleyerek öğrenirken, diğerleri okuyarak öğrenmeyi tercih eder."
+  },
+  {
+    "id": "ss044",
+    "type": "Bağlaç",
+    "text": "___ the bridge was {closed} for repairs, drivers had to take a much {longer} route.",
+    "options": ["Unless", "Although", "Whereas", "Because", "So that"],
+    "answer": "Because",
+    "why": "İki yarım arasında sebep-sonuç var: köprü kapalıydı (closed) → sürücüler daha uzun yola saptı (longer route). Sebep bağlacı → 'Because'. Although tezat kurar, ama burada şaşırtıcı bir durum yok.",
+    "tr": "Köprü onarım için kapatıldığından sürücüler çok daha uzun bir yol kullanmak zorunda kaldı."
+  },
+  {
+    "id": "ss045",
+    "type": "Bağlaç",
+    "text": "The new policy will {either} be revised ___ withdrawn completely.",
+    "options": ["but", "nor", "than", "and", "or"],
+    "answer": "or",
+    "why": "Çiftli bağlaçlar eşini çağırır: 'either' gördüysen eşi 'or'dur (ya … ya da). neither → nor, both → and ister.",
+    "tr": "Yeni politika ya gözden geçirilecek ya da tamamen geri çekilecek."
+  },
+  {
+    "id": "ss046",
+    "type": "Bağlaç",
+    "text": "{Neither} the manager ___ his assistant was aware of the problem.",
+    "options": ["nor", "as", "and", "or", "but also"],
+    "answer": "nor",
+    "why": "'Neither' yalnızca 'nor' ile eşleşir (ne … ne de). 'or' either'ın, 'but also' not only'nin, 'and' both'un eşidir.",
+    "tr": "Ne müdür ne de asistanı sorundan haberdardı."
+  },
+  {
+    "id": "ss047",
+    "type": "Bağlaç",
+    "text": "{Both} young people ___ the elderly benefit from regular physical activity.",
+    "options": ["but also", "and", "than", "or", "nor"],
+    "answer": "and",
+    "why": "'Both' her zaman 'and' ile eşleşir (hem … hem de). Fiilin çoğul olması (benefit) da iki öznenin birlikte düşünüldüğünü gösterir.",
+    "tr": "Hem gençler hem de yaşlılar düzenli fiziksel etkinlikten yarar görür."
+  },
+  {
+    "id": "ss048",
+    "type": "Bağlaç",
+    "text": "It is still {unclear} ___ the new treatment will work {or} {not}.",
+    "options": ["because", "unless", "whether", "although", "so"],
+    "answer": "whether",
+    "why": "'or not' ve belirsizlik bildiren 'unclear' birlikte → '-ip -mediği': 'whether'. Belirsizlik sıfatlarından (unclear, uncertain, not sure) sonra 'whether' çok sık gelir.",
+    "tr": "Yeni tedavinin işe yarayıp yaramayacağı hâlâ belirsiz."
+  },
+  {
+    "id": "ss049",
+    "type": "Bağlaç",
+    "text": "The lecture was ___ {boring} {that} half of the audience fell asleep.",
+    "options": ["very", "such", "enough", "so", "too"],
+    "answer": "so",
+    "why": "Boşluktan sonra yalnızca bir SIFAT (boring) ve ardından 'that' var → 'so + sıfat + that' (o kadar … ki). 'such' araya bir isim ister (such a boring lecture); too ve enough 'that' ile sonuç cümlesi kurmaz.",
+    "tr": "Ders o kadar sıkıcıydı ki dinleyicilerin yarısı uyuyakaldı."
+  },
+  {
+    "id": "ss050",
+    "type": "Bağlaç",
+    "text": "It was ___ a difficult {question} {that} none of the students could answer it.",
+    "options": ["very", "enough", "too", "so", "such"],
+    "answer": "such",
+    "why": "Boşluktan sonra 'a + sıfat + İSİM' (a difficult question) ve 'that' geliyor → 'such + (a) + sıfat + isim + that'. 'so' yalnız sıfatla kullanılır: 'so difficult that'.",
+    "tr": "O kadar zor bir soruydu ki öğrencilerin hiçbiri cevaplayamadı."
+  },
+  {
+    "id": "ss051",
+    "type": "Bağlaç",
+    "text": "{No} {sooner} had the concert begun ___ the power went out.",
+    "options": ["than", "as", "that", "then", "when"],
+    "answer": "than",
+    "why": "'No sooner' bir karşılaştırma yapısıdır ve eşi daima 'than'dır (… -ir -mez). Devrik yapı (had the concert begun) de bu kalıbı doğrular. 'when' Hardly/Scarcely'nin eşidir.",
+    "tr": "Konser başlar başlamaz elektrik kesildi."
+  },
+  {
+    "id": "ss052",
+    "type": "Bağlaç",
+    "text": "{Hardly} had the plane taken off ___ one of its engines caught fire.",
+    "options": ["that", "when", "then", "so", "than"],
+    "answer": "when",
+    "why": "'Hardly/Scarcely had … when' kalıbı: -ir -mez. 'than' yalnızca 'No sooner' ile eşleşir; iki kalıbı karıştırmak klasik bir tuzaktır.",
+    "tr": "Uçak kalkar kalkmaz motorlarından biri alev aldı."
+  },
+  {
+    "id": "ss053",
+    "type": "Bağlaç",
+    "text": "{The} {more} you practise a language, ___ fluent you become.",
+    "options": ["more", "the most", "the more", "the much", "most"],
+    "answer": "the more",
+    "why": "'The more …, the more …' (ne kadar …, o kadar …) iki yarımda da 'the + karşılaştırma' ister. Başta 'The more' gördüysen ikinci yarım da 'the more' ile başlar.",
+    "tr": "Bir dili ne kadar çok çalışırsan o kadar akıcı hâle gelirsin."
+  },
+  {
+    "id": "ss054",
+    "type": "Bağlaç",
+    "text": "You can borrow my laptop ___ you {promise} to return it by Friday.",
+    "options": ["so that", "even though", "whereas", "as long as", "as if"],
+    "answer": "as long as",
+    "why": "Ödünç verme bir ŞARTA bağlanıyor: cuma gününe kadar geri vereceğine söz vermen. Şart bağlacı → 'as long as' (-dığı sürece). even though tezat, whereas karşılaştırma, so that amaç, as if benzetme bildirir.",
+    "tr": "Cuma gününe kadar geri vereceğine söz verdiğin sürece dizüstü bilgisayarımı ödünç alabilirsin."
+  },
+  {
+    "id": "ss055",
+    "type": "Bağlaç",
+    "text": "The old man spoke ___ he had personally witnessed the battle, although he was {born} long {after} it.",
+    "options": ["unless", "so that", "because", "in case", "as if"],
+    "answer": "as if",
+    "why": "Adam savaştan çok sonra doğmuş (born long after it) → savaşı görmüş olamaz; ama görmüş GİBİ anlatıyor. Gerçek dışı benzetme → 'as if'. because ve diğerleri bu 'sanki' anlamını taşımaz.",
+    "tr": "Yaşlı adam, savaştan çok sonra doğmuş olmasına rağmen savaşa bizzat tanık olmuş gibi konuşuyordu."
+  },
+  {
+    "id": "ss056",
+    "type": "Bağlaç",
+    "text": "Take an {umbrella} with you ___ it {rains} later in the afternoon.",
+    "options": ["in case", "even though", "unless", "whereas", "so that"],
+    "answer": "in case",
+    "why": "Şemsiye almak bir ÖNLEM; yağmur ise olası bir durum → 'in case' (… ihtimaline karşı). 'so that it rains' şemsiyeyi yağmur yağsın diye almak olurdu; unless anlamı tersine çevirir.",
+    "tr": "Öğleden sonra yağmur yağma ihtimaline karşı yanına bir şemsiye al."
+  },
+  {
+    "id": "ss057",
+    "type": "Bağlaç",
+    "text": "___ we have more {data}, we {cannot} draw any firm conclusions.",
+    "options": ["Because", "Until", "Whereas", "So that", "As if"],
+    "answer": "Until",
+    "why": "Olumsuz ana cümle (cannot draw) + daha fazla veri bekleme → '… -e kadar': 'Until'. 'not … until' kalıbı bir şeyin ancak belli bir noktadan sonra olacağını söyler.",
+    "tr": "Daha fazla veriye sahip olana kadar kesin bir sonuca varamayız."
+  },
+  {
+    "id": "ss058",
+    "type": "Bağlaç",
+    "text": "___ she is the {youngest} member of the team, she is {already} its most {respected} scientist.",
+    "options": ["Unless", "Because", "Even though", "So that", "As soon as"],
+    "answer": "Even though",
+    "why": "Beklenmedik bir durum var: ekibin en genci ama şimdiden en saygın bilim insanı. Ters düşen iki bilgi → tezat: 'Even though'. because bu durumu sebep-sonuca çevirirdi.",
+    "tr": "Ekibin en genç üyesi olmasına rağmen şimdiden en saygın bilim insanı o."
+  },
+  {
+    "id": "ss059",
+    "type": "Bağlaç",
+    "text": "The factory was {closed} down last month; ___, hundreds of workers {lost} their jobs.",
+    "options": ["in contrast", "for example", "on the other hand", "as a result", "however"],
+    "answer": "as a result",
+    "why": "Fabrika kapandı → yüzlerce işçi işini kaybetti. İkinci cümle birincinin SONUCU → 'as a result'. however ve on the other hand zıtlık, for example örnek bildirir.",
+    "tr": "Fabrika geçen ay kapandı; bunun sonucunda yüzlerce işçi işini kaybetti."
+  },
+  {
+    "id": "ss060",
+    "type": "Bağlaç",
+    "text": "Fast food is cheap and {convenient}; ___, it is often {high} in salt and fat.",
+    "options": ["for instance", "as a result", "similarly", "therefore", "however"],
+    "answer": "however",
+    "why": "İlk yarım olumlu (cheap, convenient), ikinci yarım olumsuz (high in salt and fat) → zıtlık: 'however'. therefore ve as a result sonuç, similarly benzerlik kurar.",
+    "tr": "Hazır yiyecek ucuz ve pratiktir; ancak çoğu zaman tuz ve yağ bakımından yüksektir."
+  },
+  {
+    "id": "ss061",
+    "type": "Bağlaç",
+    "text": "Always wear a seat belt; ___, you {could} be seriously {injured} in an accident.",
+    "options": ["otherwise", "moreover", "similarly", "for example", "therefore"],
+    "answer": "otherwise",
+    "why": "İlk yarım bir öğüt (wear a seat belt), ikinci yarım uyulmazsa olacak kötü sonuç (could be injured) → 'otherwise' (aksi takdirde). therefore bu sonucu kemer takmaya bağlardı; anlam tersine döner.",
+    "tr": "Her zaman emniyet kemeri tak; aksi takdirde bir kazada ağır yaralanabilirsin."
+  },
+  {
+    "id": "ss062",
+    "type": "Bağlaç",
+    "text": "___ the exams are {over}, students can {finally} relax and enjoy their holiday.",
+    "options": ["Even though", "Now that", "Unless", "So that", "As if"],
+    "answer": "Now that",
+    "why": "Sınavlar BİTTİ ve bunun sonucu olarak artık dinlenebilirler → 'Now that' (madem artık …, … -dığına göre). 'finally' de yeni oluşan durumu vurgular.",
+    "tr": "Sınavlar bittiğine göre öğrenciler nihayet dinlenip tatillerinin tadını çıkarabilir."
+  },
+  {
+    "id": "ss063",
+    "type": "Bağlaç",
+    "text": "___ you have {registered}, you {can} access all the online materials free of charge.",
+    "options": ["Whereas", "Unless", "Once", "Even though", "So that"],
+    "answer": "Once",
+    "why": "Önce kayıt ol (have registered), sonra erişebilirsin → '-dıktan sonra, bir kez … -ince': 'Once'. Present Perfect'in zaman bağlacıyla kullanılması işin önce bitmesi gerektiğini gösterir.",
+    "tr": "Bir kez kayıt olduktan sonra tüm çevrim içi materyallere ücretsiz erişebilirsin."
+  },
+  {
+    "id": "ss064",
+    "type": "Bağlaç",
+    "text": "Many employees would {rather} work from home ___ commute to the office every day.",
+    "options": ["but", "that", "then", "than", "as"],
+    "answer": "than",
+    "why": "'would rather' bir tercih kalıbıdır ve karşılaştırma 'than' ile kurulur: would rather A than B. 'then' (sonra) ile 'than' karıştırılmamalı.",
+    "tr": "Birçok çalışan her gün ofise gidip gelmek yerine evden çalışmayı tercih eder."
+  },
+  {
+    "id": "ss065",
+    "type": "Bağlaç",
+    "text": "The bookshop was {closed}, ___ we {went} to the library instead.",
+    "options": ["because of", "for", "or", "nor", "so"],
+    "answer": "so",
+    "why": "Kitapçı kapalıydı → biz de kütüphaneye gittik. İkinci yarım birincinin SONUCU → 'so'. 'because of' arkasından cümle değil isim ister; 'for' sebep bildirir ve anlamı ters çevirir.",
+    "tr": "Kitapçı kapalıydı, biz de onun yerine kütüphaneye gittik."
+  },
+  {
+    "id": "ss066",
+    "type": "Bağlaç",
+    "text": "Scientists warn that ___ urgent action is taken, many coral reefs will {disappear} within decades.",
+    "options": ["unless", "as long as", "whereas", "because", "so that"],
+    "answer": "unless",
+    "why": "Bilim insanları uyarıyor: acil önlem ALINMAZSA mercanlar yok olacak. Kötü sonucu önleyen şart → 'unless'. 'as long as' önlem alınırsa yok olacaklarını söylerdi; mantığa ters.",
+    "tr": "Bilim insanları acil önlem alınmazsa birçok mercan resifinin on yıllar içinde yok olacağı uyarısında bulunuyor."
+  },
+  {
+    "id": "ss067",
+    "type": "Bağlaç",
+    "text": "Many students {prefer} to study in groups ___ alone.",
+    "options": ["in case", "rather than", "so that", "as well as", "as if"],
+    "answer": "rather than",
+    "why": "'prefer' iki seçenekten birini öne çıkarır: gruplarla çalışmayı, yalnız çalışmaya tercih → 'rather than' (… yerine). 'as well as' iki seçeneği birlikte ekler; tercih anlamı kaybolur.",
+    "tr": "Birçok öğrenci yalnız çalışmak yerine grup hâlinde çalışmayı tercih eder."
+  },
+  {
+    "id": "ss068",
+    "type": "Edat",
+    "text": "Surveys show that a growing number of teenagers are {addicted} ___ social media and online games.",
+    "options": ["at", "with", "to", "on", "for"],
+    "answer": "to",
+    "why": "Edatı boşluğun solundaki sıfat belirler: 'addicted to' (-e bağımlı). Cümlenin gerisini açmana gerek yoktu.",
+    "tr": "Anketler, sosyal medyaya ve çevrim içi oyunlara bağımlı gençlerin sayısının arttığını gösteriyor."
+  },
+  {
+    "id": "ss069",
+    "type": "Edat",
+    "text": "The success of the vaccination campaign was largely {due} ___ the efforts of local volunteers.",
+    "options": ["for", "with", "by", "to", "of"],
+    "answer": "to",
+    "why": "'due to' (-den dolayı, … sayesinde) kalıptır. Araya 'largely' girse de edatı 'due' belirler.",
+    "tr": "Aşı kampanyasının başarısı büyük ölçüde yerel gönüllülerin çabaları sayesindeydi."
+  },
+  {
+    "id": "ss070",
+    "type": "Edat",
+    "text": "The professor {insisted} ___ checking every source herself before the article was published.",
+    "options": ["at", "with", "for", "in", "on"],
+    "answer": "on",
+    "why": "'insist on + -ing' (-de ısrar etmek) kalıptır. Edattan sonra fiil gelirse -ing alır: on checking.",
+    "tr": "Profesör, makale yayımlanmadan önce her kaynağı bizzat kontrol etmekte ısrar etti."
+  },
+  {
+    "id": "ss071",
+    "type": "Edat",
+    "text": "Children who grow up bilingual are often {capable} ___ switching between languages with ease.",
+    "options": ["of", "at", "in", "for", "with"],
+    "answer": "of",
+    "why": "'capable of + -ing' (-ebilecek yetenekte) kalıptır. Eş anlamlısı 'able to' ise mastar alır; ikisini karıştırma.",
+    "tr": "İki dilli büyüyen çocuklar çoğu zaman diller arasında kolayca geçiş yapabilir."
+  },
+  {
+    "id": "ss072",
+    "type": "Edat",
+    "text": "The new data protection law {prevents} companies ___ collecting personal information without consent.",
+    "options": ["with", "from", "of", "against", "to"],
+    "answer": "from",
+    "why": "'prevent sb/sth from + -ing' (birinin bir şey yapmasını engellemek) kalıptır. Aynı kalıbı stop, keep, prohibit, discourage da alır.",
+    "tr": "Yeni veri koruma yasası şirketlerin izin almadan kişisel bilgi toplamasını engelliyor."
+  },
+  {
+    "id": "ss073",
+    "type": "Edat",
+    "text": "The chemical company has been {accused} ___ polluting the river for more than a decade.",
+    "options": ["with", "about", "of", "for", "on"],
+    "answer": "of",
+    "why": "'accuse sb of sth' (birini bir şeyle suçlamak) kalıptır. 'blame sb for' ile karıştırma: accuse → of, blame → for, charge → with.",
+    "tr": "Kimya şirketi on yılı aşkın süredir nehri kirletmekle suçlanıyor."
+  },
+  {
+    "id": "ss074",
+    "type": "Edat",
+    "text": "Air pollution {contributes} significantly ___ the rise in respiratory diseases in big cities.",
+    "options": ["with", "for", "in", "to", "on"],
+    "answer": "to",
+    "why": "'contribute to' (-e katkıda bulunmak, -e yol açmak) kalıptır. Araya 'significantly' girmesi edatı değiştirmez.",
+    "tr": "Hava kirliliği büyük şehirlerde solunum yolu hastalıklarının artmasına önemli ölçüde katkıda bulunuyor."
+  },
+  {
+    "id": "ss075",
+    "type": "Edat",
+    "text": "The results of the latest study are {consistent} ___ earlier findings on the subject.",
+    "options": ["to", "for", "at", "on", "with"],
+    "answer": "with",
+    "why": "'consistent with' (ile tutarlı) kalıptır; akademik metinlerde çok sık çıkar. Zıt anlamlısı da aynı edatı alır: inconsistent with.",
+    "tr": "Son çalışmanın sonuçları konuyla ilgili önceki bulgularla tutarlı."
+  },
+  {
+    "id": "ss076",
+    "type": "Edat",
+    "text": "Many first-year students find it hard to {cope} ___ the pressure of university exams.",
+    "options": ["with", "at", "on", "for", "about"],
+    "answer": "with",
+    "why": "'cope with' (ile başa çıkmak) kalıptır. Eş anlamlıları da 'with' alır: deal with, handle ise edatsız kullanılır.",
+    "tr": "Birçok birinci sınıf öğrencisi üniversite sınavlarının baskısıyla başa çıkmakta zorlanıyor."
+  },
+  {
+    "id": "ss077",
+    "type": "Edat",
+    "text": "The Caspian region is {rich} ___ natural resources such as oil and natural gas.",
+    "options": ["at", "in", "on", "for", "of"],
+    "answer": "in",
+    "why": "'rich in' (bakımından zengin) kalıptır: rich in vitamins, rich in history. Zıt anlamlısı 'poor in' de aynı edatı alır.",
+    "tr": "Hazar bölgesi petrol ve doğal gaz gibi doğal kaynaklar bakımından zengindir."
+  },
+  {
+    "id": "ss078",
+    "type": "Edat",
+    "text": "In most countries, local authorities are {responsible} ___ providing clean drinking water.",
+    "options": ["to", "of", "for", "at", "with"],
+    "answer": "for",
+    "why": "'responsible for + -ing/isim' (-den sorumlu) kalıptır. 'responsible to' ise 'birine karşı hesap veren' demektir; burada iş söz konusu.",
+    "tr": "Çoğu ülkede temiz içme suyu sağlamaktan yerel yönetimler sorumludur."
+  },
+  {
+    "id": "ss079",
+    "type": "Edat",
+    "text": "Her parents did not {approve} ___ her decision to leave medical school and become a musician.",
+    "options": ["at", "with", "on", "of", "for"],
+    "answer": "of",
+    "why": "'approve of' (-i onaylamak, uygun bulmak) kalıptır. Edatsız 'approve' resmî onay verir (approve a budget); kişisel onay 'approve of' ister.",
+    "tr": "Ailesi onun tıp fakültesini bırakıp müzisyen olma kararını onaylamadı."
+  },
+  {
+    "id": "ss080",
+    "type": "Edat",
+    "text": "Early human communities {relied} heavily ___ hunting and gathering for their food.",
+    "options": ["at", "from", "with", "in", "on"],
+    "answer": "on",
+    "why": "'rely on' (-e dayanmak, güvenmek) kalıptır; 'depend on' ile aynı edatı alır. 'heavily' araya girse de edatı fiil belirler.",
+    "tr": "İlk insan toplulukları yiyecek için büyük ölçüde avcılık ve toplayıcılığa dayanıyordu."
+  },
+  {
+    "id": "ss081",
+    "type": "Edat",
+    "text": "Many people with high blood pressure are completely {unaware} ___ their condition.",
+    "options": ["of", "in", "for", "at", "with"],
+    "answer": "of",
+    "why": "'aware/unaware of' (-in farkında olan/olmayan) kalıptır. 'completely' yalnız pekiştirir; edatı sıfat belirler.",
+    "tr": "Yüksek tansiyonu olan birçok kişi durumunun hiç farkında değil."
+  },
+  {
+    "id": "ss082",
+    "type": "Edat",
+    "text": "Only a small number of climbers {succeed} ___ reaching the summit without extra oxygen.",
+    "options": ["to", "in", "with", "on", "at"],
+    "answer": "in",
+    "why": "'succeed in + -ing' (-mayı başarmak) kalıptır. Aynı anlamdaki 'manage' ise mastar alır: manage to reach.",
+    "tr": "Yalnızca az sayıda dağcı ek oksijen olmadan zirveye ulaşmayı başarıyor."
+  },
+  {
+    "id": "ss083",
+    "type": "Edat",
+    "text": "Lack of sleep can have a serious negative {effect} ___ concentration and memory.",
+    "options": ["at", "in", "on", "to", "for"],
+    "answer": "on",
+    "why": "İsimden sonra gelen edatı isim belirler: 'effect on' (üzerinde etki). Aynı kalıp: impact on, influence on.",
+    "tr": "Uykusuzluğun dikkat ve bellek üzerinde ciddi olumsuz bir etkisi olabilir."
+  },
+  {
+    "id": "ss084",
+    "type": "Edat",
+    "text": "Environmental groups strongly {objected} ___ the plan to build a motorway through the forest.",
+    "options": ["on", "with", "for", "to", "against"],
+    "answer": "to",
+    "why": "'object to' (-e itiraz etmek) kalıptır. Anlamca 'karşı' dediği için 'against' cazip görünür, ama fiil 'to' ister: object to, be opposed to.",
+    "tr": "Çevre grupları ormanın içinden otoyol geçirme planına şiddetle itiraz etti."
+  },
+  {
+    "id": "ss085",
+    "type": "Edat",
+    "text": "The new drug {differs} ___ earlier treatments in several important ways.",
+    "options": ["at", "with", "to", "of", "from"],
+    "answer": "from",
+    "why": "'differ from' (-den farklı olmak) kalıptır; sıfatı da aynı edatı alır: different from. 'differ with' ise 'birisiyle aynı fikirde olmamak' demektir.",
+    "tr": "Yeni ilaç önceki tedavilerden birkaç önemli bakımdan ayrılıyor."
+  },
+  {
+    "id": "ss086",
+    "type": "Edat",
+    "text": "The city of Bursa is {famous} ___ its historic mosques, silk bazaars and thermal baths.",
+    "options": ["for", "of", "with", "in", "at"],
+    "answer": "for",
+    "why": "'famous for' (ile ünlü) kalıptır. Aynı edatı alan eş anlamlılar: known for, noted for.",
+    "tr": "Bursa kenti tarihî camileri, ipek çarşıları ve kaplıcalarıyla ünlüdür."
+  },
+  {
+    "id": "ss087",
+    "type": "Edat",
+    "text": "The research team {consists} ___ five biologists, two chemists and a statistician.",
+    "options": ["at", "of", "with", "from", "on"],
+    "answer": "of",
+    "why": "'consist of' (-den oluşmak) kalıptır. Eş anlamlısı 'be made up of' da 'of' alır; 'comprise' ise edatsız kullanılır.",
+    "tr": "Araştırma ekibi beş biyolog, iki kimyager ve bir istatistikçiden oluşuyor."
+  },
+  {
+    "id": "ss088",
+    "type": "Edat",
+    "text": "Heavy smoking greatly increases the {risk} ___ developing lung cancer.",
+    "options": ["with", "to", "of", "at", "on"],
+    "answer": "of",
+    "why": "'risk of + -ing/isim' (… riski) kalıptır. 'at risk' ise ayrı bir öbektir (risk altında) ve arkasından isim almaz.",
+    "tr": "Aşırı sigara içmek akciğer kanserine yakalanma riskini büyük ölçüde artırır."
+  },
+  {
+    "id": "ss089",
+    "type": "Edat",
+    "text": "An increasing number of young researchers are {interested} ___ artificial intelligence.",
+    "options": ["with", "for", "at", "in", "on"],
+    "answer": "in",
+    "why": "'interested in' (-e ilgili) kalıptır. İsmi de aynı edatı alır: an interest in.",
+    "tr": "Giderek daha fazla genç araştırmacı yapay zekâyla ilgileniyor."
+  },
+  {
+    "id": "ss090",
+    "type": "Edat",
+    "text": "The airline {apologised} to its passengers ___ the long delay.",
+    "options": ["with", "at", "of", "on", "for"],
+    "answer": "for",
+    "why": "'apologise to sb for sth' (birinden bir şey için özür dilemek) kalıbında kişi 'to', sebep 'for' alır. Kişi zaten 'to its passengers' ile verilmiş; boşluk sebebi soruyor.",
+    "tr": "Havayolu şirketi uzun rötar için yolcularından özür diledi."
+  },
+  {
+    "id": "ss091",
+    "type": "Edat",
+    "text": "There has been a sharp {increase} ___ the number of electric cars on the roads.",
+    "options": ["in", "on", "at", "for", "of"],
+    "answer": "in",
+    "why": "'increase in + neyin arttığı' kalıptır: an increase in the number of … . 'increase of' yalnız artış MİKTARINI verir: an increase of 20%. Aynı ayrım decrease/rise/fall için de geçerlidir.",
+    "tr": "Yollardaki elektrikli otomobil sayısında keskin bir artış oldu."
+  },
+  {
+    "id": "ss092",
+    "type": "Edat",
+    "text": "All medicines should be kept {out} ___ the reach of young children.",
+    "options": ["off", "of", "at", "from", "away"],
+    "answer": "of",
+    "why": "'out of reach' (erişemeyeceği yerde) kalıptır; 'out' kendi başına edat gibi 'of' ister: out of order, out of date. 'away from' olsaydı 'away' tek başına yetmezdi.",
+    "tr": "Tüm ilaçlar küçük çocukların ulaşamayacağı yerlerde saklanmalıdır."
+  },
+  {
+    "id": "ss093",
+    "type": "Edat",
+    "text": "Thanks to modern technology, scientists now have {access} ___ a huge amount of satellite data.",
+    "options": ["for", "on", "to", "of", "in"],
+    "answer": "to",
+    "why": "'access to' (-e erişim) kalıptır: have access to, gain access to. İsimden sonraki edatı isim belirler.",
+    "tr": "Modern teknoloji sayesinde bilim insanları artık çok büyük miktarda uydu verisine erişebiliyor."
+  },
+  {
+    "id": "ss094",
+    "type": "Edat",
+    "text": "The award-winning film is {based} ___ a true story that took place during the war.",
+    "options": ["with", "from", "at", "on", "in"],
+    "answer": "on",
+    "why": "'be based on' (-e dayanmak) kalıptır. Anlamca 'kaynağından' dediği için 'from' cazip görünür; ama kalıp daima 'on'dur.",
+    "tr": "Ödüllü film, savaş sırasında yaşanmış gerçek bir hikâyeye dayanıyor."
+  },
+  {
+    "id": "ss095",
+    "type": "Edat",
+    "text": "More than two thousand university students {took} {part} ___ the national survey.",
+    "options": ["on", "with", "of", "at", "in"],
+    "answer": "in",
+    "why": "'take part in' (-e katılmak) kalıptır; eş anlamlısı 'participate in' da aynı edatı alır. 'join' ise edatsızdır.",
+    "tr": "Ulusal ankete iki binden fazla üniversite öğrencisi katıldı."
+  },
+  {
+    "id": "ss096",
+    "type": "Edat",
+    "text": "Instead of social issues, the committee {focused} ___ the economic effects of the policy.",
+    "options": ["on", "in", "at", "to", "for"],
+    "answer": "on",
+    "why": "'focus on' (-e odaklanmak) kalıptır; isim hâli de aynı edatı alır: a focus on. Cümlenin başını açmana gerek yoktu.",
+    "tr": "Komite sosyal konular yerine politikanın ekonomik etkilerine odaklandı."
+  },
+  {
+    "id": "ss097",
+    "type": "Kelime",
+    "text": "{Unlike} his {talkative} brother, Mark is quite ___ and {rarely} speaks in meetings.",
+    "options": ["generous", "reserved", "ambitious", "reliable", "curious"],
+    "answer": "reserved",
+    "why": "Kelime sorusunda cümledeki İPUCUNU ara. 'Unlike' bir karşıtlık kuruyor: kardeşi 'talkative' (konuşkan), o ise tersi ve 'rarely speaks' (nadiren konuşuyor) → çekingen, ağzı sıkı: 'reserved'.",
+    "tr": "Konuşkan kardeşinin aksine Mark oldukça çekingendir ve toplantılarda nadiren konuşur."
+  },
+  {
+    "id": "ss098",
+    "type": "Kelime",
+    "text": "The new {bridge} has been designed to ___ earthquakes of up to {magnitude} 8.",
+    "options": ["trigger", "measure", "withstand", "predict", "cause"],
+    "answer": "withstand",
+    "why": "Bir köprünün depremle ilişkisi ne olabilir? Köprü depremi tahmin edemez, ölçemez, tetikleyemez; ancak 8 büyüklüğe kadar sarsıntıya DAYANABİLİR: 'withstand'.",
+    "tr": "Yeni köprü 8 büyüklüğe kadar depremlere dayanacak şekilde tasarlandı."
+  },
+  {
+    "id": "ss099",
+    "type": "Kelime",
+    "text": "Because the evidence was {insufficient}, the judge had no choice but to ___ the suspect.",
+    "options": ["accuse", "convict", "sentence", "release", "arrest"],
+    "answer": "release",
+    "why": "Sebep bağlacı sonucu belirler: kanıt 'insufficient' (yetersiz) ise şüpheli mahkûm edilemez → serbest bırakılır: 'release'. convict ve sentence yeterli kanıt ister.",
+    "tr": "Kanıtlar yetersiz olduğu için hâkimin şüpheliyi serbest bırakmaktan başka seçeneği yoktu."
+  },
+  {
+    "id": "ss100",
+    "type": "Kelime",
+    "text": "Antibiotics are ___ against viruses; they {only} work on {bacteria}.",
+    "options": ["available", "popular", "harmful", "essential", "ineffective"],
+    "answer": "ineffective",
+    "why": "Noktalı virgülden sonraki cümle açıklama yapıyor: antibiyotikler 'only' bakterilere etki eder → virüslere karşı etkisizdir: 'ineffective'.",
+    "tr": "Antibiyotikler virüslere karşı etkisizdir; yalnızca bakterilere etki ederler."
+  },
+  {
+    "id": "ss101",
+    "type": "Kelime",
+    "text": "The {drought} lasted for three years, causing a severe ___ of food in the region.",
+    "options": ["shortage", "variety", "surplus", "quality", "supply"],
+    "answer": "shortage",
+    "why": "Üç yıl süren 'drought' (kuraklık) neyin sebebi olur? Yiyecek KITLIĞININ: 'shortage'. surplus (fazlalık) tam tersidir; 'severe' (şiddetli) de olumsuz bir kelime bekler.",
+    "tr": "Kuraklık üç yıl sürdü ve bölgede ciddi bir gıda kıtlığına yol açtı."
+  },
+  {
+    "id": "ss102",
+    "type": "Kelime",
+    "text": "The two theories seem ___ at first, {but} a closer look reveals that they are actually {compatible}.",
+    "options": ["similar", "contradictory", "simple", "obvious", "reliable"],
+    "answer": "contradictory",
+    "why": "'but' ile ilk izlenim ve gerçek karşı karşıya konuyor. Gerçekte 'compatible' (bağdaşır) iseler, ilk bakışta tersi görünmüşlerdir → çelişkili: 'contradictory'.",
+    "tr": "İki kuram ilk bakışta çelişkili görünür ama daha yakından bakınca aslında bağdaştıkları anlaşılır."
+  },
+  {
+    "id": "ss103",
+    "type": "Kelime",
+    "text": "Doctors {recommend} taking the tablets with food to ___ the risk of stomach irritation.",
+    "options": ["justify", "ignore", "minimise", "estimate", "increase"],
+    "answer": "minimise",
+    "why": "Doktorun ÖNERDİĞİ (recommend) bir şey riski azaltmak için olmalı → 'minimise'. increase anlamı tersine çevirir, ignore/estimate/justify ise öneriyle ilgisizdir.",
+    "tr": "Doktorlar mide tahrişi riskini en aza indirmek için tabletlerin yemekle alınmasını öneriyor."
+  },
+  {
+    "id": "ss104",
+    "type": "Kelime",
+    "text": "The ancient manuscript was so ___ that it might {crumble} at the slightest {touch}.",
+    "options": ["common", "durable", "legible", "fragile", "modern"],
+    "answer": "fragile",
+    "why": "'so … that' yapısında sonuç sıfatı açıklar: en ufak dokunuşta 'crumble' (ufalanıp dağılmak) → kırılgan: 'fragile'. durable (dayanıklı) tam tersidir.",
+    "tr": "Antik el yazması o kadar kırılgandı ki en ufak dokunuşta ufalanabilirdi."
+  },
+  {
+    "id": "ss105",
+    "type": "Kelime",
+    "text": "The company had to ___ 200 workers after its sales {fell} {sharply}.",
+    "options": ["promote", "train", "reward", "hire", "dismiss"],
+    "answer": "dismiss",
+    "why": "Satışlar 'fell sharply' (keskin biçimde düştü) → şirket çalışan sayısını azaltmak zorunda kalır: 'dismiss' (işten çıkarmak). hire, promote, reward iyi giden bir şirketin işleridir.",
+    "tr": "Satışları keskin biçimde düşünce şirket 200 çalışanı işten çıkarmak zorunda kaldı."
+  },
+  {
+    "id": "ss106",
+    "type": "Kelime",
+    "text": "The government has {promised} to ___ poverty by creating new {jobs} in rural areas.",
+    "options": ["alleviate", "ignore", "measure", "cause", "encourage"],
+    "answer": "alleviate",
+    "why": "Yeni iş yaratmak yoksulluğu ne yapar? AZALTIR, hafifletir: 'alleviate'. 'promised' da olumlu bir eylem bekler; encourage ve cause yoksulluğu artırır.",
+    "tr": "Hükümet kırsal bölgelerde yeni iş olanakları yaratarak yoksulluğu hafifletme sözü verdi."
+  },
+  {
+    "id": "ss107",
+    "type": "Kelime",
+    "text": "{Although} the task seemed ___ at first, it turned out to be extremely {simple}.",
+    "options": ["straightforward", "complicated", "enjoyable", "useful", "familiar"],
+    "answer": "complicated",
+    "why": "'Although' ilk izlenimle sonucu ZIT kılar. Sonuç 'simple' (basit) olduğuna göre ilk izlenim tersiydi → 'complicated'. straightforward zaten 'basit' demek; zıtlık kurmaz.",
+    "tr": "Görev ilk başta karmaşık görünse de son derece basit çıktı."
+  },
+  {
+    "id": "ss108",
+    "type": "Kelime",
+    "text": "The witness gave a ___ account of the accident, remembering {every} {detail}.",
+    "options": ["misleading", "reluctant", "thorough", "brief", "vague"],
+    "answer": "thorough",
+    "why": "Virgülden sonraki kısım anlatımı tarif ediyor: 'every detail' hatırlanmış → eksiksiz, ayrıntılı: 'thorough'. vague (belirsiz) ve brief (kısa) bununla çelişir.",
+    "tr": "Tanık, her ayrıntıyı hatırlayarak kazanın eksiksiz bir anlatımını yaptı."
+  },
+  {
+    "id": "ss109",
+    "type": "Kelime",
+    "text": "Regular exercise can ___ the symptoms of depression, making patients feel {better}.",
+    "options": ["worsen", "spread", "cause", "relieve", "hide"],
+    "answer": "relieve",
+    "why": "Sonuç 'feel better' (daha iyi hissetmek) → egzersiz belirtileri hafifletir: 'relieve'. worsen, cause ve spread hastayı kötüleştirir.",
+    "tr": "Düzenli egzersiz depresyon belirtilerini hafifletip hastaların kendilerini daha iyi hissetmesini sağlayabilir."
+  },
+  {
+    "id": "ss110",
+    "type": "Kelime",
+    "text": "The explorer's journey was full of ___; he {survived} {storms}, hunger and wild animals.",
+    "options": ["advantages", "celebrations", "luxuries", "rewards", "hardships"],
+    "answer": "hardships",
+    "why": "Noktalı virgül sonrası örnek veriyor: fırtınalar, açlık, vahşi hayvanlar ve 'survived' (hayatta kaldı) → zorluklar: 'hardships'. Diğer şıkların hepsi olumlu.",
+    "tr": "Kâşifin yolculuğu zorluklarla doluydu; fırtınalardan, açlıktan ve vahşi hayvanlardan sağ kurtuldu."
+  },
+  {
+    "id": "ss111",
+    "type": "Kelime",
+    "text": "Since the population is {growing} so fast, the city's water supply will soon be ___.",
+    "options": ["inadequate", "permanent", "invisible", "abundant", "unnecessary"],
+    "answer": "inadequate",
+    "why": "Sebep: nüfus hızla 'growing' (artıyor). Su aynı kalırsa sonuç ne olur? YETERSİZ kalır: 'inadequate'. abundant (bol) sebep-sonucu tersine çevirir.",
+    "tr": "Nüfus bu kadar hızlı arttığı için kentin su kaynakları yakında yetersiz kalacak."
+  },
+  {
+    "id": "ss112",
+    "type": "Kelime",
+    "text": "The professor's lecture was so ___ that even students with no background in physics {understood} it {easily}.",
+    "options": ["dull", "accessible", "lengthy", "technical", "obscure"],
+    "answer": "accessible",
+    "why": "'so … that' sonucu: fizik bilmeyenler bile 'understood it easily' → herkesin anlayabileceği: 'accessible'. obscure ve technical tam tersi etkiyi yaratırdı.",
+    "tr": "Profesörün dersi o kadar anlaşılırdı ki fizik altyapısı olmayan öğrenciler bile kolayca anladı."
+  },
+  {
+    "id": "ss113",
+    "type": "Kelime",
+    "text": "To {protect} {non-smokers}, the new law will ___ smoking in all enclosed public places.",
+    "options": ["permit", "reward", "ban", "encourage", "advertise"],
+    "answer": "ban",
+    "why": "Yasanın AMACI 'protect non-smokers' (sigara içmeyenleri korumak) → kapalı alanlarda sigarayı yasaklar: 'ban'. permit ve encourage amaçla çelişir.",
+    "tr": "Yeni yasa, sigara içmeyenleri korumak için tüm kapalı kamusal alanlarda sigarayı yasaklayacak."
+  },
+  {
+    "id": "ss114",
+    "type": "Kelime",
+    "text": "The scientists were ___ about the first results, so they {repeated} the experiment several times.",
+    "options": ["indifferent", "enthusiastic", "confident", "sceptical", "certain"],
+    "answer": "sceptical",
+    "why": "Sonuç: deneyi 'repeated' (tekrarladılar). İnsan neden bir deneyi tekrar tekrar yapar? Sonuçtan ŞÜPHE ettiği için: 'sceptical'. certain ve confident tekrarı gereksiz kılar.",
+    "tr": "Bilim insanları ilk sonuçlardan kuşkuluydu, bu yüzden deneyi birkaç kez tekrarladılar."
+  },
+  {
+    "id": "ss115",
+    "type": "Kelime",
+    "text": "The painting was once thought to be ___, {but} experts have now proved that it is a {fake}.",
+    "options": ["worthless", "modern", "damaged", "famous", "authentic"],
+    "answer": "authentic",
+    "why": "'but' eski düşünceyle yeni bulguyu karşıtlaştırıyor. Şimdi 'fake' (sahte) olduğu kanıtlandıysa, eskiden tersi sanılıyordu → gerçek, orijinal: 'authentic'.",
+    "tr": "Tablonun bir zamanlar orijinal olduğu düşünülüyordu ama uzmanlar artık sahte olduğunu kanıtladı."
+  },
+  {
+    "id": "ss116",
+    "type": "Kelime",
+    "text": "The island is ___ populated; {fewer} than a hundred people live there.",
+    "options": ["sparsely", "highly", "largely", "densely", "heavily"],
+    "answer": "sparsely",
+    "why": "Açıklama noktalı virgülden sonra: 'fewer than a hundred' → nüfus seyrek: 'sparsely populated'. densely ve heavily populated kalabalık yerler için kullanılır.",
+    "tr": "Ada seyrek nüfusludur; orada yüzden az kişi yaşar."
+  },
+  {
+    "id": "ss117",
+    "type": "Kelime",
+    "text": "{Tired} of the city's {noise}, the writer moved to a ___ village in the mountains.",
+    "options": ["crowded", "tranquil", "bustling", "industrial", "polluted"],
+    "answer": "tranquil",
+    "why": "Yazar şehrin 'noise'undan (gürültü) 'tired' (bıkmış) → gürültünün tersini arar: sakin, huzurlu: 'tranquil'. bustling ve crowded kaçtığı şeyin ta kendisi.",
+    "tr": "Şehrin gürültüsünden bıkan yazar dağlardaki sakin bir köye taşındı."
+  },
+  {
+    "id": "ss118",
+    "type": "Kelime",
+    "text": "The two companies decided to ___ in order to become {stronger} {against} their rivals.",
+    "options": ["compete", "withdraw", "merge", "collapse", "separate"],
+    "answer": "merge",
+    "why": "Amaç: rakiplerine 'against' (karşı) 'stronger' (daha güçlü) olmak. İki şirket bunu nasıl başarır? BİRLEŞEREK: 'merge'. separate ve withdraw onları zayıflatır.",
+    "tr": "İki şirket rakiplerine karşı güçlenmek için birleşmeye karar verdi."
+  },
+  {
+    "id": "ss119",
+    "type": "Kelime",
+    "text": "His argument was ___ because it was based on {false} {assumptions}.",
+    "options": ["original", "logical", "balanced", "flawed", "convincing"],
+    "answer": "flawed",
+    "why": "Sebep bağlacı: 'false assumptions' (yanlış varsayımlar) üzerine kurulu bir argüman kusurludur: 'flawed'. convincing ve logical sebeple çelişir.",
+    "tr": "Argümanı kusurluydu çünkü yanlış varsayımlara dayanıyordu."
+  },
+  {
+    "id": "ss120",
+    "type": "Kelime",
+    "text": "Fossil fuels are a ___ resource: once they are used up, they {cannot} be {replaced}.",
+    "options": ["sustainable", "renewable", "cheap", "infinite", "finite"],
+    "answer": "finite",
+    "why": "İki noktadan sonra tanım geliyor: tükenince 'cannot be replaced' (yerine konamaz) → sınırlı: 'finite'. renewable, infinite ve sustainable tam tersini söyler.",
+    "tr": "Fosil yakıtlar sınırlı bir kaynaktır: bir kez tükendiklerinde yerlerine yenisi konamaz."
+  },
+  {
+    "id": "ss121",
+    "type": "Kelime",
+    "text": "The doctor's handwriting was so ___ that the pharmacist could {not} {read} the prescription.",
+    "options": ["illegible", "tidy", "elegant", "neat", "careful"],
+    "answer": "illegible",
+    "why": "'so … that' sonucu: eczacı reçeteyi 'could not read' → okunaksız: 'illegible'. Diğer şıkların hepsi okunaklı bir yazıyı tarif eder.",
+    "tr": "Doktorun el yazısı o kadar okunaksızdı ki eczacı reçeteyi okuyamadı."
+  },
+  {
+    "id": "ss122",
+    "type": "Kelime",
+    "text": "{Despite} decades of research, the cause of the disease {remains} ___.",
+    "options": ["obvious", "unknown", "curable", "contagious", "common"],
+    "answer": "unknown",
+    "why": "'Despite' beklentinin tersini haber verir: onca yıllık araştırmaya RAĞMEN sebep hâlâ ('remains') bilinmiyor: 'unknown'. obvious olsaydı 'despite' anlamsız kalırdı.",
+    "tr": "Onlarca yıllık araştırmaya rağmen hastalığın nedeni hâlâ bilinmiyor."
+  },
+  {
+    "id": "ss123",
+    "type": "Kelime",
+    "text": "The athlete was ___ from the competition after {testing} {positive} for banned drugs.",
+    "options": ["rewarded", "promoted", "disqualified", "selected", "praised"],
+    "answer": "disqualified",
+    "why": "Yasaklı madde testi 'positive' çıkan sporcuya ne olur? Yarışmadan DİSKALİFİYE edilir: 'disqualified'. Ayrıca 'from the competition' yalnızca bu fiille uyar.",
+    "tr": "Sporcu yasaklı madde testi pozitif çıkınca yarışmadan diskalifiye edildi."
+  },
+  {
+    "id": "ss124",
+    "type": "Kelime",
+    "text": "The volcano is considered ___ because it has {not} {erupted} for thousands of years.",
+    "options": ["unstable", "dangerous", "active", "dormant", "explosive"],
+    "answer": "dormant",
+    "why": "Sebep: binlerce yıldır 'not erupted' (patlamadı) → uykuda: 'dormant'. active, explosive ve unstable bu sebeple çelişir.",
+    "tr": "Yanardağ binlerce yıldır patlamadığı için uykuda kabul ediliyor."
+  },
+  {
+    "id": "ss125",
+    "type": "Kelime",
+    "text": "The committee reached a ___ decision; {every} single member {voted} in favour.",
+    "options": ["controversial", "divided", "hasty", "temporary", "unanimous"],
+    "answer": "unanimous",
+    "why": "Noktalı virgül açıklama yapıyor: 'every single member voted in favour' (her üye lehte oy verdi) → oybirliğiyle: 'unanimous'. divided ve controversial tam tersidir.",
+    "tr": "Komite oybirliğiyle karar aldı; her bir üye lehte oy kullandı."
+  },
+  {
+    "id": "ss126",
+    "type": "Edilgen",
+    "text": "The {Hagia} Sophia ___ as a church in the 6th {century}.",
+    "options": ["was built", "built", "has been built", "is built", "had built"],
+    "answer": "was built",
+    "why": "Etken-edilgen sorusunda iki soru sor. (1) Özne yapan mı, yapılan mı? Bir yapı kendini inşa edemez → edilgen. (2) Ne zaman? '6th century' bitmiş geçmiş → Past Simple edilgen: 'was built'.",
+    "tr": "Ayasofya 6. yüzyılda kilise olarak inşa edildi."
+  },
+  {
+    "id": "ss127",
+    "type": "Edilgen",
+    "text": "{Every} {year}, millions of tonnes of plastic ___ into the oceans.",
+    "options": ["have dumped", "are dumped", "were dumping", "dump", "dumped"],
+    "answer": "are dumped",
+    "why": "Plastik kendini denize atamaz → edilgen. 'Every year' düzenli tekrar → Simple Present edilgen: 'are dumped'. Etken şıklar plastiği eylemi yapan yapar.",
+    "tr": "Her yıl milyonlarca ton plastik okyanuslara atılıyor."
+  },
+  {
+    "id": "ss128",
+    "type": "Edilgen",
+    "text": "The full results of the national survey ___ {next} {week}.",
+    "options": ["have published", "will publish", "will be published", "publish", "were published"],
+    "answer": "will be published",
+    "why": "Sonuçlar kendini yayımlamaz → edilgen. 'next week' gelecek → 'will be published'. 'will publish' etken olduğu için nesne isterdi (neyi yayımlayacak?).",
+    "tr": "Ulusal anketin tüm sonuçları gelecek hafta yayımlanacak."
+  },
+  {
+    "id": "ss129",
+    "type": "Edilgen",
+    "text": "{Since} 2010, more than 500 new species ___ in the Amazon rainforest.",
+    "options": ["have discovered", "were discovered", "discovered", "have been discovered", "are discovering"],
+    "answer": "have been discovered",
+    "why": "Türler kendini keşfetmez → edilgen. 'Since 2010' bugüne uzanır → Present Perfect edilgen: 'have been discovered'. 'were discovered' since ile kullanılmaz; 'have discovered' etkendir.",
+    "tr": "2010'dan bu yana Amazon yağmur ormanlarında 500'den fazla yeni tür keşfedildi."
+  },
+  {
+    "id": "ss130",
+    "type": "Edilgen",
+    "text": "{By} the {time} the firefighters arrived, the old warehouse ___ completely destroyed.",
+    "options": ["was being", "would", "is", "has been", "had been"],
+    "answer": "had been",
+    "why": "'By the time' + geçmiş (arrived): itfaiye gelmeden ÖNCE depo çoktan yok olmuştu → Past Perfect edilgen: 'had been destroyed'. 'was being' yıkımı o anda süren bir iş yapar; 'completely' ile uyuşmaz.",
+    "tr": "İtfaiyeciler geldiğinde eski depo tamamen yok olmuştu."
+  },
+  {
+    "id": "ss131",
+    "type": "Edilgen",
+    "text": "The ancient temple is {believed} ___ built around {3000} BC.",
+    "options": ["to have been", "being", "to have", "having been", "to be"],
+    "answer": "to have been",
+    "why": "'is believed to …' kalıbında olay GEÇMİŞTEYSE (3000 BC) mastar perfect olur: 'to have been built'. 'to be built' gelecekte ya da şimdi yapılacak bir iş anlatırdı.",
+    "tr": "Antik tapınağın MÖ 3000 civarında inşa edildiğine inanılıyor."
+  },
+  {
+    "id": "ss132",
+    "type": "Edilgen",
+    "text": "{English} ___ as an official language in more than fifty {countries}.",
+    "options": ["is speaking", "is spoken", "has spoken", "speaks", "spoke"],
+    "answer": "is spoken",
+    "why": "Bir dil kendisi konuşmaz, konuşulur → edilgen. Genel ve bugün de geçerli bir gerçek → Simple Present edilgen: 'is spoken'.",
+    "tr": "İngilizce elliden fazla ülkede resmî dil olarak konuşuluyor."
+  },
+  {
+    "id": "ss133",
+    "type": "Edilgen",
+    "text": "The suspect ___ {yesterday} after {police} found his fingerprints at the crime scene.",
+    "options": ["has been arrested", "had arrested", "was arrested", "is arrested", "arrested"],
+    "answer": "was arrested",
+    "why": "Tutuklayan polis, tutuklanan şüpheli → edilgen. 'yesterday' belirli geçmiş → 'was arrested'. 'has been arrested' belirli bir geçmiş zamanla kullanılmaz.",
+    "tr": "Şüpheli, polis olay yerinde parmak izlerini bulunca dün tutuklandı."
+  },
+  {
+    "id": "ss134",
+    "type": "Edilgen",
+    "text": "All mobile {phones} {must} ___ off during the examination.",
+    "options": ["switched", "switch", "being switched", "be switched", "have switched"],
+    "answer": "be switched",
+    "why": "Kiplerden (must, can, should) sonra edilgen 'be + V3' olur: 'must be switched off'. Telefon kendini kapatamaz; 'must switch' etken olurdu.",
+    "tr": "Sınav süresince tüm cep telefonları kapalı tutulmalıdır."
+  },
+  {
+    "id": "ss135",
+    "type": "Edilgen",
+    "text": "The Mona Lisa ___ {by} Leonardo da Vinci in the early 16th {century}.",
+    "options": ["had painted", "painted", "has been painted", "is painted", "was painted"],
+    "answer": "was painted",
+    "why": "'by Leonardo' eylemi yapanı veriyor → cümle edilgen. '16th century' bitmiş geçmiş → 'was painted'. Etken 'painted' tabloyu ressam yapardı.",
+    "tr": "Mona Lisa, 16. yüzyılın başlarında Leonardo da Vinci tarafından resmedildi."
+  },
+  {
+    "id": "ss136",
+    "type": "Edilgen",
+    "text": "The ancient city ___ for centuries {before} archaeologists {rediscovered} it in 1920.",
+    "options": ["had been forgotten", "forgot", "had forgotten", "was forgetting", "has been forgotten"],
+    "answer": "had been forgotten",
+    "why": "Şehir unutulan taraf → edilgen. Unutulma, 1920'deki yeniden keşiften ('before … rediscovered') ÖNCE ve uzun süre → Past Perfect edilgen: 'had been forgotten'.",
+    "tr": "Antik kent, arkeologlar 1920'de onu yeniden keşfedene kadar yüzyıllarca unutulmuştu."
+  },
+  {
+    "id": "ss137",
+    "type": "Edilgen",
+    "text": "From {2030} {onwards}, all new cars sold in the country ___ with electric engines.",
+    "options": ["will equip", "will be equipped", "were equipped", "have equipped", "had been equipped"],
+    "answer": "will be equipped",
+    "why": "Arabalar donatılan taraf → edilgen. 'From 2030 onwards' geleceği gösterir → 'will be equipped'. 'will equip' etkendir, nesne isterdi.",
+    "tr": "2030'dan itibaren ülkede satılan tüm yeni otomobiller elektrikli motorla donatılacak."
+  },
+  {
+    "id": "ss138",
+    "type": "Edilgen",
+    "text": "The outdoor concert {had} {to} ___ because of the heavy storm.",
+    "options": ["cancelled", "have cancelled", "be cancelled", "cancel", "being cancelled"],
+    "answer": "be cancelled",
+    "why": "'had to' da bir kiptir; ardından edilgen 'be + V3' gelir. Konser kendini iptal edemez → 'had to be cancelled'.",
+    "tr": "Açık hava konseri şiddetli fırtına yüzünden iptal edilmek zorunda kaldı."
+  },
+  {
+    "id": "ss139",
+    "type": "Edilgen",
+    "text": "Several historic buildings in the old town ___ {right} {now}, so the streets are closed to traffic.",
+    "options": ["are restoring", "restore", "were restored", "are being restored", "have restored"],
+    "answer": "are being restored",
+    "why": "Binalar restore edilen taraf → edilgen. 'right now' şu an süren işi gösterir → Present Continuous edilgen: 'are being restored'. 'are restoring' binaları işi yapan yapar.",
+    "tr": "Eski kentteki birkaç tarihî yapı şu anda restore ediliyor, bu yüzden sokaklar trafiğe kapalı."
+  },
+  {
+    "id": "ss140",
+    "type": "Edilgen",
+    "text": "The {letter} ___ in Latin, so nobody in the village {could} read it.",
+    "options": ["writes", "wrote", "has written", "had written", "was written"],
+    "answer": "was written",
+    "why": "Mektup yazılan taraf → edilgen. Cümlenin devamındaki 'could' geçmişi gösterir → 'was written'. Etken şıklar mektubu yazar yapardı.",
+    "tr": "Mektup Latince yazılmıştı, bu yüzden köyde kimse onu okuyamadı."
+  },
+  {
+    "id": "ss141",
+    "type": "Edilgen",
+    "text": "She {had} her old {car} ___ at a local garage last week.",
+    "options": ["repaired", "to repair", "repairing", "repair", "being repaired"],
+    "answer": "repaired",
+    "why": "Ettirgen yapı: 'have + nesne + V3' = bir işi BAŞKASINA yaptırmak. Arabayı o değil tamirci onardı → 'had her car repaired'. 'have sb do' kalıbında nesne kişidir; burada nesne araba.",
+    "tr": "Geçen hafta eski arabasını yerel bir tamirhanede tamir ettirdi."
+  },
+  {
+    "id": "ss142",
+    "type": "Edilgen",
+    "text": "The secret documents ___ {before} the police {arrived}, so no evidence was left.",
+    "options": ["have been destroyed", "had been destroyed", "were destroying", "destroyed", "had destroyed"],
+    "answer": "had been destroyed",
+    "why": "Belgeler yok edilen taraf → edilgen. Polis gelmeden ÖNCE ('before … arrived') → Past Perfect edilgen: 'had been destroyed'. 'had destroyed' etkendir; belgeler bir şeyi yok etmiş olurdu.",
+    "tr": "Gizli belgeler polis gelmeden önce yok edilmişti, bu yüzden geride hiç kanıt kalmadı."
+  },
+  {
+    "id": "ss143",
+    "type": "Edilgen",
+    "text": "The accident {could} ___ if the driver {had} been more careful.",
+    "options": ["avoided", "avoid", "have been avoided", "have avoided", "be avoiding"],
+    "answer": "have been avoided",
+    "why": "Geçmişe ait gerçekleşmemiş bir olasılık ('if … had been') → 'could have + V3'. Kaza kaçınılan taraf olduğu için edilgen: 'could have been avoided'. 'could have avoided' kazayı kaçınan yapar.",
+    "tr": "Sürücü daha dikkatli olsaydı kaza önlenebilirdi."
+  },
+  {
+    "id": "ss144",
+    "type": "Edilgen",
+    "text": "The new airport ___ {when} I {visited} the city last summer, so I had to land at the old one.",
+    "options": ["had built", "was building", "is being built", "was being built", "has been built"],
+    "answer": "was being built",
+    "why": "Havalimanı inşa edilen taraf → edilgen. Ziyaret ettiğimde (visited) inşaat SÜRÜYORDU; eski havalimanına inmem de bitmediğini gösterir → Past Continuous edilgen: 'was being built'.",
+    "tr": "Geçen yaz şehri ziyaret ettiğimde yeni havalimanı hâlâ inşa ediliyordu, bu yüzden eskisine inmek zorunda kaldım."
+  },
+  {
+    "id": "ss145",
+    "type": "Edilgen",
+    "text": "More than three hundred people ___ in the earthquake {last} {night}.",
+    "options": ["had injured", "are injuring", "injured", "have injured", "were injured"],
+    "answer": "were injured",
+    "why": "İnsanlar depremde yaralanan taraf → edilgen. 'last night' belirli geçmiş → 'were injured'. Etken 'injured' nesne isterdi (kimi yaraladılar?).",
+    "tr": "Dün geceki depremde üç yüzden fazla kişi yaralandı."
+  },
+  {
+    "id": "ss146",
+    "type": "Edilgen",
+    "text": "Smoking ___ in all enclosed public places in Turkey {since} 2009.",
+    "options": ["has been banned", "is banning", "had banned", "bans", "was banned"],
+    "answer": "has been banned",
+    "why": "Sigara yasaklanan şey → edilgen. 'since 2009' bugüne uzanır → Present Perfect edilgen: 'has been banned'. 'was banned' since ile kullanılmaz.",
+    "tr": "Türkiye'de 2009'dan beri tüm kapalı kamusal alanlarda sigara yasak."
+  },
+  {
+    "id": "ss147",
+    "type": "Edilgen",
+    "text": "The old wooden {bridge} {needs} ___ before it collapses.",
+    "options": ["having repaired", "to be repaired", "to repair", "repaired", "be repaired"],
+    "answer": "to be repaired",
+    "why": "Köprü kendini onaramaz; onarılması gerekiyor → 'need + to be + V3' (edilgen mastar). 'needs to repair' köprüyü bir şeyi onaran yapar.",
+    "tr": "Eski ahşap köprünün çökmeden önce onarılması gerekiyor."
+  },
+  {
+    "id": "ss148",
+    "type": "Edilgen",
+    "text": "The twins ___ {by} their grandparents {while} their parents were working abroad.",
+    "options": ["are raising", "raised", "were raised", "had raised", "have raised"],
+    "answer": "were raised",
+    "why": "'by their grandparents' eylemi yapanı veriyor → edilgen. 'while … were working' geçmişi gösterir → 'were raised'.",
+    "tr": "İkizler, anne babaları yurt dışında çalışırken büyükanne ve büyükbabaları tarafından büyütüldü."
+  },
+  {
+    "id": "ss149",
+    "type": "Edilgen",
+    "text": "{It} ___ {that} the new stadium will cost over two billion dollars.",
+    "options": ["has estimated", "is estimating", "estimates", "is estimated", "estimated"],
+    "answer": "is estimated",
+    "why": "'It is … that …' kişisiz edilgen kalıbıdır: It is said/believed/estimated that … (… olduğu tahmin ediliyor). 'It estimates' tahmin yapanı 'it' yapar; anlamsızdır.",
+    "tr": "Yeni stadyumun iki milyar dolardan fazlaya mal olacağı tahmin ediliyor."
+  },
+  {
+    "id": "ss150",
+    "type": "Edilgen",
+    "text": "The novel, {which} ___ into more than forty languages, {has} sold millions of copies.",
+    "options": ["translated", "is translating", "has translated", "had translated", "has been translated"],
+    "answer": "has been translated",
+    "why": "'which' romanı gösteriyor; roman çevrilen taraf → edilgen. Ana cümledeki 'has sold' da bugüne bağlı → Present Perfect edilgen: 'has been translated'.",
+    "tr": "Kırktan fazla dile çevrilen roman milyonlarca adet sattı."
+  },
+  {
+    "id": "ss151",
+    "type": "Edilgen",
+    "text": "The final decision ___ {until} all the evidence {has} been reviewed.",
+    "options": ["will not be made", "will not make", "had not been made", "did not make", "was not made"],
+    "answer": "will not be made",
+    "why": "Karar verilen şey → edilgen. 'until' + Present Perfect (has been reviewed) geleceğe dair bir koşul kurar → 'will not be made'. Geçmiş şıklar 'has' ile uyuşmaz.",
+    "tr": "Tüm kanıtlar incelenene kadar nihai karar verilmeyecek."
+  },
+  {
+    "id": "ss152",
+    "type": "Edilgen",
+    "text": "Most politicians try to {avoid} ___ in public.",
+    "options": ["be criticised", "being criticised", "criticised", "to criticise", "criticising"],
+    "answer": "being criticised",
+    "why": "'avoid' her zaman -ing alır. Politikacılar eleştirilen taraf → edilgen -ing: 'being criticised'. 'criticising' onları eleştiren yapardı.",
+    "tr": "Politikacıların çoğu kamuoyu önünde eleştirilmekten kaçınmaya çalışır."
+  },
+  {
+    "id": "ss153",
+    "type": "Edilgen",
+    "text": "The Olympic Games ___ {every} four {years}.",
+    "options": ["held", "have held", "are held", "hold", "are holding"],
+    "answer": "are held",
+    "why": "Oyunlar düzenlenen taraf → edilgen. 'every four years' düzenli tekrar → Simple Present edilgen: 'are held'.",
+    "tr": "Olimpiyat Oyunları dört yılda bir düzenlenir."
+  },
+  {
+    "id": "ss154",
+    "type": "Edilgen",
+    "text": "A cure for the disease ___ {yet}, but researchers remain hopeful.",
+    "options": ["has not found", "was not found", "did not find", "has not been found", "is not finding"],
+    "answer": "has not been found",
+    "why": "Tedavi bulunan şey → edilgen. Olumsuz cümlede 'yet' Present Perfect ister → 'has not been found'. 'has not found' etkendir; tedaviyi bir şey arayan yapar.",
+    "tr": "Hastalığın tedavisi henüz bulunamadı ama araştırmacılar umutlu."
+  },
+  {
+    "id": "ss155",
+    "type": "Koşul",
+    "text": "{If} you {heat} ice, it ___.",
+    "options": ["would melt", "had melted", "melted", "will have melted", "melts"],
+    "answer": "melts",
+    "why": "Koşul sorusunda önce if-yarımının zamanına bak. 'If you heat' Simple Present ve konu değişmeyen bir bilimsel gerçek → Type 0: sonuç da Simple Present: 'melts'. would/had'li şıklar varsayım anlatır.",
+    "tr": "Buzu ısıtırsan erir."
+  },
+  {
+    "id": "ss156",
+    "type": "Koşul",
+    "text": "{If} it {rains} {tomorrow}, the football match ___.",
+    "options": ["will be postponed", "had been postponed", "was postponed", "would have been postponed", "would be postponed"],
+    "answer": "will be postponed",
+    "why": "'If' + Simple Present (rains) + gelecekteki gerçek bir ihtimal (tomorrow) → Type 1: sonuç 'will'. Maç ertelenen taraf olduğu için 'will be postponed'.",
+    "tr": "Yarın yağmur yağarsa futbol maçı ertelenecek."
+  },
+  {
+    "id": "ss157",
+    "type": "Koşul",
+    "text": "{If} I {were} you, I ___ the job offer without hesitation.",
+    "options": ["would have accepted", "would accept", "will accept", "had accepted", "accepted"],
+    "answer": "would accept",
+    "why": "'If I were you' kalıbı hayalî bir durum ve bir tavsiyedir → Type 2: sonuç 'would + V1': 'would accept'. 'were' tüm öznelerle kullanılabilir.",
+    "tr": "Senin yerinde olsam iş teklifini hiç düşünmeden kabul ederdim."
+  },
+  {
+    "id": "ss158",
+    "type": "Koşul",
+    "text": "{If} the driver {had} {seen} the warning sign, the accident ___.",
+    "options": ["would not happen", "did not happen", "would not have happened", "had not happened", "will not happen"],
+    "answer": "would not have happened",
+    "why": "'If' + Past Perfect (had seen) geçmişte gerçekleşmemiş bir koşuldur → Type 3: sonuç 'would have + V3': 'would not have happened'. Kaza zaten oldu; cümle 'görseydi olmazdı' diyor.",
+    "tr": "Sürücü uyarı levhasını görseydi kaza olmazdı."
+  },
+  {
+    "id": "ss159",
+    "type": "Koşul",
+    "text": "{Unless} you ___ your password regularly, your account {may} be at risk.",
+    "options": ["don't change", "would change", "changed", "change", "will change"],
+    "answer": "change",
+    "why": "'Unless' zaten 'if … not' demektir; arkasından olumsuz fiil gelmez → 'don't change' çift olumsuz tuzağıdır. Type 1 yapısında (may) Simple Present: 'change'.",
+    "tr": "Şifreni düzenli olarak değiştirmezsen hesabın risk altında olabilir."
+  },
+  {
+    "id": "ss160",
+    "type": "Koşul",
+    "text": "___ I {known} about the traffic jam, I {would} have left home earlier.",
+    "options": ["Were", "If", "Should", "Did", "Had"],
+    "answer": "Had",
+    "why": "'If' olmadan kurulan devrik koşul: 'Had + özne + V3' = 'If I had known'. Sonuçtaki 'would have left' de Type 3'ü doğruluyor. 'If I known' dilbilgisi olarak eksiktir.",
+    "tr": "Trafik sıkışıklığından haberim olsaydı evden daha erken çıkardım."
+  },
+  {
+    "id": "ss161",
+    "type": "Koşul",
+    "text": "___ you need any further information, {please} do not hesitate to contact us.",
+    "options": ["Should", "Unless", "Had", "Would", "Were"],
+    "answer": "Should",
+    "why": "Resmî yazışmalarda Type 1 koşul devrik kurulur: 'Should you need' = 'If you need'. Sonuçtaki emir ('please do not hesitate') gerçek bir ihtimali gösterir; Had ve Were varsayım kurar.",
+    "tr": "Daha fazla bilgiye ihtiyaç duyarsanız lütfen bizimle iletişime geçmekten çekinmeyin."
+  },
+  {
+    "id": "ss162",
+    "type": "Koşul",
+    "text": "___ the government {to} raise taxes again, many small businesses {would} close.",
+    "options": ["Had", "Were", "Did", "Should", "If"],
+    "answer": "Were",
+    "why": "'Were + özne + to + V1' devrik Type 2 kalıbıdır (If the government were to raise). Boşluktan sonraki 'to' ve sonuçtaki 'would' bunu doğrular. 'If the government to raise' eksiktir.",
+    "tr": "Hükümet vergileri yeniden artıracak olsa birçok küçük işletme kapanırdı."
+  },
+  {
+    "id": "ss163",
+    "type": "Koşul",
+    "text": "I {wish} I ___ more free time to spend with my family {these} {days}.",
+    "options": ["will have", "had had", "had", "have", "would have had"],
+    "answer": "had",
+    "why": "'wish' + şimdiki zamana dair gerçek dışı istek (these days) → Past Simple: 'had'. 'had had' geçmişe dair pişmanlık olurdu; 'these days' ile çelişir.",
+    "tr": "Keşke bu aralar ailemle geçirecek daha fazla boş vaktim olsa."
+  },
+  {
+    "id": "ss164",
+    "type": "Koşul",
+    "text": "She {wishes} she ___ law instead of engineering {when} she was at university.",
+    "options": ["studies", "studied", "would study", "had studied", "has studied"],
+    "answer": "had studied",
+    "why": "'wish' + GEÇMİŞE dair pişmanlık ('when she was at university') → Past Perfect: 'had studied'. 'studied' şimdiki zamana dair bir istek olurdu.",
+    "tr": "Keşke üniversitedeyken mühendislik yerine hukuk okusaydı diye düşünüyor."
+  },
+  {
+    "id": "ss165",
+    "type": "Koşul",
+    "text": "{If} she {were} not so shy, she ___ the teacher for help {yesterday}.",
+    "options": ["would ask", "asked", "will ask", "had asked", "would have asked"],
+    "answer": "would have asked",
+    "why": "Karma koşul: 'were not so shy' kalıcı bir özellik (şimdiki zaman, Type 2), ama sonuç 'yesterday' ile geçmişte → 'would have asked'. İki yarımın zamanını AYRI AYRI okumak gerekir.",
+    "tr": "Bu kadar utangaç olmasaydı dün öğretmenden yardım isterdi."
+  },
+  {
+    "id": "ss166",
+    "type": "Koşul",
+    "text": "You can use my car {as} {long} as you ___ it back by six o'clock.",
+    "options": ["bring", "had brought", "would bring", "brought", "will bring"],
+    "answer": "bring",
+    "why": "'as long as' bir koşul bağlacıdır ve 'if' gibi davranır: arkasından 'will' gelmez, gelecek anlamı Simple Present ile verilir → 'bring'.",
+    "tr": "Saat altıya kadar geri getirdiğin sürece arabamı kullanabilirsin."
+  },
+  {
+    "id": "ss167",
+    "type": "Koşul",
+    "text": "{Provided} that the weather ___ good, the graduation ceremony {will} be held outdoors.",
+    "options": ["was", "is", "will be", "would be", "had been"],
+    "answer": "is",
+    "why": "'Provided that' = 'if' (… şartıyla). Sonuçta 'will' var → Type 1; koşul yarımında Simple Present: 'is'. Koşul bağlacından sonra 'will be' kullanılmaz.",
+    "tr": "Hava güzel olursa mezuniyet töreni açık havada yapılacak."
+  },
+  {
+    "id": "ss168",
+    "type": "Koşul",
+    "text": "{If} {only} I ___ to my doctor's advice {last} year!",
+    "options": ["would listen", "listen", "had listened", "listened", "will listen"],
+    "answer": "had listened",
+    "why": "'If only' = 'keşke'. 'last year' pişmanlığın geçmişe ait olduğunu gösterir → Past Perfect: 'had listened'. 'listened' şimdiki zamana dair bir istek olurdu.",
+    "tr": "Keşke geçen yıl doktorumun tavsiyesine kulak verseydim!"
+  },
+  {
+    "id": "ss169",
+    "type": "Koşul",
+    "text": "{But} {for} your help, I ___ the project on time.",
+    "options": ["never finish", "will never finish", "had never finished", "would never have finished", "never finished"],
+    "answer": "would never have finished",
+    "why": "'But for' = 'if it had not been for' (… olmasaydı). Varsayım bildirdiği için sonuç 'would' ister; yardım geçmişte alındığı için 'would never have finished'.",
+    "tr": "Senin yardımın olmasaydı projeyi asla zamanında bitiremezdim."
+  },
+  {
+    "id": "ss170",
+    "type": "Koşul",
+    "text": "Most house plants {die} {if} they ___ enough water.",
+    "options": ["did not get", "would not get", "will not get", "had not got", "do not get"],
+    "answer": "do not get",
+    "why": "Sonuç Simple Present (die) ve genel bir gerçek → Type 0: koşul da Simple Present: 'do not get'. if-yarımında 'will' kullanılmaz.",
+    "tr": "Ev bitkilerinin çoğu yeterince su almazsa ölür."
+  },
+  {
+    "id": "ss171",
+    "type": "Koşul",
+    "text": "{If} the scientists {are} right, sea levels ___ by one metre by {2100}.",
+    "options": ["will have risen", "have risen", "would have risen", "had risen", "rose"],
+    "answer": "will have risen",
+    "why": "'If … are right' gerçek bir ihtimal (Type 1), 'by 2100' gelecekte bir son tarih → Future Perfect: 'will have risen'. would'lü şıklar koşulu hayalî yapardı.",
+    "tr": "Bilim insanları haklıysa deniz seviyesi 2100'e kadar bir metre yükselmiş olacak."
+  },
+  {
+    "id": "ss172",
+    "type": "Koşul",
+    "text": "{If} the city {had} a better public transport system, fewer people ___ to work by car.",
+    "options": ["will drive", "would drive", "would have driven", "had driven", "drove"],
+    "answer": "would drive",
+    "why": "'If … had' (Past Simple) şimdiki zamana dair gerçek dışı durum: şehrin iyi bir toplu taşıması YOK → Type 2: 'would drive'. 'would have driven' geçmişe ait olurdu.",
+    "tr": "Şehrin daha iyi bir toplu taşıma sistemi olsaydı daha az insan işe arabayla giderdi."
+  },
+  {
+    "id": "ss173",
+    "type": "Koşul",
+    "text": "The project {would} have {failed} ___ the generous support of local businesses.",
+    "options": ["otherwise", "if", "without", "unless", "provided"],
+    "answer": "without",
+    "why": "Boşluktan sonra cümle değil İSİM ÖBEĞİ var (the generous support) → bağlaç değil edat lazım. 'without' = 'olmasaydı' ve 'would have failed' ile koşul anlamı kurar. unless, if ve provided arkalarında cümle ister.",
+    "tr": "Yerel işletmelerin cömert desteği olmasaydı proje başarısız olurdu."
+  },
+  {
+    "id": "ss174",
+    "type": "Koşul",
+    "text": "___ you won the lottery, {what} {would} you do with all the money?",
+    "options": ["Unless", "Because", "Even", "Suppose", "Although"],
+    "answer": "Suppose",
+    "why": "'Suppose/Supposing' = 'farz et ki, diyelim ki' ve 'if' gibi hayalî koşul kurar. 'what would you do' Type 2 sonucu; 'won' da Past Simple. Unless anlamı tersine çevirir.",
+    "tr": "Diyelim ki piyangoyu kazandın, bütün o parayla ne yapardın?"
+  },
+  {
+    "id": "ss175",
+    "type": "Koşul",
+    "text": "{Had} the rescue team arrived ten minutes {later}, the climbers ___.",
+    "options": ["died", "will die", "would die", "had died", "would have died"],
+    "answer": "would have died",
+    "why": "Cümle 'Had' ile başlıyor → devrik Type 3 (If the rescue team had arrived …). Sonuç da geçmişe ait gerçek dışı olmalı: 'would have died'. Ekip zamanında geldi; dağcılar kurtuldu.",
+    "tr": "Kurtarma ekibi on dakika geç gelseydi dağcılar ölürdü."
+  },
+  {
+    "id": "ss176",
+    "type": "Koşul",
+    "text": "{Should} you {require} a receipt, the cashier ___ one for you.",
+    "options": ["will print", "had printed", "has printed", "would have printed", "printed"],
+    "answer": "will print",
+    "why": "'Should you require' = 'If you require' → devrik Type 1. Sonuç gerçek bir gelecek ihtimali: 'will print'. Geçmiş şıklar bu yapıyla uyuşmaz.",
+    "tr": "Fiş isterseniz kasiyer sizin için bir tane yazdıracaktır."
+  },
+  {
+    "id": "ss177",
+    "type": "Koşul",
+    "text": "If the polar ice caps ___ completely, many coastal cities {would} {disappear} under water.",
+    "options": ["have melted", "melted", "will melt", "melt", "had melted"],
+    "answer": "melted",
+    "why": "Sonuçta 'would disappear' (would + V1) var → Type 2; koşul yarımı Past Simple: 'melted'. 'had melted' 'would have disappeared' isterdi.",
+    "tr": "Kutup buzulları tamamen erirse birçok kıyı kenti sular altında kalırdı."
+  },
+  {
+    "id": "ss178",
+    "type": "Koşul",
+    "text": "{Even} if you ___ a taxi now, you {won't} arrive in time for the flight.",
+    "options": ["took", "will take", "take", "had taken", "would take"],
+    "answer": "take",
+    "why": "Sonuçta 'won't' (will not) var → Type 1; 'even if' de 'if' gibi Simple Present ister: 'take'. 'took' Type 2'dir ve 'would not' isterdi.",
+    "tr": "Şimdi taksiye binsen bile uçağa zamanında yetişemeyeceksin."
+  },
+  {
+    "id": "ss179",
+    "type": "Koşul",
+    "text": "{If} you {mix} blue and yellow paint, you ___ green.",
+    "options": ["would get", "would have got", "got", "get", "had got"],
+    "answer": "get",
+    "why": "Her seferinde aynı sonucu veren bir gerçek → Type 0: iki yarım da Simple Present: 'get'. would'lü şıklar hayalî bir durum anlatırdı.",
+    "tr": "Mavi ve sarı boyayı karıştırırsan yeşil elde edersin."
+  },
+  {
+    "id": "ss180",
+    "type": "Koşul",
+    "text": "{If} she ___ harder, she {would} have {passed} the final exam.",
+    "options": ["studies", "studied", "would study", "has studied", "had studied"],
+    "answer": "had studied",
+    "why": "Sonuçta 'would have passed' var → Type 3; koşul yarımı Past Perfect: 'had studied'. Sınav geçti, sonuç değişmez: 'daha çok çalışsaydı geçerdi'.",
+    "tr": "Daha çok çalışsaydı final sınavını geçerdi."
+  },
+  {
+    "id": "ss181",
+    "type": "Koşul",
+    "text": "{Were} it {not} for the internet, many people ___ unable to work from home.",
+    "options": ["would be", "had been", "will be", "would have been", "are"],
+    "answer": "would be",
+    "why": "'Were it not for' = 'If it were not for' (… olmasaydı), devrik Type 2. Sonuç şimdiki zamana ait: 'would be'. 'would have been' 'Had it not been for' isterdi.",
+    "tr": "İnternet olmasaydı birçok insan evden çalışamazdı."
+  },
+  {
+    "id": "ss182",
+    "type": "Koşul",
+    "text": "{Unless} the company ___ its prices, it {will} lose many of its customers.",
+    "options": ["will lower", "lowers", "doesn't lower", "would lower", "lowered"],
+    "answer": "lowers",
+    "why": "Sonuçta 'will' → Type 1. 'Unless' olumsuzluğu içinde taşır, bu yüzden 'doesn't lower' yanlıştır; koşul bağlacından sonra 'will' de gelmez → 'lowers'.",
+    "tr": "Şirket fiyatlarını düşürmezse müşterilerinin çoğunu kaybedecek."
+  },
+  {
+    "id": "ss183",
+    "type": "Koşul",
+    "text": "The bank {will} lend the money {on} {condition} that the loan ___ within five years.",
+    "options": ["repays", "would be repaid", "is repaid", "will be repaid", "was repaid"],
+    "answer": "is repaid",
+    "why": "'on condition that' bir koşul bağlacıdır; sonuçta 'will' olduğu için Simple Present ister. Kredi geri ödenen taraf → edilgen: 'is repaid'. 'repays' krediyi ödeyen yapar.",
+    "tr": "Banka, kredinin beş yıl içinde geri ödenmesi şartıyla parayı verecek."
+  },
+  {
+    "id": "ss184",
+    "type": "Öbek fiil",
+    "text": "The flight was delayed because the {plane} could not ___ in the thick {fog}.",
+    "options": ["turn down", "look after", "bring up", "take off", "give up"],
+    "answer": "take off",
+    "why": "Öbek fiil sorusunda özne ve durum belirleyicidir: özne 'plane' (uçak), engel 'fog' (sis) → uçak kalkamadı: 'take off' (havalanmak). Diğer şıkların hiçbiri uçakla kullanılmaz.",
+    "tr": "Uçak yoğun siste kalkış yapamadığı için uçuş ertelendi."
+  },
+  {
+    "id": "ss185",
+    "type": "Öbek fiil",
+    "text": "Marine biologists are trying to ___ {why} some whales swim onto beaches and die.",
+    "options": ["break down", "give in", "put off", "run out", "find out"],
+    "answer": "find out",
+    "why": "Boşluktan sonra 'why' ile başlayan bir soru cümlesi geliyor; bilim insanları nedeni ÖĞRENMEYE çalışıyor → 'find out' (bulmak, öğrenmek). Diğer şıklar bir soru cümlesini nesne olarak almaz.",
+    "tr": "Deniz biyologları bazı balinaların neden kıyıya vurup öldüğünü bulmaya çalışıyor."
+  },
+  {
+    "id": "ss186",
+    "type": "Öbek fiil",
+    "text": "The office has ___ of printer paper, so we {need} to {order} more.",
+    "options": ["run out", "set up", "taken off", "looked after", "turned up"],
+    "answer": "run out",
+    "why": "Sonuç: daha fazlasını 'order' (sipariş) etmemiz 'need' (gerek) → kâğıt tükenmiş: 'run out of' (bitmek, tükenmek). Boşluktan sonraki 'of' da yalnızca 'run out' ile kalıp oluşturur.",
+    "tr": "Ofiste yazıcı kâğıdı bitti, bu yüzden biraz daha sipariş etmemiz gerekiyor."
+  },
+  {
+    "id": "ss187",
+    "type": "Öbek fiil",
+    "text": "She politely ___ the job offer because the salary was too {low}.",
+    "options": ["looked into", "turned down", "set up", "took up", "brought about"],
+    "answer": "turned down",
+    "why": "Sebep: maaş çok 'low' (düşük) → teklifi reddetti: 'turned down'. 'took up' teklifi kabul etmek demektir; sebeple çelişir.",
+    "tr": "Maaş çok düşük olduğu için iş teklifini kibarca geri çevirdi."
+  },
+  {
+    "id": "ss188",
+    "type": "Öbek fiil",
+    "text": "The police are ___ the cause of the fire; the {investigation} may take several weeks.",
+    "options": ["taking over", "putting off", "looking into", "looking after", "giving up"],
+    "answer": "looking into",
+    "why": "Noktalı virgülden sonraki 'investigation' (soruşturma) boşluğu açıklıyor → polis yangının nedenini araştırıyor: 'looking into' (incelemek). 'looking after' bakmak, ilgilenmek demektir.",
+    "tr": "Polis yangının nedenini araştırıyor; soruşturma birkaç hafta sürebilir."
+  },
+  {
+    "id": "ss189",
+    "type": "Öbek fiil",
+    "text": "After years of {trying}, he {finally} ___ smoking for good.",
+    "options": ["brought up", "took up", "set up", "gave up", "turned up"],
+    "answer": "gave up",
+    "why": "Yıllarca 'trying' (denemek) ve sonunda 'finally' başarmak → sigarayı bıraktı: 'gave up'. 'took up smoking' sigaraya BAŞLAMAK olurdu; çaba gerektirmez.",
+    "tr": "Yıllarca uğraştıktan sonra sonunda sigarayı tamamen bıraktı."
+  },
+  {
+    "id": "ss190",
+    "type": "Öbek fiil",
+    "text": "The board meeting has been ___ {until} {next} week because the director is ill.",
+    "options": ["brought up", "carried out", "taken over", "set up", "put off"],
+    "answer": "put off",
+    "why": "'until next week' toplantının İLERİ BİR TARİHE kaydığını gösterir → ertelendi: 'put off' (≈ postpone). Diğer şıklar bir tarihe kaydırma anlamı taşımaz.",
+    "tr": "Müdür hasta olduğu için yönetim kurulu toplantısı gelecek haftaya ertelendi."
+  },
+  {
+    "id": "ss191",
+    "type": "Öbek fiil",
+    "text": "Grandparents often ___ their grandchildren {while} the parents are at {work}.",
+    "options": ["look after", "look into", "look up", "look down on", "look forward to"],
+    "answer": "look after",
+    "why": "Anne babalar işteyken ('while … at work') büyükanne ve büyükbabalar çocuklara BAKAR → 'look after' (≈ take care of). Aynı fiilin öbür öbekleri çok farklı anlamlar taşır.",
+    "tr": "Anne babalar işteyken torunlara çoğu zaman büyükanne ve büyükbabalar bakar."
+  },
+  {
+    "id": "ss192",
+    "type": "Öbek fiil",
+    "text": "A team of engineers will ___ a series of {tests} to check the safety of the bridge.",
+    "options": ["bring about", "carry out", "give off", "put up with", "turn down"],
+    "answer": "carry out",
+    "why": "Nesne 'tests' (testler): test, deney, araştırma 'yapılır' → 'carry out' (≈ conduct, perform). YDS'de carry out a study/survey/experiment kalıpları çok sık çıkar.",
+    "tr": "Bir mühendis ekibi köprünün güvenliğini denetlemek için bir dizi test yapacak."
+  },
+  {
+    "id": "ss193",
+    "type": "Öbek fiil",
+    "text": "Nobody knows exactly how the {fire} ___; the cause is still being investigated.",
+    "options": ["broke down", "broke in", "broke out", "broke up", "broke off"],
+    "answer": "broke out",
+    "why": "Özne 'fire': yangın, savaş ve salgın 'çıkar' → 'break out'. break down arızalanmak, break up ayrılmak, break in zorla girmek, break off aniden kesmek demektir.",
+    "tr": "Yangının tam olarak nasıl çıktığını kimse bilmiyor; neden hâlâ araştırılıyor."
+  },
+  {
+    "id": "ss194",
+    "type": "Öbek fiil",
+    "text": "Residents say they can {no} {longer} ___ the {noise} from the new airport.",
+    "options": ["get on with", "catch up with", "come up with", "put up with", "keep up with"],
+    "answer": "put up with",
+    "why": "'no longer' + 'noise' (gürültü) → artık katlanamıyorlar: 'put up with' (≈ tolerate). Üç kelimeli öbeklerde son edatlar aynı olabilir; farkı ORTADAKİ kelime yaratır.",
+    "tr": "Bölge sakinleri yeni havalimanından gelen gürültüye artık katlanamadıklarını söylüyor."
+  },
+  {
+    "id": "ss195",
+    "type": "Öbek fiil",
+    "text": "The teacher asked the students to ___ a better {idea} for their science project.",
+    "options": ["put up with", "run out of", "catch up with", "look up to", "come up with"],
+    "answer": "come up with",
+    "why": "Nesne 'idea' (fikir): fikir bulunur, üretilir → 'come up with' (≈ think of, produce). 'run out of ideas' fikirlerin tükenmesi olurdu; 'a better idea' ile uyuşmaz.",
+    "tr": "Öğretmen öğrencilerden bilim projeleri için daha iyi bir fikir bulmalarını istedi."
+  },
+  {
+    "id": "ss196",
+    "type": "Öbek fiil",
+    "text": "After he {missed} three weeks of school, he worked hard to ___ his classmates.",
+    "options": ["catch up with", "come up with", "get away with", "put up with", "look up to"],
+    "answer": "catch up with",
+    "why": "Üç hafta okulu 'missed' (kaçırdı) → geride kaldı; sınıf arkadaşlarına yetişmek için çalıştı: 'catch up with'. Geride kalmakla yetişmek arasındaki bağ ipucudur.",
+    "tr": "Üç hafta okulu kaçırdıktan sonra sınıf arkadaşlarına yetişmek için çok çalıştı."
+  },
+  {
+    "id": "ss197",
+    "type": "Öbek fiil",
+    "text": "Young children usually ___ their parents and {want} to be just {like} them.",
+    "options": ["get over", "look up to", "put up with", "look down on", "turn down"],
+    "answer": "look up to",
+    "why": "'want to be just like them' (onlar gibi olmak istemek) hayranlık bildirir → 'look up to' (örnek almak, saygı duymak). 'look down on' tam tersi: küçümsemek.",
+    "tr": "Küçük çocuklar genellikle anne babalarını örnek alır ve tıpkı onlar gibi olmak ister."
+  },
+  {
+    "id": "ss198",
+    "type": "Öbek fiil",
+    "text": "It took her many {months} to ___ the {death} of her father.",
+    "options": ["get on", "get off", "get over", "get away", "get by"],
+    "answer": "get over",
+    "why": "Bir kayıp (death) ve uzun süre (months) → acıyı atlatmak: 'get over' (≈ recover from). get by geçinmek, get off inmek, get away kaçmak demektir.",
+    "tr": "Babasının ölümünü atlatması aylarını aldı."
+  },
+  {
+    "id": "ss199",
+    "type": "Öbek fiil",
+    "text": "The old factory ___ toxic {gases} that {pollute} the air in the valley.",
+    "options": ["gives in", "gives back", "gives up", "gives off", "gives away"],
+    "answer": "gives off",
+    "why": "Nesne 'gases' ve sonuç 'pollute' (kirletmek) → fabrika gaz yayıyor: 'give off' (≈ emit, release). Koku, ısı, ışık ve gaz 'give off' ile kullanılır.",
+    "tr": "Eski fabrika vadideki havayı kirleten zehirli gazlar yayıyor."
+  },
+  {
+    "id": "ss200",
+    "type": "Öbek fiil",
+    "text": "The government has decided to ___ a new {committee} to investigate corruption.",
+    "options": ["give in", "put out", "set off", "break down", "set up"],
+    "answer": "set up",
+    "why": "Nesne 'a new committee' (yeni bir komite): kurum, şirket ve komite 'kurulur' → 'set up' (≈ establish). 'set off' yola çıkmak demektir.",
+    "tr": "Hükümet yolsuzluğu soruşturmak için yeni bir komite kurmaya karar verdi."
+  },
+  {
+    "id": "ss201",
+    "type": "Öbek fiil",
+    "text": "{Firefighters} worked through the night to ___ the forest {fire}.",
+    "options": ["put out", "put off", "put on", "put up", "put away"],
+    "answer": "put out",
+    "why": "İtfaiyeciler ve yangın → söndürmek: 'put out' (≈ extinguish). Aynı fiilin öbür öbekleri: put on giymek, put off ertelemek, put up asmak, put away kaldırmak.",
+    "tr": "İtfaiyeciler orman yangınını söndürmek için bütün gece çalıştı."
+  },
+  {
+    "id": "ss202",
+    "type": "Öbek fiil",
+    "text": "Only ten people ___ for the meeting, although {fifty} had been {invited}.",
+    "options": ["turned down", "turned up", "turned into", "turned off", "turned over"],
+    "answer": "turned up",
+    "why": "'although' bir karşıtlık kuruyor: elli kişi davet edildi ama yalnızca on kişi GELDİ → 'turned up' (≈ arrive, appear). 'turned down' reddetmek olurdu ve 'for the meeting' ile uyuşmaz.",
+    "tr": "Elli kişi davet edilmiş olmasına rağmen toplantıya yalnızca on kişi geldi."
+  },
+  {
+    "id": "ss203",
+    "type": "Öbek fiil",
+    "text": "The students were so {noisy} that the teacher could not ___ with the {lesson}.",
+    "options": ["take in", "carry out", "carry on", "bring about", "set off"],
+    "answer": "carry on",
+    "why": "Gürültü dersi engelliyor → öğretmen derse DEVAM edemedi: 'carry on with' (≈ continue). 'carry out' bir işi yürütmektir ve 'with' almaz.",
+    "tr": "Öğrenciler o kadar gürültülüydü ki öğretmen derse devam edemedi."
+  },
+  {
+    "id": "ss204",
+    "type": "Öbek fiil",
+    "text": "A new manager will ___ the department when Mr Brown {retires} next month.",
+    "options": ["take off", "take up", "take in", "take over", "take after"],
+    "answer": "take over",
+    "why": "Bay Brown 'retires' (emekli oluyor) → yerine biri geçip yönetimi DEVRALACAK: 'take over'. take after birine çekmek, take off havalanmak demektir.",
+    "tr": "Bay Brown gelecek ay emekli olduğunda bölümü yeni bir müdür devralacak."
+  },
+  {
+    "id": "ss205",
+    "type": "Öbek fiil",
+    "text": "Emma really ___ her mother; they have the {same} eyes and the same {smile}.",
+    "options": ["takes over", "looks after", "takes in", "looks into", "takes after"],
+    "answer": "takes after",
+    "why": "Açıklama noktalı virgülden sonra: 'same eyes, same smile' → annesine benziyor, çekmiş: 'takes after' (≈ resemble). 'looks after' annesine bakmak demek olurdu.",
+    "tr": "Emma gerçekten annesine çekmiş; ikisinin gözleri de gülüşü de aynı."
+  },
+  {
+    "id": "ss206",
+    "type": "Öbek fiil",
+    "text": "If you don't know a word, ___ it {up} in a good {dictionary}.",
+    "options": ["look", "give", "set", "turn", "take"],
+    "answer": "look",
+    "why": "Sözlükte ('dictionary') bir kelimeye BAKMAK → 'look up'. Öbek fiil ayrılabilir: look it up. Diğer fiiller 'up' ile başka anlamlar kurar (take up başlamak, give up bırakmak).",
+    "tr": "Bir kelimeyi bilmiyorsan iyi bir sözlükte ona bak."
+  },
+  {
+    "id": "ss207",
+    "type": "Öbek fiil",
+    "text": "The internet has ___ major {changes} in the way people work and communicate.",
+    "options": ["turned down", "brought about", "put off", "set off", "brought up"],
+    "answer": "brought about",
+    "why": "Nesne 'changes' (değişiklikler): değişikliğe YOL AÇMAK → 'bring about' (≈ cause). 'brought up' çocuk yetiştirmek ya da bir konuyu açmaktır.",
+    "tr": "İnternet insanların çalışma ve iletişim kurma biçiminde büyük değişikliklere yol açtı."
+  },
+  {
+    "id": "ss208",
+    "type": "Öbek fiil",
+    "text": "She was ___ {by} her {grandparents} in a small village near Rize.",
+    "options": ["taken over", "brought about", "brought up", "set up", "grown up"],
+    "answer": "brought up",
+    "why": "Edilgen ve 'by her grandparents' → büyükanne ve büyükbabası tarafından YETİŞTİRİLDİ: 'brought up' (≈ raise). 'grow up' nesnesiz bir fiildir, edilgen yapılamaz.",
+    "tr": "Rize yakınlarındaki küçük bir köyde büyükanne ve büyükbabası tarafından yetiştirildi."
+  },
+  {
+    "id": "ss209",
+    "type": "Öbek fiil",
+    "text": "The rebels {refused} to ___ even after weeks of heavy {fighting}.",
+    "options": ["give off", "look up", "set up", "give in", "take off"],
+    "answer": "give in",
+    "why": "Haftalarca süren 'fighting' (çatışma) ve 'refused' (reddettiler) → teslim olmayı reddettiler: 'give in' (≈ surrender). Pilottaki 'gave in' ile aynı anlam: boyun eğmek.",
+    "tr": "İsyancılar haftalarca süren şiddetli çatışmalardan sonra bile teslim olmayı reddetti."
+  },
+  {
+    "id": "ss210",
+    "type": "Öbek fiil",
+    "text": "We ___ early in the morning to {avoid} the {traffic} on our way to the coast.",
+    "options": ["set up", "gave off", "turned down", "put off", "set off"],
+    "answer": "set off",
+    "why": "Trafikten kaçınmak için sabah erken → yola ÇIKTIK: 'set off' (≈ depart). 'on our way' (yolumuzda) da bir yolculuğu gösterir.",
+    "tr": "Sahile giderken trafiğe takılmamak için sabah erkenden yola çıktık."
+  },
+  {
+    "id": "ss211",
+    "type": "Öbek fiil",
+    "text": "The concert was ___ at the last minute because of a {bomb} {threat}.",
+    "options": ["called off", "called on", "called up", "called in", "called back"],
+    "answer": "called off",
+    "why": "Bomba 'threat' (tehdidi) → konser son dakikada İPTAL edildi: 'called off' (≈ cancel). call on ziyaret etmek, call up aramak ya da askere çağırmak demektir.",
+    "tr": "Konser bomba tehdidi yüzünden son dakikada iptal edildi."
+  },
+  {
+    "id": "ss212",
+    "type": "Öbek fiil",
+    "text": "The two scientists ___ after a {bitter} {argument} and never worked together again.",
+    "options": ["fell for", "fell out", "fell through", "fell over", "fell behind"],
+    "answer": "fell out",
+    "why": "'bitter argument' (sert tartışma) ve bir daha birlikte çalışmamak → aralarının bozulması: 'fell out' (≈ quarrel). fell through plan suya düşmek, fell behind geride kalmak demektir.",
+    "tr": "İki bilim insanının sert bir tartışmadan sonra arası bozuldu ve bir daha hiç birlikte çalışmadılar."
+  },
+  {
+    "id": "ss213",
+    "type": "Zaman (çift boşluk)",
+    "text": "{When} the guests ___ {last} night, we ___ {still} cooking dinner.",
+    "options": ["were arriving / have", "have arrived / had been", "arrived / were", "had arrived / have been", "arrive / are"],
+    "answer": "arrived / were",
+    "why": "Çift boşlukta iki olayın ilişkisini kur. 'last night' geçmişi, 'still cooking' ise o sırada süren işi gösterir: misafirler geldi (arrived) → biz hâlâ yemek yapıyorduk (were cooking). Kısa olay Past Simple, süren iş Past Continuous.",
+    "tr": "Dün gece misafirler geldiğinde biz hâlâ yemek pişiriyorduk."
+  },
+  {
+    "id": "ss214",
+    "type": "Zaman (çift boşluk)",
+    "text": "She ___ in Izmir {since} 2015, but {before} that she ___ in Ankara for ten years.",
+    "options": ["had lived / lives", "lives / had lived", "has lived / has lived", "has lived / lived", "lived / has lived"],
+    "answer": "has lived / lived",
+    "why": "İki dönem var. 'since 2015' bugüne uzanır → 'has lived'. 'before that' ise bitmiş, kapanmış bir dönem → 'lived'. Aynı cümlede iki farklı zamanın gelmesi normaldir; her yarımın kendi işaretine bak.",
+    "tr": "2015'ten beri İzmir'de yaşıyor ama ondan önce on yıl Ankara'da yaşadı."
+  },
+  {
+    "id": "ss215",
+    "type": "Zaman (çift boşluk)",
+    "text": "{By} the {time} the film ___, most of the audience ___ asleep.",
+    "options": ["ended / have fallen", "has ended / fell", "had ended / fell", "ends / had fallen", "ended / had fallen"],
+    "answer": "ended / had fallen",
+    "why": "'By the time' kalıbı: zaman yarımında Past Simple (ended), ana yarımda ondan ÖNCE tamamlanmış iş → Past Perfect (had fallen). 'had ended / fell' sırayı ters çevirir.",
+    "tr": "Film bittiğinde seyircilerin çoğu uyuyakalmıştı."
+  },
+  {
+    "id": "ss216",
+    "type": "Zaman (çift boşluk)",
+    "text": "The phone ___ {while} I ___ a shower {yesterday} morning.",
+    "options": ["rang / was taking", "rang / have taken", "rings / was taking", "has rung / take", "had rung / am taking"],
+    "answer": "rang / was taking",
+    "why": "'while' süren arka plan işini (was taking a shower) gösterir; telefonun çalması onu kesen kısa olaydır (rang). 'yesterday morning' ikisini de geçmişe yerleştirir.",
+    "tr": "Dün sabah ben duş alırken telefon çaldı."
+  },
+  {
+    "id": "ss217",
+    "type": "Zaman (çift boşluk)",
+    "text": "Scientists ___ the virus {for} years, but they ___ an effective vaccine {yet}.",
+    "options": ["had studied / haven't found", "have studied / haven't found", "study / don't find", "studied / didn't find", "were studying / haven't found"],
+    "answer": "have studied / haven't found",
+    "why": "'for years' bugüne uzanan bir süre, 'yet' olumsuz cümlede Present Perfect ister → iki yarım da bugüne bağlı: 'have studied / haven't found'. Past Perfect ya da Past Continuous ilk yarımı geçmişte kapatır ve 'yet' ile uyuşmaz.",
+    "tr": "Bilim insanları virüsü yıllardır inceliyor ama henüz etkili bir aşı bulamadılar."
+  },
+  {
+    "id": "ss218",
+    "type": "Zaman (çift boşluk)",
+    "text": "{As} {soon} as the rain ___, we ___ for a walk along the river.",
+    "options": ["will stop / will go", "will stop / go", "stops / will go", "stops / went", "stopped / will go"],
+    "answer": "stops / will go",
+    "why": "Zaman bağlacından (as soon as) sonra 'will' gelmez; gelecek anlamı Simple Present taşır (stops). Ana cümle ise geleceği 'will' ile verir (will go). 'stopped / will go' zamanları karıştırır.",
+    "tr": "Yağmur durur durmaz nehir boyunca yürüyüşe çıkacağız."
+  },
+  {
+    "id": "ss219",
+    "type": "Zaman (çift boşluk)",
+    "text": "{Yesterday} evening, {while} my mother ___ dinner, my father ___ the table.",
+    "options": ["cooked / has set", "is cooking / set", "had cooked / sets", "was cooking / was setting", "cooks / was setting"],
+    "answer": "was cooking / was setting",
+    "why": "'while' iki işin AYNI ANDA sürdüğünü gösterir; 'yesterday evening' geçmişi → iki yarım da Past Continuous: 'was cooking / was setting'. Diğer şıklarda en az bir yarım şimdiki zamana kayıyor.",
+    "tr": "Dün akşam annem yemek yaparken babam sofrayı kuruyordu."
+  },
+  {
+    "id": "ss220",
+    "type": "Zaman (çift boşluk)",
+    "text": "The professor ___ this novel {twice}, and she ___ it again {next} semester with her students.",
+    "options": ["has read / read", "is reading / had read", "had read / read", "read / has read", "has read / will read"],
+    "answer": "has read / will read",
+    "why": "İlk yarım bugüne kadarki deneyim ('twice' = iki kez) → 'has read'. İkinci yarım 'next semester' ile geleceği gösterir → 'will read'. İki yarımın zaman işaretleri farklı olduğu için fiiller de farklıdır.",
+    "tr": "Profesör bu romanı iki kez okudu ve gelecek dönem öğrencileriyle birlikte yeniden okuyacak."
+  },
+  {
+    "id": "ss221",
+    "type": "Zaman (çift boşluk)",
+    "text": "{Before} the invention of the telephone, people ___ letters, and it often ___ weeks for news to arrive.",
+    "options": ["wrote / took", "had written / has taken", "have written / takes", "were writing / has taken", "write / took"],
+    "answer": "wrote / took",
+    "why": "'Before the invention of the telephone' geçmişte kapanmış bir dönem → o dönemin alışkanlıkları Past Simple: 'wrote / took'. has/have'li şıklar dönemi bugüne bağlar.",
+    "tr": "Telefon icat edilmeden önce insanlar mektup yazardı ve haberlerin ulaşması çoğu zaman haftalar sürerdi."
+  },
+  {
+    "id": "ss222",
+    "type": "Zaman (çift boşluk)",
+    "text": "The water ___ {for} ten minutes, so the pasta ___ ready {soon}.",
+    "options": ["boiled / was", "has been boiling / will be", "had boiled / is", "is boiling / had been", "boils / has been"],
+    "answer": "has been boiling / will be",
+    "why": "'for ten minutes' + hâlâ süren iş → 'has been boiling'. 'soon' geleceği gösterir → 'will be'. İkinci yarım birincinin sonucu: su on dakikadır kaynıyor, makarna birazdan hazır olacak.",
+    "tr": "Su on dakikadır kaynıyor, bu yüzden makarna birazdan hazır olur."
+  },
+  {
+    "id": "ss223",
+    "type": "Zaman (çift boşluk)",
+    "text": "{When} the teacher ___ into the room, the students {immediately} ___ talking.",
+    "options": ["came / have stopped", "was coming / had stopped", "came / stopped", "has come / stop", "comes / stopped"],
+    "answer": "came / stopped",
+    "why": "Arka arkaya olan iki kısa olay: öğretmen girdi → öğrenciler HEMEN sustu. 'immediately' sıralı olayı gösterir; iki fiil de Past Simple: 'came / stopped'.",
+    "tr": "Öğretmen sınıfa girince öğrenciler hemen konuşmayı kesti."
+  },
+  {
+    "id": "ss224",
+    "type": "Zaman (çift boşluk)",
+    "text": "Our team ___ every match so {far} this season, and we {hope} we ___ the cup in May.",
+    "options": ["wins / won", "has won / won", "had won / would win", "has won / will win", "won / win"],
+    "answer": "has won / will win",
+    "why": "'so far' bugüne kadarki toplamı verir → 'has won'. 'hope' ve 'in May' geleceğe bakar → 'will win'. 'has won / won' kupayı geçmişte kazanılmış sayar; 'hope' ile çelişir.",
+    "tr": "Takımımız bu sezon şimdiye kadar her maçı kazandı ve mayısta kupayı kazanacağımızı umuyoruz."
+  },
+  {
+    "id": "ss225",
+    "type": "Zaman (çift boşluk)",
+    "text": "{Last} week, the company ___ that it ___ 500 new workers {next} year.",
+    "options": ["announced / had hired", "announces / had hired", "had announced / hires", "has announced / hired", "announced / would hire"],
+    "answer": "announced / would hire",
+    "why": "'Last week' → duyuru Past Simple: 'announced'. Duyurulan şey o zamana göre GELECEKTE (next year) → geçmişten bakılan gelecek: 'would hire'. 'had hired' işe alımı duyurudan önceye koyar.",
+    "tr": "Şirket geçen hafta gelecek yıl 500 yeni çalışan alacağını duyurdu."
+  },
+  {
+    "id": "ss226",
+    "type": "Zaman (çift boşluk)",
+    "text": "It ___ {for} three days {when} the river finally ___ its banks.",
+    "options": ["had been raining / burst", "had rained / has burst", "has been raining / bursts", "was raining / has burst", "rains / burst"],
+    "answer": "had been raining / burst",
+    "why": "Nehrin taşması (burst) geçmişte bir an; o ana KADAR üç gündür süren yağmur → Past Perfect Continuous: 'had been raining'. 'finally' de uzun bir sürecin sonunda olan olayı gösterir.",
+    "tr": "Nehir sonunda taştığında üç gündür yağmur yağıyordu."
+  },
+  {
+    "id": "ss227",
+    "type": "Zaman (çift boşluk)",
+    "text": "{Every} {morning}, my father ___ the newspaper while he ___ breakfast.",
+    "options": ["had read / has", "reads / has", "is reading / had", "has read / had", "read / is having"],
+    "answer": "reads / has",
+    "why": "'Every morning' her gün tekrarlanan bir alışkanlık → iki yarım da Simple Present: 'reads / has'. Diğer şıklar iki farklı zamanı karıştırıyor.",
+    "tr": "Babam her sabah kahvaltı ederken gazete okur."
+  },
+  {
+    "id": "ss228",
+    "type": "Zaman (çift boşluk)",
+    "text": "{Look} at those {dark} clouds! It ___ rain, so you ___ an umbrella.",
+    "options": ["rains / needed", "was going to / will need", "is going to / will need", "is going to / needed", "will / needed"],
+    "answer": "is going to / will need",
+    "why": "Şu anki bir KANITA (dark clouds) dayanan tahmin → 'is going to'. Sonuç da geleceğe ait → 'will need'. 'needed' geçmişe kayar; 'was going to' kanıtı geçmişe taşır.",
+    "tr": "Şu kara bulutlara bak! Yağmur yağacak, o yüzden şemsiyeye ihtiyacın olacak."
+  },
+  {
+    "id": "ss229",
+    "type": "Zaman (çift boşluk)",
+    "text": "The museum ___ closed {for} two years {now}; it ___ its doors {in} 2022 for renovation.",
+    "options": ["has been / has closed", "had been / closes", "was / has closed", "has been / closed", "is / had closed"],
+    "answer": "has been / closed",
+    "why": "İlk yarım 'for two years now' → bugüne uzanan durum: 'has been'. İkinci yarım belirli bir geçmiş tarih ('in 2022') → 'closed'. Belirli geçmiş tarih Present Perfect'i dışarıda bırakır.",
+    "tr": "Müze iki yıldır kapalı; restorasyon için kapılarını 2022'de kapattı."
+  },
+  {
+    "id": "ss230",
+    "type": "Zaman (çift boşluk)",
+    "text": "{By} the time she ___ thirty, she ___ {already} written three bestselling novels.",
+    "options": ["turns / had", "has turned / had", "turned / has", "had turned / has", "turned / had"],
+    "answer": "turned / had",
+    "why": "'By the time' + Past Simple (turned) geçmişte bir an; o ana kadar tamamlanmış iş ('already written') → Past Perfect yardımcı fiili: 'had'. 'turned / has' iki farklı zaman noktasını karıştırır.",
+    "tr": "Otuz yaşına geldiğinde çok satan üç roman yazmıştı bile."
+  },
+  {
+    "id": "ss231",
+    "type": "Zaman (çift boşluk)",
+    "text": "The baby ___ peacefully {now}, but she ___ {all} {afternoon}.",
+    "options": ["is sleeping / has been crying", "has slept / was crying", "sleeps / cried", "is sleeping / had cried", "slept / is crying"],
+    "answer": "is sleeping / has been crying",
+    "why": "'now' şu an süren işi gösterir → 'is sleeping'. 'all afternoon' bugünün öğleden sonrasından şu ana dek süren işi anlatır → 'has been crying'. 'had cried' geçmişte başka bir referans noktası isterdi.",
+    "tr": "Bebek şimdi huzur içinde uyuyor ama bütün öğleden sonra ağladı."
+  },
+  {
+    "id": "ss232",
+    "type": "Zaman (çift boşluk)",
+    "text": "{Last} night, {after} the guests ___, we ___ the dishes together.",
+    "options": ["leave / washed", "had left / washed", "had left / have washed", "were leaving / wash", "left / have washed"],
+    "answer": "had left / washed",
+    "why": "'Last night' → ana olay Past Simple: 'washed'. 'after' önce olanı işaretler: misafirler önce gitmişti → 'had left'. have'li şıklar 'last night' ile çelişir.",
+    "tr": "Dün gece misafirler gittikten sonra bulaşıkları birlikte yıkadık."
+  },
+  {
+    "id": "ss233",
+    "type": "Zaman (çift boşluk)",
+    "text": "Hurry up! The train ___ in ten {minutes}, and we ___ our tickets {yet}.",
+    "options": ["had left / haven't bought", "left / didn't buy", "leaves / haven't bought", "has left / don't buy", "leaves / hadn't bought"],
+    "answer": "leaves / haven't bought",
+    "why": "Tarifeli ulaşımda gelecek Simple Present ile verilir: 'The train leaves in ten minutes'. 'yet' olumsuz cümlede Present Perfect ister → 'haven't bought'. 'Hurry up!' de zamanın ŞİMDİ olduğunu gösterir.",
+    "tr": "Acele et! Tren on dakika sonra kalkıyor ve biz daha biletlerimizi almadık."
+  },
+  {
+    "id": "ss234",
+    "type": "Zaman (çift boşluk)",
+    "text": "Ali ___ in the library {when} his friends ___ him to join them at the café.",
+    "options": ["studied / were calling", "has studied / call", "had studied / were calling", "was studying / called", "is studying / called"],
+    "answer": "was studying / called",
+    "why": "'when' ile iki geçmiş olay: kütüphanede ders çalışma (süren iş) ve arkadaşların araması (kısa olay) → 'was studying / called'. 'is studying / called' şimdiki zamanla geçmişi karıştırır.",
+    "tr": "Arkadaşları onu kafeye çağırmak için aradığında Ali kütüphanede ders çalışıyordu."
+  },
+  {
+    "id": "ss235",
+    "type": "Zaman (çift boşluk)",
+    "text": "The climbers were exhausted {because} they ___ {for} twelve hours, and they ___ nothing {since} breakfast.",
+    "options": ["were walking / have eaten", "walked / eat", "have been walking / ate", "had walked / have eaten", "had been walking / had eaten"],
+    "answer": "had been walking / had eaten",
+    "why": "Ana cümle geçmişte (were exhausted). Yorgunluğun iki sebebi o ana KADAR süregelmişti: 'for twelve hours' → 'had been walking'; 'since breakfast' → 'had eaten'. have'li şıklar geçmişteki durumu bugüne bağlar.",
+    "tr": "Dağcılar bitkindi çünkü on iki saattir yürüyorlardı ve kahvaltıdan beri hiçbir şey yememişlerdi."
+  },
+  {
+    "id": "ss236",
+    "type": "Zaman (çift boşluk)",
+    "text": "{Since} the new manager ___, the number of customer complaints ___ by half.",
+    "options": ["arrived / has fallen", "arrived / fell", "arrives / had fallen", "has arrived / fell", "had arrived / falls"],
+    "answer": "arrived / has fallen",
+    "why": "'Since' kalıbı: since-yarımında geçmişteki başlangıç noktası Past Simple (arrived), ana yarımda o noktadan BUGÜNE uzanan sonuç Present Perfect (has fallen).",
+    "tr": "Yeni müdür geldiğinden beri müşteri şikâyetlerinin sayısı yarı yarıya azaldı."
+  },
+  {
+    "id": "ss237",
+    "type": "Zaman (çift boşluk)",
+    "text": "When Neil Armstrong ___ on the Moon in 1969, no human ___ there {before}.",
+    "options": ["walks / has been", "walked / had been", "has walked / was", "was walking / is", "had walked / has been"],
+    "answer": "walked / had been",
+    "why": "1969 belirli geçmiş → 'walked'. 'before' o andan ÖNCESİNİ kapsar: o güne kadar kimse oraya gitmemişti → 'had been'. 'has been' bugüne bağlar ve 1969 ile çelişir.",
+    "tr": "Neil Armstrong 1969'da Ay'da yürüdüğünde daha önce hiçbir insan oraya gitmemişti."
+  },
+  {
+    "id": "ss238",
+    "type": "Zaman (çift boşluk)",
+    "text": "At {this} {time} {yesterday}, I ___ to Izmir, and I ___ there until midnight.",
+    "options": ["am flying / won't arrive", "have flown / didn't arrive", "was flying / didn't arrive", "was flying / haven't arrived", "flew / haven't arrived"],
+    "answer": "was flying / didn't arrive",
+    "why": "'At this time yesterday' geçmişte belli bir anda SÜREN işi gösterir → 'was flying'. Varış da aynı geçmiş güne ait → 'didn't arrive'. 'haven't arrived' geçmişi bugüne bağlar.",
+    "tr": "Dün bu saatte İzmir'e uçuyordum ve gece yarısına kadar oraya varamadım."
+  },
+  {
+    "id": "ss239",
+    "type": "Zaman (çift boşluk)",
+    "text": "The city's population ___ rapidly {since} the 1990s, and experts predict it ___ even more by {2040}.",
+    "options": ["grows / has grown", "had grown / would grow", "grew / grows", "has grown / will grow", "has grown / grew"],
+    "answer": "has grown / will grow",
+    "why": "'since the 1990s' bugüne uzanır → 'has grown'. 'predict' ve 'by 2040' geleceğe bakar → 'will grow'. 'would grow' geçmişten bakılan bir gelecek olurdu; burada 'predict' şimdiki zamanda.",
+    "tr": "Kentin nüfusu 1990'lardan beri hızla arttı ve uzmanlar 2040'a kadar daha da artacağını öngörüyor."
+  },
+  {
+    "id": "ss240",
+    "type": "Zaman (çift boşluk)",
+    "text": "My brother {usually} ___ to work by bus, but {today} he ___ his bike.",
+    "options": ["went / rides", "go / is riding", "has gone / was riding", "is going / rides", "goes / is riding"],
+    "answer": "goes / is riding",
+    "why": "'usually' alışkanlık → Simple Present: 'goes'. 'but today' bugüne özel, geçici durum → Present Continuous: 'is riding'. 'go' tekil özneyle uyuşmaz.",
+    "tr": "Kardeşim işe genellikle otobüsle gider ama bugün bisikletiyle gidiyor."
+  },
+  {
+    "id": "ss241",
+    "type": "Zaman (çift boşluk)",
+    "text": "Two years {ago}, she ___ at a bank; {now} she ___ as a teacher.",
+    "options": ["worked / works", "has worked / worked", "was working / had worked", "works / worked", "had worked / has worked"],
+    "answer": "worked / works",
+    "why": "'ago' bitmiş geçmiş → 'worked'. 'now' şimdiki durum → 'works'. İki yarımın zaman işareti zıt; fiiller de ona göre ayrılır.",
+    "tr": "İki yıl önce bir bankada çalışıyordu; şimdi öğretmen olarak çalışıyor."
+  },
+  {
+    "id": "ss242",
+    "type": "Edat / bağlaç",
+    "text": "___ the {fact} that he was seriously {ill}, he went to work as usual.",
+    "options": ["Even", "Despite", "Because of", "Although", "In spite"],
+    "answer": "Despite",
+    "why": "İki adım. (1) Boşluktan sonra 'the fact that' geliyor: bu bir isim öbeğidir → edat lazım; 'Although the fact' yanlış. (2) Hasta olmasına RAĞMEN işe gitti → zıtlık: 'Despite'. 'In spite' ancak 'of' ile tamamlanır.",
+    "tr": "Ciddi biçimde hasta olmasına rağmen her zamanki gibi işe gitti."
+  },
+  {
+    "id": "ss243",
+    "type": "Edat / bağlaç",
+    "text": "The final match was {cancelled} ___ the heavy {snow}.",
+    "options": ["because", "despite", "because of", "although", "unless"],
+    "answer": "because of",
+    "why": "(1) Boşluktan sonra fiil yok, yalnız isim öbeği (the heavy snow) → edat: 'because', 'although', 'unless' elenir. (2) Kar maçın iptal SEBEBİ → 'because of'. 'despite' anlamı ters çevirir.",
+    "tr": "Final maçı yoğun kar yüzünden iptal edildi."
+  },
+  {
+    "id": "ss244",
+    "type": "Edat / bağlaç",
+    "text": "___ the {flight}, passengers are asked to keep their seat belts fastened.",
+    "options": ["Although", "Unless", "While", "During", "Since"],
+    "answer": "During",
+    "why": "Boşluktan sonra yalnızca bir isim (the flight) var → edat. Zaman bildiren edat 'During' (… sırasında). 'While' aynı anlamı taşır ama arkasından cümle ister: while they are flying.",
+    "tr": "Uçuş sırasında yolculardan emniyet kemerlerini bağlı tutmaları isteniyor."
+  },
+  {
+    "id": "ss245",
+    "type": "Edat / bağlaç",
+    "text": "___ they {were} {travelling} across Europe, they visited more than twenty museums.",
+    "options": ["In spite of", "During", "Because of", "Despite", "While"],
+    "answer": "While",
+    "why": "Boşluktan sonra özne + fiil (they were travelling) → tam bir cümle, yani bağlaç lazım. Edat olan During, Despite, Because of ve In spite of elenir. Anlam 'yolculuk ederken' → 'While'.",
+    "tr": "Avrupa'yı gezerken yirmiden fazla müze ziyaret ettiler."
+  },
+  {
+    "id": "ss246",
+    "type": "Edat / bağlaç",
+    "text": "Hundreds of flights were {delayed} ___ a {strike} by air traffic controllers.",
+    "options": ["due to", "because", "so that", "although", "even though"],
+    "answer": "due to",
+    "why": "Boşluktan sonra isim öbeği (a strike) → edat. Diğer dört şık bağlaçtır. Grev gecikmelerin sebebi → 'due to' (-den dolayı).",
+    "tr": "Hava trafik kontrolörlerinin grevi nedeniyle yüzlerce uçuş rötar yaptı."
+  },
+  {
+    "id": "ss247",
+    "type": "Edat / bağlaç",
+    "text": "All the shops were {closed} ___ it {was} a national holiday.",
+    "options": ["in spite of", "since", "because of", "due to", "despite"],
+    "answer": "since",
+    "why": "Boşluktan sonra tam bir cümle (it was a national holiday) → bağlaç lazım. Tek bağlaç 'since' ve burada 'çünkü' anlamındadır. Diğerleri edattır; arkalarında isim ister.",
+    "tr": "Ulusal bayram olduğu için bütün dükkânlar kapalıydı."
+  },
+  {
+    "id": "ss248",
+    "type": "Edat / bağlaç",
+    "text": "___ his {lack} of experience, he was {offered} the job.",
+    "options": ["Because", "Although", "In spite of", "Unless", "Even though"],
+    "answer": "In spite of",
+    "why": "(1) Boşluktan sonra isim öbeği (his lack of experience) → edat. Although, Because, Even though ve Unless cümle ister. (2) Deneyimsizliğine RAĞMEN işi aldı → 'In spite of'.",
+    "tr": "Deneyim eksikliğine rağmen ona iş teklif edildi."
+  },
+  {
+    "id": "ss249",
+    "type": "Edat / bağlaç",
+    "text": "___ she {had} no experience, she was {offered} the job.",
+    "options": ["Despite", "Because of", "In spite of", "Even though", "Due to"],
+    "answer": "Even though",
+    "why": "Bir önceki sorunun ikizi: bu kez boşluktan sonra CÜMLE var (she had no experience) → bağlaç. Anlam yine zıtlık → 'Even though'. 'Despite' ve 'In spite of' aynı anlamdadır ama isim ister.",
+    "tr": "Hiç deneyimi olmamasına rağmen ona iş teklif edildi."
+  },
+  {
+    "id": "ss250",
+    "type": "Edat / bağlaç",
+    "text": "Many people now shop {online} ___ going to {traditional} stores.",
+    "options": ["although", "because of", "in spite", "rather", "instead of"],
+    "answer": "instead of",
+    "why": "Boşluktan sonra -ing (going) → edat. İki alışkanlık karşılaştırılıyor: çevrim içi alışveriş, geleneksel mağazaların YERİNE → 'instead of'. 'rather' ancak 'rather than' olarak kullanılır.",
+    "tr": "Artık birçok kişi geleneksel mağazalara gitmek yerine çevrim içi alışveriş yapıyor."
+  },
+  {
+    "id": "ss251",
+    "type": "Edat / bağlaç",
+    "text": "___ {being} a talented musician, he is {also} a successful novelist.",
+    "options": ["In addition to", "Despite", "Although", "Because", "Instead of"],
+    "answer": "In addition to",
+    "why": "Boşluktan sonra -ing (being) → edat; Although ve Because elenir. Ana cümledeki 'also' bir EKLEME yapıldığını gösterir → 'In addition to' (… -nın yanı sıra). 'Despite' ile 'also' çelişir.",
+    "tr": "Yetenekli bir müzisyen olmasının yanı sıra başarılı bir romancı da."
+  },
+  {
+    "id": "ss252",
+    "type": "Edat / bağlaç",
+    "text": "___ the latest government {report}, unemployment fell to 8% last month.",
+    "options": ["Because", "According to", "Despite", "Although", "Due to"],
+    "answer": "According to",
+    "why": "Bir rapor bilginin KAYNAĞIDIR → '… -e göre': 'According to'. 'Due to' raporu işsizliğin düşmesinin sebebi yapardı; anlamsız.",
+    "tr": "Hükümetin son raporuna göre işsizlik geçen ay %8'e düştü."
+  },
+  {
+    "id": "ss253",
+    "type": "Edat / bağlaç",
+    "text": "The free health service is available to {everyone}, ___ age or income.",
+    "options": ["instead of", "due to", "regardless of", "according to", "because of"],
+    "answer": "regardless of",
+    "why": "'everyone' (herkes) kapsayıcıdır: yaş ya da gelir FARK ETMEKSİZİN → 'regardless of'. 'according to' yaşa ve gelire göre değişen bir hizmet anlatırdı; 'everyone' ile çelişir.",
+    "tr": "Ücretsiz sağlık hizmeti yaş ya da gelir fark etmeksizin herkese açık."
+  },
+  {
+    "id": "ss254",
+    "type": "Edat / bağlaç",
+    "text": "___ the new vaccine, the disease has almost {disappeared} in the region.",
+    "options": ["Although", "Despite", "In spite of", "Thanks to", "Unless"],
+    "answer": "Thanks to",
+    "why": "Olumlu bir sonuç (hastalık neredeyse yok oldu) ve onu sağlayan etken (aşı) → '… sayesinde': 'Thanks to'. Despite ve In spite of mantığı tersine çevirir; Although ve Unless cümle ister.",
+    "tr": "Yeni aşı sayesinde bölgede hastalık neredeyse ortadan kalktı."
+  },
+  {
+    "id": "ss255",
+    "type": "Edat / bağlaç",
+    "text": "___ his brother, who loves {sports}, Tom {prefers} reading books.",
+    "options": ["Whereas", "Like", "Although", "As", "Unlike"],
+    "answer": "Unlike",
+    "why": "(1) Boşluktan sonra isim (his brother) ve ardından ana cümle → edat; Whereas ve Although cümle ister. (2) Kardeşi sporu seviyor, Tom okumayı → FARKLILIK: 'Unlike' (-in aksine). 'Like' benzerlik kurardı.",
+    "tr": "Spora bayılan kardeşinin aksine Tom kitap okumayı tercih ediyor."
+  },
+  {
+    "id": "ss256",
+    "type": "Edat / bağlaç",
+    "text": "My aunt {works} ___ a nurse at the city {hospital}.",
+    "options": ["as", "as if", "such as", "than", "like"],
+    "answer": "as",
+    "why": "Meslek ya da görev bildirirken 'as' kullanılır: works as a nurse (hemşire OLARAK). 'like a nurse' 'hemşire GİBİ ama hemşire değil' demektir.",
+    "tr": "Teyzem şehir hastanesinde hemşire olarak çalışıyor."
+  },
+  {
+    "id": "ss257",
+    "type": "Edat / bağlaç",
+    "text": "Please switch off all electronic devices ___ {entering} the laboratory.",
+    "options": ["unless", "before", "despite", "because of", "during"],
+    "answer": "before",
+    "why": "Boşluktan sonra -ing (entering) → edat olarak kullanılan zaman sözcüğü. Cihazlar laboratuvara girmeden ÖNCE kapatılır → 'before'. 'during' -ing ile kullanılmaz; 'unless' cümle ister.",
+    "tr": "Lütfen laboratuvara girmeden önce tüm elektronik cihazları kapatın."
+  },
+  {
+    "id": "ss258",
+    "type": "Edat / bağlaç",
+    "text": "___ a few minor {errors}, the report was {excellent}.",
+    "options": ["Due to", "Instead of", "Apart from", "Although", "Because of"],
+    "answer": "Apart from",
+    "why": "Küçük hatalar bir İSTİSNA, rapor genel olarak mükemmel → '… dışında': 'Apart from'. 'Because of' hataları mükemmelliğin sebebi yapardı; 'Although' cümle ister.",
+    "tr": "Birkaç küçük hata dışında rapor mükemmeldi."
+  },
+  {
+    "id": "ss259",
+    "type": "Edat / bağlaç",
+    "text": "___ {fire}, do not use the lifts; use the {stairs} instead.",
+    "options": ["Despite", "Unless", "Although", "In case of", "In case"],
+    "answer": "In case of",
+    "why": "Boşluktan sonra yalnızca isim (fire) → edat. 'In case of' = '… durumunda'. 'In case' bağlaçtır ve cümle ister (in case there is a fire).",
+    "tr": "Yangın durumunda asansörleri kullanmayın; onun yerine merdivenleri kullanın."
+  },
+  {
+    "id": "ss260",
+    "type": "Edat / bağlaç",
+    "text": "The shop will {stay} {open} ___ midnight on Friday.",
+    "options": ["by", "during", "for", "since", "until"],
+    "answer": "until",
+    "why": "'stay open' SÜREN bir durumdur; bir noktaya KADAR devam eder → 'until'. 'by' bir işin en geç tamamlanacağı sınırı verir; süren durumla kullanılmaz.",
+    "tr": "Dükkân cuma günü gece yarısına kadar açık kalacak."
+  },
+  {
+    "id": "ss261",
+    "type": "Edat / bağlaç",
+    "text": "You must {submit} your application ___ Friday at the {latest}.",
+    "options": ["by", "until", "during", "for", "since"],
+    "answer": "by",
+    "why": "Başvurmak bir kez yapılıp BİTEN iştir; son tarih 'by' ile verilir (en geç … -e kadar). 'at the latest' de bunu doğrular. 'until' süren işler içindir.",
+    "tr": "Başvurunu en geç cuma gününe kadar teslim etmelisin."
+  },
+  {
+    "id": "ss262",
+    "type": "Edat / bağlaç",
+    "text": "It rained heavily ___ the {whole} night, so the streets were flooded.",
+    "options": ["although", "throughout", "while", "unless", "since"],
+    "answer": "throughout",
+    "why": "Boşluktan sonra isim öbeği (the whole night) → edat; while, although, unless cümle ister. 'whole' süreyi baştan sona kapsar → 'throughout' (… boyunca).",
+    "tr": "Bütün gece boyunca şiddetli yağmur yağdı, bu yüzden sokakları su bastı."
+  },
+  {
+    "id": "ss263",
+    "type": "Edat / bağlaç",
+    "text": "___ {many} {other} large cities, Istanbul suffers from heavy traffic.",
+    "options": ["Although", "As", "Like", "Whereas", "Such as"],
+    "answer": "Like",
+    "why": "Boşluktan sonra isim öbeği → edat; Whereas ve Although elenir. İstanbul diğer büyük şehirlere BENZİYOR → 'Like'. 'As' benzerlik için arkasından cümle ister; 'Such as' örnek sıralar.",
+    "tr": "Diğer birçok büyük şehir gibi İstanbul da yoğun trafikten muzdarip."
+  },
+  {
+    "id": "ss264",
+    "type": "Edat / bağlaç",
+    "text": "Some fruits, ___ {oranges} and {lemons}, are especially rich in vitamin C.",
+    "options": ["so that", "like as", "as if", "such as", "as well"],
+    "answer": "such as",
+    "why": "Genel bir gruptan (some fruits) sonra ÖRNEKLER sıralanıyor (oranges and lemons) → 'such as' (… gibi). as if ve so that cümle ister; 'like as' diye bir kalıp yok.",
+    "tr": "Portakal ve limon gibi bazı meyveler C vitamini bakımından özellikle zengindir."
+  },
+  {
+    "id": "ss265",
+    "type": "Edat / bağlaç",
+    "text": "The meeting was {postponed} ___ the {absence} of the chairman.",
+    "options": ["instead of", "although", "in spite of", "as if", "owing to"],
+    "answer": "owing to",
+    "why": "Başkanın yokluğu (absence) toplantının ertelenme SEBEBİ → 'owing to' (≈ due to, because of). 'in spite of' anlamı tersine çevirir; although ve as if cümle ister.",
+    "tr": "Toplantı başkanın yokluğu nedeniyle ertelendi."
+  },
+  {
+    "id": "ss266",
+    "type": "Edat / bağlaç",
+    "text": "___ you {hurry}, you will {miss} the last bus.",
+    "options": ["Unless", "Without", "Despite", "Because of", "In case of"],
+    "answer": "Unless",
+    "why": "Boşluktan sonra cümle (you hurry) → bağlaç; diğerleri edattır. Anlam: acele ETMEZSEN otobüsü kaçırırsın → 'Unless'.",
+    "tr": "Acele etmezsen son otobüsü kaçıracaksın."
+  },
+  {
+    "id": "ss267",
+    "type": "Edat / bağlaç",
+    "text": "___ {sufficient} {funding}, the research project cannot continue.",
+    "options": ["Although", "Without", "Unless", "Because", "Even if"],
+    "answer": "Without",
+    "why": "Bir önceki sorunun ikizi: bu kez boşluktan sonra yalnız isim öbeği (sufficient funding) → edat. 'Without' = '… olmadan'. 'Unless' aynı anlamı taşır ama cümle ister.",
+    "tr": "Yeterli fon olmadan araştırma projesi devam edemez."
+  },
+  {
+    "id": "ss268",
+    "type": "Edat / bağlaç",
+    "text": "All applicants must have a medical check-up ___ {starting} work.",
+    "options": ["in advance", "previous", "prior to", "before to", "ahead"],
+    "answer": "prior to",
+    "why": "Boşluktan sonra -ing (starting) → edat. 'prior to' = 'before' (… -den önce), resmî dildir. 'before to' diye bir kalıp yok; 'previous' sıfattır, 'in advance' zarftır.",
+    "tr": "Tüm adaylar işe başlamadan önce sağlık kontrolünden geçmeli."
+  },
+  {
+    "id": "ss269",
+    "type": "Edat / bağlaç",
+    "text": "The number of international students {fell} sharply ___ the {pandemic}.",
+    "options": ["so that", "despite", "although", "as a result of", "as a result"],
+    "answer": "as a result of",
+    "why": "Salgın düşüşün SEBEBİ ve boşluktan sonra isim var → 'as a result of'. 'as a result' (of'suz) cümleler arasında bağlayıcıdır, isim almaz.",
+    "tr": "Uluslararası öğrenci sayısı salgının sonucu olarak keskin biçimde düştü."
+  },
+  {
+    "id": "ss270",
+    "type": "Edat / bağlaç",
+    "text": "The factory {continued} to operate ___ the angry {protests} of local residents.",
+    "options": ["due to", "although", "unless", "because", "despite"],
+    "answer": "despite",
+    "why": "(1) Boşluktan sonra isim öbeği → edat; although, because ve unless elenir. (2) Protestolara RAĞMEN çalışmaya devam etti → 'despite'. 'due to' protestoyu çalışmanın sebebi yapar; anlamsız.",
+    "tr": "Fabrika yerel halkın öfkeli protestolarına rağmen çalışmaya devam etti."
+  },
+  {
+    "id": "ss271",
+    "type": "Sıfat cümlesi",
+    "text": "The {scientist} ___ {discovered} penicillin was Alexander Fleming.",
+    "options": ["who", "which", "when", "whose", "where"],
+    "answer": "who",
+    "why": "Sıfat cümlesinde iki soru sor: (1) Boşluktan önceki isim insan mı, şey mi, yer mi? 'scientist' insan. (2) Boşluktan sonra ne geliyor? Doğrudan fiil (discovered) → özne olan insan zamiri: 'who'.",
+    "tr": "Penisilini keşfeden bilim insanı Alexander Fleming'di."
+  },
+  {
+    "id": "ss272",
+    "type": "Sıfat cümlesi",
+    "text": "{Ankara}, ___ {is} the capital of Turkey, has a population of over five million.",
+    "options": ["where", "which", "whose", "who", "that"],
+    "answer": "which",
+    "why": "Virgüllü (tanımlamayan) sıfat cümlesinde 'that' KULLANILMAZ. Ankara bir şehir ama boşluktan sonra fiil (is) geliyor → özne olan şey zamiri: 'which'. 'where' arkasından tam cümle isterdi.",
+    "tr": "Türkiye'nin başkenti olan Ankara'nın nüfusu beş milyonu aşıyor."
+  },
+  {
+    "id": "ss273",
+    "type": "Sıfat cümlesi",
+    "text": "The student ___ {essay} won first prize will receive a full scholarship.",
+    "options": ["where", "which", "whose", "whom", "who"],
+    "answer": "whose",
+    "why": "Boşluktan hemen sonra bir İSİM (essay) geliyor ve bu isim öğrenciye ait: öğrencinin kompozisyonu → iyelik zamiri: 'whose'. 'who essay' dilbilgisi olarak kurulamaz.",
+    "tr": "Kompozisyonu birincilik ödülü kazanan öğrenci tam burs alacak."
+  },
+  {
+    "id": "ss274",
+    "type": "Sıfat cümlesi",
+    "text": "This is the small village ___ my grandfather {was} {born}.",
+    "options": ["whose", "which", "who", "where", "when"],
+    "answer": "where",
+    "why": "Önceki isim bir YER (village). Boşluktan sonraki cümle eksiksiz (my grandfather was born) → yer zarfı gereken: 'where' (= in which). 'which' ancak edatla gelir: in which.",
+    "tr": "Burası büyükbabamın doğduğu küçük köy."
+  },
+  {
+    "id": "ss275",
+    "type": "Sıfat cümlesi",
+    "text": "I will never forget the {day} ___ I graduated from university.",
+    "options": ["where", "who", "whose", "which", "when"],
+    "answer": "when",
+    "why": "Önceki isim bir ZAMAN (day) ve boşluktan sonraki cümle eksiksiz → zaman zarfı: 'when' (= on which). 'which' tek başına kullanılırsa 'graduated' fiilinin bir nesnesi olması gerekirdi.",
+    "tr": "Üniversiteden mezun olduğum günü asla unutmayacağım."
+  },
+  {
+    "id": "ss276",
+    "type": "Sıfat cümlesi",
+    "text": "The man {to} ___ I spoke on the phone was very helpful.",
+    "options": ["whom", "whose", "which", "that", "who"],
+    "answer": "whom",
+    "why": "Boşluktan hemen önce bir EDAT (to) var ve önceki isim insan (man). Edattan sonra insan için yalnızca 'whom' gelir. 'to that' ve 'to who' kurulamaz; 'which' şeyler içindir.",
+    "tr": "Telefonda konuştuğum adam çok yardımseverdi."
+  },
+  {
+    "id": "ss277",
+    "type": "Sıfat cümlesi",
+    "text": "The {book} ___ you {lent} me last week was really interesting.",
+    "options": ["whose", "which", "where", "who", "what"],
+    "answer": "which",
+    "why": "Önceki isim bir ŞEY (book) ve 'lent' fiilinin nesnesi eksik (neyi ödünç verdin? kitabı) → şey zamiri: 'which'. 'what' önünde isim olan yerde kullanılmaz: the book what yanlıştır.",
+    "tr": "Geçen hafta bana ödünç verdiğin kitap gerçekten ilginçti."
+  },
+  {
+    "id": "ss278",
+    "type": "Sıfat cümlesi",
+    "text": "Nobody knows the {reason} ___ the ancient city was abandoned.",
+    "options": ["whose", "what", "why", "which", "where"],
+    "answer": "why",
+    "why": "Önceki isim 'reason' (sebep) ve boşluktan sonraki cümle eksiksiz (the city was abandoned) → 'why' (= for which). 'the reason why' YDS'de kalıp olarak geçer.",
+    "tr": "Antik kentin neden terk edildiğini kimse bilmiyor."
+  },
+  {
+    "id": "ss279",
+    "type": "Sıfat cümlesi",
+    "text": "The hotel ___ we stayed {in} was very close to the beach.",
+    "options": ["where", "who", "whose", "which", "when"],
+    "answer": "which",
+    "why": "Tuzak: cümlenin sonunda 'in' edatı var (stayed in). Edat zaten orada olduğu için zamirin kendisi 'which' olmalı: which … in = in which. 'where … in' edatı iki kez kullanmak olur.",
+    "tr": "Kaldığımız otel sahile çok yakındı."
+  },
+  {
+    "id": "ss280",
+    "type": "Sıfat cümlesi",
+    "text": "Marie Curie, ___ {won} two Nobel Prizes, was born in Warsaw.",
+    "options": ["whose", "which", "that", "whom", "who"],
+    "answer": "who",
+    "why": "Virgüllü sıfat cümlesi → 'that' olmaz. Önceki isim insan ve boşluktan sonra fiil (won) geliyor → özne zamiri 'who'. 'whom' nesne zamiridir; arkasından özne isterdi.",
+    "tr": "İki Nobel Ödülü kazanan Marie Curie Varşova'da doğdu."
+  },
+  {
+    "id": "ss281",
+    "type": "Sıfat cümlesi",
+    "text": "The company employs two hundred people, most {of} ___ are women.",
+    "options": ["whom", "whose", "them", "who", "which"],
+    "answer": "whom",
+    "why": "'most of / some of / all of' + insan → 'whom'. 'most of them' iki bağımsız cümleyi virgülle yapıştırır ve yanlış olur; 'of who' kurulamaz.",
+    "tr": "Şirket, çoğu kadın olan iki yüz kişiyi istihdam ediyor."
+  },
+  {
+    "id": "ss282",
+    "type": "Sıfat cümlesi",
+    "text": "He failed the final exam, ___ {surprised} everyone in the class.",
+    "options": ["who", "which", "it", "what", "that"],
+    "answer": "which",
+    "why": "Herkesi şaşırtan şey tek bir isim değil, ÖNCEKİ CÜMLENİN TAMAMI (sınavdan kalması). Bir cümlenin tamamına virgülden sonra 'which' ile gönderme yapılır. 'that' virgülden sonra gelmez; 'it' iki cümleyi bağlamaz.",
+    "tr": "Final sınavından kaldı ve bu, sınıftaki herkesi şaşırttı."
+  },
+  {
+    "id": "ss283",
+    "type": "Sıfat cümlesi",
+    "text": "The {period} ___ the Ottoman Empire reached its greatest size was the 17th century.",
+    "options": ["where", "which", "when", "whose", "who"],
+    "answer": "when",
+    "why": "Önceki isim bir ZAMAN dilimi (period) ve boşluktan sonraki cümle eksiksiz → 'when'. 'which' tek başına kullanılırsa eksik bir nesne ya da edat gerekirdi (during which).",
+    "tr": "Osmanlı İmparatorluğu'nun en geniş sınırlarına ulaştığı dönem 17. yüzyıldı."
+  },
+  {
+    "id": "ss284",
+    "type": "Sıfat cümlesi",
+    "text": "Do you know the woman ___ {car} is parked in front of our house?",
+    "options": ["which", "who's", "whom", "whose", "who"],
+    "answer": "whose",
+    "why": "Boşluktan sonra bir isim (car) ve bu isim kadına ait → 'whose'. Tuzak: 'who's' = 'who is'; 'who is car is parked' anlamsızdır.",
+    "tr": "Arabası evimizin önüne park edilmiş olan kadını tanıyor musun?"
+  },
+  {
+    "id": "ss285",
+    "type": "Sıfat cümlesi",
+    "text": "The house ___ {roof} was damaged in the storm is now being repaired.",
+    "options": ["who", "when", "where", "which", "whose"],
+    "answer": "whose",
+    "why": "'whose' yalnız insanlar için değil, ŞEYLER için de kullanılır: evin çatısı → the house whose roof. Boşluktan sonra gelen isim (roof) iyeliği gösterir.",
+    "tr": "Çatısı fırtınada zarar gören ev şu anda onarılıyor."
+  },
+  {
+    "id": "ss286",
+    "type": "Sıfat cümlesi",
+    "text": "The laboratory ___ the experiments are {carried} {out} is on the third floor.",
+    "options": ["where", "who", "which", "whose", "when"],
+    "answer": "where",
+    "why": "Boşluktan sonraki cümle EKSİKSİZ: 'the experiments are carried out' (edilgen, nesne gerekmez). Önceki isim bir yer → 'where'. 'which' eksik bir nesne ya da sonda bir edat isterdi.",
+    "tr": "Deneylerin yapıldığı laboratuvar üçüncü katta."
+  },
+  {
+    "id": "ss287",
+    "type": "Sıfat cümlesi",
+    "text": "The laboratory ___ the university {built} last year is already too small.",
+    "options": ["when", "which", "who", "where", "whose"],
+    "answer": "which",
+    "why": "Bir önceki sorunun ikizi: bu kez 'built' fiilinin NESNESİ eksik (üniversite neyi inşa etti? laboratuvarı). Eksik nesnenin yerini 'which' tutar. Önceki isim yer olsa bile cümle eksikse 'where' olmaz.",
+    "tr": "Üniversitenin geçen yıl inşa ettiği laboratuvar şimdiden küçük kalıyor."
+  },
+  {
+    "id": "ss288",
+    "type": "Sıfat cümlesi",
+    "text": "The city {in} ___ I grew up has changed a lot over the years.",
+    "options": ["that", "where", "which", "who", "whom"],
+    "answer": "which",
+    "why": "Boşluktan önce edat (in) var ve önceki isim bir şey (city). Edattan sonra şeyler için yalnız 'which' gelir. 'in where' ve 'in that' kurulamaz; 'whom' insanlar içindir.",
+    "tr": "Büyüdüğüm şehir yıllar içinde çok değişti."
+  },
+  {
+    "id": "ss289",
+    "type": "Sıfat cümlesi",
+    "text": "The novel, the {author} {of} ___ is only nineteen, has become a bestseller.",
+    "options": ["who", "whom", "whose", "which", "that"],
+    "answer": "which",
+    "why": "'the author of ___' = romanın yazarı; 'of'tan sonra şey için 'which' gelir (the author of which = whose author). 'of whom' insan içindir; 'of whose' kurulamaz.",
+    "tr": "Yazarı yalnızca on dokuz yaşında olan roman çok satanlar listesine girdi."
+  },
+  {
+    "id": "ss290",
+    "type": "Sıfat cümlesi",
+    "text": "___ he {said} at the meeting {surprised} everyone.",
+    "options": ["Whose", "Which", "Who", "That", "What"],
+    "answer": "What",
+    "why": "Boşluktan önce bir isim YOK; cümlenin öznesi 'söylediği şey'. Önünde isim olmayan 'the thing that' anlamı 'What' ile verilir. 'Which' ve 'Who' önlerinde bir isim ister.",
+    "tr": "Toplantıda söyledikleri herkesi şaşırttı."
+  },
+  {
+    "id": "ss291",
+    "type": "Sıfat cümlesi",
+    "text": "Istanbul is a city ___ {attracts} millions of tourists every year.",
+    "options": ["that", "whose", "who", "where", "when"],
+    "answer": "that",
+    "why": "Tuzak: önceki isim bir yer (city), ama boşluktan sonra doğrudan FİİL (attracts) geliyor → özne zamiri gerekli: 'that'. 'where' yalnızca öznesi olan tam bir cümleden önce gelir.",
+    "tr": "İstanbul her yıl milyonlarca turist çeken bir şehir."
+  },
+  {
+    "id": "ss292",
+    "type": "Sıfat cümlesi",
+    "text": "{Doctors} ___ {work} night shifts often suffer from sleep problems.",
+    "options": ["whom", "who", "where", "which", "whose"],
+    "answer": "who",
+    "why": "Önceki isim insan (doctors), boşluktan sonra fiil (work) → özne zamiri 'who'. 'whom' nesne zamiridir; arkasından özne gelirdi (whom we met).",
+    "tr": "Gece vardiyasında çalışan doktorlar sık sık uyku sorunları yaşar."
+  },
+  {
+    "id": "ss293",
+    "type": "Sıfat cümlesi",
+    "text": "The candidate ___ the committee {chose} for the position has twenty years of experience.",
+    "options": ["which", "where", "whom", "whose", "what"],
+    "answer": "whom",
+    "why": "Önceki isim insan (candidate). Boşluktan sonra ÖZNE var (the committee), ardından fiil (chose) → aday seçilen, yani nesne: 'whom'. 'whose' arkasından isim ister.",
+    "tr": "Komitenin bu görev için seçtiği adayın yirmi yıllık deneyimi var."
+  },
+  {
+    "id": "ss294",
+    "type": "Sıfat cümlesi",
+    "text": "This is the most beautiful beach ___ I have {ever} {seen}.",
+    "options": ["who", "what", "when", "that", "where"],
+    "answer": "that",
+    "why": "'seen' fiilinin nesnesi eksik (neyi gördüm? plajı) → nesne zamiri gerekli. Üstünlük sıfatından (the most beautiful) sonra 'that' tercih edilir. 'where' tam cümle isterdi.",
+    "tr": "Bu, şimdiye kadar gördüğüm en güzel plaj."
+  },
+  {
+    "id": "ss295",
+    "type": "Sıfat cümlesi",
+    "text": "{Everything} ___ he told the police turned out to be false.",
+    "options": ["who", "what", "whose", "where", "that"],
+    "answer": "that",
+    "why": "everything, something, nothing, all gibi sözcüklerden sonra 'that' gelir. Klasik tuzak 'Everything what': 'what' önünde isim ya da zamir varken kullanılmaz.",
+    "tr": "Polise anlattığı her şey yalan çıktı."
+  },
+  {
+    "id": "ss296",
+    "type": "Sıfat cümlesi",
+    "text": "The reason ___ he {gave} for being late was not convincing.",
+    "options": ["that", "where", "why", "when", "whose"],
+    "answer": "that",
+    "why": "Tuzak: 'reason' görünce 'why' cazip gelir, ama 'gave' fiilinin NESNESİ eksik (ne verdi? sebebi) → nesne zamiri: 'that'. 'why' ancak cümle eksiksizse gelir (the reason why he was late).",
+    "tr": "Geç kalmasına gerekçe olarak söylediği sebep ikna edici değildi."
+  },
+  {
+    "id": "ss297",
+    "type": "Sıfat cümlesi",
+    "text": "The war, {during} ___ millions of people died, lasted six years.",
+    "options": ["where", "which", "when", "whom", "that"],
+    "answer": "which",
+    "why": "Edattan (during) sonra şey için yalnızca 'which' gelir: during which. 'during when' ve 'during that' kurulamaz; 'whom' insanlar içindir.",
+    "tr": "Milyonlarca insanın öldüğü savaş altı yıl sürdü."
+  },
+  {
+    "id": "ss298",
+    "type": "Sıfat cümlesi",
+    "text": "The man ___ next to the window {is} my uncle.",
+    "options": ["sits", "is sitting", "sitting", "sat", "who sitting"],
+    "answer": "sitting",
+    "why": "Cümlenin ana fiili zaten var (is my uncle) → boşluğa ikinci bir çekimli fiil gelemez. Kısaltılmış sıfat cümlesi: 'who is sitting' → 'sitting' (etken → -ing). 'who sitting' yarım kalmış bir yapıdır.",
+    "tr": "Pencerenin yanında oturan adam amcam."
+  },
+  {
+    "id": "ss299",
+    "type": "Sıfat cümlesi",
+    "text": "Most of the products ___ in this factory {are} {exported} to Europe.",
+    "options": ["which made", "making", "are made", "made", "make"],
+    "answer": "made",
+    "why": "Ana fiil 'are exported'. Ürünler yapılan taraf → kısaltılmış EDİLGEN sıfat cümlesi: 'which are made' → 'made' (V3). 'making' ürünleri üreten yapar; 'are made' ikinci bir ana fiil olurdu.",
+    "tr": "Bu fabrikada üretilen ürünlerin çoğu Avrupa'ya ihraç ediliyor."
+  },
+  {
+    "id": "ss300",
+    "type": "Sıfat cümlesi",
+    "text": "The {first} woman ___ the summit of Everest {was} Junko Tabei, a Japanese climber.",
+    "options": ["who reach", "reach", "reached", "to reaching", "to reach"],
+    "answer": "to reach",
+    "why": "the first / the last / the only + isim → kısaltılmış sıfat cümlesi MASTARLA kurulur: the first woman to reach. 'reached' ikinci bir ana fiil gibi durur; 'who reach' zamanla uyuşmaz.",
+    "tr": "Everest'in zirvesine ulaşan ilk kadın Japon dağcı Junko Tabei'ydi."
+  }
+]
