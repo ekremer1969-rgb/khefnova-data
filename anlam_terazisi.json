@@ -1,1 +1,2415 @@
-
+[
+  {
+    "id": "at01",
+    "topic": "Olasılık",
+    "pos": "sıfat",
+    "low": "olmaz",
+    "high": "kesin olur",
+    "rungs": [
+      {"en": "impossible", "tr": "imkânsız"},
+      {"en": "unlikely", "tr": "olası değil, pek beklenmez"},
+      {"en": "possible", "tr": "mümkün, olabilir"},
+      {"en": "probable", "tr": "muhtemel, büyük ihtimalle"},
+      {"en": "certain", "tr": "kesin"}
+    ],
+    "gap": 3,
+    "hint": "Bir uçta 'asla olmaz', öbür uçta 'kesinlikle olur' var. Ortadakiler 'olabilir'den ne kadar uzak?",
+    "note": "unlikely imkânsız DEĞİL, sadece beklenmiyor. possible yalnızca 'mümkün' der, olacağını söylemez; probable (≈ likely) 'büyük ihtimalle olacak' der. YDS'de possible ile probable/likely farkı sık sorulur.",
+    "context": [
+      {"text": "Experts put the chance of rain at 90%, so a wet weekend is highly ___.", "options": ["unlikely", "possible", "probable"], "answer": "probable", "why": "%90 ihtimal = büyük ihtimal: probable. 'highly probable' kalıplaşmış bir öbektir; unlikely tam tersi, possible bu kadar yüksek ihtimali anlatmaz."},
+      {"text": "With only 5% of applicants accepted, it is ___, though not impossible, that all three of us will get in.", "options": ["impossible", "unlikely", "certain"], "answer": "unlikely", "why": "'though not impossible' imkânsızı dışarıda bırakıyor; %5 ise kesin olmaktan çok uzak. Beklenmiyor ama olabilir: unlikely."}
+    ]
+  },
+  {
+    "id": "at02",
+    "topic": "Kanıtın gücü",
+    "pos": "fiil",
+    "low": "ihtiyatlı",
+    "high": "kesin",
+    "rungs": [
+      {"en": "hint at", "tr": "ima etmek, sezdirmek"},
+      {"en": "suggest", "tr": "akla getirmek, işaret etmek (ihtiyatlı)"},
+      {"en": "indicate", "tr": "göstermek, işaret etmek"},
+      {"en": "demonstrate", "tr": "açıkça ortaya koymak"},
+      {"en": "prove", "tr": "kanıtlamak (kesin)"}
+    ],
+    "gap": 2,
+    "hint": "Yazar ne kadar emin? En ihtiyatlı ifade 'ima ediyor', en iddialı ifade 'kanıtlıyor'.",
+    "note": "YDS okuma parçalarında yazarın ne kadar emin olduğu bu fiillerle verilir: 'Research suggests…' ihtiyatlıdır, 'proves' kesindir. Soru 'yazar kesin konuşuyor mu?' diye sorarsa bu fiile bak. demonstrate ≈ açıkça göstermek, indicate ≈ göstermek (orta).",
+    "context": [
+      {"text": "Without saying it openly, the minister ___ an early election in his speech.", "options": ["hinted at", "demonstrated", "proved"], "answer": "hinted at", "why": "'Açıkça söylemeden' = ima etmek: hint at. demonstrate ve prove bir şeyi açıkça, kesin olarak gösterir."},
+      {"text": "Andrew Wiles finally ___ Fermat's Last Theorem in 1994, ending 350 years of doubt.", "options": ["suggested", "indicated", "proved"], "answer": "proved", "why": "Matematikte teorem kesin olarak kanıtlanır: prove. '350 yıllık şüpheyi bitirmek' terazinin en güçlü basamağını ister."}
+    ]
+  },
+  {
+    "id": "at03",
+    "topic": "Büyüklük",
+    "pos": "sıfat",
+    "low": "yok denecek kadar",
+    "high": "devasa",
+    "rungs": [
+      {"en": "negligible", "tr": "ihmal edilebilir, önemsiz derecede küçük"},
+      {"en": "slight", "tr": "hafif, ufak"},
+      {"en": "moderate", "tr": "orta, ılımlı"},
+      {"en": "considerable", "tr": "hatırı sayılır, epey"},
+      {"en": "enormous", "tr": "muazzam, devasa"}
+    ],
+    "gap": 3,
+    "hint": "'Hesaba katmaya bile değmez' ile 'devasa' iki uç; 'orta' tam ortada. Diğerleri ortanın hangi tarafında?",
+    "note": "negligible 'ihmal edilebilir' demek: yok sayılacak kadar küçük. considerable YDS'nin favorisidir: 'a considerable amount / considerable effort' = epey, azımsanmayacak. enormous, huge, vast ve immense aynı üst basamaktadır.",
+    "context": [
+      {"text": "The side effects were so ___ that doctors decided they could safely be ignored.", "options": ["negligible", "considerable", "enormous"], "answer": "negligible", "why": "'Güvenle göz ardı edilebilir' = ihmal edilebilir: negligible. considerable ve enormous göz ardı edilemeyecek kadar büyüktür."},
+      {"text": "The new bridge will cost a ___ amount of money, but nowhere near the whole city budget.", "options": ["slight", "considerable", "enormous"], "answer": "considerable", "why": "'but' bir karşıtlık kuruyor: miktar büyük ama bütçenin tamamına yakın değil. Epey ama devasa değil: considerable."}
+    ]
+  },
+  {
+    "id": "at04",
+    "topic": "Düşüş",
+    "pos": "fiil",
+    "low": "hafif düşüş",
+    "high": "çakılma",
+    "rungs": [
+      {"en": "dip", "tr": "kısa süre hafifçe düşmek"},
+      {"en": "decline", "tr": "gerilemek, yavaş yavaş azalmak"},
+      {"en": "plunge", "tr": "sert düşmek, dalmak"},
+      {"en": "plummet", "tr": "çakılmak, dik ve hızlı düşmek"}
+    ],
+    "gap": 2,
+    "hint": "Grafikte küçük bir çukur mu var, yoksa dik bir uçurum mu? Düşüşün hem büyüklüğüne hem hızına bak.",
+    "note": "Grafik yorumlama dili: dip küçük ve geçici bir düşüştür (sonra toparlanır); decline yavaş ve sürekli gerilemedir; plunge ani ve sert düşüştür; plummet çakılma, yani en dik düşüştür. Yükseliş tarafı: edge up < rise < surge < soar/skyrocket.",
+    "context": [
+      {"text": "Birth rates in the country have ___ slowly but steadily for thirty years.", "options": ["dipped", "declined", "plummeted"], "answer": "declined", "why": "'Yavaş ama istikrarlı, otuz yıl boyunca' = sürekli gerileme: decline. dip kısa ve geçicidir, plummet ise hızlı bir çakılmadır."},
+      {"text": "When the scandal broke, the company's shares ___ by 80% in a single hour.", "options": ["dipped", "declined", "plummeted"], "answer": "plummeted", "why": "Bir saatte %80 = dik ve hızlı çakılma: plummet. dip ve decline bu kadar sert bir düşüşü anlatmaz."}
+    ]
+  },
+  {
+    "id": "at05",
+    "topic": "Sevinç",
+    "pos": "sıfat",
+    "low": "sakin memnuniyet",
+    "high": "coşku",
+    "rungs": [
+      {"en": "content", "tr": "hâlinden memnun, yetinen"},
+      {"en": "pleased", "tr": "memnun"},
+      {"en": "delighted", "tr": "çok sevinçli, pek memnun"},
+      {"en": "thrilled", "tr": "heyecandan uçan"},
+      {"en": "ecstatic", "tr": "kendinden geçmiş, havalara uçan"}
+    ],
+    "gap": 2,
+    "hint": "Sessiz bir 'hâlimden memnunum'dan çığlık atan bir sevince doğru git. Hangisi sesini yükseltiyor?",
+    "note": "content bir duygu patlaması değil, huzurlu bir yetinmedir: 'content with little'. pleased ölçülü ve resmîdir ('I am pleased to announce…'). delighted 'çok memnun' demektir; davete cevapta klasik: 'I'd be delighted.' thrilled heyecan katar, ecstatic en uçtur.",
+    "context": [
+      {"text": "He doesn't need luxury; he is ___ with a simple life in his village.", "options": ["content", "thrilled", "ecstatic"], "answer": "content", "why": "Lüks istemeyip azla yetinmek = content. 'content with' kalıbı 'bununla yetiniyor' der; thrilled ve ecstatic coşkuludur, sakin değil."},
+      {"text": "When she heard she had won the gold medal, she screamed and jumped, absolutely ___.", "options": ["content", "pleased", "ecstatic"], "answer": "ecstatic", "why": "Çığlık atıp zıplamak terazinin en uç noktası: ecstatic. content ve pleased sessiz, ölçülü bir memnuniyettir."}
+    ]
+  },
+  {
+    "id": "at06",
+    "topic": "Öneriden talebe",
+    "pos": "fiil",
+    "low": "hafif öneri",
+    "high": "dayatma",
+    "rungs": [
+      {"en": "suggest", "tr": "önermek (hafif)"},
+      {"en": "recommend", "tr": "tavsiye etmek"},
+      {"en": "urge", "tr": "ısrarla tavsiye etmek, sıkıştırmak"},
+      {"en": "demand", "tr": "talep etmek, şart koşmak"}
+    ],
+    "gap": 2,
+    "hint": "Bir fikir sunmaktan bir şeyi dayatmaya kadar baskı nasıl artıyor? Karşı tarafın 'hayır' deme şansı hangisinde en az?",
+    "note": "suggest 'belki şöyle yapsak' der; recommend 'uzman olarak bunu öneririm'; urge 'lütfen hemen yap'; demand 'bunu yapmak zorundasın'. Kalıp tuzağı: urge sb TO do doğru, ama 'suggest sb to do' ve 'demand sb to do' yanlıştır; onlar 'that + özne + V1' alır.",
+    "context": [
+      {"text": "\"Why don't we eat out tonight?\" she ___.", "options": ["suggested", "urged", "demanded"], "answer": "suggested", "why": "'Why don't we…?' tipik bir hafif öneri kalıbıdır: suggest. urge ve demand baskı içerir."},
+      {"text": "With the storm only an hour away, officials ___ residents to leave their homes immediately.", "options": ["suggested", "urged", "demanded"], "answer": "urged", "why": "Fırtına ve 'hemen' güçlü bir baskı istiyor: urge. Üstelik 'X sb to do' kalıbını yalnızca urge alır; suggest ve demand bu kalıpla kullanılmaz."}
+    ]
+  },
+  {
+    "id": "at007",
+    "topic": "Öfke",
+    "pos": "sıfat",
+    "low": "sakin",
+    "high": "deliye dönmüş",
+    "rungs": [
+      {"en": "calm", "tr": "sakin"},
+      {"en": "annoyed", "tr": "canı sıkılmış, sinirlenmiş"},
+      {"en": "angry", "tr": "kızgın"},
+      {"en": "furious", "tr": "öfkeden deliye dönmüş"}
+    ],
+    "gap": 1,
+    "hint": "Bir uçta sakinlik, öbür uçta öfkeden kendini kaybetme. 'Canı sıkılmak' ile 'deliye dönmek' arasında kızgınlık nerede duruyor?",
+    "note": "annoyed küçük şeylere sinirlenmektir (gürültü, gecikme). angry genel 'kızgın'dır; furious ise 'öfkeden deliye dönmüş'. Uç sıfatlar 'very' ile değil 'absolutely' ile güçlenir: absolutely furious doğru, very furious zayıf. YDS'de furious ≈ livid ≈ enraged.",
+    "context": [
+      {"text": "Despite the three-hour delay, the passengers remained ___ and waited patiently.", "options": ["calm", "annoyed", "furious"], "answer": "calm", "why": "'waited patiently' (sabırla beklediler) sakinliği gösterir: calm. annoyed ve furious sabırla çelişir."},
+      {"text": "When he discovered that his partner had secretly stolen millions from the company, he was absolutely ___.", "options": ["calm", "annoyed", "furious"], "answer": "furious", "why": "Milyonların çalınması en uç tepkiyi ister; 'absolutely' da yalnızca uç sıfatlarla kullanılır: absolutely furious. annoyed bu olay için fazla hafif kalır."}
+    ]
+  },
+  {
+    "id": "at008",
+    "topic": "Korku",
+    "pos": "sıfat",
+    "low": "tedirgin",
+    "high": "korkudan donakalmış",
+    "rungs": [
+      {"en": "apprehensive", "tr": "tedirgin, kaygılı"},
+      {"en": "afraid", "tr": "korkmuş"},
+      {"en": "terrified", "tr": "dehşete kapılmış"},
+      {"en": "petrified", "tr": "korkudan donakalmış"}
+    ],
+    "gap": 2,
+    "hint": "Olacak bir şeyden hafifçe tedirgin olmakla korkudan kıpırdayamamak arasındaki basamaklar. En uçtaki kelime 'taşa dönmek' anlamından gelir.",
+    "note": "apprehensive, olacak bir şeyden duyulan tedirginliktir (sınavdan, ameliyattan önce). afraid genel 'korkmuş'. terrified 'dehşete kapılmış'; petrified kelimenin tam anlamıyla 'taşlaşmış', yani korkudan donup kalmış. Kalıplar: afraid of, terrified of, apprehensive about.",
+    "context": [
+      {"text": "She felt a little ___ about the job interview, although she had prepared well.", "options": ["apprehensive", "terrified", "petrified"], "answer": "apprehensive", "why": "'a little' ve 'iyi hazırlanmıştı' hafif bir tedirginliği gösterir: apprehensive. terrified ve petrified bir iş görüşmesi için fazla uçtur."},
+      {"text": "The boy was so ___ when he saw the snake that he couldn't move a muscle.", "options": ["apprehensive", "afraid", "petrified"], "answer": "petrified", "why": "'couldn't move a muscle' (kılını bile kıpırdatamadı) korkudan donakalmaktır: petrified. afraid bu kadar güçlü bir tepkiyi anlatmaz."}
+    ]
+  },
+  {
+    "id": "at009",
+    "topic": "Üzüntü",
+    "pos": "sıfat",
+    "low": "morali bozuk",
+    "high": "yıkılmış",
+    "rungs": [
+      {"en": "down", "tr": "morali bozuk"},
+      {"en": "sad", "tr": "üzgün"},
+      {"en": "miserable", "tr": "perişan, çok mutsuz"},
+      {"en": "devastated", "tr": "yıkılmış"}
+    ],
+    "gap": 2,
+    "hint": "'Biraz moralim bozuk' ile 'dünyam başıma yıkıldı' arası. Kayıp ne kadar büyükse kelime o kadar uçta.",
+    "note": "feel down gündelik, hafif bir moral bozukluğudur. sad genel 'üzgün'. miserable uzun süren derin mutsuzluktur (perişan). devastated büyük bir kayıp ya da felaket karşısında yıkılmışlıktır: devastated by the news.",
+    "context": [
+      {"text": "She's been feeling a bit ___ since her best friend moved away, but she'll soon be fine.", "options": ["down", "miserable", "devastated"], "answer": "down", "why": "'a bit' ve 'yakında düzelir' hafif, geçici bir moral bozukluğunu gösterir: down. miserable ve devastated derin ve ağır üzüntüdür."},
+      {"text": "The whole village was ___ when the flood destroyed their homes and killed dozens of people.", "options": ["down", "sad", "devastated"], "answer": "devastated", "why": "Evleri yıkan ve onlarca kişiyi öldüren bir felaket terazinin en ucunu ister: devastated. down ve sad böyle bir kayıp için fazla hafiftir."}
+    ]
+  },
+  {
+    "id": "at010",
+    "topic": "Şaşkınlık",
+    "pos": "sıfat",
+    "low": "şaşırmış",
+    "high": "dili tutulmuş",
+    "rungs": [
+      {"en": "surprised", "tr": "şaşırmış"},
+      {"en": "amazed", "tr": "hayret etmiş"},
+      {"en": "astonished", "tr": "hayretler içinde kalmış"},
+      {"en": "speechless", "tr": "dili tutulmuş"}
+    ],
+    "gap": 2,
+    "hint": "Küçük bir şaşkınlıktan ağzın açık kalmasına kadar. En uçtaki kelime, kişinin konuşamaz hâle geldiğini söylüyor.",
+    "note": "surprised en yalın 'şaşırmış'tır; beklenmedik her şey için kullanılır. amazed ve astonished güçlü bir hayrettir; astonished biraz daha resmî ve güçlüdür. speechless 'dili tutulmuş': şaşkınlıktan ya da duygudan konuşamamak. Kalıp: be left speechless.",
+    "context": [
+      {"text": "I was a little ___ to see him at the party because he usually hates crowds.", "options": ["surprised", "astonished", "speechless"], "answer": "surprised", "why": "'a little' küçük bir şaşkınlıktır: surprised. astonished ve speechless 'a little' ile uyuşmaz; ikisi de güçlü tepkiler."},
+      {"text": "When she opened the door and saw all her old friends, she was so moved that she was left ___.", "options": ["surprised", "amazed", "speechless"], "answer": "speechless", "why": "'left ___' kalıbı ve 'so moved' (çok duygulandı) konuşamaz hâle gelmeyi anlatır: be left speechless."}
+    ]
+  },
+  {
+    "id": "at011",
+    "topic": "Açlık",
+    "pos": "sıfat",
+    "low": "hafif acıkmış",
+    "high": "açlıktan ölmek üzere",
+    "rungs": [
+      {"en": "peckish", "tr": "hafif acıkmış"},
+      {"en": "hungry", "tr": "aç"},
+      {"en": "famished", "tr": "kurt gibi acıkmış"},
+      {"en": "starving", "tr": "açlıktan ölmek üzere"}
+    ],
+    "gap": 2,
+    "hint": "Bir atıştırmalıkla geçen açlıktan günlerce yemek yememeye. En hafif olanı İngilizlerin sevdiği gündelik bir kelime.",
+    "note": "peckish (İngiliz İngilizcesi, gündelik) 'hafifçe acıkmış, bir şeyler atıştırsam' demektir. hungry genel 'aç'. famished 'kurt gibi aç'. starving gündelik dilde abartıdır (I'm starving!), gerçek anlamda ise açlıktan ölmek üzere olmak: starve to death.",
+    "context": [
+      {"text": "I'm feeling a bit ___; is there a biscuit or something small I could have?", "options": ["peckish", "famished", "starving"], "answer": "peckish", "why": "'a bit' ve 'küçük bir şey, bisküvi' hafif bir açlığı gösterir: peckish. famished ve starving bisküviyle geçmeyecek kadar büyük açlıktır."},
+      {"text": "Without food aid, many children in the camp were ___ to death.", "options": ["peckish", "hungry", "starving"], "answer": "starving", "why": "'starve to death' (açlıktan ölmek) kalıptır ve terazinin en ucudur. 'hungry to death' diye bir kullanım yok."}
+    ]
+  },
+  {
+    "id": "at012",
+    "topic": "Beğeni",
+    "pos": "fiil",
+    "low": "fark etmez",
+    "high": "tapmak",
+    "rungs": [
+      {"en": "don't mind", "tr": "sakıncası olmamak, fark etmemek"},
+      {"en": "like", "tr": "hoşlanmak, sevmek"},
+      {"en": "love", "tr": "çok sevmek, bayılmak"},
+      {"en": "adore", "tr": "tapmak derecesinde sevmek"}
+    ],
+    "gap": 3,
+    "hint": "'Olsa da olur, olmasa da' ile 'tapıyorum' arası. like ile love arasındaki fark 'hoşlanmak' ile 'bayılmak' arasındaki farktır.",
+    "note": "don't mind 'benim için sorun değil' der, istek bildirmez: I don't mind waiting. like hoşlanmaktır, love güçlü sevgidir, adore en uçtur: çocuğuna, bir şarkıya tapmak derecesinde sevgi. Hepsi -ing alabilir: I don't mind / like / love / adore cooking.",
+    "context": [
+      {"text": "I ___ working late occasionally, but I wouldn't want to do it every day.", "options": ["don't mind", "love", "adore"], "answer": "don't mind", "why": "'ara sıra, ama her gün istemem' → sorun etmiyor ama sevmiyor da: don't mind. love ve adore bu çekinceyle çelişir."},
+      {"text": "Her grandchildren ___ her; they run to hug her every time she visits.", "options": ["don't mind", "like", "adore"], "answer": "adore", "why": "Her gelişinde koşup sarılmak coşkulu bir sevgidir: adore. like bu kadar güçlü bir bağı anlatmaz."}
+    ]
+  },
+  {
+    "id": "at013",
+    "topic": "Hoşlanmama",
+    "pos": "fiil",
+    "low": "pek sevmemek",
+    "high": "tiksinmek",
+    "rungs": [
+      {"en": "not keen on", "tr": "pek hevesli olmamak"},
+      {"en": "dislike", "tr": "sevmemek, hoşlanmamak"},
+      {"en": "hate", "tr": "nefret etmek"},
+      {"en": "loathe", "tr": "tiksinmek, iğrenmek"}
+    ],
+    "gap": 3,
+    "hint": "Kibarca 'pek sevmem' demekten 'midem bulanıyor' demeye. İngilizler hoşlanmadıklarını çoğu zaman en hafif kalıpla söyler.",
+    "note": "be not keen on İngilizcenin nazik hoşnutsuzluğudur: I'm not keen on spicy food. dislike resmî ve nötrdür. hate güçlüdür; loathe en uçtur: tiksinecek kadar nefret. YDS'de loathe ≈ detest ≈ abhor.",
+    "context": [
+      {"text": "Thanks for the invitation, but I ___ opera, to be honest; maybe we could see a film instead?", "options": ["am not keen on", "hate", "loathe"], "answer": "am not keen on", "why": "Daveti kibarca geri çevirip başka bir öneri sunuyor; nazik ve hafif bir ret: not keen on. hate ve loathe davet eden kişiye kaba kaçar."},
+      {"text": "He ___ the smell of cigarette smoke so much that he feels sick whenever someone lights up near him.", "options": ["isn't keen on", "dislikes", "loathes"], "answer": "loathes", "why": "Kokudan midesi bulanıyor: tiksinme derecesinde nefret, terazinin en ucu: loathe. not keen on ve dislike bu fiziksel tepkiye göre çok hafif."}
+    ]
+  },
+  {
+    "id": "at014",
+    "topic": "Sıcaklık",
+    "pos": "sıfat",
+    "low": "buz gibi",
+    "high": "sıcak",
+    "rungs": [
+      {"en": "freezing", "tr": "dondurucu, buz gibi"},
+      {"en": "cold", "tr": "soğuk"},
+      {"en": "cool", "tr": "serin"},
+      {"en": "warm", "tr": "ılık, sıcak"},
+      {"en": "hot", "tr": "sıcak, kızgın"}
+    ],
+    "gap": 2,
+    "hint": "Soğuktan sıcağa bir termometre düşün. cool ile cold'u karıştırma: biri 'serin', öbürü 'soğuk'.",
+    "note": "cool 'serin'dir ve çoğu zaman hoştur (a cool breeze); cold 'soğuk'tur. freezing 'dondurucu'. warm 'ılık' ve hoş, hot 'sıcak, kızgın'. İlaç prospektüslerinin klasiği: Store in a cool, dry place.",
+    "context": [
+      {"text": "Store the tablets in a ___, dry place, away from direct sunlight.", "options": ["freezing", "cool", "hot"], "answer": "cool", "why": "İlaçlar serin ve kuru yerde saklanır: 'a cool, dry place' kalıptır. freezing dondurur, hot bozar."},
+      {"text": "It was so ___ last night that the water in the bird bath turned to ice.", "options": ["freezing", "warm", "hot"], "answer": "freezing", "why": "Suyun buza dönmesi dondurucu soğuk ister: freezing. warm ve hot tam tersidir."}
+    ]
+  },
+  {
+    "id": "at015",
+    "topic": "Boyut",
+    "pos": "sıfat",
+    "low": "gözle görülmez",
+    "high": "kocaman",
+    "rungs": [
+      {"en": "microscopic", "tr": "mikroskobik, gözle görülmez"},
+      {"en": "tiny", "tr": "minicik"},
+      {"en": "small", "tr": "küçük"},
+      {"en": "large", "tr": "büyük"},
+      {"en": "huge", "tr": "kocaman, devasa"}
+    ],
+    "gap": 1,
+    "hint": "Mikroskopla bile zor görülen bir şeyden dev bir şeye. tiny, small'dan küçük mü büyük mü?",
+    "note": "microscopic kelimenin tam anlamıyla 'yalnızca mikroskopla görülebilen'dir (microscopic organisms). tiny 'minicik', small 'küçük'. large 'büyük' (big'in daha resmîsi), huge 'kocaman'. YDS'de huge ≈ enormous ≈ vast ≈ immense.",
+    "context": [
+      {"text": "Bacteria are ___ organisms that cannot be seen with the naked eye.", "options": ["microscopic", "large", "huge"], "answer": "microscopic", "why": "'çıplak gözle görülemez' tanımın ta kendisi: microscopic. large ve huge gözle rahatça görülür."},
+      {"text": "The blue whale is a ___ animal; its heart alone is as big as a small car.", "options": ["tiny", "small", "huge"], "answer": "huge", "why": "Yalnızca kalbi küçük bir araba kadar olan hayvan devasadır: huge. tiny ve small tam tersini söyler."}
+    ]
+  },
+  {
+    "id": "at016",
+    "topic": "Sayı",
+    "pos": "niceleyici",
+    "low": "birkaç",
+    "high": "sayısız",
+    "rungs": [
+      {"en": "a few", "tr": "birkaç (az)"},
+      {"en": "several", "tr": "birkaç, epey"},
+      {"en": "many", "tr": "çok"},
+      {"en": "countless", "tr": "sayısız"}
+    ],
+    "gap": 1,
+    "hint": "Bir elin parmaklarını geçmeyen bir sayıdan sayılamayacak kadar çoğa. several, a few'dan az mı fazla mı?",
+    "note": "a few 'birkaç' (2-3 gibi), several 'birkaç, üçten fazla' (3-7 gibi), many 'çok', countless 'sayısız', yani sayılamayacak kadar çok: countless times. Dikkat: a'sız 'few' 'pek az, yetersiz' demektir ve olumsuzdur.",
+    "context": [
+      {"text": "The astronomer has observed the comet ___ times; she has lost count.", "options": ["a few", "several", "countless"], "answer": "countless", "why": "'lost count' (saymayı bıraktı) sayılamayacak kadar çok demektir: countless. a few ve several sayılabilir küçük miktarlardır."},
+      {"text": "I'll only be away for ___ minutes, so please wait here.", "options": ["a few", "many", "countless"], "answer": "a few", "why": "'only' ve 'burada bekle' kısa bir süreyi gösterir: a few. many ve countless beklemeyi anlamsız kılar."}
+    ]
+  },
+  {
+    "id": "at017",
+    "topic": "Sıklık",
+    "pos": "zarf",
+    "low": "hiç",
+    "high": "her zaman",
+    "rungs": [
+      {"en": "never", "tr": "asla, hiç"},
+      {"en": "rarely", "tr": "nadiren"},
+      {"en": "sometimes", "tr": "bazen"},
+      {"en": "often", "tr": "sık sık"},
+      {"en": "always", "tr": "her zaman"}
+    ],
+    "gap": 1,
+    "hint": "%0'dan %100'e bir çizgi çiz. Her kelime o çizginin neresinde?",
+    "note": "never %0, always %100. rarely (≈ seldom, hardly ever) 'nadiren', yani çok az. sometimes 'bazen', often (≈ frequently) 'sık sık'. rarely olumsuz bir anlam taşır: He rarely calls ≈ neredeyse hiç aramaz.",
+    "context": [
+      {"text": "The desert town gets rain only once or twice a decade; it ___ rains there.", "options": ["rarely", "often", "always"], "answer": "rarely", "why": "On yılda bir iki kez = çok nadir: rarely. often ve always tam tersidir."},
+      {"text": "He is so punctual that he ___ arrives on time; not once has he been late.", "options": ["sometimes", "often", "always"], "answer": "always", "why": "'not once has he been late' (bir kez bile geç kalmadı) %100 demektir: always. often arada geç kaldığı olur der."}
+    ]
+  },
+  {
+    "id": "at018",
+    "topic": "Sıklık (resmî)",
+    "pos": "zarf",
+    "low": "nadiren",
+    "high": "durmadan",
+    "rungs": [
+      {"en": "seldom", "tr": "nadiren"},
+      {"en": "occasionally", "tr": "ara sıra, arada bir"},
+      {"en": "frequently", "tr": "sık sık"},
+      {"en": "constantly", "tr": "sürekli, durmadan"}
+    ],
+    "gap": 2,
+    "hint": "Bir önceki terazinin daha resmî kardeşleri. 'Ara sıra' ile 'durmadan' arasında hangisi var?",
+    "note": "seldom ≈ rarely (daha resmî). occasionally 'ara sıra, arada bir'. frequently ≈ often. constantly 'sürekli, durmadan' ve çoğu zaman şikâyet bildirir: He is constantly complaining. YDS okuma parçalarında bu zarflar sıklığın derecesini verir.",
+    "context": [
+      {"text": "The baby cried ___ all night, and her parents didn't sleep for a minute.", "options": ["seldom", "occasionally", "constantly"], "answer": "constantly", "why": "'all night' ve 'bir dakika bile uyuyamadılar' kesintisiz bir ağlamadır: constantly."},
+      {"text": "We ___ eat out, maybe once every two or three months.", "options": ["occasionally", "frequently", "constantly"], "answer": "occasionally", "why": "İki üç ayda bir = arada bir: occasionally. frequently ve constantly çok daha sık bir alışkanlık anlatır."}
+    ]
+  },
+  {
+    "id": "at019",
+    "topic": "Kalıcılık",
+    "pos": "sıfat",
+    "low": "bir anlık",
+    "high": "kalıcı",
+    "rungs": [
+      {"en": "fleeting", "tr": "bir anlık, gelip geçici"},
+      {"en": "temporary", "tr": "geçici"},
+      {"en": "lasting", "tr": "uzun süreli, kalıcı"},
+      {"en": "permanent", "tr": "sürekli, kalıcı"}
+    ],
+    "gap": 2,
+    "hint": "Göz açıp kapayıncaya kadar geçen bir şeyden hiç bitmeyen bir şeye. temporary ile permanent zıt kutuplar; aralarında ne var?",
+    "note": "fleeting çok kısa süren, yakalanamayan bir andır: a fleeting glimpse. temporary belli bir süre sürer, sonra biter: a temporary job. lasting etkisi uzun süre devam eder: a lasting peace. permanent hiç değişmez: permanent damage.",
+    "context": [
+      {"text": "I only caught a ___ glimpse of the famous actor as his car drove past.", "options": ["fleeting", "lasting", "permanent"], "answer": "fleeting", "why": "Geçen bir arabadan bir anlık bakış: 'a fleeting glimpse' kalıptır. lasting ve permanent bir bakış için anlamsızdır."},
+      {"text": "The accident caused ___ damage to his eyesight; he will never see clearly again.", "options": ["fleeting", "temporary", "permanent"], "answer": "permanent", "why": "'will never see clearly again' (bir daha asla net göremeyecek) kalıcı hasardır: permanent. temporary geçip gideceğini söylerdi."}
+    ]
+  },
+  {
+    "id": "at020",
+    "topic": "Yürüme temposu",
+    "pos": "fiil",
+    "low": "ağır ağır",
+    "high": "var gücüyle",
+    "rungs": [
+      {"en": "stroll", "tr": "ağır ağır yürümek, gezinmek"},
+      {"en": "walk", "tr": "yürümek"},
+      {"en": "jog", "tr": "hafif tempoda koşmak"},
+      {"en": "run", "tr": "koşmak"},
+      {"en": "sprint", "tr": "depar atmak"}
+    ],
+    "gap": 2,
+    "hint": "Parkta keyifle dolaşmaktan bitiş çizgisine son sürat koşmaya. Aradaki 'hafif tempolu koşu' hangisi?",
+    "note": "stroll acelesiz, keyifli bir yürüyüştür. walk normal yürüyüş. jog sağlık için yapılan hafif tempolu koşu. run koşmak; sprint kısa bir mesafede var gücüyle koşmak (depar).",
+    "context": [
+      {"text": "On Sunday afternoons, couples ___ slowly along the seafront, enjoying the sunshine.", "options": ["stroll", "run", "sprint"], "answer": "stroll", "why": "'slowly' ve 'güneşin tadını çıkararak' acelesiz bir gezintidir: stroll. run ve sprint hızla çelişir."},
+      {"text": "With only a few metres to go, the runner began to ___ towards the finish line.", "options": ["stroll", "jog", "sprint"], "answer": "sprint", "why": "Bitişe birkaç metre kala son sürat koşulur: sprint. jog hafif tempodur, finişte kullanılmaz."}
+    ]
+  },
+  {
+    "id": "at021",
+    "topic": "Sesin yüksekliği",
+    "pos": "fiil",
+    "low": "fısıltı",
+    "high": "çığlık",
+    "rungs": [
+      {"en": "whisper", "tr": "fısıldamak"},
+      {"en": "talk", "tr": "konuşmak"},
+      {"en": "shout", "tr": "bağırmak"},
+      {"en": "scream", "tr": "çığlık atmak"}
+    ],
+    "gap": 2,
+    "hint": "Kütüphanede konuşmaktan korku filmindeki çığlığa. Sesin yüksekliği kadar duygu da artıyor.",
+    "note": "whisper sesi kısıp fısıldamaktır. talk normal konuşma. shout sesini yükseltip bağırmaktır (uzaktaki birine, öfkeyle). scream korkuyla, acıyla ya da heyecanla tiz bir çığlık atmaktır; isim olarak da kullanılır: let out a scream.",
+    "context": [
+      {"text": "Students must ___ in the library so that they don't disturb others.", "options": ["whisper", "shout", "scream"], "answer": "whisper", "why": "Kütüphanede kimseyi rahatsız etmemek için fısıldanır: whisper. shout ve scream tam tersidir."},
+      {"text": "When she saw the huge spider on her pillow, she let out a loud ___ and ran out of the room.", "options": ["whisper", "talk", "scream"], "answer": "scream", "why": "Korkuyla atılan yüksek ses bir çığlıktır; 'let out a scream' kalıptır. whisper ve talk korkuyu anlatmaz."}
+    ]
+  },
+  {
+    "id": "at022",
+    "topic": "Ses düzeyi",
+    "pos": "sıfat",
+    "low": "hiç ses yok",
+    "high": "sağır edici",
+    "rungs": [
+      {"en": "silent", "tr": "sessiz, hiç ses yok"},
+      {"en": "quiet", "tr": "sakin, az sesli"},
+      {"en": "loud", "tr": "yüksek sesli"},
+      {"en": "deafening", "tr": "sağır edici"}
+    ],
+    "gap": 3,
+    "hint": "Sıfır sesten kulakları acıtan bir gürültüye. quiet ile silent'ı ayır: biri 'az ses', öbürü 'hiç ses yok'.",
+    "note": "silent tamamen sessizdir: The room fell silent. quiet az sesli, sakin: a quiet street. loud yüksek sesli. deafening 'sağır edici': a deafening explosion. Kalıp: fall silent (susmak, sessizliğe gömülmek).",
+    "context": [
+      {"text": "The explosion was so ___ that people's ears were ringing for hours.", "options": ["silent", "quiet", "deafening"], "answer": "deafening", "why": "Saatlerce kulak çınlatan bir patlama sağır edicidir: deafening. silent ve quiet tam tersidir."},
+      {"text": "The audience fell completely ___ as the pianist began to play.", "options": ["silent", "loud", "deafening"], "answer": "silent", "why": "'fall silent' kalıptır ve 'completely' hiç ses kalmadığını söyler: silent."}
+    ]
+  },
+  {
+    "id": "at023",
+    "topic": "Işık",
+    "pos": "sıfat",
+    "low": "karanlık",
+    "high": "göz kamaştırıcı",
+    "rungs": [
+      {"en": "dark", "tr": "karanlık"},
+      {"en": "dim", "tr": "loş"},
+      {"en": "bright", "tr": "parlak, aydınlık"},
+      {"en": "dazzling", "tr": "göz kamaştırıcı"}
+    ],
+    "gap": 1,
+    "hint": "Işığı kapalı bir odadan güneşe bakmaya. İkinci basamak mum ışığındaki bir restoranı anlatıyor.",
+    "note": "dim 'loş, yetersiz aydınlık': a dim light. bright 'parlak, aydınlık'. dazzling göz kamaştıracak kadar parlaktır; mecazen 'göz kamaştırıcı bir performans'. dim fiil de olabilir: dim the lights (ışıkları kısmak).",
+    "context": [
+      {"text": "The restaurant was lit only by candles, and the light was too ___ to read the menu comfortably.", "options": ["dim", "bright", "dazzling"], "answer": "dim", "why": "Yalnızca mum ışığı ve menüyü okumakta zorlanmak loş bir ortamdır: dim. bright ve dazzling okumayı zorlaştırmaz."},
+      {"text": "The ___ sunlight reflecting off the snow forced the skiers to wear dark glasses.", "options": ["dark", "dim", "dazzling"], "answer": "dazzling", "why": "Karda yansıyan ve güneş gözlüğü taktıran ışık göz kamaştırıcıdır: dazzling."}
+    ]
+  },
+  {
+    "id": "at024",
+    "topic": "Islaklık",
+    "pos": "sıfat",
+    "low": "kupkuru",
+    "high": "sırılsıklam",
+    "rungs": [
+      {"en": "dry", "tr": "kuru"},
+      {"en": "damp", "tr": "nemli, rutubetli"},
+      {"en": "wet", "tr": "ıslak"},
+      {"en": "soaked", "tr": "sırılsıklam"}
+    ],
+    "gap": 1,
+    "hint": "Kupkuru bir havludan sağanakta kalmış bir monta. Hafif nemli olan hangisi?",
+    "note": "damp hafif ıslak, nemlidir ve çoğu zaman rahatsız edicidir: damp walls (rutubetli duvarlar). wet ıslak. soaked (≈ drenched) sırılsıklam: soaked to the skin. moist da 'nemli'dir ama genelde olumlu: a moist cake.",
+    "context": [
+      {"text": "We got caught in the storm without umbrellas and arrived home ___ to the skin.", "options": ["dry", "damp", "soaked"], "answer": "soaked", "why": "'soaked to the skin' (iliklerine kadar ıslanmış) kalıptır: terazinin en ucu. damp hafif nemdir."},
+      {"text": "The old house smells musty because the walls are always slightly ___.", "options": ["dry", "damp", "soaked"], "answer": "damp", "why": "'slightly' ve küf kokusu (musty) rutubeti gösterir: damp. soaked duvarlar için fazla, dry ise küfe yol açmaz."}
+    ]
+  },
+  {
+    "id": "at025",
+    "topic": "Temizlik",
+    "pos": "sıfat",
+    "low": "pırıl pırıl",
+    "high": "pislik içinde",
+    "rungs": [
+      {"en": "spotless", "tr": "tertemiz, lekesiz"},
+      {"en": "clean", "tr": "temiz"},
+      {"en": "dirty", "tr": "kirli"},
+      {"en": "filthy", "tr": "pislik içinde"}
+    ],
+    "gap": 3,
+    "hint": "Tek bir leke bile olmayan bir mutfaktan aylardır temizlenmemiş bir odaya.",
+    "note": "spotless 'tek leke yok, tertemiz'. clean 'temiz', dirty 'kirli'. filthy 'çok kirli, pislik içinde'; gündelik dilde 'filthy rich' (çok zengin) kalıbı da vardır.",
+    "context": [
+      {"text": "The hospital kitchen must be kept ___; not a single mark is allowed on any surface.", "options": ["spotless", "dirty", "filthy"], "answer": "spotless", "why": "'tek bir leke bile olmamalı' = lekesiz: spotless. dirty ve filthy tam tersidir."},
+      {"text": "The miners came out of the tunnel absolutely ___, covered from head to toe in coal dust.", "options": ["spotless", "clean", "filthy"], "answer": "filthy", "why": "Tepeden tırnağa kömür tozu ve 'absolutely' terazinin en ucunu ister: filthy."}
+    ]
+  },
+  {
+    "id": "at026",
+    "topic": "Rüzgâr",
+    "pos": "isim",
+    "low": "esinti",
+    "high": "kasırga",
+    "rungs": [
+      {"en": "breeze", "tr": "esinti, meltem"},
+      {"en": "wind", "tr": "rüzgâr"},
+      {"en": "gale", "tr": "sert rüzgâr, fırtına"},
+      {"en": "hurricane", "tr": "kasırga"}
+    ],
+    "gap": 2,
+    "hint": "Yüzünü okşayan bir esintiden çatıları uçuran bir kasırgaya.",
+    "note": "breeze hafif, çoğu zaman hoş bir esintidir: a sea breeze. wind genel 'rüzgâr'. gale fırtına şiddetinde çok sert rüzgârdır: gale-force winds. hurricane (≈ typhoon, cyclone) tropik kasırgadır.",
+    "context": [
+      {"text": "A gentle ___ from the sea kept the beach pleasantly cool.", "options": ["breeze", "gale", "hurricane"], "answer": "breeze", "why": "'gentle' ve 'hoş bir serinlik' hafif bir esintidir: breeze. gale ve hurricane sahili serinletmez, yıkar."},
+      {"text": "The ___ destroyed thousands of homes along the coast, with winds of over 250 km/h.", "options": ["breeze", "wind", "hurricane"], "answer": "hurricane", "why": "Saatte 250 km'yi aşan ve binlerce evi yıkan rüzgâr kasırgadır: hurricane."}
+    ]
+  },
+  {
+    "id": "at027",
+    "topic": "Yağmur",
+    "pos": "isim",
+    "low": "çisenti",
+    "high": "tufan",
+    "rungs": [
+      {"en": "drizzle", "tr": "çisenti"},
+      {"en": "shower", "tr": "kısa süreli yağmur"},
+      {"en": "downpour", "tr": "bardaktan boşanırcasına yağmur"},
+      {"en": "deluge", "tr": "tufan, sel gibi yağış"}
+    ],
+    "gap": 2,
+    "hint": "Şemsiyeye bile gerek olmayan çisentiden sel getiren tufana.",
+    "note": "drizzle ince ince yağan çisentidir. shower kısa süreli yağmurdur (hava durumunda 'sağanak'). downpour kısa sürede çok yoğun yağan yağmurdur. deluge tufan, sel gibi yağış; mecazen 'yağmur gibi': a deluge of complaints.",
+    "context": [
+      {"text": "It's only a light ___; you won't need an umbrella.", "options": ["drizzle", "downpour", "deluge"], "answer": "drizzle", "why": "'light' ve 'şemsiyeye gerek yok' çisentidir: drizzle. downpour ve deluge sırılsıklam eder."},
+      {"text": "A sudden ___ flooded the streets within minutes and trapped drivers in their cars.", "options": ["drizzle", "shower", "downpour"], "answer": "downpour", "why": "Dakikalar içinde sokakları su basıyorsa yağmur çok yoğundur: downpour. drizzle ve shower sel yaratmaz."}
+    ]
+  },
+  {
+    "id": "at028",
+    "topic": "Ateş",
+    "pos": "isim",
+    "low": "kıvılcım",
+    "high": "cehennem gibi yangın",
+    "rungs": [
+      {"en": "spark", "tr": "kıvılcım"},
+      {"en": "flame", "tr": "alev"},
+      {"en": "blaze", "tr": "büyük yangın"},
+      {"en": "inferno", "tr": "cehennem gibi yangın"}
+    ],
+    "gap": 2,
+    "hint": "Bir kıvılcımdan her şeyi yutan bir cehenneme. En uçtaki kelime Dante'nin eserinin adıdır.",
+    "note": "spark kıvılcımdır; mecazen bir şeyi başlatan küçük etken: the spark that started the war. flame tek bir alev. blaze büyük ve şiddetli yangın (haber dilinin sevdiği kelime). inferno kontrol edilemeyen, cehennem gibi yangın.",
+    "context": [
+      {"text": "A single ___ from the fireworks landed on the dry grass and started the fire.", "options": ["spark", "blaze", "inferno"], "answer": "spark", "why": "Yangını başlatan tek ve küçük parça kıvılcımdır: spark. blaze ve inferno yangının kendisidir, başlangıcı değil."},
+      {"text": "Within an hour, the small fire had turned into a raging ___ that destroyed the entire factory.", "options": ["spark", "flame", "inferno"], "answer": "inferno", "why": "Bütün fabrikayı yok eden, kontrolden çıkmış yangın terazinin en ucudur: inferno."}
+    ]
+  },
+  {
+    "id": "at029",
+    "topic": "Su akışı",
+    "pos": "isim",
+    "low": "damla",
+    "high": "sel",
+    "rungs": [
+      {"en": "drip", "tr": "damla"},
+      {"en": "trickle", "tr": "ince akıntı, sızıntı"},
+      {"en": "stream", "tr": "dere, sürekli akış"},
+      {"en": "torrent", "tr": "sel gibi akış"}
+    ],
+    "gap": 1,
+    "hint": "Musluktan düşen tek damladan dağdan inen sele.",
+    "note": "drip tek tek düşen damladır. trickle ince, yavaş bir akıştır; mecazen 'azar azar gelen': a trickle of visitors. stream dere ya da sürekli akış: a stream of cars. torrent coşkun, sel gibi akış; mecazen 'yağmur gibi': a torrent of abuse.",
+    "context": [
+      {"text": "Only a ___ of visitors came to the museum on that rainy Monday morning.", "options": ["trickle", "stream", "torrent"], "answer": "trickle", "why": "'Only' ve yağmurlu bir pazartesi sabahı azar azar gelen birkaç ziyaretçiyi anlatır: a trickle. stream ve torrent kalabalık bir akıştır."},
+      {"text": "After the storm, the gentle mountain stream became a raging ___ that swept away the bridge.", "options": ["drip", "trickle", "torrent"], "answer": "torrent", "why": "Köprüyü sürükleyen coşkun su sel gibidir: torrent. drip ve trickle köprüyü yerinden oynatamaz."}
+    ]
+  },
+  {
+    "id": "at030",
+    "topic": "Su kütlesi",
+    "pos": "isim",
+    "low": "birikinti",
+    "high": "okyanus",
+    "rungs": [
+      {"en": "puddle", "tr": "su birikintisi"},
+      {"en": "pond", "tr": "gölet"},
+      {"en": "lake", "tr": "göl"},
+      {"en": "sea", "tr": "deniz"},
+      {"en": "ocean", "tr": "okyanus"}
+    ],
+    "gap": 1,
+    "hint": "Yağmurdan sonra yolda kalan birikintiden kıtaları ayıran sulara.",
+    "note": "puddle yağmurdan sonra yerde biriken sudur. pond küçük, çoğu zaman yapay bir gölet (bahçede, parkta). lake göl, sea deniz, ocean okyanus. Akarsuda da aynı mantık var: stream < river.",
+    "context": [
+      {"text": "The children jumped in every ___ on their way home after the rain.", "options": ["puddle", "lake", "ocean"], "answer": "puddle", "why": "Yağmurdan sonra yolda içine zıplanan su birikintisidir: puddle."},
+      {"text": "The Pacific is the largest ___ on Earth, covering about a third of the planet's surface.", "options": ["pond", "lake", "ocean"], "answer": "ocean", "why": "Pasifik, gezegenin üçte birini kaplayan okyanustur: ocean."}
+    ]
+  },
+  {
+    "id": "at031",
+    "topic": "Yerleşim",
+    "pos": "isim",
+    "low": "mezra",
+    "high": "metropol",
+    "rungs": [
+      {"en": "hamlet", "tr": "mezra, küçük köy"},
+      {"en": "village", "tr": "köy"},
+      {"en": "town", "tr": "kasaba, ilçe"},
+      {"en": "city", "tr": "şehir"},
+      {"en": "metropolis", "tr": "büyük kent, metropol"}
+    ],
+    "gap": 0,
+    "hint": "Birkaç evden oluşan bir yerleşimden milyonların yaşadığı dev bir kente.",
+    "note": "hamlet birkaç haneden oluşan, köyden küçük bir yerleşimdir (mezra). village köy, town kasaba/ilçe, city şehir, metropolis milyonlarca nüfuslu büyük kent (≈ megacity). İngilizcede 'town' Türkçedeki ilçe ölçeğine yakındır.",
+    "context": [
+      {"text": "The tiny ___ consists of only five houses and a small chapel.", "options": ["hamlet", "city", "metropolis"], "answer": "hamlet", "why": "Yalnızca beş ev ve küçük bir şapel mezradır: hamlet. city ve metropolis çok büyüktür."},
+      {"text": "Istanbul, a ___ of more than 15 million people, is Europe's most populous urban area.", "options": ["hamlet", "town", "metropolis"], "answer": "metropolis", "why": "15 milyonu aşan nüfus terazinin en ucudur: metropolis."}
+    ]
+  },
+  {
+    "id": "at032",
+    "topic": "Zorluk",
+    "pos": "sıfat",
+    "low": "zahmetsiz",
+    "high": "tüketici",
+    "rungs": [
+      {"en": "effortless", "tr": "zahmetsiz"},
+      {"en": "easy", "tr": "kolay"},
+      {"en": "demanding", "tr": "zorlu, emek isteyen"},
+      {"en": "gruelling", "tr": "yıpratıcı, çok çetin"}
+    ],
+    "gap": 2,
+    "hint": "Hiç çaba gerektirmeyen bir işten insanı tüketen bir maratona.",
+    "note": "effortless hiç çaba istemeyen, zahmetsizdir: she made it look effortless. easy 'kolay'. demanding çok emek, dikkat ya da zaman isteyen: a demanding job. gruelling (AmE grueling) insanı tüketen, çok yorucu: a gruelling 12-hour shift.",
+    "context": [
+      {"text": "The ballet dancer moved with such grace that the difficult routine looked ___.", "options": ["effortless", "demanding", "gruelling"], "answer": "effortless", "why": "Zor bir gösteri bu kadar zarif yapılınca zahmetsiz GÖRÜNÜR: effortless. demanding ve gruelling zarafetle çelişir."},
+      {"text": "After a ___ 40-kilometre march through the mountains, the soldiers collapsed from exhaustion.", "options": ["effortless", "easy", "gruelling"], "answer": "gruelling", "why": "Dağlarda 40 km yürüyüp yorgunluktan yığılmak insanı tüketen bir çabadır: gruelling."}
+    ]
+  },
+  {
+    "id": "at033",
+    "topic": "Önem",
+    "pos": "sıfat",
+    "low": "önemsiz",
+    "high": "hayati",
+    "rungs": [
+      {"en": "trivial", "tr": "önemsiz, ufak tefek"},
+      {"en": "minor", "tr": "küçük, ikincil"},
+      {"en": "significant", "tr": "önemli, kayda değer"},
+      {"en": "crucial", "tr": "hayati, kritik"}
+    ],
+    "gap": 2,
+    "hint": "Üzerinde durmaya değmeyecek bir ayrıntıdan her şeyin ona bağlı olduğu bir noktaya.",
+    "note": "trivial üzerinde durmaya değmeyecek kadar önemsizdir. minor küçük, ikincil: a minor problem. significant kayda değer, önemli; YDS'nin en sık kelimelerinden. crucial hayati, belirleyici (≈ vital, essential): It is crucial that …",
+    "context": [
+      {"text": "Don't waste time arguing about such ___ details; focus on the main issues.", "options": ["trivial", "significant", "crucial"], "answer": "trivial", "why": "Ana konular dururken tartışmaya değmeyen ayrıntılar önemsizdir: trivial."},
+      {"text": "Early diagnosis is ___: in many cancers, it can make the difference between life and death.", "options": ["trivial", "minor", "crucial"], "answer": "crucial", "why": "Ölüm kalım farkı yaratan bir şey hayatidir: crucial. trivial ve minor tam tersidir."}
+    ]
+  },
+  {
+    "id": "at034",
+    "topic": "Tehlike",
+    "pos": "sıfat",
+    "low": "zararsız",
+    "high": "öldürücü",
+    "rungs": [
+      {"en": "harmless", "tr": "zararsız"},
+      {"en": "risky", "tr": "riskli"},
+      {"en": "dangerous", "tr": "tehlikeli"},
+      {"en": "lethal", "tr": "öldürücü"}
+    ],
+    "gap": 1,
+    "hint": "Hiç zarar vermeyen bir şeyden öldüren bir şeye. 'Riskli' ile 'tehlikeli' arasında fark var mı?",
+    "note": "harmless zararsızdır. risky 'riskli': kötü sonuçlanma ihtimali var (a risky investment). dangerous 'tehlikeli': zarar vermesi çok olası. lethal (≈ deadly, fatal) öldürücüdür: a lethal dose.",
+    "context": [
+      {"text": "Most spiders are completely ___ to humans and actually help control insects.", "options": ["harmless", "dangerous", "lethal"], "answer": "harmless", "why": "'completely' ve 'böcekleri kontrol etmeye yardım eder' zararsızlığı gösterir: harmless."},
+      {"text": "Even a small amount of this poison can be ___; it kills within minutes.", "options": ["harmless", "risky", "lethal"], "answer": "lethal", "why": "'dakikalar içinde öldürür' = öldürücü: lethal. risky yalnızca bir ihtimalden söz eder."}
+    ]
+  },
+  {
+    "id": "at035",
+    "topic": "Hastalığın ciddiyeti",
+    "pos": "sıfat",
+    "low": "hafif",
+    "high": "hayati tehlike",
+    "rungs": [
+      {"en": "mild", "tr": "hafif"},
+      {"en": "moderate", "tr": "orta"},
+      {"en": "serious", "tr": "ciddi"},
+      {"en": "critical", "tr": "kritik, hayati tehlikesi olan"}
+    ],
+    "gap": 2,
+    "hint": "Hafif bir soğuk algınlığından yoğun bakıma. Hastane açıklamalarında en uçtaki kelime 'hayati tehlike' demektir.",
+    "note": "Tıp dilinde mild hafif, moderate orta, serious ciddi, critical hayati tehlikesi olan (yoğun bakım) demektir. Haber kalıbı: in critical condition. Örnekler: mild symptoms, moderate pain, a serious illness.",
+    "context": [
+      {"text": "Most people who catch the virus have only ___ symptoms, such as a slight cough.", "options": ["mild", "serious", "critical"], "answer": "mild", "why": "'only' ve 'hafif bir öksürük' hafif belirtilerdir: mild."},
+      {"text": "Two of the injured are in ___ condition in intensive care, and doctors fear for their lives.", "options": ["mild", "moderate", "critical"], "answer": "critical", "why": "Yoğun bakım ve 'hayatlarından endişe ediliyor' = hayati tehlike: in critical condition."}
+    ]
+  },
+  {
+    "id": "at036",
+    "topic": "Hasar",
+    "pos": "fiil",
+    "low": "çizik",
+    "high": "yerle bir",
+    "rungs": [
+      {"en": "scratch", "tr": "çizmek"},
+      {"en": "damage", "tr": "hasar vermek"},
+      {"en": "destroy", "tr": "yok etmek"},
+      {"en": "obliterate", "tr": "iz bırakmadan yok etmek"}
+    ],
+    "gap": 2,
+    "hint": "Yüzeyde küçük bir çizikten geride hiçbir iz bırakmamaya.",
+    "note": "scratch yüzeyi çizmektir. damage hasar vermek, zarar vermektir; çoğu zaman onarılabilir. destroy yok etmek, kullanılamaz hâle getirmek. obliterate tamamen silip süpürmek, geride iz bırakmamaktır: The bomb obliterated the village.",
+    "context": [
+      {"text": "Be careful not to ___ the screen; even a small mark will be visible.", "options": ["scratch", "destroy", "obliterate"], "answer": "scratch", "why": "'küçük bir iz bile görünür' ekrandaki çiziktir: scratch. destroy ve obliterate çok ağır kalır."},
+      {"text": "The bomb completely ___ the city centre; almost nothing was left standing.", "options": ["scratched", "damaged", "obliterated"], "answer": "obliterated", "why": "'completely' ve 'neredeyse hiçbir şey ayakta kalmadı' iz bırakmadan yok etmektir: obliterate. damage onarılabilir bir hasardır."}
+    ]
+  },
+  {
+    "id": "at037",
+    "topic": "Kırılma",
+    "pos": "fiil",
+    "low": "kenarı kopmak",
+    "high": "paramparça olmak",
+    "rungs": [
+      {"en": "chip", "tr": "kenarından parça koparmak"},
+      {"en": "crack", "tr": "çatlamak, çatlatmak"},
+      {"en": "break", "tr": "kırılmak, kırmak"},
+      {"en": "shatter", "tr": "paramparça olmak"}
+    ],
+    "gap": 1,
+    "hint": "Bir fincanın kenarından ufacık bir parça kopmasından binlerce parçaya ayrılmasına.",
+    "note": "chip kenardan küçük bir parça koparmaktır: a chipped cup. crack çatlamaktır; parçalar ayrılmaz. break kırılmak. shatter paramparça olmaktır (cam, ayna); mecazen 'yerle bir etmek': shattered dreams.",
+    "context": [
+      {"text": "The plate is only slightly ___ on the edge, so we can still use it.", "options": ["chipped", "broken", "shattered"], "answer": "chipped", "why": "Kenarında küçük bir kopukluk olan ve hâlâ kullanılabilen tabak: chipped. broken ve shattered kullanılamaz."},
+      {"text": "The vase fell onto the stone floor and ___ into a thousand tiny pieces.", "options": ["chipped", "cracked", "shattered"], "answer": "shattered", "why": "'bin parçaya' ayrılmak paramparça olmaktır: shatter. crack parçaları ayırmaz."}
+    ]
+  },
+  {
+    "id": "at038",
+    "topic": "Yemek yeme",
+    "pos": "fiil",
+    "low": "kemirmek",
+    "high": "silip süpürmek",
+    "rungs": [
+      {"en": "nibble", "tr": "azar azar yemek, kemirmek"},
+      {"en": "eat", "tr": "yemek"},
+      {"en": "gobble", "tr": "hapur hupur yemek"},
+      {"en": "devour", "tr": "silip süpürmek"}
+    ],
+    "gap": 2,
+    "hint": "Bir kurabiyenin ucundan ısırmaktan tabağı saniyeler içinde silip süpürmeye.",
+    "note": "nibble küçük ısırıklarla, azar azar yemektir (fare gibi). eat genel 'yemek'. gobble (up) hızlı ve açgözlülükle yemek. devour aç bir hayvan gibi silip süpürmek; mecazen bir kitabı bir solukta okumak: devour a book.",
+    "context": [
+      {"text": "She wasn't really hungry, so she just ___ a biscuit while the others had dinner.", "options": ["nibbled", "gobbled", "devoured"], "answer": "nibbled", "why": "Aç değilken bir bisküviyi ucundan yemek: nibble. gobble ve devour açgözlü yemektir."},
+      {"text": "The hungry lions ___ the whole zebra in less than an hour, leaving only bones.", "options": ["nibbled", "ate", "devoured"], "answer": "devoured", "why": "Aç aslanların bir saatte geride yalnız kemik bırakması silip süpürmektir: devour."}
+    ]
+  },
+  {
+    "id": "at039",
+    "topic": "İçme",
+    "pos": "fiil",
+    "low": "yudumlamak",
+    "high": "kafaya dikmek",
+    "rungs": [
+      {"en": "sip", "tr": "yudumlamak"},
+      {"en": "drink", "tr": "içmek"},
+      {"en": "gulp", "tr": "büyük yudumlarla hızla içmek"},
+      {"en": "guzzle", "tr": "hunharca, çok miktarda içmek"}
+    ],
+    "gap": 2,
+    "hint": "Sıcak çayı dudak ucuyla yudumlamaktan bir şişeyi kafaya dikmeye.",
+    "note": "sip küçük yudumlarla içmektir (sıcak içecekler). drink genel 'içmek'. gulp büyük yudumlarla, hızla yutmaktır: gulp down. guzzle çok miktarda, açgözlülükle içmektir; mecazen çok yakıt yakan araçlar: fuel-guzzling cars.",
+    "context": [
+      {"text": "The tea was very hot, so she ___ it slowly.", "options": ["sipped", "gulped", "guzzled"], "answer": "sipped", "why": "Çok sıcak çay yavaş yavaş, küçük yudumlarla içilir: sip."},
+      {"text": "The football fans ___ beer all afternoon until the bar finally ran out.", "options": ["sipped", "drank", "guzzled"], "answer": "guzzled", "why": "Bütün öğleden sonra, bar tükenene kadar içmek hunharca içmektir: guzzle."}
+    ]
+  },
+  {
+    "id": "at040",
+    "topic": "Gülme",
+    "pos": "fiil",
+    "low": "gülümsemek",
+    "high": "kahkahalarla gülmek",
+    "rungs": [
+      {"en": "smile", "tr": "gülümsemek"},
+      {"en": "chuckle", "tr": "kendi kendine, alçak sesle gülmek"},
+      {"en": "laugh", "tr": "gülmek"},
+      {"en": "roar", "tr": "kahkahalarla gülmek"}
+    ],
+    "gap": 1,
+    "hint": "Sessiz bir gülümsemeden salonu inleten kahkahalara. En uçtaki kelime aslında 'kükremek' demektir.",
+    "note": "smile ses çıkarmadan gülümsemektir. chuckle kendi kendine, alçak sesle gülmek. laugh gülmek. roar (with laughter) kahkahalarla gülmek, gülmekten kırılmak. Benzeri: giggle (kıkırdamak).",
+    "context": [
+      {"text": "She didn't say a word, but she ___ politely at the visitors as they came in.", "options": ["smiled", "laughed", "roared"], "answer": "smiled", "why": "Tek kelime etmeden ve kibarca: ses çıkarmadan gülümsemek: smile."},
+      {"text": "The comedian was so funny that the whole audience ___ with laughter.", "options": ["smiled", "chuckled", "roared"], "answer": "roared", "why": "Bütün salonun gülmekten kırılması: 'roar with laughter' kalıbı, terazinin en ucu."}
+    ]
+  },
+  {
+    "id": "at041",
+    "topic": "Acılık (yemek)",
+    "pos": "sıfat",
+    "low": "tatsız",
+    "high": "ağzı yakan",
+    "rungs": [
+      {"en": "bland", "tr": "tatsız tuzsuz"},
+      {"en": "mild", "tr": "hafif, az acı"},
+      {"en": "spicy", "tr": "baharatlı, acı"},
+      {"en": "fiery", "tr": "ateş gibi yakan"}
+    ],
+    "gap": 2,
+    "hint": "Tuzu biberi unutulmuş bir çorbadan ağzı yakan bir biber sosuna.",
+    "note": "bland tatsız tuzsuzdur; mecazen 'sıkıcı, renksiz'. mild hafif, az acı: a mild curry. spicy baharatlı, acı. fiery ateş gibi yakar; mecazen 'ateşli': a fiery speech.",
+    "context": [
+      {"text": "Hospital food is often rather ___; it has almost no taste at all.", "options": ["bland", "spicy", "fiery"], "answer": "bland", "why": "'neredeyse hiç tadı yok' = tatsız tuzsuz: bland."},
+      {"text": "This chilli sauce is so ___ that it made my eyes water and my mouth burn.", "options": ["bland", "mild", "fiery"], "answer": "fiery", "why": "Gözleri yaşartıp ağzı yakan sos terazinin en ucudur: fiery. mild az acıdır."}
+    ]
+  },
+  {
+    "id": "at042",
+    "topic": "Eleştiri",
+    "pos": "fiil",
+    "low": "yorum yapmak",
+    "high": "kınamak",
+    "rungs": [
+      {"en": "comment on", "tr": "yorum yapmak"},
+      {"en": "question", "tr": "sorgulamak"},
+      {"en": "criticise", "tr": "eleştirmek"},
+      {"en": "condemn", "tr": "kınamak"}
+    ],
+    "gap": 3,
+    "hint": "Tarafsız bir yorumdan resmî ve sert bir kınamaya. Devletlerin saldırılardan sonra kullandığı fiil hangisi?",
+    "note": "comment on tarafsızca görüş bildirmektir. question bir şeyin doğruluğunu sorgulamak, şüphe duymaktır. criticise (AmE criticize) eksikleri söylemektir. condemn şiddetle kınamaktır: The government condemned the attack.",
+    "context": [
+      {"text": "World leaders strongly ___ the terrorist attack and expressed sympathy for the victims.", "options": ["commented on", "questioned", "condemned"], "answer": "condemned", "why": "'strongly' ve terör saldırısı resmî ve sert bir tepki ister: condemn. comment on tarafsızdır."},
+      {"text": "The minister refused to ___ the rumours, saying only that an official statement would follow.", "options": ["comment on", "criticise", "condemn"], "answer": "comment on", "why": "'refused to comment on' (yorum yapmayı reddetti) kalıptır; bakan hiçbir görüş bildirmiyor. criticise ve condemn bir tavır alır."}
+    ]
+  },
+  {
+    "id": "at043",
+    "topic": "Kabul",
+    "pos": "fiil",
+    "low": "katlanmak",
+    "high": "benimsemek",
+    "rungs": [
+      {"en": "tolerate", "tr": "katlanmak, göz yummak"},
+      {"en": "accept", "tr": "kabul etmek"},
+      {"en": "welcome", "tr": "memnuniyetle karşılamak"},
+      {"en": "embrace", "tr": "bağrına basmak, benimsemek"}
+    ],
+    "gap": 2,
+    "hint": "İstemeye istemeye katlanmaktan bir fikri tüm kalbiyle benimsemeye.",
+    "note": "tolerate istemeden katlanmak, göz yummaktır. accept kabul etmektir (nötr). welcome memnuniyetle karşılamaktır: We welcome the decision. embrace bir fikri ya da değişimi coşkuyla benimsemektir: embrace new technology.",
+    "context": [
+      {"text": "He doesn't like his neighbour's loud music, but he ___ it because he wants to avoid an argument.", "options": ["tolerates", "welcomes", "embraces"], "answer": "tolerates", "why": "Sevmediği bir şeye kavga çıkmasın diye katlanıyor: tolerate. welcome ve embrace memnuniyet bildirir."},
+      {"text": "Young people tend to ___ new technology enthusiastically, while older people are often more cautious.", "options": ["tolerate", "accept", "embrace"], "answer": "embrace", "why": "'enthusiastically' coşkuyla benimsemektir: embrace. accept nötrdür, coşku taşımaz."}
+    ]
+  },
+  {
+    "id": "at044",
+    "topic": "İsteklilik",
+    "pos": "sıfat",
+    "low": "yanaşmayan",
+    "high": "can atan",
+    "rungs": [
+      {"en": "unwilling", "tr": "isteksiz, yanaşmayan"},
+      {"en": "reluctant", "tr": "gönülsüz"},
+      {"en": "willing", "tr": "istekli, razı"},
+      {"en": "eager", "tr": "hevesli, can atan"}
+    ],
+    "gap": 1,
+    "hint": "Kesinlikle yanaşmamaktan bir şeyi yapmaya can atmaya. İstemeye istemeye de olsa yapan kişi nerede durur?",
+    "note": "unwilling yapmaya yanaşmayan, reddeden kişidir. reluctant 'gönülsüz': yapar ama istemeye istemeye (reluctantly agreed). willing 'istekli, razı': I'm willing to help. eager bir şeyi yapmaya can atan, hevesli: eager to learn.",
+    "context": [
+      {"text": "The children were ___ to open their presents and kept asking if they could do it right now.", "options": ["unwilling", "reluctant", "eager"], "answer": "eager", "why": "Durmadan 'şimdi açabilir miyiz?' diye sormak can atmaktır: eager."},
+      {"text": "He was ___ to lend them money, but in the end he agreed because they were old friends.", "options": ["reluctant", "willing", "eager"], "answer": "reluctant", "why": "'but in the end he agreed' (sonunda kabul etti) başta gönülsüz olduğunu gösterir: reluctant. willing ve eager 'but' ile çelişir."}
+    ]
+  },
+  {
+    "id": "at045",
+    "topic": "Düzey",
+    "pos": "isim / sıfat",
+    "low": "yeni başlayan",
+    "high": "uzman",
+    "rungs": [
+      {"en": "beginner", "tr": "yeni başlayan"},
+      {"en": "intermediate", "tr": "orta düzey"},
+      {"en": "advanced", "tr": "ileri düzey"},
+      {"en": "expert", "tr": "uzman"}
+    ],
+    "gap": 1,
+    "hint": "Dil kurslarının seviye adları gibi: sıfırdan başlayandan alanında otorite olana.",
+    "note": "beginner yeni başlayandır (complete beginner = hiç bilmeyen). intermediate orta düzey, advanced ileri düzey, expert uzman: an expert in/on sth. Kurs dilinde pre-intermediate ve upper-intermediate ara basamaklardır.",
+    "context": [
+      {"text": "This course is designed for complete ___; no previous knowledge of Spanish is required.", "options": ["beginners", "advanced", "experts"], "answer": "beginners", "why": "'hiç ön bilgi gerekmez' = sıfırdan başlayanlar: complete beginners."},
+      {"text": "Only a true ___ can tell the difference between the original painting and the forgery.", "options": ["beginner", "intermediate", "expert"], "answer": "expert", "why": "Orijinali sahtesinden ancak bir uzman ayırt edebilir: expert. 'Only a true' da terazinin ucunu ister."}
+    ]
+  },
+  {
+    "id": "at046",
+    "topic": "Kalite",
+    "pos": "sıfat",
+    "low": "berbat",
+    "high": "mükemmel",
+    "rungs": [
+      {"en": "terrible", "tr": "berbat"},
+      {"en": "poor", "tr": "kötü, zayıf"},
+      {"en": "adequate", "tr": "yeterli, idare eder"},
+      {"en": "good", "tr": "iyi"},
+      {"en": "excellent", "tr": "mükemmel"}
+    ],
+    "gap": 2,
+    "hint": "Berbattan mükemmele bir not skalası. 'İdare eder' hangi basamakta?",
+    "note": "terrible berbat, poor kötü ve zayıf: poor quality. adequate yeterli, kabul edilebilir ama parlak değil; YDS'de adequate ≈ sufficient. good iyi, excellent mükemmel (≈ outstanding).",
+    "context": [
+      {"text": "The food was ___: nothing special, but enough to keep us going.", "options": ["terrible", "adequate", "excellent"], "answer": "adequate", "why": "'özel bir şey değil ama yeterli' idare eder demektir: adequate. terrible ve excellent iki uçtur."},
+      {"text": "The hotel was ___: the rooms were dirty, the staff were rude, and the food made us ill.", "options": ["terrible", "good", "excellent"], "answer": "terrible", "why": "Kirli odalar, kaba personel ve hasta eden yemek: berbat. terrible terazinin en alt ucudur."}
+    ]
+  },
+  {
+    "id": "at047",
+    "topic": "Güzellik",
+    "pos": "sıfat",
+    "low": "sıradan, sade",
+    "high": "nefes kesici",
+    "rungs": [
+      {"en": "plain", "tr": "sade, sıradan"},
+      {"en": "pretty", "tr": "hoş, sevimli"},
+      {"en": "beautiful", "tr": "güzel"},
+      {"en": "stunning", "tr": "nefes kesici, çarpıcı"}
+    ],
+    "gap": 2,
+    "hint": "Göze çarpmayan sade bir görünüşten nefes kesen bir manzaraya.",
+    "note": "plain (şey için) sade, süssüz; (insan için) sıradan, alımsız. pretty hoş, sevimli. beautiful güzel. stunning nefes kesici, çarpıcı: a stunning view.",
+    "context": [
+      {"text": "From the top of the mountain, we had a ___ view of the whole valley; it took our breath away.", "options": ["plain", "pretty", "stunning"], "answer": "stunning", "why": "'nefesimizi kesti' (took our breath away) terazinin en ucudur: stunning. pretty bu etkiyi taşımaz."},
+      {"text": "She wore a ___ black dress with no decoration at all.", "options": ["plain", "beautiful", "stunning"], "answer": "plain", "why": "'hiç süsü yok' = sade: plain. beautiful ve stunning süsten bağımsız bir övgüdür, sadeliği anlatmaz."}
+    ]
+  },
+  {
+    "id": "at048",
+    "topic": "İlginçlik",
+    "pos": "sıfat",
+    "low": "bıktırıcı",
+    "high": "büyüleyici",
+    "rungs": [
+      {"en": "tedious", "tr": "bıktırıcı, usandırıcı"},
+      {"en": "dull", "tr": "sıkıcı, tekdüze"},
+      {"en": "interesting", "tr": "ilginç"},
+      {"en": "fascinating", "tr": "büyüleyici"}
+    ],
+    "gap": 0,
+    "hint": "İnsanı usandıran bir işten gözünü alamadığın bir belgesele.",
+    "note": "tedious uzun ve tekrarlı olduğu için bıktırıcıdır: a tedious task. dull sıkıcı, renksiz. interesting ilginç, fascinating büyüleyici, insanı içine çeken. YDS'de tedious ≈ monotonous ≈ boring.",
+    "context": [
+      {"text": "Checking thousands of forms one by one is a ___ job that nobody wants to do.", "options": ["tedious", "interesting", "fascinating"], "answer": "tedious", "why": "Binlerce formu tek tek kontrol etmek uzun ve tekrarlı bir iştir: tedious."},
+      {"text": "The documentary about deep-sea creatures was so ___ that I watched it three times.", "options": ["tedious", "dull", "fascinating"], "answer": "fascinating", "why": "Üç kez izlenecek kadar içine çeken bir belgesel büyüleyicidir: fascinating."}
+    ]
+  },
+  {
+    "id": "at049",
+    "topic": "Komiklik",
+    "pos": "sıfat",
+    "low": "hafif eğlenceli",
+    "high": "gülmekten kırıp geçiren",
+    "rungs": [
+      {"en": "amusing", "tr": "eğlenceli, hoş"},
+      {"en": "funny", "tr": "komik"},
+      {"en": "hilarious", "tr": "çok komik"},
+      {"en": "side-splitting", "tr": "gülmekten kırıp geçiren"}
+    ],
+    "gap": 2,
+    "hint": "Hafif bir tebessüm ettiren bir espriden gülmekten karın ağrıtan bir filme.",
+    "note": "amusing hoş, eğlenceli; hafifçe güldürür. funny komik. hilarious çok komik, kahkahalarla güldüren. side-splitting 'gülmekten yan ağrıtan', en uç ifade. Dikkat: funny 'tuhaf' da demektir: a funny smell.",
+    "context": [
+      {"text": "The speech was mildly ___, with a few clever jokes that made people smile.", "options": ["amusing", "hilarious", "side-splitting"], "answer": "amusing", "why": "'mildly' ve 'gülümsetti' hafif bir eğlenceyi anlatır: amusing."},
+      {"text": "It was a ___ comedy; we laughed so much that our stomachs hurt.", "options": ["amusing", "funny", "side-splitting"], "answer": "side-splitting", "why": "Gülmekten karın ağrısı terazinin en ucudur: side-splitting."}
+    ]
+  },
+  {
+    "id": "at050",
+    "topic": "Varlık",
+    "pos": "sıfat",
+    "low": "beş parasız",
+    "high": "zengin",
+    "rungs": [
+      {"en": "destitute", "tr": "yoksul düşmüş, beş parasız"},
+      {"en": "poor", "tr": "yoksul"},
+      {"en": "well-off", "tr": "hâli vakti yerinde"},
+      {"en": "rich", "tr": "zengin"}
+    ],
+    "gap": 0,
+    "hint": "Hiçbir şeyi olmayandan servet sahibine. Ortadaki 'rahat' insanın zengin olması gerekmez.",
+    "note": "destitute temel ihtiyaçlarını bile karşılayamayacak kadar yoksuldur. poor yoksul. well-off hâli vakti yerinde, rahat. rich zengin (≈ wealthy, affluent).",
+    "context": [
+      {"text": "After the war, thousands of families were left ___, without food, money or shelter.", "options": ["destitute", "well-off", "rich"], "answer": "destitute", "why": "Yiyeceksiz, parasız ve barınaksız kalmak: destitute."},
+      {"text": "They aren't millionaires, but they're quite ___: they own a nice house and travel abroad every year.", "options": ["destitute", "poor", "well-off"], "answer": "well-off", "why": "'milyoner değiller ama' + güzel ev ve yurt dışı tatili = hâli vakti yerinde: well-off."}
+    ]
+  },
+  {
+    "id": "at051",
+    "topic": "Eskilik",
+    "pos": "sıfat",
+    "low": "yeni",
+    "high": "tarih öncesi",
+    "rungs": [
+      {"en": "new", "tr": "yeni"},
+      {"en": "old", "tr": "eski"},
+      {"en": "ancient", "tr": "antik, çok eski"},
+      {"en": "prehistoric", "tr": "tarih öncesi"}
+    ],
+    "gap": 2,
+    "hint": "Dün alınmış bir şeyden yazının bile olmadığı çağlara.",
+    "note": "old genel 'eski'. ancient antik, binlerce yıllık: ancient Greece. prehistoric yazının icadından önceki çağa ait: prehistoric cave paintings. ancient insanlar için şaka yollu 'çok yaşlı' da demektir.",
+    "context": [
+      {"text": "These cave paintings are ___; they were made long before humans invented writing.", "options": ["new", "old", "prehistoric"], "answer": "prehistoric", "why": "'yazının icadından çok önce' tarih öncesinin tanımıdır: prehistoric."},
+      {"text": "My phone is quite ___ now; I bought it five years ago.", "options": ["new", "old", "prehistoric"], "answer": "old", "why": "Beş yıllık bir telefon eskidir: old. prehistoric bir telefon için anlamsız."}
+    ]
+  },
+  {
+    "id": "at052",
+    "topic": "Oran",
+    "pos": "niceleyici",
+    "low": "hiçbiri",
+    "high": "hepsi",
+    "rungs": [
+      {"en": "none", "tr": "hiçbiri"},
+      {"en": "few", "tr": "pek azı"},
+      {"en": "some", "tr": "bazıları"},
+      {"en": "most", "tr": "çoğu"},
+      {"en": "all", "tr": "hepsi"}
+    ],
+    "gap": 3,
+    "hint": "%0'dan %100'e bir grup insan düşün: hiçbiri, pek azı, bazıları, çoğu, hepsi.",
+    "note": "none of hiçbiri. few (a'sız) pek azı, olumsuz vurguludur. some bazıları. most çoğu: most of the students. all hepsi. 'most' ile 'the most' karışmasın: most people (insanların çoğu) ≠ the most (en çok).",
+    "context": [
+      {"text": "___ of the 30 students passed the exam; not a single one failed.", "options": ["None", "Some", "All"], "answer": "All", "why": "'not a single one failed' (bir kişi bile kalmadı) %100 demektir: All."},
+      {"text": "___ of the survey participants, about 80%, said they preferred working from home.", "options": ["Few", "Some", "Most"], "answer": "Most", "why": "%80 çoğunluktur: Most. Some belirsiz bir kısmı, Few pek azını anlatır."}
+    ]
+  },
+  {
+    "id": "at053",
+    "topic": "Değişim",
+    "pos": "fiil",
+    "low": "ince ayar",
+    "high": "devrim",
+    "rungs": [
+      {"en": "tweak", "tr": "ince ayar yapmak"},
+      {"en": "modify", "tr": "kısmen değiştirmek"},
+      {"en": "transform", "tr": "dönüştürmek"},
+      {"en": "revolutionise", "tr": "kökten değiştirmek, devrim yaratmak"}
+    ],
+    "gap": 2,
+    "hint": "Küçük bir ince ayardan bir alanı baştan aşağı değiştiren bir devrime.",
+    "note": "tweak küçük bir ince ayar yapmaktır: tweak the settings. modify bir kısmını değiştirmek. transform biçimini ya da niteliğini tamamen değiştirmek, dönüştürmek. revolutionise (AmE revolutionize) bir alanda devrim yaratmaktır: The internet revolutionised communication.",
+    "context": [
+      {"text": "We only need to ___ the design slightly; the basic idea is fine.", "options": ["tweak", "transform", "revolutionise"], "answer": "tweak", "why": "'slightly' ve 'temel fikir iyi' küçük bir ince ayardır: tweak."},
+      {"text": "The printing press ___ the way knowledge spread across Europe, creating a completely new world of ideas.", "options": ["tweaked", "modified", "revolutionised"], "answer": "revolutionised", "why": "'tamamen yeni bir dünya' kökten bir değişimdir: revolutionise. modify yalnızca bir kısmı değiştirir."}
+    ]
+  },
+  {
+    "id": "at054",
+    "topic": "Yükseliş",
+    "pos": "fiil",
+    "low": "azar azar artış",
+    "high": "tavan yapma",
+    "rungs": [
+      {"en": "edge up", "tr": "azar azar yükselmek"},
+      {"en": "rise", "tr": "yükselmek"},
+      {"en": "surge", "tr": "hızla artmak, fırlamak"},
+      {"en": "soar", "tr": "tavan yapmak"}
+    ],
+    "gap": 2,
+    "hint": "Grafikte zar zor fark edilen bir kıpırdanmadan tavan yapan bir çizgiye. Düşüş terazisinin (dip → plummet) ikizi.",
+    "note": "edge up çok yavaş, azar azar yükselmektir. rise genel 'yükselmek'. surge ani ve güçlü bir artıştır: demand surged. soar (≈ skyrocket) göğe fırlamak, tavan yapmaktır. Düşüş tarafı: dip < decline < plunge < plummet.",
+    "context": [
+      {"text": "Prices ___ by just 0.1% last month, the smallest increase in years.", "options": ["edged up", "surged", "soared"], "answer": "edged up", "why": "Yalnızca %0,1 ve 'yılların en küçük artışı' azar azar yükseliştir: edge up."},
+      {"text": "After the discovery of oil, land prices in the region ___ to fifty times their previous level.", "options": ["edged up", "rose", "soared"], "answer": "soared", "why": "Elli katına çıkmak tavan yapmaktır: soar. rise böyle bir sıçramanın büyüklüğünü anlatmaz."}
+    ]
+  },
+  {
+    "id": "at055",
+    "topic": "Yakınlık (dostluk)",
+    "pos": "isim",
+    "low": "tanıdık",
+    "high": "can dostu",
+    "rungs": [
+      {"en": "acquaintance", "tr": "tanıdık"},
+      {"en": "friend", "tr": "arkadaş"},
+      {"en": "close friend", "tr": "yakın arkadaş"},
+      {"en": "best friend", "tr": "en yakın arkadaş"}
+    ],
+    "gap": 0,
+    "hint": "Adını bildiğin ama pek tanımadığın birinden her sırrını paylaştığın kişiye.",
+    "note": "acquaintance tanıdıktır: selamlaştığın ama yakın olmadığın kişi. friend arkadaş, close friend yakın arkadaş, best friend en yakın arkadaş. Kalıplar: a casual acquaintance; make someone's acquaintance (biriyle tanışmak).",
+    "context": [
+      {"text": "I don't know him well; he's just a casual ___ from work.", "options": ["acquaintance", "close friend", "best friend"], "answer": "acquaintance", "why": "'onu iyi tanımıyorum' ve 'a casual …' = tanıdık: acquaintance."},
+      {"text": "She has been my ___ since primary school; she knows me better than anyone else.", "options": ["acquaintance", "friend", "best friend"], "answer": "best friend", "why": "İlkokuldan beri ve 'beni herkesten iyi tanır' terazinin ucudur: best friend."}
+    ]
+  },
+  {
+    "id": "at056",
+    "topic": "Katılık",
+    "pos": "sıfat",
+    "low": "hoşgörülü",
+    "high": "aşırı sert",
+    "rungs": [
+      {"en": "lenient", "tr": "hoşgörülü, yumuşak"},
+      {"en": "strict", "tr": "sıkı, katı"},
+      {"en": "harsh", "tr": "sert, acımasız"},
+      {"en": "draconian", "tr": "aşırı sert, orantısız"}
+    ],
+    "gap": 1,
+    "hint": "Kuralları esnetebilen bir öğretmenden aşırılığıyla ünlü bir yasaya. En uçtaki kelime, en küçük suça ölüm cezası veren Atinalı bir yasa koyucunun adından gelir.",
+    "note": "lenient hoşgörülü, cezada yumuşaktır: a lenient sentence. strict kurallara sıkı sıkıya bağlıdır. harsh sert, acımasızdır: harsh criticism. draconian aşırı sert ve orantısızdır; adını en küçük suça ölüm cezası veren Atinalı Drakon'dan alır.",
+    "context": [
+      {"text": "The judge was criticised for being too ___: the thief received only a small fine.", "options": ["lenient", "harsh", "draconian"], "answer": "lenient", "why": "Hırsıza yalnızca küçük bir para cezası: fazla yumuşak: lenient."},
+      {"text": "The new law is ___: people can be sent to prison for twenty years just for criticising the government online.", "options": ["lenient", "strict", "draconian"], "answer": "draconian", "why": "İnternette eleştiri için yirmi yıl hapis orantısız, aşırı serttir: draconian."}
+    ]
+  },
+  {
+    "id": "at057",
+    "topic": "Cesaret",
+    "pos": "sıfat",
+    "low": "korkak",
+    "high": "korkusuz",
+    "rungs": [
+      {"en": "cowardly", "tr": "korkak"},
+      {"en": "timid", "tr": "ürkek, çekingen"},
+      {"en": "brave", "tr": "cesur"},
+      {"en": "fearless", "tr": "korkusuz"}
+    ],
+    "gap": 1,
+    "hint": "Tehlikeden kaçan birinden korku nedir bilmeyen birine. Ürkek biri korkaktan daha mı cesur?",
+    "note": "cowardly korkaktır ve ayıplanan bir tavır bildirir. timid ürkek, çekingen, kolayca korkan (a timid child). brave cesurdur: korksa da yüzleşir. fearless korkusuzdur: hiç korku duymaz.",
+    "context": [
+      {"text": "It was ___ of him to run away and leave his friends to face the danger alone.", "options": ["cowardly", "brave", "fearless"], "answer": "cowardly", "why": "Arkadaşlarını tehlikede bırakıp kaçmak korkaklıktır: cowardly."},
+      {"text": "The ___ firefighter ran into the burning building again and again, showing no sign of fear.", "options": ["cowardly", "timid", "fearless"], "answer": "fearless", "why": "'showing no sign of fear' (hiç korku belirtisi göstermeden) korkusuzluğun tanımıdır: fearless."}
+    ]
+  },
+  {
+    "id": "at058",
+    "topic": "Nezaket",
+    "pos": "sıfat",
+    "low": "kibar",
+    "high": "hakaret içeren",
+    "rungs": [
+      {"en": "polite", "tr": "kibar"},
+      {"en": "blunt", "tr": "dobra, lafını sakınmayan"},
+      {"en": "rude", "tr": "kaba"},
+      {"en": "offensive", "tr": "rencide edici, hakaret içeren"}
+    ],
+    "gap": 1,
+    "hint": "Kibar bir ricadan hakarete. Ortadaki kelime kaba olmaya niyeti olmayan ama lafını sakınmayan birini anlatıyor.",
+    "note": "polite kibardır. blunt dobra, lafını esirgemeyen kişidir: to be blunt, … (açık konuşayım). rude kaba, saygısız. offensive hakaret içeren, rencide edicidir: offensive language.",
+    "context": [
+      {"text": "It was very ___ of the young man to give up his seat to the elderly woman.", "options": ["polite", "rude", "offensive"], "answer": "polite", "why": "Yaşlı birine yer vermek kibarlıktır: polite."},
+      {"text": "The comedian's ___ jokes about religion upset many people, and the TV channel apologised the next day.", "options": ["polite", "blunt", "offensive"], "answer": "offensive", "why": "İnsanları incitip kanalın özür dilemesine yol açan şakalar rencide edicidir: offensive."}
+    ]
+  },
+  {
+    "id": "at059",
+    "topic": "Heves",
+    "pos": "sıfat",
+    "low": "kayıtsız",
+    "high": "tutkulu",
+    "rungs": [
+      {"en": "indifferent", "tr": "kayıtsız, ilgisiz"},
+      {"en": "interested", "tr": "ilgili"},
+      {"en": "keen", "tr": "hevesli, meraklı"},
+      {"en": "passionate", "tr": "tutkulu"}
+    ],
+    "gap": 2,
+    "hint": "Hiç umursamayan birinden bir işe hayatını adamış birine.",
+    "note": "indifferent kayıtsız, umursamazdır: indifferent to criticism. interested ilgilidir. keen hevesli, istekli (İngiliz İngilizcesinde çok sık): keen on football. passionate tutkuludur: passionate about music.",
+    "context": [
+      {"text": "Most voters seem completely ___ to the election; they don't care who wins.", "options": ["indifferent", "keen", "passionate"], "answer": "indifferent", "why": "'kimin kazandığı umurlarında değil' kayıtsızlıktır: indifferent."},
+      {"text": "She has been ___ about protecting animals since childhood and has devoted her whole life to it.", "options": ["indifferent", "interested", "passionate"], "answer": "passionate", "why": "Bütün hayatını adamak tutkudur: passionate. interested bu bağlılığı anlatmaz."}
+    ]
+  },
+  {
+    "id": "at060",
+    "topic": "Sınav başarısı",
+    "pos": "fiil",
+    "low": "kalmak",
+    "high": "parlamak",
+    "rungs": [
+      {"en": "fail", "tr": "kalmak"},
+      {"en": "scrape through", "tr": "kıl payı geçmek"},
+      {"en": "pass", "tr": "geçmek"},
+      {"en": "excel", "tr": "üstün başarı göstermek"}
+    ],
+    "gap": 3,
+    "hint": "Sınavdan kalmaktan sınıf birincisi olmaya. İkinci basamak 'kıl payı' geçmeyi anlatıyor.",
+    "note": "fail kalmak, scrape through kıl payı geçmek, pass geçmektir. excel (at/in) bir alanda üstün başarı göstermek, parlamaktır: She excels at mathematics.",
+    "context": [
+      {"text": "He got 50, the lowest passing mark, so he only just ___ the exam.", "options": ["failed", "scraped through", "excelled"], "answer": "scraped through", "why": "Geçme notunun tam sınırı ve 'only just' kıl payı geçmektir: scrape through."},
+      {"text": "She has always ___ at languages and now speaks five of them fluently.", "options": ["failed", "passed", "excelled"], "answer": "excelled", "why": "Beş dili akıcı konuşmak üstün başarıdır; 'excel at' kalıbı da yalnızca bu fiile uyar."}
+    ]
+  },
+  {
+    "id": "at061",
+    "topic": "Kalabalık",
+    "pos": "sıfat",
+    "low": "ıssız",
+    "high": "tıklım tıklım",
+    "rungs": [
+      {"en": "deserted", "tr": "ıssız, bomboş"},
+      {"en": "quiet", "tr": "sakin, tenha"},
+      {"en": "busy", "tr": "hareketli, işlek"},
+      {"en": "crowded", "tr": "kalabalık"},
+      {"en": "packed", "tr": "tıklım tıklım"}
+    ],
+    "gap": 3,
+    "hint": "Kimsenin olmadığı bir sokaktan iğne atsan yere düşmeyecek bir metroya.",
+    "note": "deserted ıssız, bomboş; quiet sakin, tenha; busy hareketli, işlek: a busy street. crowded kalabalık, packed (≈ jam-packed) tıklım tıklım.",
+    "context": [
+      {"text": "At 3 a.m. the streets of the city centre were completely ___; there wasn't a single person in sight.", "options": ["deserted", "busy", "packed"], "answer": "deserted", "why": "'görünürde tek bir kişi yok' ıssızlıktır: deserted."},
+      {"text": "The metro was so ___ during rush hour that we couldn't move at all.", "options": ["deserted", "quiet", "packed"], "answer": "packed", "why": "Kıpırdayamayacak kadar dolu: tıklım tıklım: packed."}
+    ]
+  },
+  {
+    "id": "at062",
+    "topic": "Doluluk",
+    "pos": "sıfat",
+    "low": "boş",
+    "high": "taşan",
+    "rungs": [
+      {"en": "empty", "tr": "boş"},
+      {"en": "half-full", "tr": "yarı dolu"},
+      {"en": "full", "tr": "dolu"},
+      {"en": "overflowing", "tr": "taşan"}
+    ],
+    "gap": 3,
+    "hint": "Bomboş bir bardaktan ağzından taşan bir küvete.",
+    "note": "empty boş, half-full yarı dolu, full dolu. overflowing ağzına kadar dolup taşandır; mecazen de kullanılır: overflowing with joy, overflowing prisons.",
+    "context": [
+      {"text": "Someone forgot to turn off the tap, and the bath was ___ onto the floor.", "options": ["empty", "half-full", "overflowing"], "answer": "overflowing", "why": "Suyun yere akması taşmaktır: overflowing."},
+      {"text": "The fridge is completely ___; we need to go shopping.", "options": ["empty", "full", "overflowing"], "answer": "empty", "why": "Alışverişe gitmek gerekiyorsa buzdolabı boştur: empty."}
+    ]
+  },
+  {
+    "id": "at063",
+    "topic": "Fiyat",
+    "pos": "sıfat",
+    "low": "bedava",
+    "high": "fahiş",
+    "rungs": [
+      {"en": "free", "tr": "bedava, ücretsiz"},
+      {"en": "cheap", "tr": "ucuz"},
+      {"en": "expensive", "tr": "pahalı"},
+      {"en": "exorbitant", "tr": "fahiş"}
+    ],
+    "gap": 3,
+    "hint": "Hiç para ödemediğin bir şeyden insafsızca yüksek bir fiyata.",
+    "note": "free ücretsiz, bedava. cheap ucuz; bazen 'kalitesiz' çağrışımı taşır, nötrü inexpensive'dir. expensive pahalı. exorbitant fahiş, makul olmayacak kadar yüksek: exorbitant prices.",
+    "context": [
+      {"text": "Entry to the museum is ___ on the first Sunday of every month, so it's always crowded then.", "options": ["free", "expensive", "exorbitant"], "answer": "free", "why": "Her ayın ilk pazarı müze dolup taşıyorsa giriş ücretsizdir: free."},
+      {"text": "Tourists complained about the ___ prices: €15 for a small bottle of water!", "options": ["free", "cheap", "exorbitant"], "answer": "exorbitant", "why": "Küçük bir şişe suya 15 avro insafsızca yüksek bir fiyattır: exorbitant."}
+    ]
+  },
+  {
+    "id": "at064",
+    "topic": "Bulutluluk",
+    "pos": "sıfat",
+    "low": "açık",
+    "high": "kapalı",
+    "rungs": [
+      {"en": "clear", "tr": "açık"},
+      {"en": "partly cloudy", "tr": "parçalı bulutlu"},
+      {"en": "cloudy", "tr": "bulutlu"},
+      {"en": "overcast", "tr": "kapalı, gri"}
+    ],
+    "gap": 3,
+    "hint": "Masmavi bir gökyüzünden güneşin hiç görünmediği gri bir örtüye: hava durumu spikerinin kelimeleri.",
+    "note": "clear açık, partly cloudy parçalı bulutlu, cloudy bulutlu. overcast gökyüzünün tamamen bulutla kaplanmasıdır: kapalı ve gri bir hava (an overcast day).",
+    "context": [
+      {"text": "The sky was completely ___, so we could see thousands of stars.", "options": ["clear", "cloudy", "overcast"], "answer": "clear", "why": "Binlerce yıldızı görmek için gökyüzü tamamen açık olmalı: clear."},
+      {"text": "It was a grey, ___ day; the sun didn't come out once.", "options": ["clear", "partly cloudy", "overcast"], "answer": "overcast", "why": "Gri ve güneşin bir kez bile çıkmadığı bir gün kapalıdır: overcast. partly cloudy arada güneş gösterir."}
+    ]
+  },
+  {
+    "id": "at065",
+    "topic": "Görüş (sis)",
+    "pos": "sıfat",
+    "low": "berrak",
+    "high": "yoğun sis",
+    "rungs": [
+      {"en": "clear", "tr": "berrak"},
+      {"en": "hazy", "tr": "puslu"},
+      {"en": "misty", "tr": "hafif sisli"},
+      {"en": "foggy", "tr": "yoğun sisli"}
+    ],
+    "gap": 2,
+    "hint": "Kilometrelerce ötesini gördüğün bir havadan elini göremediğin bir sise.",
+    "note": "clear berrak. hazy puslu: sıcaktan ya da kirlilikten görüş hafifçe bulanır. misty hafif sisli (mist: ince sis). foggy yoğun sisli: görüş birkaç metreye iner. Meteorolojide fog, mist'ten daha yoğundur.",
+    "context": [
+      {"text": "The air was so ___ that we could see the mountains 100 kilometres away.", "options": ["clear", "misty", "foggy"], "answer": "clear", "why": "100 km ötesini görmek berrak bir hava ister: clear."},
+      {"text": "It was so ___ on the motorway that drivers could see only a few metres ahead, and several cars crashed.", "options": ["clear", "hazy", "foggy"], "answer": "foggy", "why": "Görüşün birkaç metreye inmesi yoğun sistir: foggy. hazy yalnızca hafif bir bulanıklıktır."}
+    ]
+  },
+  {
+    "id": "at066",
+    "topic": "Eğim",
+    "pos": "sıfat",
+    "low": "düz",
+    "high": "dimdik",
+    "rungs": [
+      {"en": "flat", "tr": "düz"},
+      {"en": "gentle", "tr": "hafif eğimli"},
+      {"en": "steep", "tr": "dik"},
+      {"en": "sheer", "tr": "dimdik, sarp"}
+    ],
+    "gap": 2,
+    "hint": "Dümdüz bir ovadan duvar gibi dikilen bir uçuruma.",
+    "note": "flat düz. gentle hafif eğimlidir: a gentle slope. steep diktir: a steep hill; mecazen keskin artış: a steep rise in prices. sheer dimdik, neredeyse dikeydir: a sheer cliff. sheer 'tamamen, saf' da demektir: sheer luck.",
+    "context": [
+      {"text": "The path climbs a ___ slope, so even young children can walk it easily.", "options": ["gentle", "steep", "sheer"], "answer": "gentle", "why": "Küçük çocukların bile rahatça yürüdüğü yokuş hafif eğimlidir: gentle."},
+      {"text": "The climbers stood at the bottom of a ___ cliff that rose vertically for 300 metres.", "options": ["flat", "gentle", "sheer"], "answer": "sheer", "why": "'vertically' (dikey olarak) yükselen uçurum dimdiktir: a sheer cliff."}
+    ]
+  },
+  {
+    "id": "at067",
+    "topic": "Dakiklik",
+    "pos": "sıfat",
+    "low": "erken",
+    "high": "vadesi geçmiş",
+    "rungs": [
+      {"en": "early", "tr": "erken"},
+      {"en": "on time", "tr": "tam zamanında"},
+      {"en": "late", "tr": "geç"},
+      {"en": "overdue", "tr": "gecikmiş, vadesi geçmiş"}
+    ],
+    "gap": 3,
+    "hint": "Randevudan önce gelmekten vadesi çoktan geçmiş bir faturaya.",
+    "note": "early erken, on time tam zamanında (≈ punctual), late geç. overdue vadesi ya da süresi geçmiş olandır: an overdue bill, an overdue library book; mecazen 'çoktan yapılmış olması gereken': Reform is long overdue.",
+    "context": [
+      {"text": "The library book is three weeks ___; you'll have to pay a fine.", "options": ["early", "on time", "overdue"], "answer": "overdue", "why": "İade süresi üç hafta geçmiş ve para cezası var: overdue. Kütüphane kitapları ve faturalar için kalıp budur."},
+      {"text": "The train arrived exactly at 9:00, perfectly ___.", "options": ["early", "on time", "overdue"], "answer": "on time", "why": "Tam saatinde gelmek 'on time'dır. early önce gelmek olurdu."}
+    ]
+  },
+  {
+    "id": "at068",
+    "topic": "Kaygı",
+    "pos": "sıfat",
+    "low": "sakin",
+    "high": "panik",
+    "rungs": [
+      {"en": "calm", "tr": "sakin"},
+      {"en": "uneasy", "tr": "tedirgin, huzursuz"},
+      {"en": "anxious", "tr": "endişeli, kaygılı"},
+      {"en": "panicky", "tr": "paniğe kapılmış"}
+    ],
+    "gap": 2,
+    "hint": "Sakin bir zihinden paniğe kapılmış birine. İçteki huzursuzlukla açık bir endişe arasında fark var.",
+    "note": "uneasy içten içe huzursuz, tedirgindir: an uneasy feeling. anxious endişeli, kaygılıdır: anxious about the results; 'hevesli' anlamı da var: anxious to please. panicky paniğe kapılmış, ne yaptığını bilmez hâldedir.",
+    "context": [
+      {"text": "Despite the turbulence, the experienced pilot remained ___ and spoke to the passengers in a relaxed voice.", "options": ["calm", "anxious", "panicky"], "answer": "calm", "why": "Rahat bir sesle konuşan deneyimli pilot sakindir: calm."},
+      {"text": "When the lights went out and the lift stopped, some passengers became ___ and started screaming and banging on the doors.", "options": ["calm", "uneasy", "panicky"], "answer": "panicky", "why": "Çığlık atıp kapıları yumruklamak paniktir: panicky. uneasy içte kalan bir huzursuzluktur."}
+    ]
+  },
+  {
+    "id": "at069",
+    "topic": "Acı",
+    "pos": "isim",
+    "low": "rahatsızlık",
+    "high": "ıstırap",
+    "rungs": [
+      {"en": "discomfort", "tr": "rahatsızlık"},
+      {"en": "ache", "tr": "sızı, künt ağrı"},
+      {"en": "pain", "tr": "acı, ağrı"},
+      {"en": "agony", "tr": "dayanılmaz acı, ıstırap"}
+    ],
+    "gap": 1,
+    "hint": "Hafif bir rahatsızlıktan dayanılmaz bir acıya. Diş ağrısı ve baş ağrısı kelimeleri ikinci basamağı kullanır.",
+    "note": "discomfort hafif rahatsızlıktır. ache sürekli, künt bir ağrıdır: headache, toothache, backache. pain genel 'acı, ağrı'. agony dayanılmaz acı, ıstıraptır: in agony.",
+    "context": [
+      {"text": "I've had a dull ___ in my lower back for weeks; it never really goes away.", "options": ["discomfort", "ache", "agony"], "answer": "ache", "why": "'dull' (künt) ve haftalardır geçmeyen ağrı sızıdır: a dull ache. agony dayanılmaz acıdır."},
+      {"text": "He lay on the ground screaming in ___ after breaking his leg.", "options": ["discomfort", "ache", "agony"], "answer": "agony", "why": "Bacağı kırılıp çığlık atan biri dayanılmaz acı içindedir: in agony."}
+    ]
+  },
+  {
+    "id": "at070",
+    "topic": "Uyku",
+    "pos": "sıfat",
+    "low": "uyanık",
+    "high": "derin uykuda",
+    "rungs": [
+      {"en": "awake", "tr": "uyanık"},
+      {"en": "drowsy", "tr": "uyku basmış, uyuşuk"},
+      {"en": "asleep", "tr": "uykuda"},
+      {"en": "fast asleep", "tr": "derin uykuda"}
+    ],
+    "gap": 1,
+    "hint": "Tamamen uyanıktan mışıl mışıl uyumaya. İlaç kutularında 'araç kullanmayın' uyarısıyla geçen kelime hangisi?",
+    "note": "awake uyanık. drowsy uyku basmış, uyuşuktur: This medicine may cause drowsiness. asleep uykuda (yalnızca yüklem olarak: He is asleep). fast asleep ya da sound asleep derin uykudadır.",
+    "context": [
+      {"text": "This medicine may make you feel ___, so do not drive after taking it.", "options": ["awake", "drowsy", "fast asleep"], "answer": "drowsy", "why": "Araç kullanmayı engelleyen ilaç yan etkisi uyuşukluktur: drowsy."},
+      {"text": "The baby was ___ and didn't wake up even when the dog started barking.", "options": ["awake", "drowsy", "fast asleep"], "answer": "fast asleep", "why": "Köpek havlamasına bile uyanmamak derin uykudur: fast asleep."}
+    ]
+  },
+  {
+    "id": "at071",
+    "topic": "Sağlamlık",
+    "pos": "sıfat",
+    "low": "kırılgan",
+    "high": "yok edilemez",
+    "rungs": [
+      {"en": "fragile", "tr": "kırılgan"},
+      {"en": "sturdy", "tr": "sağlam"},
+      {"en": "robust", "tr": "çok sağlam, dayanıklı"},
+      {"en": "indestructible", "tr": "yok edilemez"}
+    ],
+    "gap": 2,
+    "hint": "Dokunsan kırılacak bir kristal bardaktan hiçbir şeyin zarar veremeyeceği bir kasaya.",
+    "note": "fragile kırılgandır (koli üstündeki uyarı). sturdy sağlam, kolay kırılmaz: a sturdy table. robust çok sağlam, dayanıklıdır; akademik dilde 'güçlü, sağlam': robust evidence. indestructible yok edilemez.",
+    "context": [
+      {"text": "Pack the crystal glasses carefully; they're very ___.", "options": ["fragile", "robust", "indestructible"], "answer": "fragile", "why": "Dikkatle paketlenmesi gereken kristal bardaklar kırılgandır: fragile."},
+      {"text": "The ancient Egyptians believed their pyramids were ___ and would last forever.", "options": ["fragile", "sturdy", "indestructible"], "answer": "indestructible", "why": "'sonsuza dek sürecek' yok edilemez demektir: indestructible."}
+    ]
+  },
+  {
+    "id": "at072",
+    "topic": "Sertlik",
+    "pos": "sıfat",
+    "low": "lapa gibi",
+    "high": "sert",
+    "rungs": [
+      {"en": "mushy", "tr": "lapa gibi"},
+      {"en": "soft", "tr": "yumuşak"},
+      {"en": "firm", "tr": "sıkı, diri"},
+      {"en": "hard", "tr": "sert"}
+    ],
+    "gap": 2,
+    "hint": "Lapa olmuş bir muzdan taş gibi bir fındığa. Olgun ama diri bir domates hangi basamakta?",
+    "note": "mushy lapa gibi, fazla yumuşamış (fazla pişmiş sebze). soft yumuşak. firm sıkı, diri: firm tomatoes, a firm mattress; mecazen 'kararlı': a firm decision. hard sert.",
+    "context": [
+      {"text": "The vegetables were boiled for too long and became ___ and tasteless.", "options": ["mushy", "firm", "hard"], "answer": "mushy", "why": "Fazla haşlanan sebze lapa gibi olur: mushy."},
+      {"text": "Choose tomatoes that are ___ but not hard; they should not feel soft or watery.", "options": ["mushy", "firm", "hard"], "answer": "firm", "why": "Ne sert ne yumuşak: diri: firm. Cümle 'hard' ve 'soft'u açıkça dışarıda bırakıyor."}
+    ]
+  },
+  {
+    "id": "at073",
+    "topic": "Açıklık",
+    "pos": "sıfat",
+    "low": "muğlak",
+    "high": "açık seçik",
+    "rungs": [
+      {"en": "vague", "tr": "belirsiz, muğlak"},
+      {"en": "unclear", "tr": "net olmayan"},
+      {"en": "clear", "tr": "açık, anlaşılır"},
+      {"en": "explicit", "tr": "açık seçik, dolaysız"}
+    ],
+    "gap": 1,
+    "hint": "Ne dediği anlaşılmayan bir cevaptan her şeyi tek tek söyleyen bir talimata.",
+    "note": "vague belirsiz, muğlak, ayrıntısızdır: a vague answer. unclear net olmayandır. clear açık, anlaşılır. explicit açık seçik, dolaysız, her şeyi söyleyendir: explicit instructions. Zıttı implicit (örtük).",
+    "context": [
+      {"text": "The politician gave a ___ answer that didn't really say anything specific.", "options": ["vague", "clear", "explicit"], "answer": "vague", "why": "Somut hiçbir şey söylemeyen cevap muğlaktır: vague."},
+      {"text": "The contract is ___: it states in writing exactly what each side must do, leaving no room for doubt.", "options": ["vague", "unclear", "explicit"], "answer": "explicit", "why": "Her şeyi yazılı ve tam olarak söyleyen, şüpheye yer bırakmayan metin açık seçiktir: explicit."}
+    ]
+  },
+  {
+    "id": "at074",
+    "topic": "Zorunluluk",
+    "pos": "sıfat",
+    "low": "isteğe bağlı",
+    "high": "zorunlu",
+    "rungs": [
+      {"en": "optional", "tr": "isteğe bağlı"},
+      {"en": "recommended", "tr": "tavsiye edilen"},
+      {"en": "required", "tr": "gerekli, şart"},
+      {"en": "mandatory", "tr": "zorunlu"}
+    ],
+    "gap": 2,
+    "hint": "'İstersen yaparsın'dan 'yapmazsan ceza var'a. Kayıt formlarındaki yıldızlı alanları düşün.",
+    "note": "optional isteğe bağlı. recommended tavsiye edilen: yapman iyi olur. required gerekli, şart. mandatory (≈ compulsory, obligatory) yasa ya da kuralla zorunlu: mandatory military service.",
+    "context": [
+      {"text": "Attendance at the Friday seminar is ___; students can come if they are interested.", "options": ["optional", "required", "mandatory"], "answer": "optional", "why": "'ilgilenen gelebilir' isteğe bağlıdır: optional."},
+      {"text": "Wearing a seat belt is ___ by law in most countries, and drivers can be fined for not wearing one.", "options": ["optional", "recommended", "mandatory"], "answer": "mandatory", "why": "'by law' ve para cezası yasal zorunluluktur: mandatory. recommended yalnızca bir tavsiyedir."}
+    ]
+  },
+  {
+    "id": "at075",
+    "topic": "Özen",
+    "pos": "sıfat",
+    "low": "dikkatsiz",
+    "high": "kılı kırk yaran",
+    "rungs": [
+      {"en": "careless", "tr": "dikkatsiz"},
+      {"en": "careful", "tr": "dikkatli"},
+      {"en": "thorough", "tr": "titiz, eksiksiz"},
+      {"en": "meticulous", "tr": "son derece titiz"}
+    ],
+    "gap": 2,
+    "hint": "Hata üstüne hata yapan birinden en küçük ayrıntıyı bile gözden kaçırmayan birine.",
+    "note": "careless dikkatsizdir: a careless mistake. careful dikkatli. thorough eksiksiz, baştan sona: a thorough investigation. meticulous son derece titiz, kılı kırk yaran (≈ painstaking).",
+    "context": [
+      {"text": "The accident was caused by a ___ driver who was looking at his phone.", "options": ["careless", "thorough", "meticulous"], "answer": "careless", "why": "Telefona bakarken kaza yapan sürücü dikkatsizdir: careless."},
+      {"text": "The restorer was so ___ that she spent a whole day cleaning a single square centimetre of the painting.", "options": ["careless", "careful", "meticulous"], "answer": "meticulous", "why": "Bir santimetrekareye bütün bir gün harcamak aşırı titizliktir: meticulous. careful bu kadar uç bir özeni anlatmaz."}
+    ]
+  },
+  {
+    "id": "at076",
+    "topic": "Bolluk",
+    "pos": "sıfat",
+    "low": "kıt",
+    "high": "bereketli",
+    "rungs": [
+      {"en": "scarce", "tr": "kıt, zor bulunur"},
+      {"en": "limited", "tr": "sınırlı"},
+      {"en": "plentiful", "tr": "bol"},
+      {"en": "abundant", "tr": "bol miktarda, bereketli"}
+    ],
+    "gap": 2,
+    "hint": "Neredeyse hiç bulunamayan bir şeyden her yerde bol bol olan bir şeye.",
+    "note": "scarce kıt, zor bulunurdur: Water is scarce in the desert. limited sınırlı. plentiful ve abundant bol; abundant daha resmî ve güçlüdür: abundant resources. YDS: scarcity (kıtlık) ↔ abundance (bolluk).",
+    "context": [
+      {"text": "During the war, food was so ___ that people waited in line for hours for a loaf of bread.", "options": ["scarce", "plentiful", "abundant"], "answer": "scarce", "why": "Bir somun ekmek için saatlerce kuyruk: kıtlık: scarce."},
+      {"text": "The region has ___ natural resources, including huge reserves of oil, gas and gold.", "options": ["scarce", "limited", "abundant"], "answer": "abundant", "why": "'huge reserves' (dev rezervler) bolluğu gösterir: abundant."}
+    ]
+  },
+  {
+    "id": "at077",
+    "topic": "Başarısızlık",
+    "pos": "isim",
+    "low": "aksilik",
+    "high": "yıkım",
+    "rungs": [
+      {"en": "setback", "tr": "aksilik, geri adım"},
+      {"en": "failure", "tr": "başarısızlık"},
+      {"en": "disaster", "tr": "felaket"},
+      {"en": "catastrophe", "tr": "büyük felaket, yıkım"}
+    ],
+    "gap": 2,
+    "hint": "Küçük bir aksilikten telafisi imkânsız bir yıkıma.",
+    "note": "setback ilerlemeyi geçici olarak durduran bir aksiliktir: a minor setback. failure başarısızlık. disaster felaket. catastrophe çok büyük, geniş çaplı bir felakettir; sıfatı catastrophic.",
+    "context": [
+      {"text": "Losing the first match was only a minor ___; the team still has a good chance of winning the league.", "options": ["setback", "disaster", "catastrophe"], "answer": "setback", "why": "'only a minor' ve 'hâlâ şansları var' geçici bir aksiliktir: setback."},
+      {"text": "The nuclear accident was a ___ that made the whole region uninhabitable for decades.", "options": ["setback", "failure", "catastrophe"], "answer": "catastrophe", "why": "Bütün bölgeyi on yıllarca yaşanmaz kılan kaza terazinin en ucudur: catastrophe."}
+    ]
+  },
+  {
+    "id": "at078",
+    "topic": "Lezzet",
+    "pos": "sıfat",
+    "low": "yenmez",
+    "high": "nefis",
+    "rungs": [
+      {"en": "inedible", "tr": "yenmez"},
+      {"en": "edible", "tr": "yenebilir"},
+      {"en": "tasty", "tr": "lezzetli"},
+      {"en": "delicious", "tr": "nefis"}
+    ],
+    "gap": 2,
+    "hint": "Ağza alınmayacak bir yemekten parmak yedirten bir tatlıya.",
+    "note": "inedible yenmez (bozuk, zehirli ya da çok kötü). edible yenebilir: edible mushrooms. tasty lezzetli, delicious nefis, çok lezzetli (uç sıfat).",
+    "context": [
+      {"text": "Some wild mushrooms are poisonous, so you must be sure a mushroom is ___ before you eat it.", "options": ["inedible", "edible", "delicious"], "answer": "edible", "why": "Zehirli mantar tehlikesi karşısında sorulan soru yenebilir olup olmadığıdır: edible."},
+      {"text": "The steak was burnt black and completely ___; we had to throw it away.", "options": ["inedible", "tasty", "delicious"], "answer": "inedible", "why": "Kapkara yanıp çöpe atılan et yenmezdir: inedible."}
+    ]
+  },
+  {
+    "id": "at079",
+    "topic": "Koku",
+    "pos": "sıfat",
+    "low": "belli belirsiz",
+    "high": "boğucu",
+    "rungs": [
+      {"en": "faint", "tr": "hafif, belli belirsiz"},
+      {"en": "noticeable", "tr": "fark edilir"},
+      {"en": "strong", "tr": "keskin, güçlü"},
+      {"en": "overpowering", "tr": "boğucu, baskın"}
+    ],
+    "gap": 1,
+    "hint": "Zar zor seçilen bir kokudan odada nefes aldırmayan bir kokuya.",
+    "note": "faint hafif, belli belirsizdir: a faint smell, a faint sound. noticeable fark edilir. strong keskin, güçlü. overpowering diğer her şeyi bastıran, boğucudur: an overpowering smell of paint.",
+    "context": [
+      {"text": "There was a ___ smell of perfume in the room; I could only just notice it.", "options": ["faint", "strong", "overpowering"], "answer": "faint", "why": "'ancak fark edebildim' belli belirsiz bir kokudur: faint."},
+      {"text": "The smell of fresh paint was so ___ that we had to open all the windows and leave the room.", "options": ["faint", "noticeable", "overpowering"], "answer": "overpowering", "why": "Odayı terk ettirecek kadar koku boğucudur: overpowering."}
+    ]
+  },
+  {
+    "id": "at080",
+    "topic": "Güç",
+    "pos": "sıfat",
+    "low": "takatsiz",
+    "high": "kudretli",
+    "rungs": [
+      {"en": "feeble", "tr": "cılız, takatsiz"},
+      {"en": "weak", "tr": "zayıf"},
+      {"en": "strong", "tr": "güçlü"},
+      {"en": "mighty", "tr": "kudretli, heybetli"}
+    ],
+    "gap": 0,
+    "hint": "Ayakta duracak hâli olmayandan dağları yerinden oynatacak bir güce.",
+    "note": "feeble çok zayıf, cılız, takatsizdir; mecazen 'inandırıcılıktan uzak': a feeble excuse. weak zayıf, strong güçlü. mighty kudretli, heybetlidir (edebî): the mighty Ottoman Empire.",
+    "context": [
+      {"text": "He gave such a ___ excuse for being late that nobody believed him.", "options": ["feeble", "strong", "mighty"], "answer": "feeble", "why": "Kimsenin inanmadığı mazeret inandırıcılıktan uzaktır: a feeble excuse."},
+      {"text": "The ___ Ottoman army was feared across three continents.", "options": ["feeble", "weak", "mighty"], "answer": "mighty", "why": "Üç kıtada korkulan ordu kudretlidir: mighty."}
+    ]
+  },
+  {
+    "id": "at081",
+    "topic": "Uzaklık",
+    "pos": "sıfat",
+    "low": "bitişik",
+    "high": "ücra",
+    "rungs": [
+      {"en": "adjacent", "tr": "bitişik"},
+      {"en": "nearby", "tr": "yakın, yakınlardaki"},
+      {"en": "distant", "tr": "uzak"},
+      {"en": "remote", "tr": "ücra, çok uzak"}
+    ],
+    "gap": 3,
+    "hint": "Duvar duvara komşu bir odadan yolun bile gitmediği bir köye.",
+    "note": "adjacent bitişik, yan yanadır: adjacent rooms. nearby yakın, yakınlardaki. distant uzak. remote ücra, uzak ve bağlantısızdır: a remote village; remote control = uzaktan kumanda.",
+    "context": [
+      {"text": "The two hotel rooms are ___, so we can open the door between them.", "options": ["adjacent", "distant", "remote"], "answer": "adjacent", "why": "Aralarında kapı olan iki oda bitişiktir: adjacent."},
+      {"text": "The village is so ___ that there is no road to it, and supplies arrive by helicopter.", "options": ["adjacent", "nearby", "remote"], "answer": "remote", "why": "Yolu olmayan, helikopterle ikmal edilen köy ücradır: remote."}
+    ]
+  },
+  {
+    "id": "at082",
+    "topic": "Ün",
+    "pos": "sıfat",
+    "low": "az bilinen",
+    "high": "efsanevi",
+    "rungs": [
+      {"en": "obscure", "tr": "az bilinen"},
+      {"en": "well-known", "tr": "tanınmış"},
+      {"en": "famous", "tr": "ünlü"},
+      {"en": "legendary", "tr": "efsanevi"}
+    ],
+    "gap": 2,
+    "hint": "Kimsenin adını duymadığı bir şairden adı efsaneye dönüşmüş bir kahramana.",
+    "note": "obscure az bilinen, gözden uzaktır (ayrıca 'anlaşılması güç'). well-known tanınmış. famous ünlü. legendary efsanevi, efsanelere konu olacak kadar ünlüdür: a legendary footballer.",
+    "context": [
+      {"text": "The poem was written by a poet so ___ that his name appears in almost no anthologies.", "options": ["obscure", "famous", "legendary"], "answer": "obscure", "why": "Adı neredeyse hiçbir antolojide geçmeyen şair az bilinendir: obscure."},
+      {"text": "Pelé is a ___ footballer whose name is known even to people who have never watched a match.", "options": ["obscure", "well-known", "legendary"], "answer": "legendary", "why": "Hiç maç izlememiş insanların bile bildiği isim efsanevidir: legendary."}
+    ]
+  },
+  {
+    "id": "at083",
+    "topic": "Değer",
+    "pos": "sıfat",
+    "low": "değersiz",
+    "high": "paha biçilmez",
+    "rungs": [
+      {"en": "worthless", "tr": "değersiz"},
+      {"en": "valuable", "tr": "değerli"},
+      {"en": "precious", "tr": "çok değerli, kıymetli"},
+      {"en": "priceless", "tr": "paha biçilmez"}
+    ],
+    "gap": 2,
+    "hint": "Beş kuruş etmeyen bir şeyden hiçbir paranın karşılayamayacağı bir hazineye. Dikkat: '-less' eki burada seni yanıltabilir!",
+    "note": "worthless değersiz. valuable değerli. precious çok değerli, kıymetli: precious metals, precious time. priceless paha biçilmez: 'fiyatsız, değersiz' DEĞİL, tam tersi! Değersiz = worthless. Aynı tuzak: invaluable = çok değerli.",
+    "context": [
+      {"text": "The painting turned out to be a fake and completely ___.", "options": ["worthless", "precious", "priceless"], "answer": "worthless", "why": "Sahte çıkan tablo hiçbir şey etmez: worthless."},
+      {"text": "The Mona Lisa is considered ___; no amount of money could ever buy it.", "options": ["worthless", "valuable", "priceless"], "answer": "priceless", "why": "'hiçbir para onu satın alamaz' paha biçilmezin tanımıdır: priceless."}
+    ]
+  },
+  {
+    "id": "at084",
+    "topic": "Anlaşmazlık",
+    "pos": "isim",
+    "low": "fikir ayrılığı",
+    "high": "arbede",
+    "rungs": [
+      {"en": "disagreement", "tr": "fikir ayrılığı"},
+      {"en": "argument", "tr": "tartışma, ağız dalaşı"},
+      {"en": "fight", "tr": "kavga"},
+      {"en": "brawl", "tr": "arbede, meydan kavgası"}
+    ],
+    "gap": 3,
+    "hint": "Nazik bir fikir ayrılığından yumrukların konuştuğu bir arbedeye.",
+    "note": "disagreement fikir ayrılığıdır. argument sözlü tartışma, ağız dalaşıdır (akademik dilde ayrıca 'argüman'). fight kavga, dövüş. brawl birçok kişinin karıştığı arbede, meydan kavgasıdır: a street brawl.",
+    "context": [
+      {"text": "There was a minor ___ about where to go for dinner, but we quickly agreed on a place.", "options": ["disagreement", "fight", "brawl"], "answer": "disagreement", "why": "'minor' ve 'hemen anlaştık' küçük bir fikir ayrılığıdır: disagreement."},
+      {"text": "A ___ broke out outside the stadium, with dozens of fans throwing punches and chairs at each other.", "options": ["disagreement", "argument", "brawl"], "answer": "brawl", "why": "Onlarca taraftarın yumruk ve sandalyeyle kapışması arbededir: brawl."}
+    ]
+  },
+  {
+    "id": "at085",
+    "topic": "Hata",
+    "pos": "isim",
+    "low": "dil sürçmesi",
+    "high": "rezalet",
+    "rungs": [
+      {"en": "slip", "tr": "küçük hata, dalgınlık"},
+      {"en": "mistake", "tr": "hata"},
+      {"en": "blunder", "tr": "gaf, büyük hata"},
+      {"en": "fiasco", "tr": "rezalet, tam fiyasko"}
+    ],
+    "gap": 2,
+    "hint": "Bir dil sürçmesinden bütün planı batıran bir rezalete.",
+    "note": "slip dikkatsizlikten kaynaklanan küçük hatadır: a slip of the tongue (dil sürçmesi). mistake genel 'hata'. blunder büyük, aptalca hata, gaf: a diplomatic blunder. fiasco tam bir başarısızlık, rezalettir.",
+    "context": [
+      {"text": "Calling her by the wrong name was just a ___ of the tongue; he apologised immediately.", "options": ["slip", "blunder", "fiasco"], "answer": "slip", "why": "'a slip of the tongue' (dil sürçmesi) kalıptır ve küçük, dalgınlıkla yapılan bir hatadır."},
+      {"text": "The whole event was a complete ___: the speakers didn't come, the sound system failed and the guests left early.", "options": ["slip", "mistake", "fiasco"], "answer": "fiasco", "why": "Her şeyin ters gittiği bir etkinlik tam bir rezalettir: fiasco."}
+    ]
+  },
+  {
+    "id": "at086",
+    "topic": "Benzerlik",
+    "pos": "sıfat",
+    "low": "tıpatıp aynı",
+    "high": "zıt",
+    "rungs": [
+      {"en": "identical", "tr": "tıpatıp aynı"},
+      {"en": "similar", "tr": "benzer"},
+      {"en": "different", "tr": "farklı"},
+      {"en": "opposite", "tr": "zıt, karşıt"}
+    ],
+    "gap": 1,
+    "hint": "İki damla su gibi aynı olan iki şeyden birbirinin tam tersi olan iki şeye.",
+    "note": "identical tıpatıp aynı: identical twins (tek yumurta ikizleri). similar benzer: similar to. different farklı: different from. opposite zıt, karşıt: the opposite direction. YDS'de similar ≈ alike, comparable.",
+    "context": [
+      {"text": "The twins are ___; even their parents sometimes can't tell them apart.", "options": ["identical", "different", "opposite"], "answer": "identical", "why": "Anne babalarının bile ayırt edemediği ikizler tıpatıp aynıdır: identical."},
+      {"text": "The two cars crashed because they were travelling in ___ directions on a narrow road.", "options": ["identical", "similar", "opposite"], "answer": "opposite", "why": "Kafa kafaya çarpışma karşı yönlerden gelmekle olur: opposite directions."}
+    ]
+  },
+  {
+    "id": "at087",
+    "topic": "Bilgi derinliği",
+    "pos": "fiil",
+    "low": "adını duymak",
+    "high": "ustalaşmak",
+    "rungs": [
+      {"en": "hear of", "tr": "adını duymak"},
+      {"en": "know", "tr": "bilmek, tanımak"},
+      {"en": "understand", "tr": "anlamak, kavramak"},
+      {"en": "master", "tr": "ustalaşmak, hâkim olmak"}
+    ],
+    "gap": 3,
+    "hint": "Bir konunun yalnızca adını duymuş olmaktan ona tamamen hâkim olmaya.",
+    "note": "hear of adını duymaktır: Have you heard of him? know bilmek, tanımak. understand anlamak, kavramak. master bir beceride ya da konuda ustalaşmak, tamamen hâkim olmaktır: master a language. İsmi mastery (ustalık).",
+    "context": [
+      {"text": "I've ___ the book, but I've never actually read it or seen the film.", "options": ["heard of", "understood", "mastered"], "answer": "heard of", "why": "Okumamış, filmini görmemiş: yalnızca adını duymuş: hear of."},
+      {"text": "It takes years of practice to ___ a musical instrument like the violin.", "options": ["hear of", "know", "master"], "answer": "master", "why": "Yıllarca pratik gerektiren şey bir enstrümana hâkim olmaktır: master."}
+    ]
+  },
+  {
+    "id": "at088",
+    "topic": "Kanaat",
+    "pos": "fiil",
+    "low": "sanmamak",
+    "high": "kesin bilmek",
+    "rungs": [
+      {"en": "doubt", "tr": "ihtimal vermemek, şüphe etmek"},
+      {"en": "suspect", "tr": "sezmek, olduğundan şüphelenmek"},
+      {"en": "believe", "tr": "inanmak"},
+      {"en": "know", "tr": "kesin bilmek"}
+    ],
+    "gap": 1,
+    "hint": "'Sanmıyorum'dan 'kesin biliyorum'a. İkinci basamak içten içe bir tahmin: kanıt yok ama bir his var.",
+    "note": "doubt (that) -e ihtimal vermemektir: I doubt he will come = geleceğini sanmam. suspect (that) öyle olduğundan şüphelenmek, sezmektir: I suspect he's lying. believe inanmak, know kesin bilmek. TUZAK: doubt 'olmadığını', suspect 'olduğunu' düşünmektir.",
+    "context": [
+      {"text": "I ___ he'll come to the party; he said he was busy all weekend.", "options": ["doubt", "believe", "know"], "answer": "doubt", "why": "Bütün hafta sonu meşgulmüş, yani geleceğine ihtimal vermiyorum: doubt."},
+      {"text": "I don't just think it; I ___ it's true because I saw it with my own eyes.", "options": ["doubt", "suspect", "know"], "answer": "know", "why": "Kendi gözleriyle görmek kesin bilgidir: know. 'I don't just think it' de sanmaktan öteye geçildiğini söyler."}
+    ]
+  },
+  {
+    "id": "at089",
+    "topic": "Kar",
+    "pos": "isim",
+    "low": "serpinti",
+    "high": "tipi",
+    "rungs": [
+      {"en": "flurry", "tr": "kar serpintisi"},
+      {"en": "snowfall", "tr": "kar yağışı"},
+      {"en": "snowstorm", "tr": "kar fırtınası"},
+      {"en": "blizzard", "tr": "tipi"}
+    ],
+    "gap": 2,
+    "hint": "Havada uçuşan birkaç kar tanesinden göz gözü görmeyen bir tipiye.",
+    "note": "flurry kısa süreli, hafif kar serpintisidir; mecazen 'ani bir telaş': a flurry of activity. snowfall kar yağışı (miktar olarak da: heavy snowfall). snowstorm kar fırtınası. blizzard kuvvetli rüzgârla gelen, görüşü sıfırlayan tipidir.",
+    "context": [
+      {"text": "There was only a light ___ of snow this morning, and it melted before noon.", "options": ["flurry", "snowstorm", "blizzard"], "answer": "flurry", "why": "Hafif ve öğlene kadar eriyen kar serpintidir: a flurry of snow."},
+      {"text": "The ___ was so severe that drivers could not see the road, and hundreds of cars were stuck for two days.", "options": ["flurry", "snowfall", "blizzard"], "answer": "blizzard", "why": "Yolu göstermeyen, araçları iki gün mahsur bırakan kar tipidir: blizzard."}
+    ]
+  },
+  {
+    "id": "at090",
+    "topic": "Parıltı",
+    "pos": "fiil",
+    "low": "belli belirsiz",
+    "high": "göz alıcı",
+    "rungs": [
+      {"en": "glimmer", "tr": "belli belirsiz parıldamak"},
+      {"en": "glow", "tr": "yumuşakça ışıldamak"},
+      {"en": "shine", "tr": "parlamak"},
+      {"en": "glare", "tr": "gözü alacak kadar parlamak"}
+    ],
+    "gap": 1,
+    "hint": "Uzakta titreyen minik bir ışıktan gözünü açamayacağın bir parıltıya.",
+    "note": "glimmer zayıf, titrek bir ışıkla parıldamaktır; mecazen a glimmer of hope (bir umut ışığı). glow sıcak ve yumuşak bir ışıkla ışıldamaktır: the glow of the fire. shine parlamak. glare gözü rahatsız edecek kadar sert parlamaktır; ayrıca 'öfkeyle bakmak'.",
+    "context": [
+      {"text": "A single light ___ faintly in the distance, and the lost hikers walked towards it.", "options": ["glimmered", "shone", "glared"], "answer": "glimmered", "why": "'faintly' ve uzaklık zayıf, titrek bir ışıktır: glimmer."},
+      {"text": "The midday sun ___ so fiercely off the white walls that we had to cover our eyes.", "options": ["glimmered", "glowed", "glared"], "answer": "glared", "why": "Gözlerimizi kapattıracak kadar sert parlama: glare."}
+    ]
+  },
+  {
+    "id": "at091",
+    "topic": "Kötülük",
+    "pos": "sıfat",
+    "low": "yaramaz",
+    "high": "şeytani",
+    "rungs": [
+      {"en": "naughty", "tr": "yaramaz"},
+      {"en": "bad", "tr": "kötü"},
+      {"en": "wicked", "tr": "kötü kalpli, hain"},
+      {"en": "evil", "tr": "şeytani"}
+    ],
+    "gap": 2,
+    "hint": "Kurabiye çalan bir çocuktan masallardaki karanlık güce.",
+    "note": "naughty yaramazdır; çoğunlukla çocuklar için kullanılır. bad kötü. wicked kötü kalpli, haindir (masallarda: the wicked witch). evil şeytani, kötülüğün kendisidir: evil spirits. İngiliz gündelik dilinde wicked 'harika' da demektir.",
+    "context": [
+      {"text": "The ___ boy hid his sister's shoes, but he said sorry and gave them back.", "options": ["naughty", "wicked", "evil"], "answer": "naughty", "why": "Ayakkabı saklayıp özür dileyen çocuk yaramazdır: naughty."},
+      {"text": "In the story, the ___ king tortured and killed thousands of innocent people just for pleasure.", "options": ["naughty", "bad", "evil"], "answer": "evil", "why": "Zevk için binlerce masumu öldürmek kötülüğün en ucudur: evil."}
+    ]
+  },
+  {
+    "id": "at092",
+    "topic": "Zekâ",
+    "pos": "sıfat",
+    "low": "ağır kavrayışlı",
+    "high": "dâhiyane",
+    "rungs": [
+      {"en": "slow", "tr": "ağır kavrayışlı"},
+      {"en": "average", "tr": "ortalama, vasat"},
+      {"en": "bright", "tr": "zeki, parlak"},
+      {"en": "brilliant", "tr": "olağanüstü zeki"}
+    ],
+    "gap": 3,
+    "hint": "Kavraması biraz zaman alan bir öğrenciden olağanüstü parlak bir zihne.",
+    "note": "slow (insan için) kavrayışı ağır. average ortalama, vasat. bright zeki, parlak; özellikle çocuk ve öğrenciler için. brilliant olağanüstü zeki, dâhiyane; gündelik dilde 'harika'.",
+    "context": [
+      {"text": "Einstein was a ___ scientist whose ideas changed our understanding of the universe.", "options": ["slow", "average", "brilliant"], "answer": "brilliant", "why": "Evreni anlayışımızı değiştiren bir bilim insanı olağanüstü zekidir: brilliant."},
+      {"text": "She's a fairly ___ student: not the best in the class and not the worst, with ordinary grades.", "options": ["slow", "average", "brilliant"], "answer": "average", "why": "Ne en iyi ne en kötü, sıradan notlar: ortalama: average."}
+    ]
+  },
+  {
+    "id": "at093",
+    "topic": "Keyif",
+    "pos": "sıfat",
+    "low": "dayanılmaz",
+    "high": "harika",
+    "rungs": [
+      {"en": "unbearable", "tr": "dayanılmaz"},
+      {"en": "tolerable", "tr": "katlanılabilir"},
+      {"en": "pleasant", "tr": "hoş, keyifli"},
+      {"en": "delightful", "tr": "çok hoş, harika"}
+    ],
+    "gap": 1,
+    "hint": "Bir dakika bile katlanılamayan bir durumdan insanın içini açan bir akşama.",
+    "note": "unbearable dayanılmazdır (≈ intolerable). tolerable katlanılabilir, idare eder. pleasant hoş, keyifli: a pleasant evening. delightful çok hoş, harika.",
+    "context": [
+      {"text": "The heat in the crowded room was ___; several people fainted.", "options": ["unbearable", "pleasant", "delightful"], "answer": "unbearable", "why": "İnsanları bayıltan sıcak dayanılmazdır: unbearable."},
+      {"text": "We spent a ___ evening with old friends, laughing and sharing wonderful memories.", "options": ["unbearable", "tolerable", "delightful"], "answer": "delightful", "why": "Kahkahalar ve güzel anılarla dolu bir akşam çok hoştur: delightful."}
+    ]
+  },
+  {
+    "id": "at094",
+    "topic": "Alay",
+    "pos": "fiil",
+    "low": "takılmak",
+    "high": "rezil etmek",
+    "rungs": [
+      {"en": "tease", "tr": "şaka yollu takılmak"},
+      {"en": "mock", "tr": "alay etmek"},
+      {"en": "insult", "tr": "hakaret etmek"},
+      {"en": "humiliate", "tr": "küçük düşürmek, rezil etmek"}
+    ],
+    "gap": 2,
+    "hint": "Arkadaşça bir takılmadan birini herkesin önünde yerin dibine sokmaya.",
+    "note": "tease şaka yollu takılmaktır; çoğu zaman sevgiyle yapılır. mock alay etmek, dalga geçmek. insult hakaret etmek. humiliate küçük düşürmek, rezil etmektir; en ağır olanı: a humiliating defeat.",
+    "context": [
+      {"text": "My brothers always ___ me about my curly hair, but it's just friendly fun.", "options": ["tease", "insult", "humiliate"], "answer": "tease", "why": "'friendly fun' (dostça eğlence) şaka yollu takılmaktır: tease."},
+      {"text": "The manager ___ the young employee by shouting at her in front of the whole company until she cried.", "options": ["teased", "mocked", "humiliated"], "answer": "humiliated", "why": "Bütün şirketin önünde ağlatana kadar bağırmak küçük düşürmektir: humiliate."}
+    ]
+  },
+  {
+    "id": "at095",
+    "topic": "Yeterlilik",
+    "pos": "sıfat",
+    "low": "yetersiz",
+    "high": "aşırı",
+    "rungs": [
+      {"en": "insufficient", "tr": "yetersiz"},
+      {"en": "sufficient", "tr": "yeterli"},
+      {"en": "ample", "tr": "fazlasıyla yeterli, bol"},
+      {"en": "excessive", "tr": "aşırı"}
+    ],
+    "gap": 2,
+    "hint": "İhtiyacı karşılamayan bir miktardan gereğinden fazlasına. 'Yetmek' ile 'aşırı' arasında bir basamak var.",
+    "note": "insufficient yetersiz. sufficient yeterli (≈ adequate, enough). ample fazlasıyla yeterli, bol: ample time. excessive aşırı, gereğinden fazla: excessive drinking.",
+    "context": [
+      {"text": "The court dismissed the case because there was ___ evidence to convict him.", "options": ["insufficient", "ample", "excessive"], "answer": "insufficient", "why": "Dava düşürüldüyse kanıt yetersizdir: insufficient."},
+      {"text": "Doctors warn that ___ use of painkillers can seriously damage the liver.", "options": ["insufficient", "sufficient", "excessive"], "answer": "excessive", "why": "Karaciğere zarar veren kullanım gereğinden fazlasıdır: excessive."}
+    ]
+  },
+  {
+    "id": "at096",
+    "topic": "Zafer farkı",
+    "pos": "sıfat",
+    "low": "kıl payı",
+    "high": "ezici",
+    "rungs": [
+      {"en": "narrow", "tr": "kıl payı"},
+      {"en": "comfortable", "tr": "rahat, farkla"},
+      {"en": "decisive", "tr": "kesin, belirleyici"},
+      {"en": "overwhelming", "tr": "ezici"}
+    ],
+    "gap": 2,
+    "hint": "Tek oyla kazanılmış bir seçimden rakibin ortadan silindiği bir zafere.",
+    "note": "narrow victory kıl payı zaferdir. comfortable rahat, farkla. decisive kesin, sonucu belirleyen: a decisive victory. overwhelming ezici: an overwhelming majority.",
+    "context": [
+      {"text": "The government won the vote by a ___ margin of just two votes.", "options": ["narrow", "decisive", "overwhelming"], "answer": "narrow", "why": "Yalnızca iki oy fark kıl payıdır: a narrow margin."},
+      {"text": "The party's victory was ___: it took 90% of the seats in parliament.", "options": ["narrow", "comfortable", "overwhelming"], "answer": "overwhelming", "why": "Meclisin %90'ı ezici bir zaferdir: overwhelming."}
+    ]
+  },
+  {
+    "id": "at097",
+    "topic": "Bakış",
+    "pos": "fiil",
+    "low": "göz atmak",
+    "high": "gözünü dikmek",
+    "rungs": [
+      {"en": "glance", "tr": "göz atmak"},
+      {"en": "look", "tr": "bakmak"},
+      {"en": "gaze", "tr": "uzun uzun bakmak"},
+      {"en": "stare", "tr": "gözünü dikip bakmak"}
+    ],
+    "gap": 2,
+    "hint": "Saatine bir anlığına göz atmaktan birine gözünü dikip bakmaya.",
+    "note": "glance kısa bir göz atmaktır: glance at your watch. look bakmak. gaze hayranlıkla ya da düşünceli, uzun uzun bakmaktır: gaze at the stars. stare gözünü kırpmadan, dikerek bakmaktır; çoğu zaman kaba ya da şaşkın: Don't stare at people!",
+    "context": [
+      {"text": "She ___ at her watch quickly and realised she was late.", "options": ["glanced", "gazed", "stared"], "answer": "glanced", "why": "'quickly' kısa bir göz atmaktır: glance."},
+      {"text": "It's rude to ___ at people on the bus; it makes them feel uncomfortable.", "options": ["glance", "look", "stare"], "answer": "stare", "why": "Kaba bulunan ve rahatsız eden bakış gözünü dikip bakmaktır: stare."}
+    ]
+  },
+  {
+    "id": "at098",
+    "topic": "Ekonomik daralma",
+    "pos": "isim",
+    "low": "yavaşlama",
+    "high": "çöküş",
+    "rungs": [
+      {"en": "slowdown", "tr": "yavaşlama"},
+      {"en": "recession", "tr": "durgunluk, resesyon"},
+      {"en": "depression", "tr": "buhran"},
+      {"en": "collapse", "tr": "çöküş"}
+    ],
+    "gap": 2,
+    "hint": "Büyümenin biraz yavaşlamasından bütün sistemin çökmesine. 1929'daki 'Büyük …' hangi basamakta?",
+    "note": "slowdown büyümenin yavaşlamasıdır. recession ekonominin küçülmesi, durgunluktur (iki çeyrek üst üste daralma). depression uzun ve derin buhrandır: the Great Depression (1929). collapse çöküştür: the collapse of the banking system.",
+    "context": [
+      {"text": "Growth fell from 5% to 3%: a ___, but not yet a recession.", "options": ["slowdown", "depression", "collapse"], "answer": "slowdown", "why": "Büyüme sürüyor ama yavaşladı ve cümle 'henüz resesyon değil' diyor: slowdown."},
+      {"text": "The sudden ___ of the country's banking system wiped out people's savings overnight.", "options": ["slowdown", "recession", "collapse"], "answer": "collapse", "why": "Birikimleri bir gecede silen ani olay çöküştür: collapse."}
+    ]
+  },
+  {
+    "id": "at099",
+    "topic": "Ekonomik büyüme",
+    "pos": "sıfat",
+    "low": "yerinde sayan",
+    "high": "patlama yaşayan",
+    "rungs": [
+      {"en": "stagnant", "tr": "durgun, yerinde sayan"},
+      {"en": "sluggish", "tr": "ağır aksak"},
+      {"en": "steady", "tr": "istikrarlı"},
+      {"en": "booming", "tr": "patlama yaşayan"}
+    ],
+    "gap": 1,
+    "hint": "Kıpırdamayan bir ekonomiden patlama yaşayan bir piyasaya.",
+    "note": "stagnant yerinde sayan, durgundur (durgun su: stagnant water). sluggish ağır aksak, yavaştır: sluggish growth. steady istikrarlı, düzenli. booming patlama yaşayan, hızla büyüyendir: a booming tourist industry.",
+    "context": [
+      {"text": "Wages have been ___ for ten years; they haven't risen at all.", "options": ["stagnant", "steady", "booming"], "answer": "stagnant", "why": "On yıldır hiç artmayan ücretler yerinde sayar: stagnant."},
+      {"text": "Thanks to the ___ tourist industry, new hotels are opening every month.", "options": ["stagnant", "sluggish", "booming"], "answer": "booming", "why": "Her ay yeni otel açılması patlama yaşayan bir sektörü gösterir: booming."}
+    ]
+  },
+  {
+    "id": "at100",
+    "topic": "Eskime (eşya)",
+    "pos": "sıfat",
+    "low": "yepyeni",
+    "high": "lime lime",
+    "rungs": [
+      {"en": "brand-new", "tr": "yepyeni"},
+      {"en": "worn", "tr": "eskimiş, yıpranmış"},
+      {"en": "shabby", "tr": "eski püskü"},
+      {"en": "tattered", "tr": "lime lime, yırtık pırtık"}
+    ],
+    "gap": 2,
+    "hint": "Etiketi üstünde bir ceketten lime lime olmuş bir paçavraya.",
+    "note": "brand-new yepyenidir. worn kullanılmaktan eskimiştir: worn shoes, worn-out. shabby eski püskü, bakımsız görünendir: a shabby coat. tattered yırtık pırtık, lime limedir: a tattered flag.",
+    "context": [
+      {"text": "He wore a ___ suit that still had the price tag attached.", "options": ["brand-new", "shabby", "tattered"], "answer": "brand-new", "why": "Fiyat etiketi hâlâ üstünde olan takım yepyenidir: brand-new."},
+      {"text": "The old flag was ___, torn into long strips by decades of wind.", "options": ["brand-new", "worn", "tattered"], "answer": "tattered", "why": "Rüzgârdan uzun şeritler hâlinde yırtılmış bayrak lime limedir: tattered."}
+    ]
+  },
+  {
+    "id": "at101",
+    "topic": "Salgın",
+    "pos": "isim",
+    "low": "tek vaka",
+    "high": "küresel salgın",
+    "rungs": [
+      {"en": "case", "tr": "vaka"},
+      {"en": "outbreak", "tr": "salgının patlak vermesi"},
+      {"en": "epidemic", "tr": "salgın"},
+      {"en": "pandemic", "tr": "küresel salgın"}
+    ],
+    "gap": 2,
+    "hint": "Tek bir hastadan bütün dünyayı saran bir salgına. Coğrafi yayılım arttıkça kelime değişiyor.",
+    "note": "case tek vakadır. outbreak bir hastalığın bir yerde aniden patlak vermesidir: an outbreak of measles. epidemic bir ülke ya da bölgeye yayılan salgın. pandemic kıtaları, dünyayı saran küresel salgındır: the COVID-19 pandemic.",
+    "context": [
+      {"text": "Doctors reported the first ___ of the disease in a small village; only one person was infected.", "options": ["case", "epidemic", "pandemic"], "answer": "case", "why": "Yalnızca bir kişinin enfekte olması tek vakadır: case."},
+      {"text": "Within a few months, the ___ had spread to almost every country in the world.", "options": ["case", "outbreak", "pandemic"], "answer": "pandemic", "why": "Neredeyse bütün ülkelere yayılan salgın küreseldir: pandemic."}
+    ]
+  },
+  {
+    "id": "at102",
+    "topic": "Ölçek",
+    "pos": "sıfat",
+    "low": "yerel",
+    "high": "küresel",
+    "rungs": [
+      {"en": "local", "tr": "yerel"},
+      {"en": "regional", "tr": "bölgesel"},
+      {"en": "national", "tr": "ulusal"},
+      {"en": "global", "tr": "küresel"}
+    ],
+    "gap": 2,
+    "hint": "Bir mahalleden bütün dünyaya: bir haberin, bir sorunun ya da bir şirketin etki alanı.",
+    "note": "local yerel: local elections. regional bölgesel. national ulusal: national parks. global küresel (≈ worldwide): global warming.",
+    "context": [
+      {"text": "The ___ council has decided to repair the roads in our neighbourhood.", "options": ["local", "national", "global"], "answer": "local", "why": "Mahallemizin yollarıyla ilgilenen belediye yereldir: the local council."},
+      {"text": "Climate change is a ___ problem that no single country can solve alone.", "options": ["local", "regional", "global"], "answer": "global", "why": "Tek bir ülkenin çözemeyeceği sorun dünya ölçeğindedir: global."}
+    ]
+  },
+  {
+    "id": "at103",
+    "topic": "Karşılanma",
+    "pos": "sıfat",
+    "low": "düşmanca",
+    "high": "coşkulu",
+    "rungs": [
+      {"en": "hostile", "tr": "düşmanca"},
+      {"en": "lukewarm", "tr": "gönülsüz, soğuk"},
+      {"en": "warm", "tr": "sıcak, samimi"},
+      {"en": "enthusiastic", "tr": "coşkulu"}
+    ],
+    "gap": 1,
+    "hint": "Bir fikrin yuhalanmasından ayakta alkışlanmasına. Suyun sıcaklığını anlatan bir kelime burada 'gönülsüz ilgi' demek.",
+    "note": "hostile düşmancadır: a hostile reaction. lukewarm (ılık) mecazen isteksiz, gönülsüz: a lukewarm response. warm sıcak, samimi: a warm welcome. enthusiastic coşkulu.",
+    "context": [
+      {"text": "The new plan received a ___ reaction from employees, who were angry and refused to cooperate.", "options": ["hostile", "warm", "enthusiastic"], "answer": "hostile", "why": "Öfkeli ve iş birliğini reddeden çalışanların tepkisi düşmancadır: hostile."},
+      {"text": "The fans gave the singer a truly ___ welcome, cheering, singing and waving flags for an hour.", "options": ["hostile", "lukewarm", "enthusiastic"], "answer": "enthusiastic", "why": "Bir saat boyunca tezahürat, şarkı ve bayrak: coşkulu bir karşılama: enthusiastic."}
+    ]
+  },
+  {
+    "id": "at104",
+    "topic": "Genişlik",
+    "pos": "sıfat",
+    "low": "dar",
+    "high": "uçsuz bucaksız",
+    "rungs": [
+      {"en": "narrow", "tr": "dar"},
+      {"en": "wide", "tr": "geniş"},
+      {"en": "broad", "tr": "enli, geniş"},
+      {"en": "vast", "tr": "uçsuz bucaksız"}
+    ],
+    "gap": 2,
+    "hint": "İki arabanın yan yana geçemeyeceği bir sokaktan ufka kadar uzanan bir çöle.",
+    "note": "narrow dar. wide geniş (ölçü: 3 metres wide). broad enli, geniş; mecazen 'kapsamlı': a broad range. vast uçsuz bucaksız, muazzam: the vast desert; YDS'de sık.",
+    "context": [
+      {"text": "The street was so ___ that two cars couldn't pass each other.", "options": ["narrow", "broad", "vast"], "answer": "narrow", "why": "İki arabanın yan yana geçemediği sokak dardır: narrow."},
+      {"text": "The Sahara is a ___ desert, almost as large as the whole of the United States.", "options": ["narrow", "wide", "vast"], "answer": "vast", "why": "Neredeyse ABD kadar büyük bir çöl uçsuz bucaksızdır: vast."}
+    ]
+  },
+  {
+    "id": "at105",
+    "topic": "Harcama tutumu",
+    "pos": "sıfat",
+    "low": "cimri",
+    "high": "savurgan",
+    "rungs": [
+      {"en": "stingy", "tr": "cimri"},
+      {"en": "thrifty", "tr": "tutumlu, idareli"},
+      {"en": "generous", "tr": "cömert"},
+      {"en": "extravagant", "tr": "savurgan"}
+    ],
+    "gap": 1,
+    "hint": "Beş kuruşa kıyamayan birinden parayı sokağa saçan birine. Olumlu tutumluluk nerede duruyor?",
+    "note": "stingy cimridir (olumsuz, ≈ mean). thrifty tutumlu, idarelidir (olumlu). generous cömert. extravagant savurgan, müsriftir: extravagant spending. Aynı davranışı stingy yerer, thrifty över.",
+    "context": [
+      {"text": "He's so ___ that he never buys anyone a drink, even though he earns a lot of money.", "options": ["stingy", "generous", "extravagant"], "answer": "stingy", "why": "Çok kazandığı hâlde kimseye bir içki bile ısmarlamamak cimriliktir: stingy."},
+      {"text": "Buying a new sports car every year is ___ for someone with such a modest income.", "options": ["stingy", "thrifty", "extravagant"], "answer": "extravagant", "why": "Mütevazı bir gelirle her yıl spor araba almak savurganlıktır: extravagant."}
+    ]
+  },
+  {
+    "id": "at106",
+    "topic": "Özgüven",
+    "pos": "sıfat",
+    "low": "utangaç",
+    "high": "kibirli",
+    "rungs": [
+      {"en": "shy", "tr": "utangaç"},
+      {"en": "modest", "tr": "alçakgönüllü"},
+      {"en": "confident", "tr": "kendinden emin"},
+      {"en": "arrogant", "tr": "kibirli"}
+    ],
+    "gap": 1,
+    "hint": "Kalabalıkta sesini çıkaramayan birinden kendini herkesten üstün gören birine.",
+    "note": "shy utangaç. modest alçakgönüllü, başarısıyla övünmeyen (olumlu). confident kendinden emin. arrogant kibirli, kendini üstün gören (olumsuz). YDS'de modest 'ölçülü, mütevazı' anlamıyla da çıkar: a modest increase.",
+    "context": [
+      {"text": "The ___ boy blushed and hid behind his mother whenever strangers spoke to him.", "options": ["shy", "confident", "arrogant"], "answer": "shy", "why": "Yabancılar konuşunca kızarıp annesinin arkasına saklanan çocuk utangaçtır: shy."},
+      {"text": "He's so ___ that he thinks he's always right and never listens to anyone else's opinion.", "options": ["shy", "modest", "arrogant"], "answer": "arrogant", "why": "Hep haklı olduğunu sanıp kimseyi dinlememek kibirdir: arrogant."}
+    ]
+  },
+  {
+    "id": "at107",
+    "topic": "Değişimin büyüklüğü",
+    "pos": "sıfat",
+    "low": "hafif",
+    "high": "çarpıcı",
+    "rungs": [
+      {"en": "slight", "tr": "hafif, çok küçük"},
+      {"en": "noticeable", "tr": "fark edilir"},
+      {"en": "marked", "tr": "belirgin"},
+      {"en": "dramatic", "tr": "çarpıcı, çok büyük"}
+    ],
+    "gap": 2,
+    "hint": "Ölçmeden fark edilmeyen bir kıpırdanmadan herkesin konuştuğu büyük bir değişime.",
+    "note": "slight hafif, çok küçüktür: a slight increase. noticeable fark edilir. marked belirgin, açıktır (akademik dilde sık): a marked improvement. dramatic çarpıcı, çok büyük ve ani: a dramatic fall in prices.",
+    "context": [
+      {"text": "There was only a ___ change in temperature, less than half a degree.", "options": ["slight", "marked", "dramatic"], "answer": "slight", "why": "Yarım dereceden az değişim çok küçüktür: slight."},
+      {"text": "The new law led to a ___ drop in road deaths, from 5,000 to 500 a year.", "options": ["slight", "noticeable", "dramatic"], "answer": "dramatic", "why": "Onda birine inen ölüm sayısı çarpıcı bir düşüştür: dramatic."}
+    ]
+  },
+  {
+    "id": "at108",
+    "topic": "Vücut ağırlığı",
+    "pos": "sıfat",
+    "low": "normalin altında",
+    "high": "obez",
+    "rungs": [
+      {"en": "underweight", "tr": "normalin altında kilolu"},
+      {"en": "slim", "tr": "ince, fit"},
+      {"en": "overweight", "tr": "fazla kilolu"},
+      {"en": "obese", "tr": "obez"}
+    ],
+    "gap": 2,
+    "hint": "Doktorların kullandığı vücut ağırlığı ölçeği: normalin altından sağlığı tehdit eden fazlalığa.",
+    "note": "underweight normalin altında kilodur. slim ince, fit (olumlu); thin nötr, skinny olumsuz 'sıska'. overweight fazla kilolu. obese obez: sağlığı tehdit edecek ölçüde fazla kilolu (tıbbi terim).",
+    "context": [
+      {"text": "Doctors are worried because many young fashion models are dangerously ___.", "options": ["underweight", "overweight", "obese"], "answer": "underweight", "why": "Mankenler için tehlikeli olan aşırı zayıflıktır: dangerously underweight."},
+      {"text": "People who are ___ have a much higher risk of heart disease and diabetes; their weight is a serious medical problem.", "options": ["underweight", "slim", "obese"], "answer": "obese", "why": "Ciddi bir tıbbi sorun hâline gelen fazla kilo obeziteyi gösterir: obese."}
+    ]
+  },
+  {
+    "id": "at109",
+    "topic": "Yaş dönemi",
+    "pos": "isim",
+    "low": "bebek",
+    "high": "yetişkin",
+    "rungs": [
+      {"en": "infant", "tr": "bebek"},
+      {"en": "child", "tr": "çocuk"},
+      {"en": "adolescent", "tr": "ergen"},
+      {"en": "adult", "tr": "yetişkin"}
+    ],
+    "gap": 2,
+    "hint": "Kundaktaki bebekten kendi hayatını kuran bir yetişkine. Akademik metinlerin 'teenager' yerine kullandığı kelime hangisi?",
+    "note": "infant bebektir (tıbbi ve resmî: infant mortality = bebek ölümleri). child çocuk. adolescent ergendir (resmî; ≈ teenager), ismi adolescence (ergenlik). adult yetişkin.",
+    "context": [
+      {"text": "___ mortality has fallen sharply thanks to vaccines and better care for newborn babies.", "options": ["Infant", "Adolescent", "Adult"], "answer": "Infant", "why": "Yenidoğan bakımıyla düşen ölüm oranı bebek ölümleridir: infant mortality."},
+      {"text": "Every citizen over 18 is considered an ___ and has the right to vote.", "options": ["infant", "adolescent", "adult"], "answer": "adult", "why": "18 yaşını geçip oy hakkı kazanan kişi yetişkindir: adult."}
+    ]
+  },
+  {
+    "id": "at110",
+    "topic": "Bilginin sağlamlığı",
+    "pos": "isim",
+    "low": "tahmin",
+    "high": "kesin kanıt",
+    "rungs": [
+      {"en": "speculation", "tr": "dayanaksız tahmin"},
+      {"en": "claim", "tr": "iddia"},
+      {"en": "evidence", "tr": "kanıt, delil"},
+      {"en": "proof", "tr": "kesin kanıt, ispat"}
+    ],
+    "gap": 1,
+    "hint": "Kulaktan dolma bir tahminden tartışmayı bitiren kesin kanıta. Akademik yazının en önemli ayrımlarından biri.",
+    "note": "speculation dayanaksız tahmindir. claim iddia; kanıtı olmayabilir. evidence kanıt, delildir (sayılamaz: a piece of evidence). proof kesin kanıt, ispattır ve tartışmayı bitirir. YDS'de evidence ≠ proof: evidence destekler, proof kanıtlar.",
+    "context": [
+      {"text": "The newspaper story was pure ___; the journalist had no facts to support it.", "options": ["speculation", "evidence", "proof"], "answer": "speculation", "why": "Hiçbir olguya dayanmayan haber tahminden ibarettir: pure speculation."},
+      {"text": "The DNA test provided ___ that he was the father; there was no longer any doubt.", "options": ["speculation", "claim", "proof"], "answer": "proof", "why": "'artık hiç şüphe kalmadı' kesin kanıttır: proof."}
+    ]
+  },
+  {
+    "id": "at111",
+    "topic": "Düzen",
+    "pos": "sıfat",
+    "low": "derli toplu",
+    "high": "kaotik",
+    "rungs": [
+      {"en": "neat", "tr": "derli toplu"},
+      {"en": "untidy", "tr": "dağınık"},
+      {"en": "messy", "tr": "darmadağın"},
+      {"en": "chaotic", "tr": "kaotik, tam kargaşa"}
+    ],
+    "gap": 2,
+    "hint": "Her şeyin yerli yerinde olduğu bir masadan neyin nerede olduğu belli olmayan bir kargaşaya.",
+    "note": "neat derli toplu, düzenlidir (≈ tidy). untidy dağınık. messy darmadağın, hem dağınık hem kirli. chaotic kaotik, tam bir kargaşa: chaotic traffic.",
+    "context": [
+      {"text": "Her desk is always ___: every pen and every piece of paper is in its proper place.", "options": ["neat", "messy", "chaotic"], "answer": "neat", "why": "Her şeyin yerli yerinde olması derli topluluktur: neat."},
+      {"text": "On the first day of the sale, the scene in the shop was ___: people were pushing, shouting and grabbing things.", "options": ["neat", "untidy", "chaotic"], "answer": "chaotic", "why": "İtişip bağıran, eşya kapışan insanlar tam bir kargaşadır: chaotic."}
+    ]
+  },
+  {
+    "id": "at112",
+    "topic": "Tempo",
+    "pos": "sıfat",
+    "low": "acelesiz",
+    "high": "çılgın telaş",
+    "rungs": [
+      {"en": "leisurely", "tr": "acelesiz, keyifli"},
+      {"en": "steady", "tr": "düzenli, sabit"},
+      {"en": "brisk", "tr": "canlı, tempolu"},
+      {"en": "frantic", "tr": "çılgınca, telaşlı"}
+    ],
+    "gap": 2,
+    "hint": "Pazar sabahı kahvaltısının rahatlığından son dakika telaşına.",
+    "note": "leisurely acelesiz, keyiflidir: a leisurely breakfast. steady düzenli, sabit tempolu. brisk canlı, tempolu, dinçtir: a brisk walk. frantic çılgınca, telaş içindedir: frantic efforts.",
+    "context": [
+      {"text": "We had a ___ breakfast on the terrace, with no need to hurry anywhere.", "options": ["leisurely", "brisk", "frantic"], "answer": "leisurely", "why": "'hiçbir yere acele etmeye gerek yok' acelesiz bir kahvaltıdır: leisurely."},
+      {"text": "With only ten minutes before the deadline, there was a ___ rush to finish the report.", "options": ["leisurely", "steady", "frantic"], "answer": "frantic", "why": "Son on dakikada raporu yetiştirme koşuşturması çılgın bir telaştır: frantic."}
+    ]
+  },
+  {
+    "id": "at113",
+    "topic": "Zamanlama",
+    "pos": "zarf",
+    "low": "hemen",
+    "high": "en sonunda",
+    "rungs": [
+      {"en": "immediately", "tr": "hemen, derhal"},
+      {"en": "shortly", "tr": "birazdan"},
+      {"en": "later", "tr": "daha sonra"},
+      {"en": "eventually", "tr": "sonunda, nihayetinde"}
+    ],
+    "gap": 2,
+    "hint": "'Hemen şimdi'den 'uzun bir aradan sonra, en sonunda'ya.",
+    "note": "immediately hemen, derhal. shortly birazdan, az sonra (≈ soon). later daha sonra. eventually uzun bir süre ya da çabadan sonra, sonunda: Eventually, he agreed. TUZAK: eventually 'muhtemelen' değil, 'nihayetinde' demektir.",
+    "context": [
+      {"text": "Call an ambulance ___! He's not breathing!", "options": ["immediately", "later", "eventually"], "answer": "immediately", "why": "Nefes almayan biri için ambulans derhal çağrılır: immediately."},
+      {"text": "After years of failed attempts, they ___ managed to reach the summit.", "options": ["immediately", "shortly", "eventually"], "answer": "eventually", "why": "Yıllarca başarısız denemeden sonra gelen başarı 'en sonunda'dır: eventually."}
+    ]
+  },
+  {
+    "id": "at114",
+    "topic": "Tahminin gücü",
+    "pos": "kip",
+    "low": "belki",
+    "high": "kesin",
+    "rungs": [
+      {"en": "might", "tr": "belki (zayıf ihtimal)"},
+      {"en": "may", "tr": "olabilir"},
+      {"en": "should", "tr": "büyük ihtimalle"},
+      {"en": "will", "tr": "kesinlikle"}
+    ],
+    "gap": 1,
+    "hint": "'Belki'den 'kesin'e: bir tahminin gücü kipten okunur. might ile may çok yakın; biri biraz daha zayıf.",
+    "note": "might zayıf bir ihtimaldir; may biraz daha güçlü. should beklenen, büyük ihtimalle olacak şeydir: The parcel should arrive tomorrow. will kesinlik bildirir. YDS'de asıl ayrım might/may (belki) ile should/will (beklenti, kesinlik) arasındadır.",
+    "context": [
+      {"text": "Take an umbrella; it ___ rain later, although it doesn't look very likely.", "options": ["might", "should", "will"], "answer": "might", "why": "'pek olası görünmüyor' zayıf bir ihtimaldir: might. should ve will güçlü beklenti bildirir."},
+      {"text": "At sea level, pure water ___ always boil at 100°C; this is a scientific fact.", "options": ["might", "may", "will"], "answer": "will", "why": "'always' ve 'bilimsel gerçek' kesinliktir: will."}
+    ]
+  },
+  {
+    "id": "at115",
+    "topic": "Bağlılık",
+    "pos": "sıfat",
+    "low": "gönülsüz",
+    "high": "bağnaz",
+    "rungs": [
+      {"en": "half-hearted", "tr": "gönülsüz, yarım ağızla"},
+      {"en": "committed", "tr": "kendini bağlamış"},
+      {"en": "dedicated", "tr": "kendini adamış, özverili"},
+      {"en": "fanatical", "tr": "fanatik, bağnaz"}
+    ],
+    "gap": 2,
+    "hint": "İçinden gelmeyen yarım yamalak bir çabadan her şeyi gözden çıkaran bir bağnazlığa.",
+    "note": "half-hearted gönülsüz, yarım ağızla yapılandır: a half-hearted attempt. committed kendini bir işe bağlamış kişidir. dedicated kendini adamış, özverili: a dedicated teacher. fanatical fanatik, bağnazdır: aşırı ve akıl dışı bir bağlılık.",
+    "context": [
+      {"text": "He made a ___ attempt to tidy his room, but it was still a mess an hour later.", "options": ["half-hearted", "dedicated", "fanatical"], "answer": "half-hearted", "why": "Bir saat sonra hâlâ dağınık olan oda yarım yamalak bir çabayı gösterir: half-hearted."},
+      {"text": "Some ___ fans follow their team everywhere and even attack supporters of other clubs.", "options": ["half-hearted", "committed", "fanatical"], "answer": "fanatical", "why": "Rakip taraftarlara saldıracak kadar aşırı bağlılık bağnazlıktır: fanatical."}
+    ]
+  },
+  {
+    "id": "at116",
+    "topic": "Argümanın gücü",
+    "pos": "sıfat",
+    "low": "zayıf",
+    "high": "çürütülemez",
+    "rungs": [
+      {"en": "weak", "tr": "zayıf"},
+      {"en": "convincing", "tr": "ikna edici"},
+      {"en": "compelling", "tr": "güçlü, karşı konulamaz"},
+      {"en": "irrefutable", "tr": "çürütülemez"}
+    ],
+    "gap": 2,
+    "hint": "Kolayca çürütülen bir savdan kimsenin itiraz edemeyeceği bir kanıta.",
+    "note": "weak zayıf. convincing ikna edici. compelling güçlü, insanı kabul etmeye zorlayan: compelling evidence (YDS'de sık). irrefutable çürütülemez, itiraz edilemez: irrefutable proof.",
+    "context": [
+      {"text": "His argument was so ___ that his opponent easily showed it was wrong.", "options": ["weak", "compelling", "irrefutable"], "answer": "weak", "why": "Rakibin kolayca çürüttüğü argüman zayıftır: weak."},
+      {"text": "The video recording was ___ evidence; nobody could deny that he had been at the scene.", "options": ["weak", "convincing", "irrefutable"], "answer": "irrefutable", "why": "'kimse inkâr edemezdi' çürütülemez kanıttır: irrefutable."}
+    ]
+  },
+  {
+    "id": "at117",
+    "topic": "Utanç",
+    "pos": "sıfat",
+    "low": "tuhaf hissetmek",
+    "high": "yerin dibine girmek",
+    "rungs": [
+      {"en": "awkward", "tr": "tuhaf, rahatsız"},
+      {"en": "embarrassed", "tr": "mahcup"},
+      {"en": "humiliated", "tr": "küçük düşmüş, rezil olmuş"},
+      {"en": "mortified", "tr": "yerin dibine girmiş"}
+    ],
+    "gap": 2,
+    "hint": "Hafif bir tuhaflık hissinden yerin dibine girmeye.",
+    "note": "awkward rahatsız, tuhaf, ne yapacağını bilememektir: an awkward silence. embarrassed mahcup, utanmış. humiliated küçük düşmüş, rezil olmuş. mortified yerin dibine girmiş, utançtan ölmek üzeredir (en uç).",
+    "context": [
+      {"text": "After his joke, there was a long, ___ silence, and nobody knew what to say.", "options": ["awkward", "humiliated", "mortified"], "answer": "awkward", "why": "Kimsenin ne diyeceğini bilmediği sessizlik tuhaf ve rahatsızdır: an awkward silence."},
+      {"text": "When she realised that the whole company had heard her complaining about the boss through her microphone, she was absolutely ___.", "options": ["awkward", "embarrassed", "mortified"], "answer": "mortified", "why": "Bütün şirketin patronla ilgili şikâyetini duyması ve 'absolutely' terazinin en ucudur: mortified."}
+    ]
+  },
+  {
+    "id": "at118",
+    "topic": "Olgunluk (meyve)",
+    "pos": "sıfat",
+    "low": "ham",
+    "high": "çürük",
+    "rungs": [
+      {"en": "unripe", "tr": "ham, olmamış"},
+      {"en": "ripe", "tr": "olgun"},
+      {"en": "overripe", "tr": "fazla olmuş"},
+      {"en": "rotten", "tr": "çürük"}
+    ],
+    "gap": 2,
+    "hint": "Dalda yeşil duran bir meyveden çöpe gidecek hâle gelene kadar.",
+    "note": "unripe ham, olmamıştır. ripe olgun, yenecek kıvamdadır; mecazen 'zamanı gelmiş': The time is ripe. overripe fazla olmuş, yumuşamış. rotten çürük; mecazen 'berbat'.",
+    "context": [
+      {"text": "Don't eat those green bananas; they're still ___.", "options": ["unripe", "overripe", "rotten"], "answer": "unripe", "why": "Yeşil ve 'still' (hâlâ) henüz olmamış demektir: unripe."},
+      {"text": "The apples had been left in the sun for weeks and were brown, soft and completely ___, so we threw them all away.", "options": ["unripe", "ripe", "rotten"], "answer": "rotten", "why": "Kahverengileşmiş, çöpe atılan elmalar çürüktür: rotten."}
+    ]
+  },
+  {
+    "id": "at119",
+    "topic": "Pişme derecesi",
+    "pos": "sıfat",
+    "low": "çiğ",
+    "high": "iyi pişmiş",
+    "rungs": [
+      {"en": "raw", "tr": "çiğ"},
+      {"en": "rare", "tr": "az pişmiş"},
+      {"en": "medium", "tr": "orta pişmiş"},
+      {"en": "well-done", "tr": "iyi pişmiş"}
+    ],
+    "gap": 1,
+    "hint": "Hiç ateş görmemiş bir etten içi tamamen pişmiş bir bifteğe: restoranda garsonun sorduğu soru.",
+    "note": "raw çiğ. rare az pişmiş (içi kırmızı). medium orta pişmiş. well-done iyi pişmiş. DİKKAT: rare burada 'nadir' değil, 'az pişmiş' demektir; aynı kelimenin iki farklı anlamı.",
+    "context": [
+      {"text": "In sushi, the fish is often served ___, without any cooking at all.", "options": ["raw", "medium", "well-done"], "answer": "raw", "why": "Hiç pişirilmeden servis edilen balık çiğdir: raw."},
+      {"text": "I don't like any pink in my meat, so I always order my steak ___.", "options": ["raw", "rare", "well-done"], "answer": "well-done", "why": "İçinde hiç pembe kalmasın isteyen kişi eti iyi pişmiş ister: well-done."}
+    ]
+  },
+  {
+    "id": "at120",
+    "topic": "Deniz",
+    "pos": "sıfat",
+    "low": "ayna gibi",
+    "high": "fırtınalı",
+    "rungs": [
+      {"en": "calm", "tr": "durgun, sakin"},
+      {"en": "choppy", "tr": "çırpıntılı"},
+      {"en": "rough", "tr": "çalkantılı"},
+      {"en": "stormy", "tr": "fırtınalı"}
+    ],
+    "gap": 2,
+    "hint": "Ayna gibi bir denizden gemileri limana kapatan fırtınaya.",
+    "note": "calm durgun, sakindir: a calm sea. choppy küçük ve sık dalgalı, çırpıntılı. rough çalkantılı, sert dalgalı: a rough crossing. stormy fırtınalı; mecazen 'fırtınalı ilişki': a stormy relationship.",
+    "context": [
+      {"text": "The sea was perfectly ___, like a mirror, so the children could swim safely.", "options": ["calm", "rough", "stormy"], "answer": "calm", "why": "Ayna gibi deniz durgundur: calm."},
+      {"text": "All ferries were cancelled because the sea was too ___, with huge waves and winds of over 100 km/h.", "options": ["calm", "choppy", "stormy"], "answer": "stormy", "why": "Dev dalgalar ve saatte 100 km'yi aşan rüzgâr fırtınadır: stormy."}
+    ]
+  }
+]
