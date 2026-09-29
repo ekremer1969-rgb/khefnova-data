@@ -3918,5 +3918,980 @@
     ],
     "sentence_tr": "Yapacak çok işim var, değil mi?",
     "note": "Amerikan İngilizcesinde ve genel modern gramerde asıl fiil 'have' için 'don't I' tercih edilir."
+  },
+  {
+    "id": "ia_0301",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "It is [highly] likely that prices will rise again.",
+    "answer": "highly",
+    "distractors": [
+      "deeply",
+      "bitterly"
+    ],
+    "sentence_tr": "Fiyatların yeniden artması kuvvetle muhtemel.",
+    "note": "'likely/unlikely' derece bildiren 'highly' ile güçlenir: highly likely, highly unlikely. 'deeply' duygu, 'bitterly' acı ya da soğuk için kullanılır."
+  },
+  {
+    "id": "ia_0302",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "She was [bitterly] disappointed by the final result.",
+    "answer": "bitterly",
+    "distractors": [
+      "widely",
+      "fully"
+    ],
+    "sentence_tr": "Nihai sonuç yüzünden büyük hayal kırıklığına uğradı.",
+    "note": "'bitterly' acı bir hayal kırıklığını vurgular: bitterly disappointed, bitterly regret. 'widely' yaygınlık, 'fully' tamlık bildirir."
+  },
+  {
+    "id": "ia_0303",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Wear a warm coat; it's [bitterly] cold outside.",
+    "answer": "bitterly",
+    "distractors": [
+      "highly",
+      "widely"
+    ],
+    "sentence_tr": "Kalın bir mont giy; dışarısı iliklere işleyecek kadar soğuk.",
+    "note": "Dondurucu soğuk için kalıp 'bitterly cold'dur. 'highly' soyut derece (highly likely), 'widely' yaygınlık bildirir."
+  },
+  {
+    "id": "ia_0304",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "This theory is now [widely] accepted by scientists.",
+    "answer": "widely",
+    "distractors": [
+      "heavily",
+      "bitterly"
+    ],
+    "sentence_tr": "Bu kuram artık bilim insanlarınca yaygın olarak kabul görüyor.",
+    "note": "'widely' 'geniş kesimlerce' demektir: widely accepted, widely used, widely believed."
+  },
+  {
+    "id": "ia_0305",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Fresh fruit is [widely] available in local markets.",
+    "answer": "widely",
+    "distractors": [
+      "deeply",
+      "bitterly"
+    ],
+    "sentence_tr": "Taze meyve yerel pazarlarda her yerde bulunur.",
+    "note": "'widely available' 'her yerde bulunabilir' demektir; 'freely available' ise 'ücretsiz, serbestçe erişilebilir' anlamı taşır."
+  },
+  {
+    "id": "ia_0306",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "Parents are [deeply] concerned about online safety.",
+    "answer": "deeply",
+    "distractors": [
+      "widely",
+      "heavily"
+    ],
+    "sentence_tr": "Ebeveynler çevrim içi güvenlik konusunda derin endişe duyuyor.",
+    "note": "Duygu ve kaygı sıfatları 'deeply' ile güçlenir: deeply concerned, deeply worried, deeply grateful."
+  },
+  {
+    "id": "ia_0307",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "We [deeply] regret any inconvenience caused.",
+    "answer": "deeply",
+    "distractors": [
+      "widely",
+      "highly"
+    ],
+    "sentence_tr": "Yaşanan her türlü aksaklıktan dolayı derin üzüntü duyuyoruz.",
+    "note": "Resmî özürlerde kalıp 'deeply regret'tir; 'bitterly regret' de olur ama 'highly/widely regret' olmaz."
+  },
+  {
+    "id": "ia_0308",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "Their approaches to the problem are [entirely] different.",
+    "answer": "entirely",
+    "distractors": [
+      "highly",
+      "heavily"
+    ],
+    "sentence_tr": "Soruna yaklaşımları tamamen farklı.",
+    "note": "'different' tamlık zarflarıyla güçlenir: entirely, completely, totally different. 'highly different' doğal değildir."
+  },
+  {
+    "id": "ia_0309",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "The island's economy is [heavily] dependent on tourism.",
+    "answer": "heavily",
+    "distractors": [
+      "widely",
+      "bitterly"
+    ],
+    "sentence_tr": "Adanın ekonomisi büyük ölçüde turizme bağımlı.",
+    "note": "Bağımlılık ve etki için 'heavily' kullanılır: heavily dependent, heavily reliant, heavily influenced."
+  },
+  {
+    "id": "ia_0310",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "We are [fully] aware of the risks involved.",
+    "answer": "fully",
+    "distractors": [
+      "heavily",
+      "bitterly"
+    ],
+    "sentence_tr": "İşin içindeki risklerin tamamen farkındayız.",
+    "note": "'aware' tamlık bildiren 'fully' ya da 'well' ile gelir: fully aware, well aware."
+  },
+  {
+    "id": "ia_0311",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "She is [well] aware of the dangers of smoking.",
+    "answer": "well",
+    "distractors": [
+      "heavily",
+      "widely"
+    ],
+    "sentence_tr": "Sigaranın tehlikelerinin gayet farkında.",
+    "note": "'well aware' 'gayet farkında' demektir; burada 'well' iyi anlamında değil, derece bildiren zarftır."
+  },
+  {
+    "id": "ia_0312",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "I [strongly] recommend booking your tickets early.",
+    "answer": "strongly",
+    "distractors": [
+      "bitterly",
+      "heavily"
+    ],
+    "sentence_tr": "Biletlerinizi erken almanızı şiddetle tavsiye ederim.",
+    "note": "Tavsiye ve destek fiilleri 'strongly' ile güçlenir: strongly recommend, strongly support. 'highly recommend' da doğrudur."
+  },
+  {
+    "id": "ia_0313",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Two people were [seriously] injured in the accident.",
+    "answer": "seriously",
+    "distractors": [
+      "highly",
+      "widely"
+    ],
+    "sentence_tr": "Kazada iki kişi ağır yaralandı.",
+    "note": "Yaralanma ve hastalıkta 'seriously' kullanılır: seriously injured, seriously ill. 'badly injured' da olur."
+  },
+  {
+    "id": "ia_0314",
+    "topic": "adj_adv",
+    "level": 5,
+    "sentence": "Progress on the new bridge has been [painfully] slow.",
+    "answer": "painfully",
+    "distractors": [
+      "highly",
+      "widely"
+    ],
+    "sentence_tr": "Yeni köprüdeki ilerleme can sıkıcı derecede yavaş oldu.",
+    "note": "'painfully' olumsuz bir niteliği 'insanı üzecek kadar' güçlendirir: painfully slow, painfully shy, painfully obvious."
+  },
+  {
+    "id": "ia_0315",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "It is [perfectly] normal to feel nervous before exams.",
+    "answer": "perfectly",
+    "distractors": [
+      "highly",
+      "heavily"
+    ],
+    "sentence_tr": "Sınavlardan önce gergin hissetmek son derece normaldir.",
+    "note": "'perfectly' 'tamamen' anlamında olumlu ya da nötr sıfatları güçlendirir: perfectly normal, perfectly clear, perfectly safe."
+  },
+  {
+    "id": "ia_0316",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "The new vaccine proved [highly] effective against the virus.",
+    "answer": "highly",
+    "distractors": [
+      "deeply",
+      "bitterly"
+    ],
+    "sentence_tr": "Yeni aşı virüse karşı son derece etkili çıktı.",
+    "note": "Başarı, etki ve nitelik sıfatları 'highly' ile güçlenir: highly effective, highly successful, highly qualified."
+  },
+  {
+    "id": "ia_0317",
+    "topic": "adj_adv",
+    "level": 5,
+    "sentence": "Without a map, we were [hopelessly] lost in the old city.",
+    "answer": "hopelessly",
+    "distractors": [
+      "highly",
+      "widely"
+    ],
+    "sentence_tr": "Harita olmadan eski şehirde çaresizce kaybolmuştuk.",
+    "note": "'hopelessly' 'umutsuzca, çaresizce' demektir ve olumsuz durumları güçlendirir: hopelessly lost, hopelessly in love."
+  },
+  {
+    "id": "ia_0318",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "Clean water is [vitally] important for public health.",
+    "answer": "vitally",
+    "distractors": [
+      "heavily",
+      "bitterly"
+    ],
+    "sentence_tr": "Temiz su halk sağlığı için hayati derecede önemlidir.",
+    "note": "'important' için güçlü kalıp 'vitally important'tır ('hayati önemde'); 'crucially important' da kullanılır."
+  },
+  {
+    "id": "ia_0319",
+    "topic": "adj_adv",
+    "level": 5,
+    "sentence": "The patient remains [critically] ill in intensive care.",
+    "answer": "critically",
+    "distractors": [
+      "widely",
+      "highly"
+    ],
+    "sentence_tr": "Hasta yoğun bakımda ağır durumda olmaya devam ediyor.",
+    "note": "'critically ill' hayati tehlikeyi anlatır ve 'seriously ill'den daha güçlüdür."
+  },
+  {
+    "id": "ia_0320",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "Poverty and poor health are [closely] linked.",
+    "answer": "closely",
+    "distractors": [
+      "bitterly",
+      "sincerely"
+    ],
+    "sentence_tr": "Yoksulluk ve kötü sağlık birbiriyle yakından bağlantılı.",
+    "note": "İlişki bildiren sıfatlar 'closely' ile gelir: closely linked, closely related, closely connected."
+  },
+  {
+    "id": "ia_0321",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "I [entirely] agree with your analysis of the problem.",
+    "answer": "entirely",
+    "distractors": [
+      "highly",
+      "heavily"
+    ],
+    "sentence_tr": "Soruna ilişkin analizinize tamamen katılıyorum.",
+    "note": "Katılma 'entirely/completely agree' ile güçlenir; 'highly agree' yaygın bir hatadır, doğrusu 'strongly agree'dir."
+  },
+  {
+    "id": "ia_0322",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The old bridge was [badly] damaged by the earthquake.",
+    "answer": "badly",
+    "distractors": [
+      "highly",
+      "sincerely"
+    ],
+    "sentence_tr": "Eski köprü depremde ağır hasar gördü.",
+    "note": "Hasar ve yaralanmada 'badly' 'ağır şekilde' demektir: badly damaged, badly hurt. 'highly damaged' doğal değildir."
+  },
+  {
+    "id": "ia_0323",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "Your help with the event would be [greatly] appreciated.",
+    "answer": "greatly",
+    "distractors": [
+      "heavily",
+      "bitterly"
+    ],
+    "sentence_tr": "Etkinlikteki yardımınız çok makbule geçecektir.",
+    "note": "Resmî teşekkür kalıbı 'greatly appreciated'dır ('çok makbule geçer'); 'much appreciated' da olur."
+  },
+  {
+    "id": "ia_0324",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Online courses are becoming [increasingly] popular.",
+    "answer": "increasingly",
+    "distractors": [
+      "deeply",
+      "heavily"
+    ],
+    "sentence_tr": "Çevrim içi kurslar giderek daha popüler hâle geliyor.",
+    "note": "'increasingly' 'giderek artan biçimde' demektir ve değişim fiilleriyle (become, grow) çok kullanılır."
+  },
+  {
+    "id": "ia_0325",
+    "topic": "adj_adv",
+    "level": 5,
+    "sentence": "After years of hard work, her award was [richly] deserved.",
+    "answer": "richly",
+    "distractors": [
+      "heavily",
+      "bitterly"
+    ],
+    "sentence_tr": "Yıllarca süren emekten sonra ödülü sonuna kadar hak edilmişti.",
+    "note": "'deserved' için kalıplar 'richly deserved' ve 'well deserved'dir ('fazlasıyla hak edilmiş')."
+  },
+  {
+    "id": "ia_0326",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "These customs are [deeply] rooted in local tradition.",
+    "answer": "deeply",
+    "distractors": [
+      "highly",
+      "widely"
+    ],
+    "sentence_tr": "Bu adetler yerel geleneğe derinden kök salmış.",
+    "note": "Mecazi 'kök salmış' anlamında 'rooted' 'deeply' ya da 'firmly' ile gelir."
+  },
+  {
+    "id": "ia_0327",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "The company is looking for [highly] qualified engineers.",
+    "answer": "highly",
+    "distractors": [
+      "deeply",
+      "bitterly"
+    ],
+    "sentence_tr": "Şirket yüksek nitelikli mühendisler arıyor.",
+    "note": "Nitelik ve beceri sıfatları 'highly' alır: highly qualified, highly skilled, highly trained."
+  },
+  {
+    "id": "ia_0328",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "Tokyo is one of the most [densely] populated cities.",
+    "answer": "densely",
+    "distractors": [
+      "deeply",
+      "widely"
+    ],
+    "sentence_tr": "Tokyo nüfus yoğunluğu en yüksek şehirlerden biridir.",
+    "note": "Nüfus yoğunluğu için kalıp 'densely populated'dır; tersi 'sparsely populated'dır."
+  },
+  {
+    "id": "ia_0329",
+    "topic": "adj_adv",
+    "level": 5,
+    "sentence": "The job market is [fiercely] competitive these days.",
+    "answer": "fiercely",
+    "distractors": [
+      "sincerely",
+      "widely"
+    ],
+    "sentence_tr": "Bugünlerde iş piyasası kıyasıya rekabetçi.",
+    "note": "'competitive' için güçlü kalıplar 'fiercely competitive' ve 'highly competitive'dir; fiercely 'kıyasıya' demektir."
+  },
+  {
+    "id": "ia_0330",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "I [firmly] believe that education can change lives.",
+    "answer": "firmly",
+    "distractors": [
+      "heavily",
+      "bitterly"
+    ],
+    "sentence_tr": "Eğitimin hayatları değiştirebileceğine kesinlikle inanıyorum.",
+    "note": "İnanç ve kanaat 'firmly/strongly believe' ile güçlenir; 'firmly' sarsılmazlık bildirir."
+  },
+  {
+    "id": "ia_0331",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "We [sincerely] hope you enjoy your stay with us.",
+    "answer": "sincerely",
+    "distractors": [
+      "heavily",
+      "widely"
+    ],
+    "sentence_tr": "Bizimle geçireceğiniz süreden keyif almanızı içtenlikle umuyoruz.",
+    "note": "Resmî dilek ve özürlerde 'sincerely' kullanılır: sincerely hope, sincerely apologise."
+  },
+  {
+    "id": "ia_0332",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "Smoking is [strictly] forbidden inside the building.",
+    "answer": "strictly",
+    "distractors": [
+      "heavily",
+      "deeply"
+    ],
+    "sentence_tr": "Binanın içinde sigara içmek kesinlikle yasaktır.",
+    "note": "Kural ve yasaklar 'strictly' ile güçlenir: strictly forbidden, strictly prohibited, strictly confidential."
+  },
+  {
+    "id": "ia_0333",
+    "topic": "adj_adv",
+    "level": 5,
+    "sentence": "His estimate of the costs was [wildly] inaccurate.",
+    "answer": "wildly",
+    "distractors": [
+      "deeply",
+      "heavily"
+    ],
+    "sentence_tr": "Maliyet tahmini gerçeklerden fersah fersah uzaktı.",
+    "note": "'wildly' 'aşırı, çılgınca' demektir: wildly inaccurate, wildly popular, wildly exaggerated."
+  },
+  {
+    "id": "ia_0334",
+    "topic": "adj_adv",
+    "level": 5,
+    "sentence": "He was [blissfully] unaware of the danger around him.",
+    "answer": "blissfully",
+    "distractors": [
+      "heavily",
+      "widely"
+    ],
+    "sentence_tr": "Etrafındaki tehlikeden huzur içinde habersizdi.",
+    "note": "'blissfully unaware' kalıptır: 'tehlikeden habersiz, rahat ve mutlu' anlamı taşır."
+  },
+  {
+    "id": "ia_0335",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "The film was [hugely] successful at the box office.",
+    "answer": "hugely",
+    "distractors": [
+      "deeply",
+      "bitterly"
+    ],
+    "sentence_tr": "Film gişede büyük başarı elde etti.",
+    "note": "Başarı ve popülerlik 'hugely' ile güçlenir: hugely successful, hugely popular, hugely important."
+  },
+  {
+    "id": "ia_0336",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "I'm [terribly] sorry for the delay in replying.",
+    "answer": "terribly",
+    "distractors": [
+      "highly",
+      "widely"
+    ],
+    "sentence_tr": "Geç yanıt verdiğim için çok özür dilerim.",
+    "note": "'terribly' burada 'korkunç' değil 'çok' demektir: terribly sorry, terribly important."
+  },
+  {
+    "id": "ia_0337",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "The village school [badly] needs new equipment.",
+    "answer": "badly",
+    "distractors": [
+      "highly",
+      "widely"
+    ],
+    "sentence_tr": "Köy okulunun yeni donanıma çok ihtiyacı var.",
+    "note": "'need' ve 'want' ile 'badly' 'çok, acilen' demektir: badly need, badly want."
+  },
+  {
+    "id": "ia_0338",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "We [thoroughly] enjoyed the concert last night.",
+    "answer": "thoroughly",
+    "distractors": [
+      "highly",
+      "heavily"
+    ],
+    "sentence_tr": "Dün geceki konserden son derece keyif aldık.",
+    "note": "'enjoy' için güçlendirici 'thoroughly'dir ('baştan sona'); 'highly enjoy' doğal değildir."
+  },
+  {
+    "id": "ia_0339",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "You are [quite] right; I made a mistake.",
+    "answer": "quite",
+    "distractors": [
+      "fairly",
+      "slightly"
+    ],
+    "sentence_tr": "Tamamen haklısın; ben hata yaptım.",
+    "note": "'quite' mutlak ya da güçlü sıfatlarla 'tamamen' demektir (quite right, quite impossible); 'fairly' ve 'slightly' bunlarla kullanılmaz."
+  },
+  {
+    "id": "ia_0340",
+    "topic": "adj_adv",
+    "level": 4,
+    "sentence": "It was [quite] a surprise to see him there.",
+    "answer": "quite",
+    "distractors": [
+      "very",
+      "fairly"
+    ],
+    "sentence_tr": "Onu orada görmek epey sürpriz oldu.",
+    "note": "'quite' artikelden ÖNCE gelir (quite a surprise); 'very' ve 'fairly' ise artikelden sonra gelir: a very big surprise."
+  },
+  {
+    "id": "ia_0341",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The second test was [slightly] easier than the first.",
+    "answer": "slightly",
+    "distractors": [
+      "very",
+      "quite"
+    ],
+    "sentence_tr": "İkinci sınav birincisinden biraz daha kolaydı.",
+    "note": "Karşılaştırma sıfatları 'very' ve 'quite' almaz; 'slightly, a bit, much, far' alır: slightly easier, much easier."
+  },
+  {
+    "id": "ia_0342",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "This coat is [far] too expensive for me.",
+    "answer": "far",
+    "distractors": [
+      "very",
+      "so"
+    ],
+    "sentence_tr": "Bu mont benim için fazlasıyla pahalı.",
+    "note": "'too'yu güçlendirmek için 'far' ya da 'much' kullanılır: far too expensive. 'very too' ve 'so too' yanlıştır."
+  },
+  {
+    "id": "ia_0343",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "She isn't old [enough] to drive a car yet.",
+    "answer": "enough",
+    "distractors": [
+      "too",
+      "very"
+    ],
+    "sentence_tr": "Henüz araba kullanacak yaşta değil.",
+    "note": "'enough' sıfattan SONRA gelir (old enough); 'too' ve 'very' sıfattan önce gelir."
+  },
+  {
+    "id": "ia_0344",
+    "topic": "adj_adv",
+    "level": 3,
+    "sentence": "The view from the top was [absolutely] amazing.",
+    "answer": "absolutely",
+    "distractors": [
+      "very",
+      "slightly"
+    ],
+    "sentence_tr": "Tepeden manzara kesinlikle muhteşemdi.",
+    "note": "Güçlü sıfatlar (amazing, brilliant, terrible) 'very' değil 'absolutely' ya da 'really' alır."
+  },
+  {
+    "id": "ia_0345",
+    "topic": "adj_adv",
+    "level": 2,
+    "sentence": "The service at the restaurant was [very] good.",
+    "answer": "very",
+    "distractors": [
+      "absolutely",
+      "utterly"
+    ],
+    "sentence_tr": "Restorandaki hizmet çok iyiydi.",
+    "note": "Normal (derecelendirilebilir) sıfatlar 'very' alır; 'absolutely good' ve 'utterly good' doğal değildir."
+  },
+  {
+    "id": "ia_0346",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Several [hypotheses] were tested during the study.",
+    "answer": "hypotheses",
+    "distractors": [
+      "hypothesis",
+      "hypothesises"
+    ],
+    "sentence_tr": "Çalışma boyunca birkaç hipotez test edildi.",
+    "note": "-is ile biten Yunanca kökenli isimler çoğulda -es olur: hypothesis → hypotheses, analysis → analyses."
+  },
+  {
+    "id": "ia_0347",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The main [hypothesis] of the study was rejected.",
+    "answer": "hypothesis",
+    "distractors": [
+      "hypotheses",
+      "hypothesises"
+    ],
+    "sentence_tr": "Çalışmanın ana hipotezi reddedildi.",
+    "note": "'The main … was' tekil isim ister: hypothesis. Çoğulu hypotheses'tir."
+  },
+  {
+    "id": "ia_0348",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The [criteria] for the scholarship are very strict.",
+    "answer": "criteria",
+    "distractors": [
+      "criterion",
+      "criterias"
+    ],
+    "sentence_tr": "Bursun ölçütleri çok katı.",
+    "note": "criterion tekildir, criteria çoğuldur; 'criterias' diye bir biçim yoktur."
+  },
+  {
+    "id": "ia_0349",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The most important [criterion] is work experience.",
+    "answer": "criterion",
+    "distractors": [
+      "criteria",
+      "criterias"
+    ],
+    "sentence_tr": "En önemli ölçüt iş deneyimidir.",
+    "note": "Tek bir ölçüt için criterion kullanılır; 'the criteria is' sık yapılan bir hatadır."
+  },
+  {
+    "id": "ia_0350",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The admission criteria [are] explained clearly on the website.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "was"
+    ],
+    "sentence_tr": "Kabul ölçütleri web sitesinde açıkça anlatılıyor.",
+    "note": "criteria çoğul olduğu için çoğul fiil alır: the criteria are."
+  },
+  {
+    "id": "ia_0351",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Such natural [phenomena] are difficult to predict.",
+    "answer": "phenomena",
+    "distractors": [
+      "phenomenon",
+      "phenomenons"
+    ],
+    "sentence_tr": "Bu tür doğa olaylarını önceden kestirmek zordur.",
+    "note": "-on ile biten Yunanca kökenli isimler çoğulda -a olur: phenomenon → phenomena, criterion → criteria."
+  },
+  {
+    "id": "ia_0352",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "This strange [phenomenon] was first described in 1905.",
+    "answer": "phenomenon",
+    "distractors": [
+      "phenomena",
+      "phenomenons"
+    ],
+    "sentence_tr": "Bu tuhaf olgu ilk kez 1905'te tanımlandı.",
+    "note": "'This … was' tekil ister: phenomenon. phenomena çoğuldur."
+  },
+  {
+    "id": "ia_0353",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "These phenomena [have] been observed in many regions.",
+    "answer": "have",
+    "distractors": [
+      "has",
+      "is"
+    ],
+    "sentence_tr": "Bu olgular birçok bölgede gözlemlendi.",
+    "note": "phenomena çoğul olduğu için 'have been' gerekir; 'phenomena has' yaygın bir hatadır."
+  },
+  {
+    "id": "ia_0354",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Further [analyses] are needed to confirm the results.",
+    "answer": "analyses",
+    "distractors": [
+      "analysis",
+      "analysises"
+    ],
+    "sentence_tr": "Sonuçları doğrulamak için ek analizler gerekiyor.",
+    "note": "analysis tekil, analyses çoğuldur; 'are needed' çoğul özne ister."
+  },
+  {
+    "id": "ia_0355",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Both analyses [were] carried out by independent laboratories.",
+    "answer": "were",
+    "distractors": [
+      "was",
+      "is"
+    ],
+    "sentence_tr": "Her iki analiz de bağımsız laboratuvarlarca yapıldı.",
+    "note": "analyses çoğul olduğundan fiil de çoğul olur: were carried out."
+  },
+  {
+    "id": "ia_0356",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Both [theses] were submitted before the deadline.",
+    "answer": "theses",
+    "distractors": [
+      "thesis",
+      "thesises"
+    ],
+    "sentence_tr": "Her iki tez de son tarihten önce teslim edildi.",
+    "note": "thesis → theses (tez → tezler); -is çoğulda -es olur."
+  },
+  {
+    "id": "ia_0357",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The country faced two economic [crises] in a decade.",
+    "answer": "crises",
+    "distractors": [
+      "crisis",
+      "crisises"
+    ],
+    "sentence_tr": "Ülke on yılda iki ekonomik krizle karşılaştı.",
+    "note": "crisis → crises; 'crisises' diye bir biçim yoktur."
+  },
+  {
+    "id": "ia_0358",
+    "topic": "agreement",
+    "level": 5,
+    "sentence": "Different doctors gave different [diagnoses] for the same symptoms.",
+    "answer": "diagnoses",
+    "distractors": [
+      "diagnosis",
+      "diagnosises"
+    ],
+    "sentence_tr": "Farklı doktorlar aynı belirtiler için farklı teşhisler koydu.",
+    "note": "diagnosis → diagnoses; tıp ve bilim metinlerinde sık geçer."
+  },
+  {
+    "id": "ia_0359",
+    "topic": "agreement",
+    "level": 5,
+    "sentence": "The visual [stimuli] were shown to participants for two seconds.",
+    "answer": "stimuli",
+    "distractors": [
+      "stimulus",
+      "stimuluses"
+    ],
+    "sentence_tr": "Görsel uyaranlar katılımcılara iki saniye gösterildi.",
+    "note": "-us ile biten Latince isimler çoğulda -i olur: stimulus → stimuli, nucleus → nuclei."
+  },
+  {
+    "id": "ia_0360",
+    "topic": "agreement",
+    "level": 5,
+    "sentence": "Some cells in the sample had two [nuclei].",
+    "answer": "nuclei",
+    "distractors": [
+      "nucleus",
+      "nucleuses"
+    ],
+    "sentence_tr": "Örnekteki bazı hücrelerin iki çekirdeği vardı.",
+    "note": "nucleus (hücre çekirdeği) → nuclei; 'two' çoğul ister."
+  },
+  {
+    "id": "ia_0361",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Many [alumni] return to the university every spring.",
+    "answer": "alumni",
+    "distractors": [
+      "alumnus",
+      "alumnis"
+    ],
+    "sentence_tr": "Birçok mezun her bahar üniversiteye geri döner.",
+    "note": "alumnus tek mezun, alumni mezunlar demektir; 'alumnis' yanlıştır."
+  },
+  {
+    "id": "ia_0362",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Our alumni [are] now working in over forty countries.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "has"
+    ],
+    "sentence_tr": "Mezunlarımız şu anda kırktan fazla ülkede çalışıyor.",
+    "note": "alumni çoğul olduğu için çoğul fiil alır: alumni are."
+  },
+  {
+    "id": "ia_0363",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "A single [bacterium] can divide within twenty minutes.",
+    "answer": "bacterium",
+    "distractors": [
+      "bacteria",
+      "bacterias"
+    ],
+    "sentence_tr": "Tek bir bakteri yirmi dakika içinde bölünebilir.",
+    "note": "bacterium tekildir, bacteria çoğuldur; 'a single' tekil ister."
+  },
+  {
+    "id": "ia_0364",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "These bacteria [are] resistant to most antibiotics.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "was"
+    ],
+    "sentence_tr": "Bu bakteriler çoğu antibiyotiğe dirençli.",
+    "note": "bacteria çoğuldur ve akademik dilde çoğul fiil alır: bacteria are."
+  },
+  {
+    "id": "ia_0365",
+    "topic": "agreement",
+    "level": 5,
+    "sentence": "School [curricula] differ greatly from country to country.",
+    "answer": "curricula",
+    "distractors": [
+      "curriculum",
+      "curriculas"
+    ],
+    "sentence_tr": "Okul müfredatları ülkeden ülkeye büyük farklılık gösterir.",
+    "note": "curriculum → curricula (-um çoğulda -a olur); 'differ' çoğul özne ister."
+  },
+  {
+    "id": "ia_0366",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The [data] were collected over a period of five years.",
+    "answer": "data",
+    "distractors": [
+      "datas",
+      "datum"
+    ],
+    "sentence_tr": "Veriler beş yıllık bir sürede toplandı.",
+    "note": "data aslında datum'un çoğuludur; 'datas' diye bir biçim yoktur. Bilimsel metinlerde 'the data were' sık görülür."
+  },
+  {
+    "id": "ia_0367",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Some [fungi] are used to produce medicines.",
+    "answer": "fungi",
+    "distractors": [
+      "fungus",
+      "fungis"
+    ],
+    "sentence_tr": "Bazı mantarlar ilaç üretiminde kullanılır.",
+    "note": "fungus → fungi (Latince -us → -i); 'some … are' çoğul ister."
+  },
+  {
+    "id": "ia_0368",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "The graph has two [axes]: time and temperature.",
+    "answer": "axes",
+    "distractors": [
+      "axis",
+      "axises"
+    ],
+    "sentence_tr": "Grafiğin iki ekseni var: zaman ve sıcaklık.",
+    "note": "axis (eksen) → axes; -is çoğulda -es olur."
+  },
+  {
+    "id": "ia_0369",
+    "topic": "agreement",
+    "level": 3,
+    "sentence": "The statistics [show] a clear rise in unemployment.",
+    "answer": "show",
+    "distractors": [
+      "shows",
+      "showing"
+    ],
+    "sentence_tr": "İstatistikler işsizlikte belirgin bir artış gösteriyor.",
+    "note": "statistics 'rakamlar' anlamında çoğuldur ve çoğul fiil alır: the statistics show."
+  },
+  {
+    "id": "ia_0370",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Statistics [is] a compulsory course for psychology students.",
+    "answer": "is",
+    "distractors": [
+      "are",
+      "were"
+    ],
+    "sentence_tr": "İstatistik psikoloji öğrencileri için zorunlu bir derstir.",
+    "note": "statistics ders ya da bilim dalı adı olarak tekildir: Statistics is. 'Rakamlar' anlamında ise çoğuldur."
+  },
+  {
+    "id": "ia_0371",
+    "topic": "agreement",
+    "level": 5,
+    "sentence": "A new means of payment [has] been introduced.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "are"
+    ],
+    "sentence_tr": "Yeni bir ödeme yöntemi kullanıma sunuldu.",
+    "note": "means tekilde ve çoğulda aynıdır; 'a new means' tekil olduğu için 'has' gelir."
+  },
+  {
+    "id": "ia_0372",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "This TV series [has] three seasons so far.",
+    "answer": "has",
+    "distractors": [
+      "have",
+      "are"
+    ],
+    "sentence_tr": "Bu dizinin şimdiye kadar üç sezonu var.",
+    "note": "series tekilde ve çoğulda aynıdır; 'this series' tekil fiil alır."
+  },
+  {
+    "id": "ia_0373",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Two new series [are] starting on television next month.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "has"
+    ],
+    "sentence_tr": "Gelecek ay televizyonda iki yeni dizi başlıyor.",
+    "note": "'two series' çoğuldur; series kelimesinin biçimi değişmez, fiil değişir."
+  },
+  {
+    "id": "ia_0374",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "A new [species] of frog was discovered in the rainforest.",
+    "answer": "species",
+    "distractors": [
+      "specie",
+      "specieses"
+    ],
+    "sentence_tr": "Yağmur ormanında yeni bir kurbağa türü keşfedildi.",
+    "note": "species tekilde de -s ile biter (a species); 'specie' ayrı bir kelimedir (madeni para)."
+  },
+  {
+    "id": "ia_0375",
+    "topic": "agreement",
+    "level": 4,
+    "sentence": "Several species of birds [are] now endangered.",
+    "answer": "are",
+    "distractors": [
+      "is",
+      "has"
+    ],
+    "sentence_tr": "Birçok kuş türünün nesli şu anda tehlikede.",
+    "note": "'several species' çoğuldur ve çoğul fiil alır; kelimenin biçimi değişmez."
   }
 ]
