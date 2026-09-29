@@ -3411,5 +3411,45 @@
       {"text": "The cost of the new stadium was absolutely ___: three times the original budget.", "options": ["affordable", "pricey", "astronomical"], "answer": "astronomical", "why": "Bütçenin üç katı dudak uçuklatır: absolutely astronomical. 'absolutely pricey' doğal değildir; affordable anlamca terstir."},
       {"text": "The hotel was a bit ___, but the location was perfect.", "options": ["affordable", "pricey", "astronomical"], "answer": "pricey", "why": "'ama konum mükemmeldi' fiyatın bir kusur olduğunu gösterir; 'a bit astronomical' yanlıştır: a bit pricey."}
     ]
+  },
+  {
+    "id": "at171",
+    "topic": "Kesinlik",
+    "pos": "zarf",
+    "low": "belki",
+    "high": "şüphesiz",
+    "rungs": [
+      {"en": "possibly", "tr": "belki, olasılıkla"},
+      {"en": "probably", "tr": "muhtemelen"},
+      {"en": "almost certainly", "tr": "neredeyse kesin olarak"},
+      {"en": "undoubtedly", "tr": "şüphesiz, kuşkusuz"}
+    ],
+    "gap": 3,
+    "hint": "Bir ihtimal olarak dile getirilen bir yargıdan hiç kuşku duyulmayan bir yargıya.",
+    "note": "Akademik metinlerde yazarın kesinliği bu zarflardan okunur: possibly ve probably temkinli dildir (hedging), undoubtedly kesin tutumdur. almost certainly kesine çok yakındır ama küçük bir pay bırakır. Paragraf sorularında yazarın tutumunu çoğu zaman bu kelimeler ele verir.",
+    "context": [
+      {"text": "The data are limited, so the drug ___ helps some patients, but we cannot be sure.", "options": ["possibly", "almost certainly", "undoubtedly"], "answer": "possibly", "why": "'Veri sınırlı' ve 'emin olamayız' en temkinli ifadeyi ister: possibly. almost certainly ve undoubtedly kesinlik bildirir, cümleyle çelişir."},
+      {"text": "Shakespeare is ___ the most famous writer in English; no one seriously disputes this.", "options": ["possibly", "probably", "undoubtedly"], "answer": "undoubtedly", "why": "'Kimse ciddi olarak itiraz etmez' tam kesinlik ister: undoubtedly. possibly ve probably şüpheye yer bırakır."}
+    ]
+  },
+  {
+    "id": "at172",
+    "topic": "Vurgu gücü",
+    "pos": "fiil",
+    "low": "değinmek",
+    "high": "diretmek",
+    "rungs": [
+      {"en": "mention", "tr": "değinmek, söz etmek"},
+      {"en": "state", "tr": "belirtmek, açıkça söylemek"},
+      {"en": "emphasise", "tr": "vurgulamak, altını çizmek"},
+      {"en": "insist", "tr": "ısrarla söylemek, diretmek"}
+    ],
+    "gap": 3,
+    "hint": "Lafı geçerken söylenen bir şeyden itiraza rağmen üstelenen bir iddiaya.",
+    "note": "Raporlama fiilleri yazarın bir fikre verdiği ağırlığı gösterir: mention geçerken değinir, state açıkça söyler, emphasise öne çıkarır, insist karşı çıkılsa da diretir. insist 'on' ya da 'that' alır: insist on paying, insist that he is innocent. emphasise İngiliz, emphasize Amerikan yazımıdır.",
+    "context": [
+      {"text": "The report chose to ___ the budget problem only briefly, in a footnote.", "options": ["mention", "emphasise", "insist"], "answer": "mention", "why": "Dipnotta kısaca geçmek değinmektir: mention. emphasise öne çıkarmak, insist diretmektir; 'only briefly' ile çelişir."},
+      {"text": "Despite all the evidence against him, he continues to ___ that he is innocent.", "options": ["mention", "state", "insist"], "answer": "insist", "why": "'Aleyhindeki tüm kanıtlara rağmen' ısrarı gösterir: insist that. mention ve state karşı çıkılan bir iddiada diretme anlamı taşımaz."}
+    ]
   }
 ]
