@@ -2411,5 +2411,1005 @@
       {"text": "The sea was perfectly ___, like a mirror, so the children could swim safely.", "options": ["calm", "rough", "stormy"], "answer": "calm", "why": "Ayna gibi deniz durgundur: calm."},
       {"text": "All ferries were cancelled because the sea was too ___, with huge waves and winds of over 100 km/h.", "options": ["calm", "choppy", "stormy"], "answer": "stormy", "why": "Dev dalgalar ve saatte 100 km'yi aşan rüzgâr fırtınadır: stormy."}
     ]
+  },
+  {
+    "id": "at121",
+    "topic": "Yorgunluk",
+    "pos": "güçlü sıfat",
+    "low": "dinç",
+    "high": "bitkin",
+    "rungs": [
+      {"en": "fresh", "tr": "dinç, zinde"},
+      {"en": "tired", "tr": "yorgun"},
+      {"en": "worn out", "tr": "yıpranmış, takati kesilmiş"},
+      {"en": "exhausted", "tr": "bitkin, tükenmiş"}
+    ],
+    "gap": 3,
+    "hint": "Sabah dinç kalkıp gün boyu yorulan birini düşün. Hangisi 'yorgun', hangisi 'takati kesilmiş'?",
+    "note": "tired normal (derecelenebilir) sıfattır: very tired, a bit tired, extremely tired. exhausted güçlü (uç) sıfattır, zaten 'çok yorgun' demektir; absolutely/completely/totally exhausted denir, very exhausted denmez. really ikisiyle de kullanılır: really tired, really exhausted. worn out da güçlüye yakındır: completely worn out.",
+    "context": [
+      {"text": "After a fourteen-hour shift in the emergency room, the nurses were absolutely ___.", "options": ["fresh", "tired", "exhausted"], "answer": "exhausted", "why": "'absolutely' yalnızca güçlü sıfatlarla kullanılır: absolutely exhausted. 'absolutely tired' yanlıştır; on dört saatlik nöbet de bitkinliği gösterir. fresh tam tersidir."},
+      {"text": "I'm a bit ___ tonight, so I think I'll go to bed early.", "options": ["fresh", "tired", "exhausted"], "answer": "tired", "why": "'a bit' (biraz) güçlü sıfatla kullanılmaz: 'a bit exhausted' yanlıştır. Erken yatma isteği yorgunluk gösterir, fresh olmaz: a bit tired."}
+    ]
+  },
+  {
+    "id": "at122",
+    "topic": "Suyun sıcaklığı",
+    "pos": "güçlü sıfat",
+    "low": "soğuk",
+    "high": "kaynar",
+    "rungs": [
+      {"en": "cold", "tr": "soğuk"},
+      {"en": "lukewarm", "tr": "ılık (ne sıcak ne soğuk)"},
+      {"en": "hot", "tr": "sıcak"},
+      {"en": "boiling", "tr": "kaynar, kaynayan"}
+    ],
+    "gap": 1,
+    "hint": "Musluktan akan soğuk sudan ocakta fokurdayan suya. 'Ne sıcak ne soğuk' hangi basamakta?",
+    "note": "hot normal sıfattır: very hot, a bit hot. boiling güçlü sıfattır ('kaynar, çok sıcak'): absolutely boiling denir, very boiling denmez. Günlük dilde hava için de kullanılır: It's boiling today! lukewarm 'ılık'tır; mecazen 'isteksiz' bir tepki: a lukewarm response.",
+    "context": [
+      {"text": "Careful! Don't touch the kettle – the water inside is absolutely ___.", "options": ["cold", "hot", "boiling"], "answer": "boiling", "why": "'absolutely' güçlü sıfat ister: absolutely boiling. 'absolutely hot' yanlıştır; cold ise 'Dikkat!' uyarısıyla çelişir."},
+      {"text": "The soup is still very ___, so let it cool for a minute before you eat it.", "options": ["cold", "hot", "boiling"], "answer": "hot", "why": "'very' güçlü sıfatla kullanılmaz: 'very boiling' yanlıştır. 'Soğumasını bekle' dendiğine göre cold olamaz: very hot."}
+    ]
+  },
+  {
+    "id": "at123",
+    "topic": "Çirkinlik",
+    "pos": "güçlü sıfat",
+    "low": "çekici",
+    "high": "korkunç çirkin",
+    "rungs": [
+      {"en": "attractive", "tr": "çekici, göze hoş gelen"},
+      {"en": "plain", "tr": "sade, sıradan görünüşlü"},
+      {"en": "ugly", "tr": "çirkin"},
+      {"en": "hideous", "tr": "korkunç derecede çirkin"}
+    ],
+    "gap": 3,
+    "hint": "Göze hoş gelenden bakmaya dayanılmayana. 'Sade' ile 'çirkin' arasındaki fark ne?",
+    "note": "ugly normal sıfattır: very ugly, a bit ugly. hideous güçlü sıfattır ('korkunç derecede çirkin'): absolutely hideous denir, very hideous denmez. plain kişi için kibar bir 'güzel sayılmaz'dır; eşya için 'sade, süssüz': a plain white shirt.",
+    "context": [
+      {"text": "The new car park is absolutely ___; it completely ruins the view of the old harbour.", "options": ["attractive", "ugly", "hideous"], "answer": "hideous", "why": "'absolutely' güçlü sıfatla gelir: absolutely hideous. 'absolutely ugly' yanlıştır; manzarayı mahvetmesi de attractive'i dışarıda bırakır."},
+      {"text": "The sofa was a bit ___, but it was so comfortable that we bought it anyway.", "options": ["attractive", "ugly", "hideous"], "answer": "ugly", "why": "'but … we bought it anyway' bir kusur ister, attractive olmaz; 'a bit' de güçlü sıfatla kullanılmaz (a bit hideous ✗): a bit ugly."}
+    ]
+  },
+  {
+    "id": "at124",
+    "topic": "Genel değerlendirme",
+    "pos": "güçlü sıfat",
+    "low": "berbat",
+    "high": "harika",
+    "rungs": [
+      {"en": "dreadful", "tr": "berbat, korkunç"},
+      {"en": "bad", "tr": "kötü"},
+      {"en": "good", "tr": "iyi"},
+      {"en": "wonderful", "tr": "harika, muhteşem"}
+    ],
+    "gap": 0,
+    "hint": "Bir filme verilen yorumları düşün, en kötüden en iyiye. İki uçtaki kelimeler 'çok kötü' ve 'çok iyi'nin tek kelimelik hâli.",
+    "note": "good ve bad normal sıfatlardır: very good, a bit bad. Terazinin iki ucu güçlü sıfattır: dreadful (≈ awful, terrible) 'berbat', wonderful (≈ fantastic, brilliant) 'harika'. Bunlar absolutely ile güçlenir, very ile değil: absolutely wonderful ✓, very wonderful ✗. really ikisiyle de olur: really good, really wonderful.",
+    "context": [
+      {"text": "The concert was absolutely ___ – honestly, one of the best nights of my life.", "options": ["dreadful", "good", "wonderful"], "answer": "wonderful", "why": "'Hayatımın en güzel gecelerinden biri' olumlu uç ister; 'absolutely' da good ile kullanılmaz: absolutely wonderful. dreadful anlamca terstir."},
+      {"text": "The traffic was very ___ this morning, so I was twenty minutes late for work.", "options": ["dreadful", "bad", "good"], "answer": "bad", "why": "Geç kalmak olumsuz bir durum, good olmaz; 'very' de güçlü sıfatla kullanılmaz (very dreadful ✗): very bad."}
+    ]
+  },
+  {
+    "id": "at125",
+    "topic": "Tuhaflık",
+    "pos": "güçlü sıfat",
+    "low": "sıradan",
+    "high": "acayip",
+    "rungs": [
+      {"en": "ordinary", "tr": "sıradan"},
+      {"en": "unusual", "tr": "alışılmadık"},
+      {"en": "strange", "tr": "garip, tuhaf"},
+      {"en": "bizarre", "tr": "akıl almaz derecede tuhaf"}
+    ],
+    "gap": 2,
+    "hint": "Her gün gördüğün şeyden 'bunu gerçekten gördüm mü?' dedirtene.",
+    "note": "unusual ve strange normal sıfatlardır: very unusual, a bit strange. bizarre güçlü sıfattır: absolutely/totally bizarre denir, very bizarre denmez. unusual tarafsızdır (nadir, alışılmadık); strange'de 'garip, tedirgin edici' bir ton vardır.",
+    "context": [
+      {"text": "It was totally ___: a goat was standing on the roof of the bus, calmly eating a newspaper.", "options": ["ordinary", "unusual", "bizarre"], "answer": "bizarre", "why": "Otobüsün tepesinde gazete yiyen keçi akıl almaz bir sahne; 'totally' de güçlü sıfatla gelir: totally bizarre. 'totally unusual' doğal değildir, ordinary ise anlamca terstir."},
+      {"text": "It's very ___ for Mark to be late; he's usually the first person in the office.", "options": ["ordinary", "unusual", "bizarre"], "answer": "unusual", "why": "Hep ilk gelen birinin geç kalması alışılmadık bir durum: very unusual. 'very bizarre' yanlıştır; ordinary ise cümlenin mantığıyla çelişir."}
+    ]
+  },
+  {
+    "id": "at126",
+    "topic": "Korkutuculuk",
+    "pos": "güçlü sıfat",
+    "low": "güven veren",
+    "high": "dehşet verici",
+    "rungs": [
+      {"en": "reassuring", "tr": "güven veren, içi rahatlatan"},
+      {"en": "scary", "tr": "ürkütücü"},
+      {"en": "frightening", "tr": "korkutucu"},
+      {"en": "terrifying", "tr": "dehşet verici"}
+    ],
+    "gap": 2,
+    "hint": "İçini rahatlatan bir sesten gece uyutmayan bir filme. Burada kişi değil, korkutan şey anlatılıyor (-ing).",
+    "note": "scary ve frightening normal sıfatlardır: very scary, a bit frightening. terrifying güçlü sıfattır: absolutely terrifying denir, very terrifying denmez. -ing/-ed farkı: film terrifying'dir, izleyen terrified olur.",
+    "context": [
+      {"text": "The horror film was absolutely ___; I couldn't sleep with the lights off for a week.", "options": ["reassuring", "scary", "terrifying"], "answer": "terrifying", "why": "Bir hafta ışıksız uyuyamamak uç bir korku; 'absolutely' da scary ile değil güçlü sıfatla gelir: absolutely terrifying."},
+      {"text": "The rollercoaster was a bit ___, but the children loved every minute of it.", "options": ["reassuring", "scary", "terrifying"], "answer": "scary", "why": "'a bit' güçlü sıfatla kullanılmaz (a bit terrifying ✗). 'but … loved it' hafif bir korku ima eder: a bit scary. reassuring hız treni için anlamsızdır."}
+    ]
+  },
+  {
+    "id": "at127",
+    "topic": "Saçmalık",
+    "pos": "güçlü sıfat",
+    "low": "akıllıca",
+    "high": "gülünç",
+    "rungs": [
+      {"en": "sensible", "tr": "mantıklı, akıllıca"},
+      {"en": "questionable", "tr": "tartışmalı, şüphe götürür"},
+      {"en": "silly", "tr": "aptalca, saçma"},
+      {"en": "ridiculous", "tr": "gülünç, absürt"}
+    ],
+    "gap": 1,
+    "hint": "Akıllıca bir karardan herkesi güldürecek kadar saçma bir karara.",
+    "note": "silly normal sıfattır: very silly, a bit silly. ridiculous güçlü sıfattır: absolutely/utterly ridiculous denir. absurd da aynı güçtedir: completely absurd. questionable 'doğruluğu şüpheli': a questionable decision. sensible 'mantıklı'dır, 'hassas' DEĞİL (hassas: sensitive).",
+    "context": [
+      {"text": "Fifty dollars for a bottle of water? That's absolutely ___!", "options": ["sensible", "silly", "ridiculous"], "answer": "ridiculous", "why": "Bir şişe suya elli dolar gülünç bir fiyat; 'absolutely' da güçlü sıfatla kullanılır: absolutely ridiculous. 'absolutely silly' doğal değildir."},
+      {"text": "Wearing a helmet when you ride a bike is a very ___ idea.", "options": ["sensible", "silly", "ridiculous"], "answer": "sensible", "why": "Kask takmak akıllıca bir karar: very sensible. silly anlamca terstir; 'very ridiculous' da güçlü sıfat kuralına uymaz."}
+    ]
+  },
+  {
+    "id": "at128",
+    "topic": "Eşsizlik",
+    "pos": "güçlü sıfat",
+    "low": "yaygın",
+    "high": "eşsiz",
+    "rungs": [
+      {"en": "common", "tr": "yaygın, sık görülen"},
+      {"en": "uncommon", "tr": "yaygın olmayan"},
+      {"en": "rare", "tr": "nadir"},
+      {"en": "unique", "tr": "eşsiz, tek"}
+    ],
+    "gap": 1,
+    "hint": "Her yerde görülenden dünyada bir tane olana. 'Nadir' ile 'yaygın olmayan' hangisi daha güçlü?",
+    "note": "common, uncommon ve rare derecelenebilir: very rare, extremely rare. unique ise mutlak sıfattır ('tek, eşsiz'): bir şey ya tektir ya değildir; bu yüzden very unique yanlış, absolutely/totally unique doğrudur. Aynı kural perfect, impossible, essential gibi mutlak sıfatlar için de geçerlidir.",
+    "context": [
+      {"text": "Every snowflake is absolutely ___; no two have ever been found to be exactly the same.", "options": ["common", "rare", "unique"], "answer": "unique", "why": "'Hiçbir ikisi aynı değil' tek olmak demektir: absolutely unique. 'absolutely rare' yanlıştır; common anlamca terstir."},
+      {"text": "Giant pandas are very ___ in the wild; fewer than 2,000 are thought to survive.", "options": ["common", "rare", "unique"], "answer": "rare", "why": "2.000'den az kalmış bir tür nadirdir: very rare. unique mutlak olduğu için very almaz; common da sayıyla çelişir."}
+    ]
+  },
+  {
+    "id": "at129",
+    "topic": "Etkileyicilik",
+    "pos": "güçlü sıfat",
+    "low": "dikkat çekmeyen",
+    "high": "müthiş",
+    "rungs": [
+      {"en": "unremarkable", "tr": "sıradan, dikkat çekmeyen"},
+      {"en": "decent", "tr": "fena değil, tatmin edici"},
+      {"en": "impressive", "tr": "etkileyici"},
+      {"en": "amazing", "tr": "müthiş, hayranlık uyandıran"}
+    ],
+    "gap": 1,
+    "hint": "Kimsenin dönüp bakmadığı bir şeyden ağızları açık bırakana.",
+    "note": "impressive normal sıfattır: very impressive, extremely impressive. amazing güçlü sıfattır: absolutely amazing denir, very amazing denmez (incredible, astonishing, spectacular da öyle). decent 'fena değil, gayet makul': a decent salary.",
+    "context": [
+      {"text": "The view from the top of the mountain was absolutely ___; we just stood there staring for ten minutes.", "options": ["unremarkable", "impressive", "amazing"], "answer": "amazing", "why": "On dakika donup bakmak uç bir hayranlık; 'absolutely' da güçlü sıfatla gelir: absolutely amazing. 'absolutely impressive' doğal değildir."},
+      {"text": "Her CV is extremely ___: three degrees, four languages and ten years of experience.", "options": ["unremarkable", "impressive", "amazing"], "answer": "impressive", "why": "'extremely' (son derece) derecelenebilir sıfat ister; 'extremely amazing' yanlıştır: extremely impressive. unremarkable bu özgeçmişle çelişir."}
+    ]
+  },
+  {
+    "id": "at130",
+    "topic": "Fayda",
+    "pos": "güçlü sıfat",
+    "low": "işe yaramaz",
+    "high": "paha biçilmez",
+    "rungs": [
+      {"en": "useless", "tr": "hiçbir işe yaramaz"},
+      {"en": "unhelpful", "tr": "yardımı dokunmayan"},
+      {"en": "helpful", "tr": "yardımcı, faydalı"},
+      {"en": "invaluable", "tr": "paha biçilmez, çok değerli"}
+    ],
+    "gap": 3,
+    "hint": "Hiçbir işe yaramayandan onsuz yapamayacağın şeye. Dikkat: en güçlü basamaktaki 'in-' burada 'değil' anlamı vermiyor!",
+    "note": "helpful normal sıfattır: very helpful. İki uç güçlü sıfattır: useless ve invaluable; ikisi de absolutely/completely ile güçlenir: completely useless, absolutely invaluable. TUZAK: invaluable 'değersiz' DEĞİL, 'değeri ölçülemeyecek kadar kıymetli'dir; 'değersiz' worthless'tır.",
+    "context": [
+      {"text": "Your advice was absolutely ___; I really couldn't have finished the project without you.", "options": ["useless", "helpful", "invaluable"], "answer": "invaluable", "why": "'Sensiz bitiremezdim' paha biçilmez bir yardım demek: absolutely invaluable. useless anlamca terstir; 'absolutely helpful' ise doğal değildir."},
+      {"text": "The hotel staff were very ___ and answered all our questions about the city.", "options": ["useless", "helpful", "invaluable"], "answer": "helpful", "why": "Bütün sorulara cevap veren personel yardımcıdır; 'very' güçlü sıfatla kullanılmaz (very invaluable ✗): very helpful."}
+    ]
+  },
+  {
+    "id": "at131",
+    "topic": "Havanın güzelliği",
+    "pos": "güçlü sıfat",
+    "low": "berbat",
+    "high": "pırıl pırıl",
+    "rungs": [
+      {"en": "awful", "tr": "berbat"},
+      {"en": "dull", "tr": "kapalı, kasvetli"},
+      {"en": "nice", "tr": "güzel, hoş"},
+      {"en": "glorious", "tr": "muhteşem, pırıl pırıl"}
+    ],
+    "gap": 3,
+    "hint": "Sağanak altında geçen bir günden bulutsuz, güneşli bir tatil gününe.",
+    "note": "nice normal sıfattır: very nice, quite nice. awful ve glorious güçlü sıfatlardır: absolutely awful, absolutely glorious; very glorious denmez. dull hava için 'kapalı, gri, kasvetli' demektir: a dull, grey morning.",
+    "context": [
+      {"text": "The weather was absolutely ___ all week – sunny, warm and not a single cloud in the sky.", "options": ["awful", "nice", "glorious"], "answer": "glorious", "why": "Bulutsuz, güneşli ve sıcak: muhteşem hava. 'absolutely' nice ile kullanılmaz, awful ise anlamca terstir: absolutely glorious."},
+      {"text": "It was a very ___ afternoon, so we took our lunch to the park.", "options": ["awful", "nice", "glorious"], "answer": "nice", "why": "Öğle yemeğini parka götürmek güzel havayı gösterir; 'very' güçlü sıfatla gelmez (very glorious ✗): very nice. awful parka gitmekle çelişir."}
+    ]
+  },
+  {
+    "id": "at132",
+    "topic": "Ağrının şiddeti",
+    "pos": "güçlü sıfat",
+    "low": "ağrısız",
+    "high": "dayanılmaz",
+    "rungs": [
+      {"en": "painless", "tr": "ağrısız, acısız"},
+      {"en": "uncomfortable", "tr": "rahatsız edici"},
+      {"en": "painful", "tr": "acı veren, ağrılı"},
+      {"en": "excruciating", "tr": "dayanılmaz derecede acı veren"}
+    ],
+    "gap": 1,
+    "hint": "Hiç hissedilmeyen bir iğneden insanı bağırtan bir acıya.",
+    "note": "painful normal sıfattır: very painful, a bit painful. excruciating güçlü sıfattır ('dayanılmaz'): absolutely excruciating denir, very excruciating denmez. uncomfortable acıdan çok 'rahatsızlık'tır: an uncomfortable chair.",
+    "context": [
+      {"text": "The injection was a bit ___, but it was over in a couple of seconds.", "options": ["painless", "painful", "excruciating"], "answer": "painful", "why": "'but … over in seconds' hafif bir acı ima eder; 'a bit' güçlü sıfatla kullanılmaz (a bit excruciating ✗): a bit painful. painless 'but' ile çelişir."},
+      {"text": "Many patients describe kidney stones as absolutely ___ – the worst pain they have ever felt.", "options": ["painless", "painful", "excruciating"], "answer": "excruciating", "why": "'Hayatlarında hissettikleri en kötü acı' dayanılmazdır; 'absolutely' da güçlü sıfatla gelir: absolutely excruciating. 'absolutely painful' doğal değildir."}
+    ]
+  },
+  {
+    "id": "at133",
+    "topic": "Dehşet",
+    "pos": "güçlü sıfat",
+    "low": "kayıtsız",
+    "high": "dehşete düşmüş",
+    "rungs": [
+      {"en": "unmoved", "tr": "etkilenmemiş, kayıtsız"},
+      {"en": "upset", "tr": "üzgün, canı sıkkın"},
+      {"en": "shocked", "tr": "sarsılmış, şoka girmiş"},
+      {"en": "horrified", "tr": "dehşete düşmüş"}
+    ],
+    "gap": 2,
+    "hint": "Hiç etkilenmeyen birinden gördüğü şeyden dehşete düşene.",
+    "note": "upset ve shocked normal sıfatlardır: very upset, a bit shocked. horrified güçlü sıfattır: absolutely horrified denir, very horrified zayıf kalır. appalled da aynı güçtedir. -ing/-ed: olay horrifying'dir, onu gören horrified olur.",
+    "context": [
+      {"text": "We were absolutely ___ by the video of the attack and couldn't watch it to the end.", "options": ["unmoved", "upset", "horrified"], "answer": "horrified", "why": "Sonuna kadar izleyememek dehşete düşmek demek; 'absolutely' da güçlü sıfatla kullanılır: absolutely horrified. unmoved anlamca terstir."},
+      {"text": "She was a bit ___ that none of her friends had remembered her birthday.", "options": ["unmoved", "upset", "horrified"], "answer": "upset", "why": "Doğum gününün unutulması insanı üzer; 'a bit' güçlü sıfatla gelmez (a bit horrified ✗): a bit upset."}
+    ]
+  },
+  {
+    "id": "at134",
+    "topic": "Kafa karışıklığı",
+    "pos": "güçlü sıfat",
+    "low": "emin",
+    "high": "şaşkına dönmüş",
+    "rungs": [
+      {"en": "sure", "tr": "emin"},
+      {"en": "unsure", "tr": "emin olmayan, kararsız"},
+      {"en": "confused", "tr": "kafası karışık"},
+      {"en": "baffled", "tr": "tamamen şaşırmış, hiçbir şey çözemeyen"}
+    ],
+    "gap": 2,
+    "hint": "Cevabı bilen birinden hiçbir açıklama bulamayana.",
+    "note": "unsure ve confused normal sıfatlardır: a bit unsure, very confused. baffled güçlü sıfattır ('hiçbir şey anlayamamış'): completely/totally baffled denir, very baffled pek kullanılmaz. puzzled daha hafiftir (≈ confused).",
+    "context": [
+      {"text": "Even the engineers were completely ___ by the strange noise; nobody could explain where it came from.", "options": ["sure", "unsure", "baffled"], "answer": "baffled", "why": "'Kimse açıklayamadı' tam bir çaresizlik: completely baffled. sure anlamca terstir; 'completely unsure' ise doğal değildir."},
+      {"text": "I'm a bit ___ about the date of the meeting – was it Tuesday or Wednesday?", "options": ["sure", "unsure", "baffled"], "answer": "unsure", "why": "Salı mı çarşamba mı bilememek kararsızlıktır; 'a bit' güçlü sıfatla kullanılmaz (a bit baffled ✗): a bit unsure."}
+    ]
+  },
+  {
+    "id": "at135",
+    "topic": "Gereklilik",
+    "pos": "güçlü sıfat",
+    "low": "gereksiz",
+    "high": "olmazsa olmaz",
+    "rungs": [
+      {"en": "unnecessary", "tr": "gereksiz"},
+      {"en": "useful", "tr": "işe yarar, faydalı"},
+      {"en": "important", "tr": "önemli"},
+      {"en": "essential", "tr": "vazgeçilmez, mutlaka gerekli"}
+    ],
+    "gap": 3,
+    "hint": "Hiç gerekmeyenden onsuz olmayacak şeye. 'İşe yarar' ile 'önemli' arasında hangisi daha zorunlu?",
+    "note": "useful ve important normal sıfatlardır: very useful, extremely important. essential ve vital mutlak sıfatlardır ('olmazsa olmaz'): absolutely essential doğru, very essential yanlıştır. YDS'de essential ≈ vital ≈ indispensable.",
+    "context": [
+      {"text": "Water is absolutely ___ on a desert trip; without it you won't survive a single day.", "options": ["unnecessary", "important", "essential"], "answer": "essential", "why": "'Onsuz bir gün bile yaşayamazsın' olmazsa olmaz demek: absolutely essential. 'absolutely important' doğal değildir; unnecessary anlamca terstir."},
+      {"text": "It's extremely ___ to back up your files regularly.", "options": ["unnecessary", "important", "essential"], "answer": "important", "why": "'extremely' derecelenebilir sıfat ister; essential mutlak olduğu için almaz: extremely important. unnecessary tavsiyenin mantığıyla çelişir."}
+    ]
+  },
+  {
+    "id": "at136",
+    "topic": "Şaşırtıcılık",
+    "pos": "güçlü sıfat",
+    "low": "beklenen",
+    "high": "hayret verici",
+    "rungs": [
+      {"en": "predictable", "tr": "tahmin edilebilir"},
+      {"en": "unexpected", "tr": "beklenmedik"},
+      {"en": "surprising", "tr": "şaşırtıcı"},
+      {"en": "astonishing", "tr": "hayret verici, inanılmaz"}
+    ],
+    "gap": 1,
+    "hint": "Herkesin tahmin ettiği sondan kimsenin inanamayacağı bir habere. Burada olayın kendisi anlatılıyor (-ing), insan değil.",
+    "note": "surprising normal sıfattır: very surprising, not very surprising. astonishing güçlü sıfattır: absolutely astonishing denir, very astonishing denmez (amazing, incredible da öyle). -ing/-ed: haber astonishing'dir, onu duyan astonished olur.",
+    "context": [
+      {"text": "It's absolutely ___ that she finished a marathon at the age of ninety.", "options": ["predictable", "surprising", "astonishing"], "answer": "astonishing", "why": "Doksan yaşında maraton koşmak hayret verici; 'absolutely surprising' doğal değildir: absolutely astonishing."},
+      {"text": "It's not very ___ that he failed the exam; he never opened a book all term.", "options": ["predictable", "surprising", "astonishing"], "answer": "surprising", "why": "Hiç çalışmayan birinin kalması şaşırtıcı değil: not very surprising. 'very astonishing' yanlıştır; 'not very predictable' ise cümlenin mantığıyla çelişir."}
+    ]
+  },
+  {
+    "id": "at137",
+    "topic": "Zararın boyutu",
+    "pos": "güçlü sıfat",
+    "low": "faydalı",
+    "high": "felaket",
+    "rungs": [
+      {"en": "beneficial", "tr": "yararlı, faydalı"},
+      {"en": "harmless", "tr": "zararsız"},
+      {"en": "damaging", "tr": "zarar verici"},
+      {"en": "disastrous", "tr": "felaket boyutunda, yıkıcı"}
+    ],
+    "gap": 2,
+    "hint": "İyi gelen bir şeyden her şeyi mahveden bir şeye. 'Zararsız' ile 'faydalı' aynı şey mi?",
+    "note": "damaging normal sıfattır: very damaging, extremely damaging. disastrous güçlü sıfattır: absolutely disastrous denir, very disastrous denmez (catastrophic da öyle). harmless 'zararsız' ama faydalı değil; beneficial 'yararlı'.",
+    "context": [
+      {"text": "The drought was absolutely ___ for local farmers; most of them lost their entire harvest.", "options": ["harmless", "damaging", "disastrous"], "answer": "disastrous", "why": "Hasadın tamamen kaybı bir felaket; 'absolutely' da güçlü sıfatla kullanılır: absolutely disastrous. 'absolutely damaging' doğal değildir."},
+      {"text": "Too much sugar can be very ___ to your teeth.", "options": ["beneficial", "damaging", "disastrous"], "answer": "damaging", "why": "'very' güçlü sıfatla kullanılmaz (very disastrous ✗): very damaging. beneficial 'fazla şeker' ile çelişir."}
+    ]
+  },
+  {
+    "id": "at138",
+    "topic": "İşin özeni",
+    "pos": "güçlü sıfat",
+    "low": "baştan savma",
+    "high": "kusursuz",
+    "rungs": [
+      {"en": "sloppy", "tr": "özensiz, baştan savma"},
+      {"en": "acceptable", "tr": "kabul edilebilir"},
+      {"en": "good", "tr": "iyi"},
+      {"en": "flawless", "tr": "kusursuz"}
+    ],
+    "gap": 1,
+    "hint": "Baştan savma yapılmış bir boyadan tek hata bulunamayan bir işe.",
+    "note": "sloppy, acceptable ve good derecelenebilir: very sloppy, a bit sloppy, very good. flawless (≈ perfect) mutlak sıfattır: bir şey ya kusursuzdur ya değildir; absolutely flawless doğru, very flawless yanlıştır.",
+    "context": [
+      {"text": "Her English is absolutely ___; you would never guess she learnt it as an adult.", "options": ["sloppy", "good", "flawless"], "answer": "flawless", "why": "'Yetişkinken öğrendiğini asla tahmin edemezsin' kusursuz demek; 'absolutely good' yanlıştır: absolutely flawless."},
+      {"text": "The repair work was a bit ___: there was paint on the windows and the door still didn't close.", "options": ["sloppy", "good", "flawless"], "answer": "sloppy", "why": "Camlarda boya ve kapanmayan kapı özensizliktir: a bit sloppy. 'a bit flawless' anlamsızdır; good da kusurlarla çelişir."}
+    ]
+  },
+  {
+    "id": "at139",
+    "topic": "Görkem",
+    "pos": "güçlü sıfat",
+    "low": "gösterişsiz",
+    "high": "muhteşem",
+    "rungs": [
+      {"en": "humble", "tr": "gösterişsiz, mütevazı"},
+      {"en": "modest", "tr": "sade, ölçülü"},
+      {"en": "grand", "tr": "görkemli, heybetli"},
+      {"en": "magnificent", "tr": "muhteşem, göz kamaştırıcı"}
+    ],
+    "gap": 1,
+    "hint": "Köydeki küçük bir kulübeden altın tavanlı bir saraya.",
+    "note": "grand normal sıfattır: very grand, quite grand. magnificent güçlü sıfattır: absolutely magnificent denir, very magnificent denmez (splendid, spectacular da öyle). humble ve modest ev için 'gösterişsiz'; kişi için 'alçakgönüllü' demektir.",
+    "context": [
+      {"text": "The palace was absolutely ___, with golden ceilings, marble floors and huge crystal chandeliers.", "options": ["humble", "grand", "magnificent"], "answer": "magnificent", "why": "Altın tavanlar ve kristal avizeler göz kamaştırır; 'absolutely' da güçlü sıfatla gelir: absolutely magnificent. 'absolutely grand' doğal değildir."},
+      {"text": "It was a very ___ house for a village teacher, with twelve bedrooms and a private lake.", "options": ["humble", "grand", "magnificent"], "answer": "grand", "why": "'very' güçlü sıfatla gelmez: very magnificent ✗, very grand ✓. humble on iki yatak odası ve özel gölle çelişir."}
+    ]
+  },
+  {
+    "id": "at140",
+    "topic": "Uygunluk",
+    "pos": "güçlü sıfat",
+    "low": "uygun değil",
+    "high": "kusursuz uyan",
+    "rungs": [
+      {"en": "unsuitable", "tr": "uygunsuz, elverişsiz"},
+      {"en": "suitable", "tr": "uygun"},
+      {"en": "ideal", "tr": "biçilmiş kaftan, tam aranan"},
+      {"en": "perfect", "tr": "mükemmel, kusursuz"}
+    ],
+    "gap": 2,
+    "hint": "Hiç uymayandan tam aradığın şeye.",
+    "note": "suitable normal sıfattır: very suitable, not very suitable. perfect ve ideal mutlak sıfatlardır: absolutely perfect doğru, very perfect yanlıştır. Olumsuz cümlede very sık görülür: These shoes aren't very suitable for hiking.",
+    "context": [
+      {"text": "This flat is absolutely ___ for us: it's next to my office and within our budget.", "options": ["unsuitable", "suitable", "perfect"], "answer": "perfect", "why": "Hem işe yakın hem bütçeye uygun: tam aranan ev. 'absolutely suitable' doğal değildir: absolutely perfect. unsuitable anlamca terstir."},
+      {"text": "Those trainers aren't very ___ for a mountain hike; you should wear proper boots.", "options": ["unsuitable", "suitable", "perfect"], "answer": "suitable", "why": "'very' mutlak sıfatla kullanılmaz (very perfect ✗): not very suitable. 'not very unsuitable' ise mantıksızdır."}
+    ]
+  },
+  {
+    "id": "at141",
+    "topic": "Kalp kırıklığı",
+    "pos": "güçlü sıfat",
+    "low": "iyi",
+    "high": "kalbi kırık",
+    "rungs": [
+      {"en": "fine", "tr": "iyi, sorun yok"},
+      {"en": "disappointed", "tr": "hayal kırıklığına uğramış"},
+      {"en": "hurt", "tr": "kırgın, incinmiş"},
+      {"en": "heartbroken", "tr": "kalbi kırılmış, yıkılmış"}
+    ],
+    "gap": 2,
+    "hint": "Hiçbir şey olmamış gibi olan birinden kalbi paramparça olana.",
+    "note": "disappointed ve hurt normal sıfatlardır: very disappointed, a bit hurt. heartbroken güçlü sıfattır: absolutely heartbroken denir, very heartbroken denmez. disappointed 'with/in' ile kullanılır: disappointed with the result, disappointed in him.",
+    "context": [
+      {"text": "She was absolutely ___ when her dog of fifteen years died.", "options": ["fine", "disappointed", "heartbroken"], "answer": "heartbroken", "why": "On beş yıllık köpeğini kaybetmek kalp kırar; 'absolutely' da güçlü sıfatla gelir: absolutely heartbroken. 'absolutely disappointed' doğal değildir."},
+      {"text": "I was a bit ___ with my exam result; I'd hoped for a higher grade.", "options": ["fine", "disappointed", "heartbroken"], "answer": "disappointed", "why": "Daha yüksek not beklemek hayal kırıklığıdır; 'a bit' güçlü sıfatla kullanılmaz (a bit heartbroken ✗): a bit disappointed."}
+    ]
+  },
+  {
+    "id": "at142",
+    "topic": "Rezalet",
+    "pos": "güçlü sıfat",
+    "low": "tatmin edici",
+    "high": "rezalet",
+    "rungs": [
+      {"en": "satisfactory", "tr": "tatmin edici, yeterli"},
+      {"en": "disappointing", "tr": "hayal kırıklığı yaratan"},
+      {"en": "poor", "tr": "kötü, zayıf"},
+      {"en": "appalling", "tr": "rezalet, berbat"}
+    ],
+    "gap": 2,
+    "hint": "Beklentiyi karşılayan bir hizmetten şikâyet mektubu yazdıran bir hizmete.",
+    "note": "disappointing ve poor normal sıfatlardır: very poor, a bit disappointing. appalling güçlü sıfattır ('rezalet'): absolutely appalling denir, very appalling denmez (atrocious, dreadful da öyle). -ing/-ed: film disappointing'dir, izleyen disappointed olur.",
+    "context": [
+      {"text": "The service was absolutely ___: we waited two hours for our food and the waiter shouted at us.", "options": ["satisfactory", "disappointing", "appalling"], "answer": "appalling", "why": "İki saat bekleyip bir de azar işitmek rezalettir; 'absolutely' güçlü sıfat ister: absolutely appalling. 'absolutely disappointing' doğal değildir."},
+      {"text": "The film was a bit ___; the ending was much weaker than I'd hoped.", "options": ["satisfactory", "disappointing", "appalling"], "answer": "disappointing", "why": "Beklenenden zayıf son hayal kırıklığıdır; 'a bit' güçlü sıfatla gelmez (a bit appalling ✗): a bit disappointing."}
+    ]
+  },
+  {
+    "id": "at143",
+    "topic": "Performans",
+    "pos": "güçlü sıfat",
+    "low": "vasat",
+    "high": "olağanüstü",
+    "rungs": [
+      {"en": "mediocre", "tr": "vasat"},
+      {"en": "competent", "tr": "yetkin, işini bilen"},
+      {"en": "good", "tr": "iyi"},
+      {"en": "outstanding", "tr": "olağanüstü, çok üstün"}
+    ],
+    "gap": 1,
+    "hint": "Kimsenin hatırlamayacağı bir performanstan salonu ayağa kaldırana.",
+    "note": "mediocre ve good normal sıfatlardır: very good, rather mediocre. outstanding güçlü sıfattır: absolutely outstanding denir, very outstanding denmez (superb, exceptional da öyle). competent 'işini yeterince iyi yapan' demektir, övgü sayılmaz.",
+    "context": [
+      {"text": "The young pianist's performance was absolutely ___; the audience stood and cheered for five minutes.", "options": ["mediocre", "good", "outstanding"], "answer": "outstanding", "why": "Beş dakika ayakta alkış olağanüstü bir performansı gösterir; 'absolutely good' yanlıştır: absolutely outstanding."},
+      {"text": "Her essay is very ___, but the conclusion could be a little stronger.", "options": ["mediocre", "good", "outstanding"], "answer": "good", "why": "'but … could be stronger' önce bir övgü ister, mediocre olmaz; 'very' de güçlü sıfatla kullanılmaz (very outstanding ✗): very good."}
+    ]
+  },
+  {
+    "id": "at144",
+    "topic": "Tiksinti",
+    "pos": "güçlü sıfat",
+    "low": "iştah açıcı",
+    "high": "iğrenç",
+    "rungs": [
+      {"en": "appetising", "tr": "iştah açıcı"},
+      {"en": "unpleasant", "tr": "hoş olmayan"},
+      {"en": "nasty", "tr": "kötü, pis"},
+      {"en": "disgusting", "tr": "iğrenç, tiksindirici"}
+    ],
+    "gap": 2,
+    "hint": "İştahını kabartan bir tabaktan midesini bulandırana.",
+    "note": "unpleasant ve nasty normal sıfatlardır: very unpleasant, a bit nasty. disgusting güçlü sıfattır: absolutely disgusting denir, very disgusting zayıf kalır (revolting, vile da öyle). nasty kişi için 'kötü niyetli' de olur: a nasty comment.",
+    "context": [
+      {"text": "The hospital food was absolutely ___; I couldn't swallow a single spoonful.", "options": ["appetising", "unpleasant", "disgusting"], "answer": "disgusting", "why": "Tek kaşık bile yutamamak tiksintidir; 'absolutely' güçlü sıfatla gelir: absolutely disgusting. 'absolutely unpleasant' doğal değildir."},
+      {"text": "The medicine has a slightly ___ taste, so take it with some fruit juice.", "options": ["appetising", "unpleasant", "disgusting"], "answer": "unpleasant", "why": "Meyve suyuyla içilmesi tadın hoş olmadığını gösterir; 'slightly' (hafifçe) güçlü sıfatla kullanılmaz (slightly disgusting ✗): slightly unpleasant."}
+    ]
+  },
+  {
+    "id": "at145",
+    "topic": "Yapılabilirlik",
+    "pos": "güçlü sıfat",
+    "low": "basit",
+    "high": "imkânsız",
+    "rungs": [
+      {"en": "simple", "tr": "basit"},
+      {"en": "tricky", "tr": "çetrefil, dikkat isteyen"},
+      {"en": "difficult", "tr": "zor"},
+      {"en": "impossible", "tr": "imkânsız"}
+    ],
+    "gap": 1,
+    "hint": "Çocuk oyuncağı bir işten kimsenin başaramayacağı bir işe.",
+    "note": "simple, tricky ve difficult derecelenebilir: very difficult, a bit tricky. impossible mutlak sıfattır: absolutely impossible doğru, very impossible yanlıştır. Mutlak sıfatlar 'almost/nearly' de alır: almost impossible ✓ (almost difficult ✗).",
+    "context": [
+      {"text": "It's absolutely ___ to read a 500-page book in one hour.", "options": ["simple", "difficult", "impossible"], "answer": "impossible", "why": "Bir saatte 500 sayfa okunamaz: absolutely impossible. 'absolutely difficult' yanlıştır; simple anlamca terstir."},
+      {"text": "The exam was very ___; most students didn't have time to finish it.", "options": ["simple", "difficult", "impossible"], "answer": "difficult", "why": "Çoğu öğrencinin bitirememesi zorluğu gösterir, simple olmaz; 'very' mutlak sıfatla kullanılmaz (very impossible ✗): very difficult."}
+    ]
+  },
+  {
+    "id": "at146",
+    "topic": "Haberin etkisi",
+    "pos": "güçlü sıfat",
+    "low": "sevindirici",
+    "high": "yıkıcı",
+    "rungs": [
+      {"en": "welcome", "tr": "sevindirici, hoşa giden"},
+      {"en": "worrying", "tr": "endişe verici"},
+      {"en": "upsetting", "tr": "üzücü"},
+      {"en": "devastating", "tr": "yıkıcı, sarsıcı"}
+    ],
+    "gap": 2,
+    "hint": "Herkesi rahatlatan bir haberden bütün bir kasabayı yıkana.",
+    "note": "worrying ve upsetting normal sıfatlardır: very worrying, a bit upsetting. devastating güçlü sıfattır: absolutely devastating denir, very devastating denmez. -ing/-ed: haber devastating'dir, onu alan devastated olur. welcome sıfat olarak 'hoşa giden': welcome news.",
+    "context": [
+      {"text": "The factory closure was absolutely ___ for the town; over 3,000 people lost their jobs.", "options": ["welcome", "worrying", "devastating"], "answer": "devastating", "why": "Üç bin kişinin işsiz kalması yıkıcıdır; 'absolutely' da güçlü sıfatla gelir: absolutely devastating. 'absolutely worrying' doğal değildir."},
+      {"text": "The latest figures are a bit ___: sales have fallen for the second month in a row.", "options": ["welcome", "worrying", "devastating"], "answer": "worrying", "why": "Satışların iki aydır düşmesi endişe vericidir, welcome olmaz; 'a bit' güçlü sıfatla kullanılmaz (a bit devastating ✗): a bit worrying."}
+    ]
+  },
+  {
+    "id": "at147",
+    "topic": "Bunaltıcı hava",
+    "pos": "güçlü sıfat",
+    "low": "ferah",
+    "high": "kavurucu",
+    "rungs": [
+      {"en": "fresh", "tr": "ferah, serin"},
+      {"en": "humid", "tr": "nemli"},
+      {"en": "muggy", "tr": "boğucu, yapış yapış"},
+      {"en": "sweltering", "tr": "kavurucu, insanı bunaltan"}
+    ],
+    "gap": 2,
+    "hint": "Serin bir sabah esintisinden terden sırılsıklam olduğun bir öğlene.",
+    "note": "humid ve muggy normal sıfatlardır: very humid, a bit muggy. sweltering güçlü sıfattır ('bunaltıcı sıcak'): absolutely sweltering denir, very sweltering denmez. Güneşin yakıcılığı için scorching da aynı güçtedir: a scorching day.",
+    "context": [
+      {"text": "It was absolutely ___ in the city – 42 degrees and not a breath of wind.", "options": ["fresh", "humid", "sweltering"], "answer": "sweltering", "why": "42 derece ve rüzgârsız bir hava kavurucudur; 'absolutely humid' doğal değildir: absolutely sweltering. fresh anlamca terstir."},
+      {"text": "It's very ___ today; my shirt is sticking to my back.", "options": ["fresh", "humid", "sweltering"], "answer": "humid", "why": "Gömleğin sırta yapışması nemi gösterir, fresh olmaz; 'very' güçlü sıfatla kullanılmaz (very sweltering ✗): very humid."}
+    ]
+  },
+  {
+    "id": "at148",
+    "topic": "Çabanın karşılığı",
+    "pos": "güçlü sıfat",
+    "low": "boşuna",
+    "high": "tatmin edici",
+    "rungs": [
+      {"en": "pointless", "tr": "boşuna, anlamsız"},
+      {"en": "unproductive", "tr": "verimsiz"},
+      {"en": "worthwhile", "tr": "değer, zahmetine değer"},
+      {"en": "rewarding", "tr": "tatmin edici, doyurucu"}
+    ],
+    "gap": 3,
+    "hint": "Hiçbir sonuç vermeyen bir uğraştan insana çok şey katan bir işe.",
+    "note": "Bu terazinin güçlü ucu altta: pointless mutlak sıfattır ('tamamen boşuna'), absolutely/completely pointless denir, very pointless denmez. unproductive, worthwhile ve rewarding derecelenebilir: very rewarding, extremely worthwhile. rewarding para değil manevi tatmin anlatır: a rewarding job.",
+    "context": [
+      {"text": "Arguing with him is absolutely ___; he never changes his mind about anything.", "options": ["pointless", "worthwhile", "rewarding"], "answer": "pointless", "why": "Fikrini asla değiştirmeyen biriyle tartışmak boşunadır: absolutely pointless. worthwhile ve rewarding cümlenin mantığıyla çelişir."},
+      {"text": "Volunteering at the animal shelter was very ___; I learnt so much and made great friends.", "options": ["pointless", "unproductive", "rewarding"], "answer": "rewarding", "why": "Çok şey öğrenmek ve dost edinmek tatmin edicidir: very rewarding. 'very pointless' yanlıştır; unproductive anlamca terstir."}
+    ]
+  },
+  {
+    "id": "at149",
+    "topic": "Heyecan",
+    "pos": "güçlü sıfat",
+    "low": "sıkıcı",
+    "high": "nefes kesici",
+    "rungs": [
+      {"en": "dull", "tr": "sıkıcı, tekdüze"},
+      {"en": "enjoyable", "tr": "keyifli"},
+      {"en": "exciting", "tr": "heyecanlı, heyecan verici"},
+      {"en": "thrilling", "tr": "nefes kesici, çok heyecanlı"}
+    ],
+    "gap": 2,
+    "hint": "Uyuklatan bir dersten koltuğun ucunda izlenen bir maça.",
+    "note": "dull, enjoyable ve exciting normal sıfatlardır: very exciting, a bit dull. thrilling güçlü sıfattır: absolutely thrilling denir, very thrilling zayıf kalır. -ing/-ed: maç thrilling'dir, izleyen thrilled olur (≈ çok memnun).",
+    "context": [
+      {"text": "The last ten minutes of the final were absolutely ___: both teams scored twice.", "options": ["dull", "enjoyable", "thrilling"], "answer": "thrilling", "why": "Son on dakikada dört gol nefes keser; 'absolutely' güçlü sıfatla gelir: absolutely thrilling. dull anlamca terstir."},
+      {"text": "The lecture was a bit ___; I nearly fell asleep twice.", "options": ["dull", "enjoyable", "thrilling"], "answer": "dull", "why": "İki kez uyuklamak sıkıcılığı gösterir; 'a bit thrilling' yanlıştır, enjoyable da uykuyla çelişir: a bit dull."}
+    ]
+  },
+  {
+    "id": "at150",
+    "topic": "Zayıflık",
+    "pos": "güçlü sıfat",
+    "low": "ince",
+    "high": "bir deri bir kemik",
+    "rungs": [
+      {"en": "slim", "tr": "ince, fit (olumlu)"},
+      {"en": "thin", "tr": "zayıf"},
+      {"en": "skinny", "tr": "sıska, çelimsiz"},
+      {"en": "emaciated", "tr": "bir deri bir kemik kalmış"}
+    ],
+    "gap": 2,
+    "hint": "Beğenilen ince bir vücuttan açlıktan kemikleri sayılan bir bedene.",
+    "note": "slim olumludur ('ince, alımlı'), thin tarafsızdır, skinny olumsuza kayar ('sıska'). emaciated güçlü sıfattır: absolutely emaciated denir, very emaciated denmez; açlık ya da hastalık anlatır.",
+    "context": [
+      {"text": "After weeks without food, the rescued dog was absolutely ___.", "options": ["slim", "thin", "emaciated"], "answer": "emaciated", "why": "Haftalarca aç kalan köpek bir deri bir kemik kalır: absolutely emaciated. slim olumlu bir incelik; 'absolutely thin' da doğal değildir."},
+      {"text": "She looks a bit ___ since her illness; she really needs to eat more.", "options": ["slim", "thin", "emaciated"], "answer": "thin", "why": "Hastalıktan sonra 'daha çok yemeli' deniyorsa zayıflık olumsuzdur, slim (alımlı) olmaz; 'a bit emaciated' da yanlıştır: a bit thin."}
+    ]
+  },
+  {
+    "id": "at151",
+    "topic": "Süre",
+    "pos": "güçlü sıfat",
+    "low": "kısa",
+    "high": "bitmek bilmeyen",
+    "rungs": [
+      {"en": "brief", "tr": "kısa, kısacık"},
+      {"en": "long", "tr": "uzun"},
+      {"en": "lengthy", "tr": "uzun soluklu, upuzun"},
+      {"en": "endless", "tr": "bitmek bilmeyen, sonsuz"}
+    ],
+    "gap": 2,
+    "hint": "Beş dakikalık bir toplantıdan saatlerce süren bir kuyruğa.",
+    "note": "brief, long ve lengthy derecelenebilir: very brief, very long. endless güçlü (mutlak) sıfattır: absolutely/seemingly endless denir, very endless denmez. lengthy resmî metinlerde sık: a lengthy process.",
+    "context": [
+      {"text": "The queue at passport control seemed absolutely ___; we waited nearly three hours.", "options": ["brief", "long", "endless"], "answer": "endless", "why": "Üç saatlik kuyruk bitmek bilmez; 'absolutely long' yanlıştır: absolutely endless."},
+      {"text": "It was a very ___ meeting – it lasted only five minutes.", "options": ["brief", "long", "endless"], "answer": "brief", "why": "Beş dakika kısa bir süre: very brief. 'very endless' yanlıştır; long anlamca terstir."}
+    ]
+  },
+  {
+    "id": "at152",
+    "topic": "Durumun vahameti",
+    "pos": "güçlü sıfat",
+    "low": "istikrarlı",
+    "high": "vahim",
+    "rungs": [
+      {"en": "stable", "tr": "istikrarlı, dengeli"},
+      {"en": "uncertain", "tr": "belirsiz"},
+      {"en": "serious", "tr": "ciddi"},
+      {"en": "dire", "tr": "vahim, çok kötü"}
+    ],
+    "gap": 2,
+    "hint": "Her şeyin yolunda gittiği bir durumdan acil yardım gerektirene.",
+    "note": "uncertain ve serious normal sıfatlardır: very serious, a bit uncertain. dire güçlü sıfattır ('vahim'): absolutely dire denir, very dire denmez. Kalıplar: in dire need of (çok acil ihtiyaç içinde), dire consequences.",
+    "context": [
+      {"text": "With no food or clean water left, the situation in the camp is absolutely ___.", "options": ["stable", "uncertain", "dire"], "answer": "dire", "why": "Ne yiyecek ne temiz su kalmışsa durum vahimdir: absolutely dire. 'absolutely uncertain' doğal değildir; stable anlamca terstir."},
+      {"text": "The future of the company is a bit ___ after the chairman's sudden resignation.", "options": ["stable", "uncertain", "dire"], "answer": "uncertain", "why": "Başkanın ani istifası geleceği belirsizleştirir; 'a bit dire' yanlıştır, stable da istifayla çelişir: a bit uncertain."}
+    ]
+  },
+  {
+    "id": "at153",
+    "topic": "Manzara",
+    "pos": "güçlü sıfat",
+    "low": "çirkin",
+    "high": "nefes kesen",
+    "rungs": [
+      {"en": "ugly", "tr": "çirkin"},
+      {"en": "pleasant", "tr": "hoş"},
+      {"en": "lovely", "tr": "çok hoş, şirin"},
+      {"en": "breathtaking", "tr": "nefes kesen, büyüleyici"}
+    ],
+    "gap": 2,
+    "hint": "Bakmak istemeyeceğin bir görüntüden fotoğraf çekmeyi bile unutturana.",
+    "note": "pleasant ve lovely normal sıfatlardır: very pleasant, really lovely. breathtaking güçlü sıfattır: absolutely breathtaking denir, very breathtaking denmez (stunning, spectacular da öyle). lovely İngiliz günlük dilinde çok sık: That's lovely!",
+    "context": [
+      {"text": "The view from the hot-air balloon was absolutely ___; I even forgot to take any photos.", "options": ["ugly", "pleasant", "breathtaking"], "answer": "breathtaking", "why": "Fotoğraf çekmeyi unutturan manzara nefes kesicidir: absolutely breathtaking. 'absolutely pleasant' doğal değildir."},
+      {"text": "It's a very ___ little village, though there isn't much to do there.", "options": ["ugly", "pleasant", "breathtaking"], "answer": "pleasant", "why": "'though … yapacak pek bir şey yok' önce olumlu bir yargı ister, ugly olmaz; 'very breathtaking' da yanlıştır: very pleasant."}
+    ]
+  },
+  {
+    "id": "at154",
+    "topic": "Zarafet",
+    "pos": "güçlü sıfat",
+    "low": "kaba, özensiz",
+    "high": "nefis işlenmiş",
+    "rungs": [
+      {"en": "crude", "tr": "kaba, özensiz yapılmış"},
+      {"en": "simple", "tr": "sade"},
+      {"en": "elegant", "tr": "zarif, şık"},
+      {"en": "exquisite", "tr": "nefis işlenmiş, olağanüstü zarif"}
+    ],
+    "gap": 2,
+    "hint": "Aceleyle çakılmış bir tahta kutudan elde işlenmiş bir mücevhere.",
+    "note": "crude, simple ve elegant derecelenebilir: very simple, very elegant. exquisite güçlü sıfattır ('olağanüstü zarif, ince işçilikli'): absolutely exquisite denir, very exquisite denmez. crude 'ham' da demektir: crude oil.",
+    "context": [
+      {"text": "The embroidery on the old wedding dress is absolutely ___; every tiny flower was stitched by hand.", "options": ["crude", "simple", "exquisite"], "answer": "exquisite", "why": "Her minik çiçeğin elle işlenmesi olağanüstü bir incelik: absolutely exquisite. crude anlamca terstir; 'absolutely simple' da bu cümleye uymaz."},
+      {"text": "It's a very ___ design – just a white box with one button, which makes it easy to use.", "options": ["crude", "simple", "exquisite"], "answer": "simple", "why": "Tek düğmeli beyaz kutu sadeliktir ve kullanımı kolaylaştırır: very simple. crude özensizlik anlatır, övgüyle çelişir; 'very exquisite' yanlıştır."}
+    ]
+  },
+  {
+    "id": "at155",
+    "topic": "Davranış",
+    "pos": "güçlü sıfat",
+    "low": "uygun",
+    "high": "yüz kızartıcı",
+    "rungs": [
+      {"en": "appropriate", "tr": "uygun, yerinde"},
+      {"en": "unwise", "tr": "akılsızca, yanlış"},
+      {"en": "inappropriate", "tr": "uygunsuz, yakışıksız"},
+      {"en": "disgraceful", "tr": "yüz kızartıcı, rezil"}
+    ],
+    "gap": 1,
+    "hint": "Yerinde bir davranıştan herkesin kınadığı bir davranışa.",
+    "note": "inappropriate normal sıfattır: very inappropriate, a bit inappropriate. disgraceful güçlü sıfattır: absolutely disgraceful denir, very disgraceful zayıf kalır (shameful, outrageous da öyle). appropriate YDS'de ≈ suitable, proper.",
+    "context": [
+      {"text": "The fans' racist chanting during the match was absolutely ___.", "options": ["appropriate", "inappropriate", "disgraceful"], "answer": "disgraceful", "why": "Irkçı tezahürat kınanacak, yüz kızartıcı bir davranıştır; 'absolutely' güçlü sıfatla gelir: absolutely disgraceful."},
+      {"text": "Wearing jeans to a formal job interview is a bit ___.", "options": ["appropriate", "inappropriate", "disgraceful"], "answer": "inappropriate", "why": "Resmî mülakatta kot uygunsuz kaçar ama rezalet değildir; 'a bit disgraceful' yanlıştır: a bit inappropriate."}
+    ]
+  },
+  {
+    "id": "at156",
+    "topic": "İş yükü",
+    "pos": "güçlü sıfat",
+    "low": "boşta",
+    "high": "işten başını kaldıramayan",
+    "rungs": [
+      {"en": "idle", "tr": "boşta, işsiz güçsüz"},
+      {"en": "quiet", "tr": "sakin, işlerin az olduğu"},
+      {"en": "busy", "tr": "meşgul, yoğun"},
+      {"en": "swamped", "tr": "işe boğulmuş"}
+    ],
+    "gap": 1,
+    "hint": "Yapacak hiçbir işi olmayan birinden öğle yemeğine bile vakit bulamayana.",
+    "note": "quiet ve busy normal sıfatlardır: very busy, a bit quiet. swamped güçlü sıfattır ('işe boğulmuş'): absolutely swamped denir, very swamped denmez; snowed under da aynı anlamdadır. idle makine için 'çalışmayan, boşta': idle machines.",
+    "context": [
+      {"text": "I'm absolutely ___ at work this week – I haven't even had time for lunch.", "options": ["idle", "busy", "swamped"], "answer": "swamped", "why": "Öğle yemeğine bile vakit olmaması işe boğulmaktır: absolutely swamped. 'absolutely busy' doğal değildir; idle anlamca terstir."},
+      {"text": "The shop is usually very ___ on Saturdays, so try to come early.", "options": ["idle", "busy", "swamped"], "answer": "busy", "why": "'Erken gel' uyarısı kalabalığı gösterir: very busy. 'very swamped' yanlıştır; idle uyarıyla çelişir."}
+    ]
+  },
+  {
+    "id": "at157",
+    "topic": "Yenilikçilik",
+    "pos": "güçlü sıfat",
+    "low": "geleneksel",
+    "high": "devrim niteliğinde",
+    "rungs": [
+      {"en": "traditional", "tr": "geleneksel"},
+      {"en": "novel", "tr": "yeni, daha önce görülmemiş"},
+      {"en": "original", "tr": "özgün"},
+      {"en": "revolutionary", "tr": "devrim niteliğinde"}
+    ],
+    "gap": 1,
+    "hint": "Yüzyıllardır aynı yapılan bir yöntemden dünyayı değiştiren bir buluşa.",
+    "note": "original ve novel derecelenebilir: very original, a fairly novel idea. revolutionary güçlü sıfattır: absolutely revolutionary denir, very revolutionary doğal değildir. TUZAK: novel sıfat olarak 'roman' değil 'yeni, alışılmamış' demektir: a novel approach.",
+    "context": [
+      {"text": "The printing press was an absolutely ___ invention; it changed the world forever.", "options": ["traditional", "original", "revolutionary"], "answer": "revolutionary", "why": "Dünyayı kalıcı biçimde değiştiren buluş devrim niteliğindedir: absolutely revolutionary. traditional anlamca terstir."},
+      {"text": "Her approach to teaching grammar is very ___: nobody had tried it before.", "options": ["traditional", "original", "revolutionary"], "answer": "original", "why": "'Daha önce kimse denememişti' özgünlüktür: very original. 'very revolutionary' doğal değildir; traditional ise anlamca terstir."}
+    ]
+  },
+  {
+    "id": "at158",
+    "topic": "Sinir bozuculuk",
+    "pos": "güçlü sıfat",
+    "low": "hoş",
+    "high": "çileden çıkarıcı",
+    "rungs": [
+      {"en": "pleasant", "tr": "hoş"},
+      {"en": "irritating", "tr": "can sıkıcı"},
+      {"en": "annoying", "tr": "sinir bozucu"},
+      {"en": "infuriating", "tr": "çileden çıkarıcı"}
+    ],
+    "gap": 2,
+    "hint": "Hoşuna giden bir sesten saati pencereden fırlatma isteği uyandırana.",
+    "note": "irritating ve annoying normal sıfatlardır: very annoying, a bit irritating. infuriating güçlü sıfattır: absolutely infuriating denir, very infuriating zayıf kalır. -ing/-ed: gürültü annoying'dir, sen annoyed olursun; infuriating olan şey seni furious yapar.",
+    "context": [
+      {"text": "The constant beeping of the alarm was absolutely ___; I wanted to throw it out of the window.", "options": ["pleasant", "irritating", "infuriating"], "answer": "infuriating", "why": "Saati pencereden atma isteği çileden çıkmaktır: absolutely infuriating. 'absolutely irritating' doğal değildir; pleasant anlamca terstir."},
+      {"text": "It's a bit ___ when people check their phones during dinner.", "options": ["pleasant", "irritating", "infuriating"], "answer": "irritating", "why": "Yemekte telefona bakmak hafifçe sinir bozar; 'a bit infuriating' yanlıştır: a bit irritating."}
+    ]
+  },
+  {
+    "id": "at159",
+    "topic": "Tahminin isabeti",
+    "pos": "güçlü sıfat",
+    "low": "yanlış",
+    "high": "tam isabet",
+    "rungs": [
+      {"en": "wrong", "tr": "yanlış"},
+      {"en": "rough", "tr": "kabaca, yaklaşık"},
+      {"en": "close", "tr": "yakın"},
+      {"en": "spot on", "tr": "tam isabet, nokta atışı"}
+    ],
+    "gap": 1,
+    "hint": "Hedefi tamamen ıskalayan bir tahminden sonucu birebir bilene.",
+    "note": "rough ve close derecelenebilir: very close, a rough guess. spot on güçlü (mutlak) bir ifadedir: absolutely spot on denir, very spot on denmez. Günlük İngilizcede çok sık: You're spot on!",
+    "context": [
+      {"text": "Your prediction was absolutely ___: the final score was exactly 2–1, just as you said.", "options": ["wrong", "close", "spot on"], "answer": "spot on", "why": "Skoru birebir bilmek tam isabettir: absolutely spot on. 'absolutely close' doğal değildir; wrong anlamca terstir."},
+      {"text": "My guess was very ___ – I said 50 and the real answer was 52.", "options": ["wrong", "close", "spot on"], "answer": "close", "why": "50 ile 52 çok yakındır ama aynı değildir: very close. 'very spot on' yanlıştır; wrong da farkın küçüklüğüyle çelişir."}
+    ]
+  },
+  {
+    "id": "at160",
+    "topic": "Toprağın nemi",
+    "pos": "güçlü sıfat",
+    "low": "su basmış",
+    "high": "kupkuru",
+    "rungs": [
+      {"en": "waterlogged", "tr": "su basmış, suya doymuş"},
+      {"en": "moist", "tr": "hafif nemli"},
+      {"en": "dry", "tr": "kuru"},
+      {"en": "parched", "tr": "kupkuru, kavrulmuş"}
+    ],
+    "gap": 1,
+    "hint": "Suyun göllendiği bir tarladan çatlamış, kavrulmuş toprağa.",
+    "note": "moist ve dry derecelenebilir: very dry, slightly moist. parched güçlü sıfattır ('kupkuru'): absolutely parched denir, very parched denmez. İnsan için 'çok susamış' demektir: I'm absolutely parched!",
+    "context": [
+      {"text": "After three months without rain, the fields were absolutely ___.", "options": ["waterlogged", "moist", "parched"], "answer": "parched", "why": "Üç ay yağmursuz kalan tarla kupkuru olur: absolutely parched. waterlogged ve moist yağmursuzlukla çelişir."},
+      {"text": "Keep the soil slightly ___ until the seeds start to grow.", "options": ["waterlogged", "moist", "parched"], "answer": "moist", "why": "Tohum için toprak hafif nemli tutulur: slightly moist. 'slightly parched' yanlıştır; waterlogged tohumu çürütür."}
+    ]
+  },
+  {
+    "id": "at161",
+    "topic": "Yorucu iş",
+    "pos": "güçlü sıfat",
+    "low": "dinlendirici",
+    "high": "insanı bitiren",
+    "rungs": [
+      {"en": "relaxing", "tr": "dinlendirici"},
+      {"en": "tiring", "tr": "yorucu"},
+      {"en": "demanding", "tr": "zahmetli, çok emek isteyen"},
+      {"en": "exhausting", "tr": "insanı bitiren, çok yorucu"}
+    ],
+    "gap": 2,
+    "hint": "İnsanı dinlendiren bir yürüyüşten ertesi gün yataktan kaldırmayana. Burada yorulan kişi değil, yoran iş anlatılıyor (-ing).",
+    "note": "tiring ve demanding normal sıfatlardır: very tiring, a bit demanding. exhausting güçlü sıfattır: absolutely exhausting denir, very exhausting zayıf kalır. -ing/-ed: yürüyüş exhausting'dir, yürüyen exhausted olur.",
+    "context": [
+      {"text": "The ten-hour hike was absolutely ___; I slept for twelve hours afterwards.", "options": ["relaxing", "tiring", "exhausting"], "answer": "exhausting", "why": "On iki saat uyutan bir yürüyüş insanı bitirir: absolutely exhausting. 'absolutely tiring' doğal değildir."},
+      {"text": "Driving in city traffic is a bit ___, so let's take the train instead.", "options": ["relaxing", "tiring", "exhausting"], "answer": "tiring", "why": "Trene binme önerisi trafikte sürmenin yorduğunu gösterir, relaxing olmaz; 'a bit exhausting' yanlıştır: a bit tiring."}
+    ]
+  },
+  {
+    "id": "at162",
+    "topic": "Görgü",
+    "pos": "güçlü sıfat",
+    "low": "kaba",
+    "high": "kusursuz",
+    "rungs": [
+      {"en": "rude", "tr": "kaba"},
+      {"en": "polite", "tr": "kibar"},
+      {"en": "courteous", "tr": "nazik, saygılı"},
+      {"en": "impeccable", "tr": "kusursuz, hatasız"}
+    ],
+    "gap": 2,
+    "hint": "Selam bile vermeyen birinden her misafir girdiğinde ayağa kalkana.",
+    "note": "polite ve courteous normal sıfatlardır: very polite, extremely courteous. impeccable mutlak sıfattır ('kusursuz'): absolutely impeccable denir, very impeccable denmez. Kalıplar: impeccable manners, impeccable taste.",
+    "context": [
+      {"text": "His manners were absolutely ___; he stood up every time a guest entered the room.", "options": ["rude", "polite", "impeccable"], "answer": "impeccable", "why": "Her misafirde ayağa kalkmak kusursuz görgüdür: absolutely impeccable. 'absolutely polite' doğal değildir; rude anlamca terstir."},
+      {"text": "The waiter was very ___ and apologised for the long wait.", "options": ["rude", "polite", "impeccable"], "answer": "polite", "why": "Özür dileyen garson kibardır, rude olmaz; 'very impeccable' yanlıştır: very polite."}
+    ]
+  },
+  {
+    "id": "at163",
+    "topic": "Şans",
+    "pos": "güçlü sıfat",
+    "low": "beklenen",
+    "high": "mucizevi",
+    "rungs": [
+      {"en": "expected", "tr": "beklenen"},
+      {"en": "fortunate", "tr": "talihli"},
+      {"en": "lucky", "tr": "şanslı"},
+      {"en": "miraculous", "tr": "mucizevi"}
+    ],
+    "gap": 1,
+    "hint": "Herkesin öngördüğü bir sonuçtan açıklanamayan bir kurtuluşa.",
+    "note": "fortunate ve lucky derecelenebilir: very lucky, extremely fortunate. miraculous güçlü sıfattır: absolutely miraculous denir, very miraculous denmez. fortunate daha resmîdir: We were fortunate to find a doctor nearby.",
+    "context": [
+      {"text": "Surviving a fall from the tenth floor was absolutely ___.", "options": ["expected", "lucky", "miraculous"], "answer": "miraculous", "why": "Onuncu kattan düşüp kurtulmak mucizedir: absolutely miraculous. 'absolutely lucky' doğal değildir; expected anlamca uymaz."},
+      {"text": "We were very ___ to find a parking space right outside the theatre.", "options": ["expected", "lucky", "miraculous"], "answer": "lucky", "why": "Tiyatronun önünde yer bulmak şanstır: very lucky. 'very miraculous' yanlıştır; 'very expected to find' da anlamsızdır."}
+    ]
+  },
+  {
+    "id": "at164",
+    "topic": "Cazibe",
+    "pos": "güçlü sıfat",
+    "low": "itici",
+    "high": "karşı konulmaz",
+    "rungs": [
+      {"en": "unattractive", "tr": "çekici olmayan, itici"},
+      {"en": "tempting", "tr": "cezbedici"},
+      {"en": "attractive", "tr": "çekici, cazip"},
+      {"en": "irresistible", "tr": "karşı konulmaz"}
+    ],
+    "gap": 2,
+    "hint": "Hiç ilgini çekmeyen bir tekliften hayır diyemeyeceğin bir kokuya.",
+    "note": "tempting ve attractive normal sıfatlardır: very tempting, an extremely attractive offer. irresistible mutlak sıfattır ('karşı konulmaz'): absolutely irresistible denir, very irresistible denmez.",
+    "context": [
+      {"text": "The smell of fresh bread from the bakery was absolutely ___; I had to go in and buy some.", "options": ["unattractive", "tempting", "irresistible"], "answer": "irresistible", "why": "İçeri girip almak zorunda kalmak karşı konulamazlıktır: absolutely irresistible. 'absolutely tempting' doğal değildir."},
+      {"text": "The job offer is very ___, but I don't really want to move to another city.", "options": ["unattractive", "tempting", "irresistible"], "answer": "tempting", "why": "'ama taşınmak istemiyorum' teklifin cezbettiğini ama karşı konulabildiğini gösterir: very tempting. 'very irresistible' yanlıştır; unattractive 'but' ile çelişir."}
+    ]
+  },
+  {
+    "id": "at165",
+    "topic": "Umut",
+    "pos": "güçlü sıfat",
+    "low": "umut verici",
+    "high": "umutsuz",
+    "rungs": [
+      {"en": "promising", "tr": "umut verici"},
+      {"en": "doubtful", "tr": "şüpheli"},
+      {"en": "bleak", "tr": "iç karartıcı, umut vermeyen"},
+      {"en": "hopeless", "tr": "umutsuz, çaresiz"}
+    ],
+    "gap": 2,
+    "hint": "Herkesi sevindiren ilk sonuçlardan artık hiçbir çıkış yolu olmayan bir duruma.",
+    "note": "Bu terazinin güçlü ucu en altta: hopeless mutlak sıfattır, absolutely/completely hopeless denir, very hopeless denmez. promising, doubtful ve bleak derecelenebilir: very promising, rather bleak. Kişi için: I'm hopeless at maths (matematikte berbatım).",
+    "context": [
+      {"text": "Without a goalkeeper and with three players injured, our chances were absolutely ___.", "options": ["promising", "doubtful", "hopeless"], "answer": "hopeless", "why": "Kalecisiz ve üç sakatla şans kalmamıştır: absolutely hopeless. 'absolutely doubtful' doğal değildir; promising anlamca terstir."},
+      {"text": "The first test results are very ___, so the doctors are optimistic.", "options": ["promising", "doubtful", "hopeless"], "answer": "promising", "why": "Doktorların iyimserliği sonuçların umut verici olduğunu gösterir: very promising. 'very hopeless' yanlıştır; doubtful iyimserlikle çelişir."}
+    ]
+  },
+  {
+    "id": "at166",
+    "topic": "Anlaşılırlık",
+    "pos": "güçlü sıfat",
+    "low": "anlaşılır",
+    "high": "anlaşılmaz",
+    "rungs": [
+      {"en": "straightforward", "tr": "açık, dolambaçsız"},
+      {"en": "complicated", "tr": "karmaşık"},
+      {"en": "complex", "tr": "çok katmanlı, girift"},
+      {"en": "incomprehensible", "tr": "anlaşılmaz, akıl sır ermez"}
+    ],
+    "gap": 2,
+    "hint": "Bir çocuğun bile anlayacağı bir talimattan mühendisin bile çözemeyeceğine.",
+    "note": "complicated ve complex normal sıfatlardır: very complicated, highly complex. incomprehensible mutlak sıfattır: completely/totally incomprehensible denir, very incomprehensible denmez. straightforward YDS'de ≈ simple, clear.",
+    "context": [
+      {"text": "The instructions were totally ___; not even the engineer could understand them.", "options": ["straightforward", "complicated", "incomprehensible"], "answer": "incomprehensible", "why": "Mühendisin bile anlayamaması anlaşılmazlıktır: totally incomprehensible. 'totally complicated' doğal değildir; straightforward anlamca terstir."},
+      {"text": "The tax form is a bit ___, so ask someone to help you fill it in.", "options": ["straightforward", "complicated", "incomprehensible"], "answer": "complicated", "why": "Yardım istemek formun karmaşık olduğunu gösterir; 'a bit incomprehensible' yanlıştır: a bit complicated."}
+    ]
+  },
+  {
+    "id": "at167",
+    "topic": "Huzur",
+    "pos": "güçlü sıfat",
+    "low": "stresli",
+    "high": "mutluluk dolu",
+    "rungs": [
+      {"en": "stressful", "tr": "stresli"},
+      {"en": "calm", "tr": "sakin"},
+      {"en": "peaceful", "tr": "huzurlu"},
+      {"en": "blissful", "tr": "mutluluk dolu, cennet gibi"}
+    ],
+    "gap": 2,
+    "hint": "Koşuşturmalı bir iş gününden telefonun çekmediği bir ada tatiline.",
+    "note": "calm ve peaceful normal sıfatlardır: very calm, very peaceful. blissful güçlü sıfattır ('tarifsiz mutlu, huzur dolu'): absolutely blissful denir, very blissful denmez. stressful: a stressful job.",
+    "context": [
+      {"text": "Two weeks on a quiet island with no phone signal was absolutely ___.", "options": ["stressful", "calm", "blissful"], "answer": "blissful", "why": "Sessiz bir adada telefonsuz iki hafta cennet gibidir: absolutely blissful. 'absolutely calm' bu anlamda doğal değildir; stressful anlamca terstir."},
+      {"text": "It was a very ___ flight: no turbulence and no crying babies.", "options": ["stressful", "calm", "blissful"], "answer": "calm", "why": "Türbülanssız, sessiz uçuş sakindir: very calm. 'very blissful' yanlıştır; stressful anlamca terstir."}
+    ]
+  },
+  {
+    "id": "at168",
+    "topic": "Yetersizlik",
+    "pos": "güçlü sıfat",
+    "low": "güçlü",
+    "high": "acınası",
+    "rungs": [
+      {"en": "strong", "tr": "güçlü, sağlam"},
+      {"en": "reasonable", "tr": "makul"},
+      {"en": "weak", "tr": "zayıf"},
+      {"en": "pathetic", "tr": "acınası, rezil"}
+    ],
+    "gap": 1,
+    "hint": "Sağlam bir savunmadan bir maçta yedi gol yiyen bir savunmaya.",
+    "note": "strong, reasonable ve weak derecelenebilir: very weak, a bit weak. pathetic güçlü sıfattır: absolutely pathetic denir, very pathetic zayıf kalır. TUZAK: pathetic Türkçedeki 'patetik/duygusal' değil, 'acınası, rezil' demektir.",
+    "context": [
+      {"text": "Their defence was absolutely ___; they let in seven goals in one match.", "options": ["strong", "weak", "pathetic"], "answer": "pathetic", "why": "Tek maçta yedi gol yemek rezalettir: absolutely pathetic. 'absolutely weak' doğal değildir; strong anlamca terstir."},
+      {"text": "His excuse was a bit ___; nobody really believed him.", "options": ["strong", "weak", "pathetic"], "answer": "weak", "why": "İnandırıcı olmayan bahane zayıftır; 'a bit pathetic' güçlü sıfat kuralına uymaz, strong da inanılmamayla çelişir: a bit weak."}
+    ]
+  },
+  {
+    "id": "at169",
+    "topic": "Üşüme",
+    "pos": "güçlü sıfat",
+    "low": "sıcacık",
+    "high": "buz kesmiş",
+    "rungs": [
+      {"en": "warm", "tr": "sıcak, ısınmış"},
+      {"en": "chilly", "tr": "üşümüş, serin"},
+      {"en": "cold", "tr": "soğuk, üşümüş"},
+      {"en": "frozen", "tr": "buz kesmiş, donmuş"}
+    ],
+    "gap": 1,
+    "hint": "Sobanın başındaki birinden bir saat karda otobüs bekleyene. Burada havayı değil insanın hissini düşün.",
+    "note": "chilly ve cold normal sıfatlardır: a bit chilly, very cold. frozen güçlü sıfattır: I'm absolutely frozen! denir, very frozen denmez; freezing de aynı güçtedir (It's freezing!). chilly hem 'serin' hava hem 'üşümüş' kişi için kullanılır.",
+    "context": [
+      {"text": "I've been waiting for the bus for an hour in the snow and I'm absolutely ___.", "options": ["warm", "cold", "frozen"], "answer": "frozen", "why": "Karda bir saat beklemek insanı buz keser: absolutely frozen. 'absolutely cold' yanlıştır; warm anlamca terstir."},
+      {"text": "I'm a bit ___ – could you close the window, please?", "options": ["warm", "cold", "frozen"], "answer": "cold", "why": "Pencereyi kapattırmak üşümeyi gösterir; 'a bit frozen' yanlıştır, warm da istekle çelişir: a bit cold."}
+    ]
+  },
+  {
+    "id": "at170",
+    "topic": "Maliyet",
+    "pos": "güçlü sıfat",
+    "low": "uygun fiyatlı",
+    "high": "dudak uçuklatan",
+    "rungs": [
+      {"en": "affordable", "tr": "uygun fiyatlı, alınabilir"},
+      {"en": "pricey", "tr": "pahalıca"},
+      {"en": "costly", "tr": "masraflı, pahalı"},
+      {"en": "astronomical", "tr": "dudak uçuklatan, astronomik"}
+    ],
+    "gap": 2,
+    "hint": "Cebini yakmayan bir fiyattan bütçeyi üçe katlayan bir faturaya.",
+    "note": "pricey ve costly normal sıfatlardır: a bit pricey, very costly. astronomical güçlü sıfattır: absolutely astronomical denir, very astronomical denmez. costly 'bedeli ağır' mecazında da kullanılır: a costly mistake.",
+    "context": [
+      {"text": "The cost of the new stadium was absolutely ___: three times the original budget.", "options": ["affordable", "pricey", "astronomical"], "answer": "astronomical", "why": "Bütçenin üç katı dudak uçuklatır: absolutely astronomical. 'absolutely pricey' doğal değildir; affordable anlamca terstir."},
+      {"text": "The hotel was a bit ___, but the location was perfect.", "options": ["affordable", "pricey", "astronomical"], "answer": "pricey", "why": "'ama konum mükemmeldi' fiyatın bir kusur olduğunu gösterir; 'a bit astronomical' yanlıştır: a bit pricey."}
+    ]
   }
 ]
