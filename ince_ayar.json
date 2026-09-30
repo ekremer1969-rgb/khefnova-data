@@ -4893,5 +4893,1032 @@
     ],
     "sentence_tr": "Birçok kuş türünün nesli şu anda tehlikede.",
     "note": "'several species' çoğuldur ve çoğul fiil alır; kelimenin biçimi değişmez."
+  },
+  {
+    "id": "ia_0376",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "My [boss] gave me a day off yesterday.",
+    "answer": "boss",
+    "distractors": [
+      "patron",
+      "customer"
+    ],
+    "sentence_tr": "Patronum dün bana bir gün izin verdi.",
+    "note": "Türkçe 'patron' İngilizcede 'boss' ya da 'employer'dır. İngilizce 'patron' = hami, sanat destekçisi ya da bir mekânın müdavimi."
+  },
+  {
+    "id": "ia_0377",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "The Medici family were great [patrons] of the arts.",
+    "answer": "patrons",
+    "distractors": [
+      "bosses",
+      "employers"
+    ],
+    "sentence_tr": "Medici ailesi sanatın büyük hamileriydi.",
+    "note": "İngilizce 'patron' = hami, destekçi: 'a patron of the arts'. Türkçedeki 'patron' anlamı İngilizcede 'boss'tur."
+  },
+  {
+    "id": "ia_0378",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "I suddenly [realized] that I had left my keys at home.",
+    "answer": "realized",
+    "distractors": [
+      "achieved",
+      "performed"
+    ],
+    "sentence_tr": "Anahtarlarımı evde unuttuğumu birden fark ettim.",
+    "note": "İngilizce 'realize' çoğunlukla 'farkına varmak, anlamak'tır. Türkçe 'realize etmek' (gerçekleştirmek) = achieve / carry out; yalnız 'realize a dream' gibi kalıplarda bu anlam vardır."
+  },
+  {
+    "id": "ia_0379",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "She reads the [current] affairs page every morning.",
+    "answer": "current",
+    "distractors": [
+      "actual",
+      "actually"
+    ],
+    "sentence_tr": "Her sabah güncel olaylar sayfasını okur.",
+    "note": "Türkçe 'aktüel' = güncel → current. İngilizce 'actual' = gerçek, asıl demektir. 'current affairs' = güncel olaylar, sabit öbek."
+  },
+  {
+    "id": "ia_0380",
+    "topic": "false_friends",
+    "level": 5,
+    "sentence": "It looked easy, but in [actual] fact it was very hard.",
+    "answer": "actual",
+    "distractors": [
+      "current",
+      "recent"
+    ],
+    "sentence_tr": "Kolay görünüyordu ama aslında çok zordu.",
+    "note": "'in actual fact' = aslında, gerçekte. 'actual' gerçek demektir, 'güncel' değil; güncel = current."
+  },
+  {
+    "id": "ia_0381",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "When I lost my job, my friends were very [sympathetic].",
+    "answer": "sympathetic",
+    "distractors": [
+      "likeable",
+      "charming"
+    ],
+    "sentence_tr": "İşimi kaybettiğimde arkadaşlarım bana çok anlayış gösterdi.",
+    "note": "Türkçe 'sempatik' (cana yakın) = likeable / pleasant. İngilizce 'sympathetic' = anlayışlı, derdini paylaşan."
+  },
+  {
+    "id": "ia_0382",
+    "topic": "false_friends",
+    "level": 5,
+    "sentence": "Many voters are [sympathetic] to the workers' demands.",
+    "answer": "sympathetic",
+    "distractors": [
+      "likeable",
+      "sympathy"
+    ],
+    "sentence_tr": "Birçok seçmen işçilerin taleplerine sıcak bakıyor.",
+    "note": "'sympathetic to/towards sth' = bir fikre ya da talebe destek veren, sıcak bakan. 'sempatik' anlamı yoktur."
+  },
+  {
+    "id": "ia_0383",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "This shirt is made of soft cotton [fabric].",
+    "answer": "fabric",
+    "distractors": [
+      "factory",
+      "fabrication"
+    ],
+    "sentence_tr": "Bu gömlek yumuşak pamuklu kumaştan yapılmış.",
+    "note": "İngilizce 'fabric' = kumaş. Türkçe 'fabrika' = factory. 'fabrication' = uydurma, imalat."
+  },
+  {
+    "id": "ia_0384",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "My father works in a car [factory] near the city.",
+    "answer": "factory",
+    "distractors": [
+      "fabric",
+      "fabrication"
+    ],
+    "sentence_tr": "Babam şehrin yakınındaki bir araba fabrikasında çalışıyor.",
+    "note": "Türkçe 'fabrika' = factory. İngilizce 'fabric' kumaş demektir."
+  },
+  {
+    "id": "ia_0385",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "Agatha Christie wrote many famous detective [novels].",
+    "answer": "novels",
+    "distractors": [
+      "romances",
+      "romans"
+    ],
+    "sentence_tr": "Agatha Christie pek çok ünlü polisiye roman yazdı.",
+    "note": "Türkçe 'roman' = novel. İngilizce 'romance' aşk hikâyesi ya da aşk ilişkisidir; 'Roman' ise Romalı demektir."
+  },
+  {
+    "id": "ia_0386",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Their summer [romance] ended when she returned to Paris.",
+    "answer": "romance",
+    "distractors": [
+      "novel",
+      "fiction"
+    ],
+    "sentence_tr": "Kız Paris'e dönünce yaz aşkları bitti.",
+    "note": "İngilizce 'romance' = aşk ilişkisi, aşk hikâyesi. Türkçedeki 'roman' (kitap) İngilizcede 'novel'dır."
+  },
+  {
+    "id": "ia_0387",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Climate change is at the top of the political [agenda].",
+    "answer": "agenda",
+    "distractors": [
+      "diary",
+      "notebook"
+    ],
+    "sentence_tr": "İklim değişikliği siyasi gündemin en üstünde.",
+    "note": "İngilizce 'agenda' = gündem. Türkçe 'ajanda' (not defteri) = diary / planner."
+  },
+  {
+    "id": "ia_0388",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "After retiring, my grandfather lives on a small [pension].",
+    "answer": "pension",
+    "distractors": [
+      "salary",
+      "hostel"
+    ],
+    "sentence_tr": "Dedem emekli olduktan sonra küçük bir emekli maaşıyla geçiniyor.",
+    "note": "İngilizce 'pension' = emekli maaşı. Türkçe 'pansiyon' = guesthouse / B&B. Çalışanın aldığı maaş ise 'salary'dir."
+  },
+  {
+    "id": "ia_0389",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "Waiter, could we have the [bill], please?",
+    "answer": "bill",
+    "distractors": [
+      "addition",
+      "account"
+    ],
+    "sentence_tr": "Garson, hesabı alabilir miyiz lütfen?",
+    "note": "Türkçe 'adisyon / hesap' = bill (AmE check). İngilizce 'addition' = toplama, ekleme; 'account' = banka hesabı."
+  },
+  {
+    "id": "ia_0390",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "Professor Aydın gave a [lecture] on genetics this morning.",
+    "answer": "lecture",
+    "distractors": [
+      "conference",
+      "congress"
+    ],
+    "sentence_tr": "Profesör Aydın bu sabah genetik üzerine bir konferans verdi.",
+    "note": "Türkçe 'konferans vermek' = give a lecture / talk. İngilizce 'conference' çok katılımcılı bilimsel toplantı, kongredir; 'verilmez', düzenlenir ya da katılınır."
+  },
+  {
+    "id": "ia_0391",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "Could you [check] my essay for spelling mistakes?",
+    "answer": "check",
+    "distractors": [
+      "control",
+      "audit"
+    ],
+    "sentence_tr": "Yazım hataları için kompozisyonumu kontrol eder misin?",
+    "note": "Türkçe 'kontrol etmek' çoğu zaman 'check'tir. İngilizce 'control' = yönetmek, dizginlemek, hâkim olmak."
+  },
+  {
+    "id": "ia_0392",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "What [type] of music do you listen to?",
+    "answer": "type",
+    "distractors": [
+      "tip",
+      "tape"
+    ],
+    "sentence_tr": "Ne tür müzik dinlersin?",
+    "note": "Türkçe 'tip / tür' = type / kind. İngilizce 'tip' = bahşiş ya da ipucu."
+  },
+  {
+    "id": "ia_0393",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "We left the waiter a generous [tip].",
+    "answer": "tip",
+    "distractors": [
+      "type",
+      "tape"
+    ],
+    "sentence_tr": "Garsona cömert bir bahşiş bıraktık.",
+    "note": "İngilizce 'tip' = bahşiş (ya da ipucu). Türkçedeki 'tip' (tür) anlamı İngilizcede 'type'tır."
+  },
+  {
+    "id": "ia_0394",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "I got a good [grade] on my history exam.",
+    "answer": "grade",
+    "distractors": [
+      "note",
+      "notice"
+    ],
+    "sentence_tr": "Tarih sınavından iyi bir not aldım.",
+    "note": "Türkçe 'not' (sınav) = grade (BrE mark). İngilizce 'note' = kısa yazı, not kâğıdı; müzikte nota."
+  },
+  {
+    "id": "ia_0395",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "She left a [note] on the fridge for her son.",
+    "answer": "note",
+    "distractors": [
+      "grade",
+      "score"
+    ],
+    "sentence_tr": "Oğlu için buzdolabının üstüne bir not bıraktı.",
+    "note": "İngilizce 'note' = yazılı kısa not. Sınav notu ise 'grade' ya da 'mark'tır."
+  },
+  {
+    "id": "ia_0396",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "Check the [label] for washing instructions.",
+    "answer": "label",
+    "distractors": [
+      "etiquette",
+      "ticket"
+    ],
+    "sentence_tr": "Yıkama talimatı için etikete bak.",
+    "note": "Türkçe 'etiket' (ürün/fiyat) = label ya da price tag. İngilizce 'etiquette' = görgü kuralları."
+  },
+  {
+    "id": "ia_0397",
+    "topic": "false_friends",
+    "level": 5,
+    "sentence": "Business [etiquette] differs from country to country.",
+    "answer": "etiquette",
+    "distractors": [
+      "label",
+      "ticket"
+    ],
+    "sentence_tr": "İş hayatındaki görgü kuralları ülkeden ülkeye değişir.",
+    "note": "İngilizce 'etiquette' = görgü kuralları, adabımuaşeret. Ürün etiketi ise 'label'dır."
+  },
+  {
+    "id": "ia_0398",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "He wore a dark [suit] to the job interview.",
+    "answer": "suit",
+    "distractors": [
+      "costume",
+      "suite"
+    ],
+    "sentence_tr": "İş görüşmesine koyu renk bir takım elbise giydi.",
+    "note": "Türkçe 'kostüm / takım elbise' = suit. İngilizce 'costume' sahne ya da kılık kıyafetidir; 'suite' otel süitidir."
+  },
+  {
+    "id": "ia_0399",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The children wore pirate [costumes] at the party.",
+    "answer": "costumes",
+    "distractors": [
+      "suites",
+      "customs"
+    ],
+    "sentence_tr": "Çocuklar partide korsan kostümleri giydi.",
+    "note": "İngilizce 'costume' = kılık kıyafeti, sahne kostümü. 'custom' gelenek, 'suite' otel süitidir; takım elbise ise 'suit'tir."
+  },
+  {
+    "id": "ia_0400",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Einstein was a brilliant [physicist], not a medical doctor.",
+    "answer": "physicist",
+    "distractors": [
+      "physician",
+      "physique"
+    ],
+    "sentence_tr": "Einstein bir hekim değil, parlak bir fizikçiydi.",
+    "note": "fizikçi = physicist. İngilizce 'physician' = hekim, doktor; 'physique' = beden yapısı."
+  },
+  {
+    "id": "ia_0401",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "If the pain continues, consult your [physician] immediately.",
+    "answer": "physician",
+    "distractors": [
+      "physicist",
+      "physique"
+    ],
+    "sentence_tr": "Ağrı devam ederse hemen doktorunuza danışın.",
+    "note": "İngilizce 'physician' = hekim (doctor). Fizikle uğraşan bilim insanı 'physicist'tir."
+  },
+  {
+    "id": "ia_0402",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "Our car ran out of [petrol] on the motorway.",
+    "answer": "petrol",
+    "distractors": [
+      "benzene",
+      "petroleum"
+    ],
+    "sentence_tr": "Otoyolda arabamızın benzini bitti.",
+    "note": "Türkçe 'benzin' = petrol (AmE gas / gasoline). İngilizce 'benzene' kimyasal bir bileşik; 'petroleum' ham petroldür."
+  },
+  {
+    "id": "ia_0403",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "She baked a chocolate [cake] for his birthday.",
+    "answer": "cake",
+    "distractors": [
+      "pasta",
+      "paste"
+    ],
+    "sentence_tr": "Onun doğum günü için çikolatalı pasta yaptı.",
+    "note": "Türkçe 'pasta' = cake. İngilizce 'pasta' = makarna; 'paste' = macun, ezme."
+  },
+  {
+    "id": "ia_0404",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "Italians often eat [pasta] with tomato sauce.",
+    "answer": "pasta",
+    "distractors": [
+      "cake",
+      "paste"
+    ],
+    "sentence_tr": "İtalyanlar makarnayı sık sık domates sosuyla yer.",
+    "note": "İngilizce 'pasta' = makarna. Türkçedeki 'pasta' İngilizcede 'cake'tir."
+  },
+  {
+    "id": "ia_0405",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "A folding bike is a very [practical] choice for city life.",
+    "answer": "practical",
+    "distractors": [
+      "practice",
+      "practise"
+    ],
+    "sentence_tr": "Katlanır bisiklet şehir hayatı için çok pratik bir seçim.",
+    "note": "Türkçe 'pratik' (kullanışlı) = practical. 'practice' isim (alıştırma), 'practise' İngiliz İngilizcesinde fiildir."
+  },
+  {
+    "id": "ia_0406",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Sending her flowers was a kind [gesture].",
+    "answer": "gesture",
+    "distractors": [
+      "jest",
+      "mimic"
+    ],
+    "sentence_tr": "Ona çiçek göndermek nazik bir jestti.",
+    "note": "Türkçe 'jest' (incelik, el-kol hareketi) = gesture. İngilizce 'jest' = şaka, latife."
+  },
+  {
+    "id": "ia_0407",
+    "topic": "false_friends",
+    "level": 5,
+    "sentence": "Don't be upset; he only said it in [jest].",
+    "answer": "jest",
+    "distractors": [
+      "gesture",
+      "jester"
+    ],
+    "sentence_tr": "Üzülme; bunu sadece şaka olsun diye söyledi.",
+    "note": "İngilizce 'jest' = şaka; 'in jest' = şakadan, şaka olsun diye. Türkçedeki 'jest' anlamı 'gesture'dır."
+  },
+  {
+    "id": "ia_0408",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Her facial [expression] showed complete surprise.",
+    "answer": "expression",
+    "distractors": [
+      "mimic",
+      "mimicry"
+    ],
+    "sentence_tr": "Yüz ifadesi tam bir şaşkınlık gösteriyordu.",
+    "note": "Türkçe 'mimik' = (facial) expression. İngilizce 'mimic' = taklit etmek / taklitçi; 'mimicry' = taklit."
+  },
+  {
+    "id": "ia_0409",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Parrots can [mimic] human voices very well.",
+    "answer": "mimic",
+    "distractors": [
+      "express",
+      "gesture"
+    ],
+    "sentence_tr": "Papağanlar insan sesini çok iyi taklit edebilir.",
+    "note": "İngilizce 'mimic' = taklit etmek. Türkçedeki 'mimik' (yüz ifadesi) anlamı 'expression'dır."
+  },
+  {
+    "id": "ia_0410",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The charity held a fundraising [event] last Saturday.",
+    "answer": "event",
+    "distractors": [
+      "organization",
+      "organizing"
+    ],
+    "sentence_tr": "Yardım kuruluşu geçen cumartesi bir bağış organizasyonu düzenledi.",
+    "note": "Türkçe 'organizasyon' (etkinlik, düğün, gala) = event. İngilizce 'organization' = kurum, kuruluş ya da düzenleme işi."
+  },
+  {
+    "id": "ia_0411",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "He took out a bank [loan] to buy a house.",
+    "answer": "loan",
+    "distractors": [
+      "credit",
+      "borrow"
+    ],
+    "sentence_tr": "Ev almak için bankadan kredi çekti.",
+    "note": "Türkçe 'kredi çekmek' = take out a loan. İngilizce 'credit' itibar, veresiye, ders kredisi ya da kredi limitidir; çekilen borç 'loan'dır."
+  },
+  {
+    "id": "ia_0412",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "I go swimming twice a week to stay [fit].",
+    "answer": "fit",
+    "distractors": [
+      "form",
+      "formal"
+    ],
+    "sentence_tr": "Formda kalmak için haftada iki kez yüzmeye gidiyorum.",
+    "note": "Türkçe 'formda olmak' = be fit / be in shape. İngilizce 'form' biçim ya da doldurulan belgedir."
+  },
+  {
+    "id": "ia_0413",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "The actors had a final [rehearsal] before opening night.",
+    "answer": "rehearsal",
+    "distractors": [
+      "proof",
+      "prove"
+    ],
+    "sentence_tr": "Oyuncular galadan önce son provayı yaptı.",
+    "note": "Türkçe 'prova' = rehearsal (terzide fitting). İngilizce 'proof' = kanıt; 'prove' = kanıtlamak."
+  },
+  {
+    "id": "ia_0414",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "They sell only high-[quality] leather bags.",
+    "answer": "quality",
+    "distractors": [
+      "qualified",
+      "qualification"
+    ],
+    "sentence_tr": "Sadece yüksek kaliteli deri çanta satıyorlar.",
+    "note": "Türkçe 'kaliteli' = high-quality. 'qualified' kişiler için 'nitelikli, yetkin'dir; 'qualification' = yeterlilik, diploma."
+  },
+  {
+    "id": "ia_0415",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "She reads a fashion [magazine] every month.",
+    "answer": "magazine",
+    "distractors": [
+      "shop",
+      "store"
+    ],
+    "sentence_tr": "Her ay bir moda dergisi okur.",
+    "note": "İngilizce 'magazine' = dergi. Türkçe 'mağaza' = shop / store; 'magazin' (ünlü haberleri) = celebrity news / gossip."
+  },
+  {
+    "id": "ia_0416",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "What's on the other TV [channel]?",
+    "answer": "channel",
+    "distractors": [
+      "canal",
+      "chanel"
+    ],
+    "sentence_tr": "Diğer televizyon kanalında ne var?",
+    "note": "Türkçe 'kanal' iki şeydir: TV / iletişim → channel; su yolu → canal. İngilizce 'canal' televizyon için kullanılmaz."
+  },
+  {
+    "id": "ia_0417",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "Ships use the Suez [Canal] to reach Asia.",
+    "answer": "Canal",
+    "distractors": [
+      "Channel",
+      "Tunnel"
+    ],
+    "sentence_tr": "Gemiler Asya'ya ulaşmak için Süveyş Kanalı'nı kullanır.",
+    "note": "İnsan yapımı su yolu = canal (Suez Canal, Panama Canal). 'channel' TV kanalı ya da doğal boğazdır (English Channel)."
+  },
+  {
+    "id": "ia_0418",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The company [shuttle] picks us up at eight every morning.",
+    "answer": "shuttle",
+    "distractors": [
+      "service",
+      "serve"
+    ],
+    "sentence_tr": "Şirket servisi bizi her sabah sekizde alıyor.",
+    "note": "Türkçe 'servis' (işe/okula taşıyan araç) = shuttle (bus) ya da school bus. İngilizce 'service' = hizmet."
+  },
+  {
+    "id": "ia_0419",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The doctor gave me a sick [note] for three days.",
+    "answer": "note",
+    "distractors": [
+      "report",
+      "record"
+    ],
+    "sentence_tr": "Doktor bana üç günlük rapor verdi.",
+    "note": "Türkçe 'rapor almak' (hastalık izni) = get a sick note / medical certificate. İngilizce 'report' = rapor, haber, karne."
+  },
+  {
+    "id": "ia_0420",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "We have our [midterm] exams next week.",
+    "answer": "midterm",
+    "distractors": [
+      "visa",
+      "vise"
+    ],
+    "sentence_tr": "Gelecek hafta vize sınavlarımız var.",
+    "note": "Türkçe 'vize sınavı' = midterm (exam). İngilizce 'visa' yalnız ülkeye giriş izni anlamındaki vizedir."
+  },
+  {
+    "id": "ia_0421",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "She did a summer [internship] at a law firm.",
+    "answer": "internship",
+    "distractors": [
+      "stage",
+      "stag"
+    ],
+    "sentence_tr": "Bir hukuk bürosunda yaz stajı yaptı.",
+    "note": "Türkçe 'staj' = internship / work placement. İngilizce 'stage' = sahne ya da aşama."
+  },
+  {
+    "id": "ia_0422",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "It's so hot; please turn on the [air conditioner].",
+    "answer": "air conditioner",
+    "distractors": [
+      "climate",
+      "climatizer"
+    ],
+    "sentence_tr": "Çok sıcak; lütfen klimayı aç.",
+    "note": "Türkçe 'klima' = air conditioner / air conditioning. İngilizce 'climate' = iklim."
+  },
+  {
+    "id": "ia_0423",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "The remote control needs a new [battery].",
+    "answer": "battery",
+    "distractors": [
+      "pill",
+      "pile"
+    ],
+    "sentence_tr": "Kumandaya yeni pil lazım.",
+    "note": "Türkçe 'pil' = battery. İngilizce 'pill' = hap; 'pile' = yığın."
+  },
+  {
+    "id": "ia_0424",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "Plug the charger into the wall [socket].",
+    "answer": "socket",
+    "distractors": [
+      "prize",
+      "price"
+    ],
+    "sentence_tr": "Şarj aletini duvardaki prize tak.",
+    "note": "Türkçe 'priz' = socket (AmE outlet). İngilizce 'prize' = ödül; 'price' = fiyat."
+  },
+  {
+    "id": "ia_0425",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The [bulb] in the kitchen has burned out.",
+    "answer": "bulb",
+    "distractors": [
+      "ampoule",
+      "bulk"
+    ],
+    "sentence_tr": "Mutfaktaki ampul yandı.",
+    "note": "Türkçe 'ampul' = (light) bulb. İngilizce 'ampoule' = ilaç ampulü, ince cam tüp."
+  },
+  {
+    "id": "ia_0426",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "Please rinse the dirty cups in the [sink].",
+    "answer": "sink",
+    "distractors": [
+      "lavatory",
+      "lavender"
+    ],
+    "sentence_tr": "Lütfen kirli fincanları lavaboda durula.",
+    "note": "Türkçe 'lavabo' = sink / washbasin. İngilizce 'lavatory' = tuvalet."
+  },
+  {
+    "id": "ia_0427",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "We usually watch TV in the [living room].",
+    "answer": "living room",
+    "distractors": [
+      "salon",
+      "saloon"
+    ],
+    "sentence_tr": "Genelde salonda televizyon izleriz.",
+    "note": "Türkçe 'salon' (evde) = living room / sitting room. İngilizce 'salon' güzellik ya da kuaför salonu; 'saloon' eski Batı barıdır."
+  },
+  {
+    "id": "ia_0428",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "She fell asleep on the [sofa] watching a film.",
+    "answer": "sofa",
+    "distractors": [
+      "canapé",
+      "canopy"
+    ],
+    "sentence_tr": "Film izlerken kanepede uyuyakaldı.",
+    "note": "Türkçe 'kanepe' = sofa / couch. İngilizce 'canapé' kokteyllerde sunulan küçük mezedir; 'canopy' gölgelik."
+  },
+  {
+    "id": "ia_0429",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "I spread strawberry [jam] on my toast.",
+    "answer": "jam",
+    "distractors": [
+      "marmalade",
+      "gem"
+    ],
+    "sentence_tr": "Kızarmış ekmeğime çilek reçeli sürdüm.",
+    "note": "Türkçe 'marmelat / reçel' genel olarak = jam. İngilizce 'marmalade' yalnız portakal gibi turunçgil reçelidir."
+  },
+  {
+    "id": "ia_0430",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "The nurse measured my blood [pressure].",
+    "answer": "pressure",
+    "distractors": [
+      "tension",
+      "pression"
+    ],
+    "sentence_tr": "Hemşire tansiyonumu ölçtü.",
+    "note": "Türkçe 'tansiyon' (kan basıncı) = blood pressure. İngilizce 'tension' = gerginlik."
+  },
+  {
+    "id": "ia_0431",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "I stayed in bed for a week with [flu].",
+    "answer": "flu",
+    "distractors": [
+      "grip",
+      "gripe"
+    ],
+    "sentence_tr": "Bir hafta gripten yatakta kaldım.",
+    "note": "Türkçe 'grip' = flu / influenza. İngilizce 'grip' = kavrayış, tutuş; 'gripe' = sızlanma."
+  },
+  {
+    "id": "ia_0432",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "The scandal made the front-page [headlines].",
+    "answer": "headlines",
+    "distractors": [
+      "cuffs",
+      "heads"
+    ],
+    "sentence_tr": "Skandal gazetelerin manşetlerine çıktı.",
+    "note": "Türkçe 'manşet' = headline. İngilizce 'cuff' gömlek kolluğudur (Türkçede de kol manşeti)."
+  },
+  {
+    "id": "ia_0433",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The famous singer gave an [interview] to a newspaper.",
+    "answer": "interview",
+    "distractors": [
+      "reportage",
+      "report"
+    ],
+    "sentence_tr": "Ünlü şarkıcı bir gazeteye röportaj verdi.",
+    "note": "Türkçe 'röportaj' = interview. İngilizce 'reportage' = haber derleme türü, belgesel anlatım."
+  },
+  {
+    "id": "ia_0434",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The news [presenter] read the headlines calmly.",
+    "answer": "presenter",
+    "distractors": [
+      "speaker",
+      "spokesman"
+    ],
+    "sentence_tr": "Haber spikeri başlıkları sakince okudu.",
+    "note": "Türkçe 'spiker' = (news) presenter / newsreader / announcer. İngilizce 'speaker' = konuşmacı, hoparlör ya da meclis başkanı."
+  },
+  {
+    "id": "ia_0435",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "We watched the [trailer] for the new superhero film.",
+    "answer": "trailer",
+    "distractors": [
+      "fragment",
+      "fragrance"
+    ],
+    "sentence_tr": "Yeni süper kahraman filminin fragmanını izledik.",
+    "note": "Türkçe 'fragman' = trailer. İngilizce 'fragment' = parça, kırıntı."
+  },
+  {
+    "id": "ia_0436",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "Beethoven was a famous German [composer].",
+    "answer": "composer",
+    "distractors": [
+      "compositor",
+      "compost"
+    ],
+    "sentence_tr": "Beethoven ünlü bir Alman bestecisiydi.",
+    "note": "Türkçe 'kompozitör' = composer. İngilizce 'compositor' = matbaada dizgici."
+  },
+  {
+    "id": "ia_0437",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "My son loves watching [cartoons] on Saturday mornings.",
+    "answer": "cartoons",
+    "distractors": [
+      "caricatures",
+      "carriages"
+    ],
+    "sentence_tr": "Oğlum cumartesi sabahları çizgi film izlemeye bayılır.",
+    "note": "Çizgi film ve gazete karikatürü = cartoon. İngilizce 'caricature' bir kişiyi abartarak çizen portredir."
+  },
+  {
+    "id": "ia_0438",
+    "topic": "false_friends",
+    "level": 1,
+    "sentence": "The Mona Lisa is the world's most famous [painting].",
+    "answer": "painting",
+    "distractors": [
+      "table",
+      "tableau"
+    ],
+    "sentence_tr": "Mona Lisa dünyanın en ünlü tablosudur.",
+    "note": "Türkçe 'tablo' (sanat eseri) = painting. İngilizce 'table' = masa ya da çizelge."
+  },
+  {
+    "id": "ia_0439",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "We took the [ferry] across the Bosphorus.",
+    "answer": "ferry",
+    "distractors": [
+      "vapour",
+      "fairy"
+    ],
+    "sentence_tr": "Vapurla Boğaz'ın karşısına geçtik.",
+    "note": "Türkçe 'vapur' = ferry. İngilizce 'vapour' = buhar; 'fairy' = peri."
+  },
+  {
+    "id": "ia_0440",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "He rides his [motorbike] to work every day.",
+    "answer": "motorbike",
+    "distractors": [
+      "motor",
+      "engine"
+    ],
+    "sentence_tr": "Her gün işe motoruyla gidiyor.",
+    "note": "Türkçe 'motor' (araç) = motorbike / motorcycle. İngilizce 'motor' ve 'engine' makinenin çalıştıran parçasıdır, binilen taşıt değil."
+  },
+  {
+    "id": "ia_0441",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "Always keep both hands on the [steering wheel].",
+    "answer": "steering wheel",
+    "distractors": [
+      "direction",
+      "director"
+    ],
+    "sentence_tr": "Her zaman iki elini de direksiyonda tut.",
+    "note": "Türkçe 'direksiyon' = steering wheel. İngilizce 'direction' = yön."
+  },
+  {
+    "id": "ia_0442",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The police wrote down the car's number [plate].",
+    "answer": "plate",
+    "distractors": [
+      "plaque",
+      "plank"
+    ],
+    "sentence_tr": "Polis arabanın plakasını not aldı.",
+    "note": "Türkçe 'plaka' = number plate (AmE license plate). İngilizce 'plaque' = hatıra levhası ya da diş plağı."
+  },
+  {
+    "id": "ia_0443",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "All sales staff receive a year-end [bonus].",
+    "answer": "bonus",
+    "distractors": [
+      "premium",
+      "prime"
+    ],
+    "sentence_tr": "Tüm satış personeli yıl sonu primi alır.",
+    "note": "Türkçe 'prim' (maaş dışı ödül) = bonus. İngilizce 'premium' sigortaya ödenen prim ya da ek ücrettir."
+  },
+  {
+    "id": "ia_0444",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "The fans in the [stands] were singing loudly.",
+    "answer": "stands",
+    "distractors": [
+      "tribune",
+      "tribunal"
+    ],
+    "sentence_tr": "Tribündeki taraftarlar yüksek sesle şarkı söylüyordu.",
+    "note": "Türkçe 'tribün' = the stands (BrE terraces). İngilizce 'tribune' halk temsilcisi ya da kürsü, 'tribunal' mahkemedir."
+  },
+  {
+    "id": "ia_0445",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "Which [brand] of shampoo do you usually buy?",
+    "answer": "brand",
+    "distractors": [
+      "mark",
+      "marker"
+    ],
+    "sentence_tr": "Genelde hangi marka şampuan alırsın?",
+    "note": "Türkçe 'marka' = brand (araba/cihazda make). İngilizce 'mark' = işaret, iz, not."
+  },
+  {
+    "id": "ia_0446",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Check your bank [statement] for unusual payments.",
+    "answer": "statement",
+    "distractors": [
+      "extract",
+      "extra"
+    ],
+    "sentence_tr": "Olağan dışı ödemeler için hesap ekstrene bak.",
+    "note": "Türkçe 'hesap ekstresi' = (bank) statement. İngilizce 'extract' = alıntı, öz(üt)."
+  },
+  {
+    "id": "ia_0447",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "They live in a gated [community] with a swimming pool.",
+    "answer": "community",
+    "distractors": [
+      "site",
+      "sight"
+    ],
+    "sentence_tr": "Havuzlu bir sitede oturuyorlar.",
+    "note": "Türkçe 'site' (güvenlikli konut) = gated community / housing complex / estate. İngilizce 'site' = arsa, alan, şantiye ya da web sitesi."
+  },
+  {
+    "id": "ia_0448",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "The newspaper published a harsh [review] of the film.",
+    "answer": "review",
+    "distractors": [
+      "critic",
+      "critical"
+    ],
+    "sentence_tr": "Gazete filmle ilgili sert bir kritik yayımladı.",
+    "note": "Türkçe 'kritik' (eleştiri yazısı) = review / critique. İngilizce 'critic' eleştirmen (kişi), 'critical' sıfattır."
+  },
+  {
+    "id": "ia_0449",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "The film [critic] gave the movie only two stars.",
+    "answer": "critic",
+    "distractors": [
+      "critique",
+      "criticism"
+    ],
+    "sentence_tr": "Film eleştirmeni filme yalnızca iki yıldız verdi.",
+    "note": "İngilizce 'critic' = eleştirmen (kişi). 'critique' ve 'criticism' eleştirinin kendisidir."
+  },
+  {
+    "id": "ia_0450",
+    "topic": "false_friends",
+    "level": 5,
+    "sentence": "Each university has a [quota] for foreign students.",
+    "answer": "quota",
+    "distractors": [
+      "contingent",
+      "content"
+    ],
+    "sentence_tr": "Her üniversitenin yabancı öğrenciler için bir kontenjanı var.",
+    "note": "Türkçe 'kontenjan' = quota. İngilizce 'contingent' bir yerden gelen heyet, grup ya da 'koşula bağlı' demektir."
+  },
+  {
+    "id": "ia_0451",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "The new animated film is now [showing] in cinemas.",
+    "answer": "showing",
+    "distractors": [
+      "vision",
+      "visioning"
+    ],
+    "sentence_tr": "Yeni animasyon filmi şu anda sinemalarda vizyonda.",
+    "note": "Türkçe 'vizyonda' = (now) showing / in cinemas. İngilizce 'vision' = görme, ileri görüş."
+  },
+  {
+    "id": "ia_0452",
+    "topic": "false_friends",
+    "level": 3,
+    "sentence": "He wore a flat [cap] to keep his head warm.",
+    "answer": "cap",
+    "distractors": [
+      "casket",
+      "cask"
+    ],
+    "sentence_tr": "Başını sıcak tutmak için kasket taktı.",
+    "note": "Türkçe 'kasket' = (flat) cap. İngilizce 'casket' = tabut (AmE) ya da mücevher kutusu; 'cask' fıçı."
+  },
+  {
+    "id": "ia_0453",
+    "topic": "false_friends",
+    "level": 4,
+    "sentence": "Read the [leaflet] inside the medicine box carefully.",
+    "answer": "leaflet",
+    "distractors": [
+      "prospectus",
+      "prospect"
+    ],
+    "sentence_tr": "İlaç kutusunun içindeki prospektüsü dikkatle oku.",
+    "note": "Türkçe 'prospektüs' (ilaç) = (patient information) leaflet. İngilizce 'prospectus' okul ya da şirket tanıtım kitapçığıdır."
+  },
+  {
+    "id": "ia_0454",
+    "topic": "false_friends",
+    "level": 2,
+    "sentence": "The phone [line] is busy; please try again later.",
+    "answer": "line",
+    "distractors": [
+      "hat",
+      "hate"
+    ],
+    "sentence_tr": "Telefon hattı meşgul; lütfen daha sonra tekrar dene.",
+    "note": "Türkçe 'hat' (telefon, otobüs, metro hattı) = line. İngilizce 'hat' = şapka."
   }
 ]
