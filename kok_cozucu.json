@@ -1,1 +1,5774 @@
-
+[
+  {
+    "id": "kc_01",
+    "root": "ven / vent",
+    "meaning": "gelmek",
+    "origin": "Latince venire",
+    "level": 4,
+    "words": [
+      {
+        "w": "intervene",
+        "parts": [
+          {
+            "t": "inter",
+            "g": "arasına"
+          },
+          {
+            "t": "vene",
+            "g": "gelmek",
+            "r": 1
+          }
+        ],
+        "lit": "araya gelmek",
+        "tr": "müdahale etmek",
+        "en": "The UN may intervene if the fighting continues.",
+        "en_tr": "Çatışma sürerse BM müdahale edebilir."
+      },
+      {
+        "w": "prevent",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önce"
+          },
+          {
+            "t": "vent",
+            "g": "gelmek",
+            "r": 1
+          }
+        ],
+        "lit": "önüne geçmek",
+        "tr": "önlemek, engellemek",
+        "en": "Regular exercise can help prevent heart disease.",
+        "en_tr": "Düzenli egzersiz kalp hastalığını önlemeye yardımcı olabilir."
+      },
+      {
+        "w": "convene",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "vene",
+            "g": "gelmek",
+            "r": 1
+          }
+        ],
+        "lit": "bir araya gelmek",
+        "tr": "toplanmak, toplantıya çağırmak",
+        "en": "The committee will convene next week to discuss the budget.",
+        "en_tr": "Komite bütçeyi görüşmek için gelecek hafta toplanacak."
+      },
+      {
+        "w": "circumvent",
+        "parts": [
+          {
+            "t": "circum",
+            "g": "etrafında"
+          },
+          {
+            "t": "vent",
+            "g": "gelmek",
+            "r": 1
+          }
+        ],
+        "lit": "etrafından dolaşıp gelmek",
+        "tr": "(kural, engel) atlatmak, dolanmak",
+        "en": "Some companies try to circumvent tax laws.",
+        "en_tr": "Bazı şirketler vergi yasalarını dolanmaya çalışır."
+      },
+      {
+        "w": "advent",
+        "parts": [
+          {
+            "t": "ad",
+            "g": "-e doğru"
+          },
+          {
+            "t": "vent",
+            "g": "gelmek",
+            "r": 1
+          }
+        ],
+        "lit": "gelip çatma",
+        "tr": "ortaya çıkış, geliş",
+        "en": "The advent of the internet changed the way we learn.",
+        "en_tr": "İnternetin ortaya çıkışı öğrenme biçimimizi değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "kc_02",
+    "root": "duc / duct",
+    "meaning": "götürmek, yönlendirmek",
+    "origin": "Latince ducere",
+    "level": 4,
+    "words": [
+      {
+        "w": "deduce",
+        "parts": [
+          {
+            "t": "de",
+            "g": "-den"
+          },
+          {
+            "t": "duce",
+            "g": "götürmek, çıkarmak",
+            "r": 1
+          }
+        ],
+        "lit": "(kanıttan) çıkarıp götürmek",
+        "tr": "sonuç çıkarmak",
+        "en": "From the evidence, we can deduce that he was lying.",
+        "en_tr": "Kanıtlardan onun yalan söylediği sonucunu çıkarabiliriz."
+      },
+      {
+        "w": "induce",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "duce",
+            "g": "götürmek",
+            "r": 1
+          }
+        ],
+        "lit": "içine doğru götürmek",
+        "tr": "neden olmak, yol açmak",
+        "en": "Some medicines can induce sleep.",
+        "en_tr": "Bazı ilaçlar uykuya neden olabilir."
+      },
+      {
+        "w": "conduct",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "duct",
+            "g": "götürmek",
+            "r": 1
+          }
+        ],
+        "lit": "birlikte yürütmek",
+        "tr": "yürütmek, gerçekleştirmek",
+        "en": "The researchers conducted a survey of 500 students.",
+        "en_tr": "Araştırmacılar 500 öğrenciyle bir anket yürüttü."
+      },
+      {
+        "w": "abduct",
+        "parts": [
+          {
+            "t": "ab",
+            "g": "uzağa"
+          },
+          {
+            "t": "duct",
+            "g": "götürmek",
+            "r": 1
+          }
+        ],
+        "lit": "alıp uzağa götürmek",
+        "tr": "(insan) kaçırmak",
+        "en": "The journalist was abducted by an armed group.",
+        "en_tr": "Gazeteci silahlı bir grup tarafından kaçırıldı."
+      },
+      {
+        "w": "reduce",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "duce",
+            "g": "götürmek",
+            "r": 1
+          }
+        ],
+        "lit": "geriye götürmek",
+        "tr": "azaltmak",
+        "en": "We must reduce our energy consumption.",
+        "en_tr": "Enerji tüketimimizi azaltmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "kc_03",
+    "root": "port",
+    "meaning": "taşımak",
+    "origin": "Latince portare",
+    "level": 3,
+    "words": [
+      {
+        "w": "import",
+        "parts": [
+          {
+            "t": "im",
+            "g": "içeri"
+          },
+          {
+            "t": "port",
+            "g": "taşımak",
+            "r": 1
+          }
+        ],
+        "lit": "içeri taşımak",
+        "tr": "ithal etmek",
+        "en": "Turkey imports most of its natural gas.",
+        "en_tr": "Türkiye doğal gazının çoğunu ithal eder."
+      },
+      {
+        "w": "export",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "port",
+            "g": "taşımak",
+            "r": 1
+          }
+        ],
+        "lit": "dışarı taşımak",
+        "tr": "ihraç etmek",
+        "en": "The country exports fruit to many European markets.",
+        "en_tr": "Ülke birçok Avrupa pazarına meyve ihraç ediyor."
+      },
+      {
+        "w": "transport",
+        "parts": [
+          {
+            "t": "trans",
+            "g": "öteye, karşıya"
+          },
+          {
+            "t": "port",
+            "g": "taşımak",
+            "r": 1
+          }
+        ],
+        "lit": "karşı tarafa taşımak",
+        "tr": "taşımak, nakletmek",
+        "en": "Trucks transport goods across the border every day.",
+        "en_tr": "Kamyonlar her gün sınırın öte yanına mal taşıyor."
+      },
+      {
+        "w": "portable",
+        "parts": [
+          {
+            "t": "port",
+            "g": "taşımak",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "taşınabilir",
+        "tr": "taşınabilir, portatif",
+        "en": "She bought a light portable computer for travelling.",
+        "en_tr": "Seyahatler için hafif, taşınabilir bir bilgisayar aldı."
+      },
+      {
+        "w": "deport",
+        "parts": [
+          {
+            "t": "de",
+            "g": "-den uzağa"
+          },
+          {
+            "t": "port",
+            "g": "taşımak",
+            "r": 1
+          }
+        ],
+        "lit": "ülkeden uzağa taşımak",
+        "tr": "sınır dışı etmek",
+        "en": "Illegal workers may be deported to their home countries.",
+        "en_tr": "Kaçak işçiler kendi ülkelerine sınır dışı edilebilir."
+      }
+    ]
+  },
+  {
+    "id": "kc_04",
+    "root": "spect / spic",
+    "meaning": "bakmak",
+    "origin": "Latince specere",
+    "level": 4,
+    "words": [
+      {
+        "w": "inspect",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "spect",
+            "g": "bakmak",
+            "r": 1
+          }
+        ],
+        "lit": "içine bakmak",
+        "tr": "denetlemek, teftiş etmek",
+        "en": "Officials inspect the factory twice a year.",
+        "en_tr": "Yetkililer fabrikayı yılda iki kez denetler."
+      },
+      {
+        "w": "retrospect",
+        "parts": [
+          {
+            "t": "retro",
+            "g": "geriye"
+          },
+          {
+            "t": "spect",
+            "g": "bakmak",
+            "r": 1
+          }
+        ],
+        "lit": "geriye bakış",
+        "tr": "geçmişe bakış",
+        "en": "In retrospect, moving abroad was the right decision.",
+        "en_tr": "Geçmişe bakınca, yurt dışına taşınmak doğru karardı."
+      },
+      {
+        "w": "prospect",
+        "parts": [
+          {
+            "t": "pro",
+            "g": "ileri"
+          },
+          {
+            "t": "spect",
+            "g": "bakmak",
+            "r": 1
+          }
+        ],
+        "lit": "ileriye bakış",
+        "tr": "olasılık, beklenti",
+        "en": "There is little prospect of peace in the region.",
+        "en_tr": "Bölgede barış olasılığı zayıf."
+      },
+      {
+        "w": "conspicuous",
+        "parts": [
+          {
+            "t": "con",
+            "g": "tamamen"
+          },
+          {
+            "t": "spic",
+            "g": "bakmak",
+            "r": 1
+          },
+          {
+            "t": "uous",
+            "g": "-an, -lı"
+          }
+        ],
+        "lit": "tamamen görülebilen",
+        "tr": "göze çarpan, dikkat çeken",
+        "en": "His red coat was conspicuous among the dark suits.",
+        "en_tr": "Kırmızı paltosu koyu takımlar arasında göze çarpıyordu."
+      },
+      {
+        "w": "spectator",
+        "parts": [
+          {
+            "t": "spect",
+            "g": "bakmak",
+            "r": 1
+          },
+          {
+            "t": "ator",
+            "g": "-an kişi"
+          }
+        ],
+        "lit": "bakan kişi",
+        "tr": "seyirci",
+        "en": "Thousands of spectators watched the final match.",
+        "en_tr": "Binlerce seyirci final maçını izledi."
+      }
+    ]
+  },
+  {
+    "id": "kc_05",
+    "root": "dict",
+    "meaning": "söylemek",
+    "origin": "Latince dicere",
+    "level": 4,
+    "words": [
+      {
+        "w": "predict",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önceden"
+          },
+          {
+            "t": "dict",
+            "g": "söylemek",
+            "r": 1
+          }
+        ],
+        "lit": "önceden söylemek",
+        "tr": "tahmin etmek, öngörmek",
+        "en": "Scientists cannot predict earthquakes accurately.",
+        "en_tr": "Bilim insanları depremleri doğru tahmin edemez."
+      },
+      {
+        "w": "contradict",
+        "parts": [
+          {
+            "t": "contra",
+            "g": "karşı"
+          },
+          {
+            "t": "dict",
+            "g": "söylemek",
+            "r": 1
+          }
+        ],
+        "lit": "karşıt söylemek",
+        "tr": "çelişmek, yalanlamak",
+        "en": "The new findings contradict earlier studies.",
+        "en_tr": "Yeni bulgular önceki çalışmalarla çelişiyor."
+      },
+      {
+        "w": "dictate",
+        "parts": [
+          {
+            "t": "dict",
+            "g": "söylemek",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "söyleyip yazdırmak",
+        "tr": "dikte etmek, dayatmak",
+        "en": "Large companies often dictate prices to small suppliers.",
+        "en_tr": "Büyük şirketler çoğu zaman küçük tedarikçilere fiyat dayatır."
+      },
+      {
+        "w": "verdict",
+        "parts": [
+          {
+            "t": "ver",
+            "g": "gerçek"
+          },
+          {
+            "t": "dict",
+            "g": "söylemek",
+            "r": 1
+          }
+        ],
+        "lit": "gerçeği söyleme",
+        "tr": "(mahkeme) karar, hüküm",
+        "en": "The jury reached a verdict after two days.",
+        "en_tr": "Jüri iki gün sonra karara vardı."
+      }
+    ]
+  },
+  {
+    "id": "kc_06",
+    "root": "scrib / script",
+    "meaning": "yazmak",
+    "origin": "Latince scribere",
+    "level": 4,
+    "words": [
+      {
+        "w": "describe",
+        "parts": [
+          {
+            "t": "de",
+            "g": "aşağı"
+          },
+          {
+            "t": "scribe",
+            "g": "yazmak",
+            "r": 1
+          }
+        ],
+        "lit": "yazıya dökmek",
+        "tr": "tanımlamak, betimlemek",
+        "en": "Can you describe the man you saw?",
+        "en_tr": "Gördüğün adamı tarif edebilir misin?"
+      },
+      {
+        "w": "prescribe",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önceden"
+          },
+          {
+            "t": "scribe",
+            "g": "yazmak",
+            "r": 1
+          }
+        ],
+        "lit": "önceden yazmak",
+        "tr": "(ilaç) yazmak, öngörmek",
+        "en": "The doctor prescribed antibiotics for the infection.",
+        "en_tr": "Doktor enfeksiyon için antibiyotik yazdı."
+      },
+      {
+        "w": "subscribe",
+        "parts": [
+          {
+            "t": "sub",
+            "g": "altına"
+          },
+          {
+            "t": "scribe",
+            "g": "yazmak",
+            "r": 1
+          }
+        ],
+        "lit": "altına (adını) yazmak",
+        "tr": "abone olmak",
+        "en": "I subscribe to two scientific journals.",
+        "en_tr": "İki bilimsel dergiye aboneyim."
+      },
+      {
+        "w": "inscription",
+        "parts": [
+          {
+            "t": "in",
+            "g": "üstüne"
+          },
+          {
+            "t": "script",
+            "g": "yazmak",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "üstüne yazılan",
+        "tr": "kitabe, yazıt",
+        "en": "The inscription on the stone is 2,000 years old.",
+        "en_tr": "Taşın üzerindeki yazıt 2.000 yıllık."
+      },
+      {
+        "w": "manuscript",
+        "parts": [
+          {
+            "t": "manu",
+            "g": "el"
+          },
+          {
+            "t": "script",
+            "g": "yazılmış",
+            "r": 1
+          }
+        ],
+        "lit": "elle yazılmış",
+        "tr": "el yazması, müsvedde",
+        "en": "The library holds an ancient Arabic manuscript.",
+        "en_tr": "Kütüphanede eski bir Arapça el yazması bulunuyor."
+      }
+    ]
+  },
+  {
+    "id": "kc_07",
+    "root": "ject",
+    "meaning": "atmak",
+    "origin": "Latince iacere",
+    "level": 4,
+    "words": [
+      {
+        "w": "reject",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "ject",
+            "g": "atmak",
+            "r": 1
+          }
+        ],
+        "lit": "geri atmak",
+        "tr": "reddetmek",
+        "en": "The board rejected the proposal without discussion.",
+        "en_tr": "Yönetim kurulu teklifi tartışmadan reddetti."
+      },
+      {
+        "w": "inject",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "ject",
+            "g": "atmak",
+            "r": 1
+          }
+        ],
+        "lit": "içine atmak",
+        "tr": "enjekte etmek, iğneyle vermek",
+        "en": "The nurse injected the vaccine into his arm.",
+        "en_tr": "Hemşire aşıyı koluna enjekte etti."
+      },
+      {
+        "w": "project",
+        "parts": [
+          {
+            "t": "pro",
+            "g": "ileri"
+          },
+          {
+            "t": "ject",
+            "g": "atmak",
+            "r": 1
+          }
+        ],
+        "lit": "ileri atmak",
+        "tr": "(rakam) öngörmek, tahmin etmek",
+        "en": "Sales are projected to rise by ten percent.",
+        "en_tr": "Satışların yüzde on artması öngörülüyor."
+      },
+      {
+        "w": "eject",
+        "parts": [
+          {
+            "t": "e",
+            "g": "dışarı"
+          },
+          {
+            "t": "ject",
+            "g": "atmak",
+            "r": 1
+          }
+        ],
+        "lit": "dışarı atmak",
+        "tr": "dışarı fırlatmak, çıkarmak",
+        "en": "The pilot ejected seconds before the plane crashed.",
+        "en_tr": "Pilot uçak düşmeden saniyeler önce dışarı fırladı."
+      },
+      {
+        "w": "objection",
+        "parts": [
+          {
+            "t": "ob",
+            "g": "karşı"
+          },
+          {
+            "t": "ject",
+            "g": "atmak",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "karşısına atılan",
+        "tr": "itiraz",
+        "en": "Several members raised objections to the plan.",
+        "en_tr": "Birkaç üye plana itiraz etti."
+      }
+    ]
+  },
+  {
+    "id": "kc_08",
+    "root": "mit / miss",
+    "meaning": "göndermek, bırakmak",
+    "origin": "Latince mittere",
+    "level": 4,
+    "words": [
+      {
+        "w": "transmit",
+        "parts": [
+          {
+            "t": "trans",
+            "g": "öteye"
+          },
+          {
+            "t": "mit",
+            "g": "göndermek",
+            "r": 1
+          }
+        ],
+        "lit": "öteye göndermek",
+        "tr": "iletmek, bulaştırmak",
+        "en": "Mosquitoes can transmit serious diseases.",
+        "en_tr": "Sivrisinekler ciddi hastalıklar bulaştırabilir."
+      },
+      {
+        "w": "emit",
+        "parts": [
+          {
+            "t": "e",
+            "g": "dışarı"
+          },
+          {
+            "t": "mit",
+            "g": "göndermek",
+            "r": 1
+          }
+        ],
+        "lit": "dışarı göndermek",
+        "tr": "yaymak, salmak",
+        "en": "Cars emit large amounts of carbon dioxide.",
+        "en_tr": "Arabalar büyük miktarda karbondioksit salar."
+      },
+      {
+        "w": "omit",
+        "parts": [
+          {
+            "t": "o",
+            "g": "bir kenara"
+          },
+          {
+            "t": "mit",
+            "g": "bırakmak",
+            "r": 1
+          }
+        ],
+        "lit": "bir kenara bırakmak",
+        "tr": "atlamak, dahil etmemek",
+        "en": "Please do not omit any details from your report.",
+        "en_tr": "Lütfen raporundan hiçbir ayrıntıyı atlama."
+      },
+      {
+        "w": "admit",
+        "parts": [
+          {
+            "t": "ad",
+            "g": "-e doğru"
+          },
+          {
+            "t": "mit",
+            "g": "göndermek",
+            "r": 1
+          }
+        ],
+        "lit": "içeri göndermek",
+        "tr": "kabul etmek, itiraf etmek",
+        "en": "He finally admitted that he had made a mistake.",
+        "en_tr": "Sonunda hata yaptığını kabul etti."
+      },
+      {
+        "w": "dismiss",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "ayrı, uzağa"
+          },
+          {
+            "t": "miss",
+            "g": "göndermek",
+            "r": 1
+          }
+        ],
+        "lit": "uzağa göndermek",
+        "tr": "görevden almak; önemsememek",
+        "en": "The manager was dismissed after the scandal.",
+        "en_tr": "Müdür skandalın ardından görevden alındı."
+      }
+    ]
+  },
+  {
+    "id": "kc_09",
+    "root": "rupt",
+    "meaning": "kırmak, koparmak",
+    "origin": "Latince rumpere",
+    "level": 4,
+    "words": [
+      {
+        "w": "interrupt",
+        "parts": [
+          {
+            "t": "inter",
+            "g": "arasına"
+          },
+          {
+            "t": "rupt",
+            "g": "kırmak",
+            "r": 1
+          }
+        ],
+        "lit": "arasını kırmak",
+        "tr": "sözünü kesmek, yarıda kesmek",
+        "en": "Please don't interrupt me while I'm speaking.",
+        "en_tr": "Lütfen konuşurken sözümü kesme."
+      },
+      {
+        "w": "erupt",
+        "parts": [
+          {
+            "t": "e",
+            "g": "dışarı"
+          },
+          {
+            "t": "rupt",
+            "g": "kırmak",
+            "r": 1
+          }
+        ],
+        "lit": "kırıp dışarı çıkmak",
+        "tr": "(yanardağ, olay) patlamak",
+        "en": "The volcano last erupted in 1991.",
+        "en_tr": "Yanardağ en son 1991'de patladı."
+      },
+      {
+        "w": "disrupt",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "ayrı"
+          },
+          {
+            "t": "rupt",
+            "g": "kırmak",
+            "r": 1
+          }
+        ],
+        "lit": "kırıp dağıtmak",
+        "tr": "aksatmak, bozmak",
+        "en": "The strike disrupted train services across the country.",
+        "en_tr": "Grev ülke genelinde tren seferlerini aksattı."
+      },
+      {
+        "w": "corrupt",
+        "parts": [
+          {
+            "t": "cor",
+            "g": "tamamen"
+          },
+          {
+            "t": "rupt",
+            "g": "kırmak",
+            "r": 1
+          }
+        ],
+        "lit": "tamamen kırılmış",
+        "tr": "yozlaşmış, rüşvetçi",
+        "en": "Corrupt officials accepted bribes from the company.",
+        "en_tr": "Yozlaşmış memurlar şirketten rüşvet aldı."
+      },
+      {
+        "w": "bankrupt",
+        "parts": [
+          {
+            "t": "bank",
+            "g": "tezgâh"
+          },
+          {
+            "t": "rupt",
+            "g": "kırılmış",
+            "r": 1
+          }
+        ],
+        "lit": "tezgâhı kırılmış",
+        "tr": "iflas etmiş",
+        "en": "The airline went bankrupt during the crisis.",
+        "en_tr": "Havayolu şirketi kriz sırasında iflas etti."
+      }
+    ]
+  },
+  {
+    "id": "kc_10",
+    "root": "tract",
+    "meaning": "çekmek",
+    "origin": "Latince trahere",
+    "level": 4,
+    "words": [
+      {
+        "w": "attract",
+        "parts": [
+          {
+            "t": "at",
+            "g": "-e doğru"
+          },
+          {
+            "t": "tract",
+            "g": "çekmek",
+            "r": 1
+          }
+        ],
+        "lit": "kendine doğru çekmek",
+        "tr": "çekmek, cezbetmek",
+        "en": "The festival attracts thousands of tourists.",
+        "en_tr": "Festival binlerce turisti cezbediyor."
+      },
+      {
+        "w": "distract",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "ayrı"
+          },
+          {
+            "t": "tract",
+            "g": "çekmek",
+            "r": 1
+          }
+        ],
+        "lit": "başka yöne çekmek",
+        "tr": "dikkatini dağıtmak",
+        "en": "Loud music can distract students from their work.",
+        "en_tr": "Yüksek sesli müzik öğrencilerin dikkatini dağıtabilir."
+      },
+      {
+        "w": "extract",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "tract",
+            "g": "çekmek",
+            "r": 1
+          }
+        ],
+        "lit": "çekip dışarı almak",
+        "tr": "çekip çıkarmak, özünü almak",
+        "en": "Oil is extracted from olives by pressing them.",
+        "en_tr": "Zeytinyağı zeytinler sıkılarak elde edilir."
+      },
+      {
+        "w": "retract",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "tract",
+            "g": "çekmek",
+            "r": 1
+          }
+        ],
+        "lit": "geri çekmek",
+        "tr": "(sözünü) geri almak",
+        "en": "The newspaper retracted its false claims.",
+        "en_tr": "Gazete yanlış iddialarını geri aldı."
+      },
+      {
+        "w": "subtract",
+        "parts": [
+          {
+            "t": "sub",
+            "g": "aşağıdan"
+          },
+          {
+            "t": "tract",
+            "g": "çekmek",
+            "r": 1
+          }
+        ],
+        "lit": "aşağıdan çekip almak",
+        "tr": "(sayıdan) çıkarmak, eksiltmek",
+        "en": "If you subtract 4 from 10, you get 6.",
+        "en_tr": "10'dan 4'ü çıkarırsan 6 kalır."
+      }
+    ]
+  },
+  {
+    "id": "kc_11",
+    "root": "cede / ceed / cess",
+    "meaning": "gitmek, geçmek",
+    "origin": "Latince cedere",
+    "level": 4,
+    "words": [
+      {
+        "w": "precede",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önce"
+          },
+          {
+            "t": "cede",
+            "g": "gitmek",
+            "r": 1
+          }
+        ],
+        "lit": "önden gitmek",
+        "tr": "öncesinde olmak, önünden gitmek",
+        "en": "A short speech preceded the ceremony.",
+        "en_tr": "Törenden önce kısa bir konuşma yapıldı."
+      },
+      {
+        "w": "exceed",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı, öte"
+          },
+          {
+            "t": "ceed",
+            "g": "gitmek",
+            "r": 1
+          }
+        ],
+        "lit": "sınırın ötesine gitmek",
+        "tr": "aşmak",
+        "en": "Drivers must not exceed the speed limit.",
+        "en_tr": "Sürücüler hız sınırını aşmamalı."
+      },
+      {
+        "w": "recede",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "cede",
+            "g": "gitmek",
+            "r": 1
+          }
+        ],
+        "lit": "geri gitmek",
+        "tr": "geri çekilmek",
+        "en": "The flood waters slowly receded.",
+        "en_tr": "Sel suları yavaş yavaş çekildi."
+      },
+      {
+        "w": "intercede",
+        "parts": [
+          {
+            "t": "inter",
+            "g": "arasına"
+          },
+          {
+            "t": "cede",
+            "g": "gitmek",
+            "r": 1
+          }
+        ],
+        "lit": "araya gitmek",
+        "tr": "araya girmek, arabuluculuk etmek",
+        "en": "She interceded with the director on his behalf.",
+        "en_tr": "Onun adına müdürle aracılık etti."
+      },
+      {
+        "w": "access",
+        "parts": [
+          {
+            "t": "ac",
+            "g": "-e doğru"
+          },
+          {
+            "t": "cess",
+            "g": "gitmek",
+            "r": 1
+          }
+        ],
+        "lit": "-e varış",
+        "tr": "erişim",
+        "en": "Millions of people still lack access to clean water.",
+        "en_tr": "Milyonlarca insan hâlâ temiz suya erişemiyor."
+      }
+    ]
+  },
+  {
+    "id": "kc_12",
+    "root": "press",
+    "meaning": "bastırmak",
+    "origin": "Latince premere",
+    "level": 3,
+    "words": [
+      {
+        "w": "depress",
+        "parts": [
+          {
+            "t": "de",
+            "g": "aşağı"
+          },
+          {
+            "t": "press",
+            "g": "bastırmak",
+            "r": 1
+          }
+        ],
+        "lit": "aşağı bastırmak",
+        "tr": "bunaltmak; (fiyat) düşürmek",
+        "en": "Rainy weather always depresses me.",
+        "en_tr": "Yağmurlu hava beni hep bunaltır."
+      },
+      {
+        "w": "suppress",
+        "parts": [
+          {
+            "t": "sup",
+            "g": "altına"
+          },
+          {
+            "t": "press",
+            "g": "bastırmak",
+            "r": 1
+          }
+        ],
+        "lit": "altına bastırmak",
+        "tr": "bastırmak, engellemek",
+        "en": "The army suppressed the rebellion within days.",
+        "en_tr": "Ordu isyanı günler içinde bastırdı."
+      },
+      {
+        "w": "express",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "press",
+            "g": "bastırmak",
+            "r": 1
+          }
+        ],
+        "lit": "sıkıp dışarı çıkarmak",
+        "tr": "ifade etmek",
+        "en": "Children often express their feelings through drawing.",
+        "en_tr": "Çocuklar duygularını çoğu zaman resimle ifade eder."
+      },
+      {
+        "w": "oppress",
+        "parts": [
+          {
+            "t": "op",
+            "g": "karşı"
+          },
+          {
+            "t": "press",
+            "g": "bastırmak",
+            "r": 1
+          }
+        ],
+        "lit": "üzerine bastırmak",
+        "tr": "ezmek, zulmetmek",
+        "en": "The regime oppressed religious minorities for decades.",
+        "en_tr": "Rejim on yıllarca dinî azınlıkları ezdi."
+      },
+      {
+        "w": "impress",
+        "parts": [
+          {
+            "t": "im",
+            "g": "üstüne"
+          },
+          {
+            "t": "press",
+            "g": "bastırmak",
+            "r": 1
+          }
+        ],
+        "lit": "iz bırakacak kadar bastırmak",
+        "tr": "etkilemek",
+        "en": "Her presentation impressed the whole committee.",
+        "en_tr": "Sunumu tüm komiteyi etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "kc_13",
+    "root": "struct",
+    "meaning": "kurmak, yığmak",
+    "origin": "Latince struere",
+    "level": 4,
+    "words": [
+      {
+        "w": "construct",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "struct",
+            "g": "kurmak",
+            "r": 1
+          }
+        ],
+        "lit": "bir araya getirip kurmak",
+        "tr": "inşa etmek",
+        "en": "The bridge was constructed in only two years.",
+        "en_tr": "Köprü yalnızca iki yılda inşa edildi."
+      },
+      {
+        "w": "destruction",
+        "parts": [
+          {
+            "t": "de",
+            "g": "tersine"
+          },
+          {
+            "t": "struct",
+            "g": "kurmak",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "kurulanı tersine çevirme",
+        "tr": "yıkım",
+        "en": "The war caused widespread destruction.",
+        "en_tr": "Savaş geniş çaplı yıkıma yol açtı."
+      },
+      {
+        "w": "obstruct",
+        "parts": [
+          {
+            "t": "ob",
+            "g": "önüne, karşı"
+          },
+          {
+            "t": "struct",
+            "g": "yığmak",
+            "r": 1
+          }
+        ],
+        "lit": "önüne yığmak",
+        "tr": "engellemek, tıkamak",
+        "en": "A fallen tree obstructed the road.",
+        "en_tr": "Devrilen bir ağaç yolu tıkadı."
+      },
+      {
+        "w": "infrastructure",
+        "parts": [
+          {
+            "t": "infra",
+            "g": "altında"
+          },
+          {
+            "t": "struct",
+            "g": "kurmak",
+            "r": 1
+          },
+          {
+            "t": "ure",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "alttaki yapı",
+        "tr": "altyapı",
+        "en": "The city needs to invest in its infrastructure.",
+        "en_tr": "Şehrin altyapısına yatırım yapması gerekiyor."
+      },
+      {
+        "w": "instruct",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "struct",
+            "g": "kurmak",
+            "r": 1
+          }
+        ],
+        "lit": "(bilgiyi) içine kurmak",
+        "tr": "talimat vermek, öğretmek",
+        "en": "Staff were instructed to leave the building immediately.",
+        "en_tr": "Personele binayı derhal terk etmesi talimatı verildi."
+      }
+    ]
+  },
+  {
+    "id": "kc_14",
+    "root": "vert / vers",
+    "meaning": "döndürmek, çevirmek",
+    "origin": "Latince vertere",
+    "level": 4,
+    "words": [
+      {
+        "w": "convert",
+        "parts": [
+          {
+            "t": "con",
+            "g": "tamamen"
+          },
+          {
+            "t": "vert",
+            "g": "döndürmek",
+            "r": 1
+          }
+        ],
+        "lit": "tamamen döndürmek",
+        "tr": "dönüştürmek",
+        "en": "Solar panels convert sunlight into electricity.",
+        "en_tr": "Güneş panelleri güneş ışığını elektriğe dönüştürür."
+      },
+      {
+        "w": "divert",
+        "parts": [
+          {
+            "t": "di",
+            "g": "ayrı"
+          },
+          {
+            "t": "vert",
+            "g": "çevirmek",
+            "r": 1
+          }
+        ],
+        "lit": "başka yöne çevirmek",
+        "tr": "saptırmak, başka yöne çevirmek",
+        "en": "Police diverted traffic away from the accident.",
+        "en_tr": "Polis trafiği kaza yerinden başka yöne yönlendirdi."
+      },
+      {
+        "w": "reverse",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "verse",
+            "g": "çevirmek",
+            "r": 1
+          }
+        ],
+        "lit": "geri çevirmek",
+        "tr": "tersine çevirmek",
+        "en": "The court reversed its earlier decision.",
+        "en_tr": "Mahkeme önceki kararını tersine çevirdi."
+      },
+      {
+        "w": "introvert",
+        "parts": [
+          {
+            "t": "intro",
+            "g": "içeri"
+          },
+          {
+            "t": "vert",
+            "g": "dönmek",
+            "r": 1
+          }
+        ],
+        "lit": "içe dönen",
+        "tr": "içe dönük kişi",
+        "en": "As an introvert, he prefers quiet evenings at home.",
+        "en_tr": "İçe dönük biri olarak evde sakin akşamları tercih eder."
+      },
+      {
+        "w": "adverse",
+        "parts": [
+          {
+            "t": "ad",
+            "g": "-e karşı"
+          },
+          {
+            "t": "verse",
+            "g": "dönmüş",
+            "r": 1
+          }
+        ],
+        "lit": "karşıya dönmüş",
+        "tr": "olumsuz, ters",
+        "en": "The drug has few adverse effects.",
+        "en_tr": "İlacın az sayıda olumsuz etkisi var."
+      }
+    ]
+  },
+  {
+    "id": "kc_15",
+    "root": "cred",
+    "meaning": "inanmak",
+    "origin": "Latince credere",
+    "level": 4,
+    "words": [
+      {
+        "w": "credible",
+        "parts": [
+          {
+            "t": "cred",
+            "g": "inanmak",
+            "r": 1
+          },
+          {
+            "t": "ible",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "inanılabilir",
+        "tr": "inanılır, güvenilir",
+        "en": "The witness gave a credible account of events.",
+        "en_tr": "Tanık olaylara dair inanılır bir anlatım sundu."
+      },
+      {
+        "w": "incredible",
+        "parts": [
+          {
+            "t": "in",
+            "g": "değil"
+          },
+          {
+            "t": "cred",
+            "g": "inanmak",
+            "r": 1
+          },
+          {
+            "t": "ible",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "inanılamaz",
+        "tr": "inanılmaz",
+        "en": "The view from the summit was incredible.",
+        "en_tr": "Zirveden manzara inanılmazdı."
+      },
+      {
+        "w": "credentials",
+        "parts": [
+          {
+            "t": "cred",
+            "g": "inanmak",
+            "r": 1
+          },
+          {
+            "t": "entials",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "güven veren şeyler",
+        "tr": "(yeterlilik) belgeler, referanslar",
+        "en": "The committee checked the candidate's academic credentials.",
+        "en_tr": "Komite adayın akademik belgelerini inceledi."
+      },
+      {
+        "w": "discredit",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "zıt"
+          },
+          {
+            "t": "credit",
+            "g": "güven",
+            "r": 1
+          }
+        ],
+        "lit": "güveni tersine çevirmek",
+        "tr": "itibarını sarsmak",
+        "en": "The scandal discredited the entire government.",
+        "en_tr": "Skandal tüm hükümetin itibarını sarstı."
+      },
+      {
+        "w": "credulous",
+        "parts": [
+          {
+            "t": "cred",
+            "g": "inanmak",
+            "r": 1
+          },
+          {
+            "t": "ulous",
+            "g": "-meye yatkın"
+          }
+        ],
+        "lit": "inanmaya yatkın",
+        "tr": "saf, her şeye inanan",
+        "en": "Credulous buyers believed the fake advertisement.",
+        "en_tr": "Saf alıcılar sahte reklama inandı."
+      }
+    ]
+  },
+  {
+    "id": "kc_16",
+    "root": "voc / vok",
+    "meaning": "çağırmak, ses",
+    "origin": "Latince vocare",
+    "level": 4,
+    "words": [
+      {
+        "w": "advocate",
+        "parts": [
+          {
+            "t": "ad",
+            "g": "-e"
+          },
+          {
+            "t": "voc",
+            "g": "çağırmak",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil/kişi)"
+          }
+        ],
+        "lit": "birinin yanına çağrılan",
+        "tr": "savunmak, desteklemek",
+        "en": "Many doctors advocate a diet low in sugar.",
+        "en_tr": "Birçok doktor az şekerli bir beslenmeyi savunur."
+      },
+      {
+        "w": "provoke",
+        "parts": [
+          {
+            "t": "pro",
+            "g": "ileri"
+          },
+          {
+            "t": "voke",
+            "g": "çağırmak",
+            "r": 1
+          }
+        ],
+        "lit": "ileri çağırmak",
+        "tr": "kışkırtmak, yol açmak",
+        "en": "The new law provoked angry protests.",
+        "en_tr": "Yeni yasa öfkeli protestolara yol açtı."
+      },
+      {
+        "w": "revoke",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "voke",
+            "g": "çağırmak",
+            "r": 1
+          }
+        ],
+        "lit": "geri çağırmak",
+        "tr": "iptal etmek, geri almak",
+        "en": "His driving licence was revoked after the accident.",
+        "en_tr": "Kazadan sonra ehliyeti iptal edildi."
+      },
+      {
+        "w": "evoke",
+        "parts": [
+          {
+            "t": "e",
+            "g": "dışarı"
+          },
+          {
+            "t": "voke",
+            "g": "çağırmak",
+            "r": 1
+          }
+        ],
+        "lit": "dışarı çağırmak",
+        "tr": "(duygu, anı) uyandırmak",
+        "en": "The old song evoked memories of my childhood.",
+        "en_tr": "Eski şarkı çocukluk anılarımı canlandırdı."
+      },
+      {
+        "w": "vocal",
+        "parts": [
+          {
+            "t": "voc",
+            "g": "ses",
+            "r": 1
+          },
+          {
+            "t": "al",
+            "g": "-sal"
+          }
+        ],
+        "lit": "sesle ilgili",
+        "tr": "sesli; açıkça dile getiren",
+        "en": "She has been a vocal critic of the policy.",
+        "en_tr": "Politikanın sesini yükselten bir eleştirmeni oldu."
+      }
+    ]
+  },
+  {
+    "id": "kc_17",
+    "root": "pend / pens",
+    "meaning": "asmak, tartmak, ödemek",
+    "origin": "Latince pendere",
+    "level": 4,
+    "words": [
+      {
+        "w": "depend",
+        "parts": [
+          {
+            "t": "de",
+            "g": "aşağı"
+          },
+          {
+            "t": "pend",
+            "g": "asılmak",
+            "r": 1
+          }
+        ],
+        "lit": "-den aşağı asılı olmak",
+        "tr": "bağlı olmak",
+        "en": "The harvest depends on the amount of rainfall.",
+        "en_tr": "Hasat yağış miktarına bağlıdır."
+      },
+      {
+        "w": "suspend",
+        "parts": [
+          {
+            "t": "sus",
+            "g": "altından"
+          },
+          {
+            "t": "pend",
+            "g": "asmak",
+            "r": 1
+          }
+        ],
+        "lit": "havada asılı bırakmak",
+        "tr": "askıya almak",
+        "en": "The school suspended classes because of the storm.",
+        "en_tr": "Okul fırtına nedeniyle dersleri askıya aldı."
+      },
+      {
+        "w": "pending",
+        "parts": [
+          {
+            "t": "pend",
+            "g": "asılı",
+            "r": 1
+          },
+          {
+            "t": "ing",
+            "g": "-an"
+          }
+        ],
+        "lit": "asılı duran",
+        "tr": "beklemede, karara bağlanmamış",
+        "en": "The case is still pending in the courts.",
+        "en_tr": "Dava mahkemede hâlâ beklemede."
+      },
+      {
+        "w": "expenditure",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "pend",
+            "g": "tartıp ödemek",
+            "r": 1
+          },
+          {
+            "t": "iture",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "dışarı ödenen",
+        "tr": "harcama",
+        "en": "Government expenditure on health has increased.",
+        "en_tr": "Hükümetin sağlık harcaması arttı."
+      },
+      {
+        "w": "compensate",
+        "parts": [
+          {
+            "t": "com",
+            "g": "karşılıklı"
+          },
+          {
+            "t": "pens",
+            "g": "tartmak",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "karşılıklı tartıp denkleştirmek",
+        "tr": "telafi etmek, tazmin etmek",
+        "en": "The company compensated workers for the lost wages.",
+        "en_tr": "Şirket işçilerin kaybettiği ücretleri tazmin etti."
+      }
+    ]
+  },
+  {
+    "id": "kc_18",
+    "root": "fer",
+    "meaning": "taşımak, getirmek",
+    "origin": "Latince ferre",
+    "level": 4,
+    "words": [
+      {
+        "w": "transfer",
+        "parts": [
+          {
+            "t": "trans",
+            "g": "öteye"
+          },
+          {
+            "t": "fer",
+            "g": "taşımak",
+            "r": 1
+          }
+        ],
+        "lit": "öteye taşımak",
+        "tr": "aktarmak, nakletmek",
+        "en": "The money was transferred to his account yesterday.",
+        "en_tr": "Para dün onun hesabına aktarıldı."
+      },
+      {
+        "w": "infer",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "fer",
+            "g": "getirmek",
+            "r": 1
+          }
+        ],
+        "lit": "(anlamı) içeri getirmek",
+        "tr": "çıkarım yapmak, sonucuna varmak",
+        "en": "What can we infer from these results?",
+        "en_tr": "Bu sonuçlardan ne çıkarabiliriz?"
+      },
+      {
+        "w": "defer",
+        "parts": [
+          {
+            "t": "de",
+            "g": "uzağa"
+          },
+          {
+            "t": "fer",
+            "g": "taşımak",
+            "r": 1
+          }
+        ],
+        "lit": "ileriye taşımak",
+        "tr": "ertelemek",
+        "en": "The decision was deferred until next month.",
+        "en_tr": "Karar gelecek aya ertelendi."
+      },
+      {
+        "w": "confer",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "fer",
+            "g": "getirmek",
+            "r": 1
+          }
+        ],
+        "lit": "(fikirleri) bir araya getirmek",
+        "tr": "görüşmek, danışmak",
+        "en": "The judge conferred with the lawyers before ruling.",
+        "en_tr": "Hâkim karar vermeden önce avukatlarla görüştü."
+      },
+      {
+        "w": "fertile",
+        "parts": [
+          {
+            "t": "fer",
+            "g": "getirmek",
+            "r": 1
+          },
+          {
+            "t": "tile",
+            "g": "-ebilen"
+          }
+        ],
+        "lit": "(ürün) getirebilen",
+        "tr": "verimli, bereketli",
+        "en": "The river valley has very fertile soil.",
+        "en_tr": "Nehir vadisinin toprağı çok verimli."
+      }
+    ]
+  },
+  {
+    "id": "kc_19",
+    "root": "tain / ten",
+    "meaning": "tutmak",
+    "origin": "Latince tenere",
+    "level": 4,
+    "words": [
+      {
+        "w": "retain",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "tain",
+            "g": "tutmak",
+            "r": 1
+          }
+        ],
+        "lit": "geride tutmak",
+        "tr": "elinde tutmak, korumak",
+        "en": "The town has retained its traditional character.",
+        "en_tr": "Kasaba geleneksel dokusunu korumuş."
+      },
+      {
+        "w": "sustain",
+        "parts": [
+          {
+            "t": "sus",
+            "g": "alttan"
+          },
+          {
+            "t": "tain",
+            "g": "tutmak",
+            "r": 1
+          }
+        ],
+        "lit": "alttan tutmak",
+        "tr": "sürdürmek, desteklemek",
+        "en": "Can the economy sustain this rate of growth?",
+        "en_tr": "Ekonomi bu büyüme hızını sürdürebilir mi?"
+      },
+      {
+        "w": "detain",
+        "parts": [
+          {
+            "t": "de",
+            "g": "uzakta"
+          },
+          {
+            "t": "tain",
+            "g": "tutmak",
+            "r": 1
+          }
+        ],
+        "lit": "bir yerde tutup alıkoymak",
+        "tr": "gözaltına almak, alıkoymak",
+        "en": "Three suspects were detained by the police.",
+        "en_tr": "Üç şüpheli polis tarafından gözaltına alındı."
+      },
+      {
+        "w": "obtain",
+        "parts": [
+          {
+            "t": "ob",
+            "g": "-e"
+          },
+          {
+            "t": "tain",
+            "g": "tutmak",
+            "r": 1
+          }
+        ],
+        "lit": "tutup ele geçirmek",
+        "tr": "elde etmek",
+        "en": "You must obtain a visa before you travel.",
+        "en_tr": "Seyahat etmeden önce vize almalısın."
+      },
+      {
+        "w": "tenacious",
+        "parts": [
+          {
+            "t": "ten",
+            "g": "tutmak",
+            "r": 1
+          },
+          {
+            "t": "acious",
+            "g": "-meye yatkın"
+          }
+        ],
+        "lit": "sıkı tutan",
+        "tr": "azimli, inatçı",
+        "en": "She is a tenacious researcher who never gives up.",
+        "en_tr": "Asla pes etmeyen azimli bir araştırmacı."
+      }
+    ]
+  },
+  {
+    "id": "kc_20",
+    "root": "pos / pon",
+    "meaning": "koymak",
+    "origin": "Latince ponere",
+    "level": 4,
+    "words": [
+      {
+        "w": "impose",
+        "parts": [
+          {
+            "t": "im",
+            "g": "üstüne"
+          },
+          {
+            "t": "pose",
+            "g": "koymak",
+            "r": 1
+          }
+        ],
+        "lit": "üstüne koymak",
+        "tr": "dayatmak, (vergi) koymak",
+        "en": "The government imposed a new tax on fuel.",
+        "en_tr": "Hükümet yakıta yeni bir vergi koydu."
+      },
+      {
+        "w": "postpone",
+        "parts": [
+          {
+            "t": "post",
+            "g": "sonra"
+          },
+          {
+            "t": "pone",
+            "g": "koymak",
+            "r": 1
+          }
+        ],
+        "lit": "sonraya koymak",
+        "tr": "ertelemek",
+        "en": "The match was postponed because of heavy rain.",
+        "en_tr": "Maç şiddetli yağmur nedeniyle ertelendi."
+      },
+      {
+        "w": "expose",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "pose",
+            "g": "koymak",
+            "r": 1
+          }
+        ],
+        "lit": "dışarı koymak",
+        "tr": "açığa çıkarmak; maruz bırakmak",
+        "en": "Workers were exposed to dangerous chemicals.",
+        "en_tr": "İşçiler tehlikeli kimyasallara maruz kaldı."
+      },
+      {
+        "w": "component",
+        "parts": [
+          {
+            "t": "com",
+            "g": "birlikte"
+          },
+          {
+            "t": "pon",
+            "g": "koymak",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "bir araya konan parça",
+        "tr": "bileşen, parça",
+        "en": "Trust is a key component of any relationship.",
+        "en_tr": "Güven her ilişkinin temel bileşenidir."
+      },
+      {
+        "w": "dispose",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "ayrı"
+          },
+          {
+            "t": "pose",
+            "g": "koymak",
+            "r": 1
+          }
+        ],
+        "lit": "bir kenara koymak",
+        "tr": "(of) elden çıkarmak, atmak",
+        "en": "Hospitals must dispose of medical waste safely.",
+        "en_tr": "Hastaneler tıbbi atıkları güvenli biçimde bertaraf etmeli."
+      }
+    ]
+  },
+  {
+    "id": "kc_21",
+    "root": "fac / fect / fic",
+    "meaning": "yapmak",
+    "origin": "Latince facere",
+    "level": 4,
+    "words": [
+      {
+        "w": "manufacture",
+        "parts": [
+          {
+            "t": "manu",
+            "g": "el"
+          },
+          {
+            "t": "fact",
+            "g": "yapmak",
+            "r": 1
+          },
+          {
+            "t": "ure",
+            "g": "(isim/fiil)"
+          }
+        ],
+        "lit": "elle yapmak",
+        "tr": "üretmek, imal etmek",
+        "en": "The factory manufactures parts for electric cars.",
+        "en_tr": "Fabrika elektrikli arabalar için parça üretiyor."
+      },
+      {
+        "w": "defect",
+        "parts": [
+          {
+            "t": "de",
+            "g": "eksik, aşağı"
+          },
+          {
+            "t": "fect",
+            "g": "yapılmış",
+            "r": 1
+          }
+        ],
+        "lit": "eksik yapılmış",
+        "tr": "kusur",
+        "en": "A defect in the engine caused the accident.",
+        "en_tr": "Motordaki bir kusur kazaya yol açtı."
+      },
+      {
+        "w": "efficient",
+        "parts": [
+          {
+            "t": "ef",
+            "g": "dışarı"
+          },
+          {
+            "t": "fic",
+            "g": "yapmak",
+            "r": 1
+          },
+          {
+            "t": "ient",
+            "g": "-an"
+          }
+        ],
+        "lit": "iş çıkaran",
+        "tr": "verimli",
+        "en": "LED bulbs are more efficient than old ones.",
+        "en_tr": "LED ampuller eskilerinden daha verimlidir."
+      },
+      {
+        "w": "affect",
+        "parts": [
+          {
+            "t": "af",
+            "g": "-e"
+          },
+          {
+            "t": "fect",
+            "g": "yapmak",
+            "r": 1
+          }
+        ],
+        "lit": "-e bir şey yapmak",
+        "tr": "etkilemek",
+        "en": "Stress can affect your sleep.",
+        "en_tr": "Stres uykunu etkileyebilir."
+      },
+      {
+        "w": "proficient",
+        "parts": [
+          {
+            "t": "pro",
+            "g": "ileri"
+          },
+          {
+            "t": "fic",
+            "g": "yapmak",
+            "r": 1
+          },
+          {
+            "t": "ient",
+            "g": "-an"
+          }
+        ],
+        "lit": "ileri düzeyde yapan",
+        "tr": "yetkin, usta",
+        "en": "She is proficient in three foreign languages.",
+        "en_tr": "Üç yabancı dilde yetkin."
+      }
+    ]
+  },
+  {
+    "id": "kc_22",
+    "root": "chron",
+    "meaning": "zaman",
+    "origin": "Yunanca khronos",
+    "level": 4,
+    "words": [
+      {
+        "w": "chronic",
+        "parts": [
+          {
+            "t": "chron",
+            "g": "zaman",
+            "r": 1
+          },
+          {
+            "t": "ic",
+            "g": "-sal"
+          }
+        ],
+        "lit": "zamana yayılan",
+        "tr": "süreğen, kronik",
+        "en": "He suffers from chronic back pain.",
+        "en_tr": "Kronik bel ağrısı çekiyor."
+      },
+      {
+        "w": "chronological",
+        "parts": [
+          {
+            "t": "chrono",
+            "g": "zaman",
+            "r": 1
+          },
+          {
+            "t": "logical",
+            "g": "düzenli, mantıklı"
+          }
+        ],
+        "lit": "zaman düzenine göre",
+        "tr": "zaman sırasına göre",
+        "en": "List the events in chronological order.",
+        "en_tr": "Olayları zaman sırasına göre listele."
+      },
+      {
+        "w": "synchronize",
+        "parts": [
+          {
+            "t": "syn",
+            "g": "birlikte"
+          },
+          {
+            "t": "chron",
+            "g": "zaman",
+            "r": 1
+          },
+          {
+            "t": "ize",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "aynı zamana getirmek",
+        "tr": "eşzamanlamak",
+        "en": "The dancers synchronized their movements perfectly.",
+        "en_tr": "Dansçılar hareketlerini kusursuzca eşzamanladı."
+      },
+      {
+        "w": "anachronism",
+        "parts": [
+          {
+            "t": "ana",
+            "g": "geri, ters"
+          },
+          {
+            "t": "chron",
+            "g": "zaman",
+            "r": 1
+          },
+          {
+            "t": "ism",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "zamana ters düşen şey",
+        "tr": "çağdışılık, zaman hatası",
+        "en": "A smartphone in a medieval film would be an anachronism.",
+        "en_tr": "Orta Çağ filminde akıllı telefon bir zaman hatası olurdu."
+      },
+      {
+        "w": "chronicle",
+        "parts": [
+          {
+            "t": "chron",
+            "g": "zaman",
+            "r": 1
+          },
+          {
+            "t": "icle",
+            "g": "(küçük isim)"
+          }
+        ],
+        "lit": "zamanın kaydı",
+        "tr": "vakayiname; kaydetmek",
+        "en": "The book chronicles the history of the Ottoman navy.",
+        "en_tr": "Kitap Osmanlı donanmasının tarihini kaydediyor."
+      }
+    ]
+  },
+  {
+    "id": "kc_23",
+    "root": "path",
+    "meaning": "duygu, acı",
+    "origin": "Yunanca pathos",
+    "level": 4,
+    "words": [
+      {
+        "w": "sympathy",
+        "parts": [
+          {
+            "t": "sym",
+            "g": "birlikte"
+          },
+          {
+            "t": "path",
+            "g": "duygu",
+            "r": 1
+          },
+          {
+            "t": "y",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "birlikte hissetme",
+        "tr": "acısını paylaşma, taziye",
+        "en": "We expressed our sympathy to the victims' families.",
+        "en_tr": "Kurbanların ailelerine taziyelerimizi ilettik."
+      },
+      {
+        "w": "apathy",
+        "parts": [
+          {
+            "t": "a",
+            "g": "-sız"
+          },
+          {
+            "t": "path",
+            "g": "duygu",
+            "r": 1
+          },
+          {
+            "t": "y",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "duygusuzluk",
+        "tr": "ilgisizlik, umursamazlık",
+        "en": "Voter apathy led to a very low turnout.",
+        "en_tr": "Seçmen ilgisizliği çok düşük katılıma yol açtı."
+      },
+      {
+        "w": "empathy",
+        "parts": [
+          {
+            "t": "em",
+            "g": "içine"
+          },
+          {
+            "t": "path",
+            "g": "duygu",
+            "r": 1
+          },
+          {
+            "t": "y",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "(karşıdakinin) duygusunun içine girme",
+        "tr": "empati, kendini onun yerine koyma",
+        "en": "Good nurses show empathy towards their patients.",
+        "en_tr": "İyi hemşireler hastalarına empati gösterir."
+      },
+      {
+        "w": "pathology",
+        "parts": [
+          {
+            "t": "path",
+            "g": "acı, hastalık",
+            "r": 1
+          },
+          {
+            "t": "ology",
+            "g": "bilimi"
+          }
+        ],
+        "lit": "hastalık bilimi",
+        "tr": "patoloji, hastalık bilimi",
+        "en": "She studied pathology at medical school.",
+        "en_tr": "Tıp fakültesinde patoloji okudu."
+      },
+      {
+        "w": "antipathy",
+        "parts": [
+          {
+            "t": "anti",
+            "g": "karşı"
+          },
+          {
+            "t": "path",
+            "g": "duygu",
+            "r": 1
+          },
+          {
+            "t": "y",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "karşıt duygu",
+        "tr": "nefret, hoşlanmama",
+        "en": "There was deep antipathy between the two leaders.",
+        "en_tr": "İki lider arasında derin bir husumet vardı."
+      }
+    ]
+  },
+  {
+    "id": "kc_24",
+    "root": "auto",
+    "meaning": "kendi",
+    "origin": "Yunanca autos",
+    "level": 4,
+    "words": [
+      {
+        "w": "autonomy",
+        "parts": [
+          {
+            "t": "auto",
+            "g": "kendi",
+            "r": 1
+          },
+          {
+            "t": "nomy",
+            "g": "yasa"
+          }
+        ],
+        "lit": "kendi yasası",
+        "tr": "özerklik",
+        "en": "The region demanded greater autonomy from the capital.",
+        "en_tr": "Bölge başkentten daha fazla özerklik talep etti."
+      },
+      {
+        "w": "autocrat",
+        "parts": [
+          {
+            "t": "auto",
+            "g": "kendi",
+            "r": 1
+          },
+          {
+            "t": "crat",
+            "g": "yöneten"
+          }
+        ],
+        "lit": "tek başına yöneten",
+        "tr": "otokrat, mutlak yönetici",
+        "en": "The country was ruled by an autocrat for thirty years.",
+        "en_tr": "Ülke otuz yıl boyunca bir otokrat tarafından yönetildi."
+      },
+      {
+        "w": "autopsy",
+        "parts": [
+          {
+            "t": "aut",
+            "g": "kendi",
+            "r": 1
+          },
+          {
+            "t": "opsy",
+            "g": "görme"
+          }
+        ],
+        "lit": "kendi gözüyle görme",
+        "tr": "otopsi",
+        "en": "An autopsy revealed the cause of death.",
+        "en_tr": "Otopsi ölüm nedenini ortaya çıkardı."
+      },
+      {
+        "w": "autobiography",
+        "parts": [
+          {
+            "t": "auto",
+            "g": "kendi",
+            "r": 1
+          },
+          {
+            "t": "bio",
+            "g": "yaşam"
+          },
+          {
+            "t": "graphy",
+            "g": "yazımı"
+          }
+        ],
+        "lit": "kendi yaşamını yazma",
+        "tr": "otobiyografi",
+        "en": "In her autobiography, she describes her childhood in Izmir.",
+        "en_tr": "Otobiyografisinde İzmir'deki çocukluğunu anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "kc_25",
+    "root": "mal / male",
+    "meaning": "kötü",
+    "origin": "Latince male",
+    "level": 4,
+    "words": [
+      {
+        "w": "malfunction",
+        "parts": [
+          {
+            "t": "mal",
+            "g": "kötü",
+            "r": 1
+          },
+          {
+            "t": "function",
+            "g": "işlev"
+          }
+        ],
+        "lit": "kötü işleme",
+        "tr": "arıza, bozuk çalışma",
+        "en": "A computer malfunction delayed all flights.",
+        "en_tr": "Bir bilgisayar arızası tüm uçuşları geciktirdi."
+      },
+      {
+        "w": "malnutrition",
+        "parts": [
+          {
+            "t": "mal",
+            "g": "kötü",
+            "r": 1
+          },
+          {
+            "t": "nutrition",
+            "g": "beslenme"
+          }
+        ],
+        "lit": "kötü beslenme",
+        "tr": "yetersiz beslenme",
+        "en": "Many children in the region suffer from malnutrition.",
+        "en_tr": "Bölgedeki pek çok çocuk yetersiz beslenmeden muzdarip."
+      },
+      {
+        "w": "malicious",
+        "parts": [
+          {
+            "t": "mal",
+            "g": "kötü",
+            "r": 1
+          },
+          {
+            "t": "icious",
+            "g": "-lı"
+          }
+        ],
+        "lit": "kötülük dolu",
+        "tr": "kötü niyetli",
+        "en": "Someone spread malicious rumours about the teacher.",
+        "en_tr": "Biri öğretmen hakkında kötü niyetli dedikodular yaydı."
+      },
+      {
+        "w": "malpractice",
+        "parts": [
+          {
+            "t": "mal",
+            "g": "kötü",
+            "r": 1
+          },
+          {
+            "t": "practice",
+            "g": "uygulama"
+          }
+        ],
+        "lit": "kötü uygulama",
+        "tr": "(meslekte) hatalı uygulama, ihmal",
+        "en": "The surgeon was sued for medical malpractice.",
+        "en_tr": "Cerrah tıbbi ihmal nedeniyle dava edildi."
+      },
+      {
+        "w": "malevolent",
+        "parts": [
+          {
+            "t": "male",
+            "g": "kötü",
+            "r": 1
+          },
+          {
+            "t": "vol",
+            "g": "istemek"
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "kötülük isteyen",
+        "tr": "kötücül, kötülük dolu",
+        "en": "The villain gave a malevolent smile.",
+        "en_tr": "Kötü adam kötücül bir gülümseme attı."
+      }
+    ]
+  },
+  {
+    "id": "kc_26",
+    "root": "bene / bon",
+    "meaning": "iyi",
+    "origin": "Latince bene",
+    "level": 4,
+    "words": [
+      {
+        "w": "benefit",
+        "parts": [
+          {
+            "t": "bene",
+            "g": "iyi",
+            "r": 1
+          },
+          {
+            "t": "fit",
+            "g": "yapmak"
+          }
+        ],
+        "lit": "iyi yapılan şey",
+        "tr": "yarar, fayda",
+        "en": "Regular walking has many health benefits.",
+        "en_tr": "Düzenli yürüyüşün sağlığa pek çok yararı var."
+      },
+      {
+        "w": "benevolent",
+        "parts": [
+          {
+            "t": "bene",
+            "g": "iyi",
+            "r": 1
+          },
+          {
+            "t": "vol",
+            "g": "istemek"
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "iyilik isteyen",
+        "tr": "iyiliksever, yardımsever",
+        "en": "A benevolent donor paid for the new hospital wing.",
+        "en_tr": "İyiliksever bir bağışçı hastanenin yeni bölümünü finanse etti."
+      },
+      {
+        "w": "beneficiary",
+        "parts": [
+          {
+            "t": "bene",
+            "g": "iyi",
+            "r": 1
+          },
+          {
+            "t": "fic",
+            "g": "yapmak"
+          },
+          {
+            "t": "iary",
+            "g": "-an kişi"
+          }
+        ],
+        "lit": "iyilik yapılan kişi",
+        "tr": "yararlanan kişi, lehtar",
+        "en": "Her son is the sole beneficiary of her will.",
+        "en_tr": "Oğlu, vasiyetinin tek lehtarıdır."
+      },
+      {
+        "w": "benign",
+        "parts": [
+          {
+            "t": "ben",
+            "g": "iyi",
+            "r": 1
+          },
+          {
+            "t": "ign",
+            "g": "doğmuş"
+          }
+        ],
+        "lit": "iyi doğmuş",
+        "tr": "(tümör) iyi huylu, zararsız",
+        "en": "Fortunately, the tumour turned out to be benign.",
+        "en_tr": "Neyse ki tümör iyi huylu çıktı."
+      },
+      {
+        "w": "benefactor",
+        "parts": [
+          {
+            "t": "bene",
+            "g": "iyi",
+            "r": 1
+          },
+          {
+            "t": "fact",
+            "g": "yapmak"
+          },
+          {
+            "t": "or",
+            "g": "-an kişi"
+          }
+        ],
+        "lit": "iyilik yapan kişi",
+        "tr": "bağışçı, destekçi",
+        "en": "An anonymous benefactor donated a million dollars.",
+        "en_tr": "İsimsiz bir bağışçı bir milyon dolar bağışladı."
+      }
+    ]
+  },
+  {
+    "id": "kc_27",
+    "root": "vid / vis",
+    "meaning": "görmek",
+    "origin": "Latince videre",
+    "level": 3,
+    "words": [
+      {
+        "w": "visible",
+        "parts": [
+          {
+            "t": "vis",
+            "g": "görmek",
+            "r": 1
+          },
+          {
+            "t": "ible",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "görülebilir",
+        "tr": "görünür",
+        "en": "The island is visible from the coast.",
+        "en_tr": "Ada kıyıdan görülebiliyor."
+      },
+      {
+        "w": "revise",
+        "parts": [
+          {
+            "t": "re",
+            "g": "yeniden"
+          },
+          {
+            "t": "vise",
+            "g": "görmek",
+            "r": 1
+          }
+        ],
+        "lit": "yeniden görmek",
+        "tr": "gözden geçirmek, düzeltmek",
+        "en": "The author revised the manuscript three times.",
+        "en_tr": "Yazar müsveddeyi üç kez gözden geçirdi."
+      },
+      {
+        "w": "supervise",
+        "parts": [
+          {
+            "t": "super",
+            "g": "üstünden"
+          },
+          {
+            "t": "vise",
+            "g": "görmek",
+            "r": 1
+          }
+        ],
+        "lit": "üstten gözetmek",
+        "tr": "denetlemek, gözetmek",
+        "en": "Teachers supervise the children during lunch.",
+        "en_tr": "Öğretmenler öğle yemeğinde çocukları gözetir."
+      },
+      {
+        "w": "evident",
+        "parts": [
+          {
+            "t": "e",
+            "g": "dışarı"
+          },
+          {
+            "t": "vid",
+            "g": "görmek",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "-an"
+          }
+        ],
+        "lit": "dışarıdan görülen",
+        "tr": "apaçık, belli",
+        "en": "It was evident that she was very tired.",
+        "en_tr": "Çok yorgun olduğu apaçıktı."
+      },
+      {
+        "w": "envision",
+        "parts": [
+          {
+            "t": "en",
+            "g": "içinde"
+          },
+          {
+            "t": "vision",
+            "g": "görme",
+            "r": 1
+          }
+        ],
+        "lit": "içinde görmek",
+        "tr": "gözünde canlandırmak, tasarlamak",
+        "en": "The architect envisioned a city full of parks.",
+        "en_tr": "Mimar parklarla dolu bir şehir tasarladı."
+      }
+    ]
+  },
+  {
+    "id": "kc_28",
+    "root": "loc",
+    "meaning": "yer",
+    "origin": "Latince locus",
+    "level": 4,
+    "words": [
+      {
+        "w": "relocate",
+        "parts": [
+          {
+            "t": "re",
+            "g": "yeniden"
+          },
+          {
+            "t": "loc",
+            "g": "yer",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "yeniden yerleştirmek",
+        "tr": "taşınmak, yerini değiştirmek",
+        "en": "The company relocated its headquarters to Ankara.",
+        "en_tr": "Şirket genel merkezini Ankara'ya taşıdı."
+      },
+      {
+        "w": "allocate",
+        "parts": [
+          {
+            "t": "al",
+            "g": "-e"
+          },
+          {
+            "t": "loc",
+            "g": "yer",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "-e yer vermek",
+        "tr": "tahsis etmek, ayırmak",
+        "en": "More funds were allocated to education this year.",
+        "en_tr": "Bu yıl eğitime daha fazla kaynak ayrıldı."
+      },
+      {
+        "w": "dislocate",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "ayrı"
+          },
+          {
+            "t": "loc",
+            "g": "yer",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "yerinden ayırmak",
+        "tr": "(eklem) çıkarmak, yerinden oynatmak",
+        "en": "He dislocated his shoulder during the match.",
+        "en_tr": "Maçta omzu çıktı."
+      },
+      {
+        "w": "local",
+        "parts": [
+          {
+            "t": "loc",
+            "g": "yer",
+            "r": 1
+          },
+          {
+            "t": "al",
+            "g": "-sal"
+          }
+        ],
+        "lit": "yere ait",
+        "tr": "yerel",
+        "en": "We buy vegetables from local farmers.",
+        "en_tr": "Sebzeleri yerel çiftçilerden alıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "kc_29",
+    "root": "gen",
+    "meaning": "doğmak, soy",
+    "origin": "Latince genus / Yunanca genos",
+    "level": 4,
+    "words": [
+      {
+        "w": "generate",
+        "parts": [
+          {
+            "t": "gen",
+            "g": "doğurmak",
+            "r": 1
+          },
+          {
+            "t": "erate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "doğurmak",
+        "tr": "üretmek, oluşturmak",
+        "en": "Wind turbines generate electricity.",
+        "en_tr": "Rüzgâr türbinleri elektrik üretir."
+      },
+      {
+        "w": "genetic",
+        "parts": [
+          {
+            "t": "gen",
+            "g": "soy",
+            "r": 1
+          },
+          {
+            "t": "etic",
+            "g": "-sal"
+          }
+        ],
+        "lit": "soyla ilgili",
+        "tr": "genetik, kalıtsal",
+        "en": "The disease has a strong genetic component.",
+        "en_tr": "Hastalığın güçlü bir genetik yanı var."
+      },
+      {
+        "w": "genocide",
+        "parts": [
+          {
+            "t": "geno",
+            "g": "ırk, soy",
+            "r": 1
+          },
+          {
+            "t": "cide",
+            "g": "öldürme"
+          }
+        ],
+        "lit": "bir soyu öldürme",
+        "tr": "soykırım",
+        "en": "The court punished those responsible for the genocide.",
+        "en_tr": "Mahkeme soykırımın sorumlularını cezalandırdı."
+      },
+      {
+        "w": "indigenous",
+        "parts": [
+          {
+            "t": "indi",
+            "g": "içinde"
+          },
+          {
+            "t": "gen",
+            "g": "doğmuş",
+            "r": 1
+          },
+          {
+            "t": "ous",
+            "g": "-lı"
+          }
+        ],
+        "lit": "(o yerin) içinde doğmuş",
+        "tr": "yerli, bölgeye özgü",
+        "en": "The kangaroo is indigenous to Australia.",
+        "en_tr": "Kanguru Avustralya'ya özgüdür."
+      },
+      {
+        "w": "progeny",
+        "parts": [
+          {
+            "t": "pro",
+            "g": "ileri"
+          },
+          {
+            "t": "gen",
+            "g": "doğmak",
+            "r": 1
+          },
+          {
+            "t": "y",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "ileriye doğanlar",
+        "tr": "soy, döl",
+        "en": "The plant and its progeny resist the disease.",
+        "en_tr": "Bitki ve dölü hastalığa dirençli."
+      }
+    ]
+  },
+  {
+    "id": "kc_30",
+    "root": "cide",
+    "meaning": "öldürmek",
+    "origin": "Latince caedere",
+    "level": 4,
+    "words": [
+      {
+        "w": "pesticide",
+        "parts": [
+          {
+            "t": "pesti",
+            "g": "zararlı, haşere"
+          },
+          {
+            "t": "cide",
+            "g": "öldüren",
+            "r": 1
+          }
+        ],
+        "lit": "haşere öldüren",
+        "tr": "tarım ilacı, böcek ilacı",
+        "en": "Farmers are using fewer chemical pesticides.",
+        "en_tr": "Çiftçiler daha az kimyasal tarım ilacı kullanıyor."
+      },
+      {
+        "w": "homicide",
+        "parts": [
+          {
+            "t": "homi",
+            "g": "insan"
+          },
+          {
+            "t": "cide",
+            "g": "öldürme",
+            "r": 1
+          }
+        ],
+        "lit": "insan öldürme",
+        "tr": "cinayet, adam öldürme",
+        "en": "The police are treating the death as a homicide.",
+        "en_tr": "Polis ölümü cinayet olarak ele alıyor."
+      },
+      {
+        "w": "suicide",
+        "parts": [
+          {
+            "t": "sui",
+            "g": "kendi"
+          },
+          {
+            "t": "cide",
+            "g": "öldürme",
+            "r": 1
+          }
+        ],
+        "lit": "kendini öldürme",
+        "tr": "intihar",
+        "en": "Experts discussed ways to prevent youth suicide.",
+        "en_tr": "Uzmanlar gençlerde intiharı önleme yollarını tartıştı."
+      },
+      {
+        "w": "herbicide",
+        "parts": [
+          {
+            "t": "herbi",
+            "g": "ot"
+          },
+          {
+            "t": "cide",
+            "g": "öldüren",
+            "r": 1
+          }
+        ],
+        "lit": "ot öldüren",
+        "tr": "yabani ot ilacı",
+        "en": "The herbicide kills weeds but not the crop.",
+        "en_tr": "Bu ot ilacı yabani otları öldürür ama ürüne dokunmaz."
+      }
+    ]
+  },
+  {
+    "id": "kc_31",
+    "root": "manu / mani",
+    "meaning": "el",
+    "origin": "Latince manus",
+    "level": 4,
+    "words": [
+      {
+        "w": "manual",
+        "parts": [
+          {
+            "t": "manu",
+            "g": "el",
+            "r": 1
+          },
+          {
+            "t": "al",
+            "g": "-sal"
+          }
+        ],
+        "lit": "elle ilgili",
+        "tr": "elle yapılan; kullanım kılavuzu",
+        "en": "Most factory work is no longer manual.",
+        "en_tr": "Fabrika işlerinin çoğu artık elle yapılmıyor."
+      },
+      {
+        "w": "manipulate",
+        "parts": [
+          {
+            "t": "mani",
+            "g": "el",
+            "r": 1
+          },
+          {
+            "t": "pul",
+            "g": "doldurmak"
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "el dolusu tutup yönlendirmek",
+        "tr": "(birini, veriyi) yönlendirmek, manipüle etmek",
+        "en": "Advertisements often manipulate our emotions.",
+        "en_tr": "Reklamlar çoğu zaman duygularımızı manipüle eder."
+      },
+      {
+        "w": "emancipate",
+        "parts": [
+          {
+            "t": "e",
+            "g": "dışarı"
+          },
+          {
+            "t": "man",
+            "g": "el",
+            "r": 1
+          },
+          {
+            "t": "cip",
+            "g": "almak"
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "birinin elinden çıkarmak",
+        "tr": "özgürleştirmek, azat etmek",
+        "en": "The law emancipated thousands of slaves.",
+        "en_tr": "Yasa binlerce köleyi özgürleştirdi."
+      },
+      {
+        "w": "manicure",
+        "parts": [
+          {
+            "t": "mani",
+            "g": "el",
+            "r": 1
+          },
+          {
+            "t": "cure",
+            "g": "bakım"
+          }
+        ],
+        "lit": "el bakımı",
+        "tr": "manikür",
+        "en": "She gets a manicure every two weeks.",
+        "en_tr": "İki haftada bir manikür yaptırır."
+      }
+    ]
+  },
+  {
+    "id": "kc_32",
+    "root": "sequ / secu",
+    "meaning": "izlemek, takip etmek",
+    "origin": "Latince sequi",
+    "level": 4,
+    "words": [
+      {
+        "w": "consequence",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "sequ",
+            "g": "izlemek",
+            "r": 1
+          },
+          {
+            "t": "ence",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "(olayı) izleyen şey",
+        "tr": "sonuç",
+        "en": "Climate change has serious consequences for agriculture.",
+        "en_tr": "İklim değişikliğinin tarım için ciddi sonuçları var."
+      },
+      {
+        "w": "subsequent",
+        "parts": [
+          {
+            "t": "sub",
+            "g": "hemen ardından"
+          },
+          {
+            "t": "sequ",
+            "g": "izlemek",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "hemen arkadan izleyen",
+        "tr": "sonraki, ardından gelen",
+        "en": "Subsequent studies confirmed the original results.",
+        "en_tr": "Sonraki çalışmalar ilk sonuçları doğruladı."
+      },
+      {
+        "w": "sequel",
+        "parts": [
+          {
+            "t": "sequ",
+            "g": "izlemek",
+            "r": 1
+          },
+          {
+            "t": "el",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "arkadan gelen",
+        "tr": "devam filmi / kitabı",
+        "en": "The sequel was more successful than the first film.",
+        "en_tr": "Devam filmi ilk filmden daha başarılı oldu."
+      },
+      {
+        "w": "persecute",
+        "parts": [
+          {
+            "t": "per",
+            "g": "sonuna dek"
+          },
+          {
+            "t": "secu",
+            "g": "izlemek",
+            "r": 1
+          },
+          {
+            "t": "te",
+            "g": "(fiil)"
+          }
+        ],
+        "lit": "sonuna dek peşine düşmek",
+        "tr": "zulmetmek",
+        "en": "The group was persecuted for its religious beliefs.",
+        "en_tr": "Grup dinî inançları yüzünden zulme uğradı."
+      },
+      {
+        "w": "consecutive",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "secu",
+            "g": "izlemek",
+            "r": 1
+          },
+          {
+            "t": "tive",
+            "g": "-an"
+          }
+        ],
+        "lit": "birbirini izleyen",
+        "tr": "ardışık, üst üste",
+        "en": "It rained for five consecutive days.",
+        "en_tr": "Beş gün üst üste yağmur yağdı."
+      }
+    ]
+  },
+  {
+    "id": "kc_33",
+    "root": "sent / sens",
+    "meaning": "hissetmek",
+    "origin": "Latince sentire",
+    "level": 4,
+    "words": [
+      {
+        "w": "consent",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "sent",
+            "g": "hissetmek",
+            "r": 1
+          }
+        ],
+        "lit": "birlikte hissetmek",
+        "tr": "rıza, onay",
+        "en": "Patients must give their consent before surgery.",
+        "en_tr": "Hastalar ameliyattan önce onay vermelidir."
+      },
+      {
+        "w": "dissent",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "ayrı"
+          },
+          {
+            "t": "sent",
+            "g": "hissetmek",
+            "r": 1
+          }
+        ],
+        "lit": "ayrı hissetmek",
+        "tr": "muhalefet, farklı görüş",
+        "en": "The regime does not tolerate political dissent.",
+        "en_tr": "Rejim siyasi muhalefete tahammül etmiyor."
+      },
+      {
+        "w": "resent",
+        "parts": [
+          {
+            "t": "re",
+            "g": "karşılık olarak"
+          },
+          {
+            "t": "sent",
+            "g": "hissetmek",
+            "r": 1
+          }
+        ],
+        "lit": "karşılığında (kötü) hissetmek",
+        "tr": "içerlemek, gücenmek",
+        "en": "He resented being treated like a child.",
+        "en_tr": "Çocuk gibi muamele görmekten içerledi."
+      },
+      {
+        "w": "sensation",
+        "parts": [
+          {
+            "t": "sens",
+            "g": "hissetmek",
+            "r": 1
+          },
+          {
+            "t": "ation",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "hissediş",
+        "tr": "his, duyum; sansasyon",
+        "en": "I had a burning sensation in my throat.",
+        "en_tr": "Boğazımda yanma hissi vardı."
+      },
+      {
+        "w": "sentiment",
+        "parts": [
+          {
+            "t": "senti",
+            "g": "hissetmek",
+            "r": 1
+          },
+          {
+            "t": "ment",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "hissedilen şey",
+        "tr": "duygu, kanaat",
+        "en": "Public sentiment turned against the war.",
+        "en_tr": "Kamuoyu duygusu savaşa karşı döndü."
+      }
+    ]
+  },
+  {
+    "id": "kc_34",
+    "root": "solv / solu",
+    "meaning": "çözmek, gevşetmek",
+    "origin": "Latince solvere",
+    "level": 4,
+    "words": [
+      {
+        "w": "dissolve",
+        "parts": [
+          {
+            "t": "dis",
+            "g": "ayrı"
+          },
+          {
+            "t": "solve",
+            "g": "gevşetmek",
+            "r": 1
+          }
+        ],
+        "lit": "gevşetip ayırmak",
+        "tr": "çözünmek; feshetmek",
+        "en": "Sugar dissolves quickly in hot water.",
+        "en_tr": "Şeker sıcak suda hızla çözünür."
+      },
+      {
+        "w": "resolve",
+        "parts": [
+          {
+            "t": "re",
+            "g": "yeniden, tamamen"
+          },
+          {
+            "t": "solve",
+            "g": "çözmek",
+            "r": 1
+          }
+        ],
+        "lit": "tamamen çözmek",
+        "tr": "(sorun) çözmek, karara bağlamak",
+        "en": "The two sides resolved their dispute peacefully.",
+        "en_tr": "İki taraf anlaşmazlıklarını barışçıl yolla çözdü."
+      },
+      {
+        "w": "absolute",
+        "parts": [
+          {
+            "t": "ab",
+            "g": "-den"
+          },
+          {
+            "t": "solute",
+            "g": "gevşetilmiş, çözülmüş",
+            "r": 1
+          }
+        ],
+        "lit": "(her bağdan) çözülmüş",
+        "tr": "mutlak, kesin",
+        "en": "The king had absolute power over his people.",
+        "en_tr": "Kral halkı üzerinde mutlak güce sahipti."
+      },
+      {
+        "w": "insolvent",
+        "parts": [
+          {
+            "t": "in",
+            "g": "değil"
+          },
+          {
+            "t": "solv",
+            "g": "(borç) çözmek",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "borcunu çözemeyen",
+        "tr": "borcunu ödeyemeyen, aciz",
+        "en": "The bank declared the firm insolvent.",
+        "en_tr": "Banka firmanın borç ödeme gücünü yitirdiğini açıkladı."
+      }
+    ]
+  },
+  {
+    "id": "kc_35",
+    "root": "cur / curs",
+    "meaning": "koşmak",
+    "origin": "Latince currere",
+    "level": 4,
+    "words": [
+      {
+        "w": "occur",
+        "parts": [
+          {
+            "t": "oc",
+            "g": "-e karşı"
+          },
+          {
+            "t": "cur",
+            "g": "koşmak",
+            "r": 1
+          }
+        ],
+        "lit": "karşısına koşmak",
+        "tr": "meydana gelmek, olmak",
+        "en": "Most accidents occur at home.",
+        "en_tr": "Kazaların çoğu evde meydana gelir."
+      },
+      {
+        "w": "recur",
+        "parts": [
+          {
+            "t": "re",
+            "g": "yeniden"
+          },
+          {
+            "t": "cur",
+            "g": "koşmak",
+            "r": 1
+          }
+        ],
+        "lit": "yeniden koşup gelmek",
+        "tr": "tekrarlamak, yeniden ortaya çıkmak",
+        "en": "The same problem recurred a week later.",
+        "en_tr": "Aynı sorun bir hafta sonra tekrarladı."
+      },
+      {
+        "w": "concurrent",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "curr",
+            "g": "koşmak",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "-an"
+          }
+        ],
+        "lit": "birlikte koşan",
+        "tr": "eşzamanlı",
+        "en": "He is serving two concurrent prison sentences.",
+        "en_tr": "Eşzamanlı iki hapis cezasını çekiyor."
+      },
+      {
+        "w": "precursor",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önce"
+          },
+          {
+            "t": "curs",
+            "g": "koşmak",
+            "r": 1
+          },
+          {
+            "t": "or",
+            "g": "-an"
+          }
+        ],
+        "lit": "önden koşan",
+        "tr": "öncü, habercisi",
+        "en": "The abacus was a precursor of the calculator.",
+        "en_tr": "Abaküs hesap makinesinin öncüsüydü."
+      },
+      {
+        "w": "excursion",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "curs",
+            "g": "koşmak",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "dışarı koşuş",
+        "tr": "gezi, kısa yolculuk",
+        "en": "The class went on an excursion to Ephesus.",
+        "en_tr": "Sınıf Efes'e bir geziye gitti."
+      }
+    ]
+  },
+  {
+    "id": "kc_36",
+    "root": "clud / clus",
+    "meaning": "kapamak",
+    "origin": "Latince claudere",
+    "level": 4,
+    "words": [
+      {
+        "w": "exclude",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "clude",
+            "g": "kapamak",
+            "r": 1
+          }
+        ],
+        "lit": "dışarıda bırakıp kapamak",
+        "tr": "hariç tutmak, dışlamak",
+        "en": "Prices exclude tax and delivery.",
+        "en_tr": "Fiyatlara vergi ve teslimat dahil değildir."
+      },
+      {
+        "w": "include",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "clude",
+            "g": "kapamak",
+            "r": 1
+          }
+        ],
+        "lit": "içine kapatmak",
+        "tr": "dahil etmek, içermek",
+        "en": "The price includes breakfast.",
+        "en_tr": "Fiyata kahvaltı dahildir."
+      },
+      {
+        "w": "conclude",
+        "parts": [
+          {
+            "t": "con",
+            "g": "tamamen"
+          },
+          {
+            "t": "clude",
+            "g": "kapamak",
+            "r": 1
+          }
+        ],
+        "lit": "tamamen kapamak",
+        "tr": "sonuçlandırmak; sonucuna varmak",
+        "en": "The study concluded that sleep improves memory.",
+        "en_tr": "Çalışma uykunun belleği güçlendirdiği sonucuna vardı."
+      },
+      {
+        "w": "preclude",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önceden"
+          },
+          {
+            "t": "clude",
+            "g": "kapamak",
+            "r": 1
+          }
+        ],
+        "lit": "önceden kapamak",
+        "tr": "olanaksız kılmak",
+        "en": "His injury precluded him from playing again.",
+        "en_tr": "Sakatlığı yeniden oynamasını olanaksız kıldı."
+      },
+      {
+        "w": "seclusion",
+        "parts": [
+          {
+            "t": "se",
+            "g": "ayrı"
+          },
+          {
+            "t": "clus",
+            "g": "kapamak",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "ayrı kapanma",
+        "tr": "inziva, yalnızlık",
+        "en": "The writer lived in seclusion for years.",
+        "en_tr": "Yazar yıllarca inzivada yaşadı."
+      }
+    ]
+  },
+  {
+    "id": "kc_37",
+    "root": "pel / puls",
+    "meaning": "itmek, sürmek",
+    "origin": "Latince pellere",
+    "level": 4,
+    "words": [
+      {
+        "w": "expel",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "pel",
+            "g": "itmek",
+            "r": 1
+          }
+        ],
+        "lit": "dışarı itmek",
+        "tr": "kovmak, (okuldan) atmak",
+        "en": "Two students were expelled for cheating.",
+        "en_tr": "İki öğrenci kopya çektiği için okuldan atıldı."
+      },
+      {
+        "w": "compel",
+        "parts": [
+          {
+            "t": "com",
+            "g": "tamamen"
+          },
+          {
+            "t": "pel",
+            "g": "sürmek",
+            "r": 1
+          }
+        ],
+        "lit": "zorla sürmek",
+        "tr": "zorlamak, mecbur bırakmak",
+        "en": "Illness compelled him to retire early.",
+        "en_tr": "Hastalık onu erken emekli olmaya mecbur bıraktı."
+      },
+      {
+        "w": "propel",
+        "parts": [
+          {
+            "t": "pro",
+            "g": "ileri"
+          },
+          {
+            "t": "pel",
+            "g": "itmek",
+            "r": 1
+          }
+        ],
+        "lit": "ileri itmek",
+        "tr": "itmek, ileri sürmek",
+        "en": "The boat is propelled by a small engine.",
+        "en_tr": "Tekne küçük bir motorla ilerletiliyor."
+      },
+      {
+        "w": "repel",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "pel",
+            "g": "itmek",
+            "r": 1
+          }
+        ],
+        "lit": "geri itmek",
+        "tr": "püskürtmek, uzak tutmak",
+        "en": "This spray repels mosquitoes.",
+        "en_tr": "Bu sprey sivrisinekleri uzak tutar."
+      },
+      {
+        "w": "impulse",
+        "parts": [
+          {
+            "t": "im",
+            "g": "içine"
+          },
+          {
+            "t": "pulse",
+            "g": "itiş",
+            "r": 1
+          }
+        ],
+        "lit": "içten itiş",
+        "tr": "dürtü, ani istek",
+        "en": "I bought the dress on impulse.",
+        "en_tr": "Elbiseyi ani bir dürtüyle aldım."
+      }
+    ]
+  },
+  {
+    "id": "kc_38",
+    "root": "rog",
+    "meaning": "sormak, istemek",
+    "origin": "Latince rogare",
+    "level": 5,
+    "words": [
+      {
+        "w": "interrogate",
+        "parts": [
+          {
+            "t": "inter",
+            "g": "arasında"
+          },
+          {
+            "t": "rog",
+            "g": "sormak",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "arka arkaya sormak",
+        "tr": "sorgulamak",
+        "en": "The police interrogated the suspect for hours.",
+        "en_tr": "Polis şüpheliyi saatlerce sorguladı."
+      },
+      {
+        "w": "arrogant",
+        "parts": [
+          {
+            "t": "ar",
+            "g": "-e"
+          },
+          {
+            "t": "rog",
+            "g": "istemek",
+            "r": 1
+          },
+          {
+            "t": "ant",
+            "g": "-an"
+          }
+        ],
+        "lit": "(hakkı olmayanı) kendine isteyen",
+        "tr": "kibirli",
+        "en": "His arrogant attitude annoyed his colleagues.",
+        "en_tr": "Kibirli tavrı iş arkadaşlarını rahatsız etti."
+      },
+      {
+        "w": "prerogative",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önce"
+          },
+          {
+            "t": "rog",
+            "g": "sormak",
+            "r": 1
+          },
+          {
+            "t": "ative",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "ilk sorulma hakkı",
+        "tr": "ayrıcalık, özel yetki",
+        "en": "Choosing the ministers is the president's prerogative.",
+        "en_tr": "Bakanları seçmek cumhurbaşkanının yetkisidir."
+      },
+      {
+        "w": "derogatory",
+        "parts": [
+          {
+            "t": "de",
+            "g": "aşağı"
+          },
+          {
+            "t": "rog",
+            "g": "istemek",
+            "r": 1
+          },
+          {
+            "t": "atory",
+            "g": "-ıcı"
+          }
+        ],
+        "lit": "değerini aşağı çeken",
+        "tr": "aşağılayıcı",
+        "en": "He made derogatory remarks about immigrants.",
+        "en_tr": "Göçmenler hakkında aşağılayıcı sözler söyledi."
+      }
+    ]
+  },
+  {
+    "id": "kc_39",
+    "root": "fid",
+    "meaning": "güvenmek, inanmak",
+    "origin": "Latince fides",
+    "level": 4,
+    "words": [
+      {
+        "w": "confident",
+        "parts": [
+          {
+            "t": "con",
+            "g": "tamamen"
+          },
+          {
+            "t": "fid",
+            "g": "güvenmek",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "tamamen güvenen",
+        "tr": "kendinden emin",
+        "en": "She felt confident before the exam.",
+        "en_tr": "Sınavdan önce kendinden emin hissetti."
+      },
+      {
+        "w": "confidential",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "fid",
+            "g": "güvenmek",
+            "r": 1
+          },
+          {
+            "t": "ential",
+            "g": "-sal"
+          }
+        ],
+        "lit": "güvenle paylaşılan",
+        "tr": "gizli",
+        "en": "Patient records are strictly confidential.",
+        "en_tr": "Hasta kayıtları kesinlikle gizlidir."
+      },
+      {
+        "w": "fidelity",
+        "parts": [
+          {
+            "t": "fid",
+            "g": "güven",
+            "r": 1
+          },
+          {
+            "t": "elity",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "güvene bağlılık",
+        "tr": "sadakat; aslına uygunluk",
+        "en": "The translation shows great fidelity to the original.",
+        "en_tr": "Çeviri aslına büyük bir sadakat gösteriyor."
+      },
+      {
+        "w": "diffident",
+        "parts": [
+          {
+            "t": "dif",
+            "g": "zıt"
+          },
+          {
+            "t": "fid",
+            "g": "güvenmek",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "güvenmeyen",
+        "tr": "çekingen, kendine güvensiz",
+        "en": "He was a diffident young man who rarely spoke.",
+        "en_tr": "Nadiren konuşan çekingen bir gençti."
+      }
+    ]
+  },
+  {
+    "id": "kc_40",
+    "root": "sta / sist",
+    "meaning": "durmak",
+    "origin": "Latince stare / sistere",
+    "level": 4,
+    "words": [
+      {
+        "w": "stable",
+        "parts": [
+          {
+            "t": "sta",
+            "g": "durmak",
+            "r": 1
+          },
+          {
+            "t": "ble",
+            "g": "-abilen"
+          }
+        ],
+        "lit": "sabit durabilen",
+        "tr": "sabit, dengeli, istikrarlı",
+        "en": "The patient's condition is now stable.",
+        "en_tr": "Hastanın durumu şu an stabil."
+      },
+      {
+        "w": "obstacle",
+        "parts": [
+          {
+            "t": "ob",
+            "g": "karşı"
+          },
+          {
+            "t": "sta",
+            "g": "durmak",
+            "r": 1
+          },
+          {
+            "t": "cle",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "karşıda duran şey",
+        "tr": "engel",
+        "en": "Lack of money is the biggest obstacle to education.",
+        "en_tr": "Para eksikliği eğitimin önündeki en büyük engel."
+      },
+      {
+        "w": "persist",
+        "parts": [
+          {
+            "t": "per",
+            "g": "sonuna dek"
+          },
+          {
+            "t": "sist",
+            "g": "durmak",
+            "r": 1
+          }
+        ],
+        "lit": "sonuna dek durmak",
+        "tr": "ısrar etmek; sürmek",
+        "en": "If the symptoms persist, see a doctor.",
+        "en_tr": "Belirtiler sürerse bir doktora görün."
+      },
+      {
+        "w": "resist",
+        "parts": [
+          {
+            "t": "re",
+            "g": "karşı"
+          },
+          {
+            "t": "sist",
+            "g": "durmak",
+            "r": 1
+          }
+        ],
+        "lit": "karşı durmak",
+        "tr": "direnmek, karşı koymak",
+        "en": "The villagers resisted the new dam project.",
+        "en_tr": "Köylüler yeni baraj projesine direndi."
+      },
+      {
+        "w": "static",
+        "parts": [
+          {
+            "t": "stat",
+            "g": "durmak",
+            "r": 1
+          },
+          {
+            "t": "ic",
+            "g": "-sal"
+          }
+        ],
+        "lit": "duran",
+        "tr": "durağan, değişmeyen",
+        "en": "House prices have remained static this year.",
+        "en_tr": "Konut fiyatları bu yıl sabit kaldı."
+      }
+    ]
+  },
+  {
+    "id": "kc_41",
+    "root": "flect / flex",
+    "meaning": "bükmek",
+    "origin": "Latince flectere",
+    "level": 4,
+    "words": [
+      {
+        "w": "reflect",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri"
+          },
+          {
+            "t": "flect",
+            "g": "bükmek",
+            "r": 1
+          }
+        ],
+        "lit": "geri bükmek",
+        "tr": "yansıtmak",
+        "en": "The results reflect the views of young voters.",
+        "en_tr": "Sonuçlar genç seçmenlerin görüşlerini yansıtıyor."
+      },
+      {
+        "w": "flexible",
+        "parts": [
+          {
+            "t": "flex",
+            "g": "bükmek",
+            "r": 1
+          },
+          {
+            "t": "ible",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "bükülebilir",
+        "tr": "esnek",
+        "en": "Many employees prefer flexible working hours.",
+        "en_tr": "Birçok çalışan esnek çalışma saatlerini tercih ediyor."
+      },
+      {
+        "w": "deflect",
+        "parts": [
+          {
+            "t": "de",
+            "g": "-den uzağa"
+          },
+          {
+            "t": "flect",
+            "g": "bükmek",
+            "r": 1
+          }
+        ],
+        "lit": "yolundan büküp uzaklaştırmak",
+        "tr": "saptırmak, başka yöne çevirmek",
+        "en": "The minister tried to deflect criticism onto his staff.",
+        "en_tr": "Bakan eleştirileri ekibine yöneltmeye çalıştı."
+      },
+      {
+        "w": "inflexible",
+        "parts": [
+          {
+            "t": "in",
+            "g": "değil"
+          },
+          {
+            "t": "flex",
+            "g": "bükmek",
+            "r": 1
+          },
+          {
+            "t": "ible",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "bükülemez",
+        "tr": "katı, esnemez",
+        "en": "The rules are too inflexible for modern families.",
+        "en_tr": "Kurallar modern aileler için fazla katı."
+      }
+    ]
+  },
+  {
+    "id": "kc_42",
+    "root": "ped / pod",
+    "meaning": "ayak",
+    "origin": "Latince pes / Yunanca pous",
+    "level": 4,
+    "words": [
+      {
+        "w": "pedestrian",
+        "parts": [
+          {
+            "t": "ped",
+            "g": "ayak",
+            "r": 1
+          },
+          {
+            "t": "estrian",
+            "g": "-la giden kişi"
+          }
+        ],
+        "lit": "ayakla giden",
+        "tr": "yaya",
+        "en": "The car hit a pedestrian at the crossing.",
+        "en_tr": "Araba geçitte bir yayaya çarptı."
+      },
+      {
+        "w": "impede",
+        "parts": [
+          {
+            "t": "im",
+            "g": "içine"
+          },
+          {
+            "t": "pede",
+            "g": "ayak",
+            "r": 1
+          }
+        ],
+        "lit": "ayağını bağlamak",
+        "tr": "engellemek, yavaşlatmak",
+        "en": "Heavy snow impeded the rescue efforts.",
+        "en_tr": "Yoğun kar kurtarma çalışmalarını engelledi."
+      },
+      {
+        "w": "expedition",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "ped",
+            "g": "ayak",
+            "r": 1
+          },
+          {
+            "t": "ition",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "ayağı (yola) çıkarma",
+        "tr": "sefer, keşif gezisi",
+        "en": "The expedition reached the North Pole in April.",
+        "en_tr": "Keşif ekibi nisanda Kuzey Kutbu'na ulaştı."
+      },
+      {
+        "w": "tripod",
+        "parts": [
+          {
+            "t": "tri",
+            "g": "üç"
+          },
+          {
+            "t": "pod",
+            "g": "ayak",
+            "r": 1
+          }
+        ],
+        "lit": "üç ayak",
+        "tr": "üç ayaklı sehpa",
+        "en": "The photographer set up his camera on a tripod.",
+        "en_tr": "Fotoğrafçı kamerasını üç ayaklı sehpaya kurdu."
+      }
+    ]
+  },
+  {
+    "id": "kc_43",
+    "root": "spir",
+    "meaning": "nefes almak",
+    "origin": "Latince spirare",
+    "level": 4,
+    "words": [
+      {
+        "w": "inspire",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "spire",
+            "g": "nefes vermek",
+            "r": 1
+          }
+        ],
+        "lit": "içine nefes üflemek",
+        "tr": "ilham vermek",
+        "en": "Her story inspired many young women.",
+        "en_tr": "Hikâyesi birçok genç kadına ilham verdi."
+      },
+      {
+        "w": "expire",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "pire",
+            "g": "nefes (s düşer)",
+            "r": 1
+          }
+        ],
+        "lit": "son nefesi dışarı vermek",
+        "tr": "süresi dolmak",
+        "en": "My passport expires next month.",
+        "en_tr": "Pasaportumun süresi gelecek ay doluyor."
+      },
+      {
+        "w": "respiratory",
+        "parts": [
+          {
+            "t": "re",
+            "g": "yeniden"
+          },
+          {
+            "t": "spir",
+            "g": "nefes almak",
+            "r": 1
+          },
+          {
+            "t": "atory",
+            "g": "-sal"
+          }
+        ],
+        "lit": "tekrar tekrar nefes almayla ilgili",
+        "tr": "solunumla ilgili",
+        "en": "Smoking causes many respiratory diseases.",
+        "en_tr": "Sigara pek çok solunum yolu hastalığına yol açar."
+      },
+      {
+        "w": "aspire",
+        "parts": [
+          {
+            "t": "a",
+            "g": "-e doğru"
+          },
+          {
+            "t": "spire",
+            "g": "nefes almak",
+            "r": 1
+          }
+        ],
+        "lit": "-e doğru soluklanmak",
+        "tr": "arzulamak, hedeflemek",
+        "en": "She aspires to become a surgeon.",
+        "en_tr": "Cerrah olmayı hedefliyor."
+      },
+      {
+        "w": "conspire",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "spire",
+            "g": "nefes almak",
+            "r": 1
+          }
+        ],
+        "lit": "birlikte soluk almak",
+        "tr": "komplo kurmak",
+        "en": "The officers conspired to overthrow the king.",
+        "en_tr": "Subaylar kralı devirmek için komplo kurdu."
+      }
+    ]
+  },
+  {
+    "id": "kc_44",
+    "root": "mort",
+    "meaning": "ölüm",
+    "origin": "Latince mors",
+    "level": 4,
+    "words": [
+      {
+        "w": "mortal",
+        "parts": [
+          {
+            "t": "mort",
+            "g": "ölüm",
+            "r": 1
+          },
+          {
+            "t": "al",
+            "g": "-lü"
+          }
+        ],
+        "lit": "ölüme tabi",
+        "tr": "ölümlü; ölümcül",
+        "en": "All humans are mortal.",
+        "en_tr": "Bütün insanlar ölümlüdür."
+      },
+      {
+        "w": "immortal",
+        "parts": [
+          {
+            "t": "im",
+            "g": "değil"
+          },
+          {
+            "t": "mort",
+            "g": "ölüm",
+            "r": 1
+          },
+          {
+            "t": "al",
+            "g": "-lü"
+          }
+        ],
+        "lit": "ölüme tabi olmayan",
+        "tr": "ölümsüz",
+        "en": "The poet's words made him immortal.",
+        "en_tr": "Şairin sözleri onu ölümsüz kıldı."
+      },
+      {
+        "w": "mortality",
+        "parts": [
+          {
+            "t": "mort",
+            "g": "ölüm",
+            "r": 1
+          },
+          {
+            "t": "ality",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "ölümlülük",
+        "tr": "ölüm oranı",
+        "en": "Infant mortality has fallen sharply.",
+        "en_tr": "Bebek ölüm oranı keskin biçimde düştü."
+      },
+      {
+        "w": "mortgage",
+        "parts": [
+          {
+            "t": "mort",
+            "g": "ölü",
+            "r": 1
+          },
+          {
+            "t": "gage",
+            "g": "rehin"
+          }
+        ],
+        "lit": "ölü rehin (borç bitince ölür)",
+        "tr": "ipotek, konut kredisi",
+        "en": "They took out a mortgage to buy the flat.",
+        "en_tr": "Daireyi almak için konut kredisi çektiler."
+      }
+    ]
+  },
+  {
+    "id": "kc_45",
+    "root": "viv / vit",
+    "meaning": "yaşam, yaşamak",
+    "origin": "Latince vivere / vita",
+    "level": 4,
+    "words": [
+      {
+        "w": "revive",
+        "parts": [
+          {
+            "t": "re",
+            "g": "yeniden"
+          },
+          {
+            "t": "vive",
+            "g": "yaşamak",
+            "r": 1
+          }
+        ],
+        "lit": "yeniden yaşatmak",
+        "tr": "canlandırmak",
+        "en": "The government wants to revive the economy.",
+        "en_tr": "Hükümet ekonomiyi canlandırmak istiyor."
+      },
+      {
+        "w": "survive",
+        "parts": [
+          {
+            "t": "sur",
+            "g": "üstünde"
+          },
+          {
+            "t": "vive",
+            "g": "yaşamak",
+            "r": 1
+          }
+        ],
+        "lit": "(tehlikenin) üstünde yaşamak",
+        "tr": "hayatta kalmak",
+        "en": "Only two passengers survived the crash.",
+        "en_tr": "Kazadan yalnızca iki yolcu sağ kurtuldu."
+      },
+      {
+        "w": "vital",
+        "parts": [
+          {
+            "t": "vit",
+            "g": "yaşam",
+            "r": 1
+          },
+          {
+            "t": "al",
+            "g": "-sal"
+          }
+        ],
+        "lit": "yaşamsal",
+        "tr": "hayati, çok önemli",
+        "en": "Clean water is vital for good health.",
+        "en_tr": "Temiz su sağlık için hayati önemdedir."
+      },
+      {
+        "w": "vivid",
+        "parts": [
+          {
+            "t": "viv",
+            "g": "yaşamak",
+            "r": 1
+          },
+          {
+            "t": "id",
+            "g": "-an"
+          }
+        ],
+        "lit": "yaşayan, canlı",
+        "tr": "canlı, parlak (renk, anı)",
+        "en": "I have vivid memories of my first school.",
+        "en_tr": "İlk okuluma dair canlı anılarım var."
+      }
+    ]
+  },
+  {
+    "id": "kc_46",
+    "root": "equ / equi",
+    "meaning": "eşit",
+    "origin": "Latince aequus",
+    "level": 4,
+    "words": [
+      {
+        "w": "equivalent",
+        "parts": [
+          {
+            "t": "equi",
+            "g": "eşit",
+            "r": 1
+          },
+          {
+            "t": "val",
+            "g": "değer"
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "eşit değerde",
+        "tr": "eşdeğer, karşılık",
+        "en": "There is no exact English equivalent for this word.",
+        "en_tr": "Bu kelimenin tam bir İngilizce karşılığı yok."
+      },
+      {
+        "w": "equilibrium",
+        "parts": [
+          {
+            "t": "equi",
+            "g": "eşit",
+            "r": 1
+          },
+          {
+            "t": "librium",
+            "g": "terazi"
+          }
+        ],
+        "lit": "eşit terazi",
+        "tr": "denge",
+        "en": "The market will soon reach a new equilibrium.",
+        "en_tr": "Piyasa yakında yeni bir dengeye ulaşacak."
+      },
+      {
+        "w": "equator",
+        "parts": [
+          {
+            "t": "equ",
+            "g": "eşit",
+            "r": 1
+          },
+          {
+            "t": "ator",
+            "g": "-an (çizgi)"
+          }
+        ],
+        "lit": "(dünyayı) eşit bölen",
+        "tr": "ekvator",
+        "en": "Countries near the equator are hot all year.",
+        "en_tr": "Ekvatora yakın ülkeler yıl boyu sıcaktır."
+      },
+      {
+        "w": "adequate",
+        "parts": [
+          {
+            "t": "ad",
+            "g": "-e"
+          },
+          {
+            "t": "equ",
+            "g": "eşit",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "-lenmiş"
+          }
+        ],
+        "lit": "(ihtiyaca) eşitlenmiş",
+        "tr": "yeterli",
+        "en": "Many schools lack adequate funding.",
+        "en_tr": "Birçok okulun yeterli kaynağı yok."
+      },
+      {
+        "w": "equitable",
+        "parts": [
+          {
+            "t": "equ",
+            "g": "eşit",
+            "r": 1
+          },
+          {
+            "t": "itable",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "eşit tutulabilir",
+        "tr": "adil, hakkaniyetli",
+        "en": "We need an equitable distribution of resources.",
+        "en_tr": "Kaynakların adil dağılımına ihtiyacımız var."
+      }
+    ]
+  },
+  {
+    "id": "kc_47",
+    "root": "cogn",
+    "meaning": "bilmek",
+    "origin": "Latince cognoscere",
+    "level": 4,
+    "words": [
+      {
+        "w": "recognize",
+        "parts": [
+          {
+            "t": "re",
+            "g": "yeniden"
+          },
+          {
+            "t": "cogn",
+            "g": "bilmek",
+            "r": 1
+          },
+          {
+            "t": "ize",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "yeniden bilmek",
+        "tr": "tanımak; kabul etmek",
+        "en": "I didn't recognize her with short hair.",
+        "en_tr": "Kısa saçlıyken onu tanımadım."
+      },
+      {
+        "w": "cognitive",
+        "parts": [
+          {
+            "t": "cogn",
+            "g": "bilmek",
+            "r": 1
+          },
+          {
+            "t": "itive",
+            "g": "-sal"
+          }
+        ],
+        "lit": "bilmeyle ilgili",
+        "tr": "bilişsel",
+        "en": "Sleep improves cognitive performance.",
+        "en_tr": "Uyku bilişsel performansı artırır."
+      },
+      {
+        "w": "incognito",
+        "parts": [
+          {
+            "t": "in",
+            "g": "değil"
+          },
+          {
+            "t": "cogn",
+            "g": "bilinen",
+            "r": 1
+          },
+          {
+            "t": "ito",
+            "g": "-miş"
+          }
+        ],
+        "lit": "bilinmeyen",
+        "tr": "kimliğini gizleyerek, tebdil-i kıyafet",
+        "en": "The singer travelled incognito to avoid photographers.",
+        "en_tr": "Şarkıcı fotoğrafçılardan kaçmak için kimliğini gizleyerek seyahat etti."
+      },
+      {
+        "w": "cognizant",
+        "parts": [
+          {
+            "t": "cogn",
+            "g": "bilmek",
+            "r": 1
+          },
+          {
+            "t": "izant",
+            "g": "-an"
+          }
+        ],
+        "lit": "bilen",
+        "tr": "farkında, bilincinde",
+        "en": "Leaders must be cognizant of the risks.",
+        "en_tr": "Liderler risklerin farkında olmalı."
+      }
+    ]
+  },
+  {
+    "id": "kc_48",
+    "root": "jud / jur / jus",
+    "meaning": "hukuk, yargı",
+    "origin": "Latince ius / iudex",
+    "level": 4,
+    "words": [
+      {
+        "w": "jurisdiction",
+        "parts": [
+          {
+            "t": "juris",
+            "g": "hukuk",
+            "r": 1
+          },
+          {
+            "t": "dict",
+            "g": "söylemek"
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "hukuku söyleme (yetkisi)",
+        "tr": "yargı yetkisi",
+        "en": "This case is outside the court's jurisdiction.",
+        "en_tr": "Bu dava mahkemenin yargı yetkisi dışında."
+      },
+      {
+        "w": "justify",
+        "parts": [
+          {
+            "t": "just",
+            "g": "hukuka uygun",
+            "r": 1
+          },
+          {
+            "t": "ify",
+            "g": "kılmak"
+          }
+        ],
+        "lit": "hukuka uygun kılmak",
+        "tr": "haklı çıkarmak, gerekçelendirmek",
+        "en": "Nothing can justify violence against children.",
+        "en_tr": "Hiçbir şey çocuklara yönelik şiddeti haklı çıkaramaz."
+      },
+      {
+        "w": "prejudice",
+        "parts": [
+          {
+            "t": "pre",
+            "g": "önceden"
+          },
+          {
+            "t": "jud",
+            "g": "yargı",
+            "r": 1
+          },
+          {
+            "t": "ice",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "önceden yargı",
+        "tr": "önyargı",
+        "en": "The campaign aims to fight racial prejudice.",
+        "en_tr": "Kampanya ırkçı önyargıyla mücadeleyi amaçlıyor."
+      },
+      {
+        "w": "judicial",
+        "parts": [
+          {
+            "t": "jud",
+            "g": "yargı",
+            "r": 1
+          },
+          {
+            "t": "icial",
+            "g": "-sal"
+          }
+        ],
+        "lit": "yargıyla ilgili",
+        "tr": "adli, yargısal",
+        "en": "The country needs an independent judicial system.",
+        "en_tr": "Ülkenin bağımsız bir yargı sistemine ihtiyacı var."
+      }
+    ]
+  },
+  {
+    "id": "kc_49",
+    "root": "ann / enn",
+    "meaning": "yıl",
+    "origin": "Latince annus",
+    "level": 4,
+    "words": [
+      {
+        "w": "annual",
+        "parts": [
+          {
+            "t": "ann",
+            "g": "yıl",
+            "r": 1
+          },
+          {
+            "t": "ual",
+            "g": "-lık"
+          }
+        ],
+        "lit": "yıllık",
+        "tr": "yıllık, her yıl olan",
+        "en": "The company publishes an annual report.",
+        "en_tr": "Şirket yıllık bir rapor yayımlıyor."
+      },
+      {
+        "w": "anniversary",
+        "parts": [
+          {
+            "t": "anni",
+            "g": "yıl",
+            "r": 1
+          },
+          {
+            "t": "vers",
+            "g": "dönmek"
+          },
+          {
+            "t": "ary",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "yılın dönüşü",
+        "tr": "yıldönümü",
+        "en": "They celebrated their tenth wedding anniversary.",
+        "en_tr": "Onuncu evlilik yıldönümlerini kutladılar."
+      },
+      {
+        "w": "millennium",
+        "parts": [
+          {
+            "t": "mill",
+            "g": "bin"
+          },
+          {
+            "t": "enn",
+            "g": "yıl",
+            "r": 1
+          },
+          {
+            "t": "ium",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "bin yıl",
+        "tr": "bin yıl, milenyum",
+        "en": "The city was founded over a millennium ago.",
+        "en_tr": "Şehir bin yıldan uzun süre önce kuruldu."
+      },
+      {
+        "w": "perennial",
+        "parts": [
+          {
+            "t": "per",
+            "g": "boyunca"
+          },
+          {
+            "t": "enn",
+            "g": "yıl",
+            "r": 1
+          },
+          {
+            "t": "ial",
+            "g": "-lık"
+          }
+        ],
+        "lit": "yıllar boyu süren",
+        "tr": "kalıcı, sürekli; çok yıllık",
+        "en": "Traffic is a perennial problem in Istanbul.",
+        "en_tr": "Trafik İstanbul'un bitmeyen sorunudur."
+      },
+      {
+        "w": "biennial",
+        "parts": [
+          {
+            "t": "bi",
+            "g": "iki"
+          },
+          {
+            "t": "enn",
+            "g": "yıl",
+            "r": 1
+          },
+          {
+            "t": "ial",
+            "g": "-lık"
+          }
+        ],
+        "lit": "iki yıllık",
+        "tr": "iki yılda bir olan",
+        "en": "The art biennial attracts visitors from all over the world.",
+        "en_tr": "Sanat bienali dünyanın her yerinden ziyaretçi çekiyor."
+      }
+    ]
+  },
+  {
+    "id": "kc_50",
+    "root": "cap / cept / ceive",
+    "meaning": "almak, tutmak",
+    "origin": "Latince capere",
+    "level": 4,
+    "words": [
+      {
+        "w": "intercept",
+        "parts": [
+          {
+            "t": "inter",
+            "g": "arasında"
+          },
+          {
+            "t": "cept",
+            "g": "almak",
+            "r": 1
+          }
+        ],
+        "lit": "arada yakalamak",
+        "tr": "yolunu kesmek, ele geçirmek",
+        "en": "Police intercepted the shipment at the port.",
+        "en_tr": "Polis sevkiyatı limanda ele geçirdi."
+      },
+      {
+        "w": "perceive",
+        "parts": [
+          {
+            "t": "per",
+            "g": "tamamen"
+          },
+          {
+            "t": "ceive",
+            "g": "almak",
+            "r": 1
+          }
+        ],
+        "lit": "tamamen (zihne) almak",
+        "tr": "algılamak, görmek",
+        "en": "Many people perceive science as difficult.",
+        "en_tr": "Birçok kişi bilimi zor olarak algılıyor."
+      },
+      {
+        "w": "deceive",
+        "parts": [
+          {
+            "t": "de",
+            "g": "-den"
+          },
+          {
+            "t": "ceive",
+            "g": "almak",
+            "r": 1
+          }
+        ],
+        "lit": "(elinden) almak, tuzağa düşürmek",
+        "tr": "aldatmak, kandırmak",
+        "en": "The advertisement deceived thousands of customers.",
+        "en_tr": "Reklam binlerce müşteriyi kandırdı."
+      },
+      {
+        "w": "exception",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "cept",
+            "g": "almak",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "dışarı alınan",
+        "tr": "istisna",
+        "en": "Every student, without exception, must take the test.",
+        "en_tr": "İstisnasız her öğrenci sınava girmeli."
+      },
+      {
+        "w": "capacity",
+        "parts": [
+          {
+            "t": "cap",
+            "g": "almak",
+            "r": 1
+          },
+          {
+            "t": "acity",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "alabilme",
+        "tr": "kapasite, sığa",
+        "en": "The stadium has a capacity of 50,000.",
+        "en_tr": "Stadyumun kapasitesi 50.000."
+      }
+    ]
+  },
+  {
+    "id": "kc_51",
+    "root": "plic / ply",
+    "meaning": "katlamak",
+    "origin": "Latince plicare",
+    "level": 5,
+    "words": [
+      {
+        "w": "implicit",
+        "parts": [
+          {
+            "t": "im",
+            "g": "içine"
+          },
+          {
+            "t": "plic",
+            "g": "katlanmış",
+            "r": 1
+          },
+          {
+            "t": "it",
+            "g": "-miş"
+          }
+        ],
+        "lit": "içine katlanmış",
+        "tr": "örtük, üstü kapalı",
+        "en": "There was an implicit threat in his words.",
+        "en_tr": "Sözlerinde örtük bir tehdit vardı."
+      },
+      {
+        "w": "explicit",
+        "parts": [
+          {
+            "t": "ex",
+            "g": "dışarı"
+          },
+          {
+            "t": "plic",
+            "g": "katlanmış",
+            "r": 1
+          },
+          {
+            "t": "it",
+            "g": "-miş"
+          }
+        ],
+        "lit": "katı dışarı açılmış",
+        "tr": "açık, net",
+        "en": "The instructions were clear and explicit.",
+        "en_tr": "Talimatlar açık ve netti."
+      },
+      {
+        "w": "complicate",
+        "parts": [
+          {
+            "t": "com",
+            "g": "birlikte"
+          },
+          {
+            "t": "plic",
+            "g": "katlamak",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "iç içe katlamak",
+        "tr": "karmaşıklaştırmak",
+        "en": "Bad weather complicated the rescue operation.",
+        "en_tr": "Kötü hava kurtarma operasyonunu zorlaştırdı."
+      },
+      {
+        "w": "implication",
+        "parts": [
+          {
+            "t": "im",
+            "g": "içine"
+          },
+          {
+            "t": "plic",
+            "g": "katlamak",
+            "r": 1
+          },
+          {
+            "t": "ation",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "içine katlanmış olan",
+        "tr": "olası sonuç, ima",
+        "en": "The study has important implications for teachers.",
+        "en_tr": "Çalışmanın öğretmenler için önemli sonuçları var."
+      },
+      {
+        "w": "duplicate",
+        "parts": [
+          {
+            "t": "du",
+            "g": "iki"
+          },
+          {
+            "t": "plic",
+            "g": "katlamak",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "ikiye katlamak",
+        "tr": "kopyalamak, tekrarlamak",
+        "en": "Scientists failed to duplicate the experiment.",
+        "en_tr": "Bilim insanları deneyi tekrarlayamadı."
+      }
+    ]
+  },
+  {
+    "id": "kc_52",
+    "root": "greg",
+    "meaning": "sürü, topluluk",
+    "origin": "Latince grex",
+    "level": 5,
+    "words": [
+      {
+        "w": "segregate",
+        "parts": [
+          {
+            "t": "se",
+            "g": "ayrı"
+          },
+          {
+            "t": "greg",
+            "g": "sürü",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "sürüden ayırmak",
+        "tr": "ayırmak, ayrı tutmak",
+        "en": "In the past, schools segregated black and white students.",
+        "en_tr": "Geçmişte okullar siyah ve beyaz öğrencileri ayırıyordu."
+      },
+      {
+        "w": "aggregate",
+        "parts": [
+          {
+            "t": "ag",
+            "g": "-e"
+          },
+          {
+            "t": "greg",
+            "g": "sürü",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil/isim)"
+          }
+        ],
+        "lit": "sürüye katmak",
+        "tr": "toplam; toplamak",
+        "en": "The team won 5-3 on aggregate.",
+        "en_tr": "Takım toplam skorda 5-3 kazandı."
+      },
+      {
+        "w": "congregate",
+        "parts": [
+          {
+            "t": "con",
+            "g": "birlikte"
+          },
+          {
+            "t": "greg",
+            "g": "sürü",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "sürü halinde toplanmak",
+        "tr": "toplanmak, bir araya gelmek",
+        "en": "Crowds congregated outside the stadium.",
+        "en_tr": "Kalabalıklar stadyumun önünde toplandı."
+      },
+      {
+        "w": "gregarious",
+        "parts": [
+          {
+            "t": "greg",
+            "g": "sürü",
+            "r": 1
+          },
+          {
+            "t": "arious",
+            "g": "-e yatkın"
+          }
+        ],
+        "lit": "sürüye yatkın",
+        "tr": "sokulgan, sosyal",
+        "en": "He is gregarious and loves parties.",
+        "en_tr": "Sokulgan biridir ve partilere bayılır."
+      }
+    ]
+  },
+  {
+    "id": "kc_53",
+    "root": "flamm / flam",
+    "meaning": "alev",
+    "origin": "Latince flamma",
+    "level": 4,
+    "words": [
+      {
+        "w": "flammable",
+        "parts": [
+          {
+            "t": "flamm",
+            "g": "alev",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "alev alabilir",
+        "tr": "yanıcı",
+        "en": "Keep flammable materials away from the heater.",
+        "en_tr": "Yanıcı maddeleri ısıtıcıdan uzak tut."
+      },
+      {
+        "w": "inflammable",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine (değil ≠)"
+          },
+          {
+            "t": "flamm",
+            "g": "alev",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "içten alev alabilir",
+        "tr": "yanıcı",
+        "en": "Petrol is highly inflammable.",
+        "en_tr": "Benzin son derece yanıcıdır.",
+        "distractors": [
+          "yanmaz, ateşe dayanıklı"
+        ],
+        "trap": "TUZAK: buradaki in- 'değil' değil, 'içine' demek. inflammable = flammable = yanıcı. 'Yanmaz' anlamı için non-flammable kullanılır."
+      },
+      {
+        "w": "inflammation",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içine"
+          },
+          {
+            "t": "flamm",
+            "g": "alev",
+            "r": 1
+          },
+          {
+            "t": "ation",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "içeride alevlenme",
+        "tr": "iltihap",
+        "en": "The cream reduces inflammation of the skin.",
+        "en_tr": "Krem ciltteki iltihabı azaltır."
+      },
+      {
+        "w": "non-flammable",
+        "parts": [
+          {
+            "t": "non-",
+            "g": "değil"
+          },
+          {
+            "t": "flamm",
+            "g": "alev",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "alev alamaz",
+        "tr": "yanmaz",
+        "en": "Children's clothes should be made of non-flammable fabric.",
+        "en_tr": "Çocuk giysileri yanmaz kumaştan yapılmalı."
+      },
+      {
+        "w": "flamboyant",
+        "parts": [
+          {
+            "t": "flamb",
+            "g": "alev",
+            "r": 1
+          },
+          {
+            "t": "oyant",
+            "g": "-leşen"
+          }
+        ],
+        "lit": "alev gibi parlayan",
+        "tr": "gösterişli, şatafatlı",
+        "en": "The singer is famous for his flamboyant costumes.",
+        "en_tr": "Şarkıcı gösterişli kostümleriyle ünlü."
+      }
+    ]
+  },
+  {
+    "id": "kc_54",
+    "root": "val",
+    "meaning": "değer; güçlü olmak",
+    "origin": "Latince valere",
+    "level": 4,
+    "words": [
+      {
+        "w": "valuable",
+        "parts": [
+          {
+            "t": "valu",
+            "g": "değer",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-li"
+          }
+        ],
+        "lit": "değer taşıyan",
+        "tr": "değerli",
+        "en": "She gave me some valuable advice.",
+        "en_tr": "Bana değerli tavsiyeler verdi."
+      },
+      {
+        "w": "invaluable",
+        "parts": [
+          {
+            "t": "in",
+            "g": "değil (ölçülemez)"
+          },
+          {
+            "t": "valu",
+            "g": "değer biçmek",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "değeri biçilemez",
+        "tr": "paha biçilemez, çok değerli",
+        "en": "Your help has been invaluable to us.",
+        "en_tr": "Yardımın bizim için paha biçilemezdi.",
+        "distractors": [
+          "değersiz, işe yaramaz"
+        ],
+        "trap": "TUZAK: in- burada 'değeri ölçülemeyecek kadar' demek. invaluable 'değersiz' DEĞİL, valuable'dan da güçlü: paha biçilemez. Değersiz = worthless / valueless."
+      },
+      {
+        "w": "evaluate",
+        "parts": [
+          {
+            "t": "e",
+            "g": "dışarı"
+          },
+          {
+            "t": "valu",
+            "g": "değer",
+            "r": 1
+          },
+          {
+            "t": "ate",
+            "g": "(fiil yapar)"
+          }
+        ],
+        "lit": "değerini ortaya çıkarmak",
+        "tr": "değerlendirmek",
+        "en": "Teachers evaluate students' progress every term.",
+        "en_tr": "Öğretmenler her dönem öğrencilerin ilerlemesini değerlendirir."
+      },
+      {
+        "w": "valid",
+        "parts": [
+          {
+            "t": "val",
+            "g": "güçlü olmak",
+            "r": 1
+          },
+          {
+            "t": "id",
+            "g": "-an"
+          }
+        ],
+        "lit": "gücü olan",
+        "tr": "geçerli",
+        "en": "Your ticket is valid for one month.",
+        "en_tr": "Biletin bir ay geçerli."
+      }
+    ]
+  },
+  {
+    "id": "kc_55",
+    "root": "fam",
+    "meaning": "söylenti, ün",
+    "origin": "Latince fama",
+    "level": 5,
+    "words": [
+      {
+        "w": "famous",
+        "parts": [
+          {
+            "t": "fam",
+            "g": "ün",
+            "r": 1
+          },
+          {
+            "t": "ous",
+            "g": "-lı"
+          }
+        ],
+        "lit": "ünlü",
+        "tr": "ünlü, meşhur",
+        "en": "Cappadocia is famous for its hot-air balloons.",
+        "en_tr": "Kapadokya sıcak hava balonlarıyla ünlüdür."
+      },
+      {
+        "w": "infamous",
+        "parts": [
+          {
+            "t": "in",
+            "g": "değil → kötü"
+          },
+          {
+            "t": "fam",
+            "g": "ün",
+            "r": 1
+          },
+          {
+            "t": "ous",
+            "g": "-lı"
+          }
+        ],
+        "lit": "kötü ünlü",
+        "tr": "kötü şöhretli, adı çıkmış",
+        "en": "The prison was infamous for its terrible conditions.",
+        "en_tr": "Hapishane korkunç koşullarıyla kötü bir şöhrete sahipti.",
+        "distractors": [
+          "ünsüz, tanınmayan"
+        ],
+        "trap": "TUZAK: infamous 'ünsüz' DEĞİL; kötü bir nedenle ünlü demek. Tanınmayan = unknown / obscure."
+      },
+      {
+        "w": "defame",
+        "parts": [
+          {
+            "t": "de",
+            "g": "aşağı"
+          },
+          {
+            "t": "fame",
+            "g": "ün",
+            "r": 1
+          }
+        ],
+        "lit": "ününü aşağı çekmek",
+        "tr": "karalamak, iftira etmek",
+        "en": "The article defamed a respected judge.",
+        "en_tr": "Makale saygın bir hâkimi karaladı."
+      }
+    ]
+  },
+  {
+    "id": "kc_56",
+    "root": "habit",
+    "meaning": "oturmak, yaşamak",
+    "origin": "Latince habitare",
+    "level": 5,
+    "words": [
+      {
+        "w": "inhabit",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içinde"
+          },
+          {
+            "t": "habit",
+            "g": "yaşamak",
+            "r": 1
+          }
+        ],
+        "lit": "içinde yaşamak",
+        "tr": "-de yaşamak, ikamet etmek",
+        "en": "Rare birds inhabit these forests.",
+        "en_tr": "Bu ormanlarda nadir kuşlar yaşar."
+      },
+      {
+        "w": "inhabitant",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içinde"
+          },
+          {
+            "t": "habit",
+            "g": "yaşamak",
+            "r": 1
+          },
+          {
+            "t": "ant",
+            "g": "-an kişi"
+          }
+        ],
+        "lit": "içinde yaşayan",
+        "tr": "sakin, oturan",
+        "en": "The village has only 200 inhabitants.",
+        "en_tr": "Köyün yalnızca 200 sakini var."
+      },
+      {
+        "w": "inhabitable",
+        "parts": [
+          {
+            "t": "in",
+            "g": "içinde (değil ≠)"
+          },
+          {
+            "t": "habit",
+            "g": "yaşamak",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "içinde yaşanabilir",
+        "tr": "yaşanabilir, oturulabilir",
+        "en": "Only a small part of the island is inhabitable.",
+        "en_tr": "Adanın yalnızca küçük bir kısmı yaşanabilir.",
+        "distractors": [
+          "yaşanamaz, oturulamaz"
+        ],
+        "trap": "TUZAK: in- burada 'içinde' demek, olumsuz değil. inhabitable = habitable = yaşanabilir. Yaşanamaz = uninhabitable."
+      },
+      {
+        "w": "uninhabitable",
+        "parts": [
+          {
+            "t": "un",
+            "g": "değil"
+          },
+          {
+            "t": "in",
+            "g": "içinde"
+          },
+          {
+            "t": "habit",
+            "g": "yaşamak",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "içinde yaşanamaz",
+        "tr": "yaşanamaz",
+        "en": "The earthquake left many buildings uninhabitable.",
+        "en_tr": "Deprem birçok binayı oturulamaz hâle getirdi."
+      },
+      {
+        "w": "habitat",
+        "parts": [
+          {
+            "t": "habit",
+            "g": "yaşamak",
+            "r": 1
+          },
+          {
+            "t": "at",
+            "g": "(yer)"
+          }
+        ],
+        "lit": "yaşanan yer",
+        "tr": "doğal yaşam alanı",
+        "en": "Pollution is destroying the turtles' natural habitat.",
+        "en_tr": "Kirlilik kaplumbağaların doğal yaşam alanını yok ediyor."
+      }
+    ]
+  },
+  {
+    "id": "kc_57",
+    "root": "prehend / pris / pregn",
+    "meaning": "tutmak, yakalamak",
+    "origin": "Latince prehendere",
+    "level": 5,
+    "words": [
+      {
+        "w": "comprehend",
+        "parts": [
+          {
+            "t": "com",
+            "g": "tamamen"
+          },
+          {
+            "t": "prehend",
+            "g": "tutmak",
+            "r": 1
+          }
+        ],
+        "lit": "tamamen kavramak",
+        "tr": "anlamak, kavramak",
+        "en": "It is hard to comprehend the size of the universe.",
+        "en_tr": "Evrenin büyüklüğünü kavramak zor."
+      },
+      {
+        "w": "apprehend",
+        "parts": [
+          {
+            "t": "ap",
+            "g": "-e"
+          },
+          {
+            "t": "prehend",
+            "g": "yakalamak",
+            "r": 1
+          }
+        ],
+        "lit": "üstüne yakalamak",
+        "tr": "yakalamak, tutuklamak",
+        "en": "The thief was apprehended near the station.",
+        "en_tr": "Hırsız istasyon yakınında yakalandı."
+      },
+      {
+        "w": "reprisal",
+        "parts": [
+          {
+            "t": "re",
+            "g": "geri, karşılık"
+          },
+          {
+            "t": "pris",
+            "g": "almak",
+            "r": 1
+          },
+          {
+            "t": "al",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "karşılığını geri alma",
+        "tr": "misilleme",
+        "en": "Witnesses were afraid of reprisals.",
+        "en_tr": "Tanıklar misillemeden korkuyordu."
+      },
+      {
+        "w": "impregnable",
+        "parts": [
+          {
+            "t": "im",
+            "g": "değil"
+          },
+          {
+            "t": "pregn",
+            "g": "ele geçirmek",
+            "r": 1
+          },
+          {
+            "t": "able",
+            "g": "-ebilir"
+          }
+        ],
+        "lit": "ele geçirilemez",
+        "tr": "zapt edilemez, aşılmaz",
+        "en": "The castle was once thought to be impregnable.",
+        "en_tr": "Kalenin bir zamanlar zapt edilemez olduğu düşünülüyordu.",
+        "distractors": [
+          "doğurgan, verimli"
+        ],
+        "trap": "TUZAK: 'pregnant' (hamile) ile ilgisi yok. Kök prehendere (ele geçirmek): im + pregn + able = ele geçirilemez."
+      }
+    ]
+  },
+  {
+    "id": "kc_58",
+    "root": "pati / pass",
+    "meaning": "katlanmak, acı çekmek",
+    "origin": "Latince pati",
+    "level": 5,
+    "words": [
+      {
+        "w": "passion",
+        "parts": [
+          {
+            "t": "pass",
+            "g": "acı çekmek",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "(birine) acı çekercesine bağlılık",
+        "tr": "tutku",
+        "en": "He has a real passion for music.",
+        "en_tr": "Müziğe karşı gerçek bir tutkusu var."
+      },
+      {
+        "w": "compassion",
+        "parts": [
+          {
+            "t": "com",
+            "g": "birlikte"
+          },
+          {
+            "t": "pass",
+            "g": "acı çekmek",
+            "r": 1
+          },
+          {
+            "t": "ion",
+            "g": "(isim)"
+          }
+        ],
+        "lit": "birlikte acı çekme",
+        "tr": "şefkat, merhamet",
+        "en": "Nurses treat patients with compassion.",
+        "en_tr": "Hemşireler hastalara şefkatle davranır."
+      },
+      {
+        "w": "passive",
+        "parts": [
+          {
+            "t": "pass",
+            "g": "katlanmak",
+            "r": 1
+          },
+          {
+            "t": "ive",
+            "g": "-an"
+          }
+        ],
+        "lit": "katlanan, maruz kalan",
+        "tr": "edilgen, pasif",
+        "en": "Students should not be passive listeners.",
+        "en_tr": "Öğrenciler edilgen dinleyiciler olmamalı."
+      },
+      {
+        "w": "impassive",
+        "parts": [
+          {
+            "t": "im",
+            "g": "değil"
+          },
+          {
+            "t": "pass",
+            "g": "hissetmek, acı çekmek",
+            "r": 1
+          },
+          {
+            "t": "ive",
+            "g": "-an"
+          }
+        ],
+        "lit": "acı hissetmeyen",
+        "tr": "duygusuz, ifadesiz",
+        "en": "The judge listened with an impassive face.",
+        "en_tr": "Hâkim ifadesiz bir yüzle dinledi.",
+        "distractors": [
+          "geçilmez, aşılamaz"
+        ],
+        "trap": "TUZAK: buradaki pass 'geçmek' değil, pati (hissetmek, acı çekmek) kökünden. impassive = duygusunu belli etmeyen. Geçilmez = impassable."
+      },
+      {
+        "w": "patient",
+        "parts": [
+          {
+            "t": "pati",
+            "g": "katlanmak",
+            "r": 1
+          },
+          {
+            "t": "ent",
+            "g": "-en"
+          }
+        ],
+        "lit": "katlanan",
+        "tr": "sabırlı; hasta",
+        "en": "Be patient; the results will come.",
+        "en_tr": "Sabırlı ol; sonuçlar gelecek."
+      }
+    ]
+  }
+]
