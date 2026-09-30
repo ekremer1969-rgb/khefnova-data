@@ -5786,5 +5786,485 @@
     "note": "endeavour resmi bir tonla çabalamayı ve uğraşmayı to-mastar ile belirtir.",
     "sentence": "Humanitarian organizations endeavour [to deliver] basic medical supplies to areas.",
     "sentence_tr": "İnsani yardım kuruluşları bölgelere temel tıbbi malzeme ulaştırmak için gayret ediyor."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "A2",
+    "answer": "repaired",
+    "distractors": [
+      "repair",
+      "repairing",
+      "to repair"
+    ],
+    "note": "Arabayı ben tamir etmedim, ustaya tamir ettirdim; araba tamir EDİLDİ → V3. (Kişi yapsaydı: had the mechanic repair it.)",
+    "sentence": "I had my car [repaired] at the garage last week.",
+    "sentence_tr": "Geçen hafta arabamı garajda tamir ettirdim."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B1",
+    "answer": "dyed",
+    "distractors": [
+      "dye",
+      "dyeing",
+      "to dye"
+    ],
+    "note": "Saçını kuaföre boyattı; saç boyandı → V3. Renk (red) V3'ten sonra gelir.",
+    "sentence": "She had her hair [dyed] red for the party.",
+    "sentence_tr": "Parti için saçını kırmızıya boyattı."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B1",
+    "answer": "painted",
+    "distractors": [
+      "paint",
+      "painting",
+      "to paint"
+    ],
+    "note": "have sürekli zamanda da çekimlenir (are having), ama devamındaki V3 değişmez.",
+    "sentence": "We are having our kitchen [painted] next month.",
+    "sentence_tr": "Gelecek ay mutfağımızı boyatıyoruz."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B1",
+    "answer": "tested",
+    "distractors": [
+      "test",
+      "testing",
+      "to test"
+    ],
+    "note": "Kanını kendin test etmezsin, test ettirirsin; kan test EDİLİR → V3.",
+    "sentence": "The doctor advised him to have his blood [tested].",
+    "sentence_tr": "Doktor ona kan tahlili yaptırmasını tavsiye etti."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B1",
+    "answer": "checked",
+    "distractors": [
+      "check",
+      "checking",
+      "to check"
+    ],
+    "note": "Gözlerini göz doktoruna kontrol ettirirsin; nesne (eyes) kontrol EDİLİR → V3.",
+    "sentence": "You should have your eyes [checked] once a year.",
+    "sentence_tr": "Gözlerini yılda bir kez kontrol ettirmelisin."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B1",
+    "answer": "delivered",
+    "distractors": [
+      "deliver",
+      "delivering",
+      "to deliver"
+    ],
+    "note": "Kanepeyi biz getirmedik, getirttik; kanepe teslim EDİLDİ → V3.",
+    "sentence": "We had the new sofa [delivered] to our flat.",
+    "sentence_tr": "Yeni kanepeyi dairemize getirttik."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B1",
+    "answer": "cleaned",
+    "distractors": [
+      "clean",
+      "cleaning",
+      "to clean"
+    ],
+    "note": "going to have + nesne + V3: gelecekte yaptırılacak iş; ceket temizlenecek → V3.",
+    "sentence": "I'm going to have this jacket [cleaned] before the interview.",
+    "sentence_tr": "Mülakattan önce bu ceketi temizleteceğim."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B1",
+    "answer": "built",
+    "distractors": [
+      "build",
+      "building",
+      "to build"
+    ],
+    "note": "Garajı kendileri yapmadılar, yaptırdılar; garaj inşa EDİLDİ → V3 (build-built-built).",
+    "sentence": "They had a new garage [built] next to the house.",
+    "sentence_tr": "Evin yanına yeni bir garaj yaptırdılar."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B2",
+    "answer": "stolen",
+    "distractors": [
+      "steal",
+      "stole",
+      "stealing"
+    ],
+    "note": "Kimse ona yaptırmadı: başına gelen olumsuz olay da have + nesne + V3 ile anlatılır. stole V2'dir, burada V3 (stolen) gerekir.",
+    "sentence": "He had his passport [stolen] during his trip to Rome.",
+    "sentence_tr": "Roma gezisi sırasında pasaportu çalındı."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B2",
+    "answer": "broken",
+    "distractors": [
+      "break",
+      "broke",
+      "breaking"
+    ],
+    "note": "Başa gelen olay: evlerine hırsız girdi. break into → V3 broken (into ayrılmaz, V3'ten sonra kalır).",
+    "sentence": "They had their house [broken] into while they were on holiday.",
+    "sentence_tr": "Tatildeyken evlerine hırsız girdi."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B2",
+    "answer": "taken",
+    "distractors": [
+      "take",
+      "took",
+      "taking"
+    ],
+    "note": "Fotoğrafı biri çekti, biz çektirdik; fotoğraf çekildi → V3 taken (took V2'dir).",
+    "sentence": "We had our photo [taken] in front of the old castle.",
+    "sentence_tr": "Eski kalenin önünde fotoğrafımızı çektirdik."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B2",
+    "answer": "translated",
+    "distractors": [
+      "translate",
+      "translating",
+      "to translate"
+    ],
+    "note": "Şirket raporu çevirtti; rapor çevrildi → V3. Özne kurum da olabilir (its report).",
+    "sentence": "The company had its annual report [translated] into Turkish.",
+    "sentence_tr": "Şirket yıllık raporunu Türkçeye çevirtti."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B2",
+    "answer": "installed",
+    "distractors": [
+      "install",
+      "installing",
+      "to install"
+    ],
+    "note": "Okul kameraları kendisi takmadı, taktırdı; kameralar takıldı → V3.",
+    "sentence": "The school had security cameras [installed] in every corridor.",
+    "sentence_tr": "Okul her koridora güvenlik kamerası taktırdı."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "B2",
+    "answer": "redesigned",
+    "distractors": [
+      "redesign",
+      "redesigning",
+      "to redesign"
+    ],
+    "note": "by + kişi ile işi yapanı söyleyebilirsin: had X redesigned BY an architect.",
+    "sentence": "The museum had its entrance [redesigned] by a famous architect.",
+    "sentence_tr": "Müze girişini ünlü bir mimara yeniden tasarlattı."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "C1",
+    "answer": "reviewed",
+    "distractors": [
+      "review",
+      "reviewing",
+      "to review"
+    ],
+    "note": "Editör metni iki uzmana inceletti; metin incelendi → V3. by ile yapan belirtilir.",
+    "sentence": "The editor had the manuscript [reviewed] by two independent experts.",
+    "sentence_tr": "Editör, müsveddeyi iki bağımsız uzmana inceletti."
+  },
+  {
+    "head": "have",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (have sth done)",
+    "level": "C1",
+    "answer": "terminated",
+    "distractors": [
+      "terminate",
+      "terminating",
+      "to terminate"
+    ],
+    "note": "Başa gelen olay: sözleşmesi feshedildi (kendisi istemedi). Akademik metinde sık: had his contract terminated.",
+    "sentence": "The player had his contract [terminated] after the scandal.",
+    "sentence_tr": "Skandalın ardından oyuncunun sözleşmesi feshedildi."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "A2",
+    "answer": "fixed",
+    "distractors": [
+      "fix",
+      "fixing",
+      "to fix"
+    ],
+    "note": "get + nesne + V3 = have ile aynı anlam, daha gündelik. Ekranı tamir ettireceğim; ekran tamir EDİLİR → V3.",
+    "sentence": "I need to get my phone screen [fixed] before Monday.",
+    "sentence_tr": "Pazartesiden önce telefon ekranımı tamir ettirmem gerekiyor."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B1",
+    "answer": "washed",
+    "distractors": [
+      "wash",
+      "washing",
+      "to wash"
+    ],
+    "note": "Arabayı yıkatmak: araba yıkanır → V3. (Kişi yapacaksa: get your brother TO wash it.)",
+    "sentence": "You should get the car [washed] before the wedding.",
+    "sentence_tr": "Düğünden önce arabayı yıkatmalısın."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B1",
+    "answer": "done",
+    "distractors": [
+      "do",
+      "did",
+      "doing"
+    ],
+    "note": "get sth done kalıplaşmıştır: işi bitirmek/halletmek. did V2'dir; burada V3 (done).",
+    "sentence": "We finally got the work [done] before midnight.",
+    "sentence_tr": "Sonunda işi gece yarısından önce bitirdik."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B1",
+    "answer": "printed",
+    "distractors": [
+      "print",
+      "printing",
+      "to print"
+    ],
+    "note": "Belgeler basılacak → V3. (Kişi basacaksa: get someone TO print them.)",
+    "sentence": "Can you get these documents [printed] by tomorrow?",
+    "sentence_tr": "Bu belgeleri yarına kadar bastırabilir misin?"
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B1",
+    "answer": "caught",
+    "distractors": [
+      "catch",
+      "catching",
+      "to catch"
+    ],
+    "note": "Başa gelen olay (kaza): parmağım kapıya sıkıştı. catch-caught-caught → V3.",
+    "sentence": "I got my finger [caught] in the car door.",
+    "sentence_tr": "Parmağım araba kapısına sıkıştı."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B2",
+    "answer": "serviced",
+    "distractors": [
+      "service",
+      "servicing",
+      "to service"
+    ],
+    "note": "Geniş zamanda alışkanlık: her sonbahar kombiyi bakıma sokarım; kombi bakımdan GEÇİRİLİR → V3.",
+    "sentence": "I get my boiler [serviced] every autumn.",
+    "sentence_tr": "Her sonbahar kombimin bakımını yaptırırım."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B2",
+    "answer": "replaced",
+    "distractors": [
+      "replace",
+      "replacing",
+      "to replace"
+    ],
+    "note": "Camı kendi değiştirmedi, değiştirtti; cam değiştirildi → V3.",
+    "sentence": "She got the broken window [replaced] the same day.",
+    "sentence_tr": "Kırık camı aynı gün değiştirtti."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B2",
+    "answer": "vaccinated",
+    "distractors": [
+      "vaccinate",
+      "vaccinating",
+      "to vaccinate"
+    ],
+    "note": "Köpeği aşılatırsın; köpek aşılanır → V3. Nesne canlı olsa da işi o yapmıyor.",
+    "sentence": "Remember to get your dog [vaccinated] every year.",
+    "sentence_tr": "Köpeğini her yıl aşılatmayı unutma."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B2",
+    "answer": "approved",
+    "distractors": [
+      "approve",
+      "approving",
+      "to approve"
+    ],
+    "note": "Bütçeyi yönetime onaylattılar; bütçe onaylandı → V3. by ile onaylayan belirtilir.",
+    "sentence": "The team got the budget [approved] by the board.",
+    "sentence_tr": "Ekip bütçeyi yönetim kuruluna onaylattı."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B2",
+    "answer": "published",
+    "distractors": [
+      "publish",
+      "publishing",
+      "to publish"
+    ],
+    "note": "Romanı yayınevi yayımladı, o yayımlatmayı başardı; roman yayımlandı → V3.",
+    "sentence": "He finally got his first novel [published] at the age of sixty.",
+    "sentence_tr": "Altmış yaşında nihayet ilk romanını yayımlatabildi."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B2",
+    "answer": "solved",
+    "distractors": [
+      "solve",
+      "solving",
+      "to solve"
+    ],
+    "note": "get + nesne + V3 \"hallettirmek/çözüme kavuşturmak\" anlamında da sık: sorun çözülmeli → V3.",
+    "sentence": "We need to get this problem [solved] before the launch.",
+    "sentence_tr": "Lansmandan önce bu sorunu çözüme kavuşturmamız gerekiyor."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "B2",
+    "answer": "signed",
+    "distractors": [
+      "sign",
+      "signing",
+      "to sign"
+    ],
+    "note": "Avukat sözleşmeyi taraflara imzalattı; sözleşme imzalandı → V3.",
+    "sentence": "The lawyer got the contract [signed] before the deadline.",
+    "sentence_tr": "Avukat sözleşmeyi son tarihten önce imzalattı."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "C1",
+    "answer": "extended",
+    "distractors": [
+      "extend",
+      "extending",
+      "to extend"
+    ],
+    "note": "manage to get + nesne + V3: resmî bir işi yaptırmayı başarmak; vize uzatıldı → V3.",
+    "sentence": "She managed to get her visa [extended] for another six months.",
+    "sentence_tr": "Vizesini altı ay daha uzattırmayı başardı."
+  },
+  {
+    "head": "get",
+    "pos": "fiil",
+    "pattern": "obj_pp",
+    "meaning": "yaptırmak (get sth done)",
+    "level": "C1",
+    "answer": "verified",
+    "distractors": [
+      "verify",
+      "verifying",
+      "to verify"
+    ],
+    "note": "Bulgular bağımsız laboratuvarca doğrulandı → V3. Akademik metinde get yerine have de olur.",
+    "sentence": "The researchers got their findings [verified] by an independent lab.",
+    "sentence_tr": "Araştırmacılar bulgularını bağımsız bir laboratuvara doğrulattı."
   }
 ]
