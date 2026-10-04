@@ -1,1 +1,515 @@
-
+{
+  "v": 2,
+  "videos": {
+    "S28eUiTvXQ4": "YDT 10 Günde Soru Tipleri · Reading 1",
+    "zLf3qk9tt2o": "YDT 10 Günde Soru Tipleri · Reading 2",
+    "YbXhndnuhjc": "YDT 1. Mini Deneme",
+    "z4XQk8WH7Xc": "YDT 2. Mini Deneme",
+    "pAOluaUPd9s": "YDT 3. Mini Deneme",
+    "QfhsDhXaNJ0": "YDT 4. Mini Deneme",
+    "pG612cVwudI": "YDT 5. Mini Deneme",
+    "rhf9XYGqUr0": "Sınav öncesi son tekrar canlı yayını",
+    "KzqlFo3BCC0": "FK Language · YDS Ders #12 Tüm Zamanlar",
+    "cskgYpPbgkw": "Özer Kiraz · İngilizce Zamanlar",
+    "0DhkvIRG83U": "Sınav İngilizcesi · Tenses 4 (Karşılaştırmalı)",
+    "Mc4Wvbd6LmI": "İngilizce Derslerim · 30 Soruda Seviyen",
+    "4i69QQex_1E": "Emrah Hoca · Çeviri 4 (TR→EN)",
+    "pBLGylpgs7s": "Sınav İngilizcesi · 12 Günde Grammar · Relative Clause",
+    "JGH2K2pPnYM": "FK Language · YDS Ders #31 Relative Clause",
+    "DItHYvmWGWQ": "Sınav İngilizcesi · 12 Günde Grammar · Reduction",
+    "Tn54BGM0cdE": "FK Language · YDS Ders #35 Conjunctions",
+    "7rV5iqdoaDs": "Orkun Londoner · Although / Despite",
+    "Fn6SGtvwjxE": "Sınav İngilizcesi · 12 Günde Grammar · Bağlaçlar",
+    "JsEAcLPnWso": "Adam (engVid) · Having + Past Participle",
+    "Dt6s4Evc_bI": "Sınav İngilizcesi · 12 Günde Grammar · If Clause",
+    "wI9YF9Wslo8": "Özer Kiraz · If Type 3 & Mixed",
+    "8j_bw3XD1Mk": "FK Language · YDS Ders #20 Other Conditionals",
+    "BpAf5sfSn9U": "FK Language · YDS Ders #23 Reported Speech",
+    "Xyq11m6KoO4": "Bircan Teacher · Ders 71 Indirect Speech",
+    "lu-TZa-ZpGs": "Rebecca (engVid) · Reported Speech",
+    "lK3CgfdyZh8": "Özer Kiraz · Edilgenlik",
+    "XzAiCXp1uOg": "Bircan Teacher · Ders 75b Impersonal Passive",
+    "8YOYLP9XYQ0": "Sınav İngilizcesi · Passive Soru Çözümü",
+    "9sHUeimOrYM": "Sınav İngilizcesi · 12 Günde Grammar · Gerund & Infinitive",
+    "8aqksm7g6J0": "Bircan Teacher · Ders 58 Anlamı Değişen Fiiller",
+    "p41Ns9MbsVs": "Özer Kiraz · Wish Clause",
+    "FIWEGA35ieI": "FK Language · YDS Ders #21 Wish Clause",
+    "eSfnLbHlvW8": "FK Language · YDS Ders #10 Future",
+    "0-6ZBRkZKWI": "Emma (engVid) · 4 Ways to Talk About the Future",
+    "VX95vEL-OdU": "Rebecca (engVid) · Will or Going to?",
+    "F6JAWQSQ54w": "FK Language · Would ve Used to",
+    "_bmgczdPGuI": "Orkun Londoner · Used to",
+    "CPTE4wjCjX8": "FK Language · YDS Ders #15 Zorunluluk ve Tavsiye",
+    "WlcZEr3MDCo": "Sınav İngilizcesi · 12 Günde Grammar · Modals 1",
+    "27iCBDTp1Pk": "Sınav İngilizcesi · 12 Günde Grammar · Modals 2",
+    "WdBk9DDi0_Q": "Bircan Teacher · Ders 95 Urgency Expressions",
+    "GqEnXxmQ7zU": "Emrah Hoca · B1-B2 Konu Anlatımı",
+    "OIqDAF8szq4": "Emma (engVid) · Suggest & Recommend",
+    "f9mbgvCrcjg": "Sınav İngilizcesi · Soru Tipleri Kampı 1. Gün · Cümle Tamamlama",
+    "Fgm5V7mrSL8": "Sınav Kampı · Ece Hoca · Cümle Tamamlama Taktikleri",
+    "eqlpKLvVoyU": "FK Language · YDS Ders #40 Dialogue",
+    "VkyyES6RdNg": "Sınav İngilizcesi · Soru Tipleri Kampı 3. Gün · Diyalog",
+    "im3CFsZVQhM": "Sınav Kampı · Ece Hoca · Diyalog Soru Çözümü",
+    "F-mrtm9Fu0g": "Sınav İngilizcesi · Soru Tipleri Kampı 6. Gün · Paragraf Tamamlama",
+    "JsEbRvfAV8A": "Sınav Kampı · Hakkı Hoca · Paragraf Tamamlama",
+    "VeiJKEm1_bI": "Sınav Kampı · Gözde Hoca · Irrelevant Taktikleri",
+    "lnsCGjTus2U": "Sınav Kampı · Ece Hoca · Irrelevant Sentence",
+    "MPGUjRf6x_E": "Sınav İngilizcesi · Soru Tipleri Kampı 4. Gün · Restatement",
+    "vqwSWY0eTZE": "Sınav Kampı · Hakkı Hoca · Restatement",
+    "RYonktNraCo": "Sınav Kampı · Gözde Hoca · Restatement Taktikleri",
+    "fgu_ZoLmzVQ": "Emrah Hoca · Türkçeden İngilizceye Çeviri",
+    "ygMz_1B6-LA": "Sınav İngilizcesi · Soru Tipleri Kampı 8. Gün · TR-ENG Çeviri",
+    "7TQUbT3mcDc": "Emrah Hoca · Çeviri 3 (TR→EN)",
+    "xc9mMFxWHB4": "Sınav Kampı · Hakkı Hoca · Bağlaç Soru Çözümü",
+    "gIsliufMNhY": "Özer Kiraz · Although, Despite, However",
+    "UohWGL7_zXo": "Özer Kiraz · Therefore, Consequently, Thus",
+    "wiIqWx9t3tU": "Sınav Kampı · Hilal Hoca · Paragraf Soru Çözümü",
+    "WZFqhFINaG8": "Test Atölyesi · YDS Soru Tiplerine Göre Çözüm Teknikleri",
+    "7yj9wRhlkoQ": "Sınav Kampı · Ece Hoca · Paragraf Challenge 3",
+    "lPlhMtwyWQ4": "Sınav Kampı · Ece Hoca · Paragraf Challenge 2",
+    "_aOXj4tXDTE": "FK Language · YDS Ders #29 Adjective & Adverbs",
+    "gROV59Oggzk": "Sınav Kampı · Özden Hoca · Prefixes & Suffixes",
+    "3fMfNHTOBUs": "Sınav İngilizcesi · Selin Hoca · Sıfat ve Zarf",
+    "Ei-rHpYfXX4": "Sınav Kampı · Ece Hoca · YÖKDİL Çeviri Soru Çözümü",
+    "etx0hkEDDTM": "Mete Tokoğlu · Masterclass Cümle Analizi",
+    "D1_pAtbnfLM": "Test Atölyesi · Participles Konu Anlatımı",
+    "OycbdqR2hvQ": "Bircan Teacher · Sentence Variety",
+    "4teTSDRyzxI": "Hakkı Hoca · Restatement Soru Çözümü (Video 9)",
+    "KbNS2hPpsRQ": "Full up English · Yakın Anlam Soruları",
+    "hj85D76NbOc": "MODADİL · Restatements Örnek Soru Çözümleri",
+    "HesYnI3V7hs": "The English Language Arts Gallery · Language for Hedging",
+    "znZtJsdMPgQ": "Efedil · Quantifiers Konu Anlatımı",
+    "VEJAONSeeb4": "Akın Dil Eğitim · Buray Hoca · YÖKDİL Paragraf Teknikleri",
+    "02fFnPpC7A0": "Hakkı Hoca · Paragraf Soruları (Video 90)",
+    "OM9bebx5kyI": "TOEFL Excellence · Pronoun Reference Questions",
+    "QCr5kVBWNFE": "Hakkı Hoca · Pronouns (Video 13)",
+    "7bo4YtKv68Y": "British Council Singapore · Counter Paragraph",
+    "RmSfoT0_ldU": "The English Language Arts Gallery · Counterarguments",
+    "3ga_MbjKk-0": "Writing Better · Counterargument and Rebuttal",
+    "HLoIqTLT8hw": "Codespeach · English Word Order for Turkish Speakers",
+    "hv2ie67MDqY": "Aslı ile İngilizce · Word Order (Unit 109)",
+    "P2hKzVuXntY": "Çilem Akar · Türklerin En Yaygın İngilizce Hataları",
+    "ofTA9JBila8": "Lingua Matik · İngilizce Gramer Hataları",
+    "nOp9KAXgOOU": "Jim Kwik · Speed Reading Techniques",
+    "SOvhNBbSwJE": "Ano Sensei · 'A Crying Baby' vs 'A Swimming Pool'",
+    "JtAzgbye288": "K4 English · İsim Öbekleri",
+    "7rUFcthzOrs": "Hakkı Hoca · Restatement (Video 52)",
+    "PdL2_T1-BTo": "Single Step English · Greek Root Words",
+    "a0Rwf6y1yZ0": "Miacademy · Context Clues",
+    "mETHrEU5lpw": "Mehmet Erdoğan İngilizce · YDS Metin Analizi",
+    "zoAyuSJR-bU": "Espresso English · 15 Words with Multiple Meanings",
+    "Pv_oW7wbgOU": "Miss Honey · Words With Multiple Meanings",
+    "-TKrgMisXLU": "Sınav Kampı · Ece Hoca · YDS Öncesi Phrasal Verb",
+    "PWpSfHro9_k": "Happy English · Stop Doing vs Stop To Do",
+    "W20klWpLdeU": "Happy English · Remember Doing vs Remember To Do",
+    "ieczuKaSHDI": "Englishing · Hard vs Hardly"
+  },
+  "modules": {
+    "kilpayi": {
+      "ana": [
+        {"v": "zLf3qk9tt2o", "s": 1518, "e": 1662, "t": "Best title: giriş bölümü ipucu verir",
+         "d": "İlk ve son satır aynı şeyi söyler; parçanın küçük bir yerinde geçen şık elenir."},
+        {"v": "rhf9XYGqUr0", "s": 21966, "e": 22070, "t": "Tek bir yerde geçen cevap olmaz",
+         "d": "Main about sorusunda şıklar 'parçanın tamamını kapsıyor mu?' ölçüsüyle eleniyor."},
+        {"v": "z4XQk8WH7Xc", "s": 1680, "e": 1791, "t": "However'dan sonra fikir döner",
+         "d": "'Günümüzde olumlu görülür. However, this was not always the case' — zıtlığın olduğu yerden soru gelir."}
+      ],
+      "ayrinti": [
+        {"v": "S28eUiTvXQ4", "s": 2121, "e": 2264, "t": "Cevap tek bir yerden çıkar",
+         "d": "Soru kökündeki kavram parçada nerede geçiyorsa cevap oradadır; parçanın tamamını anlamak gerekmez."},
+        {"v": "pG612cVwudI", "s": 1359, "e": 1470, "t": "Görüşü yanlış gruba yapıştıran şık",
+         "d": "İki grubu karşılaştıran soruda çeldiriciler tek tek eleniyor. (Soru kökü videonun 15:56'sında okunuyor.)"},
+        {"v": "rhf9XYGqUr0", "s": 21173, "e": 21470, "t": "Soru 'neden' diyorsa sebebi ara",
+         "d": "Soru kökünde neden-sonuç varsa, parçada da neden-sonuç bağlacının olduğu yere bak."}
+      ],
+      "cikarim": [
+        {"v": "pAOluaUPd9s", "s": 1733, "e": 1816, "t": "Birazcık çıkarımla bulunan cevap",
+         "d": "Doğru şık metinden tek adımda çıkıyor; diğerleri metinle çelişiyor."},
+        {"v": "pG612cVwudI", "s": 1470, "e": 1558, "t": "Metinde olmayanı ele, ruhuna uyanı seç",
+         "d": "'What can be inferred…' sorusunda metinde dayanağı olmayan şıklar tek tek eleniyor."},
+        {"v": "rhf9XYGqUr0", "s": 21100, "e": 21152, "t": "Çıkarımda son cümleye dikkat",
+         "d": "Çıkarım sorularının cevabı çoğu zaman son cümlelerde çıkar."}
+      ],
+      "amac": [
+        {"v": "QfhsDhXaNJ0", "s": 1315, "e": 1388, "t": "Örnek neden verilmiş?",
+         "d": "'Neden Marcus'a referans verilmiş?' — örnek, hemen önceki iddiayı destekliyor."},
+        {"v": "zLf3qk9tt2o", "s": 795, "e": 977, "t": "Yazar bundan neden bahsediyor?",
+         "d": "'To highlight / to emphasize' şıkları bahsedilen yerle karşılaştırılıyor."},
+        {"v": "rhf9XYGqUr0", "s": 21475, "e": 21613, "t": "'Primarily' sorusunda vurguyu ara",
+         "d": "'Başlıca' neyle ilgilendiğini parçadaki vurgu verir; 'azaltmak' ile 'dengeyi değiştirmek' çeldiricisi."}
+      ],
+      "gorus": [
+        {"v": "rhf9XYGqUr0", "s": 21021, "e": 21100, "t": "Yazarın tutumu nasıl anlaşılır?",
+         "d": "Zarflara, modallara, bağlaçlara bak: eleştirel, hayran, tarafsız, şüpheci; giriş ve son cümle."},
+        {"v": "rhf9XYGqUr0", "s": 21130, "e": 21175, "t": "Eleştirmiyor, hayran",
+         "d": "'Who could have imagined…?' cümlesinden yazarın tutumu çıkarılıyor."},
+        {"v": "QfhsDhXaNJ0", "s": 1157, "e": 1245, "t": "Görüş kime ait?",
+         "d": "'Afrosentrizme göre…' sorusunda savunanların görüşü ile karşıtların görüşü ayrılıyor."}
+      ],
+      "kelime": [
+        {"v": "YbXhndnuhjc", "s": 1320, "e": 1362, "t": "Bilinen anlam tuzağı: 'husband'",
+         "d": "Kelime 'koca' değil; cümleye oturan anlam 'saklamak'. Eş anlamlıyı bilmek şart değil, anlamı yeter."},
+        {"v": "zLf3qk9tt2o", "s": 1026, "e": 1070, "t": "Bilmediğin kelimeyi bağlamdan bul",
+         "d": "'Drained' kelimesi çevresindeki cümlelerden çıkarılıyor."},
+        {"v": "rhf9XYGqUr0", "s": 21653, "e": 21761, "t": "Şıkları kelimenin yerine koy",
+         "d": "Kelimeyi bilmiyorsan bulunduğu yere odaklan; cümlenin anlamını bozan şıkları ele."}
+      ],
+      "olumsuz": [
+        {"v": "rhf9XYGqUr0", "s": 21761, "e": 21966, "t": "Her şıkkın metindeki karşılığını ara",
+         "d": "Doğru/yanlış sorusu: 'easily'nin karşılığı metinde yoksa o şıkka öncelik verme; zıtlık bağlaçlarına bak."},
+        {"v": "QfhsDhXaNJ0", "s": 1245, "e": 1311, "t": "Metinde karşılığı olmayan şık",
+         "d": "'Hangisi doğru' sorusunda şıklar metinle tek tek eşleştiriliyor; karşılığı olmayan elenir."}
+      ],
+      "islev": [
+        {"v": "QfhsDhXaNJ0", "s": 1315, "e": 1388, "t": "Örnek neden verilmiş?",
+         "d": "'Neden Marcus'a referans verilmiş?' — örnek, hemen önceki iddiayı destekliyor."},
+        {"v": "zLf3qk9tt2o", "s": 795, "e": 977, "t": "Yazar bundan neden bahsediyor?",
+         "d": "'To highlight / to emphasize' şıkları bahsedilen yerle karşılaştırılıyor."}
+      ]
+    },
+    "cumlekur": {
+      "tense": [
+        {"v": "KzqlFo3BCC0", "s": 5, "e": 750, "t": "Tüm zamanların formülü tek videoda",
+         "d": "12 zamanın kuruluşu baştan sona özetleniyor; sonda sınavın sevdiği zaman uyumu: past ile future aynı cümlede olmaz."},
+        {"v": "cskgYpPbgkw", "s": 30, "e": 720, "t": "Zamanlar arasındaki farklar",
+         "d": "Bütün zamanlar tek bir fiille ('çay içmek') kuruluyor; hangisi hangi durumda, farklarıyla karşılaştırma."},
+        {"v": "0DhkvIRG83U", "s": 110, "e": 520, "t": "Simple Past mı, Present Perfect mi?",
+         "d": "Türkçede karşılığı olmayan Present Perfect zaman çizgisinde Simple Past'tan ayrılıyor; belirli zaman ifadesi varsa Simple Past."}
+      ],
+      "inv": [
+        {"v": "Mc4Wvbd6LmI", "s": 1545, "e": 1880, "t": "Hardly … when ve No sooner … than",
+         "d": "'-ir -mez' yapıları devrik ister: Hardly / No sooner tarafı had + V3, öbür taraf Simple Past; Hardly'yi when, No sooner'ı than izler."},
+        {"v": "4i69QQex_1E", "s": 631, "e": 720, "t": "Çeviride No sooner: '… bir oldu'",
+         "d": "'İstasyona varmamla trenin kalkması bir oldu' No sooner … than ile çevriliyor: no sooner tarafı devrik ve Past Perfect."}
+      ],
+      "rc": [
+        {"v": "pBLGylpgs7s", "s": 5, "e": 440, "t": "İlgi cümlesi ne iş yapar? who, that, whom",
+         "d": "Relative clause ismi niteler; who / that'ten sonra fiil gelir, whom'dan sonra özne gelir (nesne ilgi cümlesi)."},
+        {"v": "JGH2K2pPnYM", "s": 320, "e": 470, "t": "Hangi zamir nerede?",
+         "d": "Who insan, which nesne, where yer, when zaman, whose sahiplik; boşluktan önceki isme bakarak seçim."},
+        {"v": "DItHYvmWGWQ", "s": 332, "e": 430, "t": "Kısaltma: zamir ve 'be' düşer, V3 kalır",
+         "d": "'The car which was stolen' → 'the car stolen': edilgen ilgi cümlesinde which / was atılır, fiilin 3. hâli kalır."}
+      ],
+      "conj": [
+        {"v": "Tn54BGM0cdE", "s": 432, "e": 780, "t": "Sebep, amaç ve zıtlık bağlaçları",
+         "d": "Because / since / as sebep, so that / in order to amaç, although / though / even though zıtlık; soruda cümleler arası ilişkiyi bulma."},
+        {"v": "7rV5iqdoaDs", "s": 19, "e": 880, "t": "Although, even though, despite, in spite of",
+         "d": "'-masına rağmen' kalıpları: although / even though / though + cümle; despite / in spite of + isim ya da V-ing."},
+        {"v": "Fn6SGtvwjxE", "s": 1505, "e": 1790, "t": "Because cümle alır, because of isim alır",
+         "d": "Sebep bağlaçları (because, since, as, now that) ile because of / due to / owing to arasındaki fark, örnek cümlelerle."}
+      ],
+      "part": [
+        {"v": "DItHYvmWGWQ", "s": 493, "e": 760, "t": "Having V3: önce biten eylem",
+         "d": "Having V3 / having been V3 için zaman farkı gerekir: bir eylem diğerinden önce olduysa ortaç 'having' ile kurulur."},
+        {"v": "DItHYvmWGWQ", "s": 202, "e": 300, "t": "V-ing ile sıfat indirgemesi",
+         "d": "'The man who lives next door' → 'the man living next door': who düşer, etken fiil V-ing olur, anlam değişmez."},
+        {"v": "JsEAcLPnWso", "s": 25, "e": 636, "en": 1, "t": "'Having + V3' nereden gelir?",
+         "d": "'After he had edited…' → 'Having edited…'; aynı ortaç hem 'after' hem 'because' anlamı taşıyabilir."}
+      ],
+      "cleft": [
+        {"q": "cleft sentences konu anlatımı it is who that vurgu", "t": "It-cleft: It is … who / that",
+         "d": "Türkçe anlatımlar: cümlenin öznesini öne çıkaran yapı ('It is the architect who designs it')."},
+        {"q": "cleft sentences what clause pseudo cleft english grammar", "en": 1, "t": "Wh-cleft: What … is …",
+         "d": "'What he designs is a building', 'What he does is to design…' yapıları."}
+      ],
+      "cond": [
+        {"v": "Dt6s4Evc_bI", "s": 50, "e": 830, "t": "Gerçek ve gerçek dışı: Type 0, 1, 2, 3",
+         "d": "Koşul cümleleri gerçek / gerçek dışı diye ikiye ayrılıyor; dört tipin kuruluşu ve anlamı örneklerle."},
+        {"v": "wI9YF9Wslo8", "s": 202, "e": 480, "t": "Karma (mixed) koşul cümleleri",
+         "d": "Type 3 ile Type 2 aynı cümlede: geçmişteki koşulun bugüne uzanan sonucu."},
+        {"v": "8j_bw3XD1Mk", "s": 23, "e": 640, "t": "Unless, provided that, as long as, even if",
+         "d": "If yerine geçen bağlaçlar: şartıyla, olduğu sürece, olmadıkça (if not), olsa bile — ÖSYM'nin oyunlarıyla."}
+      ],
+      "rep": [
+        {"v": "BpAf5sfSn9U", "s": 110, "e": 400, "t": "Aktarırken zaman bir adım geri",
+         "d": "Say / tell ile dolaylı anlatım; söz aktarılırken zaman bir 'past' geri alınır: will → would, has → had."},
+        {"v": "Xyq11m6KoO4", "s": 180, "e": 560, "t": "Düz cümleyi aktarmak",
+         "d": "'My best friends will visit me' gibi cümleler başkasına aktarılırken zaman bir derece geçmişe kaydırılıyor."},
+        {"v": "lu-TZa-ZpGs", "s": 20, "e": 470, "en": 1, "t": "Zaman zaman backshift",
+         "d": "'He is a teacher' → 'He told me he was a teacher'; lived → had lived, will → would."}
+      ],
+      "preport": [
+        {"v": "lK3CgfdyZh8", "s": 390, "e": 520, "t": "It is believed that / He is believed to be",
+         "d": "'People believe that he is innocent' kişisiz aktarımın iki kalıbına çevriliyor; özne başa gelince 'to be'."},
+        {"v": "XzAiCXp1uOg", "s": 162, "e": 760, "t": "Is thought to: to V1 mi, to have V3 mü?",
+         "d": "It is thought / believed that kalıpları; geçmişteki olay için perfect mastar: 'is believed to have been stolen'."},
+        {"v": "8YOYLP9XYQ0", "s": 1385, "e": 1450, "t": "Soru çözümü: It is said that",
+         "d": "Sınav sorusunda boşluğa 'is said' gelmesinin mantığı: it boş öznedir, that'li yapıda be + V3 aranır."}
+      ],
+      "gvi": [
+        {"v": "9sHUeimOrYM", "s": 60, "e": 345, "t": "Gerund: fiili isimleştirmek",
+         "d": "V-ing özne ya da nesne olur; enjoy, spend time, no use gibi yapılardan sonra V-ing gelir."},
+        {"v": "9sHUeimOrYM", "s": 665, "e": 900, "t": "To + fiil isteyenler",
+         "d": "'She decided to go', 'would like to visit'; to mu -ing mi ayrımı için ipuçları (sıfattan sonra to)."},
+        {"v": "8aqksm7g6J0", "s": 0, "e": 187, "t": "Anlamı değişen fiil: forget",
+         "d": "Forget -ing ile de to ile de gelir ama anlamı değişir; 3 dakikalık kısa ders."}
+      ],
+      "wish": [
+        {"v": "Dt6s4Evc_bI", "s": 1337, "e": 1450, "t": "Present wish ve past wish",
+         "d": "Şimdi için wish + V2 ('I wish I was taller'), geçmiş için wish + had V3 ('I wish I had seen you')."},
+        {"v": "p41Ns9MbsVs", "s": 100, "e": 470, "t": "Şimdiye ve geçmişe dair keşkeler",
+         "d": "I wish I spoke… / I wish I had…; kendin hakkında 'I wish I would' neden tuhaf durur."},
+        {"v": "FIWEGA35ieI", "s": 40, "e": 520, "t": "Wish ve if only: zaman bir adım geri",
+         "d": "Wish'i gördüğünde zamanı bir past geri al; if only aynı anlamı verir."}
+      ],
+      "future": [
+        {"v": "eSfnLbHlvW8", "s": 505, "e": 690, "t": "Will mi, going to mu, present continuous mu?",
+         "d": "Going to daha planlı, will daha anlık; tomorrow / next ile present continuous da gelecek anlatır."},
+        {"v": "VX95vEL-OdU", "s": 155, "e": 600, "en": 1, "t": "Planlı mı, plansız mı?",
+         "d": "Önceden planlandıysa going to, konuşurken karar verildiyse will; tahminde ikisi de olur."},
+        {"v": "0-6ZBRkZKWI", "s": 0, "e": 700, "en": 1, "t": "Geleceği anlatmanın 4 yolu",
+         "d": "Present continuous (ayarlanmış), going to (plan / kanıt), will (tahmin, söz, yardım teklifi)."}
+      ],
+      "usedto": [
+        {"v": "F6JAWQSQ54w", "s": 60, "e": 420, "t": "Would ve used to: 'eskiden yapardı'",
+         "d": "Geçmişte süregelen alışkanlık için would ve used to; 'eskiden içerdim, artık içmiyorum'."},
+        {"v": "_bmgczdPGuI", "s": 30, "e": 400, "t": "Used to: artık yapmadığın alışkanlık",
+         "d": "Present simple alışkanlığın geçmiş karşılığı; olumsuz (didn't use to) ve soru (did you use to) hâlleri."}
+      ],
+      "modal": [
+        {"v": "CPTE4wjCjX8", "s": 3, "e": 400, "t": "Must, have to, need to: zorunluluk",
+         "d": "Must içten, have to dışarıdan gelen zorunluluk; olumsuzlarda anlam ayrılır (mustn't ≠ don't have to)."},
+        {"v": "WlcZEr3MDCo", "s": 1545, "e": 1705, "t": "Şimdiye dair çıkarım: must be / can't be",
+         "d": "Kanıta bakıp yorum: 'There must be an important announcement', 'The suspect must be injured'."},
+        {"v": "27iCBDTp1Pk", "s": 0, "e": 680, "t": "Perfect modallar: should / might / must / can't have V3",
+         "d": "Hepsi geçmişe bakar: should have V3 yapılmadı (sitem), must have V3 kesin çıkarım, can't have V3 imkânsız."}
+      ],
+      "subj": [
+        {"v": "WdBk9DDi0_Q", "s": 130, "e": 720, "t": "Suggest / recommend that + yalın fiil",
+         "d": "Önem ve aciliyet bildiren fiillerden sonra that cümlesinde fiil yalın kalır (ya da should + V1)."},
+        {"v": "GqEnXxmQ7zU", "s": 6075, "e": 6480, "t": "Dilek kipi: insist that, it is important that",
+         "d": "Resmî dilde fiillerle ve important / essential gibi sıfatlarla kurulan subjunctive yapılar."},
+        {"v": "OIqDAF8szq4", "s": 280, "e": 560, "en": 1, "t": "'I suggest that she go'",
+         "d": "Suggest / recommend that + özne + fiilin yalın hâli; 3. tekilde bile -s yok."}
+      ]
+    },
+    "sorutipi": {
+      "tersceviri": [
+        {"v": "fgu_ZoLmzVQ", "s": 21, "e": 230, "t": "Türkçeden İngilizceye 4 kural",
+         "d": "Kelime dizilimi (özne, yardımcı fiil, fiil, nesne, zarflar), deyimler kelime kelime çevrilmez, iki cümlenin zamanı uyumlu olur, alanın terimleri bilinir."},
+        {"v": "ygMz_1B6-LA", "s": 0, "e": 290, "t": "Önce yüklem, özne, bağlaç",
+         "d": "Türkçe cümlenin yüklemini, öznesini ve bağlacını bul; İngilizce cümle bunların üstüne kurulur. Sınavda 'ancak'ın karşılığı olmayan şık da böyle elenir."},
+        {"v": "7TQUbT3mcDc", "s": 386, "e": 540, "t": "Özne bir eylemse: Knowing…, Driving…",
+         "d": "'En az iki dil bilmek avantaj sağlar' gibi cümlelerde özne fiilimsi olur (V-ing); 'tehlikelidir' gibi isim cümlesinde is kullanılır."}
+      ],
+      "mantik": [
+        {"v": "xc9mMFxWHB4", "s": 291, "e": 515, "t": "Önce artı mı, eksi mi?",
+         "d": "İki cümleyi olumlu, olumsuz ya da nötr diye etiketle: iki olumlu yan yana zıtlık olmaz (sonuç ya da ekleme), olumsuzdan olumluya geçiş zıtlık ister."},
+        {"v": "gIsliufMNhY", "s": 402, "e": 690, "t": "However, nevertheless: 'buna rağmen'",
+         "d": "Neye rağmen olduğu önceki cümlede söylenir, bu yüzden cümle başında gelirler; however nevertheless'ın yerini tutar ama tersi her zaman olmaz."},
+        {"v": "UohWGL7_zXo", "s": 0, "e": 560, "t": "Therefore, consequently, as a result, thus",
+         "d": "Sonuç bildiren bağlaçlar: therefore yazı dilinde ve cümlede esnek yerleşir, so konuşma dilinde; hangisi nerede, noktalamasıyla."}
+      ],
+      "yakinanlam": [
+        {"v": "MPGUjRf6x_E", "s": 50, "e": 650, "t": "Teknikle çözüm: eşleştir, ele",
+         "d": "İki yol var: anlamdan ve teknikten. Teknikte modal, bağlaç, sıfat-zarf ve karşılaştırma yapıları şıklarla eşleştirilir; karşılığı olmayan şık elenir."},
+        {"v": "vqwSWY0eTZE", "s": 160, "e": 410, "t": "Böl, eşleştir, kurtul",
+         "d": "Doğru şık aynı anlamı farklı kelime ve yapıyla verir; cümleyi parçalara böl, her parçanın karşılığını şıkta ara, eksik ya da fazla olanı at."},
+        {"v": "RYonktNraCo", "s": 240, "e": 560, "t": "Birebir aynı olmak zorunda değil",
+         "d": "Kişisel yorum katma; sebep ve ekleme farklı kalıplarla gelebilir ama verilen cümlede zıtlık varsa doğru şıkta da mutlaka zıtlık olur."}
+      ],
+      "ctamam": [
+        {"v": "f9mbgvCrcjg", "s": 62, "e": 570, "t": "Cümle tamamlama artık anlam sorusu",
+         "d": "Gramerden çok anlam bilgisi: iki yardımcın bağlaç ve zamir uyumu. Bağlacın metinde olduğu ve bağlacı senin seçtiğin iki soru tipi."},
+        {"v": "Fgm5V7mrSL8", "s": 1464, "e": 1730, "t": "Bilinir–bilinmez zıtlığı",
+         "d": "Bir tarafta 'bilinmiyor, kanıt yok, not certain' varsa öbür tarafta bilinen bir tanım ya da bilgi aranır (ya da tersi); son sınavların gözdesi."},
+        {"v": "Fgm5V7mrSL8", "s": 2155, "e": 2340, "t": "Soru kalıbına göre öncelik sırası",
+         "d": "Zaman vurgusu ve bilinmezlik → zıtlık; will / would → önce koşul, sonra zaman, sonra sebep-sonuç; similar / same → farklılık."}
+      ],
+      "diyalog": [
+        {"v": "eqlpKLvVoyU", "s": 150, "e": 300, "t": "Boşluğun öncesi ve sonrası",
+         "d": "Cevabı boşluktan bir önceki ve bir sonraki replik verir; 'Oh no', 'I agree', 'Really?' gibi tepkiler aranan cümlenin yönünü gösterir."},
+        {"v": "VkyyES6RdNg", "s": 16, "e": 340, "t": "Kendi yorumunu katma",
+         "d": "'Ben olsam ne derdim' diye değil, konuşmanın konusundan sapmadan seç; parçada geçmeyen bilgiyi ekleyen şık elenir (örnek soruyla)."},
+        {"v": "im3CFsZVQhM", "s": 55, "e": 215, "t": "Atıf (refer) ifadelerine öncelik",
+         "d": "This / that / these / such + isim ve it, they gibi zamirler önceki repliğe bağlanır; we ve you genel bilgi verir, atıf sayılmaz."}
+      ],
+      "yerlestirme": [
+        {"v": "F-mrtm9Fu0g", "s": 22, "e": 425, "t": "İlk cümle parçanın 'spoiler'ı",
+         "d": "Giriş cümlesi parçanın neye odaklanacağını söyler; it / these gibi gönderimlerin karşılığı önceki cümlede olmalı; her kelimeyi anlaman gerekmez."},
+        {"v": "JsEbRvfAV8A", "s": 163, "e": 620, "t": "Çeldiricinin üç türü",
+         "d": "ÖSYM şıkları zor, orta, kolay diye kurar; yanlışlar kronolojik hata (konu doğru, yeri yanlış), gramer hatası ya da 'ne alaka' şıkkıdır."},
+        {"v": "JsEbRvfAV8A", "s": 622, "e": 870, "t": "Önce boşluğun sonrası, sonra öncesi",
+         "d": "Boşluktan sonraki cümleyi oku, bağlaç, zamir ve zaman ifadesine göre şık ele; sonra öncesini oku, yine ele. Kronolojik tuzaktan böyle kurtulursun."}
+      ],
+      "abutun": [
+        {"v": "VeiJKEm1_bI", "s": 100, "e": 410, "t": "Neye bakılır: bağlaç, atıf, konu",
+         "d": "However zıtlık, in other words aynı fikri ister; this / such önceki cümleye bağlar; tanım cümlesi paragrafın ortasında olmaz."},
+        {"v": "lnsCGjTus2U", "s": 312, "e": 420, "t": "Birinci cümleyi sağlam tut",
+         "d": "Konuyu ve özneyi ilk cümleden al; 1 ile 2 bağlanmıyorsa ya 1 ya 2 gider, karar verdiren 3. cümle olur."},
+        {"v": "VeiJKEm1_bI", "s": 1676, "e": 1755, "t": "Aynı konu, kayan odak",
+         "d": "Hepsi dansı anlatır ama dördü sosyal bağdan, biri yalnız stresten söz eder: atılan o. Olumlu akışın ortasında bağlaçsız tek olumsuz cümle de şüphelidir."}
+      ],
+      "daralt": [
+        {"v": "Ei-rHpYfXX4", "s": 82, "e": 398, "t": "Ana yüklem: en son çekimli fiil",
+         "d": "who / which / that içindeki fiil ana yüklem değildir. Cümledeki son çekimli fiili bul; ondan öncesinin hepsi öznedir: 'zor koşullarda çalışan insanlar' + 'isterler'."},
+        {"v": "etx0hkEDDTM", "s": 232, "e": 340, "t": "Önce özne, hemen fiil, sonra ayrıntı",
+         "d": "İngilizcede eylem özneden hemen sonra gelir; yer, zaman, kiminle gibi ayrıntılar arkaya dizilir. Özneyle fiili yakala, gerisi süs."},
+        {"v": "WZFqhFINaG8", "s": 4982, "e": 5025, "t": "İki virgül arasında özneyi kaybetme",
+         "d": "Özne yazılır, araya virgüllerle upuzun bir ayrıntı girer, fiil satırlar sonra gelir. Özneyle fiili birleştirince cümlenin ne dediği netleşir."}
+      ],
+      "birlestir": [
+        {"v": "etx0hkEDDTM", "s": 1248, "e": 1360, "t": "Which ile ikinci cümleyi isme bağla",
+         "d": "'The new software which was installed last week helps…': ikinci cümle ismi tanımlar, iki cümle tek cümle olur. Türkçedeki '-en / -dığı'nın karşılığı."},
+        {"v": "D1_pAtbnfLM", "s": 612, "e": 800, "t": "Özneler aynıysa participle ile birleştir",
+         "d": "Aynı özneli iki cümlede biri V-ing (yapan) ya da V3 (yapılan) olur: 'operating in 70 countries', 'known for its vitamins'. Okumada da sık çıkar."},
+        {"v": "OycbdqR2hvQ", "s": 160, "e": 430, "t": "Aynı iki cümle, beş farklı birleştirme",
+         "d": "'She reads short stories. She reads novels.' → moreover, not only … but also, apart from, participle. Anlam aynı kalır, yapı zenginleşir."}
+      ],
+      "kanit": [
+        {"v": "wiIqWx9t3tU", "s": 0, "e": 135, "t": "Cevap şıkta aynı kelimeyle gelmez",
+         "d": "'It is stated / pointed out' sorusunda bilgi metinde açıkça vardır ama şıkta eş anlamlı kelimeyle ya da zıt anlam + olumsuz yapıyla verilir."},
+        {"v": "WZFqhFINaG8", "s": 4745, "e": 4936, "t": "Seçenekten metne: önce yerini bul",
+         "d": "Tarih, özel isim gibi kolay izle şıkkın metindeki yerini bul; sonra o cümleyle şıkkı restatement sorusu gibi kıyasla. Metnin iki ayrı yerinden 'çorba' yapılmış şıkka dikkat."},
+        {"v": "S28eUiTvXQ4", "s": 560, "e": 630, "t": "Vanish = disappear: kanıt eş anlamlısıyla",
+         "d": "Soruda geçen kelimeyi metinde bul, yanına yıldız at; cevap oradadır ama başka bir kelimeyle: soru 'disappear' der, metin 'vanish' der."}
+      ],
+      "cikarim": [
+        {"v": "wiIqWx9t3tU", "s": 135, "e": 282, "t": "Açıkça yazan mı, çıkarım mı?",
+         "d": "Infer sorusunda cevap metinde birebir yazmaz; yine de doğru çıkarım herkesin metinden varacağı ortak sonuçtur, kişisel yorum değil."},
+        {"v": "7yj9wRhlkoQ", "s": 500, "e": 562, "t": "Zarfın karşılığı yoksa gönder",
+         "d": "Şıktaki 'deliberately', 'already' ya da 'daha ciddi' gibi bir kıyas metinde yoksa o şık sınırı aşmıştır; doğru gibi görünse de elenir."},
+        {"v": "lPlhMtwyWQ4", "s": 2240, "e": 2300, "t": "'Kanıtladı' diyemem",
+         "d": "Çıkarım genelden gelir. Metin 'henüz bilinmiyor' diyorsa 'bilim insanı kanıtladı' diyen şık aşırı yorumdur."}
+      ]
+    },
+    "kelimeyapi": {
+      "kelimekur": [
+        {"v": "_aOXj4tXDTE", "s": 95, "e": 210, "t": "Boşluktan sonra isim varsa sıfat ara",
+         "d": "Sıfat ismi, zarf fiili ve sıfatı niteler. create → creative: fiile ek getirip sıfat yaparsın; boşluğun sağındaki kelimenin türü cevabı söyler."},
+        {"v": "gROV59Oggzk", "s": 51, "e": 235, "t": "Önek anlamı çevirir: un-, dis-, in-",
+         "d": "Kelimenin başındaki ek çoğu zaman olumsuzluk ya da zıtlık katar (unclear, disapprove, incomplete). Bilmediğin kelimeyi tahmin ettirir; YDS örneğiyle."},
+        {"v": "gROV59Oggzk", "s": 643, "e": 958, "t": "Sonek türü söyler: -age, -al, -en, -less, -ment",
+         "d": "Kelimenin sonuna bak: -age, -ance, -ment, -ness isim; -al sıfat; -en fiil (strengthen); -less '-sız' (careless). Türevin türünü ek belli eder."}
+      ],
+      "nitelik": [
+        {"v": "_aOXj4tXDTE", "s": 308, "e": 575, "t": "Be, become, look, feel'den sonra sıfat",
+         "d": "Bu fiiller hareket değil durum anlatır; arkalarından zarf değil sıfat gelir: I feel exhausted, you look tired, it is getting boring."},
+        {"v": "3fMfNHTOBUs", "s": 475, "e": 626, "t": "-ing mi, -ed mi?",
+         "d": "-ing etkileyendir (boring, surprising: sıkıcı, şaşırtıcı), -ed etkilenendir (bored, surprised: sıkılmış, şaşırmış). -ly ekleyince zarf: surprisingly."},
+        {"v": "3fMfNHTOBUs", "s": 955, "e": 1110, "t": "hard ≠ hardly, late ≠ lately",
+         "d": "Bazı kelimelere -ly gelince anlam değişir: work hard 'sıkı çalış', hardly 'neredeyse hiç'; late 'geç', lately 'son zamanlarda'; free/freely, deep/deeply."}
+      ]
+    },
+    "okuma": {
+      "sll": [
+        {"v": "4teTSDRyzxI", "s": 167, "e": 332, "t": "Yanlış şıkkın beş hilesi",
+         "d": "Şık ya fazladan bilgi ekler ya eksik verir; miktar kelimesini, karşılaştırmayı ya da kipi değiştirir. Sızıntı türlerinin özeti."},
+        {"v": "KbNS2hPpsRQ", "s": 369, "e": 584, "t": "Kip Kayması ve Kaçak Yolcu",
+         "d": "Cümlede may / might varken 'certainly' diyen şık gider. Metin 'main reason' demediyse şık da diyemez: fazladan bilgi."},
+        {"v": "KbNS2hPpsRQ", "s": 1352, "e": 1475, "t": "'Neredeyse' ile 'tamamen' aynı değil",
+         "d": "Kapsam Sapması: 'neredeyse tamamı çöl' diyen cümleyi 'tamamen çöl' diyen şık karşılamaz. Tek kelime, başka iddia."},
+        {"v": "hj85D76NbOc", "s": 55, "e": 160, "t": "Sebep ile sonuç yer değiştirince",
+         "d": "Nedensellik Tersinmesi: şık aynı kelimelerle cümlenin tam tersini söyler. 'Sadece' eklemek de kapsamı bozar."},
+        {"v": "hj85D76NbOc", "s": 425, "e": 540, "t": "Tek şıkta üç sızıntı",
+         "d": "'Bazen' düşmüş, 'might' eklenmiş, 'only the poor' kapsamı daraltmış: bir şık birden çok yerden sızabilir."}
+      ],
+      "kilit": [
+        {"v": "HesYnI3V7hs", "s": 0, "e": 304, "en": 1, "t": "Aynı cümle: yumuşat ya da sertleştir",
+         "d": "may, might, seem, probably iddiayı yumuşatır; clearly, certainly, no doubt sertleştirir. Cümlenin ayarını bu kelimeler verir."},
+        {"v": "znZtJsdMPgQ", "s": 159, "e": 302, "t": "a few ≠ few, a little ≠ little",
+         "d": "A few 'az ama yeterli', few 'neredeyse hiç' (olumsuz). Tek bir 'a' cümlenin yönünü çevirir."}
+      ],
+      "tuzak": [
+        {"v": "VEJAONSeeb4", "s": 2710, "e": 2896, "t": "İddialı şıklar: always, only, en…",
+         "d": "'Doğru cümleyi yanlış yapmanın en kolay yolu içine only atmaktır.' always, all, completely, en üstünlük ve karşılaştırma kelimelerine dikkat."},
+        {"v": "VEJAONSeeb4", "s": 3270, "e": 3425, "t": "Hırsız şık",
+         "d": "Komşu cümleden kelime çalan şık tanıdık görünür. Sorunun işaret ettiği cümlede o kelime gerçekten geçiyor mu, ona bak."},
+        {"v": "02fFnPpC7A0", "s": 1087, "e": 1270, "t": "'One of the best' ≠ 'the best'",
+         "d": "the most, the first gibi derece ifadeleri ve few / many / little gibi miktar kelimeleri şıkkı tek başına yanlış yapar."}
+      ],
+      "sisli": [
+        {"v": "02fFnPpC7A0", "s": 1525, "e": 1691, "t": "Bilgi kökü mü, yorum kökü mü?",
+         "d": "stated, according to, pointed out: cevap metinde yazar. infer, conclude, implied: çıkarım ister. Kökü okuyunca ne arayacağını bilirsin."},
+        {"v": "VEJAONSeeb4", "s": 2249, "e": 2463, "t": "Kökteki anahtar kelimeyi tut",
+         "d": "Kökte hangi isim geçiyorsa paragrafta onu ara; şıktaki başka isme kanma. 'Yazar bundan niye bahsetti?' sorusunun cevabı çoğu zaman bir önceki cümlede."},
+        {"v": "VEJAONSeeb4", "s": 1434, "e": 1654, "t": "Şıkların ortak paydası",
+         "d": "Üç şıkta birden geçen kelime seni paragraftaki doğru cümleye götürür: az kelime açarak yer bulmanın yolu."}
+      ],
+      "referans": [
+        {"v": "OM9bebx5kyI", "s": 219, "e": 311, "en": 1, "t": "Cevap neredeyse hep aynı cümlede",
+         "d": "Vurgulu zamirin gösterdiği isim çoğu zaman aynı cümlede, değilse bir önceki cümlededir; sonrakinde çok nadirdir. Ve hep zamirden öncedir."},
+        {"v": "QCr5kVBWNFE", "s": 311, "e": 504, "t": "'It' bütün cümleyi gösterebilir",
+         "d": "It tek bir ismi değil, önceki cümlenin tamamını gösterebilir: 'öğrencilerimin 80 alması beni mutlu etti'."},
+        {"v": "QCr5kVBWNFE", "s": 2839, "e": 3093, "t": "those, that of, those of",
+         "d": "Those insanları gösterebilir; that of / those of ismi tekrar etmemek için gelir: 'my car is faster than that of Hülya'."}
+      ],
+      "pxr": [
+        {"v": "7bo4YtKv68Y", "s": 0, "e": 263, "en": 1, "t": "Karşı görüş → çürütme → sonuç",
+         "d": "'It is often argued' karşı görüşü açar, 'however' çürütür, 'thus' bağlar. Cümlenin rolü işaret kelimesinden okunur."},
+        {"v": "RmSfoT0_ldU", "s": 0, "e": 430, "en": 1, "t": "Karşı görüş, taviz, çürütme",
+         "d": "opponents argue / some claim karşı görüşü, 'while this seems logical' tavizi, however / on the contrary çürütmeyi haber verir; örnek paragrafla."},
+        {"v": "3ga_MbjKk-0", "s": 310, "e": 500, "en": 1, "t": "Önce taviz ver, sonra çürüt",
+         "d": "'That is an understandable concern, however…' kalıbı; kiralamak mı satın almak mı örneğinde taviz ve çürütme cümleleri."}
+      ],
+      "bloklari": [
+        {"v": "HLoIqTLT8hw", "s": 0, "e": 331, "en": 1, "t": "Türkçe SOV, İngilizce SVO",
+         "d": "Türkçede fiil sonda, İngilizcede özneden hemen sonra. Sıfat, yer ve zaman eklendikçe blokların nereye oturduğunu Türklere özel anlatıyor."},
+        {"v": "hv2ie67MDqY", "s": 0, "e": 468, "t": "Fiille nesne ayrılmaz",
+         "d": "'I like very much my job' olmaz: fiil ile nesne yan yana durur. Sıra: fiil + nesne → yer → zaman."}
+      ],
+      "kalem": [
+        {"v": "P2hKzVuXntY", "s": 0, "e": 343, "t": "Türklerin en sık hataları",
+         "d": "exhausted / exhausting, a / the, less / fewer, these shoes, 'the' largest, fun / funny: her hatanın nedeniyle."},
+        {"v": "ofTA9JBila8", "s": 156, "e": 341, "t": "less mi fewer mı? 'Me and my sister went'",
+         "d": "Sayılabilen isimle fewer, sayılamayanla less. Özne konumunda 'me' değil 'I': 'My sister and I went'."}
+      ],
+      "regres": [
+        {"v": "nOp9KAXgOOU", "s": 91, "e": 181, "en": 1, "t": "Göz neden geri kaçar?",
+         "d": "İçten seslendirme ve geri dönüşler (regresyon) okumayı yavaşlatır; çoğu zaman anlamaya da katkısı yoktur."},
+        {"v": "nOp9KAXgOOU", "s": 489, "e": 582, "en": 1, "t": "Parmakla takip et",
+         "d": "Parmak ya da kalemle satırı takip etmek gözü ileri çeker, geri kaçmayı azaltır."},
+        {"v": "nOp9KAXgOOU", "s": 612, "e": 828, "en": 1, "t": "Kelime kelime değil, öbek öbek",
+         "d": "Göz her kelimede durmak zorunda değil: 2-3 kelimelik öbeklerle okumak hem hızı hem anlamayı artırır."}
+      ]
+    },
+    "kelime": {
+      "obek": [
+        {"v": "SOvhNBbSwJE", "s": 0, "e": 421, "en": 1, "t": "crying baby mi, swimming pool mu?",
+         "d": "crying baby: bebek ağlıyor (yapan). swimming pool, walking stick: ne için (yüzmek için havuz). Vurgu da farkı söyler: SWIMming pool."},
+        {"v": "JtAzgbye288", "s": 32, "e": 214, "t": "'The X of Y': asıl haber nerede?",
+         "d": "İsim öbeğinde haber değeri taşıyan kelimeyi bul; Türkçeye sondan başa doğru çevrilir."},
+        {"v": "JtAzgbye288", "s": 1241, "e": 1587, "t": "Uzun öbeği sondan başa aç",
+         "d": "'sıradan bir Türk öğrencinin dairesi', 'yeni binanın basit tasarımı': uzun öbekler adım adım açılıyor."}
+      ],
+      "terazi": [
+        {"v": "7rUFcthzOrs", "s": 771, "e": 896, "t": "possible < must have < pretty sure",
+         "d": "Kesinlik terazisi: 'must have told' yüksek olasılık; 'it is possible' ve 'I'm not sure' bunu karşılamaz, 'I'm pretty sure' karşılar."},
+        {"v": "KbNS2hPpsRQ", "s": 1658, "e": 1720, "t": "'Sık sık' ≠ 'her zaman'",
+         "d": "Sıklık terazisi: often, frequently ile always aynı basamakta değil; birini ötekinin yerine koyamazsın."}
+      ],
+      "kok": [
+        {"v": "PdL2_T1-BTo", "s": 0, "e": 525, "en": 1, "t": "15 Yunan kökü",
+         "d": "auto, bio, chron, geo, graph, log, micro, phon, psych, scope, tele, therm…: kökü tanıyınca bilinmeyen kelime çözülür."}
+      ],
+      "sezgi": [
+        {"v": "a0Rwf6y1yZ0", "s": 0, "e": 491, "en": 1, "t": "Bağlamdaki ipuçları",
+         "d": "Tanım ve örnek ipucu: cümle, bilinmeyen kelimenin anlamını çoğu zaman yanında verir. Basit örneklerle, çok net."}
+      ],
+      "tanidik": [
+        {"v": "mETHrEU5lpw", "s": 369, "e": 559, "t": "sound: ses değil, 'sağlam'",
+         "d": "Sıfat olunca sound 'sağlam, güvenilir' (sound judgement). 'For all' da 'tümü için' değil 'rağmen' (despite)."},
+        {"v": "zoAyuSJR-bU", "s": 0, "e": 400, "en": 1, "t": "novel, draft, harbor: ikinci anlam",
+         "d": "novel = özgün, harbor resentment = kin beslemek, current = güncel: bildiğin kelime cümlede başka anlama gelebilir."},
+        {"v": "Pv_oW7wbgOU", "s": 316, "e": 560, "en": 1, "t": "run, just, miss: tanıdık ama başka",
+         "d": "run a business = yönetmek, running late = gecikmek, just = sadece / az önce; get, take, miss da cümleye göre değişir."}
+      ],
+      "cyol": [
+        {"v": "-TKrgMisXLU", "s": 478, "e": 602, "t": "result from mı, result in mi?",
+         "d": "result from / stem from: -den kaynaklanmak. result in / lead to / bring about: sebep olmak. Edat değişince yön tersine döner."},
+        {"v": "-TKrgMisXLU", "s": 3552, "e": 3614, "t": "break in, break down, bring in",
+         "d": "Aynı kök, farklı edat, bambaşka anlam: içeri dalmak, bozulmak, getirmek."},
+        {"v": "-TKrgMisXLU", "s": 3395, "e": 3458, "t": "switch to, switch on, switch off",
+         "d": "Geçiş yapmak, açmak, kapatmak: edat anlamı belirler."}
+      ],
+      "fark": [
+        {"v": "PWpSfHro9_k", "s": 0, "e": 499, "en": 1, "t": "stop doing ≠ stop to do",
+         "d": "I stopped drinking coffee: bıraktım. I stopped to buy coffee: kahve almak için durdum. Tek yapı, iki ayrı olay."},
+        {"v": "W20klWpLdeU", "s": 311, "e": 464, "en": 1, "t": "remember to ≠ remember doing",
+         "d": "remember to / forget to: yapılacak görev. remember doing: geçmişteki anı. 'I remember visiting Rome'."},
+        {"v": "ieczuKaSHDI", "s": 0, "e": 315, "en": 1, "t": "hard ≠ hardly",
+         "d": "hard: sıkı, zor. hardly: neredeyse hiç. -ly eklenince anlam ters döner; 'can't hardly' denmez."}
+      ]
+    }
+  }
+}
