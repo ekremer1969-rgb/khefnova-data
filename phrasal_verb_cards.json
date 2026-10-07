@@ -9498,7 +9498,7 @@
     "answer_sense": "oradan oraya koştur",
     "answer_syn": "",
     "distractor_verbs": [
-      "orderred",
+      "ordered",
       "walked",
       "chased"
     ],
@@ -10086,7 +10086,7 @@
     "distractor_verbs": [
       "showed",
       "pushed",
-      "orderred"
+      "ordered"
     ],
     "distractor_particles": [
       "up",
@@ -44353,7 +44353,7 @@
         "diff": "Küçük sorunları tatlıya bağlamayı anlatır; hammer out çetin müzakere vurgular."
       },
       {
-        "pv": "thrush out",
+        "pv": "thrash out",
         "tr": "tartışıp çözüme kavuşturmak",
         "diff": "Detaylı tartışarak netleştirme anlamına gelir."
       }
