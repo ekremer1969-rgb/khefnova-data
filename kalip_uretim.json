@@ -2208,33 +2208,33 @@
    "id": "a1_fruit_eat",
    "level": "A1",
    "theme": "meyve",
-   "frame_en": "She eats ___ everyday",
+   "frame_en": "She eats ___ every day",
    "frame_tr": "O her gün ___ yer",
    "derivatives": [
     {
      "tr": "meyve",
      "answer": "fruit",
-     "sentence": "She eats fruit everyday."
+     "sentence": "She eats fruit every day."
     },
     {
      "tr": "bir elma",
      "answer": "an apple",
-     "sentence": "She eats an apple everyday."
+     "sentence": "She eats an apple every day."
     },
     {
      "tr": "bir muz",
      "answer": "a banana",
-     "sentence": "She eats a banana everyday."
+     "sentence": "She eats a banana every day."
     },
     {
      "tr": "çilek",
      "answer": "strawberries",
-     "sentence": "She eats strawberries everyday."
+     "sentence": "She eats strawberries every day."
     },
     {
      "tr": "portakal",
      "answer": "oranges",
-     "sentence": "She eats oranges everyday."
+     "sentence": "She eats oranges every day."
     }
    ],
    "self_prompt_tr": "Senin her gün mutlaka yediğin favori bir meyven var mı?"
@@ -2746,8 +2746,8 @@
     },
     {
      "tr": "her gün",
-     "answer": "everyday",
-     "sentence": "He rides everyday."
+     "answer": "every day",
+     "sentence": "He rides every day."
     },
     {
      "tr": "işe",
