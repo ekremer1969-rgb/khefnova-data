@@ -5612,10 +5612,10 @@
       "id": "nk_b2_296",
       "level": "B2",
       "pos": "adj",
-      "tr": "Mühendis pazarda başarılı olmak için yenilikci fikirler geliştirdi.",
+      "tr": "Mühendis pazarda başarılı olmak için yenilikçi fikirler geliştirdi.",
       "sentence": "The engineer developed innovative ideas to succeed in the market.",
       "answer": "innovative",
-      "answer_tr": "yenilikci",
+      "answer_tr": "yenilikçi",
       "modDistractors": [
         "outdated",
         "archaic",
@@ -5623,8 +5623,8 @@
       ],
       "mod_tr": {
         "outdated": "eskimiş",
-        "archaic": "ilkel",
-        "primitive": "basit"
+        "archaic": "arkaik",
+        "primitive": "ilkel"
       }
     },
     {
