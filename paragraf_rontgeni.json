@@ -11999,7 +11999,7 @@
  {
   "id": "pxr280",
   "topic": "Dog Companionship (Psychology)",
-  "paragraph_raw": "Most medical clinicians believe that keeping a domestic dog has no direct benefits for human heart health. Owning a friendly dog demands indeed significant daily expenses for feeding, vaccination, and cleaning. Dog companionship, instead of being a simple hobby, actually encourages owners to walk outdoors daily and reduces stress. A cardiovascular health study of six hundred owners reported much lower heart rate spikes during work stress. Consequently, welcoming a domestic pet represents a highly successful strategy to support lifelong physical wellness.",
+  "paragraph_raw": "Most medical clinicians believe that keeping a domestic dog has no direct benefits for human heart health. Owning a friendly dog indeed demands significant daily expenses for feeding, vaccination, and cleaning. Dog companionship, instead of being a simple hobby, actually encourages owners to walk outdoors daily and reduces stress. A cardiovascular health study of six hundred owners reported much lower heart rate spikes during work stress. Consequently, welcoming a domestic pet represents a highly successful strategy to support lifelong physical wellness.",
   "tr": "Çoğu tıp uzmanı, evcil bir köpek beslemenin insan kalp sağlığı için doğrudan hiçbir yararı olmadığına inanır. Dost canlısı bir köpeğe sahip olmak gerçekten de besleme, aşılama ve temizlik için önemli günlük masraflar gerektirir. Köpek arkadaşlığı ise basit bir hobi olmak yerine, sahiplerini her gün açık havada yürümeye teşvik eder ve stresi azaltır. Altı yüz köpek sahibini kapsayan kardiyovasküler sağlık araştırması, iş stresi sırasında çok daha düşük kalp atış hızı artışları bildirdi. Sonuç olarak, evcil bir hayvanı kabul etmek ömür boyu fiziksel zindeliği desteklemek için son derece başarılı bir strateji temsil eder.",
   "scaffolding": [
    {
@@ -12011,7 +12011,7 @@
    },
    {
     "sentence_index": 1,
-    "text": "Owning a friendly dog demands indeed significant daily expenses for feeding, vaccination, and cleaning.",
+    "text": "Owning a friendly dog indeed demands significant daily expenses for feeding, vaccination, and cleaning.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
     "why": "Köpek bakımının beslenme, sağlık ve temizlik gibi zahmetli ve pahalı sorumluluklarını dürüstçe kabul eder."
@@ -12601,12 +12601,12 @@
  {
   "id": "pxr294",
   "topic": "Online Communities (Sociology)",
-  "paragraph_raw": "Most old people believe that join-in digital clubs cannot build real friendships among people. Sharing opinions behind social screens indeed feels far less deep than a physical neighborhood meeting. Shared online interests, rather than physical locations, successfully bring together distant individuals who share the exact same hobbies. A sociological test with four hundred active users showed high levels of long term personal support. The main lesson is that virtual social spaces represent highly successful modern neighborhoods.",
+  "paragraph_raw": "Most old people believe that joining digital clubs cannot build real friendships among people. Sharing opinions behind social screens indeed feels far less deep than a physical neighborhood meeting. Shared online interests, rather than physical locations, successfully bring together distant individuals who share the exact same hobbies. A sociological test with four hundred active users showed high levels of long term personal support. The main lesson is that virtual social spaces represent highly successful modern neighborhoods.",
   "tr": "Çoğu yaşlı insan, dijital kulüplere katılmanın insanlar arasında gerçek arkadaşlıklar kuramayacağına inanır. Sosyal ekranların arkasında görüş paylaşmak, fiziksel bir mahalle toplantısından gerçekten de çok daha az derin hissettirir. Paylaşılan çevrimiçi ilgi alanları ise fiziksel konumlar yerine, tam olarak aynı hobileri paylaşan uzak bireyleri başarıyla bir araya getirir. Dört yüz aktif kullanıcıyla yapılan sosyolojik bir test, yüksek düzeyde uzun vadeli kişisel destek gösterdi. Temel ders, sanal sosyal alanların son derece başarılı modern mahalleleri temsil ettiğidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
-    "text": "Most old people believe that join-in digital clubs cannot build real friendships among people.",
+    "text": "Most old people believe that joining digital clubs cannot build real friendships among people.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
     "why": "Çevrimiçi sosyal grupların ve dijital toplulukların bireyler arasında sahici arkadaşlık bağları kuramayacağı inancını sunar."
