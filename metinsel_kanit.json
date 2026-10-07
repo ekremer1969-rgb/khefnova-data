@@ -768,7 +768,7 @@
    {
     "text": "jeopardizing",
     "is_evidence": true,
-    "mapped_to": "putting at risk",
+    "mapped_to": "putting the main tourist draws at risk",
     "why": "Tehlikeye atmak fiili, cevaptaki riske sokmak ifadesinin metindeki doğrudan karşılığıdır."
    },
    {
@@ -3759,8 +3759,8 @@
    {
     "text": "prevent cardiomyopathy",
     "is_evidence": true,
-    "mapped_to": "prevent cardiomyopathy",
-    "why": "Kardiyomiyopatiyi önlemek ve bu besinden yoksun kaldığında kalp kası rahatsızlığı riskini tetiklemek durumunu doğrudan doğrular."
+    "mapped_to": "severe heart muscle conditions",
+    "why": "Kardiyomiyopati ciddi bir kalp kası rahatsızlığıdır; metin taurinsiz beslenmede bunun önlenemediğini söyler, bu da cevaptaki ciddi kalp kası sorunlarını doğrudan doğrular."
    },
    {
     "text": "plant matter",
@@ -4116,7 +4116,7 @@
    {
     "text": "facilitating faster sleep onset",
     "is_evidence": true,
-    "mapped_to": "allow individuals to fall asleep more rapidly",
+    "mapped_to": "allowing individuals to fall asleep more rapidly",
     "why": "Daha hızlı uykuya dalmayı kolaylaştırmak ifadesi, cevaptaki daha hızlı uykuya dalma karşılığını doğrudan doğrular."
    },
    {
