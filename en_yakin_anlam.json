@@ -106,7 +106,7 @@
     "correct": "Under the latest rules, every staff member must use protective eyewear when in the lab.",
     "d_ters": "The new policy permits employees to work in the laboratory without safety goggles.",
     "d_fazla": "The new policy requires all employees to wear specialized safety goggles imported from Germany.",
-    "d_yuzey": "",
+    "d_yuzey": "Safety goggles require all employees to wear the new policy in the laboratory.",
     "why": "Doğru şık requires yapısını must ile, employees yapısını staff member ile ve safety goggles yapısını protective eyewear ile eşleştiriyor. Ters şık gözlüksüz çalışmaya izin verildiğini söylüyor; fazla-bilgi şıkkı gözlüklerin Almanya'dan ithal edilen özel tasarımlar olduğu bilgisini uyduruyor; yüzey şıkkı ise gözlüklerin çalışanların yeni politikayı takmasını gerektirdiği şeklinde mantıksız bir anlam çıkarıyor."
   },
   {
@@ -166,7 +166,7 @@
     "correct": "Despite practicing intensively, Linda was unable to succeed in her road exam.",
     "d_ters": "Linda passed the driving test easily without putting in much effort or practice.",
     "d_fazla": "Linda could not pass the driving test because she was extremely nervous during the exam.",
-    "d_yuzey": "",
+    "d_yuzey": "No matter how hard the driving test practiced, Linda could not pass it.",
     "why": "Doğru şık no matter how hard yapısını despite ile, pass driving test yapısını succeed in road exam ile eşleştiriyor. Ters şık sınavı hiç pratik yapmadan kolayca geçtiğini söylüyor; fazla-bilgi şıkkı kalma sebebi olarak aşırı heyecanlı olmasını uyduruyor; yüzey şıkkı ise direksiyon sınavının pratik yaptığını söyleyerek anlamı tamamen saptırıyor."
   },
   {
@@ -176,7 +176,7 @@
     "correct": "Tight ecological regulations compelled the company to shut down its manufacturing plant.",
     "d_ters": "The company expanded its factory because the environmental laws were very relaxed.",
     "d_fazla": "The company had to close its factory permanently to avoid paying heavy fines.",
-    "d_yuzey": "",
+    "d_yuzey": "Strict environmental laws were forced to close their factory due to the firm.",
     "why": "Doğru şık due to karşılığı compelled kullanarak etken/edilgen dönüşümü yaparken strict yerine tight, factory yerine manufacturing plant kullanarak eşdeğerliği koruyor. Ters şık yasaların gevşek olması nedeniyle fabrikanın büyütüldüğünü iddia ediyor; fazla-bilgi şıkkı ağır para cezalarından kaçınmak amacıyla kapatıldığı detayını uyduruyor; yüzey şıkkı ise yasaların şirket yüzünden fabrikasını kapatmak zorunda kaldığını söylüyor."
   },
   {
@@ -226,7 +226,7 @@
     "correct": "Thousands of local people had to flee their homes due to the immense strength of the volcanic eruption.",
     "d_ters": "The volcanic eruption was so mild that local residents refused to leave their homes.",
     "d_fazla": "The violent volcanic eruption destroyed thousands of homes, causing massive financial losses.",
-    "d_yuzey": "",
+    "d_yuzey": "The volcanic eruption was so violent that thousands of residents forced it to evacuate.",
     "why": "Doğru şık so violent that yapısını due to immense strength ile ve evacuate yapısını flee homes ile eşleştirip etken/edilgen geçişi yapıyor. Ters şık patlamanın hafif olduğunu ve kimsenin gitmediğini söylüyor; fazla-bilgi şıkkı evlerin yıkıldığı ve büyük maddi hasar oluştuğu bilgisini uyduruyor; yüzey şıkkı ise sakinlerin yanardağı tahliye olmaya zorladığını iddia ederek anlamı tersyuz ediyor."
   },
   {
@@ -346,7 +346,7 @@
     "correct": "According to the latest legislation, carrying grocery items in plastic bags is banned everywhere.",
     "d_ters": "The new law officially encourages shoppers to use plastic bags in grocery stores.",
     "d_fazla": "The new law prohibits the use of plastic bags because they are the main cause of ocean pollution.",
-    "d_yuzey": "",
+    "d_yuzey": "All grocery stores prohibit the use of the new law in plastic bags.",
     "why": "Doğru şık prohibits the use of plastic bags yerine carrying in plastic bags is banned ifadesini kullanarak tam bir eş anlamlılık sağlıyor. Ters şık plastik poşet kullanımının teşvik edildiğini söylüyor; fazla-bilgi şıkkı yasağın gerekçesi olarak okyanus kirliliğini uyduruyor; yüzey şıkkı ise marketlerin plastik poşetlerdeki yasayı yasakladığını söyleyerek kelimeleri karıştırıyor."
   },
   {
@@ -766,7 +766,7 @@
     "correct": "He chose to do his academic work in the silent library instead of his loud dorm.",
     "d_ters": "He preferred studying in his noisy dormitory rather than in the quiet library.",
     "d_fazla": "He preferred the library because his dormitory did not have any internet connection.",
-    "d_yuzey": "",
+    "d_yuzey": "He preferred studying in the quiet dormitory rather than in his noisy library.",
     "why": "Doğru şık kütüphanede çalışmayı yurda tercih etme yapısını eşdeğer şekilde aktarıyor. Ters şık gürültülü yurdu sessiz kütüphaneye tercih ettiğini iddia ediyor; fazla-bilgi şıkkı yurtta internet bağlantısı olmadığı gerekçesini uyduruyor; yüzey şıkkı sessiz yurt ve gürültülü kütüphane kelimelerini birbirine karıştırarak anlamı tersyüz ediyor."
   },
   {
@@ -1746,7 +1746,7 @@
     "correct": "People without permission are barred from the server room due to tight safety regulations.",
     "d_ters": "Unauthorized visitors are allowed to enter the server room despite strict safety regulations.",
     "d_fazla": "Strict security rules prevent visitors from entering because the servers are overheating.",
-    "d_yuzey": "",
+    "d_yuzey": "The server room prevents unauthorized visitors from enforcing strict security rules.",
     "why": "Doğru şık prevent from yapısını barred due to ile karşılıyor. Ters şık yetkisizlere izin verildiğini iddia ediyor; fazla-bilgi şıkkı sunucuların sığındığı uydurmasını ekliyor; yüzey şıkkı sunucu odasının ziyaretçileri engellediğini söyleyerek anlamı kaydırıyor."
   },
   {
@@ -1836,7 +1836,7 @@
     "correct": "While the suspect was attempting to escape, the officers detained him.",
     "d_ters": "The police released the suspect because he had no intention of escaping.",
     "d_fazla": "The police arrested the suspect because they found stolen money in his bag.",
-    "d_yuzey": "",
+    "d_yuzey": "The suspect arrested the police as they were trying to flee.",
     "why": "Doğru şık zaman bağlacını while, arrested fiilini detained ile karşılıyor. Ters şık kaçma niyeti olmadığı için serbest bıraktıklarını söylüyor; fazla-bilgi şıkkı çantada çalıntı para uydurmasını ekliyor; yüzey şıkkı şüphelinin polisi tutukladığını söyleyerek anlamı bozuyor."
   },
   {
@@ -2496,7 +2496,7 @@
     "correct": "Compared to older versions available, this intelligent gadget uses a smaller amount of energy.",
     "d_ters": "Older models in the market consume less electricity than this smart device.",
     "d_fazla": "This smart device consumes less electricity because it was designed by environmental engineers in Sweden.",
-    "d_yuzey": "",
+    "d_yuzey": "Older models in the market consume this smart device instead of electricity.",
     "why": "Doğru şık az enerji kullanımını uses a smaller amount of energy ile kıyaslayarak tam veriyor. Ters şık eski modellerin daha az tükettiğini söylüyor; fazla-bilgi şıkkı İsveçli çevre mühendisleri tasarımı olduğu bilgisini uyduruyor; yüzey şıkkı eski modellerin akıllı cihazı tükettiğini iddia ederek anlamı bozuyor."
   },
   {
