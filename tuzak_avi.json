@@ -1518,7 +1518,7 @@
   "trapType": "metinde-yok",
   "evidence": "increases job satisfaction",
   "why": "Metin uzaktan çalışmanın iş memnuniyetini artırdığını söylüyor ancak bunun gerekçesi olarak ofis kiralarının yüksek olmasını (because office rent is high) göstermiyor. Şıkka hayali bir sebep eklenmiştir.",
-  "tr": "Çalışma ekonomistleri son zamanlarda esnek uzaktan çalışma programları sunmanın kurumsal pazarlama çalışanları için iş memnuniyetini önemli ölçüde artırdığını gözlemlediler. Birçok büyük pazarlama şirketeti, yeni politika resmi olarak tanıtıldıktan sonra genel çalışan kalıcılık oranlarının çok önemli ölçüde arttığını fark ettiler."
+  "tr": "Çalışma ekonomistleri son zamanlarda esnek uzaktan çalışma programları sunmanın kurumsal pazarlama çalışanları için iş memnuniyetini önemli ölçüde artırdığını gözlemlediler. Birçok büyük pazarlama şirketi, yeni politika resmi olarak tanıtıldıktan sonra genel çalışan kalıcılık oranlarının çok önemli ölçüde arttığını fark ettiler."
  },
  {
   "id": "trp_118",
@@ -2800,7 +2800,7 @@
  {
   "id": "trp_216",
   "text": "A sociology study suggests that community gardens in urban residential areas significantly reduce stress and improve social cohesion among neighbors. Organizers are currently planning to build two more gardens next spring to accommodate the increasing number of interested families.",
-  "question": "Parçaya göre mahalle bahçeleriyle ilgili aşağıdakilerden hangisi söunda söylenebilir?",
+  "question": "Parçaya göre mahalle bahçeleriyle ilgili aşağıdakilerden hangisi söylenebilir?",
   "wrong": "The community gardens completely eliminate stress among all urban residents.",
   "traps": [
    "completely eliminate"
@@ -2853,7 +2853,7 @@
   "id": "trp_220",
   "text": "A clinical study shows that targeted physical therapy sessions can significantly reduce joint stiffness in most patients diagnosed with early-stage osteoarthritis. Participants reported remarkable improvements in daily mobility after completing the prescribed six-week regimen of moderate low-impact exercises.",
   "question": "Parçaya göre osteoartrit hastalarıyla ilgili aşağıdakilerden hangisi söylenebilir?",
-  "wrong": "Physical therapy always cures joint stiffness in osteoartrit patients.",
+  "wrong": "Physical therapy always cures joint stiffness in osteoarthritis patients.",
   "traps": [
    "always cures"
   ],
@@ -2865,7 +2865,7 @@
  {
   "id": "trp_221",
   "text": "Recent ecological surveys suggest that rising ocean temperatures have forced several marine species in northern reefs to migrate deeper into cooler waters. While some species have successfully adapted to these thermal changes, others face severe population declines due to food scarcity.",
-  "question": "Parçaya göre kuzey resiflerindeki deniz canlılarıyla ilgili hangisi söunda söylenebilir?",
+  "question": "Parçaya göre kuzey resiflerindeki deniz canlılarıyla ilgili hangisi söylenebilir?",
   "wrong": "Every northern reef species has adapted well to rising ocean temperatures.",
   "traps": [
    "Every northern reef species"
