@@ -14695,7 +14695,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although online business meetings removes all commuting problems globally, lack of physical interaction makes team cooperation harder.",
+    "text": "Although online business meetings remove all commuting problems globally, lack of physical interaction makes team cooperation harder.",
     "is_correct": false,
     "leak_type": "scope_leak",
     "trigger_phrase": "removes all commuting problems globally",
