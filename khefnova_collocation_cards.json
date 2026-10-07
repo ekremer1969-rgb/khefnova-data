@@ -2041,7 +2041,7 @@
     "verb": "give",
     "rest": "feedback",
     "tr": "geri bildirim vermek",
-    "en_prompt": "The teacher will ___ constructve feedback on your essay.",
+    "en_prompt": "The teacher will ___ constructive feedback on your essay.",
     "en_full": "The teacher will give constructive feedback on your essay.",
     "tr_full": "Öğretmen makaleniz hakkında yapıcı geri bildirim verecek.",
     "distractors": [
