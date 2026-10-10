@@ -643,7 +643,7 @@
     "sentence": "Fresh vegetables provide a [healthy] diet for kids.",
     "answer": "healthy",
     "distractors": [
-      "healthful",
+      "healthiness",
       "healthily"
     ],
     "sentence_tr": "Taze sebzeler çocuklar için sağlıklı bir beslenme sağlar.",
