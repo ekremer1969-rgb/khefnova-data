@@ -20715,7 +20715,7 @@
     "tr": "Bazı yıldızlar, ışığı bize varmadan önce sönmüş olabilmektedir.",
     "hint": "may have + V3 (geçmişe dönük olasılık).",
     "skeleton": "Some ····· ··· ···· ···· ······ ····· ····· ······· to ··.",
-    "model": "Some stars may have died before their light arrives to us.",
+    "model": "Some stars may have died before their light reaches us.",
     "chunk": "may have died before",
     "link": ""
    },
