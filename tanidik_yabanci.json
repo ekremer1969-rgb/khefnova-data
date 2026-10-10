@@ -2525,7 +2525,7 @@
    "göndermek"
   ],
   "answer": 2,
-  "clue_tr": "Eylem olarak 'brief', bir yetkiliye önemli konularda kısa ve öz bilgi aktarmaktır; sıfat olan 'kisa' buraya uymaz."
+  "clue_tr": "Eylem olarak 'brief', bir yetkiliye önemli konularda kısa ve öz bilgi aktarmaktır; sıfat olan 'kısa' buraya uymaz."
  },
  {
   "id": "ty159",
@@ -5495,7 +5495,7 @@
   "en": "I find it very hard to credit his claims about discovering a new planet.",
   "tr": "Yeni bir gezegen keşfettiğine dair iddialarına inanmayı oldukça zor buluyorum.",
   "options": [
-   "reddretmek",
+   "reddetmek",
    "borç almak",
    "inanmak/itibar etmek/atfetmek",
    "kredi"
