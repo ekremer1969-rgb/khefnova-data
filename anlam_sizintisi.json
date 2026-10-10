@@ -1827,7 +1827,7 @@
   "id": "sll039",
   "topic": "Public Gardens (Sociology)",
   "target_sentence": "Since community gardens encourage neighbors to work together, they help build stronger social relationships in local communities.",
-  "tr": "Topluk bahçeleri komşuları birlikte çalışmaya teşvik ettiği için, yerel topluluklarda daha güçlü sosyal ilişkiler kurulmasına yardımcı olur.",
+  "tr": "Topluluk bahçeleri komşuları birlikte çalışmaya teşvik ettiği için, yerel topluluklarda daha güçlü sosyal ilişkiler kurulmasına yardımcı olur.",
   "options": [
    {
     "option_id": "A",
@@ -2003,7 +2003,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "expensive organic food",
-    "why": "Kaçak Yolcu: Hedef cümlede pahalı organik gıdalardan bahsedilmedigi halde şıkka bu ekstra detay eklenmiştir."
+    "why": "Kaçak Yolcu: Hedef cümlede pahalı organik gıdalardan bahsedilmediği halde şıkka bu ekstra detay eklenmiştir."
    },
    {
     "option_id": "E",
@@ -2419,7 +2419,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Hayvanat bahçelerinin üreme ve koruma katkısını ve kısıtlı alanların doğal davranışlara olumsuz etkisini tam karşılar."
+    "why": "Kusursuz Eş Değer: Hayvanat bahçelerinin üreme ve koruma katkısını ve kısıtlı alanların doğal davranışlara olumsuz etkisini tam karşılar."
    },
    {
     "option_id": "C",
@@ -2435,7 +2435,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "made of cheap glass",
-    "why": "Kacak Yolcu: Hedefte alanların camdan veya ucuz malzemeden yapıldığına dair hiçbir bilgi geçmediği halde bu ekstra detay eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte alanların camdan veya ucuz malzemeden yapıldığına dair hiçbir bilgi geçmediği halde bu ekstra detay eklenmiştir."
    },
    {
     "option_id": "E",
@@ -2443,7 +2443,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will certainly limit",
-    "why": "Kip Kaymasi: Hedefteki sınırlayabilir ihtimal dili, bu şıkta kesinlikle sınırlayacaktır şeklinde mutlak bir yargıya dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki sınırlayabilir ihtimal dili, bu şıkta kesinlikle sınırlayacaktır şeklinde mutlak bir yargıya dönüştürülmüştür."
    }
   ]
  },
@@ -2467,7 +2467,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely cause",
-    "why": "Kip Kaymasi: Hedefteki neden olabilir ihtimal dili, bu şıkta kesinlikle sebep olacaktır şeklinde mutlaklığa dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki neden olabilir ihtimal dili, bu şıkta kesinlikle sebep olacaktır şeklinde mutlaklığa dönüştürülmüştür."
    },
    {
     "option_id": "C",
@@ -2475,7 +2475,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "that rely on outdated computer monitors",
-    "why": "Kacak Yolcu: Hedefte eski bilgisayar monitörleri kullanımıyla ilgili hiçbir bilgi olmamasına rağmen şıkka yeni bir unsur eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte eski bilgisayar monitörleri kullanımıyla ilgili hiçbir bilgi olmamasına rağmen şıkka yeni bir unsur eklenmiştir."
    },
    {
     "option_id": "D",
@@ -2491,7 +2491,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Yapay zekanın verimlilik artırma etkisini ve idari işlerde kayba yol açma ihtimalini doğru eş anlamlılarla verir."
+    "why": "Kusursuz Eş Değer: Yapay zekanın verimlilik artırma etkisini ve idari işlerde kayba yol açma ihtimalini doğru eş anlamlılarla verir."
    }
   ]
  },
@@ -2515,7 +2515,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Uzay keşfinin zihinsel faydalarını ve yüksek harcamaların yarattığı kamuoyu tartışması zıtlığını tam eşleştirir."
+    "why": "Kusursuz Eş Değer: Uzay keşfinin zihinsel faydalarını ve yüksek harcamaların yarattığı kamuoyu tartışması zıtlığını tam eşleştirir."
    },
    {
     "option_id": "C",
@@ -2523,7 +2523,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "who prefer funding sports stadiums",
-    "why": "Kacak Yolcu: Hedefte spor stadyumlarının fonlanmasını tercih eden mükelleflerle ilgili hiçbir ifade olmamasına rağmen bu unsur eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte spor stadyumlarının fonlanmasını tercih eden mükelleflerle ilgili hiçbir ifade olmamasına rağmen bu unsur eklenmiştir."
    },
    {
     "option_id": "D",
@@ -2531,7 +2531,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "must always spark",
-    "why": "Kip Kaymasi: Hedefteki genellikle tetikler durumu, bu şıkta her zaman tetiklemelidir şeklinde bir zorunluluk ve kesinlik diline dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki genellikle tetikler durumu, bu şıkta her zaman tetiklemelidir şeklinde bir zorunluluk ve kesinlik diline dönüştürülmüştür."
    },
    {
     "option_id": "E",
@@ -2555,7 +2555,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "on expensive pianos",
-    "why": "Kacak Yolcu: Hedefte enstrümanın piyano olduğu veya pahalı olması gerektiği geçmediği halde şıkka bu kısıt eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte enstrümanın piyano olduğu veya pahalı olması gerektiği geçmediği halde şıkka bu kısıt eklenmiştir."
    },
    {
     "option_id": "B",
@@ -2579,7 +2579,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might occasionally require",
-    "why": "Kip Kaymasi: Hedefteki net pratik gereksinimi zorunluğu, bu şıkta bazen gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki net pratik gereksinimi zorunluğu, bu şıkta bazen gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
    },
    {
     "option_id": "E",
@@ -2587,7 +2587,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Müzik aleti öğrenmenin çocuklardaki bilişsel faydalarını ve uzun yıllar pratik gerektirme koşulunu tam karşılar."
+    "why": "Kusursuz Eş Değer: Müzik aleti öğrenmenin çocuklardaki bilişsel faydalarını ve uzun yıllar pratik gerektirme koşulunu tam karşılar."
    }
   ]
  },
@@ -2611,7 +2611,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "from American restaurants",
-    "why": "Kacak Yolcu: Hedefte yiyeceklerin Amerikan restoranlarından alınması gerektiğiyle ilgili hiçbir ifade olmamasına rağmen bu detay eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte yiyeceklerin Amerikan restoranlarından alınması gerektiğiyle ilgili hiçbir ifade olmamasına rağmen bu detay eklenmiştir."
    },
    {
     "option_id": "C",
@@ -2619,7 +2619,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely guarantee",
-    "why": "Kip Kaymasi: Hedefteki risk artırabilir ihtimali, bu şıkta kesinlikle kalp hastalığını garanti edecektir şeklinde mutlak bir yargıya çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki risk artırabilir ihtimali, bu şıkta kesinlikle kalp hastalığını garanti edecektir şeklinde mutlak bir yargıya çevrilmiştir."
    },
    {
     "option_id": "D",
@@ -2627,7 +2627,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Hızlı yiyeceklerin kolay ve ucuz olmasını, fakat sık tüketiminin kalp riskini artırabileceği uyarısını tam olarak yansıtır."
+    "why": "Kusursuz Eş Değer: Hızlı yiyeceklerin kolay ve ucuz olmasını, fakat sık tüketiminin kalp riskini artırabileceği uyarısını tam olarak yansıtır."
    },
    {
     "option_id": "E",
@@ -2651,7 +2651,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "must always generate",
-    "why": "Kip Kaymasi: Pil üretimindeki sera gazı salınımı tespiti, bu şıkta her zaman üretmek zorundadır şeklinde zorunlu bir kural diline bürünmüştür."
+    "why": "Kip Kayması: Pil üretimindeki sera gazı salınımı tespiti, bu şıkta her zaman üretmek zorundadır şeklinde zorunlu bir kural diline bürünmüştür."
    },
    {
     "option_id": "B",
@@ -2667,7 +2667,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "in cheap Asian factories",
-    "why": "Kacak Yolcu: Hedefte pillerin lityum olduğu veya ucuz Asya fabrikalarında üretildiğine dair hiçbir bilgi geçmemektedir."
+    "why": "Kaçak Yolcu: Hedefte pillerin lityum olduğu veya ucuz Asya fabrikalarında üretildiğine dair hiçbir bilgi geçmemektedir."
    },
    {
     "option_id": "D",
@@ -2675,7 +2675,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Elektrikli araçların sürüşte çevre dostu olmasını fakat pil üretiminin sera gazı salınımı yapması gerçeğini tam eşleştirir."
+    "why": "Kusursuz Eş Değer: Elektrikli araçların sürüşte çevre dostu olmasını fakat pil üretiminin sera gazı salınımı yapması gerçeğini tam eşleştirir."
    },
    {
     "option_id": "E",
@@ -2699,7 +2699,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "by highly paid professional botanists",
-    "why": "Kacak Yolcu: Hedefte bakımın yüksek ücretli profesyonel botanikçiler tarafından yapılacağı bilgisi olmadığı halde bu detay eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte bakımın yüksek ücretli profesyonel botanikçiler tarafından yapılacağı bilgisi olmadığı halde bu detay eklenmiştir."
    },
    {
     "option_id": "B",
@@ -2715,7 +2715,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Şehir bahçelerinin hava kalitesine faydasını ve yaşamlarını sürdürmek için bakım ile su ihtiyacı olmasını tam karşılar."
+    "why": "Kusursuz Eş Değer: Şehir bahçelerinin hava kalitesine faydasını ve yaşamlarını sürdürmek için bakım ile su ihtiyacı olmasını tam karşılar."
    },
    {
     "option_id": "D",
@@ -2731,7 +2731,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might occasionally require",
-    "why": "Kip Kaymasi: Hedefteki kesin ve sürekli bakım ihtiyacı, bu şıkta ara sıra gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki kesin ve sürekli bakım ihtiyacı, bu şıkta ara sıra gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
    }
   ]
  },
@@ -2747,7 +2747,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Evcil hayvanın stres azaltıcı etkisini ve getirdiği maddi ile zaman yükümlülüklerini tam olarak karşılar."
+    "why": "Kusursuz Eş Değer: Evcil hayvanın stres azaltıcı etkisini ve getirdiği maddi ile zaman yükümlülüklerini tam olarak karşılar."
    },
    {
     "option_id": "B",
@@ -2763,7 +2763,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially if you buy expensive purebred dogs",
-    "why": "Kacak Yolcu: Hedefte pahalı safkan köpek satın alımıyla ilgili hiçbir bilgi geçmediği halde bu durum şıkka eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte pahalı safkan köpek satın alımıyla ilgili hiçbir bilgi geçmediği halde bu durum şıkka eklenmiştir."
    },
    {
     "option_id": "D",
@@ -2771,7 +2771,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely place extreme",
-    "why": "Kip Kaymasi: Hedefteki genel sorumluluk yükleme tespiti, kesinlikle aşırı sorumluluklar yükleyecektir şeklinde mutlaklığa çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki genel sorumluluk yükleme tespiti, kesinlikle aşırı sorumluluklar yükleyecektir şeklinde mutlaklığa çevrilmiştir."
    },
    {
     "option_id": "E",
@@ -2803,7 +2803,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "on expensive Apple computers",
-    "why": "Kacak Yolcu: Hedefte derslerin belirli bir marka pahalı bilgisayarda tamamlanması kısıtı olmadığı halde şıkka bu marka eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte derslerin belirli bir marka pahalı bilgisayarda tamamlanması kısıtı olmadığı halde şıkka bu marka eklenmiştir."
    },
    {
     "option_id": "C",
@@ -2811,7 +2811,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might sometimes require",
-    "why": "Kip Kaymasi: Hedefteki kesin motivasyon gereksinimi, bu şıkta bazen gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki kesin motivasyon gereksinimi, bu şıkta bazen gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
    },
    {
     "option_id": "D",
@@ -2827,7 +2827,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: İnternet üzerinden ders almanın çalışanlara esnekliğini ve başarı için içsel disiplin gerekliliğini tam karşılar."
+    "why": "Kusursuz Eş Değer: İnternet üzerinden ders almanın çalışanlara esnekliğini ve başarı için içsel disiplin gerekliliğini tam karşılar."
    }
   ]
  },
@@ -2851,7 +2851,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might slightly destroy",
-    "why": "Kip Kaymasi: Hedefteki yok eder kesin yargısı, bu şıkta hafifçe zarar verebilir şeklinde çok zayıf bir ihtimal diline çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki yok eder kesin yargısı, bu şıkta hafifçe zarar verebilir şeklinde çok zayıf bir ihtimal diline çevrilmiştir."
    },
    {
     "option_id": "C",
@@ -2867,7 +2867,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially in underdeveloped tropical countries",
-    "why": "Kacak Yolcu: Hedefte az gelişmiş tropikal ülkelerle ilgili hiçbir ifade olmamasına rağmen bu bölgesel kısıtlama eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte az gelişmiş tropikal ülkelerle ilgili hiçbir ifade olmamasına rağmen bu bölgesel kısıtlama eklenmiştir."
    },
    {
     "option_id": "E",
@@ -2875,7 +2875,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Orman kesiminin ekonomik katkılarını ve aşırı kesimin doğal hayata zarar verip iklimi hızlandırmasını tam verir."
+    "why": "Kusursuz Eş Değer: Orman kesiminin ekonomik katkılarını ve aşırı kesimin doğal hayata zarar verip iklimi hızlandırmasını tam verir."
    }
   ]
  },
@@ -2891,7 +2891,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Gemilerin gürültü kirliliğini ve daha sessiz motorlarla bu durumun hafifletilebileceği ihtimalini eş anlamlılarla verir."
+    "why": "Kusursuz Eş Değer: Gemilerin gürültü kirliliğini ve daha sessiz motorlarla bu durumun hafifletilebileceği ihtimalini eş anlamlılarla verir."
    },
    {
     "option_id": "B",
@@ -2899,7 +2899,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "made of expensive military-grade steel",
-    "why": "Kacak Yolcu: Hedefte motorların askeri sınıf çelikten yapılacağına dair hiçbir bilgi geçmediği halde bu özellik eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte motorların askeri sınıf çelikten yapılacağına dair hiçbir bilgi geçmediği halde bu özellik eklenmiştir."
    },
    {
     "option_id": "C",
@@ -2907,7 +2907,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely be completely solved",
-    "why": "Kip Kaymasi: Hedefteki hafifletilebilir olasılığı, bu şıkta kesinlikle tamamen çözülecektir şeklinde mutlak bir çözüme dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki hafifletilebilir olasılığı, bu şıkta kesinlikle tamamen çözülecektir şeklinde mutlak bir çözüme dönüştürülmüştür."
    },
    {
     "option_id": "D",
@@ -2939,7 +2939,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Organik tarımın toprak koruma faydasını ve konvansiyonel tarıma göre daha az ürün üretme özelliğini tam karşılar."
+    "why": "Kusursuz Eş Değer: Organik tarımın toprak koruma faydasını ve konvansiyonel tarıma göre daha az ürün üretme özelliğini tam karşılar."
    },
    {
     "option_id": "B",
@@ -2963,7 +2963,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially of organic strawberries",
-    "why": "Kacak Yolcu: Hedefte çilek üretimiyle ilgili hiçbir detay veya kısıt bulunmadığı halde şıkka bu özel ürün eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte çilek üretimiyle ilgili hiçbir detay veya kısıt bulunmadığı halde şıkka bu özel ürün eklenmiştir."
    },
    {
     "option_id": "E",
@@ -2971,7 +2971,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely produce much lower",
-    "why": "Kip Kaymasi: Genellikle daha düşük verim sağlama tespiti, kesinlikle çok daha düşük verim üretecektir şeklinde mutlaklığa çevrilmiştir."
+    "why": "Kip Kayması: Genellikle daha düşük verim sağlama tespiti, kesinlikle çok daha düşük verim üretecektir şeklinde mutlaklığa çevrilmiştir."
    }
   ]
  },
@@ -2987,7 +2987,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Güneşin D vitamini için gerekliliği ile güneşte fazla kalmanın cilt hasarı yapabilme olasılığını tam eşleştirir."
+    "why": "Kusursuz Eş Değer: Güneşin D vitamini için gerekliliği ile güneşte fazla kalmanın cilt hasarı yapabilme olasılığını tam eşleştirir."
    },
    {
     "option_id": "B",
@@ -3003,7 +3003,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely cause severe",
-    "why": "Kip Kaymasi: Hedefteki hasar verebilir olasılığı, kesinlikle ciddi hasara yol açacaktır şeklinde mutlak bir felaket yargısına çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki hasar verebilir olasılığı, kesinlikle ciddi hasara yol açacaktır şeklinde mutlak bir felaket yargısına çevrilmiştir."
    },
    {
     "option_id": "D",
@@ -3019,7 +3019,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially on your nose",
-    "why": "Kacak Yolcu: Hedefte burun bölgesiyle ilgili hiçbir kısıtlama veya detay geçmediği halde şıkka bu özel detay eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte burun bölgesiyle ilgili hiçbir kısıtlama veya detay geçmediği halde şıkka bu özel detay eklenmiştir."
    }
   ]
  },
@@ -3051,7 +3051,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Rüzgar türbinlerinin temiz enerji faydasını ve göçmen kuşlar için oluşturabileceği risk ihtimalini tam yansıtır."
+    "why": "Kusursuz Eş Değer: Rüzgar türbinlerinin temiz enerji faydasını ve göçmen kuşlar için oluşturabileceği risk ihtimalini tam yansıtır."
    },
    {
     "option_id": "D",
@@ -3059,7 +3059,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially rare eagles",
-    "why": "Kacak Yolcu: Hedefte nadir kartal türleriyle ilgili hiçbir detay olmadığı halde şıkka bu özel vahşi canlı grubu eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte nadir kartal türleriyle ilgili hiçbir detay olmadığı halde şıkka bu özel vahşi canlı grubu eklenmiştir."
    },
    {
     "option_id": "E",
@@ -3067,7 +3067,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will certainly eliminate",
-    "why": "Kip Kaymasi: Hedefteki tehdit oluşturabilir ihtimali, göç eden kuş türlerini kesinlikle yok edecektir şeklinde mutlaklığa çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki tehdit oluşturabilir ihtimali, göç eden kuş türlerini kesinlikle yok edecektir şeklinde mutlaklığa çevrilmiştir."
    }
   ]
  },
@@ -3083,7 +3083,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might occasionally require",
-    "why": "Kip Kaymasi: Hedefteki net ve kesin çaba gereksinimi tespiti, bu şıkta ara sıra gerekebilir şeklinde zayıf bir ihtimale çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki net ve kesin çaba gereksinimi tespiti, bu şıkta ara sıra gerekebilir şeklinde zayıf bir ihtimale çevrilmiştir."
    },
    {
     "option_id": "B",
@@ -3099,7 +3099,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Aktif hatırlamanın öğrenme verimliliğini ve pasif okumaya göre daha fazla bilişsel çaba istemesini tam karşılar."
+    "why": "Kusursuz Eş Değer: Aktif hatırlamanın öğrenme verimliliğini ve pasif okumaya göre daha fazla bilişsel çaba istemesini tam karşılar."
    },
    {
     "option_id": "D",
@@ -3115,7 +3115,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "of expensive textbooks",
-    "why": "Kacak Yolcu: Hedefte okunan kitapların pahalı ders kitapları olduğu bilgisi bulunmadığı halde şıkka eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte okunan kitapların pahalı ders kitapları olduğu bilgisi bulunmadığı halde şıkka eklenmiştir."
    }
   ]
  },
@@ -3131,7 +3131,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "from foreign countries",
-    "why": "Kacak Yolcu: Hedefte siber saldırıların yabancı ülkelerden geleceğine dair hiçbir kısıt veya bilgi geçmemektedir."
+    "why": "Kaçak Yolcu: Hedefte siber saldırıların yabancı ülkelerden geleceğine dair hiçbir kısıt veya bilgi geçmemektedir."
    },
    {
     "option_id": "B",
@@ -3139,7 +3139,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Akıllı ev cihazlarının rahatlığını ve siber güvenlik açığı yaratabilme ihtimalini tam eş anlamlılarla verir."
+    "why": "Kusursuz Eş Değer: Akıllı ev cihazlarının rahatlığını ve siber güvenlik açığı yaratabilme ihtimalini tam eş anlamlılarla verir."
    },
    {
     "option_id": "C",
@@ -3163,7 +3163,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely make all",
-    "why": "Kip Kaymasi: Hedefteki hale getirebilir ihtimal dili, bu şıkta kesinlikle yapacaktır şeklinde mutlak bir yargıya dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki hale getirebilir ihtimal dili, bu şıkta kesinlikle yapacaktır şeklinde mutlak bir yargıya dönüştürülmüştür."
    }
   ]
  },
@@ -3179,7 +3179,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Balıkçılığın besin sağlama katkısını ve aşırı avlanmanın deniz ekosistemlerine yönelik tehdidini doğru eş anlamlılarla verir."
+    "why": "Kusursuz Eş Değer: Balıkçılığın besin sağlama katkısını ve aşırı avlanmanın deniz ekosistemlerine yönelik tehdidini doğru eş anlamlılarla verir."
    },
    {
     "option_id": "B",
@@ -3187,7 +3187,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might slightly threaten",
-    "why": "Kip Kaymasi: Hedefteki net tehdit etme durumu, bu şıkta hafifçe tehdit edebilir şeklinde zayıf bir ihtimal diline çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki net tehdit etme durumu, bu şıkta hafifçe tehdit edebilir şeklinde zayıf bir ihtimal diline çevrilmiştir."
    },
    {
     "option_id": "C",
@@ -3203,7 +3203,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "in international waters",
-    "why": "Kacak Yolcu: Hedefte avlanmanın uluslararası sularda yapıldığına dair hiçbir kısıtlama olmamasına rağmen bu detay eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte avlanmanın uluslararası sularda yapıldığına dair hiçbir kısıtlama olmamasına rağmen bu detay eklenmiştir."
    },
    {
     "option_id": "E",
@@ -3227,7 +3227,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially for finance managers",
-    "why": "Kacak Yolcu: Hedefte finans yöneticileriyle ilgili hiçbir kısıtlama veya detay geçmediği halde şıkka bu özel unvan eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte finans yöneticileriyle ilgili hiçbir kısıtlama veya detay geçmediği halde şıkka bu özel unvan eklenmiştir."
    },
    {
     "option_id": "B",
@@ -3251,7 +3251,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might slightly reduce",
-    "why": "Kip Kaymasi: Hedefteki önemli ölçüde azaltır kesin tespiti, bu şıkta hafifçe azaltabilir şeklinde zayıf bir olasılığa dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki önemli ölçüde azaltır kesin tespiti, bu şıkta hafifçe azaltabilir şeklinde zayıf bir olasılığa dönüştürülmüştür."
    },
    {
     "option_id": "E",
@@ -3259,7 +3259,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Geç çalışmanın acil işlere faydasını ve uykusuzluğun ertesi günkü karar verme yetilerine olumsuz etkisini tam yansıtır."
+    "why": "Kusursuz Eş Değer: Geç çalışmanın acil işlere faydasını ve uykusuzluğun ertesi günkü karar verme yetilerine olumsuz etkisini tam yansıtır."
    }
   ]
  },
@@ -3275,7 +3275,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Filtrelerin büyük maddeleri temizleyebilmesini ve küçük mikroplastikleri tutmaktaki yetersizliğini tam eş anlamlılarla verir."
+    "why": "Kusursuz Eş Değer: Filtrelerin büyük maddeleri temizleyebilmesini ve küçük mikroplastikleri tutmaktaki yetersizliğini tam eş anlamlılarla verir."
    },
    {
     "option_id": "B",
@@ -3291,7 +3291,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "from plastic bottles",
-    "why": "Kacak Yolcu: Hedefte plastik şişelerden kaynaklanan mikroplastiklerle ilgili hiçbir kısıtlayıcı detay geçmediği halde bu unsur eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte plastik şişelerden kaynaklanan mikroplastiklerle ilgili hiçbir kısıtlayıcı detay geçmediği halde bu unsur eklenmiştir."
    },
    {
     "option_id": "D",
@@ -3307,7 +3307,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "completely unable to filter out any microplastics at all",
-    "why": "Kip Kaymasi: Genellikle filtreleyemez ifadesi, bu şıkta hiçbir mikroplastiği kesinlikle filtreleyemez şeklinde mutlak bir yetersizliğe çevrilmiştir."
+    "why": "Kip Kayması: Genellikle filtreleyemez ifadesi, bu şıkta hiçbir mikroplastiği kesinlikle filtreleyemez şeklinde mutlak bir yetersizliğe çevrilmiştir."
    }
   ]
  },
@@ -3323,7 +3323,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might occasionally provide some",
-    "why": "Kip Kaymasi: Hedefteki kesin ve değerli egzersiz sağlama tespiti, bu şıkta bazen hafifçe sağlayabilir şeklinde zayıf bir ihtimale çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki kesin ve değerli egzersiz sağlama tespiti, bu şıkta bazen hafifçe sağlayabilir şeklinde zayıf bir ihtimale çevrilmiştir."
    },
    {
     "option_id": "B",
@@ -3339,7 +3339,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially for elderly citizens",
-    "why": "Kacak Yolcu: Hedefte yaşlı vatandaşlarla ilgili hiçbir kısıtlama veya özel vurgu olmamasına rağmen şıkka bu durum eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte yaşlı vatandaşlarla ilgili hiçbir kısıtlama veya özel vurgu olmamasına rağmen şıkka bu durum eklenmiştir."
    },
    {
     "option_id": "D",
@@ -3347,7 +3347,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Elektrikli bisikletin daha az çaba gerektirmesini ve buna rağmen kalp sağlığı için sunduğu egzersiz faydasını tam karşılar."
+    "why": "Kusursuz Eş Değer: Elektrikli bisikletin daha az çaba gerektirmesini ve buna rağmen kalp sağlığı için sunduğu egzersiz faydasını tam karşılar."
    },
    {
     "option_id": "E",
@@ -3379,7 +3379,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially in dry summer months",
-    "why": "Kacak Yolcu: Hedefte yangınların özellikle kurak yaz aylarında gerçekleştiğine dair hiçbir kısıtlayıcı detay geçmemektedir."
+    "why": "Kaçak Yolcu: Hedefte yangınların özellikle kurak yaz aylarında gerçekleştiğine dair hiçbir kısıtlayıcı detay geçmemektedir."
    },
    {
     "option_id": "C",
@@ -3395,7 +3395,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely wipe out all",
-    "why": "Kip Kaymasi: Hedefteki zarar verme ve yok etme tespiti, bu şıkta kesinlikle tüm yuvaları tamamen haritadan silecektir şeklinde aşırı bir felaket kesinliğine dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki zarar verme ve yok etme tespiti, bu şıkta kesinlikle tüm yuvaları tamamen haritadan silecektir şeklinde aşırı bir felaket kesinliğine dönüştürülmüştür."
    },
    {
     "option_id": "E",
@@ -3403,7 +3403,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Kontrollü yangınların temizlik faydasını ve kontrolsüz yangınların canlılara ve insanlara yönelik tehdidini tam yansıtır."
+    "why": "Kusursuz Eş Değer: Kontrollü yangınların temizlik faydasını ve kontrolsüz yangınların canlılara ve insanlara yönelik tehdidini tam yansıtır."
    }
   ]
  },
@@ -3419,7 +3419,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially in developing European nations",
-    "why": "Kacak Yolcu: Hedefte gelişmekte olan Avrupa ülkeleriyle ilgili hiçbir bölgesel vurgu olmadığı halde bu detay eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte gelişmekte olan Avrupa ülkeleriyle ilgili hiçbir bölgesel vurgu olmadığı halde bu detay eklenmiştir."
    },
    {
     "option_id": "B",
@@ -3427,7 +3427,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Devlet desteklerinin şirket büyümesine faydasını ve kamuya bağımlı yapay pazar oluşturabilme riskini tam karşılar."
+    "why": "Kusursuz Eş Değer: Devlet desteklerinin şirket büyümesine faydasını ve kamuya bağımlı yapay pazar oluşturabilme riskini tam karşılar."
    },
    {
     "option_id": "C",
@@ -3443,7 +3443,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will certainly create",
-    "why": "Kip Kaymasi: Hedefteki yaratabilir ihtimal dili, bu şıkta kesinlikle yaratacaktır şeklinde kesin bir yargıya dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki yaratabilir ihtimal dili, bu şıkta kesinlikle yaratacaktır şeklinde kesin bir yargıya dönüştürülmüştür."
    },
    {
     "option_id": "E",
@@ -3467,7 +3467,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially for older patients",
-    "why": "Kacak Yolcu: Hedefte yaşlı hastalarla ilgili hiçbir özel kısıtlayıcı detay geçmediği halde bu unsur eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte yaşlı hastalarla ilgili hiçbir özel kısıtlayıcı detay geçmediği halde bu unsur eklenmiştir."
    },
    {
     "option_id": "B",
@@ -3483,7 +3483,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely replace",
-    "why": "Kip Kaymasi: Hedefte tedavinin yerini alamayacağı belirtilmişken, bu şıkta kesinlikle tıbbi tedavinin yerini alacağı iddia edilerek ters kip kayması yapılmıştır."
+    "why": "Kip Kayması: Hedefte tedavinin yerini alamayacağı belirtilmişken, bu şıkta kesinlikle tıbbi tedavinin yerini alacağı iddia edilerek ters kip kayması yapılmıştır."
    },
    {
     "option_id": "D",
@@ -3491,7 +3491,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Meditasyonun nabız düşürme yardımını fakat tıbbi tedavinin yerine tamamen geçemeyeceği gerçeğini tam eşleştirir."
+    "why": "Kusursuz Eş Değer: Meditasyonun nabız düşürme yardımını fakat tıbbi tedavinin yerine tamamen geçemeyeceği gerçeğini tam eşleştirir."
    },
    {
     "option_id": "E",
@@ -3515,7 +3515,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "that lack proper funding",
-    "why": "Kacak Yolcu: Hedefte şehirlerin finansman eksikliğiyle ilgili hiçbir detay olmamasına rağmen bu unsur şıkka eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte şehirlerin finansman eksikliğiyle ilgili hiçbir detay olmamasına rağmen bu unsur şıkka eklenmiştir."
    },
    {
     "option_id": "B",
@@ -3523,7 +3523,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "must make them",
-    "why": "Kip Kaymasi: Durum tespiti olan erişimi zorlaştırma eylemi, bu şıkta mutlaka zorlaştırmalıdır şeklinde bir zorunluluk diline dönüştürülmüştür."
+    "why": "Kip Kayması: Durum tespiti olan erişimi zorlaştırma eylemi, bu şıkta mutlaka zorlaştırmalıdır şeklinde bir zorunluluk diline dönüştürülmüştür."
    },
    {
     "option_id": "C",
@@ -3539,7 +3539,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Parkların ruh sağlığına faydasını ve şehirlerdeki alan darlığının erişimi zorlaştırma etkisini tam karşılar."
+    "why": "Kusursuz Eş Değer: Parkların ruh sağlığına faydasını ve şehirlerdeki alan darlığının erişimi zorlaştırma etkisini tam karşılar."
    },
    {
     "option_id": "E",
@@ -3563,7 +3563,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially in tropical rainforests",
-    "why": "Kacak Yolcu: Hedefte tropikal yağmur ormanlarıyla ilgili hiçbir özel vurgu veya kısıt bulunmamaktadır."
+    "why": "Kaçak Yolcu: Hedefte tropikal yağmur ormanlarıyla ilgili hiçbir özel vurgu veya kısıt bulunmamaktadır."
    },
    {
     "option_id": "B",
@@ -3571,7 +3571,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Genetiği değiştirilmiş ürünlerin gıda üretimine katkı potansiyelini ve ekosisteme uzun vadeli etki riskini tam yansıtır."
+    "why": "Kusursuz Eş Değer: Genetiği değiştirilmiş ürünlerin gıda üretimine katkı potansiyelini ve ekosisteme uzun vadeli etki riskini tam yansıtır."
    },
    {
     "option_id": "C",
@@ -3595,7 +3595,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely cause dangerous",
-    "why": "Kip Kaymasi: Hedefteki neden olabilir ihtimal dili, bu şıkta kesinlikle tehlikeli etkilere yol açacaktır şeklinde mutlak bir yargıya çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki neden olabilir ihtimal dili, bu şıkta kesinlikle tehlikeli etkilere yol açacaktır şeklinde mutlak bir yargıya çevrilmiştir."
    }
   ]
  },
@@ -3611,7 +3611,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely replicate",
-    "why": "Kip Kaymasi: Hedefte taklit edemeyeceği kesin olarak belirtilmişken, bu şık kesinlikle taklit edecektir şeklinde tam tersi bir kesinlik iddiası sunar."
+    "why": "Kip Kayması: Hedefte taklit edemeyeceği kesin olarak belirtilmişken, bu şık kesinlikle taklit edecektir şeklinde tam tersi bir kesinlik iddiası sunar."
    },
    {
     "option_id": "B",
@@ -3619,7 +3619,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "in public hospitals",
-    "why": "Kacak Yolcu: Hedefte ameliyatların devlet hastanelerinde yapılması gerektiğiyle ilgili hiçbir ifade bulunmamaktadır."
+    "why": "Kaçak Yolcu: Hedefte ameliyatların devlet hastanelerinde yapılması gerektiğiyle ilgili hiçbir ifade bulunmamaktadır."
    },
    {
     "option_id": "C",
@@ -3627,7 +3627,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Sanal gerçekliğin tıbbi eğitimi destekleme gücünü ancak gerçek ameliyatlardaki dokunma hissini tam veremeyeceği zıtlığını karşılar."
+    "why": "Kusursuz Eş Değer: Sanal gerçekliğin tıbbi eğitimi destekleme gücünü ancak gerçek ameliyatlardaki dokunma hissini tam veremeyeceği zıtlığını karşılar."
    },
    {
     "option_id": "D",
@@ -3667,7 +3667,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Ödevin dersleri pekiştirme faydasını ve aşırı yüklendiğinde yaratabileceği stres ile uyku sorunları ihtimalini tam karşılar."
+    "why": "Kusursuz Eş Değer: Ödevin dersleri pekiştirme faydasını ve aşırı yüklendiğinde yaratabileceği stres ile uyku sorunları ihtimalini tam karşılar."
    },
    {
     "option_id": "C",
@@ -3683,7 +3683,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially in high school mathematics",
-    "why": "Kacak Yolcu: Hedefte lise matematiğiyle ilgili hiçbir özel ders veya düzey vurgusu olmamasına rağmen şıkka bu durum eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte lise matematiğiyle ilgili hiçbir özel ders veya düzey vurgusu olmamasına rağmen şıkka bu durum eklenmiştir."
    },
    {
     "option_id": "E",
@@ -3691,7 +3691,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will certainly guarantee clinical depression",
-    "why": "Kip Kaymasi: Hedefteki stres ve uyku sorunu yaratabilir ihtimal dili, bu şıkta kesinlikle klinik depresyonu garanti edecektir şeklinde aşırı bir kesinliğe çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki stres ve uyku sorunu yaratabilir ihtimal dili, bu şıkta kesinlikle klinik depresyonu garanti edecektir şeklinde aşırı bir kesinliğe çevrilmiştir."
    }
   ]
  },
@@ -3707,7 +3707,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "will definitely wipe out all",
-    "why": "Kip Kaymasi: Hedefteki verimi düşürebilir olasılığı, kesinlikle tüm ürün verimini yok edecektir şeklinde mutlak bir felakete çevrilmiştir."
+    "why": "Kip Kayması: Hedefteki verimi düşürebilir olasılığı, kesinlikle tüm ürün verimini yok edecektir şeklinde mutlak bir felakete çevrilmiştir."
    },
    {
     "option_id": "B",
@@ -3731,7 +3731,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Damlama sulamanın su tasarrufu faydasını ve kuraklığın kurak bölgelerdeki çiftçilerin verimini düşürebilme riskini tam karşılar."
+    "why": "Kusursuz Eş Değer: Damlama sulamanın su tasarrufu faydasını ve kuraklığın kurak bölgelerdeki çiftçilerin verimini düşürebilme riskini tam karşılar."
    },
    {
     "option_id": "E",
@@ -3739,7 +3739,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially of organic corn crops",
-    "why": "Kacak Yolcu: Hedefte organik mısır ürünleriyle ilgili hiçbir kısıtlama veya detay geçmediği halde şıkka bu özel ürün eklenmiştir."
+    "why": "Kaçak Yolcu: Hedefte organik mısır ürünleriyle ilgili hiçbir kısıtlama veya detay geçmediği halde şıkka bu özel ürün eklenmiştir."
    }
   ]
  },
@@ -3755,7 +3755,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Temiz ocakların hava kalitesi faydasını ve sürekli çalışabilmeleri için bakım ve yakıt gereksinimlerini tam karşılar."
+    "why": "Kusursuz Eş Değer: Temiz ocakların hava kalitesi faydasını ve sürekli çalışabilmeleri için bakım ve yakıt gereksinimlerini tam karşılar."
    },
    {
     "option_id": "B",
@@ -3763,7 +3763,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "imported from other countries",
-    "why": "Kacak Yolcu: Hedefte yakıtların başka ülkelerden ithal edilmesi gerektiğiyle ilgili hiçbir kısıtlama bulunmamaktadır."
+    "why": "Kaçak Yolcu: Hedefte yakıtların başka ülkelerden ithal edilmesi gerektiğiyle ilgili hiçbir kısıtlama bulunmamaktadır."
    },
    {
     "option_id": "C",
@@ -3787,7 +3787,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might occasionally require",
-    "why": "Kip Kaymasi: Hedefteki kesin bakım gereksinimi zorunluluğu, bu şıkta bazen gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
+    "why": "Kip Kayması: Hedefteki kesin bakım gereksinimi zorunluluğu, bu şıkta bazen gerekebilir şeklinde zayıf bir ihtimale dönüştürülmüştür."
    }
   ]
  },
@@ -3819,7 +3819,7 @@
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "must always require",
-    "why": "Kip Kaymasi: Kurulum maliyeti tespiti, bu şıkta her zaman gerektirmek zorundadır şeklinde zorunlu bir kural veya politika diline çevrilmiştir."
+    "why": "Kip Kayması: Kurulum maliyeti tespiti, bu şıkta her zaman gerektirmek zorundadır şeklinde zorunlu bir kural veya politika diline çevrilmiştir."
    },
    {
     "option_id": "D",
@@ -3827,7 +3827,7 @@
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "in metropolitan areas",
-    "why": "Kacak Yolcu: Hedefte yerel yönetimlerin sadece metropol alanlarında olması gerektiğine dair hiçbir kısıtlı bilgi geçmemektedir."
+    "why": "Kaçak Yolcu: Hedefte yerel yönetimlerin sadece metropol alanlarında olması gerektiğine dair hiçbir kısıtlı bilgi geçmemektedir."
    },
    {
     "option_id": "E",
@@ -3835,7 +3835,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Es Deger: Akıllı trafik ışıklarının yakıt tasarrufu faydasını ve kurulum için yerel idarelerden fon gerektirmesi gerçeğini tam karşılar."
+    "why": "Kusursuz Eş Değer: Akıllı trafik ışıklarının yakıt tasarrufu faydasını ve kurulum için yerel idarelerden fon gerektirmesi gerçeğini tam karşılar."
    }
   ]
  },
