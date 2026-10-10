@@ -2812,7 +2812,7 @@
       "to wearing"
     ],
     "note": "Nesneden sonra to-mastar gelir: warn + nesne + to-inf yapısı kurulur.",
-    "sentence": "Safety experts warn industrial workers [to wear] protective protective gear.",
+    "sentence": "Safety experts warn industrial workers [to wear] protective gear.",
     "sentence_tr": "Güvenlik uzmanları sanayi işçilerini koruyucu ekipman giymeleri konusunda uyarıyor."
   },
   {
@@ -4797,7 +4797,7 @@
     ],
     "note": "learn bir beceri veya yöntemi edinirken daima to-mastar alır.",
     "sentence": "Students must learn [to analyze] complex statistical data sets.",
-    "sentence_tr": "Örenciler karmaşık istatistiksel veri setlerini analiz etmeyi öğrenmelidir."
+    "sentence_tr": "Öğrenciler karmaşık istatistiksel veri setlerini analiz etmeyi öğrenmelidir."
   },
   {
     "head": "expect",
