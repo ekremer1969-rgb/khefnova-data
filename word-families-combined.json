@@ -6820,7 +6820,7 @@
         "word": "consultant",
         "type": "isim",
         "meaning": "danışman",
-        "sentence": "She works as an financial [consultant] in this firm.",
+        "sentence": "She works as a financial [consultant] in this firm.",
         "sentence_tr": "Bu firmada finansal danışman olarak çalışıyor."
       }
     ]
@@ -14968,7 +14968,7 @@
         "type": "sıfat",
         "meaning": "yetenekli",
         "sentence": "The [gifted] young pianist won the prize.",
-        "sentence_tr": "Yetenkli genç piyanist ödülü kazandı."
+        "sentence_tr": "Yetenekli genç piyanist ödülü kazandı."
       }
     ]
   },
@@ -22389,7 +22389,7 @@
         "type": "fiil",
         "meaning": "gücendirmek",
         "sentence": "I did not mean to [offend] anyone with my honest comments.",
-        "sentence_tr": "Dürust yorumlarımla kimseyi gücendirmek istemedim."
+        "sentence_tr": "Dürüst yorumlarımla kimseyi gücendirmek istemedim."
       },
       {
         "word": "offence",
@@ -24887,7 +24887,7 @@
       {
         "word": "prison",
         "type": "isim",
-        "meaning": "hapshane",
+        "meaning": "hapishane",
         "sentence": "The old [prison] on the hill was converted into a museum last year.",
         "sentence_tr": "Tepedeki eski hapishane geçen yıl müzeye dönüştürüldü."
       },
@@ -27269,7 +27269,7 @@
         "type": "fiil",
         "meaning": "gerektirmek",
         "sentence": "Most international university programs [require] students to pass an English proficiency exam.",
-        "sentence_tr": "Çogu uluslararası üniversite programı, öğrencilerin bir İngilizce yeterlilik sınavını geçmesini gerektirir."
+        "sentence_tr": "Çoğu uluslararası üniversite programı, öğrencilerin bir İngilizce yeterlilik sınavını geçmesini gerektirir."
       },
       {
         "word": "requirement",
@@ -28193,14 +28193,14 @@
         "type": "fiil",
         "meaning": "mahvetmek",
         "sentence": "Bad weather can [ruin] our outdoor plans.",
-        "sentence_tr": "Kötü hava bugün açık hava planlarimizi mahvedebilir."
+        "sentence_tr": "Kötü hava bugün açık hava planlarımızı mahvedebilir."
       },
       {
         "word": "ruined",
         "type": "sıfat",
-        "meaning": "yikilmiş",
+        "meaning": "yıkılmış",
         "sentence": "The tourists visited the old [ruined] castle.",
-        "sentence_tr": "Turistler eski yikilmiş kaleyi ziyaret ettiler."
+        "sentence_tr": "Turistler eski yıkılmış kaleyi ziyaret ettiler."
       }
     ]
   },
@@ -28231,14 +28231,14 @@
         "type": "fiil",
         "meaning": "koşmak",
         "sentence": "The active children like to [run] fast.",
-        "sentence_tr": "Aktif çocuklar hizli koşmayi severler."
+        "sentence_tr": "Aktif çocuklar hızlı koşmayı severler."
       },
       {
         "word": "runner",
         "type": "isim",
         "meaning": "koşucu",
         "sentence": "The fast [runner] won the gold medal.",
-        "sentence_tr": "Hizli koşucu altin madalyayi kazandi."
+        "sentence_tr": "Hızlı koşucu altın madalyayı kazandı."
       }
     ]
   },
@@ -28342,7 +28342,7 @@
         "type": "sıfat",
         "meaning": "tuzlu",
         "sentence": "The thirsty man ate some [salty] nuts.",
-        "sentence_tr": "Susamis adam biraz tuzlu kuruyemis yedi."
+        "sentence_tr": "Susamış adam biraz tuzlu kuruyemiş yedi."
       }
     ]
   },
@@ -28354,7 +28354,7 @@
         "type": "isim",
         "meaning": "kum",
         "sentence": "The young children played in the [sand].",
-        "sentence_tr": "Küçük çocuklar kumda oynadilar."
+        "sentence_tr": "Küçük çocuklar kumda oynadılar."
       },
       {
         "word": "sandy",
@@ -28468,16 +28468,16 @@
       {
         "word": "scatter",
         "type": "fiil",
-        "meaning": "dağitmak",
+        "meaning": "dağıtmak",
         "sentence": "The strong wind will [scatter] the leaves.",
-        "sentence_tr": "Güçlü rüzgar yapraklari dağitacak."
+        "sentence_tr": "Güçlü rüzgar yaprakları dağıtacak."
       },
       {
         "word": "scattered",
         "type": "sıfat",
-        "meaning": "dağinik",
+        "meaning": "dağınık",
         "sentence": "The [scattered] papers made the room messy.",
-        "sentence_tr": "Dağinik kağitlar odayi darmadağinik yapti."
+        "sentence_tr": "Dağınık kağıtlar odayı darmadağınık yaptı."
       }
     ]
   },
@@ -28574,14 +28574,14 @@
         "type": "fiil",
         "meaning": "incelemek",
         "sentence": "The strict manager will [scrutinise] our reports.",
-        "sentence_tr": "Titiz müdür raporlarimizi inceleyecek."
+        "sentence_tr": "Titiz müdür raporlarımızı inceleyecek."
       },
       {
         "word": "scrutiny",
         "type": "isim",
         "meaning": "inceleme",
         "sentence": "The financial reports face very close [scrutiny].",
-        "sentence_tr": "Finansal raporlar çok yakindan incelemeyle karsi karsiya."
+        "sentence_tr": "Finansal raporlar çok yakından incelemeyle karşı karşıya."
       }
     ]
   },
@@ -28607,7 +28607,7 @@
         "type": "isim",
         "meaning": "heykeltıraş",
         "sentence": "The talented [sculptor] carefully shaped the clay before baking it in the oven.",
-        "sentence_tr": "Yetenkli heykeltıraş, fırında pişirmeden önce kile dikkatlice şekil verdi."
+        "sentence_tr": "Yetenekli heykeltıraş, fırında pişirmeden önce kile dikkatlice şekil verdi."
       }
     ]
   },
@@ -28619,7 +28619,7 @@
         "type": "isim",
         "meaning": "mevsim",
         "sentence": "Summer is my favourite [season] of all.",
-        "sentence_tr": "Yaz, hepsinin arasindan en sevdiğim mevsimdir."
+        "sentence_tr": "Yaz, hepsinin arasından en sevdiğim mevsimdir."
       },
       {
         "word": "seasonal",
