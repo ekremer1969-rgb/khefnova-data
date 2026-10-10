@@ -827,8 +827,8 @@
       "why": "Past perfect üçüncü tip koşula uyar; sonuç 'will be able to'."
      },
      {
-      "t": "are putting",
-      "why": "Şu an süren eylem; birinci tip koşulda 'If' kısmı yalın geniş zaman olur."
+      "t": "were putting",
+      "why": "Geçmişte süren eylem; birinci tip koşulda 'If' kısmı yalın geniş zaman olur."
      }
     ],
     "cue": [
@@ -1374,8 +1374,8 @@
       "why": "'Doctors explain' genel gerçeği anlatıyor; geçmiş zaman olmaz."
      },
      {
-      "t": "will feel",
-      "why": "Gelecek zaman; cümle genel bir gerçek söylüyor."
+      "t": "are feeling",
+      "why": "Şu an süren eylem; cümle zamansız genel bir gerçek söylüyor."
      },
      {
       "t": "have felt",
@@ -5758,8 +5758,8 @@
     "ok": "must have been",
     "d": [
      {
-      "t": "must be",
-      "why": "Şimdiki zaman çıkarımı; stres okul dönemi boyunca, tatilden ÖNCE yaşandı."
+      "t": "would have been",
+      "why": "Varsayım anlamı katar; burada kanıta dayalı geçmişe yönelik çıkarım var."
      },
      {
       "t": "can't have been",
@@ -6027,8 +6027,8 @@
       "why": "'Today' şimdiyi gösterir; geçmiş zaman olmaz."
      },
      {
-      "t": "has issued",
-      "why": "'Today' şimdiki genel durumu söylüyor; present perfect süre vurgular."
+      "t": "was issuing",
+      "why": "'Today' şimdiyi gösterir; geçmişte süren eylem olmaz."
      },
      {
       "t": "had issued",
@@ -10591,8 +10591,8 @@
       "why": "'most people find' (geniş zaman) genel durumu söyler; past simple ikinci tip koşul gerektirir."
      },
      {
-      "t": "will become",
-      "why": "'If' cümleciğine bağlı sonuç genel gerçek ('most people find'); 'will' bu genellemeyi bozar."
+      "t": "has become",
+      "why": "Present perfect geçmişten bugüne uzanan sonucu anlatır; burada 'most people find' ile kurulan genel bir gerçek var."
      },
      {
       "t": "would become",
@@ -12745,8 +12745,8 @@
     "ok": "must have been",
     "d": [
      {
-      "t": "must be",
-      "why": "Şimdiki zaman çıkarımı; 'the biggest increases came' geçmişteki bir nedeni gösteriyor."
+      "t": "would have been",
+      "why": "Varsayım anlamı katar; burada kanıta dayalı geçmişe yönelik çıkarım var."
      },
      {
       "t": "can't have been",
@@ -17126,8 +17126,8 @@
       "why": "Olumlu çıkarım; farklı su bileşimi bunun tersini gösteriyor."
      },
      {
-      "t": "can't be",
-      "why": "Şimdiki zaman çıkarımı; kaynak sorusu Dünya'nın geçmişi hakkında."
+      "t": "needn't have been",
+      "why": "Gereksizlik anlamı katar; burada kanıta dayalı olumsuz çıkarım var."
      },
      {
       "t": "should have been",
@@ -17413,8 +17413,8 @@
     "ok": "must have been",
     "d": [
      {
-      "t": "must be",
-      "why": "Şimdiki zaman çıkarımı; 'after many years' geçmişteki bir süreci gösteriyor."
+      "t": "used to be",
+      "why": "Eski durum/alışkanlık anlamı verir; burada kanıta dayalı çıkarım var."
      },
      {
       "t": "can't have been",
