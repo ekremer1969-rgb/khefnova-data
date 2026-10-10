@@ -68,7 +68,7 @@
    "the structure",
    "a global landmark"
   ],
-  "why": "'this' az once anlatilan olumsuz elestiriyi isaret eder -> 'The initial criticism of the Eiffel Tower'. 'the structure' kulenin kendisidir; 'a global landmark' ise sonradan oldugu sey.",
+  "why": "'this' az önce anlatılan olumsuz eleştiriyi işaret eder -> 'The initial criticism of the Eiffel Tower'. 'the structure' kulenin kendisidir; 'a global landmark' ise sonradan olduğu sey.",
   "tr": "Eyfel Kulesi'ne yönelik ilk eleştiri çok sertti. Ancak [bu], yapının küresel bir simge haline gelmesini engellemedi."
  },
  {
@@ -380,7 +380,7 @@
    "traditional batteries",
    "The researchers"
   ],
-  "why": "'the new ones' = yeni piller -> 'advanced lithium-ion ones'. 'traditional batteries' eski pillerdir (sarji daha kisa tutan). 'The researchers' bulguyu yapan taraftir, pil degil.",
+  "why": "'the new ones' = yeni piller -> 'advanced lithium-ion ones'. 'traditional batteries' eski pillerdir (şarjı daha kısa tutan). 'The researchers' bulguyu yapan taraftır, pil değil.",
   "tr": "Ekip, geleneksel pillerin ve gelişmiş lityum-iyon pillerin performansını karşılaştırdı. Araştırmacılar, yeni [olanların] şarjlarını önemli ölçüde daha uzun süre koruduğunu buldu."
  },
  {
