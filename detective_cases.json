@@ -5855,7 +5855,7 @@
     }
    ],
    "culprit": "melt",
-   "epilogue": "Tüm eylemsel ve metalurjik şüpheler ortadan kalktığında, geriye bir katı maddenin ısı alarak sıvı fazına geçmesi süreci kaldı. Hırsızın, fiziksel hal değişimini temsil eden erimek (melt) olduğu kesinleşti!"
+   "epilogue": "Tüm eylemsel ve metalürjik şüpheler ortadan kalktığında, geriye bir katı maddenin ısı alarak sıvı fazına geçmesi süreci kaldı. Hırsızın, fiziksel hal değişimini temsil eden erimek (melt) olduğu kesinleşti!"
   },
   {
    "id": "yokdil_fen_case_43",
@@ -5903,7 +5903,7 @@
     }
    ],
    "culprit": "mitochondria",
-   "epilogue": "Tüm fiziksel, astronomik ve metalurjik şüpheler elendiğinde, geriye hücrenin oksijenli solunumla enerji üreten çift zarlı organeli kaldı. Sızıntının kaynağının mitokondri (mitochondria) olduğu kesinleşti!"
+   "epilogue": "Tüm fiziksel, astronomik ve metalürjik şüpheler elendiğinde, geriye hücrenin oksijenli solunumla enerji üreten çift zarlı organeli kaldı. Sızıntının kaynağının mitokondri (mitochondria) olduğu kesinleşti!"
   },
   {
    "id": "yokdil_fen_case_44",
@@ -8753,7 +8753,7 @@
     },
     {
      "word": "commerce",
-     "tr": "alim satım"
+     "tr": "alım satım"
     },
     {
      "word": "community",
