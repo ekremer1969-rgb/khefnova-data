@@ -2247,7 +2247,7 @@
     "d_mantik": "leaves are the primary sites where photosynthesis takes place to generate glucose",
     "d_ilgisiz": "soil erosion can be prevented by planting cover crops with extensive root networks",
     "tr": "Bitkilere yapısal destek sağlamak ve onları toprağa sabitlemenin yanı sıra, kökler çevredeki topraktan temel su ve çözünmüş mineralleri emer.",
-    "why": "Cümledeki 'Apart from' (-in yanı sıra / ek olarak) yapısı bir EKLEME ilişkisi kurar and köklerin diğer işlevlerini anlatmalıdır. Doğru şık köklerin su/mineral emme işlevini getirerek bu eklemeyi tamamlar. Yapısal çeldirici 'because' ile başladığı için yan cümleden sonra ana cümle gelmesi kuralını ihlal eder. Mantık çeldiricisi köklerin işlevine ekleme yaparken 'yapraklardan' bahsederek özne uyumsuzluğu ve mantık hatası yaratır. İlgisiz çeldirici ise toprak erozyonuyla ilgili genel bir ekolojik bilgi verir."
+    "why": "Cümledeki 'Apart from' (-in yanı sıra / ek olarak) yapısı bir EKLEME ilişkisi kurar ve köklerin diğer işlevlerini anlatmalıdır. Doğru şık köklerin su/mineral emme işlevini getirerek bu eklemeyi tamamlar. Yapısal çeldirici 'because' ile başladığı için yan cümleden sonra ana cümle gelmesi kuralını ihlal eder. Mantık çeldiricisi köklerin işlevine ekleme yaparken 'yapraklardan' bahsederek özne uyumsuzluğu ve mantık hatası yaratır. İlgisiz çeldirici ise toprak erozyonuyla ilgili genel bir ekolojik bilgi verir."
   },
   {
     "id": "ct226",
@@ -2307,7 +2307,7 @@
     "d_mantik": "reducing the total efficiency of their turbine generators during the winter months",
     "d_ilgisiz": "wind turbines can sometimes pose a threat to migratory bird species if not located carefully",
     "tr": "Yenilenebilir enerji firması, açık denizlerde mevcut olan daha güçlü ve daha istikrarlı rüzgar akımlarından yararlanmak amacıyla rüzgar çiftliğini kıyıdan uzakta inşa etti.",
-    "why": "Cümledeki 'with a view to' (-mek amacıyla) yapısı bir AMAÇ bildirir and kendisinden sonra fiilin sonuna '-ing' takısı almış halini (gerund) gerektirir. Doğru şık 'harnessing' (yararlanmak) kullanarak bu kurala uyar and offshore yapımın amacını açıklar. Yapısal çeldirici 'to V1' kullanarak dilbilgisi hatası yapar. Mantık çeldiricisi verimliliği 'düşürmeyi' amaçladıklarını söyleyerek mantık hatası yapar. İlgisiz çeldirici ise rüzgar türbinlerinin kuşlara zarar verebileceğinden bahseden ilgisiz bir ekolojik risktir."
+    "why": "Cümledeki 'with a view to' (-mek amacıyla) yapısı bir AMAÇ bildirir ve kendisinden sonra fiilin sonuna '-ing' takısı almış halini (gerund) gerektirir. Doğru şık 'harnessing' (yararlanmak) kullanarak bu kurala uyar ve offshore yapımın amacını açıklar. Yapısal çeldirici 'to V1' kullanarak dilbilgisi hatası yapar. Mantık çeldiricisi verimliliği 'düşürmeyi' amaçladıklarını söyleyerek mantık hatası yapar. İlgisiz çeldirici ise rüzgar türbinlerinin kuşlara zarar verebileceğinden bahseden ilgisiz bir ekolojik risktir."
   },
   {
     "id": "ct232",
@@ -3002,7 +3002,7 @@
   {
     "id": "ct301",
     "stem": "Were governments to invest more heavily in fusion energy research today, ____.",
-    "correct": "humanity might secure an virtually limitless supply of clean power within a generation",
+    "correct": "humanity might secure a virtually limitless supply of clean power within a generation",
     "d_yapisal": "they will have drastically reduced their reliance on traditional coal-fired power plants",
     "d_mantik": "the global carbon emissions would have doubled due to the sudden burning of fossil fuels",
     "d_ilgisiz": "fusion occurs when two light atomic nuclei combine to form a single heavier nucleus",
