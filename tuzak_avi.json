@@ -613,7 +613,7 @@
  {
   "id": "trp_048",
   "text": "The national aerospace agency has designed an experimental satellite with lightweight composite materials to measure atmospheric carbon density in real time. Engineers plan to launch the spacecraft next summer if the final ground simulation testing succeeds.",
-  "question": "Parçaya göre deyeysel uyduyla ilgili aşağıdakilerden hangisi söylenebilir?",
+  "question": "Parçaya göre deneysel uyduyla ilgili aşağıdakilerden hangisi söylenebilir?",
   "wrong": "The national aerospace agency has already launched the experimental spacecraft.",
   "traps": [
    "has already launched"
@@ -699,7 +699,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "regional droughts often prompted neighboring villages to form cooperative grain storage alliances",
   "why": "Metin kuraklıkların komşu köyleri 'sıklıkla/çoğu zaman' (often) iş birliği kurmaya teşvik ettiğini söylerken, şık bunun 'her zaman' (always) gerçekleştiğini savunarak aşırı genelleme tuzağı kurmuştur.",
-  "tr": "Antik tarım toplumlarının tarihsel analizi, bölgesel kuraklıkların komşu köyleri sıklıkla ortak tahıl depolama ittifakları kurmaya teşvik ettiğini ortaya koymaktadır. Bu geçici ittifaklar yerel gıda fiyatlarını başarıyla dengelemiş ve mevsimsel kıtlıklerin şiddetini azaltmıştır."
+  "tr": "Antik tarım toplumlarının tarihsel analizi, bölgesel kuraklıkların komşu köyleri sıklıkla ortak tahıl depolama ittifakları kurmaya teşvik ettiğini ortaya koymaktadır. Bu geçici ittifaklar yerel gıda fiyatlarını başarıyla dengelemiş ve mevsimsel kıtlıkların şiddetini azaltmıştır."
  },
  {
   "id": "trp_055",
@@ -1596,7 +1596,7 @@
   "trapType": "metinde-yok",
   "evidence": "survive extreme heatwaves by hosting heat-resistant algae",
   "why": "Metinde mercanların hayatta kalma sebebi sıcağa dayanıklı alglere ev sahipliği yapmaları olarak açıklanırken, şık bitkilerden hızlı büyümeleri (faster than plants) gibi metinde geçmeyen hayali bir kıyaslama sunmuştur.",
-  "tr": "Deniz biyologları, güney resifindeki some mercan türlerinin sıcağa dayanıklı alglere ev sahipliği yaparak aşırı sıcak hava dalgalarında hayatta kaldığını keşfettiler. Bu dirençli algler, yaz aylarında okyanus sıcaklıkları önemli ölçüde yükseldiğinde bile mercanlara temel besinleri sağlamaktadır."
+  "tr": "Deniz biyologları, güney resifindeki bazı mercan türlerinin sıcağa dayanıklı alglere ev sahipliği yaparak aşırı sıcak hava dalgalarında hayatta kaldığını keşfettiler. Bu dirençli algler, yaz aylarında okyanus sıcaklıkları önemli ölçüde yükseldiğinde bile mercanlara temel besinleri sağlamaktadır."
  },
  {
   "id": "trp_124",
