@@ -8366,7 +8366,7 @@
       "infer_type": "main_idea",
       "evidence_snippet": "Practicing daily conversations is the most effective way to gain fluency",
       "why_correct": "Metin hem beyin yararlarını hem de düzenli pratiğin önemini birleştirir; C ikisini kapsar.",
-      "why_others_wrong": "A çocuklar her derste üstün der, metin böyle demez (aşırı genelleme). B kelimeleri korumak imkansız der; metin düzenli pratiğin kaybı ONLEDIGINI söyler (yönü ters)."
+      "why_others_wrong": "A çocuklar her derste üstün der, metin böyle demez (aşırı genelleme). B kelimeleri korumak imkansız der; metin düzenli pratiğin kaybı ÖNLEDİĞİNİ söyler (yönü ters)."
     }
   },
   {
@@ -8831,7 +8831,7 @@
       "infer_type": "main_idea",
       "evidence_snippet": "Three dimensional printing technology is transforming the modern manufacturing landscape",
       "why_correct": "Metin 3B baskının üretimi dönüştürdüğünü, atık/maliyet/süreyi azalttığını vurgular; B özet.",
-      "why_others_wrong": "A sadece havacılık kullanır der, metin 'çeşitli fabrikalar' der (aşırı genelleme). C çok pahalı der; metin maliyeti DUSURDUGUNU söyler (yönü ters)."
+      "why_others_wrong": "A sadece havacılık kullanır der, metin 'çeşitli fabrikalar' der (aşırı genelleme). C çok pahalı der; metin maliyeti DÜŞÜRDÜĞÜNÜ söyler (yönü ters)."
     }
   },
   {
@@ -8924,7 +8924,7 @@
       "infer_type": "main_idea",
       "evidence_snippet": "This organic process preserves the food items and fills them with live probiotics",
       "why_correct": "Metin fermantasyonun yiyeceği koruyup probiyotikle doldurduğunu ve sağlık yararlarını anlatır; A özet.",
-      "why_others_wrong": "B tat kıyaslaması metinde yok (dış çıkarım). C şeker EKLENDIGINI söyler; metin bakterinin şekeri PARCALADIGINI söyler (yönü ters)."
+      "why_others_wrong": "B tat kıyaslaması metinde yok (dış çıkarım). C şeker EKLENDİĞİNİ söyler; metin bakterinin şekeri PARCALADIGINI söyler (yönü ters)."
     }
   },
   {
@@ -9947,7 +9947,7 @@
       "infer_type": "main_idea",
       "evidence_snippet": "the human brain's remarkable capacity to reorganize its complex neural connections",
       "why_correct": "Metin, nöroplastisitenin eski 'yetişkin beyni sabittir' görüşünü çürüttüğünü ve iyileşmeye yardım ettiğini anlatır.",
-      "why_others_wrong": "A yetişkin beyni bozulur der, metin uyum yeteneğini vurgular (yönü ters). B müzisyenler büyük beyinle doğar der; metin pratiğin beyni DEGISTIRDIGINI söyler (yönü ters)."
+      "why_others_wrong": "A yetişkin beyni bozulur der, metin uyum yeteneğini vurgular (yönü ters). B müzisyenler büyük beyinle doğar der; metin pratiğin beyni DEĞİŞTİRDİĞİNİ söyler (yönü ters)."
     }
   },
   {
@@ -10017,7 +10017,7 @@
       "infer_type": "inference",
       "evidence_snippet": "losing these reefs will permanently destroy the diverse marine habitats that support millions of fish species",
       "why_correct": "Metin, resiflerin kaybının milyonlarca balık türünü destekleyen habitatları kalıcı yok edeceğini söyler; balık türlerinin yaşam alanını yitireceği çıkarılır.",
-      "why_others_wrong": "B mercanlar daha güçlü geri buyur der, metin 'aclıktan olur' der (yönü ters). C sıcaklık normale döner der, metinde yok (dış çıkarım)."
+      "why_others_wrong": "B mercanlar daha güçlü geri buyur der, metin 'açlıktan olur' der (yönü ters). C sıcaklık normale döner der, metinde yok (dış çıkarım)."
     },
     "inference_question_2": {
       "question_text": "What is the passage mainly about?",
@@ -18460,50 +18460,50 @@
       "why_correct": "Metin \"dark matter does not interact with electromagnetic radiation such as light\" diyor; karanlık madde ışık gibi elektromanyetik radyasyonla etkileşmediği için görünmezdir."
     },
     "inference_question": {
-      "question_text": "How do astrophysicists detect the presence of invisible dark matter?",
+      "question_text": "What does the passage suggest about our current knowledge of dark matter?",
       "options": [
         {
           "key": "A",
-          "text": "By photographing it directly with infrared telescopes."
+          "text": "Scientists have already fully explained what it is made of."
         },
         {
           "key": "B",
-          "text": "By observing its gravitational effects on visible galaxies and light."
+          "text": "Scientists still have a lot to learn about what it really is."
         },
         {
           "key": "C",
-          "text": "By detecting the faint light that it emits on its own."
+          "text": "It is too rare in the universe to be important."
         }
       ],
       "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "detect its massive presence by observing its powerful gravitational effects on the rotational speeds of visible galaxies",
-      "why_correct": "Metin, karanlık maddenin görünür galaksiler ve ışık üzerindeki kütleçekimsel etkileri gözlenerek saptandığını söyler.",
-      "why_others_wrong": "A ve C ters, karanlık madde ışıkla etkileşmediği için doğrudan görüntülenemez veya ışık yaymaz."
+      "evidence_snippet": "one of the greatest challenges in modern cosmology",
+      "why_correct": "Metin, bu görünmez maddenin doğasını anlamayı modern kozmolojinin en büyük zorluklarından biri olarak sunar; buradan bilim insanlarının hâlâ öğrenecek çok şeyi olduğu çıkarılır.",
+      "why_others_wrong": "A: Metin tam tersini söyler: doğası hâlâ tam anlaşılmış değildir (yönü ters). C: Karanlık madde evrendeki maddenin yaklaşık yüzde seksenbeşini oluşturur, yani nadir değildir (yönü ters)."
     },
     "inference_question_2": {
-      "question_text": "Why is dark matter invisible to telescopes?",
+      "question_text": "What can be inferred about radio and infrared telescopes from the passage?",
       "options": [
         {
           "key": "A",
-          "text": "Because it does not interact with light or other radiation."
+          "text": "They are the best instruments for photographing dark matter."
         },
         {
           "key": "B",
-          "text": "Because it is simply too small for any telescope to see."
+          "text": "They would be of little use for detecting dark matter directly."
         },
         {
           "key": "C",
-          "text": "Because it is always hidden directly behind visible galaxies."
+          "text": "They can only be used to study visible galaxies."
         }
       ],
-      "correct_key": "A",
+      "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "dark matter does not interact with electromagnetic radiation such as light, it remains completely invisible",
-      "why_correct": "Metin, karanlık maddenin ışık gibi elektromanyetik radyasyonla etkileşmediği için görünmez kaldığını söyler.",
-      "why_others_wrong": "B metinde yok, boyut nedeni geçmez. C metinde yok, galaksi arkasında gizlenme iddiası yoktur."
+      "evidence_snippet": "invisible to traditional optical, radio, and infrared telescopes",
+      "why_correct": "Karanlık madde bu teleskoplara görünmez olduğundan, onu doğrudan tespit etmek için pek işe yaramazlar.",
+      "why_others_wrong": "A: Metin tam tersini söyler: bu teleskoplar karanlık maddeyi göremez (yönü ters). C: Teleskopların yalnızca görünür galaksiler için kullanıldığı söylenmez (aşırı yorum)."
     }
   },
   {
@@ -19041,27 +19041,27 @@
       "why_others_wrong": "A ters, nesneler tarihi unutturmaz, canlandırır. C metinde yok, rehberlere yine ihtiyaç vardır."
     },
     "inference_question_2": {
-      "question_text": "How do museum guides explain how older civilizations lived?",
+      "question_text": "What can be inferred about the students' interest in history after the museum trips?",
       "options": [
         {
           "key": "A",
-          "text": "By handing out long and detailed history books."
+          "text": "It is likely to grow, because they want to read more about the past."
         },
         {
           "key": "B",
-          "text": "By showing only silent black-and-white films."
+          "text": "It is likely to fall, because the old objects seem boring."
         },
         {
           "key": "C",
-          "text": "By telling brief, story-like accounts."
+          "text": "It will not change, because only the guides matter."
         }
       ],
-      "correct_key": "C",
+      "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "Museum guides explain how older civilizations lived by sharing short stories",
-      "why_correct": "Metin, müze rehberlerinin eski uygarlıkların yaşamını kısa hikayeler anlatarak açıkladığını söyler.",
-      "why_others_wrong": "A metinde yok, kitap dağıtmak geçmez. B metinde yok, sessiz filmler geçmez."
+      "evidence_snippet": "inspire young minds to explore historical books",
+      "why_correct": "Metin, gezilerin gençleri tarih kitaplarını keşfetmeye teşvik ettiğini söyler; buradan öğrencilerin tarihe ilgisinin arttığı çıkarılır.",
+      "why_others_wrong": "B: Metin geziyi sıkıcı değil, heyecan verici olarak tanımlar (yönü ters). C: Rehberlerin tek belirleyici olduğu söylenmez; nesneler ve hikâyeler de etkilidir (aşırı yorum)."
     }
   },
   {
@@ -19134,27 +19134,27 @@
       "why_others_wrong": "A ters, yerli hayvanlar onları korumaz. C ters, hızla ürerler, yavaş değil."
     },
     "inference_question_2": {
-      "question_text": "How do invasive species often harm native wildlife?",
+      "question_text": "Why must scientists keep watching habitats that invasive species could enter?",
       "options": [
         {
           "key": "A",
-          "text": "By taking away limited local food resources."
+          "text": "Because the damage can spread quickly if the pests are not noticed early."
         },
         {
           "key": "B",
-          "text": "By providing extra food for native animals."
+          "text": "Because native predators will soon disappear from every habitat."
         },
         {
           "key": "C",
-          "text": "By attracting many more natural predators."
+          "text": "Because invasive species can only live in places that are already empty."
         }
       ],
       "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "These species often harm native wildlife by taking away limited food resources",
-      "why_correct": "Metin, istilacı türlerin sınırlı besin kaynaklarını alarak yerli yaban hayatına zarar verdiğini söyler.",
-      "why_others_wrong": "B ters, besin sağlamaz, alır. C metinde yok, avcı çekme iddiası geçmez."
+      "evidence_snippet": "their populations grow extremely fast",
+      "why_correct": "Yeni yerde nüfusları çok hızlı arttığı için, erken fark edilmezlerse zarar hızla büyüyebilir; sürekli izleme bu yüzden gerekir.",
+      "why_others_wrong": "B: Yerli avcıların her yerde yok olacağı söylenmez (aşırı yorum). C: İstilacı türlerin boş yerlerde yaşadığı söylenmez; yerli canlıların besinini alırlar (yönü ters)."
     }
   },
   {
@@ -19297,27 +19297,27 @@
       "why_correct": "Metin \"change text sizes to read more comfortably under bright sunlight\" diyor; kullanıcılar parlak güneşte rahat okumak için yazı boyutunu değiştirebilir."
     },
     "inference_question": {
-      "question_text": "Why are digital e-readers convenient for active travelers?",
+      "question_text": "Why might an e-reader be a better choice than paper books for a long trip?",
       "options": [
         {
           "key": "A",
-          "text": "Because they are much heavier than paper books."
+          "text": "Paper books cannot be read in bright sunlight."
         },
         {
           "key": "B",
-          "text": "Because they store thousands of books without taking space."
+          "text": "The same number of paper books would take up much more space."
         },
         {
           "key": "C",
-          "text": "Because they can only hold one book at a time."
+          "text": "An e-reader never needs any power to work."
         }
       ],
       "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "These light electronic screens store thousands of digital books without taking physical space",
-      "why_correct": "Metin, hafif ekranların binlerce kitabı yer kaplamadan sakladığını söyler; bu da yolcular için elverişlidir.",
-      "why_others_wrong": "A ters, e-okuyucular hafiftir. C ters, tek değil binlerce kitap tutar."
+      "evidence_snippet": "without taking physical space",
+      "why_correct": "E-okuyucu binlerce kitabı fiziksel yer kaplamadan taşıdığı için, aynı sayıda kâğıt kitap çok daha fazla yer tutar.",
+      "why_others_wrong": "A: Kâğıt kitapların güneşte okunamayacağı söylenmez (aşırı yorum). C: E-okuyucunun hiç enerjiye ihtiyaç duymadığı söylenmez (aşırı yorum)."
     },
     "inference_question_2": {
       "question_text": "Which title best fits the paragraph?",
@@ -19390,27 +19390,27 @@
       "why_correct": "Metin \"shelter more than half of the world's animal species\" diyor; yağmur ormanları dünyadaki hayvan türlerinin yarısından fazlasını barındırır."
     },
     "inference_question": {
-      "question_text": "Why do scientists visit tropical rainforests?",
+      "question_text": "What can be inferred about the importance of protecting rainforests?",
       "options": [
         {
           "key": "A",
-          "text": "To count the many layers of green trees."
+          "text": "Protecting them matters only to the people living nearby."
         },
         {
           "key": "B",
-          "text": "To remove all the rare insects from the habitat."
+          "text": "Their main value is as wood for building."
         },
         {
           "key": "C",
-          "text": "To find new plants that might cure human diseases."
+          "text": "Losing them could mean losing many species and possible medicines."
         }
       ],
       "correct_key": "C",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "to discover new plants that might cure dangerous human diseases",
-      "why_correct": "Metin, bilim insanlarının bu ormanları tehlikeli hastalıkları iyileştirebilecek yeni bitkiler keşfetmek için ziyaret ettiğini söyler.",
-      "why_others_wrong": "A ayrıntı, katmanlar bilim ziyaretinin amacı değil. B ters, bilim insanları böcekleri toplamaya değil, bitki keşfetmeye gider."
+      "evidence_snippet": "discover new plants that might cure dangerous human diseases",
+      "why_correct": "Yağmur ormanları hayvan türlerinin yarısından fazlasını barındırır ve hastalıklara çare olabilecek bitkiler içerir; kaybedilirlerse ikisi de yok olabilir.",
+      "why_others_wrong": "A: Metin yalnızca yakındaki insanlardan değil, tüm insanlıktan ve dünyadan söz eder (yönü ters). B: Ormanların değeri odun olarak anlatılmaz (konu dışı)."
     },
     "inference_question_2": {
       "question_text": "Which title best fits the paragraph?",
@@ -19483,27 +19483,27 @@
       "why_correct": "Metin \"increases daily stress levels\" diyor; yetersiz uyku günlük stres düzeyini artırır."
     },
     "inference_question": {
-      "question_text": "What does the human brain do during deep rest?",
+      "question_text": "Why might a person who sleeps well remember yesterday's lessons better?",
       "options": [
         {
           "key": "A",
-          "text": "It shuts down completely and performs no work."
+          "text": "Because the brain organises daily memories while it rests."
         },
         {
           "key": "B",
-          "text": "It processes daily memories and repairs cells."
+          "text": "Because sleeping means there is no need to study again."
         },
         {
           "key": "C",
-          "text": "It sharply increases the body's stress levels."
+          "text": "Because the body grows taller during sleep."
         }
       ],
-      "correct_key": "B",
+      "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "our brain processes daily memories and repairs physical cells",
-      "why_correct": "Metin, derin dinlenme sırasında beynin günlük anıları işlediğini ve fiziksel hücreleri onardığını söyler.",
-      "why_others_wrong": "A ters, beyin durmaz, aktif çalışır. C ters, uyku stresi azaltır, artırmaz."
+      "evidence_snippet": "our brain processes daily memories",
+      "why_correct": "Beyin dinlenirken günlük anıları işlediği için, iyi uyuyan kişi dünün derslerini daha iyi hatırlar.",
+      "why_others_wrong": "B: Uykunun tekrar çalışma ihtiyacını ortadan kaldırdığı söylenmez (aşırı yorum). C: Boy uzaması metinde geçmez (konu dışı)."
     },
     "inference_question_2": {
       "question_text": "What can be inferred about not getting enough sleep?",
@@ -19576,50 +19576,50 @@
       "why_correct": "Metin \"Many clinics use art classes to assist patients who experience severe anxiety\" diyor; birçok klinik şiddetli kaygı yaşayan hastalara yardım için resim dersleri kullanır."
     },
     "inference_question": {
-      "question_text": "What does creative painting help calm?",
+      "question_text": "What can be inferred about people who find it hard to talk about their feelings?",
       "options": [
         {
           "key": "A",
-          "text": "Physical muscle pain in the hands and arms."
+          "text": "They should avoid art classes because these increase anxiety."
         },
         {
           "key": "B",
-          "text": "Active, stressed minds."
+          "text": "Painting may give them another way to show what they feel."
         },
         {
           "key": "C",
-          "text": "Loud background noises inside the clinic."
+          "text": "They are unable to feel strong emotions."
         }
       ],
       "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "helps calm active minds",
-      "why_correct": "Metin, renkleri karıştırmaya ve şekiller yapmaya odaklanmanın aktif zihinleri sakinleştirmeye yardım ettiğini söyler.",
-      "why_others_wrong": "A metinde yok, kas ağrısı geçmez. C metinde yok, gürültü konu değil, sakinleşen zihindir."
+      "evidence_snippet": "express complex emotions without using words",
+      "why_correct": "Resim yapmak duyguları sözcük kullanmadan ifade etmeye izin verdiği için, konuşmakta zorlananlar için başka bir yol olabilir.",
+      "why_others_wrong": "A: Metin sanat sınıflarının kaygıyı azalttığını söyler, artırdığını değil (yönü ters). C: Güçlü duygu hissedememekten söz edilmez (aşırı yorum)."
     },
     "inference_question_2": {
-      "question_text": "Why do many clinics use art classes?",
+      "question_text": "What can be inferred about the writer's view of creative painting?",
       "options": [
         {
           "key": "A",
-          "text": "To train patients for professional painting careers."
+          "text": "It is seen as a hobby only for talented artists."
         },
         {
           "key": "B",
-          "text": "To replace all other forms of medical treatment."
+          "text": "It is seen as a complete replacement for medical care."
         },
         {
           "key": "C",
-          "text": "To help anxious patients express emotions without words."
+          "text": "It is seen as a valuable aid to mental health."
         }
       ],
       "correct_key": "C",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "allows people to express complex emotions without using words",
-      "why_correct": "Metin, kliniklerin sanat derslerini kaygılı hastaların duygularını sözsüz ifade etmesine yardım için kullandığını söyler.",
-      "why_others_wrong": "A metinde yok, meslek eğitimi amaç değil. B aşırı, sanat tedaviye yardımcıdır, yerini almaz."
+      "evidence_snippet": "effective therapeutic activity for reducing mental stress",
+      "why_correct": "Yazar resmi \"etkili bir terapötik etkinlik\" olarak tanımlar; yani onu ruh sağlığına değerli bir destek olarak görür.",
+      "why_others_wrong": "A: Metin yeteneğe değil, herkes için işe yarayan bir etkinliğe vurgu yapar (yönü ters). B: Tıbbi bakımın yerine geçtiği söylenmez; klinikler onu yardımcı olarak kullanır (aşırı yorum)."
     }
   },
   {
@@ -19669,50 +19669,50 @@
       "why_correct": "Metin \"uses human leg power to spin metal wheels\" diyor; bisiklet metal tekerlekleri insan bacak gücüyle döndürür."
     },
     "inference_question": {
-      "question_text": "Why do bicycles release zero harmful emissions?",
+      "question_text": "What can be inferred about air quality in cities where many people cycle?",
       "options": [
         {
           "key": "A",
-          "text": "Because they burn a special kind of clean fossil fuel."
+          "text": "It is likely to be cleaner than in cities full of cars."
         },
         {
           "key": "B",
-          "text": "Because they run on small electric batteries."
+          "text": "It will be completely free of every kind of pollution."
         },
         {
           "key": "C",
-          "text": "Because they do not burn any fossil fuels at all."
-        }
-      ],
-      "correct_key": "C",
-      "is_inference": true,
-      "infer_type": "inference",
-      "evidence_snippet": "Because bikes do not burn fossil fuels, they release zero harmful emissions",
-      "why_correct": "Metin, bisikletlerin fosil yakıt yakmadığı için sıfır zararlı emisyon saldığını söyler.",
-      "why_others_wrong": "A ters, hiçbir fosil yakıt yakmazlar. B metinde yok, bisikleti insan bacak gücü çalıştırır, batarya değil."
-    },
-    "inference_question_2": {
-      "question_text": "What powers the bicycle's metal wheels?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Human leg power."
-        },
-        {
-          "key": "B",
-          "text": "A small gasoline engine."
-        },
-        {
-          "key": "C",
-          "text": "Solar panels mounted on the frame."
+          "text": "It is likely to be worse, because bicycles need fuel."
         }
       ],
       "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "uses human leg power to spin metal wheels",
-      "why_correct": "Metin, basit mekanik tasarımın metal tekerlekleri döndürmek için insan bacak gücünü kullandığını söyler.",
-      "why_others_wrong": "B ve C metinde geçmez; ne benzinli motor ne güneş paneli vardır, güç insandan gelir."
+      "evidence_snippet": "they release zero harmful emissions into local urban air",
+      "why_correct": "Bisikletler yerel kent havasına zararlı emisyon salmadığı için, çok bisiklet kullanılan şehirlerin havası arabalı şehirlerden daha temiz olur.",
+      "why_others_wrong": "B: Bisikletin kendi emisyonu sıfırdır; her tür kirliliğin biteceği söylenmez (aşırı yorum). C: Bisikletler fosil yakıt yakmaz (yönü ters)."
+    },
+    "inference_question_2": {
+      "question_text": "What can be inferred about how cycling compares with driving a car for a short trip?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It uses more energy but is much faster."
+        },
+        {
+          "key": "B",
+          "text": "It uses less energy and keeps the air cleaner."
+        },
+        {
+          "key": "C",
+          "text": "It is cleaner, but only for long trips."
+        }
+      ],
+      "correct_key": "B",
+      "is_inference": true,
+      "infer_type": "inference",
+      "evidence_snippet": "highly energy-efficient way to travel short distances",
+      "why_correct": "Bisiklet kısa mesafeler için çok enerji verimlidir ve yakıt yakmaz; arabaya göre hem daha az enerji kullanır hem havayı daha temiz tutar.",
+      "why_others_wrong": "A: Metin bisikletin daha fazla enerji harcadığını ya da daha hızlı olduğunu söylemez (yönü ters). C: Bisiklet kısa mesafeler için önerilir, uzun yolculuklar için değil (yönü ters)."
     }
   },
   {
@@ -19762,27 +19762,27 @@
       "why_correct": "Metin \"Local volunteers also organize regular weekly reading programs for young children\" diyor; haftalık okuma programlarını yerel gönüllüler düzenler."
     },
     "inference_question": {
-      "question_text": "What do public libraries provide free access to?",
+      "question_text": "What can be inferred about people who cannot afford books or the internet at home?",
       "options": [
         {
           "key": "A",
-          "text": "Expensive private tutoring sessions for children and adults."
+          "text": "They must pay a fee to use the library's study spaces."
         },
         {
           "key": "B",
-          "text": "Paid weekly reading programs only for registered members."
+          "text": "They can still study and learn by using the public library."
         },
         {
           "key": "C",
-          "text": "Educational books, internet, and quiet study spaces."
+          "text": "They are not welcome in neighbourhood libraries."
         }
       ],
-      "correct_key": "C",
+      "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
       "evidence_snippet": "free access to educational books, fast internet, and quiet study spaces",
-      "why_correct": "Metin, halk kütüphanelerinin eğitim kitaplarına, hızlı internete ve sessiz çalışma alanlarına ücretsiz erişim sağladığını söyler.",
-      "why_others_wrong": "A ters, özel ücretli ders değil, ücretsiz kaynak sunar. B ters, okuma programları ücretsizdir."
+      "why_correct": "Kütüphane kitaplara, internete ve sessiz çalışma alanlarına ücretsiz erişim sunduğu için, evinde bunlara sahip olmayanlar da orada öğrenebilir.",
+      "why_others_wrong": "A: Erişimin ücretsiz olduğu söylenir; ücret gerekmez (yönü ters). C: Kütüphaneler çeşitli vatandaşları bir araya getirir; kimse dışlanmaz (yönü ters)."
     },
     "inference_question_2": {
       "question_text": "Which title best fits the paragraph?",
@@ -19948,50 +19948,50 @@
       "why_correct": "Metin \"the thick soil layer acts as natural insulation, lowering cooling costs\" diyor; kalın toprak katmanı doğal yalıtım görevi görüp soğutma maliyetini düşürür."
     },
     "inference_question": {
-      "question_text": "How do green roofs prevent drainage systems from overflowing?",
+      "question_text": "What can be inferred about why municipalities offer financial incentives for green roofs?",
       "options": [
         {
           "key": "A",
-          "text": "By pumping rainwater into the sewers much faster."
+          "text": "They want to stop owners from using live plants on buildings."
         },
         {
           "key": "B",
-          "text": "By absorbing heavy rainfall in their plants and soil."
+          "text": "They want more owners to build them because the whole city benefits."
         },
         {
           "key": "C",
-          "text": "By blocking all rain from ever reaching the roof."
+          "text": "They plan to make owners pay for drainage repairs."
         }
       ],
       "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "These biological surfaces absorb heavy rainfall, which successfully prevents local urban drainage systems from overflowing",
-      "why_correct": "Metin, yeşil çatıların yoğun yağışı emerek kentsel drenaj sistemlerinin taşmasını önlediğini söyler.",
-      "why_others_wrong": "A ters, suyu kanalizasyona pompalamaz, emer. C saçma, yağmuru engellemez, soğurup tutar."
+      "evidence_snippet": "Municipalities are currently offering financial incentives",
+      "why_correct": "Belediyeler yeşil çatıların kentin su taşkınını ve enerji maliyetini azalttığını gördükleri için, bina sahiplerini bu tasarımı benimsemeye teşvik eder.",
+      "why_others_wrong": "A: Teşvikler canlı bitkileri engellemek için değil, yaygınlaştırmak içindir (yönü ters). C: Drenaj onarımı için bina sahiplerinden ödeme istenmez; para desteği verilir (yönü ters)."
     },
     "inference_question_2": {
-      "question_text": "What does the thick soil layer of a green roof act as?",
+      "question_text": "What can be inferred about a building with a green roof during the summer?",
       "options": [
         {
           "key": "A",
-          "text": "A convenient source of drinking water."
+          "text": "It must use much more energy to stay cool."
         },
         {
           "key": "B",
-          "text": "A heavy weight that slowly damages the roof."
+          "text": "It probably needs less air conditioning than a building with a plain roof."
         },
         {
           "key": "C",
-          "text": "Natural insulation that lowers cooling costs."
+          "text": "It becomes too hot for any plants to survive."
         }
       ],
-      "correct_key": "C",
+      "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "acts as natural insulation, lowering cooling costs during hot summer months",
-      "why_correct": "Metin, kalın toprak katmanının doğal yalıtım görevi görüp sıcak yaz aylarında soğutma maliyetlerini düşürdüğünü söyler.",
-      "why_others_wrong": "A ve B metinde geçmez; toprak katmanı içme suyu kaynağı veya zararlı ağırlık değil, yalıtımdır."
+      "evidence_snippet": "lowering cooling costs during hot summer months",
+      "why_correct": "Kalın toprak tabakası soğutma maliyetlerini düşürdüğü için, yeşil çatılı bina yazın daha az klimaya ihtiyaç duyar.",
+      "why_others_wrong": "A: Metin soğutma maliyetinin düştüğünü söyler, arttığını değil (yönü ters). C: Bitkilerin sıcaktan öleceği söylenmez; toprak yalıtım sağlar (aşırı yorum)."
     }
   },
   {
@@ -20041,50 +20041,50 @@
       "why_correct": "Metin \"guilds supervised the training of young apprentices\" diyor; loncalar zanaat becerilerinin sürmesi için çırakların eğitimini denetlerdi."
     },
     "inference_question": {
-      "question_text": "What did merchant guilds control during the medieval period?",
+      "question_text": "What can be inferred about customers who bought goods from medieval guild members?",
       "options": [
         {
           "key": "A",
-          "text": "The quality of goods and the prices in regional markets."
+          "text": "They often paid very different prices for the same item."
         },
         {
           "key": "B",
-          "text": "The foreign armies entering the walled city."
+          "text": "They could only buy goods made in foreign markets."
         },
         {
           "key": "C",
-          "text": "The religious ceremonies held in the town square."
+          "text": "They could expect goods of reliable quality at fair prices."
+        }
+      ],
+      "correct_key": "C",
+      "is_inference": true,
+      "infer_type": "inference",
+      "evidence_snippet": "controlled the exact quality of manufactured goods and established fair prices for regional markets",
+      "why_correct": "Loncalar ürün kalitesini denetleyip adil fiyatlar belirlediği için, müşteriler güvenilir kalitede ve adil fiyatlı mal bekleyebilirdi.",
+      "why_others_wrong": "A: Fiyatları loncalar belirlediği için büyük farklılık beklenmez (yönü ters). B: Loncalar yerel zanaatkârları yabancı rekabetten korur (yönü ters)."
+    },
+    "inference_question_2": {
+      "question_text": "What can be inferred about craft skills in the medieval period if there had been no guilds?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They might have been lost when older craftspeople stopped working."
+        },
+        {
+          "key": "B",
+          "text": "They would have become easier to learn."
+        },
+        {
+          "key": "C",
+          "text": "They would have spread faster into foreign markets."
         }
       ],
       "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "controlled the exact quality of manufactured goods and established fair prices for regional markets",
-      "why_correct": "Metin, tüccar loncalarının üretilen malların kalitesini denetleyip bölge pazarlarında adil fiyatlar belirlediğini söyler.",
-      "why_others_wrong": "B ve C metinde geçmez; loncalar orduyla veya dini törenlerle değil, ticaretle ilgilenirdi."
-    },
-    "inference_question_2": {
-      "question_text": "What did guilds supervise to preserve craft skills?",
-      "options": [
-        {
-          "key": "A",
-          "text": "The building of the city's defensive walls."
-        },
-        {
-          "key": "B",
-          "text": "The instruction and preparation of young trainees."
-        },
-        {
-          "key": "C",
-          "text": "The collection of the king's yearly taxes."
-        }
-      ],
-      "correct_key": "B",
-      "is_inference": true,
-      "infer_type": "inference",
-      "evidence_snippet": "supervised the training of young apprentices",
-      "why_correct": "Metin, loncaların zanaat becerilerinin sürmesi için genç çırakların eğitimini denetlediğini söyler.",
-      "why_others_wrong": "A ve C metinde geçmez; sur inşaatı veya vergi toplama loncaların işi değildir."
+      "evidence_snippet": "to ensure that essential craft skills survived across generations",
+      "why_correct": "Loncalar çıraklara eğitim vererek becerilerin kuşaktan kuşağa sürmesini sağladığı için, lonca olmasaydı bu beceriler kaybolabilirdi.",
+      "why_others_wrong": "B: Beceriler eğitimle öğrenilir; lonca olmaması öğrenmeyi kolaylaştırmaz (yönü ters). C: Yabancı pazarlardan söz edilmez; loncalar yerel zanaatkârları korur (konu dışı)."
     }
   },
   {
@@ -20157,27 +20157,27 @@
       "why_others_wrong": "A metinde yok, bakır kablo geçmez. C ters, matematik problemleri geleneksel şifrelemenin yöntemidir, kuantumun değil."
     },
     "inference_question_2": {
-      "question_text": "What happens if hackers try to intercept the particles?",
+      "question_text": "Why are military and banking networks mentioned in the passage?",
       "options": [
         {
           "key": "A",
-          "text": "The particles copy themselves safely for the hacker."
+          "text": "Because they are the only places that still use traditional encryption."
         },
         {
           "key": "B",
-          "text": "Nothing changes and the theft goes completely unnoticed."
+          "text": "Because they handle information that needs the strongest protection."
         },
         {
           "key": "C",
-          "text": "Their physical state changes, alerting security networks."
+          "text": "Because they were the first to be attacked by quantum hackers."
         }
       ],
-      "correct_key": "C",
+      "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "instantly changes their physical state, alerting security networks",
-      "why_correct": "Metin, parçacıkları ele geçirme girişiminin fiziksel durumlarını anında değiştirip güvenlik ağlarını uyardığını söyler.",
-      "why_others_wrong": "A ve B ters, müdahale gizli kalmaz, tam da fark edilir ve alarm verir."
+      "evidence_snippet": "absolute protection for sensitive military and banking networks",
+      "why_correct": "Askerî ve bankacılık ağları hassas bilgiler taşıdığı için, en güçlü korumaya ihtiyaç duyan örnekler olarak anılır.",
+      "why_others_wrong": "A: Geleneksel şifrelemeyi yalnızca bunların kullandığı söylenmez (aşırı yorum). C: Kuantum saldırılarından ilk bunların etkilendiği söylenmez (aşırı yorum)."
     }
   },
   {
@@ -20227,50 +20227,50 @@
       "why_correct": "Metin \"a strong connection between gut bacteria and brain health\" diyor; araştırmalar bağırsak bakterileriyle beyin sağlığı arasında güçlü bir bağ olduğunu gösteriyor."
     },
     "inference_question": {
-      "question_text": "How do beneficial gut bacteria assist the human body?",
+      "question_text": "What can be inferred about a person whose gut bacteria are badly out of balance?",
       "options": [
         {
           "key": "A",
-          "text": "By digesting fibers and producing essential vitamins."
+          "text": "Their body will simply make the missing vitamins alone."
         },
         {
           "key": "B",
-          "text": "By replacing the body's need for any food."
+          "text": "Their brain will stop working completely."
         },
         {
           "key": "C",
-          "text": "By slowing down all digestion completely."
+          "text": "Their health, including mood and sleep, may suffer."
+        }
+      ],
+      "correct_key": "C",
+      "is_inference": true,
+      "infer_type": "inference",
+      "evidence_snippet": "affecting mood and sleep patterns",
+      "why_correct": "Bağırsak bakterileri ruh hâlini ve uyku düzenini etkilediği için, dengesi bozulan kişinin sağlığı ve uykusu olumsuz etkilenebilir.",
+      "why_others_wrong": "A: Vücut bu vitaminleri tek başına üretemez (yönü ters). B: Beynin tamamen durması gibi bir şey söylenmez (aşırı yorum)."
+    },
+    "inference_question_2": {
+      "question_text": "What can be inferred about the advice to eat fermented foods regularly?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It aims to help keep the gut bacteria in good balance."
+        },
+        {
+          "key": "B",
+          "text": "It aims to replace the need for dietary fibers."
+        },
+        {
+          "key": "C",
+          "text": "It aims to kill all the bacteria in the body."
         }
       ],
       "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "assist in digesting complex dietary fibers and producing essential vitamins",
-      "why_correct": "Metin, faydalı bağırsak bakterilerinin karmaşık lifleri sindirmeye ve bedenin tek başına yapamadığı vitaminleri üretmeye yardım ettiğini söyler.",
-      "why_others_wrong": "B saçma, bakteriler yemek ihtiyacını ortadan kaldırmaz. C ters, sindirime yardım eder, durdurmaz."
-    },
-    "inference_question_2": {
-      "question_text": "What connection do recent studies reveal?",
-      "options": [
-        {
-          "key": "A",
-          "text": "A link between gut bacteria and a person's hair color."
-        },
-        {
-          "key": "B",
-          "text": "A link between gut bacteria and brain health."
-        },
-        {
-          "key": "C",
-          "text": "A link between fermented foods and better eyesight."
-        }
-      ],
-      "correct_key": "B",
-      "is_inference": true,
-      "infer_type": "inference",
-      "evidence_snippet": "a strong connection between gut bacteria and brain health",
-      "why_correct": "Metin, yeni çalışmaların bağırsak bakterileri ile beyin sağlığı arasında güçlü bir bağlantı ortaya koyduğunu söyler.",
-      "why_others_wrong": "A ve C metinde geçmez; saç rengi veya görme keskinliği değil, ruh hali ve uykuyu etkileyen beyin sağlığı bağlantısı vurgulanır."
+      "evidence_snippet": "Eating fermented foods regularly helps maintain a balanced microbiome",
+      "why_correct": "Fermente gıdaların dengeli bir mikrobiyomu korumaya yardım ettiği söylenir; öneri bağırsak bakterilerini dengede tutmayı amaçlar.",
+      "why_others_wrong": "B: Lif sindirimi bakterilerin işidir; fermente gıdalar lifin yerini tutmaz (aşırı yorum). C: Metin yararlı bakterilerden söz eder; hepsini öldürmek amaç değildir (yönü ters)."
     }
   },
   {
@@ -20343,27 +20343,27 @@
       "why_others_wrong": "A ters, aktif öğrenme pasif dinlemenin karşıtıdır. C ters, katılım bireysel sessiz çalışma değil, akran etkileşimidir."
     },
     "inference_question_2": {
-      "question_text": "What does the constant peer interaction encourage?",
+      "question_text": "What can be inferred about a student who only listens to lectures without taking part?",
       "options": [
         {
           "key": "A",
-          "text": "Deep cognitive processing and clearer understanding."
+          "text": "They may remember less than a student who joins in the activities."
         },
         {
           "key": "B",
-          "text": "Faster memorisation without any real thinking."
+          "text": "They will learn communication skills faster."
         },
         {
           "key": "C",
-          "text": "A full return to traditional one-way lecturing."
+          "text": "They will clarify every complex theory without any help."
         }
       ],
       "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "encourages deep cognitive processing and helps clarify complex academic theories",
-      "why_correct": "Metin, sürekli akran etkileşiminin derin bilişsel işleme teşvik ettiğini ve karmaşık teorileri netleştirdiğini söyler.",
-      "why_others_wrong": "B ters, düşünmesiz ezber değil, derin işleme sağlar. C ters, aktif öğrenme geleneksel anlatımın karşıtıdır."
+      "evidence_snippet": "improves student information retention compared to traditional lectures",
+      "why_correct": "Aktif öğrenme bilgiyi geleneksel derslerden daha iyi akılda tutmayı sağladığı için, yalnızca dinleyen öğrenci daha az hatırlayabilir.",
+      "why_others_wrong": "B: İletişim becerileri etkin katılımla gelişir (yönü ters). C: Karmaşık kuramları netleştiren şey akran etkileşimidir (yönü ters)."
     }
   },
   {
@@ -20413,27 +20413,27 @@
       "why_correct": "Metin \"satellite sensors constantly measure changes in gas emissions and ground temperature\" diyor; uydu sensörleri gaz salımı ve zemin sıcaklığındaki değişimleri ölçer."
     },
     "inference_question": {
-      "question_text": "What do high-precision seismometers detect?",
+      "question_text": "What can be inferred about the main purpose of monitoring volcanoes?",
       "options": [
         {
           "key": "A",
-          "text": "Gradual changes in the color of the volcano."
+          "text": "To stop volcanoes from erupting."
         },
         {
           "key": "B",
-          "text": "Tiny ground vibrations caused by moving magma."
+          "text": "To collect rocks and gases for museums."
         },
         {
           "key": "C",
-          "text": "The number of tourists standing near the volcano."
+          "text": "To give people enough time to leave before an eruption harms them."
         }
       ],
-      "correct_key": "B",
+      "correct_key": "C",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "detect tiny ground vibrations caused by magma moving deep underneath the earth's crust",
-      "why_correct": "Metin, yüksek hassasiyetli sismometrelerin yer altında hareket eden magmanın yol açtığı küçük yer titreşimlerini algıladığını söyler.",
-      "why_others_wrong": "A ve C metinde geçmez; sismometreler renk değişimini veya turist sayısını değil, titreşimleri ölçer."
+      "evidence_snippet": "provide emergency services with crucial hours to evacuate",
+      "why_correct": "Uyarı sinyalleri acil servislere tahliye için kritik saatler kazandırdığı için, izlemenin amacı insanların zarar görmeden önce çıkmasını sağlamaktır.",
+      "why_others_wrong": "A: Metin patlamaların engellendiğinden değil, tahmin edildiğinden söz eder (aşırı yorum). B: Müzeler için örnek toplamaktan söz edilmez (konu dışı)."
     },
     "inference_question_2": {
       "question_text": "What do the satellite sensors measure?",
@@ -24803,7 +24803,7 @@
       "is_inference": true,
       "infer_type": "main_idea",
       "evidence_snippet": "study the outer solar system and eventually cross into interstellar space",
-      "why_correct": "Metin, ikiz Voyager'larin dış gezegenleri inceleyip hala yıldızlararası veri gönderdiğini anlatır.",
+      "why_correct": "Metin, ikiz Voyager'ların dış gezegenleri inceleyip hala yıldızlararası veri gönderdiğini anlatır.",
       "why_others_wrong": "A: tam tersi, yıldızlararası uzaya geçtiler. B: Jüpiter/Satürn/Uranüs/Neptün'u çektiler, sadece Ay değil."
     },
     "inference_question_2": {
@@ -37182,27 +37182,27 @@
       "why_correct": "\"slurred\" = peltekleşmiş, ağızda gevelenen; ipucu: \"as though the person had been drinking\" (sanki içmiş gibi) ve \"cannot be understood clearly\" (net anlaşılmıyor)."
     },
     "inference_question": {
-      "question_text": "Why does every minute count during a stroke?",
+      "question_text": "What can be inferred about a person whose face droops on one side?",
       "options": [
         {
           "key": "A",
-          "text": "Any delay allows more brain cells to be lost for good."
+          "text": "They may be having a stroke and need urgent help."
         },
         {
           "key": "B",
-          "text": "Strokes heal faster when they are left untreated."
+          "text": "They are probably just feeling tired."
         },
         {
           "key": "C",
-          "text": "Brain cells grow back within minutes."
+          "text": "They have certainly been drinking too much."
         }
       ],
       "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "about two million nerve cells die for each minute",
-      "why_correct": "Tedavisiz geçen her dakikada yaklaşık iki milyon sinir hücresi oluyor; gecikme kalıcı kayıp demek. A doğru.",
-      "why_others_wrong": "B yön ters, tedavisiz beklemek zarar verir. C dayanaksız, hücrelerin yenilendiği yazmaz."
+      "evidence_snippet": "check whether one side of the face droops",
+      "why_correct": "Yüzün bir tarafının düşmesi testin kontrol ettiği işaretlerden biridir; bu kişi inme geçiriyor olabilir ve acil yardıma ihtiyaç duyar.",
+      "why_others_wrong": "B: Test bu işareti ciddiye almayı öğretir; yorgunluk diye geçiştirmez (yönü ters). C: Yalnızca peltek konuşma içki içmiş gibi görünmeyi çağrıştırır; yüz düşmesi kesin içki göstermez (aşırı yorum)."
     },
     "inference_question_2": {
       "question_text": "What is the purpose of the smile, arms and speech test?",
@@ -38152,27 +38152,27 @@
       "why_correct": "Metin \"Adults should check their blood pressure at least once a year\" diyor; yetişkinler en az yılda bir ölçtürmeli."
     },
     "inference_question": {
-      "question_text": "Why is high blood pressure called a silent killer?",
+      "question_text": "What can be inferred about how blood pressure is measured?",
       "options": [
         {
           "key": "A",
-          "text": "It causes people to lose their voice and their hearing."
+          "text": "It requires a small operation on the heart."
         },
         {
           "key": "B",
-          "text": "It is always noticed immediately by the patient and the doctor."
+          "text": "It is measured from outside the body, with a cuff on the arm."
         },
         {
           "key": "C",
-          "text": "It can be dangerous without giving any warning signs."
+          "text": "It can only be measured by feeling the pulse."
         }
       ],
-      "correct_key": "C",
+      "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "most people feel nothing at all",
-      "why_correct": "Çoğu insan hiçbir şey hissetmiyor; tehlikeli olduğu halde belirti vermiyor. C doğru.",
-      "why_others_wrong": "A yanlış, sessiz kelimesi mecazi. B çelişkili, çoğu kişi fark etmiyor."
+      "evidence_snippet": "wraps the cuff of a sphygmomanometer around your upper arm",
+      "why_correct": "Hemşire manşonu üst koluna sarıp şişirdiği için, tansiyon vücudun dışından, kolda ölçülür.",
+      "why_others_wrong": "A: Ameliyattan söz edilmez; ölçüm manşonla yapılır (yönü ters). C: Ölçümün yalnızca nabızla yapıldığı söylenmez (aşırı yorum)."
     },
     "inference_question_2": {
       "question_text": "Why should adults have their blood pressure checked every year?",
@@ -39533,27 +39533,27 @@
       "why_others_wrong": "A yön ters. C çelişkili."
     },
     "inference_question_2": {
-      "question_text": "Why are bridges and ships painted?",
+      "question_text": "What can be inferred about a painted bridge compared with an unpainted one?",
       "options": [
         {
           "key": "A",
-          "text": "To make them easier to see at night from far across the water."
+          "text": "It will rust faster because the paint holds water."
         },
         {
           "key": "B",
-          "text": "To make the metal heavier and stronger against the force of heavy waves."
+          "text": "It will turn orange and break into flakes sooner."
         },
         {
           "key": "C",
-          "text": "To stop water and air from reaching the metal and causing rust."
+          "text": "It will probably stay strong for longer."
         }
       ],
       "correct_key": "C",
       "is_inference": true,
       "infer_type": "inference",
       "evidence_snippet": "Paint keeps water and air away from the metal",
-      "why_correct": "Pas için su ve hava gerekli; boya bunları metalden uzak tutarak paslanmayı önler. C doğru.",
-      "why_others_wrong": "A dayanaksız. B dayanaksız."
+      "why_correct": "Boya suyu ve havayı metalden uzak tuttuğu için, boyalı köprü paslanmaz ve muhtemelen daha uzun süre sağlam kalır.",
+      "why_others_wrong": "A: Boya suyu tutmaz, tam tersine metalden uzak tutar (yönü ters). B: Turuncu pullar paslı metalin işaretidir; boyalı köprüde beklenmez (yönü ters)."
     }
   },
   {
@@ -40383,27 +40383,27 @@
       "why_correct": "\"arboreal\" = ağaçta yaşayan; ipucu: \"hanging upside down in the branches\" ve \"They eat, sleep and even give birth in the trees\"."
     },
     "inference_question": {
-      "question_text": "Why do sloths move so slowly?",
+      "question_text": "What can be inferred about the habitat that sloths need?",
       "options": [
         {
           "key": "A",
-          "text": "They are afraid of falling from branches."
+          "text": "Tall trees in warm, wet forests are important for their survival."
         },
         {
           "key": "B",
-          "text": "Their diet gives them very little energy to spend."
+          "text": "They live equally well on open grassland."
         },
         {
           "key": "C",
-          "text": "They are too heavy to move quickly."
+          "text": "They live mainly underground."
         }
       ],
-      "correct_key": "B",
+      "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "provides very little energy",
-      "why_correct": "Yaprak beslenmesi çok az enerji sağlıyor; bu yüzden yavaş hareket edip çok uyuyorlar. B doğru.",
-      "why_others_wrong": "A dayanaksız. C dayanaksız."
+      "evidence_snippet": "branches of Central and South American rainforests",
+      "why_correct": "Tembel hayvanlar neredeyse tüm hayatlarını yağmur ormanlarının dallarında geçirdiği için, ormanlardaki yüksek ağaçlar yaşamları açısından önemlidir.",
+      "why_others_wrong": "B: Ağaçlarda yaşayan bir hayvanın açık otlakta rahat yaşayacağı söylenmez (yönü ters). C: Yer altında yaşadıkları söylenmez; ağaçlarda yaşarlar (yönü ters)."
     },
     "inference_question_2": {
       "question_text": "What can be inferred about sloths and the ground?",
@@ -41667,27 +41667,27 @@
       "why_others_wrong": "A dayanaksız, ağırlıktan söz edilmez. C dayanaksız, tadından söz edilmez."
     },
     "inference_question_2": {
-      "question_text": "Why are gardeners happy to see hedgehogs?",
+      "question_text": "What can be inferred about how a hedgehog defends itself?",
       "options": [
         {
           "key": "A",
-          "text": "Hedgehogs help flowers grow by carrying seeds."
+          "text": "It depends on speed rather than on protection."
         },
         {
           "key": "B",
-          "text": "Hedgehogs keep other hunters out of the garden."
+          "text": "It depends on protection rather than on speed."
         },
         {
           "key": "C",
-          "text": "Hedgehogs eat small creatures that gardeners see as pests."
+          "text": "It depends on attacking hunters first."
         }
       ],
-      "correct_key": "C",
+      "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "Hedgehogs eat insects and worms",
-      "why_correct": "Böcek ve solucan yedikleri için bahçıvan onları yararlı görür ('so'). C doğru.",
-      "why_others_wrong": "A dayanaksız, tohum taşımaktan söz edilmez. B dayanaksız."
+      "evidence_snippet": "it rolls into a tight ball",
+      "why_correct": "Kirpi tehlikede kaçmak yerine sıkı bir top hâline gelir ve dikenleri dikilir; yani hıza değil korunmaya dayanır.",
+      "why_others_wrong": "A: Kirpi kaçmaz, topa dönüşür (yönü ters). C: Önce saldırdığı söylenmez; savunmaya geçer (yönü ters)."
     }
   },
   {
@@ -45058,7 +45058,7 @@
       "is_inference": true,
       "infer_type": "inference",
       "evidence_snippet": "mitochondria have their own DNA, which resembles bacterial DNA",
-      "why_correct": "Bakteriye benzeyen kendi DNA'lari, bir zamanlar bağımsız canlı olduklarını gösterir. A doğru.",
+      "why_correct": "Bakteriye benzeyen kendi DNA'ları, bir zamanlar bağımsız canlı olduklarını gösterir. A doğru.",
       "why_others_wrong": "B dayanaksız, küçük yapılar deniyor. C çelişkili, sindirilmeden yutuldu."
     },
     "inference_question_2": {
@@ -45912,27 +45912,27 @@
       "why_correct": "Metin \"the whole family may struggle to find food and water\" diyor; lider ölünce aile yiyecek ve su bulmakta zorlanır."
     },
     "inference_question": {
-      "question_text": "Why are herds led by older females more likely to survive droughts?",
+      "question_text": "What can be inferred about a herd led by a young, inexperienced matriarch in a drought?",
       "options": [
         {
           "key": "A",
-          "text": "Their long experience lets them find water that younger elephants would not know about."
+          "text": "It might be less prepared to find water."
         },
         {
           "key": "B",
-          "text": "Older females are stronger than young males and can defend the whole herd against any lion."
+          "text": "It would be safer from poachers."
         },
         {
           "key": "C",
-          "text": "Older females can go longer without water than any of the younger animals and males in the group."
+          "text": "It would never need to look for water."
         }
       ],
       "correct_key": "A",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "the leader remembers distant water holes she visited decades earlier",
-      "why_correct": "Yaşlı lider onyıllar önceki uzak su kaynaklarını hatırlıyor. A doğru.",
-      "why_others_wrong": "B dayanaksız, güç kıyaslanmıyor. C yanlış neden, sebep hafıza."
+      "evidence_snippet": "herds led by older females are more likely to survive",
+      "why_correct": "Yaşlı dişilerin önderlik ettiği sürüler kuraklıkta daha çok hayatta kaldığı için, deneyimsiz bir liderin sürüsü suyu bulmaya daha az hazır olabilir.",
+      "why_others_wrong": "B: Avcılardan korunma metinde liderin yaşıyla bağlanmaz (aşırı yorum). C: Kuraklıkta sürüler su aramak zorundadır; \"hiç gerek olmaz\" denemez (yönü ters)."
     },
     "inference_question_2": {
       "question_text": "What does the passage suggest about the wider effect of poaching?",
@@ -46203,27 +46203,27 @@
       "why_correct": "\"inert\" = tepkisiz, hareketsiz; iki noktadan sonra açıklanır: \"it does not eat, grow or move\"."
     },
     "inference_question": {
-      "question_text": "Why do many biologists not consider viruses fully alive?",
+      "question_text": "What can be inferred about a virus that has not yet entered a cell?",
       "options": [
         {
           "key": "A",
-          "text": "They are too small to be seen with a normal microscope or even by eye."
+          "text": "It is already making copies of itself."
         },
         {
           "key": "B",
-          "text": "They depend completely on other cells to make copies of themselves."
+          "text": "It stays inactive until it meets a suitable cell."
         },
         {
           "key": "C",
-          "text": "They grow and eat outside cells, like bacteria and many other tiny animals."
+          "text": "It eats and grows like a small animal."
         }
       ],
       "correct_key": "B",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "Because they cannot reproduce on their own",
-      "why_correct": "Kendi başlarına çoğalamıyorlar; bunun için hücreye muhtaçlar. B doğru.",
-      "why_others_wrong": "A dayanaksız, boyuttan söz edilmez. C çelişkili, hücre dışında yemiyor, büyümüyor."
+      "evidence_snippet": "Outside a cell, a virus is inert",
+      "why_correct": "Hücre dışında virüs hareketsizdir ve uygun bir hücreye girene kadar etkin hâle gelmez.",
+      "why_others_wrong": "A: Kopyalama ancak hücre içinde olur (yönü ters). C: Virüs hücre dışında beslenmez ve büyümez (yönü ters)."
     },
     "inference_question_2": {
       "question_text": "Why does the author compare a virus outside a cell to a seed in dry ground?",
@@ -49986,27 +49986,27 @@
       "why_correct": "\"egalitarian\" = eşitlikçi; ipucu: et herkesle paylaşılır ve \"no one has the right to give orders to others\"."
     },
     "inference_question": {
-      "question_text": "Why is a successful hunter sometimes teased?",
+      "question_text": "What can be inferred about a hunter who keeps all the meat for himself?",
       "options": [
         {
           "key": "A",
-          "text": "Because he did not share the meat with the others in the group."
+          "text": "He would be made leader of the camp."
         },
         {
           "key": "B",
-          "text": "Because the others want to become leaders and take his place soon."
+          "text": "He would be praised for his skill."
         },
         {
           "key": "C",
-          "text": "To stop him from thinking he is better than the others."
+          "text": "He would probably be criticised by the rest of the group."
         }
       ],
       "correct_key": "C",
       "is_inference": true,
       "infer_type": "inference",
-      "evidence_snippet": "so that he does not become proud",
-      "why_correct": "Alay, avcının kibirlenmesini ve üstünlük kurmasını önlemek için. C doğru.",
-      "why_others_wrong": "A dayanaksız, paylaşması bekleniyor. B çelişkili, kimse emir veremiyor."
+      "evidence_snippet": "expected to share the meat with the whole camp",
+      "why_correct": "Avcıdan eti tüm kampla paylaşması beklendiği için, hepsini kendine saklayan kişi büyük olasılıkla grubun eleştirisini çeker.",
+      "why_others_wrong": "A: Kimsenin emir verme hakkı yoktur; lider yapılmaz (yönü ters). B: Paylaşan avcı takdir edilir; paylaşmayan edilmez (yönü ters)."
     },
     "inference_question_2": {
       "question_text": "What is the main idea of the passage?",
@@ -60541,7 +60541,7 @@
       "is_inference": true,
       "infer_type": "author",
       "evidence_snippet": "Studies link long-term shift work",
-      "why_correct": "Yazar çalışmalara ve DSO kuruluşunun sınıflandırmasına dayanarak riski ciddi biçimde sunar.",
+      "why_correct": "Yazar çalışmalara ve DSÖ kuruluşunun sınıflandırmasına dayanarak riski ciddi biçimde sunar.",
       "why_others_wrong": "A ters; bilimsel kanıt anılır. B aşırı genelleme; metin 'daha yüksek oranlar' der, herkesin eşit etkilendiğini söylemez."
     }
   },
