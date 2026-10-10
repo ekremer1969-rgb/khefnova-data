@@ -7608,7 +7608,7 @@
     "answer_sense": "(işe) giriş, yürüt; dolaş",
     "answer_syn": "",
     "distractor_verbs": [
-      "set",
+      "baked",
       "turned",
       "came"
     ],
@@ -8089,7 +8089,7 @@
     "answer_sense": "(söylenti) yay, dağıt",
     "answer_syn": "",
     "distractor_verbs": [
-      "spread",
+      "ironed",
       "passed",
       "threw"
     ],
@@ -8455,7 +8455,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "push",
-      "look",
+      "yawn",
       "prepare"
     ],
     "distractor_particles": [
@@ -8524,7 +8524,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "move",
-      "plan",
+      "giggle",
       "see"
     ],
     "distractor_particles": [
@@ -8878,7 +8878,7 @@
     "answer_sense": "(herkese) sor, soruştur",
     "answer_syn": "",
     "distractor_verbs": [
-      "checked",
+      "yawned",
       "looked",
       "called"
     ],
@@ -8952,7 +8952,7 @@
     "answer_sense": "sağa sola koştur, emir yağdır",
     "answer_syn": "",
     "distractor_verbs": [
-      "pushed",
+      "giggled",
       "turned",
       "dragged"
     ],
@@ -9153,7 +9153,7 @@
     "answer_sense": "(fikri) evir çevir tart; oyala",
     "answer_syn": "",
     "distractor_verbs": [
-      "tossed",
+      "shivered",
       "threw",
       "turned"
     ],
@@ -9361,8 +9361,8 @@
     "answer_syn": "",
     "distractor_verbs": [
       "searched",
-      "looked",
-      "snooped"
+      "blushed",
+      "sneezed"
     ],
     "distractor_particles": [
       "up",
@@ -9424,8 +9424,8 @@
     "answer_sense": "ezmeye çalış, sürte",
     "answer_syn": "",
     "distractor_verbs": [
-      "bossed",
-      "ordered",
+      "trembled",
+      "hesitated",
       "dragged"
     ],
     "distractor_particles": [
@@ -9795,7 +9795,7 @@
     "distractor_verbs": [
       "stood",
       "stayed",
-      "sat"
+      "whispered"
     ],
     "distractor_particles": [
       "up",
@@ -10222,7 +10222,7 @@
     "answer_sense": "ortalıkta sürün; aylaklık et",
     "answer_syn": "",
     "distractor_verbs": [
-      "sat",
+      "yawned",
       "stayed",
       "fell"
     ],
@@ -10445,8 +10445,8 @@
     "answer_syn": "",
     "distractor_verbs": [
       "cast",
-      "swept",
-      "pushed"
+      "giggled",
+      "shivered"
     ],
     "distractor_particles": [
       "up",
@@ -10805,7 +10805,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "waved",
-      "swept",
+      "blushed",
       "shoved"
     ],
     "distractor_particles": [
@@ -11361,8 +11361,8 @@
     "answer_syn": "",
     "distractor_verbs": [
       "ran",
-      "locked",
-      "tucked"
+      "sneezed",
+      "trembled"
     ],
     "distractor_particles": [
       "up",
@@ -11627,7 +11627,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "hid",
-      "locked",
+      "hesitated",
       "packed"
     ],
     "distractor_particles": [
@@ -12465,7 +12465,7 @@
     "distractor_verbs": [
       "pulled",
       "took",
-      "won"
+      "whispered"
     ],
     "distractor_particles": [
       "up",
@@ -12714,8 +12714,8 @@
     "answer_sense": "masrafları veya boyutu kısmak, azaltmak",
     "answer_syn": "",
     "distractor_verbs": [
-      "cut",
-      "scaled",
+      "yawned",
+      "giggled",
       "trimmed"
     ],
     "distractor_particles": [
@@ -12839,7 +12839,7 @@
     "distractor_verbs": [
       "turned",
       "pulled",
-      "took"
+      "shivered"
     ],
     "distractor_particles": [
       "up",
@@ -18406,7 +18406,7 @@
     "answer_sense": "aklına gelmek / aniden bulmak",
     "answer_syn": "",
     "distractor_verbs": [
-      "build",
+      "mail",
       "buy",
       "pull"
     ],
@@ -23171,7 +23171,7 @@
     "distractor_verbs": [
       "went",
       "passed",
-      "got"
+      "knitted"
     ],
     "distractor_particles": [
       "up",
@@ -23525,7 +23525,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "look",
-      "go",
+      "bake",
       "check"
     ],
     "distractor_particles": [
@@ -26868,7 +26868,7 @@
     "answer_sense": "telaşla koştur, ortalıkta dört dön",
     "answer_syn": "",
     "distractor_verbs": [
-      "worried",
+      "mailed",
       "rushed",
       "bothered"
     ],
@@ -27772,8 +27772,8 @@
     "answer_sense": "(birinin) adını ver, adına koy",
     "answer_syn": "",
     "distractor_verbs": [
-      "called",
-      "titled",
+      "painted",
+      "baked",
       "labeled"
     ],
     "distractor_particles": [
@@ -29133,7 +29133,7 @@
     "answer_syn": "bring with you",
     "distractor_verbs": [
       "sent",
-      "took",
+      "blushed",
       "carried"
     ],
     "distractor_particles": [
@@ -29477,9 +29477,9 @@
     "answer_sense": "(birbirinden) ayırt etmek",
     "answer_syn": "distinguish",
     "distractor_verbs": [
-      "keep",
-      "pull",
-      "set"
+      "sneeze",
+      "tremble",
+      "hesitate"
     ],
     "distractor_particles": [
       "off",
@@ -29848,7 +29848,7 @@
     "answer_syn": "keep separated",
     "distractor_verbs": [
       "pulled",
-      "set",
+      "blushed",
       "took"
     ],
     "distractor_particles": [
@@ -29995,7 +29995,7 @@
     "answer_sense": "(farklılaşarak) zamanla birbirine yabancılaşmak",
     "answer_syn": "become estranged",
     "distractor_verbs": [
-      "drifted",
+      "sneezed",
       "fell",
       "moved"
     ],
@@ -30448,8 +30448,8 @@
     "verb_form": "nosing",
     "tr_sentence": "Ofisin yakınlarında gizlice araştırma yapan meraklı bir gazeteci görüldü.",
     "tr_hi": "görüldü",
-    "en_full": "A inquisitive journalist was seen nosing around near the office.",
-    "en_prompt": "A inquisitive journalist was seen ___ ___ near the office.",
+    "en_full": "An inquisitive journalist was seen nosing around near the office.",
+    "en_prompt": "An inquisitive journalist was seen ___ ___ near the office.",
     "answer_sense": "burnunu sok, gizlice araştır",
     "answer_syn": "",
     "distractor_verbs": [
@@ -30463,7 +30463,7 @@
       "over"
     ],
     "tokens": [
-      "A inquisitive journalist was seen",
+      "An inquisitive journalist was seen",
       "near the office."
     ],
     "senses": [
@@ -30848,7 +30848,7 @@
     "answer_sense": "ima etmek",
     "answer_syn": "",
     "distractor_verbs": [
-      "pointed",
+      "ironed",
       "aimed",
       "glanced"
     ],
@@ -31935,7 +31935,7 @@
     "answer_sense": "(gemide/uçakta) kaçak yolculuk yapmak; saklanmak",
     "answer_syn": "hide to travel free",
     "distractor_verbs": [
-      "hid",
+      "trembled",
       "snuck",
       "ran"
     ],
@@ -32226,7 +32226,7 @@
     "answer_sense": "yavaş yavaş yok olmak / solmak",
     "answer_syn": "fade, decline",
     "distractor_verbs": [
-      "died",
+      "hesitated",
       "painted",
       "shrank"
     ],
@@ -32374,7 +32374,7 @@
     "answer_sense": "zorla ayırmak / koparmak",
     "answer_syn": "pull forcefully from",
     "distractor_verbs": [
-      "dragged",
+      "whispered",
       "pulled",
       "pushed"
     ],
@@ -32519,7 +32519,7 @@
     "tr_hi": "yavaşça kesildi",
     "en_full": "The loud applause died away after a few minutes.",
     "en_prompt": "The loud applause ___ ___ after a few minutes.",
-    "answer_sense": "(ses/işık) yavaşça kesilmek / sönmek",
+    "answer_sense": "(ses/ışık) yavaşça kesilmek / sönmek",
     "answer_syn": "fade to silence",
     "distractor_verbs": [
       "sent",
@@ -32537,7 +32537,7 @@
     ],
     "senses": [
       {
-        "tr": "(ses/işık) yavaşça kesilmek / sönmek",
+        "tr": "(ses/ışık) yavaşça kesilmek / sönmek",
         "ex": "The loud applause died away after a few minutes.",
         "syn": "fade out"
       },
@@ -32660,7 +32660,7 @@
     "answer_sense": "(vakit) hoşça geçirmek / zaman öldürmek",
     "answer_syn": "pass time pleasantly",
     "distractor_verbs": [
-      "passed",
+      "yawned",
       "spent",
       "wasted"
     ],
@@ -33159,7 +33159,7 @@
     "answer_syn": "respond sharply",
     "distractor_verbs": [
       "shot",
-      "hit",
+      "giggled",
       "came"
     ],
     "distractor_particles": [
@@ -33410,7 +33410,7 @@
     "answer_sense": "arkasına yaslanıp uzanmak",
     "answer_syn": "recline",
     "distractor_verbs": [
-      "sat",
+      "shivered",
       "set",
       "fell"
     ],
@@ -33494,9 +33494,9 @@
     "answer_sense": "terslenmek, öfkeyle laf yetiştirmek",
     "answer_syn": "retort; recover",
     "distractor_verbs": [
-      "fired",
-      "hit",
-      "barked"
+      "blushed",
+      "trembled",
+      "sneezed"
     ],
     "distractor_particles": [
       "out",
@@ -34208,7 +34208,7 @@
     "answer_syn": "comply with",
     "distractor_verbs": [
       "stick",
-      "stand",
+      "bake",
       "keep"
     ],
     "distractor_particles": [
@@ -34271,7 +34271,7 @@
     "answer_sense": "(işi) saplamak, çıkmaza sokmak",
     "answer_syn": "get stuck",
     "distractor_verbs": [
-      "slowed",
+      "trembled",
       "dragged",
       "pulled"
     ],
@@ -34404,7 +34404,7 @@
     "answer_sense": "(işe) sıkı sarılmak, ciddi şekilde çalışmaya başlamak",
     "answer_syn": "apply oneself",
     "distractor_verbs": [
-      "settled",
+      "hesitated",
       "cooked",
       "pushed"
     ],
@@ -34532,7 +34532,7 @@
     "answer_sense": "geri adım atmak, iddiasından vazgeçmek",
     "answer_syn": "back down",
     "distractor_verbs": [
-      "stepped",
+      "whispered",
       "broke",
       "walked"
     ],
@@ -34905,8 +34905,8 @@
     "answer_sense": "buda(mak), kıs(mak), asgariye indir(mek)",
     "answer_syn": "reduce, trim",
     "distractor_verbs": [
-      "cut",
-      "scaled",
+      "yawned",
+      "giggled",
       "brought"
     ],
     "distractor_particles": [
@@ -34974,7 +34974,7 @@
     "answer_sense": "(aramak için) üstünü ara(mak), yokla(mak)",
     "answer_syn": "frisk",
     "distractor_verbs": [
-      "shook",
+      "shivered",
       "knocked",
       "tracked"
     ],
@@ -35151,8 +35151,8 @@
     "answer_sense": "küçült(mek), ölçeğini düşür(mek)",
     "answer_syn": "reduce in scale",
     "distractor_verbs": [
-      "cut",
-      "pared",
+      "trembled",
+      "blushed",
       "turned"
     ],
     "distractor_particles": [
@@ -35456,7 +35456,7 @@
     "answer_sense": "(fiyatı) pazarlıkla düşür(mek), kırdırmak",
     "answer_syn": "reduce by talking",
     "distractor_verbs": [
-      "cut",
+      "hesitated",
       "brought",
       "handed"
     ],
@@ -36883,7 +36883,7 @@
     "answer_syn": "move to earlier",
     "distractor_verbs": [
       "carried",
-      "put",
+      "whispered",
       "pushed"
     ],
     "distractor_particles": [
@@ -37667,7 +37667,7 @@
     "distractor_verbs": [
       "wrote",
       "marked",
-      "booked"
+      "sneezed"
     ],
     "distractor_particles": [
       "out",
@@ -37729,7 +37729,7 @@
     "answer_sense": "aşamalı olarak devreye sokmak",
     "answer_syn": "introduce gradually",
     "distractor_verbs": [
-      "brought",
+      "trembled",
       "pushed",
       "rolled"
     ],
@@ -38074,7 +38074,7 @@
     "answer_sense": "(deftere) imza atıp giriş yapmak",
     "answer_syn": "register on arrival",
     "distractor_verbs": [
-      "checked",
+      "hesitated",
       "dropped",
       "wrote"
     ],
@@ -38371,7 +38371,7 @@
     "answer_syn": "watch or listen to",
     "distractor_verbs": [
       "turned",
-      "logged",
+      "whispered",
       "called"
     ],
     "distractor_particles": [
@@ -38822,7 +38822,7 @@
     "answer_sense": "(yeni eve/işe) yerleşip alışmak",
     "answer_syn": "get comfortable",
     "distractor_verbs": [
-      "moved",
+      "yawned",
       "stayed",
       "lived"
     ],
@@ -38887,7 +38887,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "turned",
-      "ran",
+      "knitted",
       "pulled"
     ],
     "distractor_particles": [
@@ -39034,7 +39034,7 @@
     "answer_sense": "(birikime) el at",
     "answer_syn": "",
     "distractor_verbs": [
-      "tapped",
+      "mailed",
       "reached",
       "drew"
     ],
@@ -39237,7 +39237,7 @@
     "distractor_verbs": [
       "fell",
       "sank",
-      "slipped"
+      "painted"
     ],
     "distractor_particles": [
       "out",
@@ -39373,7 +39373,7 @@
     "distractor_verbs": [
       "dived",
       "fell",
-      "sank"
+      "baked"
     ],
     "distractor_particles": [
       "out",
@@ -40447,7 +40447,7 @@
     "answer_syn": "remove a layer",
     "distractor_verbs": [
       "scraped",
-      "ripped",
+      "giggled",
       "pulled"
     ],
     "distractor_particles": [
@@ -40837,8 +40837,8 @@
     "answer_syn": "close off",
     "distractor_verbs": [
       "showed",
-      "cordoned",
-      "blocked"
+      "shivered",
+      "blushed"
     ],
     "distractor_particles": [
       "up",
@@ -40986,7 +40986,7 @@
     "distractor_verbs": [
       "broke",
       "worked",
-      "shook"
+      "sneezed"
     ],
     "distractor_particles": [
       "away",
@@ -41389,7 +41389,7 @@
     "distractor_verbs": [
       "closed",
       "set",
-      "shut"
+      "yawned"
     ],
     "distractor_particles": [
       "out",
@@ -42373,7 +42373,7 @@
     "answer_syn": "eat as a meal",
     "distractor_verbs": [
       "turned",
-      "snacked",
+      "ironed",
       "brought"
     ],
     "distractor_particles": [
@@ -42589,7 +42589,7 @@
     "distractor_verbs": [
       "put",
       "got",
-      "leaped"
+      "knitted"
     ],
     "distractor_particles": [
       "at",
@@ -42734,7 +42734,7 @@
     "answer_sense": "-e dair haber yapmak, rapor sunmak",
     "answer_syn": "give an account of",
     "distractor_verbs": [
-      "commented",
+      "mailed",
       "elaborated",
       "focused"
     ],
@@ -45747,7 +45747,7 @@
     "answer_sense": "(parayı) istemeye istemeye ödemek, sökülmek",
     "answer_syn": "hand over money",
     "distractor_verbs": [
-      "handed",
+      "painted",
       "paid",
       "coughed"
     ],
@@ -45876,7 +45876,7 @@
     "answer_sense": "ertelemek, bir sonraki oturuma bırakmak",
     "answer_syn": "postpone",
     "distractor_verbs": [
-      "put",
+      "knitted",
       "got",
       "pushed"
     ],
@@ -46031,9 +46031,9 @@
     "answer_sense": "baştan aşağı yenilemek / değiştirmek",
     "answer_syn": "transfer legally",
     "distractor_verbs": [
-      "handed",
-      "turned",
-      "signed"
+      "baked",
+      "ironed",
+      "knitted"
     ],
     "distractor_particles": [
       "out",
@@ -46261,8 +46261,8 @@
     "answer_sense": "enine boyuna konuşmak / detaylıca ele almak",
     "answer_syn": "discuss thoroughly",
     "distractor_verbs": [
-      "thought",
-      "went",
+      "mailed",
+      "painted",
       "looked"
     ],
     "distractor_particles": [
@@ -46337,7 +46337,7 @@
     "answer_syn": "ponder",
     "distractor_verbs": [
       "ran",
-      "talked",
+      "baked",
       "turned"
     ],
     "distractor_particles": [
@@ -46454,7 +46454,7 @@
     "answer_sense": "üstünde havada asılı durmak / dolanmak",
     "answer_syn": "linger above",
     "distractor_verbs": [
-      "hung",
+      "ironed",
       "flew",
       "stayed"
     ],
@@ -46567,7 +46567,7 @@
     "answer_sense": "geceyi başka bir evde geçirmek",
     "answer_syn": "stay the night",
     "distractor_verbs": [
-      "stayed",
+      "knitted",
       "remained",
       "waited"
     ],
@@ -46863,7 +46863,7 @@
     "answer_syn": "worry intensely about",
     "distractor_verbs": [
       "worried",
-      "fretted",
+      "mailed",
       "bothered"
     ],
     "distractor_particles": [
@@ -46921,7 +46921,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "carried",
-      "pulled",
+      "painted",
       "dragged"
     ],
     "distractor_particles": [
@@ -47284,7 +47284,7 @@
     "distractor_verbs": [
       "pushed",
       "drilled",
-      "plowed"
+      "baked"
     ],
     "distractor_particles": [
       "over",
@@ -48095,7 +48095,7 @@
     "answer_syn": "read quickly",
     "distractor_verbs": [
       "looked",
-      "read",
+      "baked",
       "went"
     ],
     "distractor_particles": [
@@ -48594,7 +48594,7 @@
     "distractor_verbs": [
       "made",
       "mixed",
-      "put"
+      "giggled"
     ],
     "distractor_particles": [
       "up",
@@ -48668,7 +48668,7 @@
     "distractor_verbs": [
       "joined",
       "worked",
-      "grouped"
+      "trembled"
     ],
     "distractor_particles": [
       "up",
@@ -49229,7 +49229,7 @@
     "answer_syn": "avoid",
     "distractor_verbs": [
       "stay",
-      "get",
+      "iron",
       "come"
     ],
     "distractor_particles": [
@@ -49821,7 +49821,7 @@
     "distractor_verbs": [
       "walk",
       "cook",
-      "stand"
+      "knit"
     ],
     "distractor_particles": [
       "out of",
@@ -49893,7 +49893,7 @@
     "answer_sense": "(sistemden / anlaşmadan) çekilmeyi tercih etmek",
     "answer_syn": "choose to leave",
     "distractor_verbs": [
-      "pulled",
+      "ironed",
       "stepped",
       "backed"
     ],
@@ -50041,7 +50041,7 @@
     "answer_sense": "(odaklanarak bir işe) koyulmak",
     "answer_syn": "begin concentrating on",
     "distractor_verbs": [
-      "got",
+      "knitted",
       "sat",
       "turned"
     ],
@@ -50559,7 +50559,7 @@
     "distractor_verbs": [
       "walked",
       "pressed",
-      "cut"
+      "ironed"
     ],
     "distractor_particles": [
       "away from",
@@ -51272,7 +51272,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "walk",
-      "make",
+      "bake",
       "keep"
     ],
     "distractor_particles": [
@@ -51993,7 +51993,7 @@
     "answer_sense": "-i alıp kaç; -le kaç",
     "answer_syn": "",
     "distractor_verbs": [
-      "made",
+      "mailed",
       "got",
       "took"
     ],
@@ -52053,7 +52053,7 @@
     "answer_sense": "(sorunla) yiğitçe yüzleş; kapış",
     "answer_syn": "",
     "distractor_verbs": [
-      "faced",
+      "painted",
       "stood",
       "came"
     ],
@@ -52292,7 +52292,7 @@
     "answer_sense": "(yavaş yavaş) -e hazırlan, doğru ilerle",
     "answer_syn": "",
     "distractor_verbs": [
-      "built",
+      "baked",
       "came",
       "got"
     ],
@@ -52644,7 +52644,7 @@
     "answer_sense": "-e karşı sertleş, yasak getir",
     "answer_syn": "",
     "distractor_verbs": [
-      "cracked",
+      "ironed",
       "crushed",
       "cut"
     ],
@@ -52877,7 +52877,7 @@
     "answer_syn": "",
     "distractor_verbs": [
       "backed",
-      "chicken",
+      "knitted",
       "opted"
     ],
     "distractor_particles": [
@@ -53054,7 +53054,7 @@
     "answer_sense": "(birinin) yerine bak, vekâlet et",
     "answer_syn": "",
     "distractor_verbs": [
-      "stood",
+      "mailed",
       "acted",
       "stepped"
     ],
@@ -53417,7 +53417,7 @@
     "answer_sense": "-e kilitlen, doğrudan yönel",
     "answer_syn": "",
     "distractor_verbs": [
-      "zeroed",
+      "painted",
       "focused",
       "locked"
     ],
@@ -53472,7 +53472,7 @@
     "answer_sense": "(biriyle) buluş, iş birliği yap",
     "answer_syn": "",
     "distractor_verbs": [
-      "teamed",
+      "baked",
       "joined",
       "linked"
     ],
@@ -53891,7 +53891,7 @@
     "answer_sense": "-i alıp kaçmak / çalıp götürmek",
     "answer_syn": "steal",
     "distractor_verbs": [
-      "ran",
+      "ironed",
       "got",
       "walked"
     ],
@@ -54169,7 +54169,7 @@
     "distractor_verbs": [
       "sat",
       "stepped",
-      "filled"
+      "knitted"
     ],
     "distractor_particles": [
       "out of",
@@ -54300,7 +54300,7 @@
     "answer_sense": "ağzını sıkı tutmak / susmak",
     "answer_syn": "fall silent",
     "distractor_verbs": [
-      "shut",
+      "hesitated",
       "locked",
       "froze"
     ],
@@ -54360,7 +54360,7 @@
     "answer_syn": "concoct",
     "distractor_verbs": [
       "gave",
-      "thought",
+      "whispered",
       "built"
     ],
     "distractor_particles": [
@@ -54788,7 +54788,7 @@
     "answer_syn": "erupt suddenly",
     "distractor_verbs": [
       "broke",
-      "acted",
+      "yawned",
       "came"
     ],
     "distractor_particles": [
@@ -54846,9 +54846,9 @@
     "answer_sense": "elini yüzünü yıkamak / tazelenmek",
     "answer_syn": "wash and refresh",
     "distractor_verbs": [
-      "cleaned",
+      "giggled",
       "rested",
-      "washed"
+      "shivered"
     ],
     "distractor_particles": [
       "out",
@@ -55071,7 +55071,7 @@
     "distractor_verbs": [
       "pushed",
       "raised",
-      "bumped"
+      "blushed"
     ],
     "distractor_particles": [
       "out",
@@ -55365,7 +55365,7 @@
     "answer_sense": "cesur olmak / zorluklara erkekçe/mertçe göğüs germek",
     "answer_syn": "be brave",
     "distractor_verbs": [
-      "stepped",
+      "sneezed",
       "stood",
       "faced"
     ],
@@ -55434,7 +55434,7 @@
     "answer_sense": "eşleşmek / ikili grup oluşturmak",
     "answer_syn": "form pairs",
     "distractor_verbs": [
-      "teamed",
+      "trembled",
       "joined",
       "grouped"
     ],
@@ -55505,7 +55505,7 @@
     "distractor_verbs": [
       "showed",
       "broke",
-      "picked"
+      "hesitated"
     ],
     "distractor_particles": [
       "out",
@@ -55646,8 +55646,8 @@
     "answer_sense": "güçlendirmek / takviye etmek",
     "answer_syn": "strengthen",
     "distractor_verbs": [
-      "built",
-      "backed",
+      "whispered",
+      "yawned",
       "fixed"
     ],
     "distractor_particles": [
@@ -55720,8 +55720,8 @@
     "answer_sense": "(sınava/konuya) sıkı çalışmak / hızlıca hazırlanmak",
     "answer_syn": "study intensively",
     "distractor_verbs": [
-      "brushed",
-      "read",
+      "giggled",
+      "shivered",
       "worked"
     ],
     "distractor_particles": [
@@ -55991,7 +55991,7 @@
     "answer_sense": "(vücut) kas kütlesi kazanmak / iri yapılı hale gelmek",
     "answer_syn": "gain muscle",
     "distractor_verbs": [
-      "built",
+      "blushed",
       "grew",
       "shaped"
     ],
@@ -56060,7 +56060,7 @@
     "answer_sense": "(soğuğa karşı) kalın giydirmek / sarıp sarmalamak",
     "answer_syn": "wrap warmly",
     "distractor_verbs": [
-      "dressed",
+      "sneezed",
       "gave",
       "packed"
     ],
@@ -57659,8 +57659,8 @@
     "answer_sense": "güvenlik şeridiyle kapatmak",
     "answer_syn": "seal off",
     "distractor_verbs": [
-      "fenced",
-      "blocked",
+      "trembled",
+      "hesitated",
       "closed"
     ],
     "distractor_particles": [
@@ -58336,8 +58336,8 @@
     "answer_sense": "üstünde çok durmak, takılmak",
     "answer_syn": "linger over",
     "distractor_verbs": [
-      "focus",
-      "harp",
+      "iron",
+      "knit",
       "insist"
     ],
     "distractor_particles": [
@@ -58400,7 +58400,7 @@
     "answer_syn": "expand on",
     "distractor_verbs": [
       "walk",
-      "touch",
+      "paint",
       "comment"
     ],
     "distractor_particles": [
@@ -58881,8 +58881,8 @@
     "answer_syn": "interject, interrupt, join in",
     "distractor_verbs": [
       "stepped",
-      "chipped",
-      "cut"
+      "whispered",
+      "yawned"
     ],
     "distractor_particles": [
       "out",
@@ -58946,7 +58946,7 @@
     "distractor_verbs": [
       "bring",
       "drag",
-      "close"
+      "shiver"
     ],
     "distractor_particles": [
       "out",
@@ -59137,7 +59137,7 @@
     "distractor_verbs": [
       "let",
       "break",
-      "blend"
+      "blush"
     ],
     "distractor_particles": [
       "out",
@@ -59200,7 +59200,7 @@
     "answer_syn": "collect, harvest, bring in",
     "distractor_verbs": [
       "filled",
-      "brought",
+      "giggled",
       "checked"
     ],
     "distractor_particles": [
@@ -59265,7 +59265,7 @@
     "distractor_verbs": [
       "chipped",
       "dropped",
-      "dived"
+      "shivered"
     ],
     "distractor_particles": [
       "out",
@@ -59626,7 +59626,7 @@
     "answer_sense": "(fırsatı) kaçırmak / -den mahrum kalmak",
     "answer_syn": "miss out on",
     "distractor_verbs": [
-      "missed",
+      "mailed",
       "dropped",
       "passed"
     ],
@@ -59741,8 +59741,8 @@
     "answer_syn": "force one's way into",
     "distractor_verbs": [
       "push",
-      "barge",
-      "cut"
+      "mail",
+      "paint"
     ],
     "distractor_particles": [
       "up with",
@@ -59805,7 +59805,7 @@
     "answer_sense": "(biriyle) ahbap olmak / arkadaş olmak",
     "answer_syn": "become friends with",
     "distractor_verbs": [
-      "teamed",
+      "painted",
       "met",
       "paired"
     ],
@@ -65047,7 +65047,7 @@
         "diff": "consider genel olarak düşünmektir; weigh up seçenekleri karşılaştırıp tartmaktır."
       }
     ],
-    "origin": "İddia edilir ki terazide iki kefeyi tartmaktan (weigh) gelir: seçeneklerin artısını eksisini tartmak."
+    "origin": "İddia edilir ki terazide iki kefeyi tartmaktan (weigh) gelir: seçeneklerin artışını eksisini tartmak."
   },
   {
     "id": "draw_up",
