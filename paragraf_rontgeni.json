@@ -2153,7 +2153,7 @@
   "id": "pxr051",
   "topic": "Tourism Economics (Business)",
   "paragraph_raw": "Local residents complain that international tourism always destroys the unique cultural identity of small cities. Welcoming thousands of foreign visitors indeed increases street noise and crowds some commercial zones. The real picture is that global interest motivates local communities to preserve traditional arts. For instance, towns that hosted regular tourist festivals saw a major revival in traditional woodcarving and dance schools. Therefore, managed tourism represents a positive force that preserves cultural heritage rather than erasing it.",
-  "tr": "Yerel sakinler, uluslararası turizmin küçük şehirlerin benzersiz kültürel kimliğini her zaman yok ettiğinden şikayet etmektedir. Binlerce yabancı ziyaretçiyi ağırlamak sokak gürültüsünü gerçekten de artırır ve some ticari alanları kalabalıklaştırır. Gerçek tablo ise küresel ilginin yerel toplulukları geleneksel sanatları koruma konusunda motive ettiğidir. Örneğin, düzenli turist festivallerine ev sahipliği yapan kasabalar geleneksel ahşap oymacılığı ve dans okullarında büyük bir canlanma gördü. Bu nedenle, kontrollü turizm kültürel mirası silmek yerine koruyan olumlu bir güç temsil eder.",
+  "tr": "Yerel sakinler, uluslararası turizmin küçük şehirlerin benzersiz kültürel kimliğini her zaman yok ettiğinden şikayet etmektedir. Binlerce yabancı ziyaretçiyi ağırlamak sokak gürültüsünü gerçekten de artırır ve bazı ticari alanları kalabalıklaştırır. Gerçek tablo ise küresel ilginin yerel toplulukları geleneksel sanatları koruma konusunda motive ettiğidir. Örneğin, düzenli turist festivallerine ev sahipliği yapan kasabalar geleneksel ahşap oymacılığı ve dans okullarında büyük bir canlanma gördü. Bu nedenle, kontrollü turizm kültürel mirası silmek yerine koruyan olumlu bir güç temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -11096,7 +11096,7 @@
  {
   "id": "pxr259",
   "topic": "Vertical Farming (Agriculture)",
-  "paragraph_raw": "Most commercial farmers assume that vertical indoor farming can never match the yield of open fields. Running thousands of indoor grow lights indeed consumes more electricity than traditional outdoor farming. Controlled vertical shelves, instead of limiting production, actually generate much higher annual yields per square meter. A agricultural report of ten vertical farms showed a thirty fold increase in seasonal vegetable outputs. Hence, indoor stacked cultivation represents a highly sustainable model to feed crowded urban centers.",
+  "paragraph_raw": "Most commercial farmers assume that vertical indoor farming can never match the yield of open fields. Running thousands of indoor grow lights indeed consumes more electricity than traditional outdoor farming. Controlled vertical shelves, instead of limiting production, actually generate much higher annual yields per square meter. An agricultural report of ten vertical farms showed a thirty fold increase in seasonal vegetable outputs. Hence, indoor stacked cultivation represents a highly sustainable model to feed crowded urban centers.",
   "tr": "Çoğu ticari çiftçi, dikey kapalı alan tarımının açık tarlaların verimiyle asla eşleşemeyeceğini varsayar. Binlerce kapalı yetiştirme ışığını çalıştırmak gerçekten de geleneksel açık hava tarımından daha fazla elektrik tüketir. Kontrollü dikey raflar ise üretimi sınırlamak yerine, metrekare başına aslında çok daha yüksek yıllık verim üretmektedir. On dikey çiftliği kapsayan bir tarım raporu, mevsimlik sebze çıktılarında otuz katlık bir artış gösterdi. Bu nedenle, kapalı alanda dikey üretim kalabalık kentsel merkezleri beslemek için son derece sürdürülebilir bir model temsil eder.",
   "scaffolding": [
    {
@@ -11122,7 +11122,7 @@
    },
    {
     "sentence_index": 3,
-    "text": "A agricultural report of ten vertical farms showed a thirty fold increase in seasonal vegetable outputs.",
+    "text": "An agricultural report of ten vertical farms showed a thirty fold increase in seasonal vegetable outputs.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
     "why": "On kapalı dikey çiftlikten alınan otuz kat yüksek ürün verisi sunan tarım raporuyla karşı tezi kanıtlar."
