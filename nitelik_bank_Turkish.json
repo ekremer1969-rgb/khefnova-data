@@ -3715,7 +3715,7 @@
       "tr": "Müdür mevcut durumdan oldukça memnundu.",
       "sentence": "The manager was quite happy with the present situation.",
       "answer": "present",
-      "answer_tr": "şuanki",
+      "answer_tr": "şu anki",
       "modDistractors": [
         "past",
         "future",
@@ -12832,8 +12832,8 @@
       "id": "nk_b2_676",
       "level": "B2",
       "pos": "adv",
-      "tr": "Onlar yeni şehre kalıcı bir şekilde taşındılar",
-      "sentence": "They moved to the new city permanently last year",
+      "tr": "Onlar yeni şehre kalıcı bir şekilde taşındılar.",
+      "sentence": "They moved to the new city permanently last year.",
       "answer": "permanently",
       "answer_tr": "kalıcı bir şekilde",
       "modDistractors": [
@@ -12851,8 +12851,8 @@
       "id": "nk_b2_677",
       "level": "B2",
       "pos": "adv",
-      "tr": "O sınavda dikkate değer şekilde başarılı oldu",
-      "sentence": "She did remarkably well in her final exams",
+      "tr": "O sınavda dikkate değer şekilde başarılı oldu.",
+      "sentence": "She did remarkably well in her final exams.",
       "answer": "remarkably",
       "answer_tr": "dikkate değer şekilde",
       "modDistractors": [
@@ -12870,8 +12870,8 @@
       "id": "nk_c1_678",
       "level": "C1",
       "pos": "adv",
-      "tr": "Bazı ürünler kurak hava koşullarında aksine başarısız olabilir",
-      "sentence": "Some crops may conversely fail in dry weather conditions",
+      "tr": "Bazı ürünler kurak hava koşullarında aksine başarısız olabilir.",
+      "sentence": "Some crops may conversely fail in dry weather conditions.",
       "answer": "conversely",
       "answer_tr": "aksine",
       "modDistractors": [
@@ -12889,8 +12889,8 @@
       "id": "nk_b2_679",
       "level": "B2",
       "pos": "adv",
-      "tr": "Fiyatlar geçen ay önemli derecede arttı",
-      "sentence": "Prices increased dramatically last month",
+      "tr": "Fiyatlar geçen ay önemli derecede arttı.",
+      "sentence": "Prices increased dramatically last month.",
       "answer": "dramatically",
       "answer_tr": "önemli derecede",
       "modDistractors": [
@@ -12908,8 +12908,8 @@
       "id": "nk_c1_680",
       "level": "C1",
       "pos": "adv",
-      "tr": "Bu karar onun hayatını derinden etkiledi",
-      "sentence": "This decision profoundly affected his life",
+      "tr": "Bu karar onun hayatını derinden etkiledi.",
+      "sentence": "This decision profoundly affected his life.",
       "answer": "profoundly",
       "answer_tr": "derinden",
       "modDistractors": [
@@ -12927,8 +12927,8 @@
       "id": "nk_b2_681",
       "level": "B2",
       "pos": "adv",
-      "tr": "O çocukluğundaki o olayı belirsiz şekilde hatırlıyor",
-      "sentence": "He vaguely remembers that event from childhood",
+      "tr": "O çocukluğundaki o olayı belirsiz şekilde hatırlıyor.",
+      "sentence": "He vaguely remembers that event from childhood.",
       "answer": "vaguely",
       "answer_tr": "belirsiz şekilde",
       "modDistractors": [
@@ -12946,8 +12946,8 @@
       "id": "nk_b2_682",
       "level": "B2",
       "pos": "adv",
-      "tr": "O çok çalıştı ve sonuç olarak sınavı geçti",
-      "sentence": "He studied hard and consequently passed the exam",
+      "tr": "O çok çalıştı ve sonuç olarak sınavı geçti.",
+      "sentence": "He studied hard and consequently passed the exam.",
       "answer": "consequently",
       "answer_tr": "sonuç olarak",
       "modDistractors": [
@@ -12965,8 +12965,8 @@
       "id": "nk_b2_683",
       "level": "B2",
       "pos": "adv",
-      "tr": "Bu bölge insanlarla yoğun şekilde nüfuslanmıştır",
-      "sentence": "This region is densely populated with people",
+      "tr": "Bu bölge insanlarla yoğun şekilde nüfuslanmıştır.",
+      "sentence": "This region is densely populated with people.",
       "answer": "densely",
       "answer_tr": "yoğun şekilde",
       "modDistractors": [
@@ -12984,8 +12984,8 @@
       "id": "nk_b2_684",
       "level": "B2",
       "pos": "adv",
-      "tr": "O o kokuyu belirgin şekilde hatırlıyordu",
-      "sentence": "She distinctly remembered that unique smell",
+      "tr": "O o kokuyu belirgin şekilde hatırlıyordu.",
+      "sentence": "She distinctly remembered that unique smell.",
       "answer": "distinctly",
       "answer_tr": "belirgin şekilde",
       "modDistractors": [
@@ -13003,8 +13003,8 @@
       "id": "nk_b2_685",
       "level": "B2",
       "pos": "adv",
-      "tr": "O şu anda yeni bir proje üzerinde çalışıyor",
-      "sentence": "She is presently working on a new project",
+      "tr": "O şu anda yeni bir proje üzerinde çalışıyor.",
+      "sentence": "She is presently working on a new project.",
       "answer": "presently",
       "answer_tr": "şu anda",
       "modDistractors": [
@@ -13022,8 +13022,8 @@
       "id": "nk_b2_686",
       "level": "B2",
       "pos": "adv",
-      "tr": "Köyün ekonomisi başlıca tarıma dayanır",
-      "sentence": "The village economy relies chiefly on agriculture",
+      "tr": "Köyün ekonomisi başlıca tarıma dayanır.",
+      "sentence": "The village economy relies chiefly on agriculture.",
       "answer": "chiefly",
       "answer_tr": "başlıca",
       "modDistractors": [
@@ -13041,8 +13041,8 @@
       "id": "nk_b2_687",
       "level": "B2",
       "pos": "adv",
-      "tr": "Biz şans eseri trene zamanında yetiştik",
-      "sentence": "We fortunately caught the train on time",
+      "tr": "Biz şans eseri trene zamanında yetiştik.",
+      "sentence": "We fortunately caught the train on time.",
       "answer": "fortunately",
       "answer_tr": "şans eseri",
       "modDistractors": [
@@ -13060,8 +13060,8 @@
       "id": "nk_b2_688",
       "level": "B2",
       "pos": "adv",
-      "tr": "O olağanüstü yetenekli bir genç müzisyendir",
-      "sentence": "He is an exceptionally talented young musician",
+      "tr": "O olağanüstü yetenekli bir genç müzisyendir.",
+      "sentence": "He is an exceptionally talented young musician.",
       "answer": "exceptionally",
       "answer_tr": "olağanüstü",
       "modDistractors": [
@@ -13079,8 +13079,8 @@
       "id": "nk_b1_689",
       "level": "B1",
       "pos": "adv",
-      "tr": "Toplantı yaklaşık olarak iki saat sürdü",
-      "sentence": "The meeting lasted approximately two hours",
+      "tr": "Toplantı yaklaşık olarak iki saat sürdü.",
+      "sentence": "The meeting lasted approximately two hours.",
       "answer": "approximately",
       "answer_tr": "yaklaşık olarak",
       "modDistractors": [
@@ -13098,8 +13098,8 @@
       "id": "nk_b1_690",
       "level": "B1",
       "pos": "adv",
-      "tr": "O son zamanlarda çok yorgun görünüyor",
-      "sentence": "She has been feeling very tired lately",
+      "tr": "O son zamanlarda çok yorgun görünüyor.",
+      "sentence": "She has been feeling very tired lately.",
       "answer": "lately",
       "answer_tr": "son zamanlarda",
       "modDistractors": [
@@ -13117,8 +13117,8 @@
       "id": "nk_b2_691",
       "level": "B2",
       "pos": "adv",
-      "tr": "Satışlar bu yıl önemli derecede arttı",
-      "sentence": "Sales increased substantially this year",
+      "tr": "Satışlar bu yıl önemli derecede arttı.",
+      "sentence": "Sales increased substantially this year.",
       "answer": "substantially",
       "answer_tr": "önemli derecede",
       "modDistractors": [
@@ -13136,8 +13136,8 @@
       "id": "nk_c1_692",
       "level": "C1",
       "pos": "adv",
-      "tr": "O kendisine yönelik tüm iddiaları şiddetle reddetti",
-      "sentence": "He vehemently denied all allegations against him",
+      "tr": "O kendisine yönelik tüm iddiaları şiddetle reddetti.",
+      "sentence": "He vehemently denied all allegations against him.",
       "answer": "vehemently",
       "answer_tr": "şiddetle",
       "modDistractors": [
@@ -13155,8 +13155,8 @@
       "id": "nk_b2_693",
       "level": "B2",
       "pos": "adv",
-      "tr": "Toplantı herhangi bir uyarı olmadan aniden sona erdi",
-      "sentence": "The meeting ended abruptly without any warning",
+      "tr": "Toplantı herhangi bir uyarı olmadan aniden sona erdi.",
+      "sentence": "The meeting ended abruptly without any warning.",
       "answer": "abruptly",
       "answer_tr": "aniden",
       "modDistractors": [
@@ -13174,8 +13174,8 @@
       "id": "nk_b2_694",
       "level": "B2",
       "pos": "adv",
-      "tr": "Proje bütçe sorunları nedeniyle belirsiz şekilde ertelendi",
-      "sentence": "The project was postponed indefinitely due to budget issues",
+      "tr": "Proje bütçe sorunları nedeniyle belirsiz şekilde ertelendi.",
+      "sentence": "The project was postponed indefinitely due to budget issues.",
       "answer": "indefinitely",
       "answer_tr": "belirsiz şekilde",
       "modDistractors": [
@@ -13193,8 +13193,8 @@
       "id": "nk_b2_695",
       "level": "B2",
       "pos": "adv",
-      "tr": "O zor sınav için yeterince hazırlanmadı",
-      "sentence": "He was not sufficiently prepared for the difficult exam",
+      "tr": "O zor sınav için yeterince hazırlanmadı.",
+      "sentence": "He was not sufficiently prepared for the difficult exam.",
       "answer": "sufficiently",
       "answer_tr": "yeterince",
       "modDistractors": [
@@ -13212,8 +13212,8 @@
       "id": "nk_b2_696",
       "level": "B2",
       "pos": "adv",
-      "tr": "Onlar bahçede gelişigüzel sohbet ediyorlardı",
-      "sentence": "They were talking casually in the quiet garden",
+      "tr": "Onlar bahçede gelişigüzel sohbet ediyorlardı.",
+      "sentence": "They were talking casually in the quiet garden.",
       "answer": "casually",
       "answer_tr": "gelişigüzel",
       "modDistractors": [
@@ -13231,8 +13231,8 @@
       "id": "nk_b2_697",
       "level": "B2",
       "pos": "adv",
-      "tr": "O yeni iş teklifini gönülsüzce kabul etti",
-      "sentence": "She reluctantly accepted the new job offer",
+      "tr": "O yeni iş teklifini gönülsüzce kabul etti.",
+      "sentence": "She reluctantly accepted the new job offer.",
       "answer": "reluctantly",
       "answer_tr": "gönülsüzce",
       "modDistractors": [
@@ -13250,8 +13250,8 @@
       "id": "nk_b2_698",
       "level": "B2",
       "pos": "adv",
-      "tr": "O o yoğun siste hemen hemen hiç göremiyordu",
-      "sentence": "He could scarcely see anything in the thick fog",
+      "tr": "O o yoğun siste hemen hemen hiç göremiyordu.",
+      "sentence": "He could scarcely see anything in the thick fog.",
       "answer": "scarcely",
       "answer_tr": "hemen hemen hiç",
       "modDistractors": [
@@ -13269,8 +13269,8 @@
       "id": "nk_c1_699",
       "level": "C1",
       "pos": "adv",
-      "tr": "Tatlı su kaynakları bu bölgede bolca mevcuttur",
-      "sentence": "Fresh water resources are abundantly available in this region",
+      "tr": "Tatlı su kaynakları bu bölgede bolca mevcuttur.",
+      "sentence": "Fresh water resources are abundantly available in this region.",
       "answer": "abundantly",
       "answer_tr": "bolca",
       "modDistractors": [
@@ -13288,8 +13288,8 @@
       "id": "nk_b2_700",
       "level": "B2",
       "pos": "adv",
-      "tr": "O maç sırasında aynı hatayı tekrar tekrar yaptı",
-      "sentence": "He made the same mistake repeatedly during the match",
+      "tr": "O maç sırasında aynı hatayı tekrar tekrar yaptı.",
+      "sentence": "He made the same mistake repeatedly during the match.",
       "answer": "repeatedly",
       "answer_tr": "tekrar tekrar",
       "modDistractors": [
@@ -14630,7 +14630,7 @@
       "mod_tr": {
         "attentively": "dikkatlice",
         "eagerly": "hevesle",
-        "warmly": "sicak bir şekilde"
+        "warmly": "sıcak bir şekilde"
       }
     },
     {
