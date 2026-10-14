@@ -93,7 +93,7 @@
     "id": "ss011",
     "type": "Zaman",
     "text": "Over the {past} two {decades}, astronomers ___ more than 5,000 planets outside our solar system.",
-    "options": ["have discovered", "will have discovered", "discovered", "had discovered", "were discovering"],
+    "options": ["have discovered", "will have discovered", "are discovering", "had discovered", "were discovering"],
     "answer": "have discovered",
     "why": "Zaman sorusunda önce zaman ifadesini avla: 'over the past two decades' (son yirmi yılda) bugüne kadar uzanan bir dönemdir → Present Perfect: 'have discovered'. YDS'de 'over/in the past/last … years' neredeyse her zaman Present Perfect ister.",
     "tr": "Son yirmi yılda gökbilimciler güneş sistemimizin dışında 5.000'den fazla gezegen keşfetti."
@@ -336,7 +336,7 @@
     "id": "ss038",
     "type": "Zaman",
     "text": "House prices in big cities ___ sharply in {recent} {years}.",
-    "options": ["are rising", "rose", "have risen", "will rise", "had risen"],
+    "options": ["are rising", "were rising", "have risen", "will rise", "had risen"],
     "answer": "have risen",
     "why": "'in recent years' (son yıllarda) bugüne uzanan dönemi anlatır → Present Perfect: 'have risen'. Bu ifade YDS'de Present Perfect'in en tipik işaretlerinden biridir.",
     "tr": "Son yıllarda büyük şehirlerde konut fiyatları keskin biçimde yükseldi."
@@ -1164,9 +1164,9 @@
     "id": "ss130",
     "type": "Edilgen",
     "text": "{By} the {time} the firefighters arrived, the old warehouse ___ completely destroyed.",
-    "options": ["was being", "would", "is", "has been", "had been"],
+    "options": ["will have been", "would", "is", "has been", "had been"],
     "answer": "had been",
-    "why": "'By the time' + geçmiş (arrived): itfaiye gelmeden ÖNCE depo çoktan yok olmuştu → Past Perfect edilgen: 'had been destroyed'. 'was being' yıkımı o anda süren bir iş yapar; 'completely' ile uyuşmaz.",
+    "why": "'By the time' + geçmiş (arrived): itfaiye gelmeden ÖNCE depo çoktan yok olmuştu → Past Perfect edilgen: 'had been destroyed'. 'will have been' gelecek zamana aittir; 'is' ve 'would' da geçmiş zamanlı cümleyle uyuşmaz.",
     "tr": "İtfaiyeciler geldiğinde eski depo tamamen yok olmuştu."
   },
   {
@@ -1587,7 +1587,7 @@
     "id": "ss177",
     "type": "Koşul",
     "text": "If the polar ice caps ___ completely, many coastal cities {would} {disappear} under water.",
-    "options": ["have melted", "melted", "will melt", "melt", "had melted"],
+    "options": ["have melted", "melted", "will melt", "would melt", "had melted"],
     "answer": "melted",
     "why": "Sonuçta 'would disappear' (would + V1) var → Type 2; koşul yarımı Past Simple: 'melted'. 'had melted' 'would have disappeared' isterdi.",
     "tr": "Kutup buzulları tamamen erirse birçok kıyı kenti sular altında kalırdı."
@@ -1857,7 +1857,7 @@
     "id": "ss207",
     "type": "Öbek fiil",
     "text": "The internet has ___ major {changes} in the way people work and communicate.",
-    "options": ["turned down", "brought about", "put off", "set off", "brought up"],
+    "options": ["turned down", "brought about", "put off", "given up", "brought up"],
     "answer": "brought about",
     "why": "Nesne 'changes' (değişiklikler): değişikliğe YOL AÇMAK → 'bring about' (≈ cause). 'brought up' çocuk yetiştirmek ya da bir konuyu açmaktır.",
     "tr": "İnternet insanların çalışma ve iletişim kurma biçiminde büyük değişikliklere yol açtı."
@@ -1877,7 +1877,7 @@
     "text": "The rebels {refused} to ___ even after weeks of heavy {fighting}.",
     "options": ["give off", "look up", "set up", "give in", "take off"],
     "answer": "give in",
-    "why": "Haftalarca süren 'fighting' (çatışma) ve 'refused' (reddettiler) → teslim olmayı reddettiler: 'give in' (≈ surrender). Pilottaki 'gave in' ile aynı anlam: boyun eğmek.",
+    "why": "Haftalarca süren 'fighting' (çatışma) ve 'refused' (reddettiler) → teslim olmayı reddettiler: 'give in' (≈ surrender). Aynı kalıp 'boyun eğmek, pes etmek' anlamında da kullanılır.",
     "tr": "İsyancılar haftalarca süren şiddetli çatışmalardan sonra bile teslim olmayı reddetti."
   },
   {
