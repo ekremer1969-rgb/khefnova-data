@@ -103,7 +103,7 @@
     "distractors": [
       "do",
       "take",
-      "have"
+      "give"
     ],
     "note": "Plan oluşturmak/tasarlamak 'make a plan' ile belirtilir; 'do a plan' yanlıştır."
   },
@@ -123,7 +123,7 @@
       "have",
       "take"
     ],
-    "note": "'Söz vermek' anlamında 'make a promise' kullanılır; 'give a promise' de doğrudur ama 'do' verilmez."
+    "note": "'Söz vermek' anlamında 'make a promise' kullanılır; 'do a promise' ise yanlıştır."
   },
   {
     "id": "col_vn_0008",
@@ -157,7 +157,7 @@
     "distractors": [
       "do",
       "give",
-      "have"
+      "see"
     ],
     "note": "'Telefon araması yapmak' 'make a call' olarak söylenir; 'do a phone call' hatalı bir kullanımdır."
   },
@@ -282,10 +282,10 @@
     "tr_full": "Her sabah egzersiz yapmak sağlıklıdır.",
     "distractors": [
       "make",
-      "take",
+      "play",
       "have"
     ],
-    "note": "Bedensel aktivite ve sporda 'do exercise' veya 'take exercise' kullanılır; 'make exercise' yanlıştır."
+    "note": "Bedensel aktivite ve sporda 'do exercise' kullanılır (İngiliz İngilizcesinde 'take exercise' de olur); 'make exercise' yanlıştır."
   },
   {
     "id": "col_vn_0017",
@@ -313,7 +313,7 @@
     "verb": "do",
     "rest": "research",
     "tr": "araştırma yapmak",
-    "en_prompt": "Scientists ___ research to find a cured cure for diseases.",
+    "en_prompt": "Scientists ___ research to find a cure for diseases.",
     "en_full": "Scientists do research to find a cure for diseases.",
     "tr_full": "Bilim insanları hastalıklara çare bulmak için araştırma yaparlar.",
     "distractors": [
@@ -495,13 +495,13 @@
     "tr": "sırayla yapmak",
     "en_prompt": "The students ___ turns to answer the questions.",
     "en_full": "The students take turns to answer the questions.",
-    "tr_full": "Öğrenciler soruları cevaplamak için sırayla hareket ederler.",
+    "tr_full": "Öğrenciler soruları sırayla cevaplar.",
     "distractors": [
       "make",
       "do",
       "have"
     ],
-    "note": "Sırayla bir iş yapmak 'take turns' kelimesidir; 'do turns' veya 'make turns' hatalıdır."
+    "note": "Sırayla bir iş yapmak 'take turns' kalıbıdır; 'do turns' veya 'make turns' hatalıdır."
   },
   {
     "id": "col_vn_0029",
@@ -609,7 +609,7 @@
       "do",
       "take"
     ],
-    "note": "Dikkat etmek 'pay attention' şeklindedir; 'give attention' veya 'take attention' çeldiricileri yanlıştır."
+    "note": "Dikkat etmek 'pay attention' şeklindedir; 'make/do/take attention' yanlıştır."
   },
   {
     "id": "col_vn_0035",
@@ -859,7 +859,7 @@
     "distractors": [
       "make",
       "do",
-      "drive"
+      "walk"
     ],
     "note": "İşletme çalıştırmak/yönetmek için 'run' kullanılır; Türkçedeki 'yapmak' mantığıyla 'make/do a business' kullanımı yanlıştır."
   },
@@ -893,11 +893,11 @@
     "en_full": "We worked hard yesterday to meet the tight deadline.",
     "tr_full": "Dün sıkışık teslim tarihine yetişmek için çok çalıştık.",
     "distractors": [
-      "make",
+      "break",
       "do",
       "take"
     ],
-    "note": "Son teslim tarihine uymak/yetişmek 'meet a deadline' ile ifade edilir; 'make/do a deadline' yaygın bir hatadır."
+    "note": "Son teslim tarihine uymak/yetişmek 'meet a deadline' ile ifade edilir; 'do a deadline' Türkçe düşünme hatasıdır."
   },
   {
     "id": "col_vn_0051",
@@ -1077,7 +1077,7 @@
       "speak",
       "talk"
     ],
-    "note": "Espritüel fıkra anlatmak 'tell a joke' kalıbıyla ifade edilir; 'say/make a joke' yanlıştır."
+    "note": "Espritüel fıkra anlatmak 'tell a joke' kalıbıyla ifade edilir; 'say a joke' yanlıştır."
   },
   {
     "id": "col_vn_0061",
@@ -1089,7 +1089,7 @@
     "tr": "saati söylemek",
     "en_prompt": "My little brother learned to ___ the time yesterday.",
     "en_full": "My little brother learned to tell the time yesterday.",
-    "tr_full": "Küçük erkek kardeşim dün saati okumayı/söylemeyi öğrendi.",
+    "tr_full": "Küçük erkek kardeşim dün saat okumayı öğrendi.",
     "distractors": [
       "say",
       "make",
@@ -1109,11 +1109,11 @@
     "en_full": "Dry trees can easily catch fire in summer months.",
     "tr_full": "Kuru ağaçlar yaz aylarında kolayca alev alabilir.",
     "distractors": [
-      "take",
+      "keep",
       "get",
       "make"
     ],
-    "note": "Ateş/alev almak 'catch fire' eşdizimidir; 'get fire' veya 'take fire' İngilizcede kullanılmaz."
+    "note": "Ateş/alev almak 'catch fire' eşdizimidir; 'get fire' veya 'keep fire' bu anlamda kullanılmaz."
   },
   {
     "id": "col_vn_0063",
@@ -1253,11 +1253,11 @@
     "en_full": "The dog ran quickly to catch the flying ball.",
     "tr_full": "Köpek uçan topu yakalamak için hızla koştu.",
     "distractors": [
-      "take",
+      "keep",
       "make",
       "hold"
     ],
-    "note": "Havada gelen nesneyi yakalamak 'catch a ball' kalıbıdır; 'take a ball' veya 'make a ball' yanlıştır."
+    "note": "Havada gelen nesneyi yakalamak 'catch a ball' kalıbıdır; 'keep a ball' veya 'make a ball' bu anlamda yanlıştır."
   },
   {
     "id": "col_vn_0071",
@@ -1633,7 +1633,7 @@
     "distractors": [
       "do",
       "take",
-      "give"
+      "put"
     ],
     "note": "İzlenim bırakmak ifadesinde 'make an impression' yapısı tercih edilir."
   },
@@ -1795,9 +1795,9 @@
     "distractors": [
       "make",
       "do",
-      "give"
+      "take"
     ],
-    "note": "'Deadline' ile 'set' kullanılır; 'give/make a deadline' ifadeleri Türkçeden birebir çeviri hatasıdır."
+    "note": "'Deadline' ile 'set' kullanılır; 'make/do a deadline' ifadeleri Türkçeden birebir çeviri hatasıdır."
   },
   {
     "id": "col_vn_0101",
@@ -1941,7 +1941,7 @@
       "do",
       "give"
     ],
-    "note": "Para cezası ödemek için 'pay' kullanılır; 'give a fine' cezayı kesen makam için değil, ödeyen kişi için geçerli değildir."
+    "note": "Para cezası ödemek için 'pay' kullanılır; 'give a fine' cezayı kesen makamın eylemidir, ödeyen kişi için kullanılmaz."
   },
   {
     "id": "col_vn_0109",
@@ -2065,7 +2065,7 @@
     "distractors": [
       "do",
       "take",
-      "have"
+      "keep"
     ],
     "note": "Sunum yapmak için 'give' kullanılır; 'do a presentation' sık yapılan bir öğrenci hatasıdır."
   },
@@ -2119,7 +2119,7 @@
     "distractors": [
       "hold",
       "save",
-      "give"
+      "do"
     ],
     "note": "Söz tutmak 'keep a promise' kalıbıdır; 'hold a promise' veya 'save a promise' yanlış kullanımlardır."
   },
@@ -2149,8 +2149,8 @@
     "verb": "keep",
     "rest": "pace",
     "tr": "ayak uydurmak",
-    "en_prompt": "Firms must innovate to ___ pace with modern fast technology.",
-    "en_full": "Firms must innovate to keep pace with modern fast technology.",
+    "en_prompt": "Firms must innovate to ___ pace with fast-moving technology.",
+    "en_full": "Firms must innovate to keep pace with fast-moving technology.",
     "tr_full": "Firmalar modern hızlı teknolojiye ayak uydurmak için yenilik yapmalıdır.",
     "distractors": [
       "make",
@@ -2171,10 +2171,10 @@
     "tr_full": "Yeni okulunda kolayca arkadaş edinir.",
     "distractors": [
       "do",
-      "have",
+      "take",
       "get"
     ],
-    "note": "'Friends' ile 'make' kullanılır; 'do/have/get friends' deyimsel değildir.",
+    "note": "'Friends' ile 'make' kullanılır; 'do/take/get friends' deyimsel değildir.",
     "id": "col_vn_0121"
   },
   {
@@ -2208,9 +2208,9 @@
     "distractors": [
       "do",
       "give",
-      "have"
+      "take"
     ],
-    "note": "'Wish' ile 'make' kullanılır; 'do/give/have a wish' deyimsel değildir.",
+    "note": "'Wish' ile 'make' kullanılır; 'do/give/take a wish' deyimsel değildir.",
     "id": "col_vn_0123"
   },
   {
@@ -2280,9 +2280,9 @@
     "distractors": [
       "do",
       "take",
-      "have"
+      "give"
     ],
-    "note": "'Complaint' ile 'make' kullanılır; 'file/lodge a complaint' resmî dilde olur ama 'do/take/have a complaint' yanlıştır.",
+    "note": "'Complaint' ile 'make' kullanılır; 'file/lodge a complaint' resmî dilde olur ama 'do/take/give a complaint' yanlıştır.",
     "id": "col_vn_0127"
   },
   {
@@ -2296,11 +2296,11 @@
     "en_full": "We usually have breakfast at seven in the morning.",
     "tr_full": "Genellikle sabah yedide kahvaltı yaparız.",
     "distractors": [
-      "make",
+      "give",
       "do",
       "take"
     ],
-    "note": "Öğünlerle 'have' kullanılır; 'make breakfast' hazırlamaktır, yemek yemek değildir.",
+    "note": "Öğünlerle 'have' kullanılır; 'make breakfast' kahvaltıyı hazırlamaktır, yemek yemek değildir.",
     "id": "col_vn_0128"
   },
   {
@@ -2332,7 +2332,7 @@
     "en_full": "On Sundays the whole family has dinner together.",
     "tr_full": "Pazar günleri bütün aile birlikte akşam yemeği yer.",
     "distractors": [
-      "make",
+      "give",
       "do",
       "take"
     ],
@@ -2404,7 +2404,7 @@
     "en_full": "They had an argument about who should pay the bill.",
     "tr_full": "Hesabı kimin ödeyeceği konusunda tartıştılar.",
     "distractors": [
-      "make",
+      "keep",
       "do",
       "take"
     ],
@@ -2424,9 +2424,9 @@
     "distractors": [
       "make",
       "do",
-      "take"
+      "give"
     ],
-    "note": "'Have/hold a meeting' doğrudur; 'make/do/take a meeting' yanlıştır.",
+    "note": "'Have/hold a meeting' doğrudur; 'make/do/give a meeting' yanlıştır.",
     "id": "col_vn_0135"
   },
   {
@@ -2532,9 +2532,9 @@
     "distractors": [
       "do",
       "take",
-      "have"
+      "give"
     ],
-    "note": "'Make/achieve a breakthrough' doğrudur; 'do/take/have a breakthrough' yanlıştır.",
+    "note": "'Make/achieve a breakthrough' doğrudur; 'do/take/give a breakthrough' yanlıştır.",
     "id": "col_vn_0141"
   },
   {
@@ -2568,9 +2568,9 @@
     "distractors": [
       "do",
       "take",
-      "have"
+      "give"
     ],
-    "note": "'Make a fuss' = yaygara koparmak; 'do/take/have a fuss' yanlıştır.",
+    "note": "'Make a fuss' = yaygara koparmak; 'do/take/give a fuss' yanlıştır.",
     "id": "col_vn_0143"
   },
   {
@@ -3464,7 +3464,7 @@
     "tr": "tavır almak",
     "en_prompt": "The government must ___ a clear stance on the issue.",
     "en_full": "The government must take a clear stance on the issue.",
-    "tr_full": "Hükûmet konuda net bir tavır almalıdır.",
+    "tr_full": "Hükûmet bu konuda net bir tavır almalıdır.",
     "distractors": [
       "make",
       "do",
@@ -3540,9 +3540,9 @@
     "distractors": [
       "make",
       "do",
-      "give"
+      "have"
     ],
-    "note": "'Place/put emphasis on' doğrudur; 'make/do/give emphasis' yanlıştır.",
+    "note": "'Place/put emphasis on' doğrudur; 'make/do/have emphasis' yanlıştır.",
     "id": "col_vn_0197"
   },
   {
@@ -3630,9 +3630,9 @@
     "distractors": [
       "make",
       "give",
-      "put"
+      "do"
     ],
-    "note": "'Cast/throw doubt on' doğrudur; 'make/give/put doubt' yanlıştır.",
+    "note": "'Cast/throw doubt on' doğrudur; 'make/give/do doubt' yanlıştır.",
     "id": "col_vn_0202"
   },
   {
