@@ -399,12 +399,12 @@
   "relation": "ornek",
   "answer": "For instance",
   "distractors": [
-   "Furthermore",
+   "However",
    "Otherwise"
   ],
   "text": "Diet plays a crucial role in preventing chronic health conditions. ____, consuming green leafy vegetables is proven to reduce the risk of cardiovascular diseases.",
   "tr": "Diyet, kronik sağlık koşullarının önlenmesinde çok önemli bir rol oynar. [Örneğin] yeşil yapraklı sebzelerin tüketilmesinin kardiyovasküler hastalık riskini azalttığı kanıtlanmıştır.",
-  "why": "Diyetin kronik hastalıkları önlemesine genel değinilmiş, ardından yeşil yapraklı sebzeler örnek verilmiştir. ÖRNEK ilişkisi için 'For instance' uygundur. 'Furthermore' ekleme, 'Otherwise' aksi halde anlamı taşır.",
+  "why": "Diyetin kronik hastalıkları önlemesine genel değinilmiş, ardından yeşil yapraklı sebzeler örnek verilmiştir. ÖRNEK ilişkisi için 'For instance' uygundur. 'However' zıtlık, 'Otherwise' aksi halde anlamı taşır.",
   "id": "log_034"
  },
  {
@@ -632,7 +632,7 @@
    "However",
    "In addition"
   ],
-  "why": "Barajların bakımının yapılmaması sebep, vadinin sular altında kalması ise SONUÇTUR. Bu yüzden 'Consequently' uygundur. 'However' zıtlık, 'In addition' ekleme bildirir.",
+  "why": "Sel bariyerlerinin bakımının yapılmaması sebep, vadinin sular altında kalması ise SONUÇTUR. Bu yüzden 'Consequently' uygundur. 'However' zıtlık, 'In addition' ekleme bildirir.",
   "tr": "Bölgesel hükümet sel bariyerlerinin bakımını yapamadı. [Sonuç olarak] şiddetli yağmurlar sırasında tüm vadi sular altında kaldı."
  },
  {
@@ -812,7 +812,7 @@
    "Hence",
    "Yet"
   ],
-  "why": "Telefonun şarj ömrünün uzun olmasına ek olarak geri dönüştürülebilir olması ek bir bilgi (EKLEME) olarak sunulmuştur. 'Besides' doğrudur. 'Hence' sonuç, 'Yet' zıtlık grubundadır.",
+  "why": "Telefonun şarj ömrünün uzun olmasına ek olarak geri dönüştürülmüş malzemelerden üretilmesi ek bir bilgi (EKLEME) olarak sunulmuştur. 'Besides' doğrudur. 'Hence' sonuç, 'Yet' zıtlık grubundadır.",
   "tr": "Yeni akıllı telefon, selefine göre daha uzun bir pil ömrüne sahip. [Üstelik] tamamen geri dönüştürülmüş malzemelerden üretilmiştir."
  },
  {
@@ -884,7 +884,7 @@
    "Consequently",
    "Nevertheless"
   ],
-  "why": "Yeşil enerjiye geçen Avrupa ülkelerine örnek olarak Danimarka'nın rüzgar gücü kullanımı gösterilmiştir (ÖRNEKLEME). 'For instance' uygundur. 'Consequently' sonuç, 'Nevertheless' (Nevertheless) zıtlık grubundadır.",
+  "why": "Yeşil enerjiye geçen Avrupa ülkelerine örnek olarak Danimarka'nın rüzgar gücü kullanımı gösterilmiştir (ÖRNEKLEME). 'For instance' uygundur. 'Consequently' sonuç, 'Nevertheless' zıtlık bildirir.",
   "tr": "Birkaç Avrupa ülkesi hızla yeşil enerjiye geçiş yapıyor. [Örneğin] Danimarka, elektriğinin büyük bir kısmını rüzgar enerjisinden üretiyor."
  },
  {
@@ -2181,7 +2181,7 @@
    "On the other hand"
   ],
   "why": "Damlama sulamaya geçilmesi sebep, su israfının azalması SONUÇTUR. 'Hence' uygundur. 'Otherwise' aksi takdirde, 'On the other hand' zıtlık bildirir.",
-  "tr": "Tarım kooperatifi kurak tarlalara yüksek teknolojili damla sulama sistemleri kurdu. [Bu nedenle] yaz sezonunda su israfı yüzde atmış oranında düştü."
+  "tr": "Tarım kooperatifi kurak tarlalara yüksek teknolojili damla sulama sistemleri kurdu. [Bu nedenle] yaz sezonunda su israfı yüzde altmış oranında düştü."
  },
  {
   "id": "log_183",
@@ -2365,7 +2365,7 @@
  },
  {
   "id": "log_198",
-  "text": "The software developers must encrypt all user passwords before saving them database. ____, any potential security breach could expose thousands of sensitive accounts.",
+  "text": "The software developers must encrypt all user passwords before saving them to the database. ____, any potential security breach could expose thousands of sensitive accounts.",
   "relation": "aksihalde",
   "answer": "Otherwise",
   "distractors": [
@@ -2793,7 +2793,7 @@
    "However"
   ],
   "why": "Gelişmiş geri dönüşümü olan ülkelere örnek olarak Almanya'nın %60 oranı gösterilmiştir (ÖRNEKLEME). 'For example' doğrudur. 'Therefore' sonuç, 'However' zıtlık bildirir.",
-  "tr": "Birçok modern ulus, evsel plastikleri yönetmek için etkili geri dönüşüm sistemleri geliştirdi. [Örneğin] Almanya evsel atıklarının yüzde atmışından fazlasını geri dönüştürüyor."
+  "tr": "Birçok modern ulus, evsel plastikleri yönetmek için etkili geri dönüşüm sistemleri geliştirdi. [Örneğin] Almanya evsel atıklarının yüzde altmışından fazlasını geri dönüştürüyor."
  },
  {
   "id": "log_234",
