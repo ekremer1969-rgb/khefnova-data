@@ -47,8 +47,8 @@
     "link": "zaman kayması: geçmiş → Now (şimdi)"
    },
    {
-    "tr": "Yemek yapmak en sevdiğim rahatlama yöntemi haline geldi.",
-    "hint": "\"haline geldi (ve sürüyor)\" → Present Perfect: has become. \"rahatlama yöntemi\" → way to relax.",
+    "tr": "Yemek yapmak en sevdiğim rahatlama yöntemi hâline geldi.",
+    "hint": "\"hâline geldi (ve sürüyor)\" → Present Perfect: has become. \"rahatlama yöntemi\" → way to relax.",
     "skeleton": "······· has ······ my ········· ··· ·· ·····.",
     "model": "Cooking has become my favourite way to relax.",
     "chunk": "has become my favourite way to",
@@ -577,7 +577,7 @@
   "title": "Gitar öğrenmek",
   "sentences": [
    {
-    "tr": "Çocukluğumdan beri gitar çalmayı hep istemiştim.",
+    "tr": "Çocukluğumdan beri gitar çalmayı öğrenmeyi hep istemiştim.",
     "hint": "\"...-den beri hep istemiştim\" → Past Perfect: had always wanted. \"çocukluktan beri\" → since childhood.",
     "skeleton": "I ··· ······ ······ to ····· ··· ······ ····· ·········.",
     "model": "I had always wanted to learn the guitar since childhood.",
@@ -919,10 +919,10 @@
   "title": "İlk iş günü",
   "sentences": [
    {
-    "tr": "Geçen ay yeni işimde ilk günümdü.",
-    "hint": "Past (was). \"işte ilk gün\" → first day at the job.",
-    "skeleton": "···· ····· was ·· ····· ··· at ·· ··· ···.",
-    "model": "Last month was my first day at my new job.",
+    "tr": "Geçen ay yeni işimdeki ilk günümü yaşadım.",
+    "hint": "Past Simple: had my first day. \"işte ilk gün\" → first day at the job.",
+    "skeleton": "···· ····· · ··· ·· ····· ··· at ·· ··· ···.",
+    "model": "Last month I had my first day at my new job.",
     "chunk": "my first day at my new job",
     "link": ""
    },
@@ -1383,7 +1383,7 @@
     "link": ""
    },
    {
-    "tr": "Bir tamirci çağırmak yerine kendim denemeye karar verdim.",
+    "tr": "Bir tesisatçı çağırmak yerine kendim denemeye karar verdim.",
     "hint": "\"...-mek yerine\" → instead of + fiil-ing. \"tesisatçı\" → plumber.",
     "skeleton": "······· of ······· · ·······, I ······· ·· ··· ·· ······.",
     "model": "Instead of calling a plumber, I decided to try it myself.",
@@ -2827,7 +2827,7 @@
     "link": ""
    },
    {
-    "tr": "Saat onbirde uyurum.",
+    "tr": "Saat on birde uyurum.",
     "hint": "\"uyumak\" → go to sleep. \"saat on birde\" → at eleven.",
     "skeleton": "I ·· ·· ····· ·· ······.",
     "model": "I go to sleep at eleven.",
@@ -3147,9 +3147,9 @@
    },
    {
     "tr": "Yazın ailemle sahile gideriz.",
-    "hint": "\"sahil\" → the beach. \"yazın\" → in summer.",
-    "skeleton": "In ······, ·· ·· ·· the ····· ···· ·· ······.",
-    "model": "In summer, we go to the beach with my family.",
+    "hint": "\"ailemle (biz)\" → my family and I. \"sahil\" → the beach. \"yazın\" → in summer.",
+    "skeleton": "In ······, ·· ······ ··· · ·· ·· the ·····.",
+    "model": "In summer, my family and I go to the beach.",
     "chunk": "go to the beach",
     "link": ""
    },
@@ -3400,10 +3400,10 @@
    },
    {
     "tr": "Hava soğuktu ve üşüdüm.",
-    "hint": "\"üşümek\" → get cold.",
-    "skeleton": "It ··· ···· and · ··· ····.",
-    "model": "It was cold and I got cold.",
-    "chunk": "got cold",
+    "hint": "\"üşümek\" → feel cold.",
+    "skeleton": "It ··· ···· and · ···· ····.",
+    "model": "It was cold and I felt cold.",
+    "chunk": "felt cold",
     "link": ""
    },
    {
@@ -4168,7 +4168,7 @@
   "sentences": [
    {
     "tr": "Geçen cumartesi evi baştan aşağı temizledim.",
-    "hint": "\"tüm\" → the whole. \"temizlemek\" → clean.",
+    "hint": "\"baştan aşağı\" → the whole (house). \"temizlemek\" → clean.",
     "skeleton": "···· ········ I ······· the ····· ·····.",
     "model": "Last Saturday I cleaned the whole house.",
     "chunk": "cleaned the whole house",
@@ -4583,8 +4583,8 @@
     "link": ""
    },
    {
-    "tr": "Bu bana kendimi daha iyi tanıtıyor.",
-    "hint": "\"tanımak\" → know. Karşılaştırma → better.",
+    "tr": "Bu, kendimi daha iyi tanımama yardım ediyor.",
+    "hint": "\"...-mama yardım etmek\" → help sb + fiil. \"tanımak\" → know. Karşılaştırma → better.",
     "skeleton": "This ····· ·· ···· ······ ······.",
     "model": "This helps me know myself better.",
     "chunk": "know myself better",
@@ -4770,7 +4770,7 @@
     "link": ""
    },
    {
-    "tr": "Molayı bitirdim ama uygulamaları bir daha asla açılışa koymadım.",
+    "tr": "Molayı bitirdim ama uygulamaları bir daha asla açılış ekranına koymadım.",
     "hint": "\"bir daha asla\" → never ... again. \"açılış ekranı\" → home screen.",
     "skeleton": "I ····· ··· ·····, but · ····· ··· the ···· ·· ·· ···· ······ ·····.",
     "model": "I ended the break, but I never put the apps on my home screen again.",
@@ -4884,7 +4884,7 @@
     "link": ""
    },
    {
-    "tr": "Sabırlı olsaydım daha hızlı ilerleyeceğimi anlamıştım.",
+    "tr": "Sabırlı olursam daha hızlı ilerleyeceğimi anlamıştım.",
     "hint": "Past Perfect + koşul: would progress ... if I was patient.",
     "skeleton": "I ··· ········ that · ····· ········ ······ if · ··· ·······.",
     "model": "I had realised that I would progress faster if I was patient.",
@@ -4900,7 +4900,7 @@
     "link": ""
    },
    {
-    "tr": "O deneyim bana verilenden fazlasını kazandırdı.",
+    "tr": "O deneyim bana, benim ona verdiğimden fazlasını verdi.",
     "hint": "Karşılaştırma + ilgi cümleciği: more than I gave.",
     "skeleton": "That ·········· ···· ·· ···· than · ···· ··.",
     "model": "That experience gave me more than I gave it.",
@@ -4933,7 +4933,7 @@
     "link": ""
    },
    {
-    "tr": "Reddetseydim muhtemelen bir daha şans verilmeyecekti.",
+    "tr": "Reddetseydim muhtemelen bana bir daha şans verilmeyecekti.",
     "hint": "3. koşul + pasif: If I had refused, wouldn't have been given.",
     "skeleton": "If I ··· ·······, I ········ ········ ···· ···· ····· ······· ······.",
     "model": "If I had refused, I probably wouldn't have been given another chance.",
@@ -5267,7 +5267,7 @@
    },
    {
     "tr": "Ancak kimsenin yanlış cevap diye bir derdi yoktu.",
-    "hint": "\"...-den dert etmek\" → be worried about.",
+    "hint": "\"...diye derdi olmak\" → be worried about.",
     "skeleton": "·······, ······ was ······· ····· ····· ·······.",
     "model": "However, nobody was worried about wrong answers.",
     "chunk": "nobody was worried about",
@@ -5349,8 +5349,8 @@
    {
     "tr": "Eğer herkes küçük bir adım atarsa, sonuç büyük olur.",
     "hint": "1. koşul: If + geniş zaman, geniş zaman.",
-    "skeleton": "If ········ ····· a ····· ····, ··· ······ ······· ···.",
-    "model": "If everyone takes a small step, the result becomes big.",
+    "skeleton": "If ········ ····· a ····· ····, ··· ······ ·· ···.",
+    "model": "If everyone takes a small step, the result is big.",
     "chunk": "takes a small step",
     "link": ""
    },
@@ -5421,7 +5421,7 @@
    },
    {
     "tr": "Ama bu birkaç günün bedeli bana çok küçük geliyor.",
-    "hint": "\"...gibi görünmek\" → seem. \"bedel\" → price.",
+    "hint": "\"...gelmek (görünmek)\" → seem. \"bedel\" → price.",
     "skeleton": "But the ····· ·· ····· ··· ···· ····· ···· ····· to ··.",
     "model": "But the price of those few days seems very small to me.",
     "chunk": "seems very small",
@@ -5591,7 +5591,7 @@
     "link": ""
    },
    {
-    "tr": "Dışarıda yenen kahveler bütçemin yüzde onunu yiyordu.",
+    "tr": "Dışarıdan alınan kahveler bütçemin yüzde onunu yiyordu.",
     "hint": "Kısaltılmış pasif: coffees bought outside. \"yüzde on\" → ten per cent.",
     "skeleton": "······· ······ ······· were ······ ··· ··· ···· of ·· ······.",
     "model": "Coffees bought outside were eating ten per cent of my budget.",
@@ -5835,8 +5835,8 @@
     "link": ""
    },
    {
-    "tr": "Kampta telefon çekmediği için herkes fişten çekilmişti.",
-    "hint": "\"telefon çekmemek\" → there is no signal. Past Perfect: had unplugged.",
+    "tr": "Kampta telefon çekmediği için herkes dijital dünyadan kopmuştu.",
+    "hint": "\"telefon çekmemek\" → there is no signal. Past Perfect: had unplugged. \"kopmak (dijital)\" → unplug.",
     "skeleton": "······· ····· was ·· ······ at ··· ····, ········ ··· ·········.",
     "model": "Because there was no signal at the camp, everyone had unplugged.",
     "chunk": "there was no signal",
@@ -6024,8 +6024,8 @@
    {
     "tr": "Geçen yıl şirketimizde yeni bir program kullanılmaya başlandı.",
     "hint": "Pasif mastar: began to be used.",
-    "skeleton": "···· ····, a ··· ········· ····· to ·· ···· in ··· ·······.",
-    "model": "Last year, a new programme began to be used in our company.",
+    "skeleton": "···· ····, a ··· ······· ····· to ·· ···· in ··· ·······.",
+    "model": "Last year, a new program began to be used in our company.",
     "chunk": "began to be used",
     "link": ""
    },
@@ -6135,7 +6135,7 @@
     "link": ""
    },
    {
-    "tr": "Ölü zaman diye bir şey yokmuş, sadece boş zaman varmış.",
+    "tr": "Ölü zaman diye bir şey yokmuş, sadece değerlendirilmemiş zaman varmış.",
     "hint": "\"...diye bir şey yok\" → there is no.",
     "skeleton": "It ····· out ···· ····· is ·· ···· ····, ···· ······ ····.",
     "model": "It turns out that there is no dead time, only unused time.",
@@ -6550,8 +6550,8 @@
     "link": ""
    },
    {
-    "tr": "İlk derste tek bir tuşa basmaya bile çekiniyordu.",
-    "hint": "\"...-e çekinmek\" → be hesitant to. \"tuş\" → button.",
+    "tr": "İlk derste tek bir tuşa basmaktan bile çekiniyordu.",
+    "hint": "\"...-mekten çekinmek\" → be hesitant to. \"tuş\" → button.",
     "skeleton": "In ··· ····· ······, she ··· ···· ········ to ····· · ······ ······.",
     "model": "In the first lesson, she was even hesitant to press a single button.",
     "chunk": "hesitant to press a single button",
@@ -6705,9 +6705,9 @@
    },
    {
     "tr": "İlk hafta alarmı erteleme isteğine zor direndim.",
-    "hint": "\"...-e direnmek\" → resist. \"istek/dürtü\" → urge.",
-    "skeleton": "In ··· ····· ····, I ······ ········ ··· ···· to ······ ··· ·····.",
-    "model": "In the first week, I hardly resisted the urge to snooze the alarm.",
+    "hint": "\"zor direnmek\" → struggle to resist. \"istek/dürtü\" → urge.",
+    "skeleton": "In ··· ····· ····, I ········· to ······ ··· ···· to ······ ··· ·····.",
+    "model": "In the first week, I struggled to resist the urge to snooze the alarm.",
     "chunk": "the urge to snooze",
     "link": ""
    },
@@ -6842,7 +6842,7 @@
     "link": ""
    },
    {
-    "tr": "Nadiren fark ederiz ki bugünkü halimiz, yıllar önceki tercihlerimizin toplamıdır.",
+    "tr": "Nadiren fark ederiz ki bugünkü hâlimiz, yıllar önceki tercihlerimizin toplamıdır.",
     "hint": "Devrik yapı (inversion): Rarely do we notice. \"toplam\" → the sum of.",
     "skeleton": "······ do ·· ······ that ···· ·· are ····· ·· ··· ··· of ··· ······· ·· ···· ····· ···.",
     "model": "Rarely do we notice that what we are today is the sum of the choices we made years ago.",
@@ -7192,7 +7192,7 @@
   "title": "Sessizliğin değeri",
   "sentences": [
    {
-    "tr": "Modern hayatta sessizlik giderek daha nadir bir hale gelmiştir.",
+    "tr": "Modern hayatta sessizlik giderek daha nadir bir hâle gelmiştir.",
     "hint": "Present Perfect: has become. \"giderek\" → increasingly.",
     "skeleton": "In ······ ····, ······· has ······ ············ ····.",
     "model": "In modern life, silence has become increasingly rare.",
@@ -7671,7 +7671,7 @@
     "link": ""
    },
    {
-    "tr": "Anlaşılması güç kılınan bir hak, fiilen kullanılamaz hale gelir.",
+    "tr": "Anlaşılması güç kılınan bir hak, fiilen kullanılamaz hâle gelir.",
     "hint": "İlgi cümleciği + pasif: that is made hard. \"fiilen\" → effectively.",
     "skeleton": "A ····· ···· is ···· ···· ·· ·········· ··········· ······· ········.",
     "model": "A right that is made hard to understand effectively becomes unusable.",
@@ -7695,7 +7695,7 @@
     "link": "Yet = 5. cümledeki iddiaya karşı"
    },
    {
-    "tr": "Bir toplum, vatandaşının nefes alacağı alanı korumakla ölçülür.",
+    "tr": "Bir toplum, vatandaşlarının nefes alabileceği alanı nasıl koruduğuyla ölçülür.",
     "hint": "Pasif + edatlı ilgi cümleciği: the space in which.",
     "skeleton": "A ······· ·· ········ by ··· ·· ········ the ····· ·· ····· its ········ ··· ·······.",
     "model": "A society is measured by how it protects the space in which its citizens can breathe.",
@@ -7752,7 +7752,7 @@
     "link": "This invisibility = 4. cümledeki görünmezlik"
    },
    {
-    "tr": "Bunu aşmanın bir yolu, geleceği bugüne temsilci koymaktır.",
+    "tr": "Bunu aşmanın bir yolu, geleceğe bugünde bir temsilci vermektir.",
     "hint": "\"...-in yolu\" → a way of + fiil-ing. \"temsilci\" → representative.",
     "skeleton": "··· ··· of ·········· ···· is ·· ···· ··· ······ a ·············· ·· ··· ·······.",
     "model": "One way of overcoming this is to give the future a representative in the present.",
@@ -7890,7 +7890,7 @@
     "link": ""
    },
    {
-    "tr": "Yemek, kültürün günde üç kez tekrarlanan halidir.",
+    "tr": "Yemek, kültürün günde üç kez tekrarlanan hâlidir.",
     "hint": "Kısaltılmış pasif: culture repeated.",
     "skeleton": "···· is ······· ········ ····· ····· a ···.",
     "model": "Food is culture repeated three times a day.",
@@ -7940,7 +7940,7 @@
    },
    {
     "tr": "İnsanlar birbirini duymaya başladığında bu koşullar bozulur.",
-    "hint": "\"...-ınca\" → once. \"bozulmak\" → break down.",
+    "hint": "\"...-dığında\" → once. \"bozulmak\" → break down.",
     "skeleton": "···· ······ ····· to ···· ··· ·······, ····· ·········· ····· ····.",
     "model": "Once people begin to hear one another, these conditions break down.",
     "chunk": "these conditions break down",
@@ -8386,7 +8386,7 @@
     "link": ""
    },
    {
-    "tr": "Otomobille yapılan bir hayat ise bu karşılaşmaları ortadan kaldırır.",
+    "tr": "Otomobille sürdürülen bir hayat ise bu karşılaşmaları ortadan kaldırır.",
     "hint": "Kısaltılmış pasif: a life lived by car.",
     "skeleton": "A ···· ····· by ···, ·······, ······· ···· ··········.",
     "model": "A life lived by car, however, removes such encounters.",
@@ -9345,7 +9345,7 @@
     "link": ""
    },
    {
-    "tr": "Bu ürünler ucuz olmalarının yanı sıra hazırlanması da kolaydır.",
+    "tr": "Bu ürünler ucuz olmalarının yanı sıra hazırlanmaları da kolaydır.",
     "hint": "\"...-in yanı sıra\" → besides + fiil-ing. \"hazırlanması kolay\" → easy to prepare.",
     "skeleton": "······· ····· ·····, ····· ········ are ···· ···· to ·······.",
     "model": "Besides being cheap, these products are also easy to prepare.",
@@ -10727,7 +10727,7 @@
    },
    {
     "tr": "Oysa kısa yürüyüşler bile kalbe yarar sağlamaktadır.",
-    "hint": "\"...-e iyi gelmek\" → be good for. \"bile\" → even.",
+    "hint": "\"...-e yarar sağlamak\" → be good for. \"bile\" → even.",
     "skeleton": "In ····, ···· ····· ····· ··· ···· for ··· ·····.",
     "model": "In fact, even short walks are good for the heart.",
     "chunk": "even short walks",
@@ -10834,8 +10834,8 @@
    {
     "tr": "Ayırma işlemi, sanıldığı kadar zor değildir.",
     "hint": "\"...kadar değil\" → not as ... as. Fiil-ing özne.",
-    "skeleton": "·········· is ··· ·· ········· as ·· ·· ·······.",
-    "model": "Separating is not as difficult as it is thought.",
+    "skeleton": "·········· is ··· as ········· as is ·······.",
+    "model": "Separating is not as difficult as is thought.",
     "chunk": "not as difficult as",
     "link": ""
    },
@@ -10848,7 +10848,7 @@
     "link": "3. cümledeki kolaylığın örneği"
    },
    {
-    "tr": "Belediyeler, düzenli toplama yapmadıkça çabalar boşa gitmektedir.",
+    "tr": "Belediyeler düzenli toplama yapmadıkça, çabalar boşa gitmektedir.",
     "hint": "\"...-madıkça\" → unless + olumlu. Pasif: are wasted.",
     "skeleton": "······ ·············· ······· ·········, the ······· are ······.",
     "model": "Unless municipalities collect regularly, the efforts are wasted.",
@@ -11394,7 +11394,7 @@
     "link": ""
    },
    {
-    "tr": "Başka ülkeleri gören kişiler, kendi ülkesini daha iyi anlar.",
+    "tr": "Başka ülkeleri gören kişiler, kendi ülkelerini daha iyi anlar.",
     "hint": "İlgi cümleciği + \"kendi\" → their own.",
     "skeleton": "······ who ··· ····· ········· ·········· ····· ··· ······· ······.",
     "model": "People who see other countries understand their own country better.",
@@ -11518,8 +11518,8 @@
    {
     "tr": "Birçok kişi susadığını ancak geç fark etmektedir.",
     "hint": "notice that + cümle. \"susamak\" → be thirsty.",
-    "skeleton": "···· ······ ······ that they ··· ······· ···· ····.",
-    "model": "Many people notice that they are thirsty only late.",
+    "skeleton": "···· ······ ···· ······ ···· that they ··· ·······.",
+    "model": "Many people only notice late that they are thirsty.",
     "chunk": "notice that they are thirsty",
     "link": ""
    },
@@ -11679,10 +11679,10 @@
     "link": ""
    },
    {
-    "tr": "Araştırmalar, kadınların günde daha fazla saat harcadığını göstermektedir.",
+    "tr": "Araştırmalar, kadınların bu işlere günde daha fazla saat harcadığını göstermektedir.",
     "hint": "show that + cümle. \"günde\" → a day.",
-    "skeleton": "········ ····· that ····· ····· more ····· · ···.",
-    "model": "Research shows that women spend more hours a day.",
+    "skeleton": "········ ····· that ····· ····· more ····· · ··· ·· ··.",
+    "model": "Research shows that women spend more hours a day on it.",
     "chunk": "spend more hours a day",
     "link": "1. cümledeki eşitsizliğin verisi"
    },
@@ -11925,8 +11925,8 @@
    {
     "tr": "Çift camlar sesi azaltır; ancak sorunu ortadan kaldırmaz.",
     "hint": "İki bağımsız cümle + however.",
-    "skeleton": "······ ······· ······ ·····; ·······, they ·· not ······ ··· ·······.",
-    "model": "Double windows reduce sound; however, they do not remove the problem.",
+    "skeleton": "············· ······· ······ ·····; ·······, they ·· not ······ ··· ·······.",
+    "model": "Double-glazed windows reduce sound; however, they do not remove the problem.",
     "chunk": "do not remove the problem",
     "link": "3. cümledeki kaynağa kısmi çözüm"
    },
@@ -12330,7 +12330,7 @@
     "link": "Therefore = 3. cümledeki bulaşma yoluna önlem"
    },
    {
-    "tr": "Hasta olan kişilerin evde dinlenmesi hem kendisi hem başkaları için iyidir.",
+    "tr": "Hasta olan kişilerin evde dinlenmesi hem kendileri hem de başkaları için iyidir.",
     "hint": "both for ... and for ... + it is good that.",
     "skeleton": "It ·· ···· ···· for ·········· ··· for ······ ···· ···· ······ ···· ·· ····.",
     "model": "It is good both for themselves and for others that sick people rest at home.",
@@ -12890,7 +12890,7 @@
     "link": ""
    },
    {
-    "tr": "Ne var ki planlar çoğu zaman haritada, sokakta değil değerlendirilmektedir.",
+    "tr": "Ne var ki planlar çoğu zaman sokakta değil, haritada değerlendirilmektedir.",
     "hint": "Pasif + rather than.",
     "skeleton": "·······, ····· are ······· ········· ·· the ··· ······ ···· in ··· ······.",
     "model": "However, plans are usually evaluated on the map rather than in the street.",
@@ -12906,7 +12906,7 @@
     "link": "For this reason = 6. cümledeki kopukluğa çözüm"
    },
    {
-    "tr": "Sonuçta bir kenti yaşatan, planlarda değil ilişkilerde saklıdır.",
+    "tr": "Sonuçta bir kenti yaşatan şey, planlarda değil ilişkilerde saklıdır.",
     "hint": "Cleft + lie in + not ... but ... .",
     "skeleton": "In ··· ···, what ····· · ···· ····· ···· ··· in ····· ··· ·· ·············.",
     "model": "In the end, what keeps a city alive lies not in plans but in relationships.",
@@ -12971,7 +12971,7 @@
     "link": "For this reason = 5. cümledeki koşulun tersi"
    },
    {
-    "tr": "Yine de büyük eserler, doğduğu bağlamı aşabilme özelliğine sahiptir.",
+    "tr": "Yine de büyük eserler, doğdukları bağlamı aşabilme özelliğine sahiptir.",
     "hint": "\"...-me özelliği\" → the capacity to + fiil.",
     "skeleton": "···· so, ····· ····· ···· the ········ ·· ·· ······ the ······· ·· ····· they ···· ········.",
     "model": "Even so, great works have the capacity to go beyond the context in which they were produced.",
@@ -13195,7 +13195,7 @@
     "skeleton": "···· so, the ···· ·· ······· ········· a ······ ···· ····· ····.",
     "model": "Even so, the cost of waiting increases a little more every year.",
     "chunk": "the cost of waiting",
-    "link": "Even so = 6. cümledeki kilitlenmeye rağmen"
+    "link": "Even so = 5. cümledeki kilitlenmeye rağmen"
    },
    {
     "tr": "Dolayısıyla asıl risk, yanlış adım atmak değil hiç adım atmamaktır.",
@@ -13605,7 +13605,7 @@
    },
    {
     "tr": "Kayıptan kaçınma, kazanç arzusundan çok daha güçlü bir etkendir.",
-    "hint": "\"...-e karşı arzu\" → the desire for. far + karşılaştırma.",
+    "hint": "\"kazanç arzusu\" → the desire for gain. far + karşılaştırma.",
     "skeleton": "···· ········ is a ··· ········ ······ ···· the ······ ··· ····.",
     "model": "Loss aversion is a far stronger factor than the desire for gain.",
     "chunk": "a far stronger factor than",
@@ -14318,11 +14318,11 @@
     "link": ""
    },
    {
-    "tr": "Ne var ki yalnızca hayatta kalanlar anlatılabilir durumdadır.",
-    "hint": "\"durumda olmak\" → be in a position to.",
-    "skeleton": "·······, ···· ····· who ···· ········ are ·· a ········ ·· ·· ···· ·····.",
-    "model": "However, only those who have survived are in a position to be told about.",
-    "chunk": "only those who have survived",
+    "tr": "Ne var ki yalnızca hayatta kalanların hikâyesi anlatılabilmektedir.",
+    "hint": "Pasif modal: can be told. İlgi cümleciği: those who have survived.",
+    "skeleton": "·······, ···· ··· ······· ·· ····· who ···· ········ ··· ·· ····.",
+    "model": "However, only the stories of those who have survived can be told.",
+    "chunk": "the stories of those who have survived",
     "link": "However = 1. cümledeki yönteme itiraz"
    },
    {
@@ -14756,7 +14756,7 @@
     "link": ""
    },
    {
-    "tr": "Kısacası tansiyon, hissedilmediği için değil hissedilmediğinden tehlikelidir.",
+    "tr": "Kısacası tansiyon, tam da hissedilmediği için tehlikelidir.",
     "hint": "Pasif + precisely because (vurgulu neden).",
     "skeleton": "In ·····, ····· ········ is ········· ········· ······· ·· is ··· ····.",
     "model": "In short, blood pressure is dangerous precisely because it is not felt.",
@@ -14929,8 +14929,8 @@
    {
     "tr": "Sonuç olarak kısa bir eğitim bile fark yaratmaktadır.",
     "hint": "\"fark yaratmak\" → make a difference.",
-    "skeleton": "As · ······, ···· a ····· ········ ····· · ··········.",
-    "model": "As a result, even a short training makes a difference.",
+    "skeleton": "As a ······, ···· a ····· ········ ······ ····· a ··········.",
+    "model": "As a result, even a short training course makes a difference.",
     "chunk": "makes a difference",
     "link": "As a result = kapanış"
    }
@@ -14985,10 +14985,10 @@
    },
    {
     "tr": "Kısacası tedavi, hekimin belirlediği süre kadar sürdürülmelidir.",
-    "hint": "Pasif modal + \"...kadar\" → as long as.",
-    "skeleton": "In ·····, ········· ······ be ········· ·· ···· as ··· ······ ··········.",
-    "model": "In short, treatment should be continued as long as the doctor determines.",
-    "chunk": "as long as the doctor determines",
+    "hint": "Pasif modal + \"...kadar\" → for as long as.",
+    "skeleton": "In ·····, ········· ······ be ········· ··· as ···· as ··· ······ ····.",
+    "model": "In short, treatment should be continued for as long as the doctor says.",
+    "chunk": "for as long as the doctor says",
     "link": "In short = kapanış"
    }
   ]
@@ -15068,8 +15068,8 @@
    {
     "tr": "Zarar yalnızca akciğerlerle sınırlı kalmamaktadır.",
     "hint": "\"...ile sınırlı\" → limited to.",
-    "skeleton": "The ···· ·· not ······· ·· ··· ····· ····.",
-    "model": "The harm is not limited to the lungs only.",
+    "skeleton": "The ···· ·· not ······· ·· ··· ·····.",
+    "model": "The harm is not limited to the lungs.",
     "chunk": "is not limited to",
     "link": ""
    },
@@ -15141,9 +15141,9 @@
    {
     "tr": "Yatak istirahati, eskiden sanıldığı kadar yararlı değildir.",
     "hint": "not as ... as + pasif geçmiş.",
-    "skeleton": "··· ···· is ··· ·· ······ as ·· ··· ···· ·······.",
-    "model": "Bed rest is not as useful as it was once thought.",
-    "chunk": "not as useful as it was once thought",
+    "skeleton": "··· ···· is ··· as ······ as ··· ···· ·······.",
+    "model": "Bed rest is not as useful as was once thought.",
+    "chunk": "not as useful as was once thought",
     "link": ""
    },
    {
@@ -15345,8 +15345,8 @@
    {
     "tr": "Sürekli stres, kalp hastalıklarının bilinen bir risk etkenidir.",
     "hint": "\"...için risk etkeni\" → risk factor for.",
-    "skeleton": "········ ······ is a ····· ···· ······ ··· ····· ········.",
-    "model": "Constant stress is a known risk factor for heart diseases.",
+    "skeleton": "········ ······ is a ····· ···· ······ ··· ····· ·······.",
+    "model": "Constant stress is a known risk factor for heart disease.",
     "chunk": "a known risk factor for",
     "link": ""
    },
@@ -15579,7 +15579,7 @@
     "link": ""
    },
    {
-    "tr": "Bir böbrek işlevinin büyük bölümü kaybedilse bile belirti görülmeyebilir.",
+    "tr": "Böbrek işlevinin büyük bölümü kaybedilse bile belirti görülmeyebilir.",
     "hint": "Even if + pasif. Olumsuz özne + pasif modal.",
     "skeleton": "···· if ···· ·· the ········ ·· ····, no ······· ··· ·· ····.",
     "model": "Even if most of the function is lost, no symptom may be seen.",
@@ -15744,8 +15744,8 @@
    {
     "tr": "Kemik yoğunluğu, otuzlu yaşlardan sonra azalmaya başlamaktadır.",
     "hint": "begin to + fiil.",
-    "skeleton": "···· ······· ······ to ········ ····· the ········.",
-    "model": "Bone density begins to decrease after the thirties.",
+    "skeleton": "···· ······· ······ to ········ ····· ····· ········.",
+    "model": "Bone density begins to decrease after one's thirties.",
     "chunk": "begins to decrease",
     "link": ""
    },
@@ -15839,10 +15839,10 @@
     "link": ""
    },
    {
-    "tr": "Kısacası yardım istemek, hastalığın kendisi kadar önemlidir.",
+    "tr": "Kısacası yardım istemek, tedavinin kendisi kadar önemlidir.",
     "hint": "as ... as + pekiştirme: itself.",
-    "skeleton": "In ·····, ······ ··· ···· is ·· ········· as ··· ······· ······.",
-    "model": "In short, asking for help is as important as the illness itself.",
+    "skeleton": "In ·····, ······ ··· ···· is as ········· as ··· ········· ······.",
+    "model": "In short, asking for help is as important as the treatment itself.",
     "chunk": "as important as ... itself",
     "link": "In short = kapanış"
    }
@@ -15978,7 +15978,7 @@
     "link": ""
    },
    {
-    "tr": "Folik asidin gebelikten önce başlanması önerilmektedir.",
+    "tr": "Folik aside gebelikten önce başlanması önerilmektedir.",
     "hint": "Pasif giriş + pasif should.",
     "skeleton": "It ·· ··········· that ····· ···· ······ ·· ······· ······ ·········.",
     "model": "It is recommended that folic acid should be started before pregnancy.",
@@ -16101,10 +16101,10 @@
    },
    {
     "tr": "Bu nedenle her ateşin hemen düşürülmesi gerekmemektedir.",
-    "hint": "need to be + V3.",
-    "skeleton": "For this ······, ····· ····· ···· ··· ···· to ·· ······· ···········.",
-    "model": "For this reason, every fever does not need to be lowered immediately.",
-    "chunk": "does not need to be lowered",
+    "hint": "not every + need to be + V3.",
+    "skeleton": "For this ······, ··· ····· ····· ····· to ·· ······· ···········.",
+    "model": "For this reason, not every fever needs to be lowered immediately.",
+    "chunk": "not every fever needs to be lowered",
     "link": "For this reason = 2. cümledeki yarar"
    },
    {
@@ -16468,8 +16468,8 @@
    {
     "tr": "Ne var ki yoğun çalışma temposunda kurallar sıkça atlanmaktadır.",
     "hint": "Pasif: are skipped.",
-    "skeleton": "·······, in ·· ······· ······· ····, the ····· ··· ·········· ·······.",
-    "model": "However, in an intense working pace, the rules are frequently skipped.",
+    "skeleton": "·······, ·· ·· ······· ······· ····, the ····· ··· ·········· ·······.",
+    "model": "However, at an intense working pace, the rules are frequently skipped.",
     "chunk": "the rules are frequently skipped",
     "link": "However = 3. cümledeki ideale engel"
    },
@@ -16751,10 +16751,10 @@
    },
    {
     "tr": "Kısacası ilgi çekici olan her bulgu, henüz tedavi değildir.",
-    "hint": "\"henüz değil\" → not yet.",
-    "skeleton": "In ·····, ····· ··········· ······· ·· not ··· · ·········.",
-    "model": "In short, every interesting finding is not yet a treatment.",
-    "chunk": "is not yet a treatment",
+    "hint": "not every + isim. \"henüz\" → yet.",
+    "skeleton": "In ·····, not ····· ··········· ······· ·· · ········· ···.",
+    "model": "In short, not every interesting finding is a treatment yet.",
+    "chunk": "is a treatment yet",
     "link": "In short = kapanış"
    }
   ]
@@ -17116,7 +17116,7 @@
     "link": "Bu uyarılar = 2. cümledeki işaretler"
    },
    {
-    "tr": "Koruyucu ekipman, tehlikeyi ortadan kaldırmaz yalnızca azaltır.",
+    "tr": "Koruyucu ekipman, tehlikeyi ortadan kaldırmaz, yalnızca azaltır.",
     "hint": "not ... but only ... .",
     "skeleton": "·········· ········· ···· not ······ ··· ······ but ···· ······· ··.",
     "model": "Protective equipment does not remove the danger but only reduces it.",
@@ -17159,8 +17159,8 @@
    {
     "tr": "Tedavi, ameliyatın bitmesiyle sona ermemektedir.",
     "hint": "\"...ile\" → with + adlaştırma.",
-    "skeleton": "········· ···· not ··· ···· the ········· ·· ··· ·········.",
-    "model": "Treatment does not end with the finishing of the operation.",
+    "skeleton": "········· ···· not ··· ···· the ··· ·· the ·········.",
+    "model": "Treatment does not end with the end of the operation.",
     "chunk": "does not end with",
     "link": ""
    },
@@ -17725,7 +17725,7 @@
     "link": "Bu durum = 5. cümledeki duyarlılık"
    },
    {
-    "tr": "Kısacası ağrı, ölçülemediği için ciddiye alınmalıdır.",
+    "tr": "Kısacası ağrı, tam da ölçülemediği için ciddiye alınmalıdır.",
     "hint": "Pasif modal + precisely because + pasif modal.",
     "skeleton": "In ·····, ···· ······ be ····· ········· ········· ······· it ······ ·· ········.",
     "model": "In short, pain should be taken seriously precisely because it cannot be measured.",
@@ -18158,8 +18158,8 @@
    {
     "tr": "Yoğunluk arttıkça, gerçek acillerin bekleme süresi uzamaktadır.",
     "hint": "As + cümle.",
-    "skeleton": "As the ······· ·········, the ······· ···· ·· ···· ··········· ···· ······.",
-    "model": "As the density increases, the waiting time of real emergencies gets longer.",
+    "skeleton": "As ········ ·········, the ······· ···· ·· ···· ··········· ···· ······.",
+    "model": "As crowding increases, the waiting time of real emergencies gets longer.",
     "chunk": "the waiting time gets longer",
     "link": "1-2. cümlelerin sonucu"
    },
@@ -18409,9 +18409,9 @@
   "sentences": [
    {
     "tr": "Gündelik yaşamın giderek daha fazla alanı tıbbın konusu hâline gelmektedir.",
-    "hint": "\"giderek daha fazla\" → an increasing.",
-    "skeleton": "An ·········· ···· of ····· ···· ·· ········ the ······· ·· ········.",
-    "model": "An increasing area of daily life is becoming the subject of medicine.",
+    "hint": "\"giderek daha fazla\" → an increasing share of.",
+    "skeleton": "An ·········· ····· of ····· ···· ·· ········ the ······· of ········.",
+    "model": "An increasing share of daily life is becoming the subject of medicine.",
     "chunk": "the subject of medicine",
     "link": ""
    },
@@ -18456,7 +18456,7 @@
     "link": "5. cümledeki dönüşümün eleştirisi"
    },
    {
-    "tr": "Bu nedenle tanı sınırlarının kimin çizdiği önem kazanmaktadır.",
+    "tr": "Bu nedenle tanı sınırlarını kimin çizdiği önem kazanmaktadır.",
     "hint": "Dolaylı soru özne.",
     "skeleton": "For ···· ······, who ····· ··· ·········· ·· ········· ····· ··········.",
     "model": "For this reason, who draws the boundaries of diagnosis gains importance.",
@@ -18628,10 +18628,10 @@
   "sentences": [
    {
     "tr": "Sağlık kaynakları hiçbir ülkede sınırsız değildir.",
-    "hint": "Olumsuz yer: in no country.",
-    "skeleton": "······ ········· are ········· in ·· ·······.",
-    "model": "Health resources are unlimited in no country.",
-    "chunk": "are unlimited in no country",
+    "hint": "Devrik: In no country + are + özne.",
+    "skeleton": "·· ·· ······· are ······ ········· ·········.",
+    "model": "In no country are health resources unlimited.",
+    "chunk": "in no country are",
     "link": ""
    },
    {
@@ -18856,8 +18856,8 @@
    {
     "tr": "Bu gelişme, kalıtsal hastalıklarda umut yaratmıştır.",
     "hint": "\"kalıtsal\" → hereditary.",
-    "skeleton": "This ··········· has ······· ···· ·· ·········· ········.",
-    "model": "This development has created hope in hereditary diseases.",
+    "skeleton": "This ··········· has ······· ···· ··· ·········· ········.",
+    "model": "This development has created hope for hereditary diseases.",
     "chunk": "has created hope",
     "link": "Bu gelişme = 1. cümledeki ucuzlama"
    },
@@ -19073,11 +19073,11 @@
     "link": ""
    },
    {
-    "tr": "Oysa yeni hastalıkların çoğu hayvanlardan geçmektedir.",
+    "tr": "Oysa yeni hastalıkların çoğu hayvanlardan insanlara geçmektedir.",
     "hint": "\"...-den geçmek\" → pass from.",
-    "skeleton": "In ····, ···· ··· ········ ···· from ·······.",
-    "model": "In fact, most new diseases pass from animals.",
-    "chunk": "pass from animals",
+    "skeleton": "In ····, ···· ··· ········ ···· ·· ······ from ·······.",
+    "model": "In fact, most new diseases pass to humans from animals.",
+    "chunk": "pass to humans from animals",
     "link": "In fact = 1. cümledeki ayrıma itiraz"
    },
    {
@@ -19359,9 +19359,9 @@
    {
     "tr": "Beslenme haberleri, birbirini yalanlar görünmektedir.",
     "hint": "appear to + fiil. \"birbirini\" → one another.",
-    "skeleton": "········· ···· ······· to ·········· ··· ·······.",
-    "model": "Nutrition news appears to contradict one another.",
-    "chunk": "appears to contradict",
+    "skeleton": "········· ···· ······· ······ to ·········· ··· ·······.",
+    "model": "Nutrition news stories appear to contradict one another.",
+    "chunk": "appear to contradict",
     "link": ""
    },
    {
@@ -19504,10 +19504,10 @@
   "sentences": [
    {
     "tr": "Görüntü tanıma sistemleri, bazı taramalarda uzmanla eşit başarı göstermektedir.",
-    "hint": "\"...ile eşit\" → equal to.",
-    "skeleton": "····· ··········· ······· ···· ····· ······· to ··········· in ···· ·····.",
-    "model": "Image recognition systems show equal success to specialists in some scans.",
-    "chunk": "equal success to specialists",
+    "hint": "\"...ile eşit başarı göstermek\" → perform as well as.",
+    "skeleton": "····· ··········· ······· ······· ·· ···· ·· ··········· in ···· ·····.",
+    "model": "Image recognition systems perform as well as specialists in some scans.",
+    "chunk": "perform as well as specialists",
     "link": ""
    },
    {
@@ -19608,7 +19608,7 @@
     "link": "However = 3. cümledeki kısa vadeli kazancın bedeli"
    },
    {
-    "tr": "Riskin yüzde olarak değil sıklık olarak anlatılması daha iyi anlaşılmaktadır.",
+    "tr": "Yüzde olarak değil sıklık olarak anlatılan risk, daha iyi anlaşılmaktadır.",
     "hint": "Pasif ilgi cümleciği + as ... rather than as ... .",
     "skeleton": "···· that ·· ········· as · ········· ······ ···· as · ·········· ·· ·········· ······.",
     "model": "Risk that is expressed as a frequency rather than as a percentage is understood better.",
@@ -19616,7 +19616,7 @@
     "link": ""
    },
    {
-    "tr": "Yüz kişiden onu ifadesi, yüzde on ifadesinden daha somuttur.",
+    "tr": "\"Yüz kişiden on\" ifadesi, \"yüzde on\" ifadesinden daha somuttur.",
     "hint": "\"...-den ...\" → out of.",
     "skeleton": "The ·········· \"··· ··· of · ·······\" is ···· ········ ···· \"··· ·······\".",
     "model": "The expression \"ten out of a hundred\" is more concrete than \"ten percent\".",
@@ -19649,8 +19649,8 @@
   "title": "Mikropların evrimi",
   "sentences": [
    {
-    "tr": "Mikroorganizmalar, insandan milyonlarca kez hızlı evrimleşmektedir.",
-    "hint": "\"...kez\" → times + karşılaştırma.",
+    "tr": "Mikroorganizmalar, insandan milyonlarca kat daha hızlı evrimleşmektedir.",
+    "hint": "\"...kat\" → times + karşılaştırma.",
     "skeleton": "·············· ······ ········ of ····· ······ than ······.",
     "model": "Microorganisms evolve millions of times faster than humans.",
     "chunk": "millions of times faster than",
@@ -19780,9 +19780,9 @@
    {
     "tr": "Kısaltılan, denetim değil bekleme süresidir.",
     "hint": "Cleft (pasif) + karşıtlık.",
-    "skeleton": "What ··· ········· ·· the ······· ····, ··· ··· ···········.",
-    "model": "What was shortened is the waiting time, not the supervision.",
-    "chunk": "what was shortened is",
+    "skeleton": "What ··· ···· ········· ·· the ······· ····, ··· the ···········.",
+    "model": "What has been shortened is the waiting time, not the supervision.",
+    "chunk": "what has been shortened is",
     "link": "kapanış"
    }
   ]
@@ -20389,8 +20389,8 @@
    {
     "tr": "Etkiler, yalnızca sıcak çarpmasıyla sınırlı kalmamaktadır.",
     "hint": "limited to.",
-    "skeleton": "The ······· ··· not ······· ·· ·········· ····.",
-    "model": "The effects are not limited to heatstroke only.",
+    "skeleton": "The ······· ··· not ······· ·· ··········.",
+    "model": "The effects are not limited to heatstroke.",
     "chunk": "are not limited to",
     "link": ""
    },
@@ -20631,11 +20631,11 @@
     "link": ""
    },
    {
-    "tr": "Alüminyumun geri dönüştürülmesi, üretiminin çok az enerjisini gerektirmektedir.",
-    "hint": "Fiil-ing özne + \"çok az\" → very little.",
-    "skeleton": "········· ········· ········ ···· ······ of ··· ······ of ··· ··········.",
-    "model": "Recycling aluminium requires very little of the energy of its production.",
-    "chunk": "requires very little of the energy",
+    "tr": "Alüminyumun geri dönüştürülmesi, üretimi için gereken enerjinin yalnızca küçük bir kısmını gerektirmektedir.",
+    "hint": "Fiil-ing özne + \"küçük bir kısmı\" → only a fraction of.",
+    "skeleton": "········· ········· ········ ···· · ········ of ··· ······ ······ ·· ······· ··.",
+    "model": "Recycling aluminium requires only a fraction of the energy needed to produce it.",
+    "chunk": "only a fraction of the energy",
     "link": ""
    },
    {
@@ -20714,7 +20714,7 @@
    {
     "tr": "Bazı yıldızlar, ışığı bize varmadan önce sönmüş olabilmektedir.",
     "hint": "may have + V3 (geçmişe dönük olasılık).",
-    "skeleton": "Some ····· ··· ···· ···· ······ ····· ····· ······· to ··.",
+    "skeleton": "Some ····· ··· ···· ···· ······ ····· ····· ······· ··.",
     "model": "Some stars may have died before their light reaches us.",
     "chunk": "may have died before",
     "link": ""
@@ -20769,7 +20769,7 @@
     "link": "bu alan = 3. cümledeki Dünya'nın alanı"
    },
    {
-    "tr": "Bu alan, güneşten gelen zararlı parçacıkları da saptırmaktadır.",
+    "tr": "Bu alan, Güneş'ten gelen zararlı parçacıkları da saptırmaktadır.",
     "hint": "\"saptırmak\" → deflect.",
     "skeleton": "This ····· ···· ········ the ······· ········· ···· ···· from ··· ···.",
     "model": "This field also deflects the harmful particles that come from the sun.",
@@ -21160,7 +21160,7 @@
     "link": ""
    },
    {
-    "tr": "Güneşin konumu, yıldızlar ve manyetik alan bunlardan bazılarıdır.",
+    "tr": "Güneş'in konumu, yıldızlar ve manyetik alan bunlardan bazılarıdır.",
     "hint": "\"bunlardan bazıları\" → some of them.",
     "skeleton": "The ········ ·· ··· ···, the ····· ··· ··· ········ ····· are ···· ·· ····.",
     "model": "The position of the sun, the stars and the magnetic field are some of them.",
@@ -21217,7 +21217,7 @@
     "link": ""
    },
    {
-    "tr": "Dansın açısı, güneşe göre yönü göstermektedir.",
+    "tr": "Dansın açısı, Güneş'e göre yönü göstermektedir.",
     "hint": "\"...-e göre\" → according to.",
     "skeleton": "The ····· ·· the ····· ····· ··· ········· ········· to ··· ···.",
     "model": "The angle of the dance shows the direction according to the sun.",
@@ -21331,7 +21331,7 @@
     "link": "For this reason = 2. cümledeki kırılma"
    },
    {
-    "tr": "Gökkuşağını görmek için güneşin arkamızda olması gerekmektedir.",
+    "tr": "Gökkuşağını görmek için Güneş'in arkamızda olması gerekmektedir.",
     "hint": "in order to + need to be.",
     "skeleton": "In ····· ·· ··· a ·······, ··· ··· ····· to ·· ······ ··.",
     "model": "In order to see a rainbow, the sun needs to be behind us.",
@@ -21364,7 +21364,7 @@
   "title": "Basit makineler",
   "sentences": [
    {
-    "tr": "Basit makineler, işi azaltmaz yalnızca kolaylaştırır.",
+    "tr": "Basit makineler, işi azaltmaz, yalnızca kolaylaştırır.",
     "hint": "not ... but only ... .",
     "skeleton": "······ ········ do ··· ······ ···· but ···· ···· ·· ······.",
     "model": "Simple machines do not reduce work but only make it easier.",
@@ -21567,7 +21567,7 @@
     "link": "3. cümledeki bitişin istisnası"
    },
    {
-    "tr": "Piller, ağır metaller içerdiği için çöpe atılmamalıdır.",
+    "tr": "Piller, ağır metaller içerdikleri için çöpe atılmamalıdır.",
     "hint": "Because + pasif modal.",
     "skeleton": "······· ········· ······· ····· ······, they ······ not ·· ······ into ··· ·······.",
     "model": "Because batteries contain heavy metals, they should not be thrown into the rubbish.",
@@ -21675,17 +21675,17 @@
    {
     "tr": "Bu işlev olmadan ormanlar kalıntı altında kalırdı.",
     "hint": "Without + isim + would (tip 2).",
-    "skeleton": "······· this ········, ······· ····· ······ ····· ·······.",
-    "model": "Without this function, forests would remain under remains.",
-    "chunk": "would remain under",
+    "skeleton": "······· this ········, ······· ····· ·· ······ ····· ······.",
+    "model": "Without this function, forests would be buried under debris.",
+    "chunk": "would be buried under",
     "link": "bu işlev = 3. cümledeki ayrıştırma"
    },
    {
     "tr": "Bazı mantarlar, bitki kökleriyle ortak yaşam kurmaktadır.",
-    "hint": "\"...ile\" → with.",
-    "skeleton": "Some ····· ········· a ······ ···· ···· ····· ·····.",
-    "model": "Some fungi establish a common life with plant roots.",
-    "chunk": "a common life with",
+    "hint": "\"ortak yaşam kurmak\" → form a partnership with.",
+    "skeleton": "Some ····· ···· a ··········· ···· ····· ·····.",
+    "model": "Some fungi form a partnership with plant roots.",
+    "chunk": "a partnership with",
     "link": ""
    },
    {
@@ -22105,7 +22105,7 @@
   "title": "Yıldızlar",
   "sentences": [
    {
-    "tr": "Yıldızlar, kendi ağırlığı altında sıkışan gaz kütleleridir.",
+    "tr": "Yıldızlar, kendi ağırlıkları altında sıkışan gaz kütleleridir.",
     "hint": "Pasif ilgi cümleciği + \"kendi\" → their own.",
     "skeleton": "····· are ······ of ··· that ··· ·········· ····· ····· ··· ······.",
     "model": "Stars are masses of gas that are compressed under their own weight.",
@@ -22276,9 +22276,9 @@
    },
    {
     "tr": "Kısacası tartışma, teknik olmaktan çok güvenle ilgilidir.",
-    "hint": "be about + rather than + fiil-ing.",
-    "skeleton": "In ·····, ··· ······ is ····· ····· ······ ···· ····· ·········.",
-    "model": "In short, the debate is about trust rather than being technical.",
+    "hint": "be about + rather than.",
+    "skeleton": "In ·····, ··· ······ is ····· ····· ······ ···· ··········.",
+    "model": "In short, the debate is about trust rather than technology.",
     "chunk": "about trust rather than",
     "link": "In short = kapanış"
    }
@@ -22342,8 +22342,8 @@
    {
     "tr": "Kısacası okyanus, bize zaman kazandırırken bedelini ödemektedir.",
     "hint": "while + eş zamanlılık.",
-    "skeleton": "In ·····, ··· ····· ···· the ····· ····· ·· ····· ···· for ··.",
-    "model": "In short, the ocean pays the price while it gains time for us.",
+    "skeleton": "In ·····, the ····· ···· the ····· ····· ·· ···· ···· for ··.",
+    "model": "In short, the ocean pays the price while it buys time for us.",
     "chunk": "pays the price while",
     "link": "In short = kapanış"
    }
@@ -22440,8 +22440,8 @@
    {
     "tr": "Kendisi tepkimede tüketilmemektedir.",
     "hint": "Pasif + pekiştirme.",
-    "skeleton": "It ·· not ········ ·· ··· ········ ······.",
-    "model": "It is not consumed in the reaction itself.",
+    "skeleton": "It ······ ·· not ········ ·· ··· ········.",
+    "model": "It itself is not consumed in the reaction.",
     "chunk": "is not consumed",
     "link": ""
    },
@@ -22627,8 +22627,8 @@
    {
     "tr": "Katmanlı üretimde ise malzeme yalnızca gereken yere konulmaktadır.",
     "hint": "where + pasif.",
-    "skeleton": "In ········ ··········, ·· the ····· ····, ········ ·· ······ ···· ····· it ·· ······.",
-    "model": "In additive production, on the other hand, material is placed only where it is needed.",
+    "skeleton": "In ········ ·············, ·· the ····· ····, ········ ·· ······ ···· ····· it ·· ······.",
+    "model": "In additive manufacturing, on the other hand, material is placed only where it is needed.",
     "chunk": "only where it is needed",
     "link": "1. cümledeki yönteme karşıtlık"
    },
@@ -22789,8 +22789,8 @@
    {
     "tr": "Ayrıca depolanması ve taşınması güçlük çıkarmaktadır.",
     "hint": "İki fiil-ing özne.",
-    "skeleton": "In ········, ······· and ············ ·· ······ ··········.",
-    "model": "In addition, storing and transporting it create difficulty.",
+    "skeleton": "In ········, ······· and ············ ·· ······ ············.",
+    "model": "In addition, storing and transporting it create difficulties.",
     "chunk": "storing and transporting",
     "link": "In addition = ek sorun"
    },
@@ -22833,7 +22833,7 @@
     "skeleton": "For ···· ······, ····· ··········· in ····· ···· · ····· ··········.",
     "model": "For this reason, small differences in speed make a great difference.",
     "chunk": "make a great difference",
-    "link": "For this reason = 2. cümledeki üstel ilişki"
+    "link": "For this reason = 2. cümledeki kübik ilişki"
    },
    {
     "tr": "Türbinler, rüzgârın tüm enerjisini alamamaktadır.",
@@ -22845,10 +22845,10 @@
    },
    {
     "tr": "Çünkü havanın türbini geçip gitmesi gerekmektedir.",
-    "hint": "need to + iki fiil.",
-    "skeleton": "This ·· ······· the ··· ····· ·· ···· by ··· ······· ··· ··.",
-    "model": "This is because the air needs to pass by the turbine and go.",
-    "chunk": "needs to pass by",
+    "hint": "need to + fiil. \"geçip gitmek\" → flow on past.",
+    "skeleton": "This ·· ······· the ··· ····· ·· ···· ·· ···· the ·······.",
+    "model": "This is because the air needs to flow on past the turbine.",
+    "chunk": "needs to flow on past",
     "link": "4. cümledeki sınırın nedeni"
    },
    {
@@ -22974,10 +22974,10 @@
     "link": ""
    },
    {
-    "tr": "Klorun bırakılması, şebekede yeniden bulaşmayı önlemektedir.",
+    "tr": "Suda bir miktar klor bırakılması, şebekede yeniden bulaşmayı önlemektedir.",
     "hint": "Fiil-ing özne.",
-    "skeleton": "······· ········ ········ ··············· in the ·······.",
-    "model": "Leaving chlorine prevents recontamination in the network.",
+    "skeleton": "······· ···· ········ in the ····· ········ ··············· in the ·······.",
+    "model": "Leaving some chlorine in the water prevents recontamination in the network.",
     "chunk": "prevents recontamination",
     "link": "4. cümledeki dezenfeksiyonun uzantısı"
    },
@@ -23269,8 +23269,8 @@
    {
     "tr": "Kıtaların hareket ettiği fikri, uzun süre ciddiye alınmamıştır.",
     "hint": "the idea that + pasif geçmiş.",
-    "skeleton": "The ···· ···· the ·········· ···· ··· ···· ··· ····· ·········.",
-    "model": "The idea that the continents move was long not taken seriously.",
+    "skeleton": "The ···· ···· the ·········· ···· ··· ··· ····· ········· ··· · ···· ····.",
+    "model": "The idea that the continents move was not taken seriously for a long time.",
     "chunk": "the idea that ... move",
     "link": ""
    },
@@ -23317,9 +23317,9 @@
    {
     "tr": "Kısacası yeryüzü, tamamlanmış değil sürmekte olan bir yapıdır.",
     "hint": "İki ilgi cümleciği.",
-    "skeleton": "In ·····, ··· ······· ······· is · ········· that ·· ··········, not ··· ···· ·· ·········.",
-    "model": "In short, the earth's surface is a structure that is continuing, not one that is completed.",
-    "chunk": "that is continuing, not one that",
+    "skeleton": "In ·····, ··· ······· ······· is · ········· that is ····· ·· ········, not ··· that is ········.",
+    "model": "In short, the earth's surface is a structure that is still in progress, not one that is complete.",
+    "chunk": "that is still in progress, not one that",
     "link": "In short = kapanış"
    }
   ]
@@ -23447,9 +23447,9 @@
    {
     "tr": "Kısacası model, dünyayı değil verdiğimiz veriyi öğrenmektedir.",
     "hint": "not ... but ... + ilgi cümleciği (that düşmüş).",
-    "skeleton": "In ·····, ··· ····· ······ not ··· ····· but ··· ···· ·· ····.",
-    "model": "In short, the model learns not the world but the data we give.",
-    "chunk": "not the world but the data we give",
+    "skeleton": "In ·····, ··· ····· ······ not ··· ····· but ··· ···· ·· ···· ··.",
+    "model": "In short, the model learns not the world but the data we give it.",
+    "chunk": "not the world but the data we give it",
     "link": "In short = kapanış"
    }
   ]
@@ -23640,7 +23640,7 @@
     "link": "5. cümledeki maliyetin nedeni"
    },
    {
-    "tr": "Kısacası yakalamak, salmamaktan hiçbir zaman ucuz değildir.",
+    "tr": "Kısacası yakalamak, salmamaktan hiçbir zaman daha ucuz değildir.",
     "hint": "İki fiil-ing (biri olumsuz).",
     "skeleton": "In ·····, ········· ·· ····· ······· than ··· ········.",
     "model": "In short, capturing is never cheaper than not emitting.",
@@ -23675,9 +23675,9 @@
    {
     "tr": "Ancak sonucu geri ayırmak neredeyse imkânsızdır.",
     "hint": "Fiil-ing özne.",
-    "skeleton": "·······, ·········· the ······ ···· is ······ ··········.",
-    "model": "However, separating the result back is almost impossible.",
-    "chunk": "separating the result back",
+    "skeleton": "·······, ········· the ······ ···· ···· ··· ······· is ······ ··········.",
+    "model": "However, splitting the result back into its factors is almost impossible.",
+    "chunk": "splitting the result back",
     "link": "However = 2. cümledeki kolaylığın tersi"
    },
    {
@@ -23730,7 +23730,7 @@
     "link": ""
    },
    {
-    "tr": "Yalıtım, bu akışı durdurmaz yalnızca yavaşlatır.",
+    "tr": "Yalıtım, bu akışı durdurmaz, yalnızca yavaşlatır.",
     "hint": "not ... but only ... .",
     "skeleton": "·········· ···· not ···· ···· ···· but ···· ····· ·· ····.",
     "model": "Insulation does not stop this flow but only slows it down.",
@@ -23772,9 +23772,9 @@
    {
     "tr": "Kısacası iyi bir bina, hem sıkı hem de nefes alan bir binadır.",
     "hint": "one that + both ... and ... .",
-    "skeleton": "In ·····, · ···· ········ is ··· ···· is ···· ····· ··· ·········.",
-    "model": "In short, a good building is one that is both tight and breathing.",
-    "chunk": "both tight and breathing",
+    "skeleton": "In ·····, · ···· ········ is ··· ···· is ···· ········ ··· ··········.",
+    "model": "In short, a good building is one that is both airtight and breathable.",
+    "chunk": "both airtight and breathable",
     "link": "In short = kapanış"
    }
   ]
@@ -23852,7 +23852,7 @@
   "title": "Yankıyla görmek",
   "sentences": [
    {
-    "tr": "Ses dalgaları, sudan havadan çok daha uzağa gitmektedir.",
+    "tr": "Ses dalgaları, suda havadakinden çok daha uzağa gitmektedir.",
     "hint": "\"daha uzağa\" → further.",
     "skeleton": "····· ····· ······ ···· ······· in ····· than ·· ···.",
     "model": "Sound waves travel much further in water than in air.",
@@ -24235,9 +24235,9 @@
    {
     "tr": "Canlılar, bu nedenle sürekli enerji almak zorundadır.",
     "hint": "have to + fiil.",
-    "skeleton": "For ···· ······, ······ ······ have ·· ···· ······ ············.",
-    "model": "For this reason, living things have to take energy continuously.",
-    "chunk": "have to take energy",
+    "skeleton": "For ···· ······, ······ ······ have ·· ···· ·· ······ ············.",
+    "model": "For this reason, living things have to take in energy continuously.",
+    "chunk": "have to take in energy",
     "link": "6. cümledeki ilkenin canlıya uygulanması"
    },
    {
@@ -24349,8 +24349,8 @@
    {
     "tr": "Zamanda kayma simetrisi, enerjinin korunumunu vermektedir.",
     "hint": "Adlaştırma: the conservation of.",
-    "skeleton": "········ of ····· ·· ···· ····· the ············ ·· ······.",
-    "model": "Symmetry of shift in time gives the conservation of energy.",
+    "skeleton": "········ ····· ······ ·· ···· ····· the ············ of ······.",
+    "model": "Symmetry under shifts in time gives the conservation of energy.",
     "chunk": "the conservation of energy",
     "link": "2. cümledeki ilkenin örneği"
    },
@@ -24452,11 +24452,11 @@
     "link": "Despite this = 5. cümledeki başarısızlığa rağmen"
    },
    {
-    "tr": "Kuramın değiştirilmesi, daha çok gözlemi açıklamakta zorlanmaktadır.",
+    "tr": "Kuramın değiştirilmesi ise daha geniş bir gözlem yelpazesini açıklamakta zorlanmaktadır.",
     "hint": "Fiil-ing özne + \"...-de zorlanmak\" → have difficulty in.",
-    "skeleton": "········ the ······ ··· more ·········· ·· ·········· ···· ············.",
-    "model": "Changing the theory has more difficulty in explaining more observations.",
-    "chunk": "have difficulty in explaining",
+    "skeleton": "········· the ······, ·······, ··· ·········· ·· ·········· · ····· ····· ·· ············.",
+    "model": "Modifying the theory, however, has difficulty in explaining a wider range of observations.",
+    "chunk": "has difficulty in explaining",
     "link": "4. cümledeki ikinci seçeneğin zayıflığı"
    },
    {
@@ -24744,7 +24744,7 @@
     "link": ""
    },
    {
-    "tr": "Ne var ki biçmin bilinmesi, işlevin bilindiği anlamına gelmez.",
+    "tr": "Ne var ki biçimin bilinmesi, işlevin bilindiği anlamına gelmez.",
     "hint": "Özneli pasif fiil-ing + mean that.",
     "skeleton": "·······, the ······· ····· ····· ···· not ···· ···· the ········ ·· ·····.",
     "model": "However, the shape's being known does not mean that the function is known.",
@@ -24771,8 +24771,8 @@
    {
     "tr": "Cansız kimyadan canlıya geçiş, hâlâ açıklanabilmiş değildir.",
     "hint": "from ... to ... + pasif Present Perfect.",
-    "skeleton": "The ·········· ···· ········ ········· to · ······ ····· has ····· ··· ···· ·········.",
-    "model": "The transition from lifeless chemistry to a living being has still not been explained.",
+    "skeleton": "The ·········· ···· ········ ········· to ···· has ····· ··· ···· ·········.",
+    "model": "The transition from lifeless chemistry to life has still not been explained.",
     "chunk": "the transition from ... to",
     "link": ""
    },
@@ -25028,7 +25028,7 @@
     "link": "For this reason = 3-4. cümlelerin sonucu"
    },
    {
-    "tr": "Yeni kanıt, önceki inancı silmez yalnızca günceller.",
+    "tr": "Yeni kanıt, önceki inancı silmez, yalnızca günceller.",
     "hint": "not ... but only ... .",
     "skeleton": "··· ········ ···· not ····· the ········ ······ but ···· ······· ··.",
     "model": "New evidence does not erase the previous belief but only updates it.",
@@ -25095,8 +25095,8 @@
    {
     "tr": "Bu ikilik, hem salgınlarda hem elektrik şebekesinde görülmektedir.",
     "hint": "both in ... and in ... + pasif.",
-    "skeleton": "This ······· ·· ···· ···· in ········· ··· in ··· ····· ·······.",
-    "model": "This duality is seen both in epidemics and in the power network.",
+    "skeleton": "This ······· ·· ···· ···· in ········· ··· in ··· ····· ····.",
+    "model": "This duality is seen both in epidemics and in the power grid.",
     "chunk": "both in epidemics and in",
     "link": "Bu ikilik = 3-4. cümleler"
    },
@@ -25144,13 +25144,13 @@
    {
     "tr": "Bu dalgalar, bir yüzyıl önce öngörülmüştü.",
     "hint": "Past Perfect pasif.",
-    "skeleton": "····· ····· had ···· ········· a ······· ······.",
-    "model": "These waves had been predicted a century before.",
+    "skeleton": "····· ····· had ···· ········· a ······· ·······.",
+    "model": "These waves had been predicted a century earlier.",
     "chunk": "had been predicted",
     "link": "Bu dalgalar = 1. cümledekiler"
    },
    {
-    "tr": "Ancak etkileri o kadar küçüktür ki ölçülmesi imkânsız sanılmıştır.",
+    "tr": "Ancak etkileri o kadar küçüktür ki ölçülmelerinin imkânsız olduğu sanılmıştır.",
     "hint": "so ... that + fiil-ing + pasif.",
     "skeleton": "·······, ····· ······· are ·· ····· that ········· ···· was ········ ·· ·· ··········.",
     "model": "However, their effects are so small that measuring them was supposed to be impossible.",
@@ -25160,8 +25160,8 @@
    {
     "tr": "Ölçülen değişim, bir atom çekirdeğinin binde biri kadardır.",
     "hint": "\"binde biri\" → a thousandth of.",
-    "skeleton": "The ······ ···· ·· ········ is ·· ···· ·· a ·········· ·· ·· ······ ·······.",
-    "model": "The change that is measured is as much as a thousandth of an atomic nucleus.",
+    "skeleton": "The ······ ···· is ········ is ····· a ·········· ·· ··· ···· ·· ·· ······ ·······.",
+    "model": "The change that is measured is about a thousandth of the size of an atomic nucleus.",
     "chunk": "a thousandth of",
     "link": "3. cümledeki küçüklüğün ölçüsü"
    },
@@ -25378,10 +25378,10 @@
    },
    {
     "tr": "Bu uyum, çarpışmayı ortadan kaldırmaktadır.",
-    "hint": "\"ortadan kaldırmak\" → remove.",
-    "skeleton": "This ······· ······· ·········.",
-    "model": "This harmony removes collision.",
-    "chunk": "removes collision",
+    "hint": "\"ortadan kaldırmak\" → eliminate.",
+    "skeleton": "This ······· ·········· ··········.",
+    "model": "This harmony eliminates collisions.",
+    "chunk": "eliminates collisions",
     "link": "Bu uyum = 3. cümledeki uyumlu hareket"
    },
    {
@@ -25484,8 +25484,8 @@
    {
     "tr": "Var olmamız, evrenin küçük bir kusuruna borçludur.",
     "hint": "Pasif: is owed to.",
-    "skeleton": "Our ········ ·· ···· ·· a ····· ···· ·· ··· ········.",
-    "model": "Our existing is owed to a small flaw of the universe.",
+    "skeleton": "Our ········· ·· ···· ·· a ····· ···· ·· ··· ········.",
+    "model": "Our existence is owed to a small flaw of the universe.",
     "chunk": "is owed to a small flaw",
     "link": "kapanış"
    }
@@ -25590,9 +25590,9 @@
    {
     "tr": "Gelişimi yöneten genler, türler arasında şaşırtıcı ölçüde korunmuştur.",
     "hint": "İlgi cümleciği + pasif Present Perfect.",
-    "skeleton": "The ····· that ······ ··········· ···· ···· ········· ············ ······ ·······.",
-    "model": "The genes that govern development have been preserved surprisingly across species.",
-    "chunk": "have been preserved surprisingly",
+    "skeleton": "The ····· that ······ ··········· ···· ···· ············ ···· ········· ······ ·······.",
+    "model": "The genes that govern development have been surprisingly well preserved across species.",
+    "chunk": "surprisingly well preserved",
     "link": ""
    },
    {
@@ -25631,8 +25631,8 @@
     "tr": "Evrim, mühendisten çok tamirciye benzemektedir.",
     "hint": "resemble (edatsız) + rather than.",
     "skeleton": "········· ········· a ········ ······ than ·· ········.",
-    "model": "Evolution resembles a repairer rather than an engineer.",
-    "chunk": "resembles a repairer rather than",
+    "model": "Evolution resembles a tinkerer rather than an engineer.",
+    "chunk": "resembles a tinkerer rather than",
     "link": "kapanış"
    }
   ]
@@ -25686,9 +25686,9 @@
    },
    {
     "tr": "Farklı kuramlara dayanan aletlerin aynı sonucu vermesi, güven kaynağıdır.",
-    "hint": "Özneli fiil-ing + \"...kaynağı\" → a source of.",
-    "skeleton": "··········· that ···· ·· ········· ········ ······ the ···· ······ ·· a ······ ·· ··········.",
-    "model": "Instruments that rely on different theories giving the same result is a source of confidence.",
+    "hint": "the fact that + cümle + \"...kaynağı\" → a source of.",
+    "skeleton": "··· ···· that ··········· ······· ·· ········· ········ ···· the ···· ······ ·· a ······ ·· ··········.",
+    "model": "The fact that instruments relying on different theories give the same result is a source of confidence.",
     "chunk": "a source of confidence",
     "link": "5. cümledeki keyfilik itirazının cevabı"
    },
@@ -26204,7 +26204,7 @@
     "link": "5. cümledeki gereksinime engel"
    },
    {
-    "tr": "Bitkinin verimi, düşük olmasına rağmen kendini onarabilmektedir.",
+    "tr": "Bitki, verimi düşük olmasına rağmen kendini onarabilmektedir.",
     "hint": "Although + dönüşlü.",
     "skeleton": "········ the ·········· ·· the ····· ·· ···, it ··· ······ ······.",
     "model": "Although the efficiency of the plant is low, it can repair itself.",
@@ -26342,7 +26342,7 @@
     "link": "However = 4. cümledeki olumsuzluğa denge"
    },
    {
-    "tr": "Kısacası aile, kaybolmamış yalnızca biçim değiştirmiştir.",
+    "tr": "Kısacası aile, kaybolmamış, yalnızca biçim değiştirmiştir.",
     "hint": "İki Present Perfect.",
     "skeleton": "In ·····, ··· ······ has ··· ··········· but ··· ···· ······· ····.",
     "model": "In short, the family has not disappeared but has only changed form.",
@@ -26418,8 +26418,8 @@
    {
     "tr": "Paradan önce ticaretin takasla yapıldığı düşünülmektedir.",
     "hint": "Pasif giriş + pasif geçmiş.",
-    "skeleton": "It ·· ······· that ······ ····· ····· ··· ······· out ·· ······.",
-    "model": "It is thought that before money trade was carried out by barter.",
+    "skeleton": "It ·· ······· that ······ ·····, ····· ··· ······· out ·· ······.",
+    "model": "It is thought that before money, trade was carried out by barter.",
     "chunk": "it is thought that",
     "link": ""
    },
@@ -26540,9 +26540,9 @@
    {
     "tr": "İki yüzyıl önce çocukların çoğu tarlada çalışmaktaydı.",
     "hint": "used to + fiil.",
-    "skeleton": "··· ········· ···, ···· ········ ···· to ···· in ··· ·····.",
-    "model": "Two centuries ago, most children used to work in the field.",
-    "chunk": "used to work in the field",
+    "skeleton": "··· ········· ···, ···· ········ ···· to ···· in ··· ······.",
+    "model": "Two centuries ago, most children used to work in the fields.",
+    "chunk": "used to work in the fields",
     "link": "1. cümledeki yeniliğin gerekçesi"
    },
    {
@@ -26654,8 +26654,8 @@
    {
     "tr": "Bu farklar, yalnızca sesle sınırlı kalmamaktadır.",
     "hint": "limited to.",
-    "skeleton": "····· ··········· are not ······· ·· ····· ····.",
-    "model": "These differences are not limited to sound only.",
+    "skeleton": "····· ··········· are not ······· ·· ·····.",
+    "model": "These differences are not limited to sound.",
     "chunk": "are not limited to",
     "link": "Bu farklar = 1. cümledeki farklılık"
    },
@@ -26782,7 +26782,7 @@
     "link": "2. cümledeki eksik nedenin tamamlanması"
    },
    {
-    "tr": "İnsanlar, aynı katta oturduğu kişiyi tanımamaktadır.",
+    "tr": "İnsanlar, aynı katta oturdukları kişiyi tanımamaktadır.",
     "hint": "İlgi cümleciği.",
     "skeleton": "······ do ··· ···· the ······ ··· ····· on ··· ···· ·····.",
     "model": "People do not know the person who lives on the same floor.",
@@ -26825,9 +26825,9 @@
    {
     "tr": "Yazı makinesi tamircisi, artık neredeyse hiç kalmamıştır.",
     "hint": "Olumsuz özne + \"kalmak\" → be left.",
-    "skeleton": "······ no ·········· ········ is ···· ···.",
-    "model": "Almost no typewriter repairer is left now.",
-    "chunk": "almost no ... is left",
+    "skeleton": "····· ··· ······ no ·········· ········· ···· ···.",
+    "model": "There are almost no typewriter repairers left now.",
+    "chunk": "almost no ... left",
     "link": "1. cümledeki kayboluşun örneği"
    },
    {
@@ -26882,8 +26882,8 @@
    {
     "tr": "Bu nedenle türküler, yazısız bir tarih kaydı sayılmaktadır.",
     "hint": "Pasif + regard as.",
-    "skeleton": "For ···· ······, ···· ····· are ········ ·· a ············ ······ ·· ·······.",
-    "model": "For this reason, folk songs are regarded as a written-free record of history.",
+    "skeleton": "For ···· ······, ···· ····· are ········ ·· ·· ········· ······ ·· ·······.",
+    "model": "For this reason, folk songs are regarded as an unwritten record of history.",
     "chunk": "a record of history",
     "link": "For this reason = 1. cümledeki anlatı işlevi"
    },
@@ -26939,9 +26939,9 @@
    {
     "tr": "Ticaret yollarıyla gelen baharatlar, tatları kalıcı olarak değiştirmiştir.",
     "hint": "İlgi cümleciği + Present Perfect.",
-    "skeleton": "······ that ···· with ····· ······ ···· ··········· ······· ······.",
-    "model": "Spices that came with trade routes have permanently changed tastes.",
-    "chunk": "spices that came with",
+    "skeleton": "······ that ···· ····· ····· ······ ···· ··········· ······· ······.",
+    "model": "Spices that came along trade routes have permanently changed tastes.",
+    "chunk": "spices that came along",
     "link": "1. cümledeki yansımanın örneği"
    },
    {
@@ -27018,7 +27018,7 @@
     "link": ""
    },
    {
-    "tr": "Farklı ülkeler, kendini ortada gösteren haritalar kullanmaktadır.",
+    "tr": "Farklı ülkeler, kendilerini ortada gösteren haritalar kullanmaktadır.",
     "hint": "İlgi cümleciği + dönüşlü.",
     "skeleton": "········· ········· ··· ···· that ···· ·········· in ··· ······.",
     "model": "Different countries use maps that show themselves in the middle.",
@@ -27051,7 +27051,7 @@
     "link": ""
    },
    {
-    "tr": "Bazı takvimler aya, bazıları güneşe dayanmaktadır.",
+    "tr": "Bazı takvimler Ay'a, bazıları Güneş'e dayanmaktadır.",
     "hint": "be based on + others (tekrar kaçınma).",
     "skeleton": "Some ········· ··· ····· on ··· ···· and ······ ·· ··· ···.",
     "model": "Some calendars are based on the moon and others on the sun.",
@@ -27476,9 +27476,9 @@
    {
     "tr": "Bu mahalleler, zamanla şehrin merkezinde kalmıştır.",
     "hint": "Present Perfect.",
-    "skeleton": "····· ·············· have ·· ···· ········ in ··· ······ of ··· ····.",
-    "model": "These neighbourhoods have in time remained in the centre of the city.",
-    "chunk": "have ... remained in the centre",
+    "skeleton": "····· ·············· have, ···· ····, ····· ·· in ··· ······ of ··· ····.",
+    "model": "These neighbourhoods have, over time, ended up in the centre of the city.",
+    "chunk": "ended up in the centre",
     "link": "Bu mahalleler = 4. cümledeki yerleşim"
    },
    {
@@ -27582,9 +27582,9 @@
    {
     "tr": "Bankacılar, herkesin aynı anda gelmeyeceğini fark etmiştir.",
     "hint": "notice that + would.",
-    "skeleton": "······· ······· that ········ ····· ··· ···· at ··· ···· ····.",
-    "model": "Bankers noticed that everyone would not come at the same time.",
-    "chunk": "noticed that ... would not come",
+    "skeleton": "······· ······· that ··· ········ ····· ···· at ··· ···· ····.",
+    "model": "Bankers noticed that not everyone would come at the same time.",
+    "chunk": "noticed that not everyone would come",
     "link": ""
    },
    {
@@ -27654,10 +27654,10 @@
    },
    {
     "tr": "Kısacası küçük bir kâğıt, iletişimi kitleselleştirmiştir.",
-    "hint": "make + nesne + sıfat.",
-    "skeleton": "In ·····, · ····· ····· of ····· ··· ···· ············· ·······.",
-    "model": "In short, a small piece of paper has made communication massive.",
-    "chunk": "has made communication massive",
+    "hint": "make + nesne + isim.",
+    "skeleton": "In ·····, · ····· ····· of ····· ··· ···· ············· · ···· ··········.",
+    "model": "In short, a small piece of paper has made communication a mass phenomenon.",
+    "chunk": "has made communication a mass phenomenon",
     "link": "In short = kapanış"
    }
   ]
@@ -27973,8 +27973,8 @@
    {
     "tr": "Ancak seyyah, gördüğünü kendi gözüyle anlatmaktadır.",
     "hint": "İsim cümleciği + \"kendi\" → their own.",
-    "skeleton": "·······, a ········· ········· ···· they ··· ···· ····· ··· ···.",
-    "model": "However, a traveller describes what they see with their own eye.",
+    "skeleton": "·······, a ········· ········· ···· they ··· ······· ····· ··· ····.",
+    "model": "However, a traveller describes what they see through their own eyes.",
     "chunk": "what they see",
     "link": "However = 2. cümledeki değere uyarı"
    },
@@ -28168,9 +28168,9 @@
    {
     "tr": "Kayıt maliyetinin yüksekliği de belirleyici olmaktadır.",
     "hint": "Adlaştırma.",
-    "skeleton": "The ········ ·· the ···· ·· ············ ·· ···· ········.",
-    "model": "The highness of the cost of registration is also decisive.",
-    "chunk": "the cost of registration",
+    "skeleton": "The ···· ···· ·· ············ ·· ···· ········.",
+    "model": "The high cost of registration is also decisive.",
+    "chunk": "the high cost of registration",
     "link": "3. cümledeki dar açıklamanın tamamlanması"
    },
    {
@@ -28192,9 +28192,9 @@
    {
     "tr": "Kısacası kural, uyulabilir olduğunda uyulmaktadır.",
     "hint": "Pasif + when.",
-    "skeleton": "In ·····, · ···· is ······ ···· ·· ·· ········.",
-    "model": "In short, a rule is obeyed when it is obeyable.",
-    "chunk": "is obeyed when it is obeyable",
+    "skeleton": "In ·····, · ···· is ······ ···· ·· ··· ·· ······.",
+    "model": "In short, a rule is obeyed when it can be obeyed.",
+    "chunk": "is obeyed when it can be obeyed",
     "link": "In short = kapanış"
    }
   ]
@@ -28257,9 +28257,9 @@
    {
     "tr": "Kısacası tören, boş değil pahalı bir işarettir.",
     "hint": "not ... but ... .",
-    "skeleton": "In ·····, · ········ is ··· an ····· ··· ·· ········· ····.",
-    "model": "In short, a ceremony is not an empty but an expensive sign.",
-    "chunk": "not an empty but an expensive sign",
+    "skeleton": "In ·····, · ········ is ··· an ····· ··· · ······ ····.",
+    "model": "In short, a ceremony is not an empty but a costly sign.",
+    "chunk": "not an empty but a costly sign",
     "link": "In short = kapanış"
    }
   ]
@@ -28306,8 +28306,8 @@
    {
     "tr": "Çünkü hatırlamanın kendisi de bir tarihsel veridir.",
     "hint": "Fiil-ing özne + pekiştirme.",
-    "skeleton": "This is ······· ··········· ······ ·· ···· a ·········· ····· ·· ····.",
-    "model": "This is because remembering itself is also a historical piece of data.",
+    "skeleton": "This is ······· ··········· ······ is ···· a ····· ·· ·········· ····.",
+    "model": "This is because remembering itself is also a piece of historical data.",
     "chunk": "remembering itself",
     "link": "4. cümledeki kabulün nedeni"
    },
@@ -28347,9 +28347,9 @@
    {
     "tr": "Örgütlenme, belli bir kaynak ve zaman gerektirmektedir.",
     "hint": "Fiil-ing özne.",
-    "skeleton": "·········· ········ a ······· ········ and ····.",
-    "model": "Organizing requires a certain resource and time.",
-    "chunk": "requires a certain resource",
+    "skeleton": "·········· ········ ······· ········· and ····.",
+    "model": "Organizing requires certain resources and time.",
+    "chunk": "requires certain resources",
     "link": "1. cümledeki durumun nedeni"
    },
    {
@@ -28404,9 +28404,9 @@
    {
     "tr": "Anıtlar, geçmişi hatırlatmak için dikilmektedir.",
     "hint": "Pasif + in order to + remind of.",
-    "skeleton": "········· are ······· ·· ····· to ······ ·· ··· ····.",
-    "model": "Monuments are erected in order to remind of the past.",
-    "chunk": "in order to remind of",
+    "skeleton": "········· are ······· ·· ····· to ······ ······ ·· ··· ····.",
+    "model": "Monuments are erected in order to remind people of the past.",
+    "chunk": "in order to remind people of",
     "link": ""
    },
    {
@@ -28540,7 +28540,7 @@
     "link": ""
    },
    {
-    "tr": "Oysa gözlemler, panikin sanıldığından seyrek olduğunu göstermiştir.",
+    "tr": "Oysa gözlemler, paniğin sanıldığından seyrek olduğunu göstermiştir.",
     "hint": "than is supposed.",
     "skeleton": "In ····, ············ ···· ····· that ····· ·· ····· than ·· ········.",
     "model": "In fact, observations have shown that panic is rarer than is supposed.",
@@ -28597,7 +28597,7 @@
   "title": "Kalkınma yardımı",
   "sentences": [
    {
-    "tr": "Kalkınma yardımının etkisi uzun süre tartışılmaktadır.",
+    "tr": "Kalkınma yardımının etkisi uzun süredir tartışılmaktadır.",
     "hint": "Pasif Present Perfect.",
     "skeleton": "The ······ of ··········· ··· ··· ···· ···· ·······.",
     "model": "The effect of development aid has long been debated.",
@@ -28623,9 +28623,9 @@
    {
     "tr": "Buna karşın hedefli programlar açık yarar sağlamıştır.",
     "hint": "Present Perfect.",
-    "skeleton": "On the ····· ····, ········ ·········· ···· ········ ····· ·······.",
-    "model": "On the other hand, targeted programmes have provided clear benefit.",
-    "chunk": "have provided clear benefit",
+    "skeleton": "On the ····· ····, ········ ·········· ···· ········ ····· ········.",
+    "model": "On the other hand, targeted programmes have provided clear benefits.",
+    "chunk": "have provided clear benefits",
     "link": "On the other hand = 2-3. cümlelere denge"
    },
    {
@@ -28672,8 +28672,8 @@
    {
     "tr": "Teminat istenmemesi, erişimi büyük ölçüde genişletmiştir.",
     "hint": "the fact that + pasif geçmiş.",
-    "skeleton": "The ···· ···· no ········ ··· ········ ··· ······· ······· ······.",
-    "model": "The fact that no security was demanded has greatly widened access.",
+    "skeleton": "The ···· ···· no ·········· ··· ········ ··· ······· ······· ······.",
+    "model": "The fact that no collateral was demanded has greatly widened access.",
     "chunk": "has greatly widened access",
     "link": "1. cümledeki modelin yeniliği"
    },
@@ -28826,8 +28826,8 @@
    {
     "tr": "Ne var ki materyal eksikliği, uygulamayı güçleştirmektedir.",
     "hint": "\"...eksikliği\" → the lack of.",
-    "skeleton": "·······, the ···· of ········ ····· ··········· ·········.",
-    "model": "However, the lack of material makes application difficult.",
+    "skeleton": "·······, the ···· of ········· ····· ··········· ·········.",
+    "model": "However, the lack of materials makes application difficult.",
     "chunk": "makes application difficult",
     "link": "However = 3. cümledeki modele engel"
    },
@@ -28858,10 +28858,10 @@
   "sentences": [
    {
     "tr": "Kentsel dönüşüm, çoğu zaman deprem güvenliğiyle gerekçelendirilmektedir.",
-    "hint": "Pasif: is justified with.",
-    "skeleton": "····· ·············· is ······· ········· with ·········· ······.",
-    "model": "Urban transformation is usually justified with earthquake safety.",
-    "chunk": "is justified with",
+    "hint": "Pasif: is justified on the grounds of.",
+    "skeleton": "····· ·············· is ······· ········· ·· ··· ······· ·· ·········· ······.",
+    "model": "Urban transformation is usually justified on the grounds of earthquake safety.",
+    "chunk": "justified on the grounds of",
     "link": ""
    },
    {
@@ -28874,18 +28874,18 @@
    },
    {
     "tr": "Ne var ki uygulama, çoğu zaman eski sakinleri dışarıda bırakmaktadır.",
-    "hint": "leave + nesne + sıfat.",
-    "skeleton": "·······, the ········ ······· ······ the ······ ········· ·······.",
-    "model": "However, the practice usually leaves the former residents outside.",
-    "chunk": "leaves the former residents outside",
+    "hint": "\"dışarıda bırakmak\" → leave out.",
+    "skeleton": "·······, the ········ ······· ······ the ······ ········· ···.",
+    "model": "However, the practice usually leaves the former residents out.",
+    "chunk": "leaves the former residents out",
     "link": "However = 2. cümledeki haklılığa rağmen"
    },
    {
     "tr": "Yeni konutların fiyatı, onların gücünü aşmaktadır.",
-    "hint": "\"aşmak\" → exceed.",
-    "skeleton": "The ····· of ··· ··· ······· ······· ····· ·····.",
-    "model": "The price of the new housing exceeds their power.",
-    "chunk": "exceeds their power",
+    "hint": "\"gücünü aşmak\" → be beyond one's means.",
+    "skeleton": "The ····· of ··· ··· ······· ·· ······ ····· ·····.",
+    "model": "The price of the new housing is beyond their means.",
+    "chunk": "is beyond their means",
     "link": "3. cümledeki dışlanmanın nedeni"
    },
    {
@@ -29084,7 +29084,7 @@
     "link": "'In an oral tradition' = 3. cümledeki esneklik kaybının açıklaması"
    },
    {
-    "tr": "Buna karşılık, sabit metin haline gelen bir hüküm yalnızca mahkeme kararlarıyla değişebilir.",
+    "tr": "Buna karşılık, sabit metin hâline gelen bir hüküm yalnızca mahkeme kararlarıyla değişebilir.",
     "hint": "'yalnızca ... ile' = only through",
     "skeleton": "In ········, a ········· ···· has ······ a ····· ···· ··· ······ ···· ······· ····· ·········.",
     "model": "In contrast, a provision that has become a fixed text can change only through court decisions.",
@@ -29401,7 +29401,7 @@
     "link": "'Poor nutrition' = 2. cümledeki dezavantajların listesi"
    },
    {
-    "tr": "Ayrıca ailelerin ağı, iş bulmayı sağlayan bağlantılardan da yoksundur.",
+    "tr": "Ayrıca bu ailelerin sosyal ağları, iş bulmayı sağlayan bağlantılardan da yoksundur.",
     "hint": "'yoksun olmak' = lack (edatsız)",
     "skeleton": "In ········, the ········ ·· ····· ········ ···· ···· the ··········· that ······· ······ ·· ····.",
     "model": "In addition, the networks of these families also lack the connections that provide access to jobs.",
@@ -29507,7 +29507,7 @@
   "title": "Edebiyat ve Ortak Kimlik",
   "sentences": [
    {
-    "tr": "Ondokuzuncu yüzyılda romanın yaygınlaşması, ortak bir zaman duygusunun oluşmasına katkıda bulundu.",
+    "tr": "On dokuzuncu yüzyılda romanın yaygınlaşması, ortak bir zaman duygusunun oluşmasına katkıda bulundu.",
     "hint": "'katkıda bulunmak' = contribute to + isim",
     "skeleton": "The ······ ·· the ····· ·· ··· ·········· ······· ··········· to ··· ········· of · ······ ····· ·· ····.",
     "model": "The spread of the novel in the nineteenth century contributed to the formation of a shared sense of time.",
@@ -29582,8 +29582,8 @@
    {
     "tr": "Bu uygulamanın nedeni yalnızca acımasızlık değil, ailelerin gelir zorunluluğuydu.",
     "hint": "not only X but Y",
-    "skeleton": "The ······ ··· this ········ ··· ··· ···· ······· but ··· ······ ········· ·· ········.",
-    "model": "The reason for this practice was not only cruelty but the income necessity of families.",
+    "skeleton": "The ······ ··· this ········ ··· ··· ···· ······· but ········· ···· ··· ······.",
+    "model": "The reason for this practice was not only cruelty but families' need for income.",
     "chunk": "not only ... but ...",
     "link": "'The reason' = 1. cümledeki uygulamanın açıklaması"
    },
@@ -29645,7 +29645,7 @@
     "link": ""
    },
    {
-    "tr": "Tek başına satış yapan bir üretici, fiyatı belirleyemez yalnızca kabul eder.",
+    "tr": "Tek başına satış yapan bir üretici, fiyatı belirleyemez, yalnızca kabul eder.",
     "hint": "'yalnızca' = merely",
     "skeleton": "A ········ who ····· ····· ······ ········· ··· ····· but ······ ······· ··.",
     "model": "A producer who sells alone cannot determine the price but merely accepts it.",
@@ -29687,8 +29687,8 @@
    {
     "tr": "Bu nedenle şeffaf muhasebe, kooperatifçiliğin teknik değil kurucu bir unsurudur.",
     "hint": "not X but Y sıfat karşıtlığı",
-    "skeleton": "For ···· ······, ··········· ·········· is ··· · ········· but · ········ ······· ·· ···········.",
-    "model": "For this reason, transparent accounting is not a technical but a founding element of cooperation.",
+    "skeleton": "For ···· ······, ··········· ·········· is ··· · ········· but · ········ ······· ·· ··· ··········· ········.",
+    "model": "For this reason, transparent accounting is not a technical but a founding element of the cooperative movement.",
     "chunk": "founding element",
     "link": "For this reason = metnin sonucu"
    }
@@ -29962,7 +29962,7 @@
   "title": "Toplumsal Hafıza",
   "sentences": [
    {
-    "tr": "Bir toplumun geçmişi hatırlama biçimi, o geçmişin kendisi kadar bugünün ihtiyaçları tarafından belirlenir.",
+    "tr": "Bir toplumun geçmişi hatırlama biçimi, o geçmişin kendisinden çok bugünün ihtiyaçları tarafından belirlenir.",
     "hint": "'-den çok ... tarafından' = less by X than by Y",
     "skeleton": "The ··· · ······· ········· its ···· ·· ·········· ···· by ···· ···· ······ than ·· the ····· ·· ··· ·······.",
     "model": "The way a society remembers its past is determined less by that past itself than by the needs of the present.",
@@ -30067,7 +30067,7 @@
     "link": "'What gives meaning' = 3. cümledeki savın gerekçesi"
    },
    {
-    "tr": "Ancak bu icatlar, çoğu zaman hızlı toplumsal değişimin yarattığı boşluğu doldurmak için ortaya çıkar.",
+    "tr": "Yine de bu icatlar, çoğu zaman hızlı toplumsal değişimin yarattığı boşluğu doldurmak için ortaya çıkar.",
     "hint": "'yaratılan boşluk' = the void created by",
     "skeleton": "··· ····· ·········· ······· ······ in ····· to ···· the ···· ······· by ····· ······ ······.",
     "model": "Yet these inventions usually emerge in order to fill the void created by rapid social change.",
@@ -30075,7 +30075,7 @@
     "link": "Yet = 4. cümledeki anlam vurgusunun tarihsel koşulu"
    },
    {
-    "tr": "Ancak toplum, kendini yeni bir dünyada bulduğunda, sürekliliği yeniden üretmek zorunda kalır.",
+    "tr": "Toplum ancak kendini yeni bir dünyada bulduğunda sürekliliği yeniden üretmek zorunda kalır.",
     "hint": "Only when + devrik: does it have to",
     "skeleton": "···· ···· a ······· ····· ······ in · ··· ····· ···· it have ·· ········· ··········.",
     "model": "Only when a society finds itself in a new world does it have to reproduce continuity.",
@@ -30270,7 +30270,7 @@
     "link": "'How comfortably' = 1. cümledeki eşitsiz kullanımın açılımı"
    },
    {
-    "tr": "Oturmayı engelleyen banklar ve saat sınırlamaları, dışlamayı yasak koymadan gerçekleştirir.",
+    "tr": "Uzanmayı engelleyen banklar ve saat sınırlamaları, dışlamayı yasak koymadan gerçekleştirir.",
     "hint": "'yasak koymadan' = without imposing a ban",
     "skeleton": "······· that ······· ····· ···· and ···· ············ ·········· ········· ······· ········ a ···.",
     "model": "Benches that prevent lying down and time restrictions accomplish exclusion without imposing a ban.",
@@ -30506,10 +30506,10 @@
    },
    {
     "tr": "Yeniden suç işleme oranları, caydırıcılığın sanıldığı kadar güçlü olmadığını göstermektedir.",
-    "hint": "not as ... as it is supposed to be",
-    "skeleton": "····· of ··········· ···· ···· ·········· is ··· ·· ······ as ·· is ········ ·· ··.",
-    "model": "Rates of reoffending show that deterrence is not as strong as it is supposed to be.",
-    "chunk": "be supposed to",
+    "hint": "not as ... as is supposed (pasif karşılaştırma)",
+    "skeleton": "····· of ··········· ···· ···· ·········· is ··· as ······ as is ········.",
+    "model": "Rates of reoffending show that deterrence is not as strong as is supposed.",
+    "chunk": "as is supposed",
     "link": "'Rates of reoffending' = 4. cümledeki eksikliğin kanıtı"
    },
    {
@@ -30586,7 +30586,7 @@
     "link": "'What is decisive' = 4. cümledeki kaçınmanın gerekçesi"
    },
    {
-    "tr": "Bireyin inancını kendi seçtiği bir alan hâline gelmesi, bağlılığı zayıflatmaz yalnızca kişiselleştirir.",
+    "tr": "İnancın, bireyin kendi seçtiği bir alan hâline gelmesi, bağlılığı zayıflatmaz, yalnızca kişiselleştirir.",
     "hint": "'seçtiği alan' = a domain the individual chooses",
     "skeleton": "The ···· ···· ······ has ······ · ······ the ·········· ······· ···· ··· ······ ·········· but ······ ············ ··.",
     "model": "The fact that belief has become a domain the individual chooses does not weaken commitment but merely personalizes it.",
@@ -30694,9 +30694,9 @@
    {
     "tr": "Pek çok toplumda armağan, karşılıksız görünmesine rağmen sıkı bir yükümlülük yaratır.",
     "hint": "although + appear to be",
-    "skeleton": "In ···· ········· the ····, ········ ·· ······· to ·· ···· of ······, ······· · ······ ··········.",
-    "model": "In many societies the gift, although it appears to be free of charge, creates a strict obligation.",
-    "chunk": "free of charge",
+    "skeleton": "In ···· ········· the ····, ········ ·· ······· to ·· ····· ······, ······· · ······ ··········.",
+    "model": "In many societies the gift, although it appears to be given freely, creates a strict obligation.",
+    "chunk": "given freely",
     "link": ""
    },
    {
@@ -30839,9 +30839,9 @@
   "sentences": [
    {
     "tr": "Kalkınma kavramı, ülkeleri tek bir çizgi üzerinde sıralayan bir bakışı beraberinde getirir.",
-    "hint": "'sıralayan bakış' = a view that ranges",
-    "skeleton": "The ······· of ··········· ······ ···· it · ···· that ······ ········· ····· · ······ ····.",
-    "model": "The concept of development brings with it a view that ranges countries along a single line.",
+    "hint": "'sıralayan bakış' = a view that ranks",
+    "skeleton": "The ······· of ··········· ······ ···· it · ···· that ····· ········· ····· · ······ ····.",
+    "model": "The concept of development brings with it a view that ranks countries along a single line.",
     "chunk": "bring with it",
     "link": ""
    },
@@ -30854,7 +30854,7 @@
     "link": "'this line' = 1. cümledeki tek çizgili sıralama"
    },
    {
-    "tr": "Böylece farklı yaşam biçimleri, kendi başına değil eksiklikleriyle tanımlanır.",
+    "tr": "Böylece farklı yaşam biçimleri, kendi ölçütleriyle değil eksiklikleriyle tanımlanır.",
     "hint": "not in ... terms but by ...",
     "skeleton": "···· ········· ···· of ···· ···· to ·· ······· not ·· ····· ··· ····· but ·· ····· ············.",
     "model": "Thus different ways of life come to be defined not in their own terms but by their deficiencies.",
@@ -31951,8 +31951,8 @@
    {
     "tr": "Oysa belirli bir yere sıkı sıkıya bağlı bilgi, tam da bu bağlılık sayesinde işe yarar.",
     "hint": "'bağlı bilgi' = knowledge bound to",
-    "skeleton": "··· ········· ······· ····· to a ·········· ····· ····· ········· ······ to ···· ·········.",
-    "model": "Yet knowledge tightly bound to a particular place works precisely thanks to that boundness.",
+    "skeleton": "··· ········· ······· ····· to a ·········· ····· ····· ········· ······ to ···· ··········.",
+    "model": "Yet knowledge tightly bound to a particular place works precisely thanks to that rootedness.",
     "chunk": "thanks to",
     "link": "Yet = 2. cümledeki ölçütün ters çevrilmesi"
    },
