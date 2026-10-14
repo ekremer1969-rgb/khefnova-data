@@ -53,7 +53,7 @@
    "id": "case_02",
    "branch": "saglik",
    "title": "Solunum Servisinde Hata",
-   "intro": "Göğüs hastalıkları servisinde hastaların oksijen değerlerinin yanlış kaydedildiği bir sabote olayı yaşandı.",
+   "intro": "Göğüs hastalıkları servisinde hastaların oksijen değerlerinin yanlış kaydedildiği bir sabotaj olayı yaşandı.",
    "suspects": [
     {
      "word": "infection",
@@ -1109,7 +1109,7 @@
    "id": "case_24",
    "branch": "saglik",
    "title": "Cerrahi Depo Kaybı",
-   "intro": "Ameliyathane sterile deposundan hassas doku tutucu bir aletin çalındığı tespit edildi.",
+   "intro": "Ameliyathane steril deposundan hassas doku tutucu bir aletin çalındığı tespit edildi.",
    "suspects": [
     {
      "word": "therapist",
@@ -1225,7 +1225,7 @@
     },
     {
      "word": "pathogen",
-     "tr": "pathojen"
+     "tr": "patojen"
     }
    ],
    "clues": [
@@ -2111,7 +2111,7 @@
     }
    ],
    "culprit": "epilepsy",
-   "epilogue": "Ehliyet alması engellenmesi gerekirken kayıtlardan bilerek silinen asıl nörolojik rahatsızlığın, ani bilinç kayıplarına yol açan sara (epilepsy) hastalığı olduğu belirlendi."
+   "epilogue": "Ehliyet almasının engellenmesi gerekirken kayıtlardan bilerek silinen asıl nörolojik rahatsızlığın, ani bilinç kayıplarına yol açan sara (epilepsy) hastalığı olduğu belirlendi."
   },
   {
    "id": "case_45",
@@ -2225,7 +2225,7 @@
     },
     {
      "word": "resuscitation",
-     "tr": "canlandırmak"
+     "tr": "canlandırma"
     },
     {
      "word": "supplement",
@@ -2885,7 +2885,7 @@
    "id": "case_61",
    "branch": "saglik",
    "title": "Taburculuk Kayıtları",
-   "intro": "Hastaneden ayrılan hastarın arşiv dosyalarında sahte imzalarla çıkış işlemlerinin tamamlandığı saptandı.",
+   "intro": "Hastaneden ayrılan hastaların arşiv dosyalarında sahte imzalarla çıkış işlemlerinin tamamlandığı saptandı.",
    "suspects": [
     {
      "word": "marrow",
@@ -2975,7 +2975,7 @@
     }
    ],
    "culprit": "severe",
-   "epilogue": "Soruşturmada, suistimal edilen güçlü narkotik ilaçların, yalnızca en uç sınırdaki, yani çok yoğun ve tehlikeli ağrılı durumları, yani şiddetli (severe) semptomları dindirmek amacıyla yazıldığı saptandı."
+   "epilogue": "Soruşturmada, suistimal edilen güçlü narkotik ilaçların, yalnızca en uç sınırdaki, çok yoğun ve tehlikeli ağrılı durumları, yani şiddetli (severe) semptomları dindirmek amacıyla yazıldığı saptandı."
   },
   {
    "id": "case_63",
@@ -3097,7 +3097,7 @@
     },
     {
      "word": "break out",
-     "tr": "salgın patlak vermek"
+     "tr": "patlak vermek"
     }
    ],
    "clues": [
@@ -3145,7 +3145,7 @@
     },
     {
      "word": "flare up",
-     "tr": "rahatsızlık alevlenmek"
+     "tr": "alevlenmek"
     }
    ],
    "clues": [
@@ -3433,7 +3433,7 @@
     },
     {
      "word": "take after",
-     "tr": "kalıtsal benzemek"
+     "tr": "ebeveynine benzemek"
     }
    ],
    "clues": [
@@ -3551,7 +3551,7 @@
     }
    ],
    "culprit": "enzyme",
-   "epilogue": "Dedektifin araştırmaları sonucunumda, sabote edilen ve solunum fizyolojisinde hayati rol oynayan o biyokimyasal hızlandırıcı protein yapıların, yani enzim (enzyme) molekülleri olduğu anlaşıldı."
+   "epilogue": "Dedektifin araştırmaları sonucunda, sabote edilen ve solunum fizyolojisinde hayati rol oynayan o biyokimyasal hızlandırıcı protein yapıların, yani enzim (enzyme) molekülleri olduğu anlaşıldı."
   },
   {
    "id": "case_75",
@@ -3721,7 +3721,7 @@
     },
     {
      "word": "plasma",
-     "tr": "plasma"
+     "tr": "plazma"
     }
    ],
    "clues": [
@@ -4057,7 +4057,7 @@
     },
     {
      "word": "viscous",
-     "tr": "akışkan"
+     "tr": "viskoz"
     }
    ],
    "clues": [
@@ -5695,7 +5695,7 @@
    "clues": [
     {
      "eliminate": "meter",
-     "text": "Işığın boşlukta saniyenin yaklaşık 300 milyonda birinde katettiği mesafe olarak tanımlanan temel uzunluk birimini kullanan topoğraf suçsuz çıktı."
+     "text": "Işığın boşlukta saniyenin yaklaşık 300 milyonda birinde katettiği mesafe olarak tanımlanan temel uzunluk birimini kullanan topograf suçsuz çıktı."
     },
     {
      "eliminate": "heat",
@@ -6444,7 +6444,7 @@
      "tr": "ses perdesi"
     },
     {
-     "word": "gravity_field",
+     "word": "gravity field",
      "tr": "kütle çekimi"
     },
     {
@@ -6466,7 +6466,7 @@
      "text": "Ses dalgalarının frekansına bağlı olarak sesin ince veya kalın algılanma derecesini araştıran akustik uzmanı elendi."
     },
     {
-     "eliminate": "gravity_field",
+     "eliminate": "gravity field",
      "text": "Kütleli gök cisimlerinin çevrelerindeki maddeleri kendilerine doğru çekmesini sağlayan kuvvet alanını inceleyen astrofizikçi temize çıktı."
     },
     {
@@ -6725,7 +6725,7 @@
    "id": "yokdil_fen_case_61",
    "branch": "fen",
    "title": "Dava 61",
-   "intro": "Laboratuvardaki asit-baz analiz istasyonunda bir sabote olayı gerçekleşti. Kimyasal numunelerin kararlılık değerleri değiştirildi. Dedektif, hırsızı yakalamak için harekete geçti!",
+   "intro": "Laboratuvardaki asit-baz analiz istasyonunda bir sabotaj olayı gerçekleşti. Kimyasal numunelerin kararlılık değerleri değiştirildi. Dedektif, hırsızı yakalamak için harekete geçti!",
    "suspects": [
     {
      "word": "earthquake",
@@ -7139,7 +7139,7 @@
     },
     {
      "eliminate": "sound",
-     "text": "Titreşen cisimlerin katı, sıvı veya gaz ortamlarda boyuna dalgalar halinde yayılmasıyla oluşan ve kulakla algılanabilen fiziksel dalga dalıyla uğraşan akustikçinin olayla ilgisi yoktu."
+     "text": "Titreşen cisimlerin katı, sıvı veya gaz ortamlarda boyuna dalgalar halinde yayılmasıyla oluşan ve kulakla algılanabilen fiziksel dalgayla uğraşan akustikçinin olayla ilgisi yoktu."
     },
     {
      "eliminate": "plate",
@@ -7295,7 +7295,7 @@
     }
    ],
    "culprit": "rotation",
-   "epilogue": "Gözlem, hücre ve koruma şüpheleri elendiğinde geriye kendi ekseni etrafında dönme hareketi kaldı. Sabotajcının dönme (rotation) olduğu tespit edildi!"
+   "epilogue": "Gözlem, organ ve koruma şüpheleri elendiğinde geriye kendi ekseni etrafında dönme hareketi kaldı. Sabotajcının dönme (rotation) olduğu tespit edildi!"
   },
   {
    "id": "yokdil_fen_case_73",
@@ -7391,7 +7391,7 @@
     }
    ],
    "culprit": "organelle",
-   "epilogue": "Uzay, kuvvet ve optik yansıma şüpheleri kalkınca geriye hücre içi organeller kaldı. Hırsızın organel (organelle) olduğu kesinleşti!"
+   "epilogue": "Uzay, kuvvet ve ses yansıması şüpheleri kalkınca geriye hücre içi organeller kaldı. Hırsızın organel (organelle) olduğu kesinleşti!"
   },
   {
    "id": "yokdil_fen_case_75",
@@ -7513,7 +7513,7 @@
     },
     {
      "word": "substance",
-     "tr": "töz"
+     "tr": "madde"
     }
    ],
    "clues": [
@@ -7535,7 +7535,7 @@
     }
    ],
    "culprit": "ignite",
-   "epilogue": "Tüm manyetik, birim ve töz şüpheleri elendiğinde geriye bir yanmayı başlatma eylemi kaldı. Hırsızın tutuşturmak (ignite) olduğu kesinleşti!"
+   "epilogue": "Tüm manyetik, birim ve madde şüpheleri elendiğinde geriye bir yanmayı başlatma eylemi kaldı. Hırsızın tutuşturmak (ignite) olduğu kesinleşti!"
   },
   {
    "id": "yokdil_fen_case_78",
@@ -7675,7 +7675,7 @@
     },
     {
      "eliminate": "helium",
-     "text": "Evrende hidrojenden sonra en çok bulunan, hafif, yanıcı olmayan ve atom numarası 2 olan soygaz element üzerindeki çalışmaların sızıntıyı açıklamadığı kesinleşti."
+     "text": "Evrende hidrojenden sonra en çok bulunan, hafif, yanıcı olmayan ve atom numarası 2 olan soygaz element üzerindeki çalışmaların olayı açıklamadığı kesinleşti."
     }
    ],
    "culprit": "photosynthesis",
@@ -7858,7 +7858,7 @@
     },
     {
      "eliminate": "coast",
-     "text": "Deniz ile karanın birleştiği sınır şeridini, yalı ve körfez haritalarını çizen kartografın olay saatinde başka bir adada olduğu kesinleşti."
+     "text": "Deniz ile karanın birleştiği sınır şeridini, koy ve körfez haritalarını çizen kartografın olay saatinde başka bir adada olduğu kesinleşti."
     },
     {
      "eliminate": "deficit",
@@ -7967,7 +7967,7 @@
    ],
    "culprit": "referendum",
    "intro": "Parlamento kütüphanesinde anayasa taslağının asıl nüshası kayboldu. Şüphelilerin her biri anayasa komisyonu üyelerinden oluşuyor.",
-   "epilogue": "Hırsızın, halkın önemli bir siyasi veya anayasal konuda doğrudan oy vererek karar almasını sağlayan oylama sürecini, yani referandum (referandum) kelimesini temsil ettiği saptandı."
+   "epilogue": "Hırsızın, halkın önemli bir siyasi veya anayasal konuda doğrudan oy vererek karar almasını sağlayan oylama sürecini, yani referandum (referendum) kelimesini temsil ettiği saptandı."
   },
   {
    "id": "sosyal-case-07",
@@ -8460,7 +8460,7 @@
     },
     {
      "word": "descendant",
-     "tr": "soydan gelen"
+     "tr": "soyundan gelen"
     },
     {
      "word": "plain",
@@ -8578,7 +8578,7 @@
     },
     {
      "eliminate": "altitude",
-     "text": "Bir yerin deniz seviyesinden olan dikey yüksekliğini ölçen ve topoğrafya haritasını hazırlayan mühendis elendi."
+     "text": "Bir yerin deniz seviyesinden olan dikey yüksekliğini ölçen ve topografya haritasını hazırlayan mühendis elendi."
     },
     {
      "eliminate": "expenditure",
@@ -9107,7 +9107,7 @@
     },
     {
      "eliminate": "delta",
-     "text": "Bir nehrin denize döküğü yerde taşıdığı alüvyonların birikmesiyle oluşan üçgen biçimli verimli ovanın olayla ilgisi yoktu."
+     "text": "Bir nehrin denize döküldüğü yerde taşıdığı alüvyonların birikmesiyle oluşan üçgen biçimli verimli ovanın olayla ilgisi yoktu."
     },
     {
      "eliminate": "tariff",
@@ -9273,7 +9273,7 @@
    "suspects": [
     {
      "word": "judge",
-     "tr": "hakim"
+     "tr": "hâkim"
     },
     {
      "word": "nation",
@@ -9310,7 +9310,7 @@
      "text": "İki veya daha fazla durum, nesne ya da kişi arasındaki benzerlik ve farkları ortaya koymak için yapılan zihinsel kıyaslama eylemi elendi."
     }
    ],
-   "epilogue": "Hırsızın, mahkemelerde yargılama yetkisini elinde bulunduran, uyuşmazlıkları yasalara göre çözüp karar veren yetkili kişi, yani hakim (judge) olduğu saptandı!",
+   "epilogue": "Hırsızın, mahkemelerde yargılama yetkisini elinde bulunduran, uyuşmazlıkları yasalara göre çözüp karar veren yetkili kişi, yani hâkim (judge) olduğu saptandı!",
    "culprit": "judge"
   },
   {
@@ -9720,7 +9720,7 @@
     },
     {
      "word": "elect",
-     "tr": "secili_olmak"
+     "tr": "seçmek"
     }
    ],
    "clues": [
@@ -9822,7 +9822,7 @@
    "clues": [
     {
      "eliminate": "ancient",
-     "text": "Çok eski dönemlerden, özellikle ilk çağ uygarlıklarından günümüze kalan ve tarih öncesi devirlere ait olan buluntuları inceleyen arkeolog elendi."
+     "text": "Çok eski dönemlerden, özellikle ilk çağ uygarlıklarından günümüze kalan buluntuları inceleyen arkeolog elendi."
     },
     {
      "eliminate": "variable",
@@ -10118,7 +10118,7 @@
     },
     {
      "eliminate": "tropics",
-     "text": "Ekvatorun her iki yanında yer alan, sıcak ve nemli iklim koşullarının hakim olduğu coğrafi bölgeyi araştıran klimatolog temize çıktı."
+     "text": "Ekvatorun her iki yanında yer alan, sıcak ve nemli iklim koşullarının hâkim olduğu coğrafi bölgeyi araştıran klimatolog temize çıktı."
     },
     {
      "eliminate": "wealth",
@@ -10436,7 +10436,7 @@
     },
     {
      "word": "hand down",
-     "tr": "gelenek aktarmak"
+     "tr": "kuşaktan kuşağa aktarmak"
     },
     {
      "word": "social",
@@ -10808,7 +10808,7 @@
    "suspects": [
     {
      "word": "colonialism",
-     "tr": "sömürgecilik akımı"
+     "tr": "sömürgecilik"
     },
     {
      "word": "stereotype",
@@ -10934,7 +10934,7 @@
     },
     {
      "eliminate": "guilt",
-     "text": "Yasalara aykırı bir fiili gerçekleştiren kişinin düştüğü hukuki kusurluluk durumunu inceleyen hakim olay anında adliyedeydi."
+     "text": "Yasalara aykırı bir fiili gerçekleştiren kişinin düştüğü hukuki kusurluluk durumunu inceleyen hâkim olay anında adliyedeydi."
     },
     {
      "eliminate": "rationalism",
@@ -11454,7 +11454,7 @@
    "clues": [
     {
      "eliminate": "mediate",
-     "text": "İki taraf arasındaki anlaşmazlığı çözmek için tarafsız bir üçüncü kişi olarak devreye giren hakem masumdu."
+     "text": "İki taraf arasındaki anlaşmazlığı çözmek için tarafsız bir üçüncü kişi olarak devreye giren arabulucu masumdu."
     },
     {
      "eliminate": "sovereign",

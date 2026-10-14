@@ -103,7 +103,7 @@
      "note": "Sıfatlardan önce 'a/an' artikel kullanılmaz."
     }
    ],
-   "self_prompt_tr": "Şimdi sen: Bir arkadaşının veya aile üyenizin mesleğini yaz."
+   "self_prompt_tr": "Şimdi sen: Bir arkadaşının veya aile üyenin mesleğini yaz."
   },
   {
    "id": "a1_food_like",
@@ -698,7 +698,7 @@
      "note": "Kâğıt sayılamaz kabul edilir, 'some' kullanılır."
     }
    ],
-   "self_prompt_tr": "Şimdi sen: Sırt çantanda şu an ne var? İngilizce olarak benim var diyerek anlat."
+   "self_prompt_tr": "Şimdi sen: Sırt çantanda şu an ne var? İngilizce olarak 'I have' diyerek anlat."
   },
   {
    "id": "a1_animal_like",
@@ -1159,7 +1159,7 @@
    "level": "A1",
    "theme": "aile",
    "frame_en": "My ___",
-   "frame_tr": "Benim ___ iyidir/iyilerdir",
+   "frame_tr": "Benim ___",
    "derivatives": [
     {
      "tr": "annem iyidir",
@@ -1283,7 +1283,7 @@
    "level": "A1",
    "theme": "sağlık",
    "frame_en": "I have ___",
-   "frame_tr": "Benim ___ var",
+   "frame_tr": "Benim ___",
    "derivatives": [
     {
      "tr": "soğuk algınlığım var",
@@ -1296,7 +1296,7 @@
      "sentence": "I have a headache."
     },
     {
-     "tr": "grip var",
+     "tr": "gripim var",
      "answer": "the flu",
      "sentence": "I have the flu.",
      "note": "Grip kelimesi genellikle 'the' artikeliyle kullanılır."
@@ -1626,7 +1626,7 @@
      "tr": "haberleri",
      "answer": "the news",
      "sentence": "Let's watch the news.",
-     "note": "Televizyon izlerken 'TV' önüne artikel almaz."
+     "note": "Haberler için 'the news' kullanılır; televizyon izlerken ise 'TV' önüne artikel almaz."
     }
    ],
    "self_prompt_tr": "Şimdi sen: Arkadaşlarınla birlikte izlemek istediğin bir şeyi İngilizce teklif et."
@@ -1792,7 +1792,7 @@
      "tr": "âşık",
      "answer": "in love",
      "sentence": "I am in love.",
-     "note": "Aşık olmak durumunda 'in' edatı kullanılır."
+     "note": "Âşık olmak durumunda 'in' edatı kullanılır."
     }
    ],
    "self_prompt_tr": "Şimdi sen: Şu anki ruh halini İngilizce tek bir kelimeyle ifade et."
@@ -1826,7 +1826,7 @@
      "note": "Konum belirtirken edat ('on the') kullanılır."
     }
    ],
-   "self_prompt_tr": "Şimdi sen: Odanızdaki bir kıyafetin nerede durduğunu İngilizce olarak tarif et."
+   "self_prompt_tr": "Şimdi sen: Odandaki bir kıyafetin nerede durduğunu İngilizce olarak tarif et."
   },
   {
    "id": "a1_bed_soft",
@@ -2863,7 +2863,7 @@
      "sentence": "This gift is for my father."
     }
    ],
-   "self_prompt_tr": "Sevdiklerine hediye almayı mı yoksa hediye almayı mı daha çok seversin?"
+   "self_prompt_tr": "Sevdiklerine hediye vermeyi mi yoksa hediye almayı mı daha çok seversin?"
   },
   {
    "id": "a1_cinema_go",
@@ -3171,7 +3171,7 @@
      "sentence": "I wake up at eight."
     },
     {
-     "tr": "saat yedide",
+     "tr": "tam yedide",
      "answer": "seven o'clock",
      "sentence": "I wake up at seven o'clock."
     },
@@ -3423,7 +3423,7 @@
      "tr": "Türkiye'de",
      "answer": "Turkey",
      "sentence": "It is raining in Turkey.",
-     "note": "Ülke isimlerinin önünde 'the' artikeli kesinlikle kullanılmaz."
+     "note": "Ülke adlarının çoğunda 'the' artikeli kullanılmaz (the USA gibi istisnalar vardır)."
     },
     {
      "tr": "kışın",
@@ -3813,7 +3813,7 @@
      "tr": "bu çayı",
      "answer": "this tea",
      "sentence": "Do you like this tea?",
-     "note": "Soru işaretinin cümlenin sonunda doğru konumlandığından emin olun."
+     "note": "'This' yakındaki tekil veya sayılamayan bir ismi işaret eder."
     }
    ],
    "self_prompt_tr": "Bir misafirine ikram etmek için en sevdiği içeceği sor."
@@ -3953,7 +3953,7 @@
      "tr": "bir omlet",
      "answer": "an omelette",
      "sentence": "She makes an omelette for breakfast.",
-     "note": "Sesli harfle baslayan 'omelette' onunde 'an' kullanilir."
+     "note": "Sesli harfle başlayan 'omelette' önünde 'an' kullanılır."
     }
    ],
    "self_prompt_tr": "Pazar kahvaltılarında hazırlamayı en çok sevdiğin şey nedir?"
@@ -4238,7 +4238,7 @@
    "level": "A1",
    "theme": "vücut",
    "frame_en": "My ___",
-   "frame_tr": "Benim ___ ağrıyor",
+   "frame_tr": "Benim ___",
    "derivatives": [
     {
      "tr": "başım ağrıyor",
@@ -5118,7 +5118,7 @@
      "sentence": "They are good workers."
     }
    ],
-   "self_prompt_tr": "Ailenizdeki kişilerin mesleklerinden birini İngilizce olarak paylaşın."
+   "self_prompt_tr": "Ailendeki kişilerin mesleklerinden birini İngilizce olarak paylaş."
   },
   {
    "id": "a1_health_feel",
@@ -5375,7 +5375,7 @@
      "note": "Çim sayılamaz bir isimdir ve 'on the grass' olarak söylenir."
     }
    ],
-   "self_prompt_tr": "Evinizin bir bahçesi var mı, yoksa parkta mı oynamayı seversiniz?"
+   "self_prompt_tr": "Evinin bir bahçesi var mı, yoksa parkta mı oynamayı seversin?"
   },
   {
    "id": "a1_hotel_stay_3",
@@ -5559,7 +5559,7 @@
      "note": "Dişlerimi fırçalamak/temizlemek için çoğul 'teeth' kullanılır."
     }
    ],
-   "self_prompt_tr": "Evinizde temizlemeyi en çok sevdiğiniz veya en az sevdiğiniz alan neresi?"
+   "self_prompt_tr": "Evinde temizlemeyi en çok sevdiğin veya en az sevdiğin alan neresi?"
   },
   {
    "id": "a1_rain_like",
@@ -6340,12 +6340,12 @@
      "sentence": "The clock is on the table."
     },
     {
-     "tr": "duvarda",
+     "tr": "duvarın",
      "answer": "the wall",
      "sentence": "The clock is on the wall."
     },
     {
-     "tr": "bileğimde",
+     "tr": "bileğimin",
      "answer": "my wrist",
      "sentence": "The clock is on my wrist.",
      "note": "'my' sahiplik sıfatı geldiğinde 'the' artikeli tamamen düşer."
@@ -6501,7 +6501,7 @@
      "note": "Yönelme durumunda kişi zamirlerinin nesne halleri (him/her) kullanılır."
     }
    ],
-   "self_prompt_tr": "En son kime, ne amaçla hediye aldın?"
+   "self_prompt_tr": "En son kime, ne amaçla hediye verdin?"
   },
   {
    "id": "a1_month_cold",
@@ -6959,7 +6959,7 @@
      "tr": "İtalya'ya seyahat edeceğim",
      "answer": "travel to Italy",
      "sentence": "Next summer, I am going to travel to Italy.",
-     "note": "Ülke isimlerinin önünde 'the' kullanılmaz."
+     "note": "Ülke adlarının çoğunda 'the' kullanılmaz."
     },
     {
      "tr": "dinleneceğim",
@@ -7252,7 +7252,7 @@
      "note": "Zarf olan 'easily', sıfat olan 'easy' kelimesinden türemiştir."
     }
    ],
-   "self_prompt_tr": "Aile üyelerinden birinin sıradışı bir yeteneği var mı?"
+   "self_prompt_tr": "Aile üyelerinden birinin sıra dışı bir yeteneği var mı?"
   },
   {
    "id": "a2_can_animals",
@@ -7491,7 +7491,7 @@
      "sentence": "There are some apples on the table."
     },
     {
-     "tr": "biraz kitap",
+     "tr": "birkaç kitap",
      "answer": "some books",
      "sentence": "There are some books on the table."
     },
@@ -7816,7 +7816,7 @@
      "tr": "pizza sipariş etmek",
      "answer": "order pizza",
      "sentence": "I want to order pizza tonight.",
-     "note": "Sayılamayan pizza genel olarak 'order pizza' şeklinde kullanılır."
+     "note": "Genel anlamda pizza sipariş etmek için 'order pizza' kalıbı kullanılır."
     },
     {
      "tr": "televizyon izlemek",
@@ -7933,7 +7933,7 @@
      "sentence": "In London, I used the bus for transport."
     },
     {
-     "tr": "her günden fazla müzeleri ziyaret ettim",
+     "tr": "her gün müzeleri ziyaret ettim",
      "answer": "visited museums every day",
      "sentence": "In London, I visited museums every day."
     },
@@ -8419,7 +8419,7 @@
      "note": "Çok heceli sıfatlarda 'more' kullanılır."
     }
    ],
-   "self_prompt_tr": "Kendini bir aile üyenle kıyasla. Hanginiz daha ne durumdasınız?"
+   "self_prompt_tr": "Kendini bir aile üyenle kıyasla. Hanginiz daha uzun, daha genç ya da daha çalışkan?"
   },
   {
    "id": "a2_comp_hotel",
@@ -9981,7 +9981,7 @@
      "tr": "daha taze",
      "answer": "fresher",
      "sentence": "Salad is fresher than fast food.",
-     "note": "'good' düzensiz bir sıfattır ve derecelendirmesi 'better' olur."
+     "note": "'fresh' düzenli bir sıfattır ve 'fresher' olur; 'good' ise düzensizdir ve 'better' olur."
     }
    ],
    "self_prompt_tr": "Sence en sağlıklı yiyecek nedir?"
@@ -10099,7 +10099,7 @@
    "level": "A2",
    "theme": "yetenekler",
    "frame_en": "She can't ___",
-   "frame_tr": "O ___ yapamaz",
+   "frame_tr": "O ___",
    "derivatives": [
     {
      "tr": "bisiklete binemez",
@@ -10591,7 +10591,7 @@
      "note": "Yer ve zaman zarfları cümlede sıklık zarfından sonra gelir."
     }
    ],
-   "self_prompt_tr": "Akşam yemeklerinizi genellikle nerede yersiniz?"
+   "self_prompt_tr": "Akşam yemeklerini genellikle nerede yersin?"
   },
   {
    "id": "a2_freq_always_forget",
@@ -11211,7 +11211,7 @@
    "level": "A2",
    "theme": "hava",
    "frame_en": "The weather here is ___ than in my town",
-   "frame_tr": "Buradaki hava benim şehrim öncekinden ___",
+   "frame_tr": "Buradaki hava benim şehrimdekinden ___",
    "derivatives": [
     {
      "tr": "daha soğuk",
@@ -12059,7 +12059,7 @@
    "level": "A2",
    "theme": "okul",
    "frame_en": "Yesterday, the students did not ___",
-   "frame_tr": "Dün öğrenciler ___ yapmadı",
+   "frame_tr": "Dün öğrenciler ___",
    "derivatives": [
     {
      "tr": "okula gitmedi",
@@ -12193,7 +12193,7 @@
      "tr": "ağaçta oturuyor",
      "answer": "sitting in the tree",
      "sentence": "Look! The birds are sitting in the tree.",
-     "note": "Sıra dışı oturma eyleminde 'sitting' yazılırken son harf çiftleşir."
+     "note": "'sit' fiiline '-ing' eklenirken son ünsüz çiftleşir: 'sitting'."
     }
    ],
    "self_prompt_tr": "Şu an pencerenden dışarı baktığında gördüğün hareketli bir şeyi anlat."
@@ -12386,7 +12386,7 @@
    "frame_tr": "O ___ mı?",
    "derivatives": [
     {
-     "tr": "bizi aramıza katılacak",
+     "tr": "aramıza katılacak",
      "answer": "join us",
      "sentence": "Is she going to join us?"
     },
@@ -12611,7 +12611,7 @@
      "tr": "daha ağırdır",
      "answer": "heavier",
      "sentence": "Gold is heavier than silver.",
-     "note": "Sonu '-y' ile biten sıfatta harf düşümü olur: 'heavier'."
+     "note": "Sonu '-y' ile biten sıfatta 'y' harfi 'i' olur: 'heavier'."
     },
     {
      "tr": "daha parlaktır",
@@ -12672,7 +12672,7 @@
    "level": "A2",
    "theme": "soru",
    "frame_en": "Can she ___?",
-   "frame_tr": "O ___ bilir mi?",
+   "frame_tr": "O ___ mi?",
    "derivatives": [
     {
      "tr": "araba sürebilir",
@@ -12708,7 +12708,7 @@
    "level": "A2",
    "theme": "izin",
    "frame_en": "We can ___",
-   "frame_tr": "Biz ___ biliriz",
+   "frame_tr": "Biz ___",
    "derivatives": [
     {
      "tr": "burada kamp yapabiliriz",
@@ -12744,7 +12744,7 @@
    "level": "A2",
    "theme": "hayvan",
    "frame_en": "Dogs can ___",
-   "frame_tr": "Köpekler ___ bilir",
+   "frame_tr": "Köpekler ___",
    "derivatives": [
     {
      "tr": "hızlı koşabilir",
@@ -13499,7 +13499,7 @@
    "level": "B1",
    "theme": "haber",
    "frame_en": "She has just ___",
-   "frame_tr": "O henüz/şimdi ___",
+   "frame_tr": "O az önce ___",
    "derivatives": [
     {
      "tr": "evden çıktı",
@@ -13543,7 +13543,7 @@
      "sentence": "I haven't had breakfast yet."
     },
     {
-     "tr": "epostayı okumadım",
+     "tr": "e-postayı okumadım",
      "answer": "read the email",
      "sentence": "I haven't read the email yet."
     },
@@ -14060,7 +14060,7 @@
      "sentence": "If you feel sick, you ought to drink water."
     }
    ],
-   "self_prompt_tr": "Birisi hafifçe kırgın hissettiğinde yapmasını önerdiğin ilk şey nedir?"
+   "self_prompt_tr": "Birisi kendini biraz hasta hissettiğinde yapmasını önerdiğin ilk şey nedir?"
   },
   {
    "id": "b1_should_test",
@@ -14102,7 +14102,7 @@
    "level": "B1",
    "theme": "sağlık",
    "frame_en": "You shouldn't ___",
-   "frame_tr": "___ yapmamalısın",
+   "frame_tr": "___",
    "derivatives": [
     {
      "tr": "bu kadar çok kahve içmemelisin",
@@ -14110,7 +14110,7 @@
      "sentence": "You shouldn't drink so much coffee."
     },
     {
-     "tr": "çok geç uyumamamalısın",
+     "tr": "çok geç yatmamalısın",
      "answer": "go to bed too late",
      "sentence": "You shouldn't go to bed too late."
     },
@@ -14195,7 +14195,7 @@
      "sentence": "I am busy, but I may read a book tonight."
     },
     {
-     "tr": "erken uyuyebilirim",
+     "tr": "erken uyuyabilirim",
      "answer": "sleep early",
      "sentence": "I am busy, but I may sleep early tonight."
     }
@@ -15083,7 +15083,7 @@
     {
      "tr": "paket ulaştığında",
      "answer": "the package arrived",
-     "sentence": "What were you doing when the package arrived.",
+     "sentence": "What were you doing when the package arrived?",
      "note": "Soru kalıbı 'What were you doing...?' olduğundan cümlenin sonu soru işaretiyle biter."
     }
    ],
@@ -15211,7 +15211,7 @@
      "note": "'Used to' kalıbından sonra gelen fiil her zaman yalın (V1) haldedir."
     }
    ],
-   "self_prompt_tr": "Ailendeki yaşlı bir büyüğün geçmişte yaptığı ama şimdiki nesiller için sıradışı olan bir alışkanlığını yaz."
+   "self_prompt_tr": "Ailendeki yaşlı bir büyüğün geçmişte yaptığı ama şimdiki nesiller için sıra dışı olan bir alışkanlığını yaz."
   },
   {
    "id": "b1_cond_unless",
@@ -15262,7 +15262,7 @@
      "sentence": "I will call you as soon as I finish my work."
     },
     {
-     "tr": "epostayı alır almaz",
+     "tr": "e-postayı alır almaz",
      "answer": "I get the email",
      "sentence": "I will call you as soon as I get the email."
     },
@@ -15652,7 +15652,7 @@
    "level": "B1",
    "theme": "duygular/deneyim",
    "frame_en": "That was the ___ day of my life",
-   "frame_tr": "O, hayatımın en ___ günüydü",
+   "frame_tr": "O, hayatımın ___ günüydü",
    "derivatives": [
     {
      "tr": "en mutlu",
@@ -16161,7 +16161,7 @@
    "frame_tr": "Ne kadar süredir ___?",
    "derivatives": [
     {
-     "tr": "öğretmensiniz",
+     "tr": "öğretmensin",
      "answer": "been a teacher",
      "sentence": "How long have you been a teacher?"
     },
@@ -16181,7 +16181,7 @@
      "sentence": "How long have you lived in London?"
     },
     {
-     "tr": "evlisiniz",
+     "tr": "evlisin",
      "answer": "been married",
      "sentence": "How long have you been married?",
      "note": "Geçmişten süregelen durumlarda 'are you married' yerine 'have you been' kullanılır."
@@ -16194,7 +16194,7 @@
    "level": "B1",
    "theme": "insan",
    "frame_en": "We have just ___",
-   "frame_tr": "Biz henüz/az önce ___",
+   "frame_tr": "Biz az önce ___",
    "derivatives": [
     {
      "tr": "haberleri duyduk",
@@ -16554,7 +16554,7 @@
    "level": "B1",
    "theme": "iletişim",
    "frame_en": "I will call you as soon as ___",
-   "frame_tr": "___ yapar yapmaz seni arayacağım",
+   "frame_tr": "___ seni arayacağım",
    "derivatives": [
     {
      "tr": "eve varır varmaz",
@@ -16734,7 +16734,7 @@
    "level": "B1",
    "theme": "zaman",
    "frame_en": "We shouldn't ___",
-   "frame_tr": "Biz ___ yapmamalıyız",
+   "frame_tr": "Biz ___",
    "derivatives": [
     {
      "tr": "zamanımızı boşa harcamamalıyız",
@@ -16806,7 +16806,7 @@
    "level": "B1",
    "theme": "iş",
    "frame_en": "He might ___",
-   "frame_tr": "Onun ___ ihtimali var / ___ebilir",
+   "frame_tr": "O ___",
    "derivatives": [
     {
      "tr": "işe geç kalabilir",
@@ -16842,7 +16842,7 @@
    "level": "B1",
    "theme": "hava",
    "frame_en": "It may not ___",
-   "frame_tr": "___ ihtimali düşük / olmayabilir",
+   "frame_tr": "___",
    "derivatives": [
     {
      "tr": "öğleden sonra yağmur yağmayabilir",
@@ -16878,7 +16878,7 @@
    "level": "B1",
    "theme": "ulaşım",
    "frame_en": "If you drive so fast, you might ___",
-   "frame_tr": "Eğer o kadar hızlı sürersen, ___ebilirsin",
+   "frame_tr": "Eğer o kadar hızlı sürersen, ___",
    "derivatives": [
     {
      "tr": "kaza yapabilirsin",
@@ -16932,7 +16932,7 @@
      "sentence": "We might go to the cinema tonight."
     },
     {
-     "tr": "trenle Paris'ye",
+     "tr": "trenle Paris'e",
      "answer": "to Paris by train",
      "sentence": "We might go to Paris by train."
     },
@@ -16950,25 +16950,25 @@
    "level": "B1",
    "theme": "insan",
    "frame_en": "She is the ___",
-   "frame_tr": "O en ___",
+   "frame_tr": "O ___",
    "derivatives": [
     {
-     "tr": "sınıftaki güzel kız",
+     "tr": "sınıftaki en güzel kız",
      "answer": "most beautiful girl in the class",
      "sentence": "She is the most beautiful girl in the class."
     },
     {
-     "tr": "buradaki zeki öğrenci",
+     "tr": "buradaki en zeki öğrenci",
      "answer": "most intelligent student here",
      "sentence": "She is the most intelligent student here."
     },
     {
-     "tr": "Londra'daki yaratıcı tasarımcı",
+     "tr": "Londra'daki en yaratıcı tasarımcı",
      "answer": "most creative designer in London",
      "sentence": "She is the most creative designer in London."
     },
     {
-     "tr": "tanıdığım cömert insan",
+     "tr": "tanıdığım en cömert insan",
      "answer": "most generous person I know",
      "sentence": "She is the most generous person I know."
     },
@@ -16986,7 +16986,7 @@
    "level": "B1",
    "theme": "doğa",
    "frame_en": "This is the ___",
-   "frame_tr": "Bu en ___",
+   "frame_tr": "Bu ___",
    "derivatives": [
     {
      "tr": "Afrika'daki en uzun nehir",
@@ -17058,25 +17058,25 @@
    "level": "B1",
    "theme": "alışveriş",
    "frame_en": "What is the ___?",
-   "frame_tr": "En ___ nedir?",
+   "frame_tr": "___ nedir?",
    "derivatives": [
     {
-     "tr": "satın aldığın pahalı şey",
+     "tr": "satın aldığın en pahalı şey",
      "answer": "most expensive thing you bought",
      "sentence": "What is the most expensive thing you bought?"
     },
     {
-     "tr": "öğrenilmesi zor dil",
+     "tr": "öğrenilmesi en zor dil",
      "answer": "most difficult language to learn",
      "sentence": "What is the most difficult language to learn?"
     },
     {
-     "tr": "dünyadaki tehlikeli spor",
+     "tr": "dünyadaki en tehlikeli spor",
      "answer": "most dangerous sport in the world",
      "sentence": "What is the most dangerous sport in the world?"
     },
     {
-     "tr": "şehirdeki konforlu otel",
+     "tr": "şehirdeki en konforlu otel",
      "answer": "most comfortable hotel in town",
      "sentence": "What is the most comfortable hotel in town?"
     },
@@ -17526,7 +17526,7 @@
    "level": "B1",
    "theme": "zaman",
    "frame_en": "I have worked here ___",
-   "frame_tr": "Ben ___ burada çalıştım",
+   "frame_tr": "Ben ___ burada çalışıyorum",
    "derivatives": [
     {
      "tr": "Ocak'tan beri",
@@ -17960,28 +17960,28 @@
    "frame_tr": "___ geç kalacağız",
    "derivatives": [
     {
-     "tr": "acele edersek",
+     "tr": "acele etmezsek",
      "answer": "hurry",
      "sentence": "We will be late unless we hurry."
     },
     {
-     "tr": "erken ayrılırsak",
+     "tr": "erken ayrılmazsak",
      "answer": "leave early",
      "sentence": "We will be late unless we leave early."
     },
     {
-     "tr": "koşarsak",
+     "tr": "koşmazsak",
      "answer": "run",
      "sentence": "We will be late unless we run."
     },
     {
-     "tr": "taksiye binersek",
+     "tr": "taksiye binmezsek",
      "answer": "take a taxi",
      "sentence": "We will be late unless we take a taxi."
     },
     {
-     "tr": "acele etmezsek",
-     "answer": "we set off now",
+     "tr": "şimdi yola çıkmazsak",
+     "answer": "set off now",
      "sentence": "We will be late unless we set off now.",
      "note": "Unless zaten olumsuzluk anlamı kattığından yan cümle olumlu kurulur."
     }
@@ -18245,7 +18245,7 @@
    "level": "B1",
    "theme": "iş",
    "frame_en": "They might not ___ on time",
-   "frame_tr": "Onlar ___ zamanında yapamayabilirler",
+   "frame_tr": "Onlar zamanında ___",
    "derivatives": [
     {
      "tr": "toplantıya varamayabilirler",
@@ -18474,7 +18474,7 @@
      "sentence": "That was the worst day of my life."
     },
     {
-     "tr": "en iyi",
+     "tr": "iyi",
      "answer": "best",
      "sentence": "That was the best day of my life."
     },
@@ -18762,7 +18762,7 @@
      "sentence": "His bicycle was stolen last night."
     },
     {
-     "tr": "bir gençe tarafından",
+     "tr": "bir genç tarafından",
      "answer": "by a teenager",
      "sentence": "His bicycle was stolen by a teenager."
     },
@@ -18937,7 +18937,7 @@
      "sentence": "I hope to find a good job next year."
     },
     {
-     "tr": "Avrupa'yı seyahat etmeyi",
+     "tr": "Avrupa'yı gezmeyi",
      "answer": "travel around Europe",
      "sentence": "I hope to travel around Europe next year."
     },
@@ -18947,7 +18947,7 @@
      "sentence": "I hope to buy a new car next year."
     },
     {
-     "tr": "Londra'da yaşamayı",
+     "tr": "Londra'ya taşınmayı",
      "answer": "move to London",
      "sentence": "I hope to move to London next year."
     },
@@ -18988,7 +18988,7 @@
      "sentence": "I have been to Paris."
     },
     {
-     "tr": "İspanya'ya gitmiştim (ama şimdi döndüm)",
+     "tr": "İspanya'da",
      "answer": "Spain",
      "sentence": "I have been to Spain.",
      "note": "'gone to' hâlâ orada olmayı, 'been to' gidip dönmüş olmayı belirtir."
@@ -19328,27 +19328,27 @@
    "frame_tr": "Biz eskiden ___",
    "derivatives": [
     {
-     "tr": "baharatlı yiyecekler yerdik",
+     "tr": "baharatlı yiyecekler yemezdik",
      "answer": "eat spicy food",
      "sentence": "We didn't use to eat spicy food."
     },
     {
-     "tr": "erken uyanırdık",
+     "tr": "erken uyanmazdık",
      "answer": "wake up early",
      "sentence": "We didn't use to wake up early."
     },
     {
-     "tr": "korku filmleri izlerdik",
+     "tr": "korku filmleri izlemezdik",
      "answer": "watch horror movies",
      "sentence": "We didn't use to watch horror movies."
     },
     {
-     "tr": "bitki çayı içerdik",
+     "tr": "bitki çayı içmezdik",
      "answer": "drink herbal tea",
      "sentence": "We didn't use to drink herbal tea."
     },
     {
-     "tr": "çok para harcardık",
+     "tr": "çok para harcamazdık",
      "answer": "spend much money",
      "sentence": "We didn't use to spend much money.",
      "note": "Olumsuz cümlelerde 'didn't' geldiği için 'used to' kalıbı 'use to' haline dönüşür."
@@ -19612,7 +19612,7 @@
    "level": "B1",
    "theme": "kurallar",
    "frame_en": "We shouldn't ___",
-   "frame_tr": "___ yapmamalıyız",
+   "frame_tr": "___",
    "derivatives": [
     {
      "tr": "bu kadar yüksek sesle konuşmamalıyız",
@@ -19877,7 +19877,7 @@
      "sentence": "This is the longest film I have ever watched."
     },
     {
-     "tr": "en kötü",
+     "tr": "kötü",
      "answer": "worst",
      "sentence": "This is the worst film I have ever watched."
     },
@@ -19939,7 +19939,7 @@
    "frame_tr": "Şimdiye kadar yaptığın en ___ şey nedir?",
    "derivatives": [
     {
-     "tr": "en iyi",
+     "tr": "iyi",
      "answer": "best",
      "sentence": "What is the best thing you have ever done?"
     },
@@ -20448,7 +20448,7 @@
      "sentence": "It has been snowing since this morning."
     },
     {
-     "tr": "rüzgar esiyor",
+     "tr": "çiseliyor",
      "answer": "drizzling",
      "sentence": "It has been drizzling since this morning."
     },
@@ -20479,7 +20479,7 @@
      "sentence": "She has been exercising recently."
     },
     {
-     "tr": "iyi uyuyamıyor",
+     "tr": "kendini iyi hissetmiyor",
      "answer": "feeling unwell",
      "sentence": "She has been feeling unwell recently."
     },
@@ -20559,7 +20559,7 @@
    "level": "B2",
    "theme": "ilişkiler",
    "frame_en": "He didn't know that she had ___",
-   "frame_tr": "Onun ___ olduğunu bilmiyordu",
+   "frame_tr": "Onun ___ bilmiyordu",
    "derivatives": [
     {
      "tr": "gittiğini",
@@ -21161,7 +21161,7 @@
      "sentence": "By next year, I will have bought a new house."
     },
     {
-     "tr": "sürüş öğrenmiş",
+     "tr": "araba sürmeyi öğrenmiş",
      "answer": "learned to drive",
      "sentence": "By next year, I will have learned to drive."
     },
@@ -21321,7 +21321,7 @@
      "sentence": "I used to sleep early when I was young."
     },
     {
-     "tr": "gitara yeni başlardım",
+     "tr": "gitar çalışırdım",
      "answer": "practise the guitar",
      "sentence": "I used to practise the guitar when I was young.",
      "note": "Geçmişteki alışkanlıklarda (used to) fiil yalın gelir ve British İngilizcesinde 'practise' yazılır."
@@ -21414,7 +21414,7 @@
      "sentence": "She is having her car repaired."
     },
     {
-     "tr": "servise götürüyor",
+     "tr": "bakımdan geçirtiyor",
      "answer": "serviced",
      "sentence": "She is having her car serviced.",
      "note": "Ettirgen eylem şu an yapılıyorsa 'having/getting' continuous olarak çekimlenir."
@@ -21458,7 +21458,7 @@
    "level": "B2",
    "theme": "şehir",
    "frame_en": "London, which ___, is very crowded",
-   "frame_tr": "Londra, ___ çok kalabalıktır",
+   "frame_tr": "Londra, ___; çok kalabalıktır",
    "derivatives": [
     {
      "tr": "İngiltere'nin başkentidir",
@@ -21670,7 +21670,7 @@
      "tr": "aşırı çalışıyor",
      "answer": "overworking",
      "sentence": "He has been overworking recently.",
-     "note": "Sonu tek sesli-sessizle biten fiiller -ing alırken sessiz harf çiftleşir."
+     "note": "'over-' ön eki fiile 'aşırı' anlamı katar: 'overwork' (aşırı çalışmak)."
     }
    ],
    "self_prompt_tr": "Son zamanlarda düzenli olarak yapmaya başladığın bir sporu bu yapıyla anlat."
@@ -21742,7 +21742,7 @@
      "tr": "birlikte çalışıyorlar",
      "answer": "working together",
      "sentence": "They have been working together for years.",
-     "note": "Geçmişte başlayıp hala devam eden uzun süreçli eylemlerde kullanılır."
+     "note": "Geçmişte başlayıp hâlâ devam eden uzun süreçli eylemlerde kullanılır."
     }
    ],
    "self_prompt_tr": "Yıllardır istikrarlı bir şekilde sürdürdüğün bir eğitim veya çalışmayı anlat."
@@ -21801,7 +21801,7 @@
      "sentence": "Before we boarded the plane, we had drunk some coffee."
     },
     {
-     "tr": "pasaportlarimizi göstermiştik",
+     "tr": "pasaportlarımızı göstermiştik",
      "answer": "shown our passports",
      "sentence": "Before we boarded the plane, we had shown our passports."
     },
@@ -21814,7 +21814,7 @@
      "tr": "hediye almıştık",
      "answer": "bought some gifts",
      "sentence": "Before we boarded the plane, we had bought some gifts.",
-     "note": "Geçmişdeki bir eylemden daha önce yapılmış eylemlerde past perfect tercih edilir."
+     "note": "Geçmişteki bir eylemden daha önce yapılmış eylemlerde past perfect tercih edilir."
     }
    ],
    "self_prompt_tr": "Son seyahatinde uçağa ya da otobüse binmeden hemen önce yaptığın hazırlığı yaz."
@@ -22012,7 +22012,7 @@
      "sentence": "If we had left earlier, we would not have missed the plane."
     },
     {
-     "tr": "ertelenmiş olurduk",
+     "tr": "gecikmezdik",
      "answer": "been delayed",
      "sentence": "If we had left earlier, we would not have been delayed."
     },
@@ -22043,27 +22043,27 @@
    "frame_tr": "Haritaları olsaydı ___",
    "derivatives": [
     {
-     "tr": "kaybolmuş",
+     "tr": "kaybolmazlardı",
      "answer": "got lost",
      "sentence": "If they had a map, they would not have got lost."
     },
     {
-     "tr": "zaman kaybetmiş",
+     "tr": "zaman kaybetmezlerdi",
      "answer": "wasted time",
      "sentence": "If they had a map, they would not have wasted time."
     },
     {
-     "tr": "sorun yaşamış",
+     "tr": "sorun yaşamazlardı",
      "answer": "had problems",
      "sentence": "If they had a map, they would not have had problems."
     },
     {
-     "tr": "geç kalmış",
+     "tr": "geç kalmazlardı",
      "answer": "been late",
      "sentence": "If they had a map, they would not have been late."
     },
     {
-     "tr": "endişelenmiş",
+     "tr": "endişelenmezlerdi",
      "answer": "worried",
      "sentence": "If they had a map, they would not have worried.",
      "note": "Geçmişteki bir eylemsizliğin sonucunu olumsuz modallarla (would not have V3) belirtiriz."
@@ -22377,7 +22377,7 @@
      "sentence": "We might have followed the wrong path."
     },
     {
-     "tr": "almış (gitmiş)",
+     "tr": "tutmuş",
      "answer": "taken",
      "sentence": "We might have taken the wrong path."
     },
@@ -22696,7 +22696,7 @@
      "sentence": "We used to live here before."
     },
     {
-     "tr": "tenis oynardık",
+     "tr": "hafta sonları tenis oynardık",
      "answer": "play tennis at weekends",
      "sentence": "We used to play tennis at weekends before."
     },
@@ -22778,7 +22778,7 @@
      "sentence": "She is going to have her hair washed."
     },
     {
-     "tr": "tasarlatacak",
+     "tr": "şekillendirtecek",
      "answer": "styled",
      "sentence": "She is going to have her hair styled."
     },
@@ -22819,7 +22819,7 @@
      "sentence": "I must get my laptop checked."
     },
     {
-     "tr": "formatlattırmalıyım",
+     "tr": "formatlatmalıyım",
      "answer": "formatted",
      "sentence": "I must get my laptop formatted.",
      "note": "'get + nesne + V3' yapısı 'have' ile aynı ettirgen anlamı taşır."
@@ -22868,7 +22868,7 @@
    "level": "B2",
    "theme": "seyahat",
    "frame_en": "Paris, which ___, is my favourite city",
-   "frame_tr": "___ Paris en sevdiğim şehirdir",
+   "frame_tr": "Paris, ___; en sevdiğim şehirdir",
    "derivatives": [
     {
      "tr": "çok güzeldir",
@@ -22904,7 +22904,7 @@
    "level": "B2",
    "theme": "edebiyat",
    "frame_en": "This book, which ___, was a bestseller",
-   "frame_tr": "___ bu kitap en çok satanlardandı",
+   "frame_tr": "Bu kitap, ___; en çok satanlardandı",
    "derivatives": [
     {
      "tr": "geçen yıl yazıldı",
@@ -23903,12 +23903,12 @@
      "sentence": "I am going to get my hair dyed."
     },
     {
-     "tr": " yıkatacağım",
+     "tr": "yıkatacağım",
      "answer": "washed",
      "sentence": "I am going to get my hair washed."
     },
     {
-     "tr": "tasarlatacağım",
+     "tr": "şekillendirteceğim",
      "answer": "styled",
      "sentence": "I am going to get my hair styled.",
      "note": "Get causative yapısında da nesneden sonra fiilin 3. hali (V3) kullanılır."
@@ -23983,7 +23983,7 @@
    "level": "B2",
    "theme": "ev",
    "frame_en": "My flat, which ___, is very quiet",
-   "frame_tr": "___ dairem, çok sessizdir",
+   "frame_tr": "Dairem, ___; çok sessizdir",
    "derivatives": [
     {
      "tr": "beşinci kattadır",
@@ -24014,7 +24014,7 @@
    "level": "B2",
    "theme": "iş",
    "frame_en": "My colleague, who ___, helped me a lot",
-   "frame_tr": "___ meslektaşım, bana çok yardımcı oldu",
+   "frame_tr": "Meslektaşım, ___; bana çok yardımcı oldu",
    "derivatives": [
     {
      "tr": "İngilizce konuşur",
@@ -24045,7 +24045,7 @@
    "level": "B2",
    "theme": "seyahat",
    "frame_en": "Paris, which ___, is beautiful in autumn",
-   "frame_tr": "___ Paris, sonbaharda güzeldir",
+   "frame_tr": "Paris, ___; sonbaharda güzeldir",
    "derivatives": [
     {
      "tr": "Fransa'nın başkentidir",
@@ -24053,7 +24053,7 @@
      "sentence": "Paris, which is the capital of France, is beautiful in autumn."
     },
     {
-     "tr": "geçen yıl ziyaret ettim",
+     "tr": "geçen yıl ziyaret ettiğim şehirdir",
      "answer": "I visited last year",
      "sentence": "Paris, which I visited last year, is beautiful in autumn."
     },
@@ -24125,7 +24125,7 @@
      "sentence": "Don't forget to turn off the lights."
     },
     {
-     "tr": "onunla tanıştığını (asla unutma)",
+     "tr": "onunla tanıştığını",
      "answer": "meeting him",
      "sentence": "Don't forget meeting him.",
      "note": "Görevi hatırlatırken 'to-do' yapısı; geçmişteki anıyı anarken 'doing' gelir."
@@ -24280,7 +24280,7 @@
      "sentence": "This flight is much more tiring."
     },
     {
-     "tr": "konforludur",
+     "tr": "elverişlidir",
      "answer": "convenient",
      "sentence": "This flight is much more convenient.",
      "note": "Karşılaştırmaları pekiştirmek için derecelendirme belirteci (much) kullanılır."
@@ -24373,7 +24373,7 @@
      "sentence": "The sun has been hiding behind clouds since morning."
     },
     {
-     "tr": "yakıcı bir şekilde parlıyor",
+     "tr": "pırıl pırıl parlıyor",
      "answer": "shining brightly",
      "sentence": "The sun has been shining brightly since morning.",
      "note": "shining fiilinde son sessiz harf takı alırken çiftleşmez."
@@ -24448,7 +24448,7 @@
    "level": "B2",
    "theme": "sosyal",
    "frame_en": "She realized that she had ___",
-   "frame_tr": "O, ___ olduğunu fark etti",
+   "frame_tr": "O, ___ fark etti",
    "derivatives": [
     {
      "tr": "anahtarlarını evde unuttuğunu",
@@ -25298,7 +25298,7 @@
      "sentence": "She is going to have her hair dyed."
     },
     {
-     "tr": "tasarlatacak (yaptıracak)",
+     "tr": "şekillendirtecek",
      "answer": "styled",
      "sentence": "She is going to have her hair styled."
     },
@@ -25306,7 +25306,7 @@
      "tr": "fön çektirecek",
      "answer": "blow-dried",
      "sentence": "She is going to have her hair blow-dried.",
-     "note": "cut fiilinin üçüncü hali de 'cut' olarak değişmeden kalır."
+     "note": "'blow-dry' fiilinin üçüncü hali 'blow-dried' olur: sondaki '-y', '-ied' halini alır."
     }
    ],
    "self_prompt_tr": "Kişisel bakım olarak kuaförde yaptırmayı planladığın bir şeyi yaz."
@@ -25533,7 +25533,7 @@
    "level": "B2",
    "theme": "sağlık",
    "frame_en": "The older we get, the ___",
-   "frame_tr": "Yaşlandıkça daha da ___",
+   "frame_tr": "Yaşlandıkça ___",
    "derivatives": [
     {
      "tr": "daha bilge oluruz",
@@ -25936,7 +25936,7 @@
    "level": "B2",
    "theme": "sağlık",
    "frame_en": "With the doctor's advice, she would not have ___",
-   "frame_tr": "Doktor tavsiyesiyle, ___ olmazdı",
+   "frame_tr": "Doktor tavsiyesiyle, ___",
    "derivatives": [
     {
      "tr": "bu kadar hasta hissetmezdi",
@@ -26326,7 +26326,7 @@
      "sentence": "The main road is being closed by traffic police."
     },
     {
-     "tr": "asfalt dökülerek yenileniyor",
+     "tr": "hafta sonu için yeniden asfaltlanıyor",
      "answer": "resurfaced for the weekend",
      "sentence": "The main road is being resurfaced for the weekend.",
      "note": "Süregiden edilgen eylemlerde şimdiki zaman continuous passive yapısı kullanılır."
@@ -26543,7 +26543,7 @@
      "sentence": "I had my car cleaned."
     },
     {
-     "tr": "servise soktum",
+     "tr": "hafta sonu servise soktum",
      "answer": "serviced at the weekend",
      "sentence": "I had my car serviced at the weekend.",
      "note": "Ettirgen 'have + nesne + V3' yapısı işi başkasına yaptırmayı belirtir."
@@ -26574,7 +26574,7 @@
      "sentence": "We need to get our house decorated."
     },
     {
-     "tr": "sigortalatmamız",
+     "tr": "yangına karşı sigortalatmamız",
      "answer": "insured against fire",
      "sentence": "We need to get our house insured against fire.",
      "note": "Get ile kurulan ettirgen yapıda da nesneden sonra V3 gelir."
@@ -26600,15 +26600,15 @@
      "sentence": "She is going to have her hair dyed."
     },
     {
-     "tr": "tasarlatacak",
+     "tr": "şekillendirtecek",
      "answer": "styled",
      "sentence": "She is going to have her hair styled."
     },
     {
-     "tr": "düzleştirtecek",
+     "tr": "parti için düzleştirtecek",
      "answer": "straightened for the party",
      "sentence": "She is going to have her hair straightened for the party.",
-     "note": "Saç kesim eylemi 'cut' düzensizdir ve 3. hali de yine 'cut' şeklindedir."
+     "note": "'straighten' fiili düzenlidir; üçüncü hali '-ed' takısıyla 'straightened' olur."
     }
    ],
    "self_prompt_tr": "Birinin kuaförde veya güzellik merkezinde yaptıracağı bir işlemi edilgen olarak anlat."
@@ -26905,17 +26905,17 @@
      "sentence": "The warmer the weather, the happier we feel."
     },
     {
-     "tr": "kalabalık olur sahil",
+     "tr": "sahil kalabalık olur",
      "answer": "more crowded the beach gets",
      "sentence": "The warmer the weather, the more crowded the beach gets."
     },
     {
-     "tr": "iyi olur seyahatimiz",
+     "tr": "seyahatimiz iyi olur",
      "answer": "better our trip becomes",
      "sentence": "The warmer the weather, the better our trip becomes."
     },
     {
-     "tr": "kolaylaşır dışarı çıkmak",
+     "tr": "dışarı çıkmak kolaylaşır",
      "answer": "easier it becomes to go out",
      "sentence": "The warmer the weather, the easier it becomes to go out.",
      "note": "Sıfatların comparative formları (warmer, happier, easier) kurala göre yazılır."
@@ -26986,7 +26986,7 @@
      "tr": "operasyonu basitleştirmekle",
      "answer": "simplify the operation",
      "sentence": "Not only did they simplify the operation, but they also saved money.",
-     "note": "İngiliz İngilizcesinde 'modernise' gibi fiiller 's' ile yazılır."
+     "note": "Devrik yapıda 'did' sonrası ana fiil yalın kalır: 'did they simplify'."
     },
     {
      "tr": "gereksiz harcamaları azaltmakla",
@@ -27042,28 +27042,28 @@
    "frame_tr": "___ hakkında en ufak bir fikri yoktu.",
    "derivatives": [
     {
-     "tr": "herkes onu izliyordu",
+     "tr": "herkesin onu izlediği",
      "answer": "everyone was watching him",
      "sentence": "Little did he know that everyone was watching him."
     },
     {
-     "tr": "şirket iflasın eşiğindeydi",
+     "tr": "şirketin iflasın eşiğinde olduğu",
      "answer": "the company was on the verge of bankruptcy",
      "sentence": "Little did he know that the company was on the verge of bankruptcy."
     },
     {
-     "tr": "kararı çoktan verilmişti",
+     "tr": "kararının çoktan verilmiş olduğu",
      "answer": "his fate had already been decided",
      "sentence": "Little did he know that his fate had already been decided."
     },
     {
-     "tr": "atacağı adım her şeyi değiştirecekti",
+     "tr": "atacağı adımın her şeyi değiştireceği",
      "answer": "the step he was about to take would alter everything",
      "sentence": "Little did he know that the step he was about to take would alter everything.",
      "note": "Little zarfıyla kurulan devrik yapıda geçmiş zaman için 'did' kullanılır."
     },
     {
-     "tr": "bu küçük hatanın gelecekte ona çok pahalıya patlayacağını",
+     "tr": "bu küçük hatanın gelecekte ona çok pahalıya patlayacağı",
      "answer": "this minor mistake would cost him dearly in the future",
      "sentence": "Little did he know that this minor mistake would cost him dearly in the future.",
      "note": "Geçmişe yönelik 'en ufak fikri yoktu' anlamı için 'did he know' kurulur."
@@ -27338,28 +27338,28 @@
    "frame_tr": "___ onun yardımıydı.",
    "derivatives": [
     {
-     "tr": "beni kurtardı",
+     "tr": "beni kurtaran",
      "answer": "saved me",
      "sentence": "It was his help that saved me."
     },
     {
-     "tr": "sorunu çözdü",
+     "tr": "sorunu çözen",
      "answer": "solved the problem",
      "sentence": "It was his help that solved the problem."
     },
     {
-     "tr": "bize cesaret verdi",
+     "tr": "bize cesaret veren",
      "answer": "gave us courage",
      "sentence": "It was his help that gave us courage."
     },
     {
-     "tr": "bu büyük engeli aşmamızı sağladı",
+     "tr": "bu büyük engeli aşmamızı sağlayan",
      "answer": "enabled us to overcome this massive obstacle",
      "sentence": "It was his help that enabled us to overcome this massive obstacle.",
      "note": "'It was... that...' yapısı eylemi gerçekleştiren özneyi vurgulamak için tasarlanmıştır."
     },
     {
-     "tr": "bizi bu çıkmazdan tamamen kurtardı",
+     "tr": "bizi bu çıkmazdan tamamen kurtaran",
      "answer": "saved us entirely from this dilemma",
      "sentence": "It was his help that saved us entirely from this dilemma.",
      "note": "Cleft cümlelerinde vurgulanacak öge 'It was' ile 'that' arasına yerleştirilir."
@@ -27372,7 +27372,7 @@
    "level": "C1",
    "theme": "başarı",
    "frame_en": "The reason they succeeded is that they ___.",
-   "frame_tr": "Başarmalarının sebebi, ___.",
+   "frame_tr": "Başarmalarının sebebi şuydu: ___.",
    "derivatives": [
     {
      "tr": "çok çalıştılar",
@@ -27446,7 +27446,7 @@
    "level": "C1",
    "theme": "ofis",
    "frame_en": "I suggest that he ___.",
-   "frame_tr": "Onun ___ yapmasını öneriyorum.",
+   "frame_tr": "Şunu öneriyorum: ___.",
    "derivatives": [
     {
      "tr": "bize katılsın",
@@ -27483,7 +27483,7 @@
    "level": "C1",
    "theme": "kurallar",
    "frame_en": "It is essential that everyone ___.",
-   "frame_tr": "Herkesin ___ olması son derece önemlidir.",
+   "frame_tr": "Son derece önemlidir: herkes ___.",
    "derivatives": [
     {
      "tr": "bunu bilsin",
@@ -27520,7 +27520,7 @@
    "level": "C1",
    "theme": "ilişkiler",
    "frame_en": "I would rather you ___.",
-   "frame_tr": "Senin ___ yapmanı tercih ederim.",
+   "frame_tr": "___ daha iyi olur.",
    "derivatives": [
     {
      "tr": "doğruyu söylesen",
@@ -27779,7 +27779,7 @@
    "level": "C1",
    "theme": "iletişim",
    "frame_en": "You needn't have ___.",
-   "frame_tr": "___ yapmana gerek yoktu (ama yaptın).",
+   "frame_tr": "___ gerek yoktu (ama yaptın).",
    "derivatives": [
     {
      "tr": "endişelenmene",
@@ -27816,7 +27816,7 @@
    "level": "C1",
    "theme": "gizemler",
    "frame_en": "She may well have ___.",
-   "frame_tr": "Onun ___ yapmış olması oldukça muhtemeldir.",
+   "frame_tr": "Onun ___ olması oldukça muhtemeldir.",
    "derivatives": [
     {
      "tr": "gerçeği duymuş",
@@ -27890,7 +27890,7 @@
    "level": "C1",
    "theme": "ofis",
    "frame_en": "I won't have you ___.",
-   "frame_tr": "Senin ___ yapmana kesinlikle izin vermeyeceğim.",
+   "frame_tr": "Senin ___ kesinlikle izin vermeyeceğim.",
    "derivatives": [
     {
      "tr": "bana yalan söylemene",
@@ -27914,7 +27914,7 @@
      "note": "'I won't have someone doing something' otoriter bir izin vermeme/katlanamama kalıbıdır."
     },
     {
-     "tr": "bu önemli kuralları hiçe saymana",
+     "tr": "bu önemli kuralları ofiste hiçe saymana",
      "answer": "disregarding these important rules in the office",
      "sentence": "I won't have you disregarding these important rules in the office.",
      "note": "Kalıpta nesneden sonra gelen eylem mutlaka '-ing' (gerund/participle) eki almalıdır."
@@ -28001,31 +28001,31 @@
    "level": "C1",
    "theme": "deneyim",
    "frame_en": "This is by far the most ___.",
-   "frame_tr": "Bu açık ara en ___.",
+   "frame_tr": "Bu açık ara ___.",
    "derivatives": [
     {
-     "tr": "güzel yer",
+     "tr": "en güzel yer",
      "answer": "beautiful place",
      "sentence": "This is by far the most beautiful place."
     },
     {
-     "tr": "zor görev",
+     "tr": "en zor görev",
      "answer": "difficult task",
      "sentence": "This is by far the most difficult task."
     },
     {
-     "tr": "heyecan verici gelişme",
+     "tr": "en heyecan verici gelişme",
      "answer": "exciting development",
      "sentence": "This is by far the most exciting development."
     },
     {
-     "tr": "kariyerimde karşılaştığım karmaşık sorun",
+     "tr": "kariyerimde karşılaştığım en karmaşık sorun",
      "answer": "complex issue I have faced in my career",
      "sentence": "This is by far the most complex issue I have faced in my career.",
      "note": "'by far' vurgu ifadesi superlatif (en üstünlük) derecesini güçlü şekilde pekiştirir."
     },
     {
-     "tr": "son dönemde duyduğum mantıklı öneri",
+     "tr": "son dönemde duyduğum en mantıklı öneri",
      "answer": "sensible proposal I have heard recently",
      "sentence": "This is by far the most sensible proposal I have heard recently.",
      "note": "'sensible' mantıklı/akılcı demektir; 'sensitive' hassas ile karıştırılmamalıdır."
@@ -28075,7 +28075,7 @@
    "level": "C1",
    "theme": "değerlendirme",
    "frame_en": "Nowhere near as ___ as I expected.",
-   "frame_tr": "Beklediğimden yanına bile yaklaşamayacak kadar ___.",
+   "frame_tr": "Beklediğim kadar ___ olmaktan çok uzak.",
    "derivatives": [
     {
      "tr": "zor",
@@ -28186,31 +28186,31 @@
    "level": "C1",
    "theme": "güvenlik",
    "frame_en": "Under no circumstances should you ___.",
-   "frame_tr": "Hiçbir koşulda ___ yapmamalısınız.",
+   "frame_tr": "Hiçbir koşulda ___.",
    "derivatives": [
     {
-     "tr": "şifrenizi paylaşın",
+     "tr": "şifrenizi paylaşmayın",
      "answer": "share your password",
      "sentence": "Under no circumstances should you share your password."
     },
     {
-     "tr": "burayı terk edin",
+     "tr": "burayı terk etmeyin",
      "answer": "leave this place",
      "sentence": "Under no circumstances should you leave this place."
     },
     {
-     "tr": "panik yapın",
+     "tr": "panik yapmayın",
      "answer": "panic",
      "sentence": "Under no circumstances should you panic."
     },
     {
-     "tr": "onların iddialarına doğrudan inanın",
+     "tr": "onların iddialarına doğrudan inanmayın",
      "answer": "believe their claims without verification",
      "sentence": "Under no circumstances should you believe their claims without verification.",
      "note": "Olumsuz anlam taşıyan 'Under no circumstances' devrik yapısı 'should you' gerektirir."
     },
     {
-     "tr": "yöneticiye haber vermeden sözleşmeyi imzalayın",
+     "tr": "yöneticiye haber vermeden sözleşmeyi imzalamayın",
      "answer": "sign the contract without informing the manager",
      "sentence": "Under no circumstances should you sign the contract without informing the manager.",
      "note": "Zaten olumsuzluk barındıran bu devrik yapıda 'should you not' denmez."
@@ -28297,31 +28297,31 @@
    "level": "C1",
    "theme": "kurallar",
    "frame_en": "On no account must they ___.",
-   "frame_tr": "Hiçbir şekilde ___ yapmamalılar.",
+   "frame_tr": "Hiçbir şekilde ___.",
    "derivatives": [
     {
-     "tr": "bu belgeleri sızdırsınlar",
+     "tr": "bu belgeleri sızdırmasınlar",
      "answer": "leak these documents",
      "sentence": "On no account must they leak these documents."
     },
     {
-     "tr": "güvenliği riske atsınlar",
+     "tr": "güvenliği riske atmasınlar",
      "answer": "risk the security",
      "sentence": "On no account must they risk the security."
     },
     {
-     "tr": "yöneticiyi yanıltsınlar",
+     "tr": "yöneticiyi yanıltmasınlar",
      "answer": "mislead the manager",
      "sentence": "On no account must they mislead the manager."
     },
     {
-     "tr": "bu önemli prosedürleri görmezden gelsinler",
+     "tr": "bu önemli prosedürleri görmezden gelmesinler",
      "answer": "ignore these crucial procedures",
      "sentence": "On no account must they ignore these crucial procedures.",
      "note": "'On no account' başlangıcı devrik yardımcı fiil ('must they') gerektirir."
     },
     {
-     "tr": "bu hassas konuda tek başlarına acele kararlar alsınlar",
+     "tr": "bu hassas konuda tek başlarına acele kararlar almasınlar",
      "answer": "make hasty decisions alone on this sensitive matter",
      "sentence": "On no account must they make hasty decisions alone on this sensitive matter.",
      "note": "Cümle zaten yapısal olarak negatiflik içerdiğinden ayrıca olumsuzluk eki (not) almaz."
@@ -28470,7 +28470,7 @@
    "level": "C1",
    "theme": "finansal karar",
    "frame_en": "Rarely do we encounter such a ___",
-   "frame_tr": "Böylesine bir ___ ile nadiren karşılaşırız",
+   "frame_tr": "Böylesine ___ ile nadiren karşılaşırız",
    "derivatives": [
     {
      "tr": "iyi bir fırsat",
@@ -28824,12 +28824,12 @@
      "sentence": "It was their determination that helped them overcome obstacles."
     },
     {
-     "tr": "bizi etkiledi",
+     "tr": "bizi etkilemelerini",
      "answer": "impressed us",
      "sentence": "It was their determination that impressed us."
     },
     {
-     "tr": "şirketi kurtardı",
+     "tr": "şirketi kurtarmalarını",
      "answer": "saved the company",
      "sentence": "It was their determination that saved the company.",
      "note": "'It is/was... that' yapısı özneyi güçlü şekilde vurgular."
@@ -28842,7 +28842,7 @@
    "level": "C1",
    "theme": "stratejik hata",
    "frame_en": "The reason why they failed was that they ___",
-   "frame_tr": "Başarısız olmalarının sebebi ___",
+   "frame_tr": "Başarısız olmalarının sebebi şuydu: ___",
    "derivatives": [
     {
      "tr": "pazarı analiz etmediler",
@@ -29506,7 +29506,7 @@
      "sentence": "We managed to get our database fixed by the tech team."
     },
     {
-     "tr": "yenilettirmeyi",
+     "tr": "yeniden yapılandırtmayı",
      "answer": "restructured",
      "sentence": "We managed to get our database restructured by the tech team."
     },
@@ -29586,25 +29586,25 @@
    "level": "C1",
    "theme": "performans kıyaslaması",
    "frame_en": "His performance was nowhere near as ___",
-   "frame_tr": "Onun performansı ___ yanına bile yaklaşamazdı",
+   "frame_tr": "Onun performansı ___ olmaktan çok uzaktı",
    "derivatives": [
     {
-     "tr": "iyi",
+     "tr": "beklenen kadar iyi",
      "answer": "good as expected",
      "sentence": "His performance was nowhere near as good as expected."
     },
     {
-     "tr": "etkileyici",
+     "tr": "benimki kadar etkileyici",
      "answer": "impressive as mine",
      "sentence": "His performance was nowhere near as impressive as mine."
     },
     {
-     "tr": "profesyonel",
+     "tr": "seninki kadar profesyonel",
      "answer": "professional as yours",
      "sentence": "His performance was nowhere near as professional as yours."
     },
     {
-     "tr": "tutarlı",
+     "tr": "eskisi kadar tutarlı",
      "answer": "consistent as it used to be",
      "sentence": "His performance was nowhere near as consistent as it used to be.",
      "note": "'nowhere near as' yapısı 'beklentinin çok altında' anlamındadır."
@@ -29682,7 +29682,7 @@
    "frame_tr": "Tam olarak bu strateji sayesinde biz ___",
    "derivatives": [
     {
-     "tr": "pazarı yönettik",
+     "tr": "pazara hâkim olduk",
      "answer": "dominated the market",
      "sentence": "It is precisely because of this strategy that we dominated the market."
     },
@@ -29713,7 +29713,7 @@
    "frame_tr": "Hiçbir koşulda izin almadan ___",
    "derivatives": [
     {
-     "tr": "dosyalara erişmelerine izin verilmemeli",
+     "tr": "dosyalara erişmemeliler",
      "answer": "access the files",
      "sentence": "Under no circumstances must they access the files without permission."
     },
@@ -29865,7 +29865,7 @@
    "level": "C1",
    "theme": "seyahat",
    "frame_en": "No sooner had they ___ than ___",
-   "frame_tr": "Onlar ___ yapmasıyla ___ yapması bir oldu",
+   "frame_tr": "Onların ___",
    "derivatives": [
     {
      "tr": "uçağa binmeleriyle kapıların kapanması bir oldu",
@@ -29909,12 +29909,12 @@
      "sentence": "Should you change your mind, you can contact us at any time."
     },
     {
-     "tr": "bu teklifimiz hala geçerli olacaktır",
+     "tr": "bu teklifimiz hâlâ geçerli olacaktır",
      "answer": "our offer will still be valid",
      "sentence": "Should you change your mind, our offer will still be valid."
     },
     {
-     "tr": "bizi her zaman arayabilirsin",
+     "tr": "bizi istediğin zaman aramalısın",
      "answer": "you should call us whenever you want",
      "sentence": "Should you change your mind, you should call us whenever you want.",
      "note": "Geleceğe dair kibar koşul olasılıklarında 'if' yerine 'Should' başa gelir."
@@ -30039,8 +30039,8 @@
     },
     {
      "tr": "bu kadar büyük bir karmaşa yaşamazdık",
-     "answer": "we would not have experienced such a massive chaos",
-     "sentence": "If I were more organised, we would not have experienced such a massive chaos.",
+     "answer": "we would not have experienced such massive chaos",
+     "sentence": "If I were more organised, we would not have experienced such massive chaos.",
      "note": "Karakter özelliğinin (Type 2) geçmişteki eyleme (Type 3) etkisini anlatır."
     }
    ],
@@ -30144,7 +30144,7 @@
    "level": "C1",
    "theme": "ilişkiler",
    "frame_en": "The reason why they left is that ___",
-   "frame_tr": "Ayrılmalarının sebebi ___ olmasıdır",
+   "frame_tr": "Ayrılmalarının sebebi ___",
    "derivatives": [
     {
      "tr": "farklı beklentilere sahip olmalarıydı",
@@ -30206,7 +30206,7 @@
    "level": "C1",
    "theme": "finans",
    "frame_en": "It was only yesterday that ___",
-   "frame_tr": "Daha dün ___ oldu",
+   "frame_tr": "Daha dün ___",
    "derivatives": [
     {
      "tr": "yeni bütçeyi onayladık",
@@ -30268,7 +30268,7 @@
    "level": "C1",
    "theme": "iş",
    "frame_en": "It is crucial that she ___",
-   "frame_tr": "Onun ___ olması çok önemlidir",
+   "frame_tr": "Onun ___ çok önemlidir",
    "derivatives": [
     {
      "tr": "toplantıya vaktinde katılması",
@@ -30299,7 +30299,7 @@
    "level": "C1",
    "theme": "kurallar",
    "frame_en": "The committee demanded that the project ___",
-   "frame_tr": "Komite projenin ___ edilmesini talep etti",
+   "frame_tr": "Komite projenin ___ talep etti",
    "derivatives": [
     {
      "tr": "derhal durdurulmasını",
@@ -30364,7 +30364,7 @@
    "frame_tr": "Ne kadar pratik yapsalar da, ___",
    "derivatives": [
     {
-     "tr": "bu seviyede hala hata yapıyorlar",
+     "tr": "bu seviyede hâlâ hata yapıyorlar",
      "answer": "they still make mistakes at this level",
      "sentence": "However much they practise, they still make mistakes at this level."
     },
@@ -30447,7 +30447,7 @@
      "note": "İngiliz İngilizcesi 'Whilst' bağlacı kibar ve entelektüel bir zıtlık ilişkisi kurar."
     }
    ],
-   "self_prompt_tr": "Karşı tarafın kaygılarına hak verdiğin ama kendi fikrini kibarca savundun bir argüman yaz."
+   "self_prompt_tr": "Karşı tarafın kaygılarına hak verdiğin ama kendi fikrini kibarca savunduğun bir argüman yaz."
   },
   {
    "id": "c1_yasam_4",
@@ -30640,7 +30640,7 @@
    "level": "C1",
    "theme": "kamu",
    "frame_en": "He is said to have ___",
-   "frame_tr": "Onun ___ olduğu söyleniyor",
+   "frame_tr": "Onun ___ söyleniyor",
    "derivatives": [
     {
      "tr": "ülkeyi terk ettiği",
@@ -30671,7 +30671,7 @@
    "level": "C1",
    "theme": "suç",
    "frame_en": "The suspect is believed to be ___",
-   "frame_tr": "Şüphelinin ___ olduğuna inanılıyor",
+   "frame_tr": "Şüphelinin ___ inanılıyor",
    "derivatives": [
     {
      "tr": "şu anda yurt dışında saklandığına",
@@ -30702,7 +30702,7 @@
    "level": "C1",
    "theme": "iş",
    "frame_en": "I will have my assistant ___",
-   "frame_tr": "Asistanıma ___ yaptıracağım",
+   "frame_tr": "Asistanıma ___",
    "derivatives": [
     {
      "tr": "toplantıyı ayarlatacağım",
@@ -30888,10 +30888,10 @@
    "level": "C1",
    "theme": "toplum",
    "frame_en": "Seldom do we witness such ___",
-   "frame_tr": "Böyle bir ___ nadiren şahit oluruz",
+   "frame_tr": "Böyle ___ nadiren şahit oluruz",
    "derivatives": [
     {
-     "tr": "dayanışmaya",
+     "tr": "bir dayanışmaya",
      "answer": "solidarity",
      "sentence": "Seldom do we witness such solidarity."
     },
@@ -30919,7 +30919,7 @@
    "level": "C1",
    "theme": "yasaklar",
    "frame_en": "On no account must you ___",
-   "frame_tr": "Hiçbir koşulda ___ yapmamalısın",
+   "frame_tr": "Hiçbir koşulda ___",
    "derivatives": [
     {
      "tr": "bu gizli bilgileri yabancılarla paylaşmamalısın",
@@ -30981,7 +30981,7 @@
    "level": "C1",
    "theme": "kariyer",
    "frame_en": "At no time did they ___",
-   "frame_tr": "Hiçbir zaman ___ yapmadılar",
+   "frame_tr": "Hiçbir zaman ___",
    "derivatives": [
     {
      "tr": "projeyi iptal etmeyi düşünmediler",
@@ -31074,7 +31074,7 @@
    "level": "C1",
    "theme": "ilişkiler",
    "frame_en": "Seldom do people realize that ___",
-   "frame_tr": "İnsanlar ___ olduğunu nadiren fark eder",
+   "frame_tr": "İnsanlar ___ nadiren fark eder",
    "derivatives": [
     {
      "tr": "güven inşa etmenin zaman aldığını",
@@ -31144,7 +31144,7 @@
      "sentence": "Had I not taken your advice, I would have missed this great opportunity."
     },
     {
-     "tr": "hala o eski şirkette çalışıyor olurdum",
+     "tr": "hâlâ o eski şirkette çalışıyor olurdum",
      "answer": "still be working at that old company",
      "sentence": "Had I not taken your advice, I would still be working at that old company."
     },
@@ -31242,7 +31242,7 @@
      "sentence": "Had it not been for the funding, the project could never have been realized."
     },
     {
-     "tr": "zamanında tamamlanamazdı",
+     "tr": "gecikirdi",
      "answer": "would be delayed",
      "sentence": "Had it not been for the funding, the project would be delayed."
     },
@@ -31268,7 +31268,7 @@
      "sentence": "If she had received proper training, she would be managing this project now."
     },
     {
-     "tr": "çok daha yüksek bir maaş alıyordu",
+     "tr": "çok daha yüksek bir maaş alıyor olurdu",
      "answer": "would be earning a much higher salary",
      "sentence": "If she had received proper training, she would be earning a much higher salary now."
     },
@@ -31361,7 +31361,7 @@
      "sentence": "If we were not close friends, I would not have lent you so much money."
     },
     {
-     "tr": "gecenin bu saatinde yardımına gelmezdim",
+     "tr": "yardımına gelmezdim",
      "answer": "have come to help you",
      "sentence": "If we were not close friends, I would not have come to help you."
     },
@@ -31387,22 +31387,22 @@
    "frame_tr": "___ onun liderliğiydi.",
    "derivatives": [
     {
-     "tr": "şirketi iflastan kurtardı",
+     "tr": "şirketi iflastan kurtaran",
      "answer": "saved the company from bankruptcy",
      "sentence": "It was her leadership that saved the company from bankruptcy."
     },
     {
-     "tr": "ekibi bir arada tuttu",
+     "tr": "ekibi bir arada tutan",
      "answer": "kept the team together",
      "sentence": "It was her leadership that kept the team together."
     },
     {
-     "tr": "yeni müşterileri ikna etti",
+     "tr": "yeni müşterileri ikna eden",
      "answer": "convinced the new clients",
      "sentence": "It was her leadership that convinced the new clients."
     },
     {
-     "tr": "bize kriz anında rehberlik etti",
+     "tr": "bize kriz anında rehberlik eden",
      "answer": "guided us through the crisis",
      "sentence": "It was her leadership that guided us through the crisis.",
      "note": "'It is/was... that' yapısı özneyi (leadership) güçlü bir şekilde vurgulamak için kurulur."
@@ -31573,7 +31573,7 @@
    "frame_tr": "Bütçenin ___ önerdik",
    "derivatives": [
     {
-     "tr": "yeniden gözden geçirilmesini",
+     "tr": "derhal gözden geçirilmesini",
      "answer": "be revised immediately",
      "sentence": "We proposed that the budget be revised immediately."
     },
@@ -31588,7 +31588,7 @@
      "sentence": "We proposed that the budget be frozen completely."
     },
     {
-     "tr": "gereksiz yere harcanmamasını",
+     "tr": "gereksiz projelere harcanmamasını",
      "answer": "not be wasted on unnecessary projects",
      "sentence": "We proposed that the budget not be wasted on unnecessary projects.",
      "note": "Öneri bildiren 'propose' sonrasındaki edilgen subjunctive 'be + V3' olarak kurulur."
@@ -31702,7 +31702,7 @@
      "sentence": "Even though we implemented strict security protocols, the system was hacked last night."
     },
     {
-     "tr": "hala saldırılara karşı savunmasız",
+     "tr": "hâlâ saldırılara karşı savunmasız",
      "answer": "is still vulnerable to cyber attacks",
      "sentence": "Even though we implemented strict security protocols, the system is still vulnerable to cyber attacks."
     },
@@ -31725,7 +31725,7 @@
    "level": "C1",
    "theme": "iş",
    "frame_en": "Whilst I appreciate your concern, I still believe ___",
-   "frame_tr": "Endişenizi takdir etmekle birlikte, hala inanıyorum ki ___",
+   "frame_tr": "Endişenizi takdir etmekle birlikte, hâlâ inanıyorum ki ___",
    "derivatives": [
     {
      "tr": "bu riski almalıyız",
@@ -32066,7 +32066,7 @@
    "level": "C1",
    "theme": "iş",
    "frame_en": "I will have my secretary ___",
-   "frame_tr": "Sekreterime ___ yaptıracağım",
+   "frame_tr": "Sekreterimin ___ sağlayacağım",
    "derivatives": [
     {
      "tr": "görüşmeyi organize etmesini",
@@ -32084,7 +32084,7 @@
      "sentence": "I will have my secretary book a room at the hotel."
     },
     {
-     "tr": "raporu yönetim kurulu için hazırlatmasını",
+     "tr": "raporu yönetim kurulu için hazırlamasını",
      "answer": "prepare the report for the board",
      "sentence": "I will have my secretary prepare the report for the board.",
      "note": "Aktif ettirgen 'have + person + V1 (yalın fiil)' yapısıyla kurulur."
@@ -32105,17 +32105,17 @@
      "sentence": "The suspect is believed to have fled the country."
     },
     {
-     "tr": "sahte kimlik kullandığı",
+     "tr": "sahte kimlik kullandığına",
      "answer": "used a fake identity",
      "sentence": "The suspect is believed to have used a fake identity."
     },
     {
-     "tr": "kanıtları gizlemeye çalıştığı",
+     "tr": "kanıtları gizlemeye çalıştığına",
      "answer": "tried to hide the evidence",
      "sentence": "The suspect is believed to have tried to hide the evidence."
     },
     {
-     "tr": "yerel makamlarla iş birliği yapmadığı",
+     "tr": "yerel makamlarla iş birliği yapmadığına",
      "answer": "not co-operated with the local authorities",
      "sentence": "The suspect is believed to have not co-operated with the local authorities.",
      "note": "Geçmişe dönük edilgen iddialar için 'is believed to have + V3' kullanılır."
@@ -32159,7 +32159,7 @@
    "level": "C1",
    "theme": "kararlar",
    "frame_en": "It was by far the most ___",
-   "frame_tr": "Açık ara en ___ olandı",
+   "frame_tr": "Açık ara ___",
    "derivatives": [
     {
      "tr": "kariyerimde verdiğim en zor karardı",
@@ -32221,7 +32221,7 @@
    "level": "C1",
    "theme": "iş",
    "frame_en": "I do believe that we ___",
-   "frame_tr": "___ olduğuna gerçekten inanıyorum",
+   "frame_tr": "___ gerçekten inanıyorum",
    "derivatives": [
     {
      "tr": "bu hedefe ulaşacağımıza",
@@ -32472,8 +32472,8 @@
    "derivatives": [
     {
      "tr": "bizimle çalışmayı kabul ederdi",
-     "answer": "accepted to work with us",
-     "sentence": "If she were not so stubborn, she would have accepted to work with us."
+     "answer": "agreed to work with us",
+     "sentence": "If she were not so stubborn, she would have agreed to work with us."
     },
     {
      "tr": "hatasını çoktan kabul ederdi",
@@ -32517,7 +32517,7 @@
      "sentence": "If we had taken the train, we would be resting at the hotel now."
     },
     {
-     "tr": "trafikte sıkışıp kalmamış olurduk",
+     "tr": "trafikte sıkışıp kalmıyor olurduk",
      "answer": "not be stuck in traffic",
      "sentence": "If we had taken the train, we would not be stuck in traffic now."
     },
@@ -32615,27 +32615,27 @@
    "frame_tr": "___ tam olarak bu tavırdır.",
    "derivatives": [
     {
-     "tr": "her şeyi mahvediyor",
+     "tr": "her şeyi mahveden",
      "answer": "ruins everything",
      "sentence": "It is this attitude that ruins everything."
     },
     {
-     "tr": "bizi başarıya götürecek",
+     "tr": "bizi başarıya götürecek olan",
      "answer": "will lead us to success",
      "sentence": "It is this attitude that will lead us to success."
     },
     {
-     "tr": "projenin başarısız olmasına sebep oldu",
+     "tr": "projenin başarısız olmasına sebep olan",
      "answer": "caused the project to fail",
      "sentence": "It is this attitude that caused the project to fail."
     },
     {
-     "tr": "toplumda büyük bir kriz yaratıyor",
+     "tr": "toplumda büyük bir kriz yaratan",
      "answer": "creates a massive crisis in society",
      "sentence": "It is this attitude that creates a massive crisis in society."
     },
     {
-     "tr": "beni her zaman endişelendiriyor",
+     "tr": "beni her zaman endişelendiren",
      "answer": "always worries me",
      "sentence": "It is this attitude that always worries me.",
      "note": "Özneyi ('this attitude') doğrudan vurgulamak amacıyla kurulan cleft (it is... that) yapısıdır."
@@ -32648,7 +32648,7 @@
    "level": "C1",
    "theme": "kariyer",
    "frame_en": "The reason why she resigned was that ___",
-   "frame_tr": "Onun istifa etmesinin sebebi ___ olmasıydı",
+   "frame_tr": "Onun istifa etmesinin sebebi ___ idi",
    "derivatives": [
     {
      "tr": "kendini çok yorgun hissetmesi",
@@ -32684,7 +32684,7 @@
    "level": "C1",
    "theme": "iş",
    "frame_en": "All I am asking for is ___",
-   "frame_tr": "Tek istediğim/Tek rica ettiğim şey ___",
+   "frame_tr": "Tek rica ettiğim şey ___",
    "derivatives": [
     {
      "tr": "biraz daha zaman verilmesi",
@@ -33304,7 +33304,7 @@
      "sentence": "This project is by far the most successful one."
     },
     {
-     "tr": "bizi zorlayan süreçtir",
+     "tr": "zorlayıcı süreçtir",
      "answer": "challenging process",
      "sentence": "This project is by far the most challenging process."
     },
@@ -33368,30 +33368,30 @@
    "level": "C1",
    "theme": "pazar",
    "frame_en": "His performance was nowhere near as ___ as we expected",
-   "frame_tr": "Onun performansı beklediğimiz kadar ___ yanına bile yaklaşamadı",
+   "frame_tr": "Onun performansı beklediğimiz kadar ___ çok uzaktı",
    "derivatives": [
     {
-     "tr": "başarılı olmasının",
+     "tr": "başarılı olmasından",
      "answer": "successful",
      "sentence": "His performance was nowhere near as successful as we expected."
     },
     {
-     "tr": "etkileyici olmasının",
+     "tr": "etkileyici olmasından",
      "answer": "impressive",
      "sentence": "His performance was nowhere near as impressive as we expected."
     },
     {
-     "tr": "profesyonelce olmasının",
+     "tr": "profesyonel olmasından",
      "answer": "professional",
      "sentence": "His performance was nowhere near as professional as we expected."
     },
     {
-     "tr": "verimli olmasının",
+     "tr": "verimli olmasından",
      "answer": "efficient",
      "sentence": "His performance was nowhere near as efficient as we expected."
     },
     {
-     "tr": "yaratıcı olmasının",
+     "tr": "yaratıcı olmasından",
      "answer": "creative",
      "sentence": "His performance was nowhere near as creative as we expected.",
      "note": "'nowhere near as' kalıbı, iki durum arasındaki devasa farkı vurgular."
@@ -33476,7 +33476,7 @@
    "level": "C1",
    "theme": "iş",
    "frame_en": "I do hope that you ___",
-   "frame_tr": "Sizin ___ gerçekten umut ediyorum",
+   "frame_tr": "Gerçekten umut ediyorum ki ___",
    "derivatives": [
     {
      "tr": "bu teklifi kabul edersiniz",
@@ -33538,7 +33538,7 @@
      "tr": "güvenimizi kötüye kullanmadılar",
      "answer": "abuse our trust",
      "sentence": "At no time did they abuse our trust.",
-     "note": "At no time' devriktir; did yardımcı fiili özneden önce gelir."
+     "note": "'At no time' devriktir; did yardımcı fiili özneden önce gelir."
     }
    ],
    "self_prompt_tr": "Ortaklarının veya çalışma arkadaşlarının gösterdiği sarsılmaz bağlılığı ve güvenilirliği öv."

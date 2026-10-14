@@ -362,7 +362,7 @@
     "why": "'Derhal yasaklanmalıdır' politika önermesi ve '%100 güvenli uzay turizmini garanti etmek' mutlak gelecek tahmini metni aşıyor."
    },
    {
-    "text": "Man-made orbital waste pose a threat to space exploration, requiring innovative physical intervention methods to secure missions.",
+    "text": "Man-made orbital waste poses a threat to space exploration, requiring innovative physical intervention methods to secure missions.",
     "label": "valid",
     "why": "'uzay çöplerini' 'insan yapımı yörünge atıkları', 'ağlar ve zıpkınları' da 'yenilikçi fiziksel müdahale yöntemleri' olarak başarıyla genelliyor."
    },
@@ -623,7 +623,7 @@
    {
     "text": "Vertical farming uses ninety-five percent less water than conventional agriculture, though LED lighting requires high electricity.",
     "label": "under",
-    "why": "Metindeki su tasarrufu oranını ve LED aydınlatma maliyetini doğrudan tekrar ediyor; zihinsel bir çıkarım içemiyor."
+    "why": "Metindeki su tasarrufu oranını ve LED aydınlatma maliyetini doğrudan tekrar ediyor; zihinsel bir çıkarım içermiyor."
    },
    {
     "text": "Vertical farming is the only possible way to completely feed all future city populations without any environmental impact.",
@@ -675,7 +675,7 @@
     "why": "'temiz su kuyusu inşa etmeyi' 'hijyenik suya erişim noktaları kurmak', 'okul ve pazar canlanmasını' de 'eğitim ve ekonomik katılım' olarak genelliyor."
    },
    {
-    "text": "In many developing nations, waterborne diseases remain the leading cause of child mortality in these regions.",
+    "text": "In many developing nations, waterborne diseases remain the leading cause of child mortality.",
     "label": "under",
     "why": "Metindeki çocuk ölümü tespitini neredeyse birebir tekrar ediyor; zihinsel bir çıkarım süreci barındırmıyor."
    }
@@ -1437,7 +1437,7 @@
    {
     "text": "Resolving the hazards of orbital congestion may require a combination of technological innovations and binding regulatory frameworks.",
     "label": "valid",
-    "why": "Lazer kementlerini 'teknolojik inovasyonlar', antlaşmaları ise 'bağlayıcı yasal düzenlemeler' olarak genelliyor."
+    "why": "Mıknatıs ağları ve lazer zıpkınlarını 'teknolojik inovasyonlar', antlaşmaları ise 'bağlayıcı yasal düzenlemeler' olarak genelliyor."
    },
    {
     "text": "Active debris removal technologies are the only way to save Earth from space collisions.",
@@ -1486,7 +1486,7 @@
    {
     "text": "Altering societal schedules can have negative physiological repercussions that outweigh minor economic advantages.",
     "label": "valid",
-    "why": "Saat değişimini 'toplumsal programların değiştirilmesi', az enerji tasarrufu ve kazaları ise 'fizyolojik zararların ekonomik faydanardan ağır basması' olarak genelliyor."
+    "why": "Saat değişimini 'toplumsal programların değiştirilmesi', az enerji tasarrufu ve kazaları ise 'fizyolojik zararların ekonomik faydalardan ağır basması' olarak genelliyor."
    },
    {
     "text": "Abolishing Daylight Saving Time will completely eliminate workplace accidents across the nation.",
@@ -1533,7 +1533,7 @@
     "why": "Kütüphanenin gerilemesi ve bilimsel yavaşlamayı 'merkezi entelektüel kurumların gerilemesinin kolektif bilgi gelişim hızını engellemesi' şeklinde genelliyor."
    },
    {
-    "text": "Alexandria Library had the goal of collecting the entirety of human knowledge under one roof.",
+    "text": "The Library of Alexandria had the goal of collecting the entirety of human knowledge under one roof.",
     "label": "under",
     "why": "Metnin ilk cümlesindeki kuruluş amacını neredeyse kelimesi kelimesine kopyalamıştır; zihinsel çıkarım barındırmaz."
    }
@@ -2344,12 +2344,12 @@
    {
     "text": "Cardiovascular diseases decrease by twenty percent among adults adopting active commuting over five years.",
     "label": "under",
-    "why": "Beş yıl boyunca aktif commuting yapan yetişkinlerde kardiyovasküler hastalıkların yüzde yirmi azaldığı bilgisini doğrudan metinden tekrar ediyor."
+    "why": "Beş yıl boyunca aktif ulaşımı benimseyen yetişkinlerde kardiyovasküler hastalıkların yüzde yirmi azaldığı bilgisini doğrudan metinden tekrar ediyor."
    },
    {
-    "text": "Cities that invest in cycling infrastructure see a twenty percent decrease in cardiovascular diseases among adults.",
+    "text": "In cities that invested in cycling infrastructure, adults who adopted active commuting saw a twenty percent decrease in cardiovascular diseases.",
     "label": "under",
-    "why": "Bisiklet yollarına yatırım yapan şehirlerde kalp hastalıklarında %20 düşüş görüldüğü verisini metinden doğrudan, kelimesi kelimesine kopyalamıştır."
+    "why": "Bisiklet yollarına yatırım yapan şehirlerde aktif ulaşımı benimseyen yetişkinlerde kalp hastalıklarında %20 düşüş görüldüğü verisini metinden doğrudan, kelimesi kelimesine kopyalamıştır."
    }
   ]
  },
@@ -3444,7 +3444,7 @@
    {
     "text": "Concentrating residential and commercial areas can discourage private vehicle reliance and enhance local ecological performance.",
     "label": "valid",
-    "why": "Metindeki evleri dükkanların yakınına toplamayı konut ve ticari alanları yoğunlaştırmak, araba bağımlılığını azaltmayı ise özel araç bağıvlılığını caydırmak olarak genelliyor"
+    "why": "Metindeki evleri dükkanların yakınına toplamayı konut ve ticari alanları yoğunlaştırmak, araba bağımlılığını azaltmayı ise özel araç bağımlılığını caydırmak olarak genelliyor"
    },
    {
     "text": "High-density city planning is the single best way to eliminate all respiratory diseases globally.",
@@ -3681,7 +3681,7 @@
    {
     "text": "Analyzing historical ship remains can shed light on the complexity of ancient supply chains and resources.",
     "label": "valid",
-    "why": "Ahşap gemi kalıntılarının incelenmesini 'tarihi gemi kalıntılarını analiz etmek', Roma lojistik sistemini 'antik tedarik ziyan zincirlerinin karmaşıklığı' olarak genelliyor."
+    "why": "Ahşap gemi kalıntılarının incelenmesini 'tarihi gemi kalıntılarını analiz etmek', Roma lojistik sistemini 'antik tedarik zincirlerinin karmaşıklığı' olarak genelliyor."
    },
    {
     "text": "The timber analyzed from the Roman ship came from forests in Northern Europe, far away from the harbor.",
@@ -3811,7 +3811,7 @@
   "paragraph": "The rapid decline of native wild bee populations in agricultural regions has caused a notable drop in the yields of fruit orchards that rely on insect pollination. Unlike domesticated honeybees, wild bees are highly efficient at fertilizing specific flower types under cooler weather conditions. Conservationists emphasize that restoring native wildflower meadows is crucial to preventing localized agricultural crises.",
   "cards": [
    {
-    "text": "Wild bees are highly efficient at fertilizing specific flower types under cooler weather conditions than honeybees.",
+    "text": "Wild bees are more efficient than honeybees at fertilizing specific flower types under cooler weather conditions.",
     "label": "under",
     "why": "Yabani arıların serin hava şartlarında bal arılarına göre belirli çiçek tiplerini döllemede son derece verimli olduğunu doğrudan metinden alıp tekrar ediyor."
    },
@@ -4285,7 +4285,7 @@
    {
     "text": "Investigating chemosynthesis-based marine life can provide a reference framework for analyzing potential habitability in extraterrestrial environments.",
     "label": "valid",
-    "why": "Kemosenteze dayalı hydrothermal canlıları araştırmayı 'kemosenteze dayalı deniz yaşamını incelemek', buzlu uydulardaki yaşam ihtimalini 'dünya dışı ortamlardaki potansiyel yaşanabilirliği analiz etmek için bir referans çerçeve sağlamak' olarak genelliyor."
+    "why": "Kemosenteze dayalı hidrotermal canlıları araştırmayı 'kemosenteze dayalı deniz yaşamını incelemek', buzlu uydulardaki yaşam ihtimalini 'dünya dışı ortamlardaki potansiyel yaşanabilirliği analiz etmek için bir referans çerçeve sağlamak' olarak genelliyor."
    }
   ]
  },
@@ -4525,7 +4525,7 @@
     "why": "Kimyasal gübrelere acil küresel yasak getirilmezse verimin sıfıra ineceğini iddia ederek metindeki yıpranma uyarılarını aşan aşırı bir felaket tahmini ve politika dayatması sunuyor."
    },
    {
-    "text": "Overusing chemical fertilizers boost crop yields temporarily but ruins soil microorganisms and increases erosion.",
+    "text": "Overusing chemical fertilizers boosts crop yields temporarily but ruins soil microorganisms and increases erosion.",
     "label": "under",
     "why": "Kimyasal gübrenin geçici verim artışı sağladığı ama mikroorganizmaları öldürüp erozyonu artırdığı bilgisini neredeyse aynen tekrar ediyor."
    }
@@ -4561,7 +4561,7 @@
    {
     "text": "Financial incentives for fossil fuels can act as an economic barrier to the adoption of cleaner energy alternatives.",
     "label": "valid",
-    "why": "Fosil yakıt sübvansiyoniyonlarını finansal teşvikler yenilenebilir yatırımları engellemesini ise temiz enerji benimsenmesinin önündeki ekonomik engel olarak başarıyla genelliyor."
+    "why": "Fosil yakıt sübvansiyonlarını finansal teşvikler yenilenebilir yatırımları engellemesini ise temiz enerji benimsenmesinin önündeki ekonomik engel olarak başarıyla genelliyor."
    },
    {
     "text": "Removing energy subsidies will immediately double inflation in every developing nation.",
@@ -4935,7 +4935,7 @@
    {
     "text": "Transitioning to agricultural systems that omit synthetic inputs may require more land to sustain production volumes.",
     "label": "valid",
-    "why": "Organik tarımı sentetik girdileri atlayan tarım sistemleri yield düşüklüğü ve daha çok toprak ihtiyacını ise üretim hacmini korumak için daha fazla arazi gerektirebilmesi olarak başarıyla genelliyor."
+    "why": "Organik tarımı sentetik girdileri atlayan tarım sistemleri verim düşüklüğü ve daha çok toprak ihtiyacını ise üretim hacmini korumak için daha fazla arazi gerektirebilmesi olarak başarıyla genelliyor."
    },
    {
     "text": "Organic farming will eventually cause a global famine that is worse than any food crisis in history.",
@@ -5021,9 +5021,9 @@
   "paragraph": "Municipalities that installed automated camera sensors at major intersections have reported significant improvements in traffic flow and lower idle times. These smart sensors adjust traffic light cycles dynamically based on real-time vehicle volume rather than relying on fixed timers. While privacy advocates express concern over data storage, city planners emphasize that the system reduces vehicle emissions by preventing unnecessary idling.",
   "cards": [
    {
-    "text": "Dynamic traffic light cycles based on real-time vehicle volume are much better than fixed timers.",
+    "text": "Smart sensors adjust traffic light cycles dynamically based on real-time vehicle volume instead of relying on fixed timers.",
     "label": "under",
-    "why": "Gerçek zamanlı araç hacmine dayalı dinamik döngülerin sabit zamanlayıcılardan daha iyi olduğunu neredeyse kelimesi kelimesine metinden aktarıyor."
+    "why": "Akıllı sensörlerin trafik ışığı döngülerini sabit zamanlayıcılara güvenmek yerine gerçek zamanlı araç hacmine göre ayarladığı bilgisini neredeyse kelimesi kelimesine metinden aktarıyor."
    },
    {
     "text": "Implementing responsive urban infrastructure can yield environmental benefits by reducing unnecessary fuel combustion.",
@@ -5370,7 +5370,7 @@
  {
   "id": "cim245",
   "topic": "Voyager Spacecraft (Astronomy)",
-  "paragraph": "Launched in late 1977, the Voyager spacecraft have traveled beyond the heliosphere, entering the vastness of interstellar space. These probes continue to transmit invaluable scientific data back to Earth, revealing cosmic density and magnetic variations outside our solar system. Engineers project that their power sources will deplete within the decade, silencing these historic messengers, though they will continue drifting indefinitely.",
+  "paragraph": "Launched in 1977, the Voyager spacecraft have traveled beyond the heliosphere, entering the vastness of interstellar space. These probes continue to transmit invaluable scientific data back to Earth, revealing cosmic density and magnetic variations outside our solar system. Engineers project that their power sources will deplete within the decade, silencing these historic messengers, though they will continue drifting indefinitely.",
   "cards": [
    {
     "text": "The Voyager spacecraft have traveled beyond the heliosphere and entered interstellar space.",
@@ -5664,7 +5664,7 @@
     "why": "Kişiselleştirilmiş tedavilerin kemoterapiye göre hayatta kalmayı artırıp yan etkileri azaltmasını kişiselleştirilmiş onkolojik bakımın geleneksel genel tedavilerden daha olumlu klinik sonuçlar vermesi şeklinde genelliyor."
    },
    {
-    "text": "Precision medicine shift oncology away from one-size-fits-all toward tailored therapies.",
+    "text": "Precision medicine shifts oncology away from one-size-fits-all toward tailored therapies.",
     "label": "under",
     "why": "Hassas tıbbın onkolojiyi tek tip yaklaşımdan kişiselleştirilmiş tedavilere kaydırdığı bilgisini doğrudan metinden alarak kopyalıyor."
    },
@@ -6033,7 +6033,7 @@
   "paragraph": "Coastal wetlands, including salt marshes and mangrove forests, are highly effective 'blue carbon' sinks, sequestering carbon dioxide at rates up to ten times faster than terrestrial forests. This organic carbon is trapped in the waterlogged soil for centuries, preventing it from entering the atmosphere. Climatologists emphasize that preserving these marine environments is a critical and low-cost strategy for global climate mitigation.",
   "cards": [
    {
-    "text": "Marine wetlands sequester carbon dioxide ten times faster than terrestrial forests and keep it for centuries.",
+    "text": "Marine wetlands sequester carbon dioxide at rates up to ten times faster than terrestrial forests and keep it for centuries.",
     "label": "under",
     "why": "Deniz sulak alanlarının karbondioksiti karasal ormanlardan on kat hızlı tuttuğu bilgisini doğrudan kopyalayarak çıkarım içermiyor."
    },
@@ -6299,7 +6299,7 @@
    {
     "text": "The long-term accumulation of plastics in agricultural soils could pose severe threats to food security.",
     "label": "under",
-    "why": "Tarım topraklarında uzun vadeli plastik birikiminin gıda güvenliğine ciddi tehditler oluşturabileceği uyarısını doğrudan metinden kopyalayıp kurguluyor"
+    "why": "Tarım topraklarında uzun vadeli plastik birikiminin gıda güvenliğine ciddi tehditler oluşturabileceği uyarısını doğrudan metinden kopyalayarak tekrar ediyor"
    },
    {
     "text": "Synthetics introduced through modern cultivation techniques can alter the physical and biological properties of agricultural lands.",
@@ -6316,7 +6316,7 @@
  {
   "id": "cim288",
   "topic": "Sleep Deprivation and Immunity (Health)",
-  "paragraph": "Clinical experiments reveal that restricting sleep to under six hours per night drastically impairs the human immune response. Short-sleeved participants demonstrated a significant reduction in the production of antibodies following a standard vaccination, making them more susceptible to common infections. Immunologists emphasize that adequate nocturnal rest is a crucial biological prerequisite for the body to develop protective defenses against pathogens.",
+  "paragraph": "Clinical experiments reveal that restricting sleep to under six hours per night drastically impairs the human immune response. Short-sleeping participants demonstrated a significant reduction in the production of antibodies following a standard vaccination, making them more susceptible to common infections. Immunologists emphasize that adequate nocturnal rest is a crucial biological prerequisite for the body to develop protective defenses against pathogens.",
   "cards": [
    {
     "text": "Getting adequate nocturnal rest is crucial for the body to develop protective defenses against pathogens.",
@@ -6417,7 +6417,7 @@
     "why": "Müzik aleti çalmayı tanıdık olmayan entelektüel zorluklar nöroplastisiteyi ise beyin uyum yeteneği ve dayanıklılığı olarak başarıyla genelliyor"
    },
    {
-    "text": "Learning a musical instrument is the healthiest and most effective way to prevent Alzheimer disease.",
+    "text": "Learning a musical instrument is the healthiest and most effective way to prevent Alzheimer's disease.",
     "label": "over",
     "why": "Müzik aleti öğrenmenin Alzheimer hastalığını önlemek için en sağlıklı ve en etkili yol olduğunu iddia ederek metni aşan bir üstünlük ve tıbbi kesinlik yorumu yapıyor"
    }
@@ -6786,7 +6786,7 @@
     "why": "Mercan ve algleri belirli deniz organizmaları ve mikroskobik ortaklar şeker ve enerji paylaşımını ise karşılıklı kaynak paylaşımı olarak başarıyla genelliyor"
    },
    {
-    "text": "Algae produce sugars that provide ninety percent of the coral's daily energy requirements.",
+    "text": "Algae produce sugars that provide up to ninety percent of the coral's daily energy requirements.",
     "label": "under",
     "why": "Alglerin mercanların günlük enerji ihtiyacının yüzde doksanını karşılayan şekerler ürettiği bilgisini hiçbir çıkarım yapmadan doğrudan metinden kopyalıyor"
    },

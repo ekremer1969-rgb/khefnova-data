@@ -821,7 +821,7 @@
   "common_tr": "iyi",
   "sense_tr": "kuyu",
   "en": "The villagers had to walk for miles to fetch drinking water from the ancient well.",
-  "tr": "Köylüler, antik kuyudan içme suyu getirmek için millercek yürümek zorunda kaldı.",
+  "tr": "Köylüler, antik kuyudan içme suyu getirmek için millerce yürümek zorunda kaldı.",
   "options": [
    "nehir",
    "kaynak",
@@ -1357,7 +1357,7 @@
    "rekor"
   ],
   "answer": 3,
-  "clue_tr": "'broke the world record' dünya rekorunu egale etmeyi/kırmayı anlatır; 'kayıt' bu bağlamda anlamsız kalır."
+  "clue_tr": "'broke the world record' dünya rekorunu kırmayı anlatır; 'kayıt' bu bağlamda anlamsız kalır."
  },
  {
   "id": "ty086",
@@ -2469,7 +2469,7 @@
   "common_tr": "ulaşmak",
   "sense_tr": "erim/menzil",
   "en": "We must store these toxic cleaning chemicals in a locked cabinet out of children's reach.",
-  "tr": "Bu zehirli temizlik kimyasallarını kilitli bir dolapta, çocukların eriminin (ulaşamayacağı yerin) dışında saklamalıyız.",
+  "tr": "Bu zehirli temizlik kimyasallarını kilitli bir dolapta, çocukların ulaşamayacağı bir yerde saklamalıyız.",
   "options": [
    "erim/menzil",
    "güvenliği",
@@ -3877,7 +3877,7 @@
   "common_tr": "damar",
   "sense_tr": "tarz/üslup",
   "en": "The novelist continued writing in the same humorous vein throughout his subsequent books.",
-  "tr": "Romalı, sonraki kitapları boyunca aynı mizahi üslupta yazmaya devam etti.",
+  "tr": "Romancı, sonraki kitapları boyunca aynı mizahi üslupta yazmaya devam etti.",
   "options": [
    "bölüm",
    "tarz/üslup",
@@ -3957,7 +3957,7 @@
   "common_tr": "olumlu",
   "sense_tr": "kesin/emin",
   "en": "Are you positive that the meeting has been rescheduled for next Tuesday morning?",
-  "tr": "Toplantının önümüzdeki Salı sabahına ertelendiğinden kesinlikle emin misiniz?",
+  "tr": "Toplantının önümüzdeki salı sabahına ertelendiğinden kesinlikle emin misiniz?",
   "options": [
    "olumlu",
    "yapıcı",
@@ -3987,11 +3987,11 @@
   "id": "ty250",
   "word": "acute",
   "common_tr": "akut",
-  "sense_tr": "kesin/zeki",
+  "sense_tr": "keskin/zeki",
   "en": "Dogs have an acute sense of smell that allows them to detect tiny particles.",
   "tr": "Köpekler, küçük parçacıkları tespit etmelerini sağlayan keskin bir koku alma duyusuna sahiptir.",
   "options": [
-   "kesin/zeki",
+   "keskin/zeki",
    "kronik",
    "zayıf",
    "akut"
@@ -4003,13 +4003,13 @@
   "id": "ty251",
   "word": "chronic",
   "common_tr": "kronik (hastalık)",
-  "sense_tr": "müzmin/beter",
+  "sense_tr": "müzmin/süregelen",
   "en": "The developing country suffers from a chronic shortage of clean drinking water in rural areas.",
   "tr": "Gelişmekte olan ülke, kırsal bölgelerde müzmin bir temiz içme suyu sıkıntısı çekmektedir.",
   "options": [
    "hafif",
    "geçici",
-   "müzmin/beter",
+   "müzmin/süregelen",
    "kronik (hastalık)"
   ],
   "answer": 2,
@@ -4933,7 +4933,7 @@
   "common_tr": "görev/misyon",
   "sense_tr": "heyet",
   "en": "The diplomatic mission from the United Nations arrived to facilitate peace talks between nations.",
-  "tr": "Birleşmiş Milletler'den gelen diplomatik heyet, uluslar arası barış görüşmelerini kolaylaştırmak için ulaştı.",
+  "tr": "Birleşmiş Milletler'den gelen diplomatik heyet, uluslararası barış görüşmelerini kolaylaştırmak için ulaştı.",
   "options": [
    "görev/misyon",
    "heyet",
@@ -5143,7 +5143,7 @@
   "en": "The prestigious university decided to admit only those applicants with outstanding academic profiles.",
   "tr": "Prestijli üniversite, sadece olağanüstü akademik profile sahip olan başvuru sahiplerini kabul etmeye karar verdi.",
   "options": [
-   "retretmek",
+   "reddetmek",
    "cezalandırmak",
    "itiraf etmek",
    "içeri almak/kabul etmek"
@@ -5157,7 +5157,7 @@
   "common_tr": "etkilemek",
   "sense_tr": "numara yapmak/tavır takınmak",
   "en": "To fit in with the local aristocrats, the young merchant affected a very sophisticated accent.",
-  "tr": "Yerel aristokratlara uyum sağlamak için genç tüccar çok karmaşık bir aksan takındı.",
+  "tr": "Yerel aristokratlara uyum sağlamak için genç tüccar çok sofistike bir aksan takındı.",
   "options": [
    "reddetmek",
    "numara yapmak/tavır takınmak",
@@ -5605,7 +5605,7 @@
   "common_tr": "ekonomi",
   "sense_tr": "tasarruf/idareli kullanma",
   "en": "The novelist wrote with great economy of language, using very few words effectively.",
-  "tr": "Romalı, çok az sayıda kelimeyi etkili bir şekilde kullanarak dilde büyük bir tasarrufla yazdı.",
+  "tr": "Romancı, çok az sayıda kelimeyi etkili bir şekilde kullanarak dilde büyük bir tasarrufla yazdı.",
   "options": [
    "ekonomi",
    "tasarruf/idareli kullanma",
@@ -5861,7 +5861,7 @@
   "common_tr": "yer çekimi",
   "sense_tr": "ciddiyet/önem",
   "en": "The prime minister spoke with immense gravity about the growing threat of cyber warfare.",
-  "tr": "Başbakan, büyüyen siber savaş tehdidinin muazzam ciddiyeti hakkında konuştu.",
+  "tr": "Başbakan, büyüyen siber savaş tehdidi hakkında büyük bir ciddiyetle konuştu.",
   "options": [
    "çekim gücü",
    "hafiflik",
@@ -5989,7 +5989,7 @@
   "common_tr": "zirve",
   "sense_tr": "doruğa ulaşmak",
   "en": "Tourism in the Mediterranean region usually peaks during the warm summer months of July and August.",
-  "tr": "Akdeniz bölgesindeki turizm genellikle Temmuz ve Ağustos ayının sıcak yaz aylarında doruğa ulaşır.",
+  "tr": "Akdeniz bölgesindeki turizm genellikle temmuz ve ağustosun sıcak yaz aylarında doruğa ulaşır.",
   "options": [
    "azalmak",
    "zirve",

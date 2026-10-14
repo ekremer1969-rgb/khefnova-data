@@ -114,7 +114,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "the newly developed encryption algorithm operates with optimal efficiency under most standard computing conditions",
   "why": "Metin, şifreleme algoritmasının 'çoğu standart' (most standard) bilişim koşulu altında optimum verimlilikle çalıştığını söylerken; şık, bunun 'her' (every) bilişim koşulu altında geçerli olduğunu iddia ederek aşırı genelleme yapmaktadır.",
-  "tr": "Son yazılım mühendisliği simülasyonları, yeni geliştirilen şifreleme algoritmasının çoğu standart bilgi işlem koşulu altında optimum verimlilikle çalıştığını göstermektedir. Veri analistleri, güvenlik anahtarlarının eski işlem birimlerine aşırı yük bendirmeden sorunsuz bir şekilde oluşturulduğunu gözlemledi."
+  "tr": "Son yazılım mühendisliği simülasyonları, yeni geliştirilen şifreleme algoritmasının çoğu standart bilgi işlem koşulu altında optimum verimlilikle çalıştığını göstermektedir. Veri analistleri, güvenlik anahtarlarının eski işlem birimlerine aşırı yük bindirmeden sorunsuz bir şekilde oluşturulduğunu gözlemledi."
  },
  {
   "id": "trp_010",
@@ -153,7 +153,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "The space research organization plans to launch an unmanned probe next spring",
   "why": "Metin, uzay araştırma kurumunun insansız sondayı 'gelecek baharda fırlatmayı planladığını' (plans to launch... next spring) söylüyor; şık ise sondanın 'çoktan fırlatıldığını' (has already launched) iddia ederek zamanı kaydırıyor.",
-  "tr": "Uzay araştırma kuruluşu, yakınlardaki asteroit kuşaklarının kimyasal bileşimini analiz etmek üzere önümüzdeki bahar insansız bir sonda fırlatmayı planlıyor. Astrobiyologlar, araç kayalık yüzeye indikten sonra telemetri verilerini ve toprak örneklerini analiz edecekler."
+  "tr": "Uzay araştırma kuruluşu, yakınlardaki asteroit kuşaklarının kimyasal bileşimini analiz etmek üzere önümüzdeki ilkbaharda insansız bir sonda fırlatmayı planlıyor. Astrobiyologlar, araç kayalık yüzeye indikten sonra telemetri verilerini ve toprak örneklerini analiz edecekler."
  },
  {
   "id": "trp_013",
@@ -283,7 +283,7 @@
   "trapType": "metinde-yok",
   "evidence": "rising sea temperatures are causing microscopic algae to migrate toward cooler polar regions",
   "why": "Metin alglerin kutup bölgelerine göç etme sebebini yükselen deniz sıcaklıklarına bağlamaktadır; ancak şıkta denizanasından daha hızlı yüzmeleri gibi metinde hiç geçmeyen kurgusal bir kıyas eklenmiştir.",
-  "tr": "Son okyanus araştırmaları, yükselen deniz sıcaklıklarının mikroskobik alglerin daha soğuk kutup bölgelerine göç etmesine neden olduğunu gösteriyor. Bu değişim, enerji için bu algere güvenen birkaç göçmen balina türünün birincil beslenme alanlarını yıkıcı bir şekilde etkiliyor."
+  "tr": "Son okyanus araştırmaları, yükselen deniz sıcaklıklarının mikroskobik alglerin daha soğuk kutup bölgelerine göç etmesine neden olduğunu gösteriyor. Bu değişim, enerji için bu alglere güvenen birkaç göçmen balina türünün birincil beslenme alanlarını yıkıcı bir şekilde etkiliyor."
  },
  {
   "id": "trp_023",
@@ -296,7 +296,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "might help minimize hazardous plastic accumulation",
   "why": "Metinde filtrenin tehlikeli plastik birikimini en aza indirmeye yardımcı olabileceği ('might help minimize') söylenirken, şıkta bu etki yükseltilerek bunu tamamen ortadan kaldırdığı ('completely eliminates') iddia edilmiştir.",
-  "tr": "Mühendisler, mikroşişeleri belediye içme sistemlerine girmeden önce yakalamak için karbon nanotüpler kullanan bir prototip su filtresi geliştirdiler. İlk laboratuvar deneyleri, bu yenilikçi teknolojinin kentsel rezervuarlardaki tehlikeli plastik birikimini en aza indirmeye yardımcı olabileceğini gösteriyor."
+  "tr": "Mühendisler, mikroplastikleri belediye içme sistemlerine girmeden önce yakalamak için karbon nanotüpler kullanan bir prototip su filtresi geliştirdiler. İlk laboratuvar deneyleri, bu yenilikçi teknolojinin kentsel rezervuarlardaki tehlikeli plastik birikimini en aza indirmeye yardımcı olabileceğini gösteriyor."
  },
  {
   "id": "trp_024",
@@ -400,7 +400,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "flexible daily schedules often help diminish stress levels",
   "why": "Metin esnek çalışma saatlerinin stresi azaltmaya sıklıkla yardımcı olduğunu ('often help diminish') belirtirken, şık bunun stresi tamamen ortadan kaldırdığını ('completely eliminate') söyleyerek anlamı yükseltmiştir.",
-  "tr": "Uzaktan çalışanlarla yapılan sosyolojik görüşmeler, esnek günlük programların işe gidip gelmeyle ilişkili stres düzeylerini azaltmaya sıklıkla yardımcı olduğunu göstermektedir. Katılımcılar aile aktivitelerine daha fazla zaman ayırdıklarını bildirdiler, ancak birçoğu hala işle kişisel yaşamı ayırmakta zorlanıyordu."
+  "tr": "Uzaktan çalışanlarla yapılan sosyolojik görüşmeler, esnek günlük programların işe gidip gelmeyle ilişkili stres düzeylerini azaltmaya sıklıkla yardımcı olduğunu göstermektedir. Katılımcılar aile aktivitelerine daha fazla zaman ayırdıklarını bildirdiler, ancak birçoğu hâlâ işle kişisel yaşamı ayırmakta zorlanıyordu."
  },
  {
   "id": "trp_032",
@@ -426,7 +426,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "unsaturated plant oils usually lowers low-density lipoprotein cholesterol",
   "why": "Metin doymuş yağların bitkisel yağlarla değiştirilmesinin kolesterolü genellikle ('usually') düşürdüğünü söylerken, şık bunun her zaman ('always') gerçekleştiğini söyleyerek aşırı genelleme yapmıştır.",
-  "tr": "Beslenme müdahalesi çalışması, doymuş yağların doymamış bitkisel yağlarla değiştirilmesinin yetişkinlerde genellikle düşük yoğunluklu lipoprotein kolesterolünü düşürdüğünü belirtiyor. Tıbbi araştırmacılar, nihai kolesterol değişikliklerini belirlemede bireysel biyolojik faktörlerin hala önemli bir rol oynadığı konusunda uyarıyor."
+  "tr": "Beslenme müdahalesi çalışması, doymuş yağların doymamış bitkisel yağlarla değiştirilmesinin yetişkinlerde genellikle düşük yoğunluklu lipoprotein kolesterolünü düşürdüğünü belirtiyor. Tıbbi araştırmacılar, nihai kolesterol değişikliklerini belirlemede bireysel biyolojik faktörlerin hâlâ önemli bir rol oynadığı konusunda uyarıyor."
  },
  {
   "id": "trp_034",
@@ -517,7 +517,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "intends to establish a vast marine conservation zone around the remote archipelago next spring",
   "why": "Metin koalisyonun koruma bölgesini önümüzdeki bahar kurmaya niyetlendiğini ('intends to establish') belirtirken; şık bölgenin çoktan kurulduğunu ('has already established') söyleyerek zaman kayması yapmıştır.",
-  "tr": "Yeni kurulan uluslararası bir koalisyon, önümüzdeki bahar uzak takımadaların etrafında geniş bir deniz koruma alanı kurmayı planlıyor. Çevre savunucuları, bu sularda endüstriyel balıkçı filolarının sınırlandırılmasının bozulan mercan habitatlarını kademeli olarak iyileştireceğini tahmin ediyor."
+  "tr": "Yeni kurulan uluslararası bir koalisyon, önümüzdeki ilkbaharda uzak takımadaların etrafında geniş bir deniz koruma alanı kurmayı planlıyor. Çevre savunucuları, bu sularda endüstriyel balıkçı filolarının sınırlandırılmasının bozulan mercan habitatlarını kademeli olarak iyileştireceğini tahmin ediyor."
  },
  {
   "id": "trp_041",
@@ -607,8 +607,8 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "exhibition showcasing nineteenth-century landscape paintings has attracted thousands of local visitors because admission was free for the opening week.",
-  "why": "Metinde serginin binlerce ziyaretçi çekmesinin sebebi olarak açılış haftasında girişin ücretsiz olması (admission was free) gösterilmiştir; şık ise metinde hiç geçmeyen kurgusal bir gerekçe ekleyerek bunun ondokuzuncu yüzyıl sanatının üstün olmasından kaynaklandığını iddia etmektedir.",
-  "tr": "Ondokuzuncu yüzyıl manzara resimlerinin sergilendiği bir sanat sergisi, açılış haftasında giriş ücretsiz olduğu için binlerce yerel ziyaretçiyi cezbetti. Eleştirmenler, bu seçkin koleksiyonu, o hızlı dönemde kırsal köylerin endüstriyel dönüşümünü vurguladığı için övdü."
+  "why": "Metinde serginin binlerce ziyaretçi çekmesinin sebebi olarak açılış haftasında girişin ücretsiz olması (admission was free) gösterilmiştir; şık ise metinde hiç geçmeyen kurgusal bir gerekçe ekleyerek bunun on dokuzuncu yüzyıl sanatının üstün olmasından kaynaklandığını iddia etmektedir.",
+  "tr": "On dokuzuncu yüzyıl manzara resimlerinin sergilendiği bir sanat sergisi, açılış haftasında giriş ücretsiz olduğu için binlerce yerel ziyaretçiyi cezbetti. Eleştirmenler, bu seçkin koleksiyonu, o hızlı dönemde kırsal köylerin endüstriyel dönüşümünü vurguladığı için övdü."
  },
  {
   "id": "trp_048",
@@ -647,7 +647,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "small populations of native songbirds always adapt well to urban noise",
   "why": "Metin sadece 'yerli ötücü kuşların küçük popülasyonlarının' (small populations of native songbirds) gürültüye iyi uyum sağladığını söylerken, şık 'tüm ötücü kuşların' (All songbirds) uyum sağladığını iddia ederek aşırı genellemeye gitmiştir.",
-  "tr": "Kapsamlı bir çevre çalışması, yerel ötücü kuşların küçük popülasyonlarının, biraz daha yüksek frekanslarda şarkı söyleyerek kentsel gürültüye her zaman iyi uyum sağladığını ortaya koymaktadır. Ancak büyük inşaat alanlarının yakınında yuva yapan kuşlar, hala yüksek stres hormonlarından ve düşük yuvalama başarısından muzdariptir."
+  "tr": "Kapsamlı bir çevre çalışması, yerel ötücü kuşların küçük popülasyonlarının, biraz daha yüksek frekanslarda şarkı söyleyerek kentsel gürültüye her zaman iyi uyum sağladığını ortaya koymaktadır. Ancak büyük inşaat alanlarının yakınında yuva yapan kuşlar, hâlâ yüksek stres hormonlarından ve düşük yuvalama başarısından muzdariptir."
  },
  {
   "id": "trp_051",
@@ -705,7 +705,7 @@
   "id": "trp_055",
   "text": "A classical music conservatory has announced a specialized performance scholarship for young violinists who demonstrate exceptional mastery of complex baroque compositions. The selection panel, composed of international violin professors, will evaluate applicants during a two-day live audition.",
   "question": "Parçaya göre keman bursuyla ilgili aşağıdakilerden hangisi söylenebilir?",
-  "wrong": "The specialized scholarship is sweeter than standard university grants.",
+  "wrong": "The specialized scholarship is more generous than standard university grants.",
   "traps": [
    "than standard university grants"
   ],
@@ -777,7 +777,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "shows highly significant promise in reducing the rapid multiplication of drug-resistant bacteria",
   "why": "Metin bileşiğin laboratuvar koşullarında dirençli bakterilerin çoğalmasını azaltmada yüksek vaat sunduğunu söylerken, şık ilacın tüm dirençli enfeksiyonları iyileştirdiğini iddia ederek aşırı genelleme yapmıştır.",
-  "tr": "Yeni sentezlenen bir antibakteriyel bileşik, laboratuvar koşullarında ilaca dirençli bakterilerin hızlı çoğalmasını azaltmada son derece umut verici sonuçlar göstermektedir. Önde gelen mikrobiyologlar, bu deneysel ilacın insan denekler üzerinde güvenli bir şekilde çalışıp çalışmadığını doğrulamak için hala kapsamlı klinik deneylerin gerekli olduğunu vurgulamaktadır."
+  "tr": "Yeni sentezlenen bir antibakteriyel bileşik, laboratuvar koşullarında ilaca dirençli bakterilerin hızlı çoğalmasını azaltmada son derece umut verici sonuçlar göstermektedir. Önde gelen mikrobiyologlar, bu deneysel ilacın insan denekler üzerinde güvenli bir şekilde çalışıp çalışmadığını doğrulamak için hâlâ kapsamlı klinik deneylerin gerekli olduğunu vurgulamaktadır."
  },
  {
   "id": "trp_061",
@@ -907,7 +907,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "can significantly increase seasonal crop production",
   "why": "Metin düşük faizli kredilerin mahsul üretimini önemli ölçüde artırabileceğini belirtirken, şık bunun üretimin artmasını kesinlikle garanti ettiğini iddia ederek anlamı yükseltmiştir.",
-  "tr": "Son sosyoekonomik analizler, kooperatif tarım birliklerine düşük faizli krediler sağlanmasının mevsimsel ürün üretimini önemli ölçüde artırabileceğini göstermektedir. Yerel liderler, çiftçilerin bu fonları yüksek kaliteli gübreler og modern hasat makineleri satın almak için kullandıklarını belirtmektedir."
+  "tr": "Son sosyoekonomik analizler, kooperatif tarım birliklerine düşük faizli krediler sağlanmasının mevsimsel ürün üretimini önemli ölçüde artırabileceğini göstermektedir. Yerel liderler, çiftçilerin bu fonları yüksek kaliteli gübreler ve modern hasat makineleri satın almak için kullandıklarını belirtmektedir."
  },
  {
   "id": "trp_071",
@@ -971,8 +971,8 @@
   ],
   "trapType": "asiri-genelleme",
   "evidence": "soldiers occupying the outpost often gathered wild berries",
-  "why": "Metin askerlerin sıklıkla yaban mersini topladığını belirtirken, şık askerlerin kışın her zaman yaban mersini topladığını iddia ederek aşırı genelleme yapmıştır.",
-  "tr": "Bir ortaçağ kalesinde yapılan kazılar, karakolu işgal eden askerlerin sınırlı kış diyetlerini desteklemek için sıklıkla yaban mersini topladıklarını göstermektedir. Tarihçiler, çöp çukurlarında bulunan kurutulmuş tohum kalıntılarının bu mevsimsel kaynak kullanımı teorisini desteklediğini belirtmektedir."
+  "why": "Metin askerlerin sıklıkla yabani meyve topladığını belirtirken, şık askerlerin kışın her zaman yabani meyve topladığını iddia ederek aşırı genelleme yapmıştır.",
+  "tr": "Bir ortaçağ kalesinde yapılan kazılar, karakolu işgal eden askerlerin sınırlı kış diyetlerini desteklemek için sıklıkla yabani meyve topladıklarını göstermektedir. Tarihçiler, çöp çukurlarında bulunan kurutulmuş tohum kalıntılarının bu mevsimsel kaynak kullanımı teorisini desteklediğini belirtmektedir."
  },
  {
   "id": "trp_076",
@@ -1107,7 +1107,7 @@
  {
   "id": "trp_086",
   "text": "An immunology study demonstrates that practicing moderate aerobic exercise regularly helps enhance the antibody response in adult patients. Clinical researchers observed that active participants experienced fewer seasonal respiratory infections over the course of the winter.",
-  "question": "Parçaya göre hafif aerobik egzersizle ilgili aşağıdakilerden hangisi söylenebilir?",
+  "question": "Parçaya göre orta düzeyde aerobik egzersizle ilgili aşağıdakilerden hangisi söylenebilir?",
   "wrong": "Practicing moderate aerobic exercise regularly guarantees the prevention of respiratory infections.",
   "traps": [
    "guarantees the prevention"
@@ -1115,7 +1115,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "moderate aerobic exercise regularly helps enhance the antibody response",
   "why": "Metin düzenli egzersizin antikor tepkisini artırmaya yardımcı olduğunu (helps enhance) belirtirken, şık solunum yolu enfeksiyonlarını önlemeyi garanti ettiğini (guarantees the prevention) iddia ederek anlamı yükseltmiştir.",
-  "tr": "Bir immünoloji çalışması, düzenli olarak hafif aerobik egzersiz yapmanın yetişkin hastalarda antikor tepkisini artırmaya yardımcı olduğunu göstermektedir. Klinik araştırmacılar, aktif katılımcıların kış boyunca daha az mevsimsel solunum yolu enfeksiyonu geçirdiğini gözlemledi."
+  "tr": "Bir immünoloji çalışması, düzenli olarak orta düzeyde aerobik egzersiz yapmanın yetişkin hastalarda antikor tepkisini artırmaya yardımcı olduğunu göstermektedir. Klinik araştırmacılar, aktif katılımcıların kış boyunca daha az mevsimsel solunum yolu enfeksiyonu geçirdiğini gözlemledi."
  },
  {
   "id": "trp_087",
@@ -1153,7 +1153,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "merchant ships frequently carrying olive oil capsized near the steep rocky cliffs",
-  "why": "Metin antik gemilerin dik kayalıkların yakınında battığını belirtirken, şık zeytinyağının şaraptan daha ağır olması gibi metinde bulunmayan kurgusal bir neden eklemiştir.",
+  "why": "Metin antik gemilerin dik kayalıkların yakınında battığını belirtirken, şık zeytinyağının ağır olması gibi metinde bulunmayan kurgusal bir neden eklemiştir.",
   "tr": "Bir oşinografi araştırması, sık sık zeytinyağı taşıyan antik ticaret gemilerinin dik kayalıkların yakınında alabora olduğunu doğruladı. Deniz arkeologları, bu ahşap gemilerin kışın sert Akdeniz akıntılarına dayanmak için sağlam çam tahtaları kullandığını keşfettiler."
  },
  {
@@ -1361,7 +1361,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "reduces irrigation costs for family-owned agricultural fields",
-  "why": "Metin güneş enerjili pompaların sulama maliyetini düşürdüğünü söylüyor ama rüzgar enerjili sistemlerle (wind-powered systems) kıyaslayan bir bilgi vermiyor. Şıkka uydurma bir karşılaştırma eklenmiştir.",
+  "why": "Metin güneş enerjili pompaların sulama maliyetini düşürdüğünü söylüyor ama rüzgar enerjili sistemlerle (wind-powered systems) kıyaslayan bir bilgi vermiyor. Şıkta uydurma bir karşılaştırma eklenmiştir.",
   "tr": "Bir mühendislik raporu, güneş enerjisiyle çalışan su pompalarının kurulmasının aile çiftliklerindeki sulama maliyetlerini önemli ölçüde düşürdüğünü doğrulamaktadır. Çiftçiler, bu otomatik sistemlerin geçmiş on yıllarda kullanılan eski mekanik alternatiflere kıyasla sürekli olarak su tasarrufu sağladığını belirttiler."
  },
  {
@@ -1413,7 +1413,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "developed a lightweight fiber optic sensor that detects structural micro-cracks",
-  "why": "Metin fiber optik sensörün çatlakları tespit ettiğini anlatıyor ancak geleneksel metal gerilim ölçerlerden daha ucuz olduğuna dair bir kıyaslama yapmıyor. Şıkka kurgusal bir kıyas eklenmiştir.",
+  "why": "Metin fiber optik sensörün çatlakları tespit ettiğini anlatıyor ancak geleneksel metal gerilim ölçerlerden daha ucuz olduğuna dair bir kıyaslama yapmıyor. Şıktakurgusal bir kıyas eklenmiştir.",
   "tr": "Bir teknoloji enstitüsü yakın zamanda beton köprülerdeki yapısal mikro çatlakları tespit eden hafif bir fiber optik sensör geliştirdi. Kıdemli mühendisler, bu hassas cihazın sinyal kalitesini kaybetmeden aşırı hava koşullarında gerçek zamanlı veri ilettiğini belirttiler."
  },
  {
@@ -1465,8 +1465,8 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "residential complexes were built using highly durable limestone blocks",
-  "why": "Metin konutların dayanıklı kireçtaşı bloklarla yapıldığını belirtiyor ancak kireçtaşının tuğladan daha ucuz olduğuna dair bir kıyaslama içermiyor. Şıkka hayali bir kıyas eklenmiştir.",
-  "tr": "Bir Roma yerleşimindeki kazılar, merkezi konut complexes'lerinin yakınlardaki vadilerden taşınan son derece dayanıklı kireçtaşı bloklar kullanılarak inşa edildiğini gösteriyor. Seçkin arkeologlar, mimarinin gelişmiş yapısal simetri ve gelişmiş drenaj kanalları sergilediğini belirttiler."
+  "why": "Metin konutların dayanıklı kireçtaşı bloklarla yapıldığını belirtiyor ancak kireçtaşının tuğladan daha ucuz olduğuna dair bir kıyaslama içermiyor. Şıktahayali bir kıyas eklenmiştir.",
+  "tr": "Bir Roma yerleşimindeki kazılar, merkezi konut komplekslerinin yakınlardaki vadilerden taşınan son derece dayanıklı kireçtaşı bloklar kullanılarak inşa edildiğini gösteriyor. Seçkin arkeologlar, mimarinin gelişmiş yapısal simetri ve gelişmiş drenaj kanalları sergilediğini belirttiler."
  },
  {
   "id": "trp_114",
@@ -1517,7 +1517,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "increases job satisfaction",
-  "why": "Metin uzaktan çalışmanın iş memnuniyetini artırdığını söylüyor ancak bunun gerekçesi olarak ofis kiralarının yüksek olmasını (because office rent is high) göstermiyor. Şıkka hayali bir sebep eklenmiştir.",
+  "why": "Metin uzaktan çalışmanın iş memnuniyetini artırdığını söylüyor ancak bunun gerekçesi olarak ofis kiralarının yüksek olmasını (because office rent is high) göstermiyor. Şıktahayali bir sebep eklenmiştir.",
   "tr": "Çalışma ekonomistleri son zamanlarda esnek uzaktan çalışma programları sunmanın kurumsal pazarlama çalışanları için iş memnuniyetini önemli ölçüde artırdığını gözlemlediler. Birçok büyük pazarlama şirketi, yeni politika resmi olarak tanıtıldıktan sonra genel çalışan kalıcılık oranlarının çok önemli ölçüde arttığını fark ettiler."
  },
  {
@@ -1614,7 +1614,7 @@
  {
   "id": "trp_125",
   "text": "A sociological survey conducted in major metropolitan areas reveals that hybrid work arrangements decrease daily commuting stress for most corporate employees. According to the data, younger professionals show the highest level of adaptation to this modern work model.",
-  "question": "Parçaya göre hibrid çalışma modeliyle ilgili aşağıdakilerden hangisi söylenebilir?",
+  "question": "Parçaya göre hibrit çalışma modeliyle ilgili aşağıdakilerden hangisi söylenebilir?",
   "wrong": "Hybrid work arrangements decrease commuting stress for every corporate employee.",
   "traps": [
    "every"
@@ -2001,7 +2001,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "are preparing to run a pilot test on an innovative material",
   "why": "Metinde bilim insanlarının yenilikçi malzeme üzerinde bir pilot test gerçekleştirmeye hazırlandığı söylenirken, şık bu testi çoktan tamamladıklarını söyleyerek zaman kaydırması yapmıştır.",
-  "tr": "Teknoloji laboratuvarındaki bilim insanları, elektrikli araçların batarya kapasitesini artırmak için tasarlanmış yenilikçi bir malzeme üzerinde pilot test yapmaya hazırlanıyorlar. Yaklaşan deney, sentetik bileşenin aşırı sıcaklık dalgalanmaları altında nasıl bir performans gösterdiğini değerlendirecek."
+  "tr": "Teknoloji laboratuvarındaki bilim insanları, elektrikli araçların batarya kapasitesini artırmak için tasarlanmış yenilikçi bir malzeme üzerinde pilot test yapmaya hazırlanıyorlar. Yaklaşan deney, sentetik bileşiğin aşırı sıcaklık dalgalanmaları altında nasıl bir performans gösterdiğini değerlendirecek."
  },
  {
   "id": "trp_155",
@@ -2027,7 +2027,7 @@
   "trapType": "metinde-yok",
   "evidence": "constructing multi-family residential complexes near major subway stations has improved neighborhood walkability",
   "why": "Metinde metro istasyonları yakınındaki çok aileli konutların mahalle yürünebilirliğini artırdığı söylenmektedir, ancak şık metro biletlerinin otobüs biletlerinden ucuz olması gibi metinde bulunmayan bir maliyet kıyası eklemiştir.",
-  "tr": "Bir belediye konut raporu, büyük metro istasyonlarının yakınına çok aileli konut kompleksleri inşa etmenin mahalle yürünebilirliğini artırdığını belirtmektedir. Şehir plancıları, bu transit odaklı gelişmelerde yaşayan sakinlerin günlük işe gidiş gelişlerde özel otomobillere daha az güvendiğini belirtmişlerdir."
+  "tr": "Bir belediye konut raporu, büyük metro istasyonlarının yakınına çok aileli konut kompleksleri inşa etmenin mahalle yürünebilirliğini artırdığını belirtmektedir. Şehir plancıları, bu transit odaklı gelişmelerde yaşayan sakinlerin günlük işe gidiş gelişlerde özel otomobillere daha az bağımlı olduğunu belirtmişlerdir."
  },
  {
   "id": "trp_157",
@@ -2132,7 +2132,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "most coral species",
   "why": "Metin asitliğin 'çoğu mercan türünü' (most coral species) olumsuz etkilediğini söylerken, şık bunu 'her bir' (every) mercan türü olarak aşırı genellemiştir.",
-  "tr": "Deniz biyologları, artan okyanus asitliğinin sığ tropikal sulardaki çoğu mercan türünü olumsuz etkilediğini keşfetti. Alan raporları, azalan kireçlenme oranlarının bu kırılgan resiflerin yapısal bütünlüğünü zayıf gösterdiğini öne sürüyor."
+  "tr": "Deniz biyologları, artan okyanus asitliğinin sığ tropikal sulardaki çoğu mercan türünü olumsuz etkilediğini keşfetti. Kapsamlı saha raporları, azalan kalsifikasyon oranlarının bu kırılgan su altı ekosistemlerinin yapısal bütünlüğünü zayıflattığını öne sürüyor."
  },
  {
   "id": "trp_165",
@@ -2210,7 +2210,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "could help reduce the reliance on expensive lithium imports",
   "why": "Metin pillerin lityum ithalatına bağımlılığı 'azaltmaya yardımcı olabileceğini' (could help reduce) belirtirken, şık bunu ithalatı 'tamamen engelleyecek' (completely block) diyerek anlamı aşırı yükseltmiştir.",
-  "tr": "Verimli sodyum iyon pillerin geliştirilmesi, elektrikli araçlar için pahalı lityum ithalatına olan bağımlılığın azaltılmasına yardımcı olabilir. Araştırmacılar, sodyumun bol ve daha ucuz olduğunu, bunun da onu enerji depolama için uygulanabilir bir alternatif haline getirdiğini öne sürüyor."
+  "tr": "Verimli sodyum iyon pillerinin geliştirilmesi, elektrikli araçlar için pahalı lityum ithalatına olan bağımlılığın azaltılmasına yardımcı olabilir. Araştırmacılar, sodyumun bol ve daha ucuz olduğunu, bunun da onu enerji depolama için uygulanabilir bir alternatif haline getirdiğini öne sürüyor."
  },
  {
   "id": "trp_171",
@@ -2262,7 +2262,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "suggests that the ancient peace treaty helped stabilize regional trade",
   "why": "Metin yazıtın antlaşmanın ticareti istikrara kavuşturmaya yardımcı olduğunu 'öne sürdüğünü/gösterdiğini' (suggests) söylerken, şık bunu kesin bir dille 'kanıtladığını' (proves) belirterek anlamı yükseltmiştir.",
-  "tr": "Yeni keşfedilen bir yazıt, antik barış antlaşmasının bölgesel ticareti birkaç on yıl boyunca istikrara kavuşturmaya yardımcı olduğunu göstermektedir. Tarihçiler, anlaşmanın sınır çatışmalarını azalttığını ve yerel tüccarların güvenli bir şekilde seyahat etmelerine izin verdiğini belirtiyor."
+  "tr": "Yeni keşfedilen bir yazıt, antik barış antlaşmasının bölgesel ticareti birkaç on yıl boyunca istikrara kavuşturmaya yardımcı olduğunu düşündürmektedir. Tarihçiler, anlaşmanın sınır çatışmalarını azalttığını ve yerel tüccarların güvenli bir şekilde seyahat etmelerine izin verdiğini belirtiyor."
  },
  {
   "id": "trp_175",
@@ -2404,7 +2404,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "natural pomegranate extract significantly reduces the rate of bacterial growth",
-  "why": "Metin nar özünün bakteri gelişimini azalttığını söylüyor ancak bunun nedenini vitamin C içeriğine bağlayan bir açıklama içermiyor. Şıkka metinde olmayan hayali bir sebep eklenmiştir.",
+  "why": "Metin nar özünün bakteri gelişimini azalttığını söylüyor ancak bunun nedenini vitamin C içeriğine bağlayan bir açıklama içermiyor. Şıkta metinde olmayan hayali bir sebep eklenmiştir.",
   "tr": "Bir laboratuvar çalışması, doğal nar özünün diş plağı örneklerindeki bakteri üreme hızını önemli ölçüde azalttığını keşfetti. Diş araştırmacıları, bu organik bileşiğin ağız gargarası formüllerine eklenmesinin uzun vadeli diş eti sağlığını destekleyebileceğini öne sürdü."
  },
  {
@@ -2417,7 +2417,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "introducing native wildflower species to urban parks dramatically increases the population of local pollinating insects",
-  "why": "Metinde kır çiçeklerinin polen yayan böcek popülasyonunu artırdığı söyleniyor fakat bu durum egzotik güllerle (exotic roses) kıyaslanmıyor. Şıkka metinde yer almayan kurgusal bir kıyas eklenmiştir.",
+  "why": "Metinde kır çiçeklerinin polen yayan böcek popülasyonunu artırdığı söyleniyor fakat bu durum egzotik güllerle (exotic roses) kıyaslanmıyor. Şıkta metinde yer almayan kurgusal bir kıyas eklenmiştir.",
   "tr": "Bir koruma raporu, kentsel parklara yerli kır çiçeği türlerinin getirilmesinin yerel polen yayan böcek popülasyonunu önemli ölçüde artırdığını göstermektedir. Biyologlar, bu canlı bitkilerin sıcak yaz aylarında hayati nektar kaynakları sunduğu sonucuna vardılar."
  },
  {
@@ -2431,7 +2431,7 @@
   "trapType": "metinde-yok",
   "evidence": "successfully tested a lightweight carbon composite material designed to protect modern spacecraft",
   "why": "Metinde karbon kompozit malzemenin hafifliği ve ısıya dayanıklılığı övülmektedir fakat titanyum alaşımlarından daha ucuz olduğuna dair hiçbir kıyaslama veya maliyet bilgisi yer almamaktadır.",
-  "tr": "Havacılık ve uzay mühendisleri, modern uzay araçlarını yörüngeye geri dönüş sırasında aşırı atmosferik ısıdan korumak için tasarlanmış hafif bir karbon kompozit malzemeyi başarıyla test ettiler. Test sonuçları, araç kabuğunda herhangi bir yapısal deformasyon olmaksızın mükemmel termal dayanıklılık gösterdi."
+  "tr": "Havacılık ve uzay mühendisleri, modern uzay araçlarını yörüngeden yeniden giriş sırasında aşırı atmosferik ısıdan korumak için tasarlanmış hafif bir karbon kompozit malzemeyi başarıyla test ettiler. Test sonuçları, araç kabuğunda herhangi bir yapısal deformasyon olmaksızın mükemmel termal dayanıklılık gösterdi."
  },
  {
   "id": "trp_188",
@@ -2509,7 +2509,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "suggest that early human societies utilized fermented honey",
   "why": "Metinde elde edilen bulguların antik toplumların balı dezenfeksiyon için kullandığını gösterdiğini/işaret ettiğini (suggest) belirtirken, şık bunu kesin bir kanıtmış gibi sunarak kanıtladığını (prove) iddia etmiştir.",
-  "tr": "Antik kil kapların içindeki kimyasal kalıntıların analizleri, ilk insan toplumlarının temel yara dezenfeksiyonu için fermente bal kullandığını göstermektedir. Antropologlar, bu basit tedavinin bol arı kovanı bulunan ormanlık bölgelerin yakınındaki yerleşimlerde yaygın olduğuna inanıyor."
+  "tr": "Antik kil kapların içindeki kimyasal kalıntıların analizleri, ilk insan toplumlarının temel yara dezenfeksiyonu için fermente bal kullandığını düşündürmektedir. Antropologlar, bu basit tedavinin bol arı kovanı bulunan ormanlık bölgelerin yakınındaki yerleşimlerde yaygın olduğuna inanıyor."
  },
  {
   "id": "trp_194",
@@ -2560,7 +2560,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "restored a massive Renaissance mural using non-invasive laser cleaning techniques",
-  "why": "Metinde duvar resminin toz ve kir tabakalarından arındırılmasından bahsedilmektedir fakat restorasyonun sebebinin yangın hasarı (damaged by fire) olduğuna dair hiçbir bilgi veya ima bulunmamaktadır.",
+  "why": "Metinde duvar resminin toz ve kir tabakalarından arındırılmasından bahsedilmektedir fakat restorasyonun sebebinin ağır yangın hasarı (severe fire damage) olduğuna dair hiçbir bilgi veya ima bulunmamaktadır.",
   "tr": "Sanat konservatörleri, alttaki pigmentlere zarar vermeden kir tabakalarını seçici olarak buharlaştıran invaziv olmayan lazer temizleme tekniklerini kullanarak devasa bir Rönesans duvar resmini restore ettiler. Bu yenilikçi teknoloji, yüzyıllardır gizli kalan orijinal renk canlılığını başarıyla canlandırdı."
  },
  {
@@ -2574,7 +2574,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "designed a modern seawall barrier that will protect vulnerable seaside neighborhoods",
   "why": "Metinde kıyı mühendislik firmasının deniz bendini tasarladığı (designed) ve bunun gelecek on yılda koruma sağlayacağı belirtilirken, şık bendin çoktan inşa edildiğini (has already built) savunarak zaman kaydırması yapmıştır.",
-  "tr": "Bir kıyı mühendisliği firması, gelecek on yıl boyunca savunmasız kıyı mahallelerini yükselen deniz seviyelerinden koruyacak modern bir deniz bendi tasarladı. Belediye yönetimi, inşaat aşamasını finanse etmek için gelecek kış mali bonolar güvence altına alacak."
+  "tr": "Bir kıyı mühendisliği firması, gelecek on yıl boyunca savunmasız kıyı mahallelerini yükselen deniz seviyelerinden koruyacak modern bir deniz bendi tasarladı. Belediye yönetimi, inşaat aşamasını finanse etmek için gelecek kış mali tahvilleri güvence altına alacak."
  },
  {
   "id": "trp_199",
@@ -2587,7 +2587,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "planned a space telescope mission scheduled for launch in five years to detect",
   "why": "Metinde teleskop görevinin beş yıl sonra fırlatılmak üzere planlandığı (planned/scheduled) belirtilirken, şık bu teleskobun kimyasal elementleri çoktan tespit ettiğini (has already detected) öne sürerek zaman kaydırması yapmıştır.",
-  "tr": "Gökbilimciler, uzak ötegezegenlerin atmosferlerindeki kimyasal elementleri tespit etmek için beş yıl içinde fırlatılması planlanan bir uzay teleskobu görevi tasarladılar. Görev ekibi, yörüngeye yerleşimin ardından birkaç ay içinde ilk spektrografik gözlemleri işlemeyi bekliyor."
+  "tr": "Gökbilimciler, uzak ötegezegenlerin atmosferlerindeki kimyasal elementleri tespit etmek için beş yıl sonra fırlatılması planlanan bir uzay teleskobu görevi tasarladılar. Görev ekibi, yörüngeye yerleşimin ardından birkaç ay içinde ilk spektrografik gözlemleri işlemeyi bekliyor."
  },
  {
   "id": "trp_200",
@@ -2716,7 +2716,7 @@
   ],
   "trapType": "metinde-yok",
   "evidence": "early agricultural societies regularly stored wild honey and olive oil in clay jars",
-  "why": "Metin çömleklerde bal saklandığını kanıtlar ancak bunun nedeni olarak şekerin pahalı olması gibi metinde hiç geçmeyen kurgusal bir gerekçe sunar.",
+  "why": "Metin çömleklerde bal ve zeytinyağı saklandığını belirtir ancak bunun nedeni olarak şekerin pahalı olması gibi metinde hiç geçmeyen kurgusal bir gerekçe sunar.",
   "tr": "Antik çömlek parçalarının son kimyasal analizi, ilk tarım toplumlarının kil kavanozlarda düzenli olarak yaban balı ve zeytinyağı depoladığını gösteriyor. Küratörler, bu organik kalıntıların varlığının, gelişmiş gıda saklama tekniklerinin önceden tahmin edilenden çok daha önce geliştirildiğine işaret ettiğini belirtiyor."
  },
  {
@@ -2847,7 +2847,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "can substantially reduce municipal electricity expenditures",
   "why": "Metinde güneş panellerinin belediye harcamalarını ciddi oranda azaltabileceği (can reduce) ve projenin gelecek yıl için tasarlandığı belirtilirken, şıkta harcamaları çoktan azalttığı (has already reduced) söylenerek zaman kaydırılmıştır.",
-  "tr": "Bir çevre değerlendirmesi, kamu okulu binalarına güneş panelleri kurulmasının, güneşli yaz aylarında belediye elektrik harcamalarını önemli ölçüde azaltabileceğini bildirmektedir. Yerel yönetimler şu anda bu kurulumları gelecek yıl yeşil enerji bonoları aracılığıyla finanse etmek için planlar hazırlıyor."
+  "tr": "Bir çevre değerlendirmesi, kamu okulu binalarına güneş panelleri kurulmasının, güneşli yaz aylarında belediye elektrik harcamalarını önemli ölçüde azaltabileceğini bildirmektedir. Yerel yönetimler şu anda bu kurulumları gelecek yıl yeşil enerji tahvilleri aracılığıyla finanse etmek için planlar hazırlıyor."
  },
  {
   "id": "trp_220",
@@ -2938,7 +2938,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "can dramatically enrich the visual storytelling experience",
   "why": "Metinde dijital projeksiyonun görsel hikaye anlatımını 'büyük ölçüde zenginleştirebileceği' (can dramatically enrich) belirtilmektedir. Şık ise bunu abartarak modern oyunların 'ticari başarısını garanti ettiğini' (guarantees the commercial success) iddia edip anlam yükseltme yapmıştır.",
-  "tr": "Ünlü tiyatro yönetmenleri, dijital projeksiyon haritalandırmasının tiyatro oyunlarına dahil edilmesinin görsel hikaye anlatımı deneyimini büyük ölçüde zenginleştirebileceğini savunmaktadır. Eleştirmenler, bu dinamik görsellerin izleyiciyi dikkatini dağıtmadan oyuncuların duygusal yayını desteklediğini eklemektedir."
+  "tr": "Ünlü tiyatro yönetmenleri, dijital projeksiyon haritalandırmasının tiyatro oyunlarına dahil edilmesinin görsel hikaye anlatımı deneyimini büyük ölçüde zenginleştirebileceğini savunmaktadır. Eleştirmenler, bu dinamik görsellerin izleyicinin dikkatini dağıtmadan oyuncuların duygusal gelişim çizgisini desteklediğini eklemektedir."
  },
  {
   "id": "trp_227",
@@ -2990,7 +2990,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "museum has planned a series of public exhibitions featuring recovered prehistoric bone tools starting next winter",
   "why": "Metinde müzenin 'gelecek kış başlamak üzere' (starting next winter) sergiler 'planladığı' (has planned) ifade edilmektedir. Şık ise bu sergileri 'çoktan başlattığını' (has already launched) iddia ederek zaman kaydırma yapmıştır.",
-  "tr": "Yerel tarih müzesi, gelecek kıştan itibaren çıkarılan tarih öncesi kemik araçları içeren bir dizi halka açık sergi planladı. Küratörler, yerel ilkokul öğrencilerini sürece dahil etmek için bu sergilerin yanı sıra etkileşimli eğitim atölyelerine ev sahipliği yapmayı amaçlamaktadır."
+  "tr": "Yerel tarih müzesi, gelecek kıştan itibaren gün yüzüne çıkarılmış tarih öncesi kemik araçlarının yer aldığı bir dizi halka açık sergi planladı. Küratörler, yerel ilkokul öğrencilerini sürece dahil etmek için bu sergilerin yanı sıra etkileşimli eğitim atölyelerine ev sahipliği yapmayı amaçlamaktadır."
  },
  {
   "id": "trp_231",
@@ -3281,7 +3281,7 @@
  {
   "id": "trp_253",
   "text": "The national tourism board plans to launch an international marketing campaign next winter to attract travelers to historical thermal resorts. Government officials are currently collaborating with local transport providers to organize discounted high-speed train connections.",
-  "question": "Parçaya göre turizm bakanlığının çalışmalarıyla ilgili aşağıdakilerden hangisi söylenebilir?",
+  "question": "Parçaya göre ulusal turizm kuruluyla ilgili aşağıdakilerden hangisi söylenebilir?",
   "wrong": "The national tourism board has already launched the international marketing campaign.",
   "traps": [
    "has already launched"
@@ -3354,7 +3354,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "have negatively affected some marine organisms",
   "why": "Metin kimyasal sızıntıların 'some' (bazı) deniz canlılarını olumsuz etkilediğini söylerken, şık bunu 'every' (her bir, tüm) organizmayı etkilemiş şeklinde aşırı genellemektedir.",
-  "tr": "Çevre gözlemcileri, yakındaki sanayi bölgelerinden kaynaklanan lokalize kimyasal akıntıların sığ körfezdeki bazı deniz organizmalarını olumsuz etkilediğini bildirmektedir. Ekologlar, savunmasız mercan koruma alanlarının etrafında koruyucu bariyerler oluşturmak için denizcilik ajanslarıyla birlikte çalışmaktadır."
+  "tr": "Çevre gözlemcileri, yakındaki sanayi bölgelerinden kaynaklanan lokalize kimyasal akıntıların sığ körfezdeki bazı deniz organizmalarını olumsuz etkilediğini bildirmektedir. Ekologlar, savunmasız mercan fidanlıklarının etrafında koruyucu bariyerler oluşturmak için denizcilik ajanslarıyla birlikte çalışmaktadır."
  },
  {
   "id": "trp_259",
@@ -3367,7 +3367,7 @@
   "trapType": "metinde-yok",
   "evidence": "introducing native grass species can dramatically stabilize loose soil",
   "why": "Metin yerel çim türlerinin gevşek toprağı sabitlemeye yardımcı olduğunu belirtmektedir ancak bunu beton istinat duvarlarıyla (better than concrete retaining walls) kıyaslayan bir karşılaştırma sunmamaktadır.",
-  "tr": "Son ekolojik araştırmalar, yerel çim türlerinin getirilmesinin rüzgarlı yamaçlardaki gevşek toprağı büyük ölçüde stabilize edebileceğini göstermektedir. Tarım araştırmacıları, kış donlarından önce kök gelişimini en üst üst düzeye çıkarmak için bu dayanıklı çimlerin sonbaharın başlarında ekilmesini önermektedir."
+  "tr": "Son ekolojik araştırmalar, yerel çim türlerinin getirilmesinin rüzgarlı yamaçlardaki gevşek toprağı büyük ölçüde stabilize edebileceğini göstermektedir. Tarım araştırmacıları, kış donlarından önce kök gelişimini en üst düzeye çıkarmak için bu dayanıklı çimlerin sonbaharın başlarında ekilmesini önermektedir."
  },
  {
   "id": "trp_260",
@@ -3458,7 +3458,7 @@
   "trapType": "asiri-genelleme",
   "evidence": "local potters usually decorated their ceramic vessels",
   "why": "Metin yerel çömlekçilerin seramik kaplarını 'usually' (genellikle) süslediklerini belirtirken, şık bunu 'always' (her zaman) süslerlerdi şeklinde iddia ederek aşırı genelleme yapmaktadır.",
-  "tr": "Bir Neolitik yerleşimindeki son kazılar, yerel çömlekçilerin seramik kaplarını genellikle geometrik desenlerle süslediğini ortaya koymaktadır. Arkeoloji ekipleri, bu dekoratif stillerin topluluk içinde önemli sembolik anlamlar taşıdığını düşündüren birkaç bozulmamış kil kase çıkardı."
+  "tr": "Bir Neolitik yerleşimdeki son kazılar, yerel çömlekçilerin seramik kaplarını genellikle geometrik desenlerle süslediğini ortaya koymaktadır. Arkeoloji ekipleri, bu dekoratif stillerin topluluk içinde önemli sembolik anlamlar taşıdığını düşündüren birkaç bozulmamış kil kase çıkardı."
  },
  {
   "id": "trp_267",
@@ -3575,7 +3575,7 @@
   "trapType": "anlam-yukseltme",
   "evidence": "suggest that taking daily magnesium supplements can significantly reduce",
   "why": "Metin magnezyum takviyelerinin migren sıklığını azaltabileceğini 'suggest' (gösteriyor) ve 'can reduce' (azaltabilir) ifadeleriyle olasılık olarak verirken, şık bunu kesin bir garantiye ('guarantees') dönüştürerek anlamı yükseltmiştir.",
-  "tr": "Son klinik araştırmalar, günlük magnezyum takviyesi almanın yetişkinlerde şiddetli migren ataklarının sıklığını önemli ölçüde azaltabileceğini göstermektedir. Ancak deneyimli nörologlar, genel nörolojik sağlığı desteklemek için uygun diyet ayarlamalarının hala dikkatle sürdürülmesi gerektiğini vurgulamaktadır."
+  "tr": "Son klinik araştırmalar, günlük magnezyum takviyesi almanın yetişkinlerde şiddetli migren ataklarının sıklığını önemli ölçüde azaltabileceğini göstermektedir. Ancak deneyimli nörologlar, genel nörolojik sağlığı desteklemek için uygun diyet ayarlamalarının hâlâ dikkatle sürdürülmesi gerektiğini vurgulamaktadır."
  },
  {
   "id": "trp_276",
@@ -3601,7 +3601,7 @@
   "trapType": "metinde-yok",
   "evidence": "enhances cardiovascular endurance by increasing the heart's pumping efficiency and improving overall blood circulation",
   "why": "Metin aerobik egzersizin dayanıklılığı nasıl artırdığını açıklıyor, ancak kas yorgunluğunu azalttığına dair bir nedenden ('because it reduces muscle fatigue') bahsetmiyor.",
-  "tr": "Düzenli aerobik egzersiz, kalbin pompalama verimliliğini artırarak ve genel kan dolaşımını iyileştirerek kardiyovasküler dayanıklılığı önemli ölçüde artırır. Doktorlar, günde otuz dakikalık hafif tempolu yürüyüşün bile zamanla son derece belirgin uzun vadeli sağlık yararları sağlayabileceğini belirtiyorlar."
+  "tr": "Düzenli aerobik egzersiz, kalbin pompalama verimliliğini artırarak ve genel kan dolaşımını iyileştirerek kardiyovasküler dayanıklılığı önemli ölçüde artırır. Doktorlar, günde otuz dakikalık orta tempolu yürüyüşün bile zamanla son derece belirgin uzun vadeli sağlık yararları sağlayabileceğini belirtiyorlar."
  },
  {
   "id": "trp_278",
@@ -3776,13 +3776,13 @@
   "id": "trp_291",
   "text": "Astronomers observing the remote star system recently detected faint radio signals that constantly recur during specific lunar alignments. They cautiously hypothesize that these highly repetitive emissions are likely caused by a massive, magnetic planetary body orbiting nearby.",
   "question": "Parçaya göre uzak yıldız sistemindeki radyo sinyalleriyle ilgili aşağıdakilerden hangisi söylenebilir?",
-  "wrong": "Faint radio signals from the remote star system always recur during lunar alignments.",
+  "wrong": "Faint radio signals from the remote star system always recur during every lunar alignment.",
   "traps": [
    "always"
   ],
   "trapType": "asiri-genelleme",
   "evidence": "detected faint radio signals that constantly recur during specific lunar alignments",
-  "why": "Metin radyo sinyallerinin 'specific' (belirli) ay dizilimleri sırasında tekrarlandığını belirtirken, şık bunun 'always' (her zaman) gerçekleştiğini söyleyerek aşırı genelleme yapmıştır.",
+  "why": "Metin radyo sinyallerinin 'specific' (belirli) ay dizilimleri sırasında tekrarlandığını belirtirken, şık bunun 'every lunar alignment' (her ay dizilimi) sırasında 'always' (her zaman) gerçekleştiğini söyleyerek aşırı genelleme yapmıştır.",
   "tr": "Uzak yıldız sistemini gözlemleyen gökbilimciler, yakın zamanda belirli ay hizalanmaları sırasında sürekli tekrarlayan zayıf radyo sinyalleri tespit ettiler. Bu son derece tekrarlayıcı emisyonların, yakınlarda yörüngede dönen büyük ve manyetik bir gezegen gövdesinden kaynaklanmasının muhtemel olduğunu ihtiyatla varsayıyorlar."
  },
  {
@@ -3795,7 +3795,7 @@
   ],
   "trapType": "zaman-kaydirma",
   "evidence": "is currently preparing to launch a robotic probe to analyze the chemical composition of a near-Earth asteroid next winter",
-  "why": "Metin uzay merkezinin önümüzdeki kış bir asteroit sondayı fırlatmaya 'hazırlandığını' ('preparing to launch') söylerken, şık sondanın 'çoktan fırlatıldığını' ('has already sent') söyleyerek zaman kaydırması yapmıştır.",
+  "why": "Metin uzay merkezinin önümüzdeki kış asteroite yönelik robotik sondayı fırlatmaya 'hazırlandığını' ('preparing to launch') söylerken, şık sondanın 'çoktan fırlatıldığını' ('has already sent') söyleyerek zaman kaydırması yapmıştır.",
   "tr": "Ulusal uzay merkezi şu anda önümüzdeki kış Dünya'ya yakın bir asteroidin kimyasal bileşimini analiz etmek üzere robotik bir sonda fırlatmaya hazırlanıyor. Jeologlar, kayalık yüzeyin altındaki değerli metal birikintilerini tanımlamak için tasarlanmış hassas kızılötesi spektrometreleri aktif olarak kalibre ediyorlar."
  },
  {
@@ -3828,7 +3828,7 @@
   "id": "trp_295",
   "text": "A recent economic analysis suggests that lowering corporate tax rates can help stimulate local business investments and create new employment opportunities. However, financial analysts warn that such tax reductions might temporarily increase the overall municipal budget deficit.",
   "question": "Parçaya göre kurumlar vergisi oranlarının düşürülmesiyle ilgili aşağıdakilerden hangisi söylenebilir?",
-  "wrong": "Lowering corporate tax rates proves that local business investments will stimulate.",
+  "wrong": "Lowering corporate tax rates proves that it stimulates local business investments.",
   "traps": [
    "proves"
   ],
@@ -3900,7 +3900,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "plans to issue a newly designed secure digital currency to reduce transaction fees by next winter",
   "why": "Metin merkez bankasının yeni dijital para birimini gelecek kışa kadar piyasaya sürmeyi 'planladığını' ('plans to issue') söylerken, şık bunu 'çoktan çıkardığını' ('has already issued') iddia ederek zaman kaydırması yapmıştır.",
-  "tr": "Devlet merkez bankası, önümüzdeki kışa kadar işlem ücretlerini azaltmak amacıyla yeni tasarlanmış güvenli bir dijital para birimi çıkarmayı planloyor. Finansal politika yapıcılar, potansiyel siber tehditlere karşı tam sistem güvenliğini sağlamak için şu anda karmaşık prototip ağını test ediyorlar."
+  "tr": "Devlet merkez bankası, önümüzdeki kışa kadar işlem ücretlerini azaltmak amacıyla yeni tasarlanmış güvenli bir dijital para birimi çıkarmayı planlıyor. Finansal politika yapıcılar, potansiyel siber tehditlere karşı tam sistem güvenliğini sağlamak için şu anda karmaşık prototip ağını test ediyorlar."
  },
  {
   "id": "trp_301",
@@ -3939,7 +3939,7 @@
   "trapType": "zaman-kaydirma",
   "evidence": "is preparing to excavate a newly discovered royal burial site in the northern valley next spring",
   "why": "Metin müzenin kraliyet mezarını önümüzdeki baharda kazmaya 'hazırlandığını' ('preparing to excavate') söylerken, şık mezarı 'çoktan kazdığını' ('has already excavated') iddia ederek zaman kaydırması yapmıştır.",
-  "tr": "Ulusal arkeoloji müzesi, önümüzdeki baharda kuzey vadisindeki yeni keşfedilen bir kraliyet mezar alanını kazmaya hazırlanıyor. Müze küratörleri, çıkarıldıktan hemen sonra hassas eserleri incelemek için sitenin yakınında geçici, yüksek teknolojili bir laboratuvarı aktif olarak tasarlıyorlar."
+  "tr": "Ulusal arkeoloji müzesi, önümüzdeki baharda kuzey vadisindeki yeni keşfedilen bir kraliyet mezar alanını kazmaya hazırlanıyor. Müze küratörleri, çıkarıldıktan hemen sonra hassas eserleri incelemek için kazı alanının yakınında geçici, yüksek teknolojili bir laboratuvarı aktif olarak tasarlıyorlar."
  },
  {
   "id": "trp_304",

@@ -322,7 +322,7 @@
   "missing": "Consequently, they are becoming a common feature of the rural landscape in many countries.",
   "answer": 4,
   "why": "'Consequently' bağlacı ve 'they' zamiri, bir önceki cümledeki rüzgar santrallerine atıfta bulunarak rüzgar santrallerinin yaygınlaşmasını açıklar.",
-  "tr": "Sonuç olarak, many ülkede kırsal manzaranın yaygın bir özelliği haline gelmektedirler."
+  "tr": "Sonuç olarak, birçok ülkede kırsal manzaranın yaygın bir özelliği haline gelmektedirler."
  },
  {
   "id": "ins_026",
@@ -554,8 +554,8 @@
    "As a result, these machines can solve problems that are impossible for standard computers."
   ],
   "missing": "This dual state allows them to perform billions of operations simultaneously.",
-  "answer": 1,
-  "why": "'This dual state' ifadesi bir önceki cümlede geçen kübitlerin aynı anda birden fazla durumda bulunabilme özelliğine işaret eder.",
+  "answer": 3,
+  "why": "'This dual state' ifadesi, bir önceki cümlede süperpozisyon adı verilen özelliğe (kübitlerin aynı anda birden fazla durumda bulunabilmesine) işaret eder; bu cümleden sonra 'As a result' ile verilen sonuç doğal biçimde gelir.",
   "tr": "Bu ikili durum, onların aynı anda milyarlarca işlemi gerçekleştirmesine olanak tanır."
  },
  {
@@ -593,7 +593,7 @@
    "Automakers expect this innovation to double the driving range of electric cars."
   ],
   "missing": "It also provides a higher energy density and faster charging times.",
-  "answer": 2,
+  "answer": 3,
   "why": "'It' zamiri bir önceki cümlede geçen katı malzemeli yeni pil tasarımına işaret eder.",
   "tr": "Ayrıca daha yüksek bir enerji yoğunluğu ve daha hızlı şarj süreleri sağlar."
  },
@@ -606,7 +606,7 @@
    "Furthermore, patients experience much less discomfort and recover much faster during their rehabilitation periods."
   ],
   "missing": "They do not harm healthy tissues because of their microscopic guidance systems.",
-  "answer": 1,
+  "answer": 2,
   "why": "'They' zamiri bir önceki cümlede geçen küçük taşıyıcıların vücuttaki hareket mekanizmasına işaret eder.",
   "tr": "Mikroskobik yönlendirme sistemleri sayesinde sağlıklı dokulara zarar vermezler."
  },
@@ -632,9 +632,9 @@
    "This proactive security approach significantly reduces the risk of major corporate data breaches."
   ],
   "missing": "Therefore, such tools can defend against novel attacks that have never been seen before.",
-  "answer": 2,
-  "why": "'Therefore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen akıllı sistemlerin trafiği gerçek zamanlı analiz etmesinin sonucuna işaret eder.",
-  "tr": "Bu nedenle, daha önce hiç görülmemiş yeni saldırılara karşı savunma yapabilirler."
+  "answer": 3,
+  "why": "'Therefore' bağlacı ve 'such tools' ifadesi, bir önceki cümlede geçen akıllı sistemlerin trafiği gerçek zamanlı analiz etmesinin sonucunu verir; geleneksel antivirüs yazılımı (önceki cümle) bu savunmayı yapamaz.",
+  "tr": "Bu nedenle, bu tür araçlar daha önce hiç görülmemiş yeni saldırılara karşı savunma yapabilir."
  },
  {
   "id": "ins_050",
@@ -645,7 +645,7 @@
    "This technology is expected to become standard in modern farming within a few years."
   ],
   "missing": "Moreover, they use advanced sensors to detect crop diseases before they spread.",
-  "answer": 1,
+  "answer": 2,
   "why": "'Moreover' bağlacı ve 'they' zamiri, bir önceki cümlede geçen otomatik makinelerin meyve toplama dışındaki ek özelliklerine işaret eder.",
   "tr": "Dahası, mahsul hastalıklarını yayılmadan önce tespit etmek için gelişmiş sensörler kullanırlar."
  },
@@ -655,11 +655,11 @@
    "Archaeologists in Central America have discovered an ancient Mayan city hidden under dense jungle.",
    "Using aerial laser scanning technology, they mapped thousands of previously unknown structures.",
    "The scans revealed massive pyramids, agricultural terraces, and complex highway networks.",
-   "This discovery suggest that the Mayan civilization was much larger than previously believed."
+   "This discovery suggests that the Mayan civilization was much larger than previously believed."
   ],
   "missing": "These features indicate that the region supported a massive population in ancient times.",
-  "answer": 4,
-  "why": "'These features' ifadesi bir önceki cümlede geçen antik kentin devasa büyüklüğüne ve özelliklerine işaret eder.",
+  "answer": 3,
+  "why": "'These features' ifadesi, bir önceki cümlede sayılan piramitlere, tarım teraslarına ve otoyol ağlarına işaret eder; sonraki cümledeki 'This discovery' de bu çıkarımı özetler.",
   "tr": "Bu özellikler, bölgenin antik çağda büyük bir nüfusu desteklediğini göstermektedir."
  },
  {
@@ -671,7 +671,7 @@
    "This breakthrough allowed historians to read thousands of ancient Egyptian documents."
   ],
   "missing": "This parallel text made it possible to compare the languages side by side.",
-  "answer": 3,
+  "answer": 2,
   "why": "'This parallel text' ifadesi bir önceki cümlede geçen farklı yazılar içeren taş üzerindeki metinlere işaret eder.",
   "tr": "Bu paralel metin, dilleri yan yana karşılaştırmayı mümkün kılmıştır."
  },
@@ -697,7 +697,7 @@
    "Today, it stands as a symbol of historical engineering and defense strategy."
   ],
   "missing": "This integration required the labor of hundreds of thousands of soldiers and peasants.",
-  "answer": 2,
+  "answer": 3,
   "why": "'This integration' ifadesi bir önceki cümlede geçen duvarların birleştirilmesi ve güçlendirilmesi eylemine işaret eder.",
   "tr": "Bu birleştirme, yüz binlerce asker ve köylünün emeğini gerektiriyordu."
  },
@@ -710,7 +710,7 @@
    "This cultural exchange deeply influenced the development of civilizations along the way."
   ],
   "missing": "However, it also facilitated the rapid spread of devastating diseases like the plague.",
-  "answer": 3,
+  "answer": 4,
   "why": "'However' bağlacı ve 'it' zamiri, bir önceki cümlede geçen kültürel ve ticari faydalara karşın olumsuz bir durum ekler.",
   "tr": "Ancak veba gibi yıkıcı hastalıkların hızla yayılmasını da kolaylaştırdı."
  },
@@ -723,7 +723,7 @@
    "Its destruction represents one of the greatest losses of collective human knowledge."
   ],
   "missing": "These valuable documents attracted the greatest minds of the classical era.",
-  "answer": 4,
+  "answer": 2,
   "why": "'These valuable documents' ifadesi bir önceki cümlede geçen kütüphanedeki el yazmaları ve parşömenlere işaret eder.",
   "tr": "Bu değerli belgeler, klasik dönemin en büyük zihinlerini kendine çekmiştir."
  },
@@ -762,7 +762,7 @@
    "Environmentalists warn that this trend accelerates global warming and threatens biodiversity."
   ],
   "missing": "This destruction also ruins the natural habitats of millions of unique species.",
-  "answer": 4,
+  "answer": 3,
   "why": "'This destruction' ifadesi bir önceki cümlede geçen ormansızlaşma ve ağaçların kesilmesi eylemine işaret eder.",
   "tr": "Bu yıkım aynı zamanda milyonlarca benzersiz türün doğal yaşam alanlarını da yok etmektedir."
  },
@@ -783,7 +783,7 @@
   "id": "ins_061",
   "sentences": [
    "Peatlands play an essential role in regulating the global climate by storing carbon.",
-   "Although they cover only a small fraction of the earth's land surface.",
+   "Although they cover only a small fraction of the earth's land surface, they are remarkably efficient carbon stores.",
    "They contain twice as much carbon as all the world's forests combined.",
    "Protecting these areas is crucial for achieving global carbon reduction targets."
   ],
@@ -801,7 +801,7 @@
    "Many marine biologists are calling for stricter limits on international fishing quotas."
   ],
   "missing": "These industrial vessels can operate far from shore for months at a time.",
-  "answer": 1,
+  "answer": 2,
   "why": "'These industrial vessels' ifadesi bir önceki cümlede geçen ticari balıkçı filolarına işaret eder.",
   "tr": "Bu endüstriyel gemiler, tek seferde aylarca kıyıdan uzakta faaliyet gösterebilir."
  },
@@ -827,9 +827,9 @@
    "In conclusion, this energy transition is vital for reducing greenhouse gas emissions globally."
   ],
   "missing": "However, they still require reliable battery storage systems for calm or cloudy days.",
-  "answer": 4,
-  "why": "'However' bağlacı ve 'they' zamiri, bir önceki cümlede geçen temiz enerji kaynaklarının kesintisiz üretim yapamamasına işaret eder.",
-  "tr": "Ancak, rüzgarsız veya bulutlu günler için hala güvenilir pil depolama sistemlerine ihtiyaç duyarlar."
+  "answer": 3,
+  "why": "'However' bağlacı ve 'they' zamiri, bir önceki cümlede geçen rüzgâr ve güneş enerjisi yatırımlarındaki ilerlemeye karşı bir sınırlılığı (kesintisiz üretim için pil depolama ihtiyacını) ekler; 'In conclusion' ile başlayan cümle ise paragrafı kapatır.",
+  "tr": "Ancak, rüzgârsız veya bulutlu günler için hâlâ güvenilir pil depolama sistemlerine ihtiyaç duyarlar."
  },
  {
   "id": "ins_065",
@@ -853,7 +853,7 @@
    "Eventually, these toxic substances accumulate in the bodies of larger fish and humans."
   ],
   "missing": "These tiny fragments absorb harmful chemicals from the surrounding ocean water.",
-  "answer": 1,
+  "answer": 2,
   "why": "'These tiny fragments' ifadesi bir önceki cümlede geçen mikroskobik plastik parçacıklarına işaret eder.",
   "tr": "Bu küçük parçacıklar, çevreleyen okyanus suyundan zararlı kimyasalları emer."
  },
@@ -879,7 +879,7 @@
    "Researchers are urgently searching for alternative therapies to combat these resistant strains."
   ],
   "missing": "It occurs when bacteria evolve defenses that make drugs ineffective against them.",
-  "answer": 3,
+  "answer": 2,
   "why": "'It' zamiri bir önceki cümlede geçen antibiyotik direnci ve bu direnç sürecine işaret eder.",
   "tr": "Bakteriler, ilaçları kendilerine karşı etkisiz kılan savunmalar geliştirdiğinde ortaya çıkar."
  },
@@ -892,7 +892,7 @@
    "Individuals may experience difficulty concentrating and making rational decisions as a result."
   ],
   "missing": "This nightly cleaning process is essential for maintaining healthy brain cells.",
-  "answer": 1,
+  "answer": 2,
   "why": "'This nightly cleaning process' ifadesi bir önceki cümlede geçen derin uyku sırasındaki beynin temizlenme işlevine işaret eder.",
   "tr": "Bu gece temizliği süreci, sağlıklı beyin hücrelerini korumak için gereklidir."
  },
@@ -905,7 +905,7 @@
    "This protein then trains the immune system to recognize and fight the real virus."
   ],
   "missing": "These molecular instructions are delivered into the human cells using lipid nanoparticles.",
-  "answer": 2,
+  "answer": 3,
   "why": "'These molecular instructions' ifadesi bir önceki cümlede geçen hücrelere protein üretmeyi öğreten genetik bilgilere işaret eder.",
   "tr": "Bu moleküler talimatlar, lipid nanoparçacıkları kullanılarak insan hücrelerine teslim edilir."
  },
@@ -931,7 +931,7 @@
    "Consequently, exercise is increasingly recommended as an auxiliary treatment for mild depression."
   ],
   "missing": "Such biological changes help protect the brain from the negative effects of anxiety.",
-  "answer": 4,
+  "answer": 3,
   "why": "'Such biological changes' ifadesi bir önceki cümlede geçen hormon azalması ve endorfin salınımı gibi biyolojik değişimlere işaret eder.",
   "tr": "Bu tür biyolojik değişimler, beyni kaygının olumsuz etkilerinden korumaya yardımcı olur."
  },
@@ -944,7 +944,7 @@
    "Urban planners are now exploring ways to convert these empty spaces into residential apartments."
   ],
   "missing": "They no longer require massive headquarters because employees work from home.",
-  "answer": 1,
+  "answer": 2,
   "why": "'They' zamiri bir önceki cümlede geçen büyük şirketlere işaret eder.",
   "tr": "Çalışanlar evden çalıştığı için artık devasa merkez binalarına ihtiyaç duymuyorlar."
  },
@@ -983,8 +983,8 @@
    "This approach reduces reliance on raw materials and decreases industrial pollution."
   ],
   "missing": "These durable goods are built to last rather than be thrown away after brief use.",
-  "answer": 4,
-  "why": "'These durable goods' ifadesi bir önceki cümlede geçen uzun ömürlü ve geri dönüştürülebilir ürün tasarımına işaret eder.",
+  "answer": 3,
+  "why": "'These durable goods' ifadesi, bir önceki cümlede sözü edilen kolay sökülebilen, yani onarıma ve geri dönüşüme uygun tasarlanmış ürünlere işaret eder; sonraki cümledeki 'This approach' da bu tasarım anlayışını özetler.",
   "tr": "Bu dayanıklı mallar, kısa bir kullanımdan sonra çöpe atılmak yerine uzun ömürlü olacak şekilde üretilmiştir."
  },
  {
@@ -997,7 +997,7 @@
   ],
   "missing": "They must cut back on dining out, traveling, and buying electronic devices.",
   "answer": 1,
-  "why": "'They' zamiri bir önceki cümlede geçen hanehalklarına işaret eder.",
+  "why": "'They' zamiri, bir önceki cümlede geçen tüketicilere (consumers) işaret eder; sonraki cümle bu kısıntının nedenini (temel ihtiyaçlara ayrılan payın artması) açıklar.",
   "tr": "Dışarıda yemek yemeyi, seyahat etmeyi ve elektronik cihazlar satın almayı kısmak zorundadırlar."
  },
  {
@@ -1087,8 +1087,8 @@
    "Consequently, the total time required to develop safe and effective medicines is reduced dramatically."
   ],
   "missing": "Such computational power accelerates the initial screening phase from years to weeks.",
-  "answer": 4,
-  "why": "'Such computational power' ifadesi bir önceki cümlede geçen süper bilgisayarların işlem kapasitesine işaret eder.",
+  "answer": 3,
+  "why": "'Such computational power' ifadesi, bir önceki cümlede anlatılan süper bilgisayarlarla yapılan dijital testlerin hesaplama kapasitesine işaret eder; sonraki 'Consequently' cümlesi de bu hızlanmanın sonucunu verir.",
   "tr": "Bu tür bir hesaplama gücü, ilk tarama aşamasını yıllardan haftalara indirerek hızlandırır."
  },
  {
@@ -1139,7 +1139,7 @@
    "As a direct result, agricultural water waste in these fields is reduced to a minimum."
   ],
   "missing": "These measurements are analyzed by algorithms to optimize daily irrigation schedules.",
-  "answer": 4,
+  "answer": 2,
   "why": "'These measurements' ifadesi bir önceki cümlede geçen sensörlerden toplanan nem ve sıcaklık verilerine işaret eder.",
   "tr": "Bu ölçümler, günlük sulama programlarını optimize etmek için algoritmalar tarafından analiz edilir."
  },
@@ -1243,7 +1243,7 @@
    "Consequently, early villages transformed into complex urban civilizations within centuries."
   ],
   "missing": "Such permanent settlements required organized cooperation to manage collective resources.",
-  "answer": 4,
+  "answer": 2,
   "why": "'Such permanent settlements' ifadesi bir önceki cümlede geçen yerleşik hayata geçiş ve kurulan kalıcı yerleşimlere işaret eder.",
   "tr": "Bu tür kalıcı yerleşimler, kolektif kaynakları yönetmek için organize bir iş birliği gerektiriyordu."
  },
@@ -1256,7 +1256,7 @@
    "This archaeological research has provided valuable insights into early human legal codes and trade."
   ],
   "missing": "These symbols were used to record tax collections, myths, and royal decrees.",
-  "answer": 1,
+  "answer": 2,
   "why": "'These symbols' ifadesi bir önceki cümlede geçen kil tabletler üzerindeki çivi yazısı işaretlerine işaret eder.",
   "tr": "Bu semboller vergi tahsilatlarını, mitleri ve kraliyet kararnamelerini kaydetmek için kullanılıyordu."
  },
@@ -1295,7 +1295,7 @@
    "Consequently, local governments are struggling to provide financial aid to these displaced populations."
   ],
   "missing": "Such severe land degradation reduces agricultural productivity and directly threatens global food security.",
-  "answer": 4,
+  "answer": 2,
   "why": "'Such land degradation' ifadesi bir önceki cümlede geçen çölleşme ve toprak kalitesinin bozulması sürecine işaret eder.",
   "tr": "Bu tür bir arazi bozulması tarımsal üretkenliği azaltır ve gıda güvenliğini tehdit eder."
  },
@@ -1322,7 +1322,7 @@
   ],
   "missing": "They cannot absorb carbonate ions easily when the pH level of seawater drops.",
   "answer": 2,
-  "why": "'They' zamiri bir önceki cümlede geçen kabuklu deniz canlılarına ve mercanlara işaret eder.",
+  "why": "'They' zamiri, bir önceki cümlede geçen kabuk yapmaya çalışan deniz canlılarına (marine organisms) işaret eder; sonraki cümle bu canlılara örnek verir.",
   "tr": "Deniz suyunun pH seviyesi düştüğünde karbonat iyonlarını kolayca ememezler."
  },
  {
@@ -1386,7 +1386,7 @@
    "Consequently, doctors strongly recommend positive lifestyle interventions like mindfulness to manage stress levels."
   ],
   "missing": "This hormonal change prevents the body from fighting off pathogens effectively.",
-  "answer": 3,
+  "answer": 2,
   "why": "'This hormonal change' ifadesi bir önceki cümlede geçen kortizol hormonu salgılanmasına işaret eder.",
   "tr": "Bu hormonal değişim, vücudun patojenlerle etkili bir şekilde savaşmasını engeller."
  },
@@ -1438,7 +1438,7 @@
    "Patients can usually return to their normal daily activities within a few days."
   ],
   "missing": "This visual impairment can interfere with daily activities like reading and driving.",
-  "answer": 3,
+  "answer": 2,
   "why": "'This visual impairment' ifadesi bir önceki cümlede geçen katarakt kaynaklı görme kaybına ve merceğin buğulanmasına işaret eder.",
   "tr": "Bu görme bozukluğu, okuma ve araba kullanma gibi günlük faaliyetleri engelleyebilir."
  },
@@ -1451,7 +1451,7 @@
    "Consequently, using digital devices before bed can lead to poor sleep quality."
   ],
   "missing": "This hormonal disruption makes it difficult for the body to fall asleep naturally.",
-  "answer": 4,
+  "answer": 3,
   "why": "'This hormonal disruption' ifadesi bir önceki cümlede geçen mavi ışık yüzünden melatonin üretiminin baskılanması durumuna işaret eder.",
   "tr": "Bu hormonal bozulma, vücudun doğal olarak uykuya dalmasını zorlaştırır."
  },
@@ -1464,8 +1464,8 @@
    "Consequently, this self-sustaining business model is becoming highly popular in developing economies."
   ],
   "missing": "This business approach allows them to reinvest profits directly into social causes.",
-  "answer": 1,
-  "why": "'This business approach' ifadesi bir önceki cümlede geçen sosyal girişimciliğin iş modellerini kullanma yöntemine işaret eder.",
+  "answer": 2,
+  "why": "'This business approach' ifadesi ve 'them' zamiri, bir önceki cümlede geçen sosyal girişimlere (innovative enterprises) ve iş yöntemleriyle sosyal sorun çözme anlayışına işaret eder; sonraki cümledeki 'they' de aynı girişimleri sürdürür.",
   "tr": "Bu iş yaklaşımı, kârı doğrudan sosyal amaçlara yeniden yatırmalarına olanak tanır."
  },
  {
@@ -1555,8 +1555,8 @@
    "Consequently, musicians rely heavily on live performances and concert tours for income."
   ],
   "missing": "Such economic shifts have forced artists to find alternative revenue streams.",
-  "answer": 4,
-  "why": "'Such economic shifts' ifadesi bir önceki cümlede geçen dijital müzik yayıncılığı nedeniyle albüm satışlarının düşmesi ve konser gelirlerine bağımlılık durumuna işaret eder.",
+  "answer": 3,
+  "why": "'Such economic shifts' ifadesi, bir önceki cümlede geçen fiziksel albüm satışlarının tarihi düşüklere inmesine işaret eder; sonraki 'Consequently' cümlesi (konser gelirine bağımlılık) bu zorunlu alternatif gelir arayışının sonucudur.",
   "tr": "Bu tür ekonomik değişimler, sanatçıları alternatif gelir akışları bulmaya zorlamıştır."
  },
  {
@@ -1595,7 +1595,7 @@
   ],
   "missing": "Such vulnerability is completely eliminated because quantum states cannot be copied.",
   "answer": 3,
-  "why": "'Such vulnerability' ifadesi bir önceki cümlede geçen geleneksel şifreleme yöntemlerinin güçlü bilgisayarlar tarafından çözülebilme riskine işaret eder.",
+  "why": "'Such vulnerability' ifadesi, bir önceki cümlede geçen yetkisiz bir kişinin sinyalleri ele geçirme (dinleme) riskine işaret eder; kuantum durumları kopyalanamadığı için bu risk ortadan kalkar.",
   "tr": "Bu tür bir savunmasızlık tamamen ortadan kaldırılmıştır çünkü kuantum durumları kopyalanamaz."
  },
  {
@@ -1607,7 +1607,7 @@
    "Consequently, researchers can observe natural aquatic behaviors that were previously impossible to record."
   ],
   "missing": "Moreover, they do not produce any loud noises that might scare away sensitive animals.",
-  "answer": 4,
+  "answer": 3,
   "why": "'Moreover' bağlacı ve 'they' zamiri, bir önceki cümlede geçen robotların mercan resiflerinde gezinmesi ve video çekmesi özelliklerine ek olarak sessiz çalışma avantajını ekler.",
   "tr": "Dahası, hassas hayvanları korkutup kaçırabilecek yüksek sesler çıkarmazlar."
  },
@@ -1660,7 +1660,7 @@
   ],
   "missing": "Furthermore, they consume much less electrical power than standard computing architectures.",
   "answer": 4,
-  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen benzersiz entegrasyon özelliklerine ek olarak standart mimarilere göre daha az elektrik tüketme avantajını ekler.",
+  "why": "'Furthermore' bağlacı, bir önceki cümlede sayılan avantaja (cihazların yapay zekâ algoritmalarını yerel olarak çalıştırması) bir yenisini ekler; 'they' zamiri nöromorfik çipleri ve bu çiplerle çalışan cihazları ifade eder.",
   "tr": "Ayrıca, standart bilgisayar mimarilerinden çok daha az elektrik gücü tüketirler."
  },
  {
@@ -1700,7 +1700,7 @@
   "missing": "Many of these containers still hold trace residues of their original contents.",
   "answer": 3,
   "why": "'These ceramic vessels' ve 'these containers' ifadeleri bir önceki cümlede geçen kil amforaları işaret eder.",
-  "tr": "Bu kapların birçoğu hala orijinal içeriklerinin kalıntı izlerini barındırmaktadır."
+  "tr": "Bu kapların birçoğu hâlâ orijinal içeriklerinin kalıntı izlerini barındırmaktadır."
  },
  {
   "id": "ins_132",
@@ -1711,7 +1711,7 @@
    "Consequently, historians now have a much clearer understanding of daily life in early cities."
   ],
   "missing": "Furthermore, they describe historical events and religious myths from a local perspective.",
-  "answer": 4,
+  "answer": 3,
   "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen metinlerin hukuki ve ticari içeriklerine ek olarak tarihi olayları ve dini mitleri anlatma özelliğini ekler.",
   "tr": "Ayrıca, tarihi olayları ve dini mitleri yerel bir bakış açısıyla tasvir ederler."
  },
@@ -1750,7 +1750,7 @@
    "Therefore, modern historians are rewriting the social hierarchy of Viking societies."
   ],
   "missing": "Such artifacts were conventionally reserved exclusively for elite male warriors.",
-  "answer": 3,
+  "answer": 2,
   "why": "'Such artifacts' ifadesi bir önceki cümlede geçen pahalı silahlar ve değerli mücevherleri işaret eder.",
   "tr": "Bu tür eserler, geleneksel olarak yalnızca seçkin erkek savaşçılara ayrılmıştı."
  },
@@ -1786,7 +1786,7 @@
    "Archaeologists have used ground-penetrating radar to map a massive buried city near Angkor Wat.",
    "The digital map reveals a complex grid of streets, residential areas, and sophisticated water management systems.",
    "This infrastructure supported a population that was much larger than historians originally estimated.",
-   "Consequently, this discovery rewrite the urban history of Southeast Asia during the medieval period."
+   "Consequently, this discovery rewrites the urban history of Southeast Asia during the medieval period."
   ],
   "missing": "These hidden features were completely invisible to researchers working on the forest floor.",
   "answer": 2,
@@ -1854,7 +1854,7 @@
    "Therefore, restoring drained peatlands by raising water levels is a highly effective climate mitigation strategy."
   ],
   "missing": "This slow accumulation process creates deep layers of organic material over thousands of years.",
-  "answer": 3,
+  "answer": 2,
   "why": "'This slow accumulation process' ifadesi bir önceki cümlede geçen organik maddelerin oksijensiz ortamda birikmesi durumuna işaret eder.",
   "tr": "Bu yavaş birikme süreci, binlerce yıl boyunca derin organik materyal tabakaları oluşturur."
  },
@@ -1867,7 +1867,7 @@
    "Consequently, biodiversity decreases dramatically and entire food webs can suffer sudden collapse."
   ],
   "missing": "Furthermore, they can introduce novel diseases that local populations cannot survive.",
-  "answer": 4,
+  "answer": 3,
   "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen istilacı türlerin yerli türleri avlamasına ek olarak yeni hastalıklar bulaştırma riskini ekler.",
   "tr": "Ayrıca, yerel popülasyonların hayatta kalamayacağı yeni hastalıklar getirebilirler."
  },
@@ -1920,7 +1920,7 @@
   ],
   "missing": "Moreover, they synthesize essential vitamins and help regulate the local immune system.",
   "answer": 4,
-  "why": "'Moreover' bağlacı ve 'they' zamiri, bir önceki cümlede geçen bakterilerin kısa zincirli yağ asitleri üretmesi özelliğine ek olarak vitamin sentezleme işlevini ekler.",
+  "why": "'Moreover' bağlacı ve 'they' zamiri, bir önceki cümlede geçen çeşitli mikrobiyal topluluğa (bakterilere) işaret eder; bu topluluğun korunmasının gerekçelerine vitamin sentezi ve bağışıklık sistemini düzenleme işlevini ekler.",
   "tr": "Dahası, temel vitaminleri sentezlerler ve yerel bağışıklık sistemini düzenlemeye yardımcı olurlar."
  },
  {
@@ -1971,7 +1971,7 @@
    "Consequently, common infections are becoming increasingly difficult to treat with standard medical therapies."
   ],
   "missing": "Furthermore, they can spread easily between patients in hospital environments.",
-  "answer": 4,
+  "answer": 3,
   "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen dirençli hayatta kalan bakterilerin çoğalması ve direnç aktarmasına ek olarak hastanelerde yayılma özelliğini ekler.",
   "tr": "Ayrıca, hastane ortamlarında hastalar arasında kolayca yayılabilirler."
  },
@@ -2023,14 +2023,14 @@
    "Consequently, local communities experience significant improvements in nutrition, education, and household income."
   ],
   "missing": "Moreover, they gain valuable financial literacy and leadership experience through group meetings.",
-  "answer": 4,
+  "answer": 3,
   "why": "'Moreover' bağlacı ve 'they' zamiri, bir önceki cümlede geçen kadın girişimcilerin borçlarını ödemeleri ve karlarını ailelerine yatırmalarına ek olarak finansal okuryazarlık kazanmalarını ekler.",
   "tr": "Dahası, grup toplantıları aracılığıyla değerli finansal okuryazarlık ve liderlik deneyimi kazanırlar."
  },
  {
   "id": "ins_157",
   "sentences": [
-   "Gentrifiation has transformed many historical working-class neighborhoods in major global cities into upscale residential zones.",
+   "Gentrification has transformed many historical working-class neighborhoods in major global cities into upscale residential zones.",
    "These wealthy newcomers attract high-end boutiques, expensive cafes, and modern art galleries.",
    "This commercial shift elevates property taxes and forces long-term local businesses to close down.",
    "Consequently, original communities are displaced, altering the social character of the neighborhood."
@@ -2062,7 +2062,7 @@
    "Consequently, tourists travel from other countries to view these public open-air galleries."
   ],
   "missing": "Such official support has encouraged street artists to develop highly sophisticated visual techniques.",
-  "answer": 3,
+  "answer": 2,
   "why": "'Such official support' ifadesi bir önceki cümlede geçen belediyelerin yerel sanatçılara terk edilmiş binalar üzerinde büyük duvar resimleri yapmaları için yetki/sipariş vermesi durumuna işaret eder.",
   "tr": "Bu tür resmi destekler, sokak sanatçılarını son derece gelişmiş görsel teknikler geliştirmeye teşvik etmiştir."
  },
@@ -2075,7 +2075,7 @@
    "Consequently, visitors can engage with the artwork at their own pace without feeling rushed."
   ],
   "missing": "Furthermore, they offer translation options in multiple languages for international tourists.",
-  "answer": 4,
+  "answer": 2,
   "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen etkileşimli cihazların bilgi sağlama özelliklerine ek olarak yabancı turistler için dil seçenekleri sunmasını ekler.",
   "tr": "Ayrıca, uluslararası turistler için birden fazla dilde çeviri seçenekleri sunarlar."
  },
@@ -2089,7 +2089,7 @@
   ],
   "missing": "This unique atomic structure prevents the material from expanding or weakening under intense thermal stress.",
   "answer": 1,
-  "why": "'This unique atomic structure' ifadesi bir önceki cümlede geçen hafif metal alaşımını ve onun atomik yapısını işaret eder.",
+  "why": "'This unique atomic structure' ifadesi, ilk cümlede geçen yüksek sıcaklığa dayanıklı hafif metal alaşımının yapısını açıklar; sonraki cümledeki 'These physical properties' ifadesi de eksik cümlede sayılan genleşmeme ve zayıflamama özelliklerine atıf yapar.",
   "tr": "Bu benzersiz atomik yapı, malzemenin yoğun termal stres altında genleşmesini veya zayıflamasını önler."
  },
  {
@@ -2335,7 +2335,7 @@
    "Therefore, local students can access modern online educational resources without expensive infrastructure investments."
   ],
   "missing": "This strategic elevation allows each transmitter to cover thousands of square kilometers of territory.",
-  "answer": 3,
+  "answer": 2,
   "why": "'This strategic elevation' ifadesi bir önceki cümlede geçen balonların stratosferde uçurulması eylemine işaret eder.",
   "tr": "Bu stratejik yükseklik, her bir vericinin binlerce kilometrekarelik bir alanı kapsamasını sağlar."
  },
@@ -2388,7 +2388,7 @@
   ],
   "missing": "Such visual clues allow the computer system to classify the infection with high accuracy.",
   "answer": 3,
-  "why": "'Such visual clues' ifadesi bir önceki cümlede geçen yapraklar üzerindeki mikroskobik lekeleri işaret eder.",
+  "why": "'Such visual clues' ifadesi, bir önceki cümlede geçen ve patojenlerin varlığını gösteren renkli desenlere (colored patterns) işaret eder; sistem enfeksiyonu bu ipuçlarına göre sınıflandırır.",
   "tr": "Bu tür görsel ipuçları, bilgisayar sisteminin enfeksiyonu yüksek doğrulukla sınıflandırmasını sağlar."
  },
  {
@@ -2401,7 +2401,7 @@
   ],
   "missing": "Furthermore, they utilize synthetic aviation fuels to minimize the environmental impact of high-altitude emissions.",
   "answer": 4,
-  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen uçakların hız ve gürültü azaltma özelliklerine ek olarak çevre dostu yakıt kullanımını ekler.",
+  "why": "'Furthermore' bağlacı, önceki cümlelerde sayılan avantajlara (hız, gürültü azaltma, okyanus aşırı uçuş süresi) çevre dostu yakıt kullanımını ekler; 'they' zamiri paragrafın konusu olan süpersonik yolcu uçaklarını ifade eder.",
   "tr": "Ayrıca, yüksek irtifa emisyonlarının çevresel etkisini en aza indirmek için sentetik havacılık yakıtları kullanırlar."
  },
  {
@@ -2426,8 +2426,8 @@
    "Therefore, astronomers can observe distant planets orbiting nearby stars with unprecedented visual clarity."
   ],
   "missing": "These dynamic mirrors adjust their shape thousands of times per second using computer-controlled actuators.",
-  "answer": 2,
-  "why": "'These dynamic mirrors' ifadesi bir önceki cümlede geçen gelişmiş adaptif optik teknolojisini ve onun parçası olan hareketli aynaları işaret eder.",
+  "answer": 1,
+  "why": "'These dynamic mirrors' ifadesi, bir önceki cümlede geçen gelişmiş adaptif optik teknolojisinin parçası olan aynaları anlatır; sonraki cümledeki 'This rapid correction' da bu cümledeki saniyede binlerce kez yapılan şekil ayarına atıf yapar.",
   "tr": "Bu dinamik aynalar, bilgisayar kontrollü aktüatörler kullanarak saniyede binlerce kez şekillerini ayarlar."
  },
  {
@@ -2440,7 +2440,7 @@
   ],
   "missing": "Such ancient tools allowed early farming communities to clear thick forests far more quickly.",
   "answer": 3,
-  "why": "'Such ancient tools' ifadesi bir önceki cümlede geçen tunç baltaları işaret eder.",
+  "why": "'Such ancient tools' ifadesi, bir önceki cümlede geçen ve tarımda, ahşap işçiliğinde ve savunmada kullanılan metal eşyalara (tunç baltalar dahil) işaret eder.",
   "tr": "Bu tür antik aletler, ilk tarım topluluklarının yoğun ormanları çok daha hızlı temizlemesine olanak tanıdı."
  },
  {
@@ -2452,7 +2452,7 @@
    "Consequently, historians can now construct a precise political history of major Mayan city-states."
   ],
   "missing": "Furthermore, they describe sophisticated astronomical calculations and calendar systems used by Mayan priests.",
-  "answer": 4,
+  "answer": 3,
   "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen yazılı kaynakların siyasi tarih ve hanedan kayıtlarına ek olarak astronomik hesaplamaları da açıklamasını bağlar.",
   "tr": "Ayrıca, Maya rahipleri tarafından kullanılan gelişmiş astronomik hesaplamaları ve takvim sistemlerini tasvir ederler."
  },
@@ -2527,7 +2527,7 @@
    "Archaeologists have used LiDAR technology to map a massive ancient city hidden beneath the Guatemalan rainforest.",
    "This advanced radar penetrated the dense forest canopy to reveal thousands of agricultural terraces.",
    "This farming infrastructure supported a population that was much larger than historians previously believed.",
-   "Consequently, this discovery rewritten the history of Mayan agricultural capacity and urban planning."
+   "Consequently, this discovery has rewritten the history of Mayan agricultural capacity and urban planning."
   ],
   "missing": "These newly discovered structures were completely invisible to researchers walking on the forest floor.",
   "answer": 2,
@@ -2556,8 +2556,8 @@
    "Consequently, biodiversity decreases dramatically and entire local food webs face potential collapse."
   ],
   "missing": "Furthermore, they can alter soil chemistry to make it toxic for other plant species.",
-  "answer": 4,
-  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen istilacı bitkilerin böceklerin ve kuşların besin kaynaklarını yok etmesine ek olarak toprak kimyasını değiştirme zararını ekler.",
+  "answer": 2,
+  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen hızla büyüyen istilacı bitkilere işaret eder ve onların zararlarına toprak kimyasını değiştirmeyi ekler; sonraki cümle ('Without native plants...') bu zararların sonucunu anlatır.",
   "tr": "Ayrıca, toprağın kimyasını diğer bitki türleri için zehirli olacak şekilde değiştirebilirler."
  },
  {
@@ -2582,8 +2582,8 @@
    "Consequently, local governments are building expensive seawalls and reinforcing coastal defenses immediately."
   ],
   "missing": "These melting ice sheets release billions of tons of fresh water into the oceans annually.",
-  "answer": 2,
-  "why": "'These melting ice sheets' ifadesi bir önceki cümlede geçen kutup buzullarının erimesi durumuna işaret eder.",
+  "answer": 1,
+  "why": "'These melting ice sheets' ifadesi, bir önceki cümlede geçen kutup buzullarının erimesine işaret eder; sonraki cümledeki 'This massive runoff' da bu cümlede anlatılan milyarlarca ton tatlı suya atıf yapar.",
   "tr": "Bu eriyen buzul örtüleri, okyanuslara yılda milyarlarca ton tatlı su bırakır."
  },
  {
@@ -2595,7 +2595,7 @@
    "Therefore, marine conservation groups are advocating for strict catch limits and protected marine zones."
   ],
   "missing": "Such high efficiency leaves very few adult individuals to sustain the next generation.",
-  "answer": 3,
+  "answer": 2,
   "why": "'Such high efficiency' ifadesi bir önceki cümlede geçen gelişmiş sonar sistemleri kullanan modern balıkçılık filolarının verimliliğine işaret eder.",
   "tr": "Bu tür yüksek verimlilik, gelecek nesli sürdürecek çok az yetişkin birey bırakmaktadır."
  },
@@ -2608,8 +2608,8 @@
    "Consequently, farmers are adopting conservation tillage methods to protect their agricultural soils."
   ],
   "missing": "Furthermore, they can cause destructive sedimentation in nearby freshwater rivers, damaging aquatic habitats.",
-  "answer": 4,
-  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen toprak erozyonunun tarımsal verimi düşürmesine ek olarak nehirlerde sedimentasyona yol açma zararını ekler.",
+  "answer": 1,
+  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede sayılan erozyon nedenlerine (ormansızlaşma, aşırı otlatma, yoğun toprak işleme) işaret eder ve nehirlerde çökelme zararını ekler; sonraki cümle ('Without plant roots...') toprağın bu etkenlerle nasıl savunmasız kaldığını açıklar.",
   "tr": "Ayrıca, yakındaki tatlı su nehirlerinde yıkıcı çökelmelere neden olarak sucul habitatlara zarar verebilirler."
  },
  {
@@ -2646,10 +2646,10 @@
    "This nutrient-rich diet reduces cholesterol levels and decreases the risk of arterial plaque formation.",
    "Therefore, individuals can protect their circulatory systems by making simple changes to their daily meals."
   ],
-  "missing": "Such dietary changes are rich in healthy monounsaturated fats, fresh vegetables, and lean proteins.",
-  "answer": 3,
-  "why": "'Such dietary changes' ifadesi bir önceki cümlede geçen Akdeniz diyeti gibi bölgesel beslenme alışkanlıklarını benimseme durumuna işaret eder.",
-  "tr": "Bu tür diyet değişiklikleri; sağlıklı tekli doymamış yağlar, taze sebzeler ve yağsız proteinler açısından zengindir."
+  "missing": "Such a diet is rich in healthy monounsaturated fats, fresh vegetables, and lean proteins.",
+  "answer": 2,
+  "why": "'Such a diet' ifadesi, bir önceki cümlede önerilen Akdeniz diyetine işaret eder; sonraki cümledeki 'This nutrient-rich diet' de bu cümlede sayılan besin açısından zengin içeriğe atıf yapar.",
+  "tr": "Böyle bir diyet; sağlıklı tekli doymamış yağlar, taze sebzeler ve yağsız proteinler açısından zengindir."
  },
  {
   "id": "ins_205",
@@ -2673,8 +2673,8 @@
    "Therefore, stress-reduction techniques like meditation and regular exercise are recommended for maintaining physical health."
   ],
   "missing": "Such biological effects demonstrate how mental stress can directly translate into physical illness.",
-  "answer": 2,
-  "why": "'Such biological effects' ifadesi bir önceki cümlede geçen yüksek kortizol seviyelerinin bağışıklık sistemini baskılaması durumuna işaret eder.",
+  "answer": 3,
+  "why": "'Such biological effects' ifadesi, önceki cümlelerde sayılan kortizolün bağışıklığı baskılaması, uykuyu bozması ve kalp-damar hastalığı riskini artırması gibi etkilere işaret eder; sonraki 'Therefore' cümlesi bu sonuca karşı çözümü verir.",
   "tr": "Bu tür biyolojik etkiler, zihinsel stresin nasıl doğrudan fiziksel hastalığa dönüşebileceğini göstermektedir."
  },
  {
@@ -2764,8 +2764,8 @@
    "Consequently, the cultural diversity and social cohesion of the neighborhood are permanently altered."
   ],
   "missing": "These wealthy residents drive up property values, rental prices, and local municipal taxes.",
-  "answer": 1,
-  "why": "'These wealthy residents' ifadesi bir önceki cümlede geçen düşük gelirli ailelerin yerinden edilmesine yol açan soylulaştırma sürecindeki varlıklı kişilere işaret eder.",
+  "answer": 2,
+  "why": "'These wealthy residents' ifadesi, bir önceki cümlede tanıtılan varlıklı yeni gelenlere (affluent newcomers) işaret eder; sonraki cümledeki 'This economic pressure' da mülk değerleri, kira ve vergilerdeki bu artışa atıf yapar.",
   "tr": "Bu varlıklı sakinler; mülk değerlerini, kira fiyatlarını ve yerel belediye vergilerini yükseltir."
  },
  {
@@ -2815,10 +2815,10 @@
    "This unique architecture eliminates the traditional communication delay between processing units and memory systems.",
    "Consequently, compact mobile devices can perform complex machine learning calculations locally without internet access."
   ],
-  "missing": "These biological microprocessors require much less electrical energy than traditional silicon-based computing chips.",
+  "missing": "These brain-inspired microprocessors require much less electrical energy than conventional computing chips.",
   "answer": 1,
-  "why": "'These biological microprocessors' ifadesi bir önceki cümlede geçen nöromorfik mikroişlemcileri işaret eder.",
-  "tr": "Bu biyolojik mikroişlemciler, geleneksel silikon tabanlı bilgisayar çiplerinden çok daha az elektrik enerjisi gerektirir."
+  "why": "'These brain-inspired microprocessors' ifadesi, bir önceki cümlede geçen ve insan beyninin yapısını taklit eden nöromorfik mikroişlemcilere işaret eder.",
+  "tr": "Bu beyin esinli mikroişlemciler, geleneksel bilgisayar çiplerinden çok daha az elektrik enerjisi gerektirir."
  },
  {
   "id": "ins_218",
@@ -2953,15 +2953,15 @@
  {
   "id": "ins_228",
   "sentences": [
-   "The dechipherment of the ancient Linear B script has transformed our understanding of Mycenaean Greece.",
+   "The decipherment of the ancient Linear B script has transformed our understanding of Mycenaean Greece.",
    "Scholars spent decades analyzing clay tablets containing administrative lists, tax records, and palace receipts.",
-   "These commercial records demonstrate that Myceanaean society had a highly centralized administrative bureaucracy.",
+   "These commercial records demonstrate that Mycenaean society had a highly centralized administrative bureaucracy.",
    "Consequently, historians can now reconstruct the economic organization of early Aegean palace economies."
   ],
-  "missing": "Furthermore, they describe historical events and religious offerings from a local perspective.",
-  "answer": 4,
-  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen ticari kayıtların idari ve mali bilgiler sunmasına ek olarak tarihi olayları ve sunuları açıklamasını bağlar.",
-  "tr": "Ayrıca, tarihi olayları ve dini adakları yerel bir bakış açısıyla tasvir ederler."
+  "missing": "Furthermore, they record religious offerings made to the gods at local shrines.",
+  "answer": 3,
+  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen idari ve ticari kayıtlara işaret eder ve bu kayıtların kapsamına dini adakları ekler; sonraki 'Consequently' cümlesi tüm bu bilgilerden çıkarılan sonucu verir.",
+  "tr": "Ayrıca, yerel tapınaklarda tanrılara sunulan dini adakları da kaydederler."
  },
  {
   "id": "ins_229",
@@ -3125,12 +3125,12 @@
    "Synthetic chemists have designed a highly efficient catalyst that can convert carbon dioxide into industrial alcohol.",
    "These chemical processes can operate at room temperature without requiring high pressure or toxic solvents.",
    "This clean synthesis offers a promising path for recycling industrial greenhouse gas emissions.",
-   "Consequently, chemical factories can reduce their reliance on petroleum-based raw materials in recent decades."
+   "Consequently, chemical factories can reduce their reliance on petroleum-based raw materials in the coming decades."
   ],
-  "missing": "These biological systems utilize abundant, cheap copper molecules to trigger the chemical transformation.",
+  "missing": "These synthetic catalysts utilize abundant, cheap copper compounds to trigger the chemical transformation.",
   "answer": 1,
-  "why": "'These biological systems' ifadesi bir önceki cümlede geçen karbondioksiti endüstriyel alkole dönüştüren yüksek verimli katalizörü işaret eder.",
-  "tr": "Bu biyolojik sistemler, kimyasal dönüşümü tetiklemek için bol miktarda bulunan, ucuz bakır moleküllerini kullanır."
+  "why": "'These synthetic catalysts' ifadesi, bir önceki cümlede geçen karbondioksiti endüstriyel alkole dönüştüren yüksek verimli katalizöre işaret eder.",
+  "tr": "Bu sentetik katalizörler, kimyasal dönüşümü tetiklemek için bol miktarda bulunan, ucuz bakır bileşiklerini kullanır."
  },
  {
   "id": "ins_242",
@@ -3166,10 +3166,10 @@
    "It translates these physical signs instantly into spoken words and displays them on a screen.",
    "Therefore, deaf individuals can communicate easily with hearing people without requiring a human translator."
   ],
-  "missing": "Furthermore, they can adapt the translation model to support multiple regional sign languages.",
+  "missing": "Furthermore, developers can adapt the translation model to support multiple regional sign languages.",
   "answer": 4,
-  "why": "'Furthermore' bağlacı ve 'they' zamiri, bir önceki cümlede geçen yapay zeka yazılımının işaret dilini çevirme özelliğine ek olarak farklı bölgesel dilleri destekleme özelliğini ekler.",
-  "tr": "Ayrıca, çeviri modelini birden fazla bölgesel işaret dilini destekleyecek şekilde uyarlayabilirler."
+  "why": "'Furthermore' bağlacı, önceki cümlelerde sayılan avantajlara (anlık çeviri, aracısız iletişim) modelin farklı bölgesel işaret dillerine uyarlanabilmesini ekler; paragrafın başında tanıtılan yazılım geliştiricilerine atıf yapar.",
+  "tr": "Ayrıca, geliştiriciler çeviri modelini birden fazla bölgesel işaret dilini destekleyecek şekilde uyarlayabilir."
  },
  {
   "id": "ins_245",

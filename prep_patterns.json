@@ -74,7 +74,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun gerçekleştiği alanı, sınırı veya içsel durumu belirtir.",
     "sentence": "The forest is abundant [in] wild berries.",
-    "sentence_tr": "Orman yaban mersini bakımından zengindir."
+    "sentence_tr": "Orman yabani meyveler bakımından zengindir."
   },
   {
     "head": "abundant",
@@ -129,7 +129,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "Renewable energy sources account [for] twenty percent of electricity.",
-    "sentence_tr": "Yenilebilir enerji kaynakları elektriğin yüzde yirmisini oluşturmaktadır."
+    "sentence_tr": "Yenilenebilir enerji kaynakları elektriğin yüzde yirmisini oluşturmaktadır."
   },
   {
     "head": "account",
@@ -283,7 +283,7 @@
     "level": "A2",
     "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
     "sentence": "High inflation will add [to] the economic difficulties of families.",
-    "sentence_tr": "Yenilenebilir olmayan maliyetler ve yüksek enflasyon, ailelerin ekonomik zorluklarını artıracaktır."
+    "sentence_tr": "Yüksek enflasyon, ailelerin ekonomik zorluklarını artıracaktır."
   },
   {
     "head": "addicted",
@@ -822,7 +822,7 @@
     "level": "A2",
     "note": "Öfke duygusu, karşı karşıya kalınan kişiye doğru yöneltilir.",
     "sentence": "Are you still angry [with] me for being late?",
-    "sentence_tr": "Geç kaldığım için bana hala kızgın mısın?"
+    "sentence_tr": "Geç kaldığım için bana hâlâ kızgın mısın?"
   },
   {
     "head": "angry",
@@ -943,7 +943,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "The diplomat offered a public apology [for] the historical injustice.",
-    "sentence_tr": "Diplomat, tarihi adaletsizlik için kamuoyundan kamuya açık bir özür diledi."
+    "sentence_tr": "Diplomat, tarihi adaletsizlik için kamuya açık bir özür diledi."
   },
   {
     "head": "appeal",
@@ -1251,7 +1251,7 @@
     "level": "A2",
     "note": "Eylemin veya durumun gerçekleştiği alanı, sınırı veya içsel durumu belirtir.",
     "sentence": "The diplomatic envoy will arrive [in] Geneva next Monday.",
-    "sentence_tr": "Diplomatik temsilci önümüzdeki Pazartesi günü Cenevre'ye varacak."
+    "sentence_tr": "Diplomatik temsilci önümüzdeki pazartesi günü Cenevre'ye varacak."
   },
   {
     "head": "ascribe",
@@ -1735,7 +1735,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun gerçekleştiği alanı, sınırı veya içsel durumu belirtir.",
     "sentence": "A strong belief [in] democracy helps stabilize developing nations.",
-    "sentence_tr": "Demokrasiye olan güçlü inanç gelişmekte olan ülkeleri istikrara kavuşturur."
+    "sentence_tr": "Demokrasiye olan güçlü inanç gelişmekte olan ülkeleri istikrara kavuşturmaya yardımcı olur."
   },
   {
     "head": "believe",
@@ -1834,7 +1834,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
     "sentence": "He bet ten dollars [on] the black horse.",
-    "sentence_tr": "Siyah ata on dolar yatırdı."
+    "sentence_tr": "Siyah ata on dolar bahis oynadı."
   },
   {
     "head": "bet",
@@ -1867,7 +1867,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "Economists blame the government [for] the high inflation.",
-    "sentence_tr": "Economistler yüksek enflasyondan dolayı hükümeti suçlamaktadır."
+    "sentence_tr": "Ekonomistler yüksek enflasyondan dolayı hükümeti suçlamaktadır."
   },
   {
     "head": "blame",
@@ -1933,7 +1933,7 @@
     "level": "A2",
     "note": "'of' konuşma dilinde; 'with' standart yazımda.",
     "sentence": "Consumers often become bored [with] repetitive advertisement campaigns.",
-    "sentence_tr": "Tüketiciler genellikle tekrarlayan reklam campaigns'lerinden sıkılır."
+    "sentence_tr": "Tüketiciler genellikle tekrarlayan reklam kampanyalarından sıkılır."
   },
   {
     "head": "borrow",
@@ -1988,7 +1988,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
     "sentence": "I will call [on] my grandparents this weekend.",
-    "sentence_tr": "Bu hafta sonu büyükbabam ve büyükannemi ziyaret edeceğim."
+    "sentence_tr": "Bu hafta sonu büyükanne ve büyükbabamı ziyaret edeceğim."
   },
   {
     "head": "call",
@@ -2516,7 +2516,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "The company offered free tickets as compensation [for] the delay.",
-    "sentence_tr": "Şiriket gecikmenin telafisi olarak ücretsiz biletler teklif etti."
+    "sentence_tr": "Şirket gecikmenin telafisi olarak ücretsiz biletler teklif etti."
   },
   {
     "head": "compensation",
@@ -2879,7 +2879,7 @@
     "level": "B1",
     "note": "Tebrik etme, kutlanan başarı veya olay zemini üzerine kurulur.",
     "sentence": "The president congratulated the team [on] their scientific breakthrough.",
-    "sentence_tr": "Başkan, ekibi bilimsel buluşlarından dolayı tebrik etti."
+    "sentence_tr": "Başkan, ekibi bilimsel atılımından dolayı tebrik etti."
   },
   {
     "head": "connection",
@@ -3033,7 +3033,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
     "sentence": "The prime minister will consult [with] his advisors.",
-    "sentence_tr": "Başkan danışmanlarıyla istişare edecek."
+    "sentence_tr": "Başbakan danışmanlarıyla istişare edecek."
   },
   {
     "head": "content",
@@ -3220,7 +3220,7 @@
     "level": "B2",
     "note": "Eylemin yöneldiği nesneyi veya çıkış kaynağını belirtir.",
     "sentence": "She tried to convince him [of] her absolute innocence.",
-    "sentence_tr": "Onu tamamen masum olduğuna ikna etmeye çalıştı."
+    "sentence_tr": "Onu, kendisinin tamamen masum olduğuna ikna etmeye çalıştı."
   },
   {
     "head": "convince",
@@ -3473,7 +3473,7 @@
     "level": "B2",
     "note": "Sıfatın yöneldiği kaynağı veya niteliğin doğduğu kökeni belirtir.",
     "sentence": "The report was highly critical [of] the new policy.",
-    "sentence_tr": "Rapor yeni politikaya karşı son derece eleştireldi."
+    "sentence_tr": "Rapor yeni politikayı son derece eleştirdi."
   },
   {
     "head": "criticize",
@@ -3737,7 +3737,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun gerçekleştiği alanı, sınırı veya içsel durumu belirtir.",
     "sentence": "The sandy soil is highly deficient [in] organic nutrients.",
-    "sentence_tr": "Kum toprak organik besin maddeleri açısından son derece yetersizdir."
+    "sentence_tr": "Kumlu toprak organik besin maddeleri açısından son derece yetersizdir."
   },
   {
     "head": "depend",
@@ -3781,7 +3781,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
     "sentence": "Economic growth is heavily dependent [on] foreign investment.",
-    "sentence_tr": "Ekonomik büyüme büyük ölçüde doğrudan yabancı yatırıma bağlıdır."
+    "sentence_tr": "Ekonomik büyüme büyük ölçüde yabancı yatırıma bağlıdır."
   },
   {
     "head": "deprive",
@@ -4220,7 +4220,7 @@
     "meaning": "ayrımcılık yapmak",
     "level": "B2",
     "note": "Eylemin bir karşı güce, engele veya tehdide yönelik duruşunu belirtir.",
-    "sentence": "The law prohibits employers to discriminate [against] job applicants.",
+    "sentence": "The law forbids employers to discriminate [against] job applicants.",
     "sentence_tr": "Kanun, işverenlerin iş başvurusunda bulunanlara karşı ayrımcılık yapmasını yasaklar."
   },
   {
@@ -4232,7 +4232,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
     "sentence": "We can dispense [with] formal introductions for now.",
-    "sentence_tr": "Şimdilik resmi tanıtımları bir kenara bırakabiliriz."
+    "sentence_tr": "Şimdilik resmi tanışma faslını bir kenara bırakabiliriz."
   },
   {
     "head": "dispense",
@@ -4265,7 +4265,7 @@
     "level": "B2",
     "note": "Eylemin yöneldiği nesneyi veya çıkış kaynağını belirtir.",
     "sentence": "Hospitals must safely dispose [of] hazardous medical waste.",
-    "sentence_tr": "Hastanaler tehlikeli tıbbi atıkları güvenli bir şekilde bertaraf etmelidir."
+    "sentence_tr": "Hastaneler tehlikeli tıbbi atıkları güvenli bir şekilde bertaraf etmelidir."
   },
   {
     "head": "distinct",
@@ -4276,7 +4276,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
     "sentence": "His painting style is distinct [from] his brother's style.",
-    "sentence_tr": "Onun resim tarzı erkek kardeşinin tarzından belirgindir."
+    "sentence_tr": "Onun resim tarzı erkek kardeşinin tarzından belirgin şekilde farklıdır."
   },
   {
     "head": "distinct",
@@ -4342,7 +4342,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
     "sentence": "Please do not distract me [from] my homework.",
-    "sentence_tr": "Lütfen ödevimden dikkatimi dağıtma."
+    "sentence_tr": "Lütfen dikkatimi dağıtarak beni ödevimden uzaklaştırma."
   },
   {
     "head": "distract",
@@ -4670,7 +4670,7 @@
     "pattern": "equal to",
     "meaning": "eşit",
     "level": "B1",
-    "note": "Benzerlikor eşdeğerlik, karşılaştırılan nesneye doğru hizalanmayı belirtir.",
+    "note": "Benzerlik veya eşdeğerlik, karşılaştırılan nesneye doğru hizalanmayı belirtir.",
     "sentence": "Three plus four is equal [to] seven.",
     "sentence_tr": "Üç artı dört yediye eşittir."
   },
@@ -4681,7 +4681,7 @@
     "pattern": "equal to",
     "meaning": "eşit",
     "level": "B1",
-    "note": "Benzerlikor eşdeğerlik, karşılaştırılan nesneye doğru hizalanmayı belirtir.",
+    "note": "Benzerlik veya eşdeğerlik, karşılaştırılan nesneye doğru hizalanmayı belirtir.",
     "sentence": "Velocity is equal [to] distance divided by total time.",
     "sentence_tr": "Hız, mesafenin toplam süreye bölünmesine eşittir."
   },
@@ -4803,8 +4803,8 @@
     "meaning": "muaf tutmak",
     "level": "C1",
     "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
-    "sentence": "Small business owners are exempt [from] this tax.",
-    "sentence_tr": "Küçük işletme sahipleri bu vergiden muaftır."
+    "sentence": "The new law will exempt small business owners [from] this tax.",
+    "sentence_tr": "Yeni yasa küçük işletme sahiplerini bu vergiden muaf tutacak."
   },
   {
     "head": "exempt",
@@ -4814,14 +4814,14 @@
     "meaning": "muaf tutmak",
     "level": "C1",
     "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
-    "sentence": "Charities are often exempt [from] corporate income taxes.",
-    "sentence_tr": "Hayır kurumları genellikle kurumlar vergisinden muaftır."
+    "sentence": "The government often exempts charities [from] corporate income taxes.",
+    "sentence_tr": "Hükümet hayır kurumlarını genellikle kurumlar vergisinden muaf tutar."
   },
   {
     "head": "exempt",
     "pos": "sıfat",
     "prep": "from",
-    "pattern": "exempt sb from sth",
+    "pattern": "exempt from",
     "meaning": "muaf",
     "level": "C1",
     "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
@@ -4832,7 +4832,7 @@
     "head": "exempt",
     "pos": "sıfat",
     "prep": "from",
-    "pattern": "exempt sb from sth",
+    "pattern": "exempt from",
     "meaning": "muaf",
     "level": "C1",
     "note": "Eylemin veya durumun başladığı kaynağı, ayrılmayı veya uzaklaşmayı belirtir.",
@@ -5416,18 +5416,18 @@
     "pos": "isim",
     "prep": "on",
     "pattern": "grip on",
-    "meaning": "kontrol, hakimiyet, nüfuz",
+    "meaning": "kontrol, hâkimiyet, nüfuz",
     "level": "B2",
     "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
     "sentence": "The driver lost his grip [on] the steering wheel.",
-    "sentence_tr": "Sürücü direksiyon hakimiyetini kaybetti."
+    "sentence_tr": "Sürücü direksiyon hâkimiyetini kaybetti."
   },
   {
     "head": "grip",
     "pos": "isim",
     "prep": "on",
     "pattern": "grip on",
-    "meaning": "kontrol, hakimiyet, nüfuz",
+    "meaning": "kontrol, hâkimiyet, nüfuz",
     "level": "B2",
     "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
     "sentence": "The military dictatorship slowly tightened its grip [on] national media.",
@@ -5463,8 +5463,8 @@
     "meaning": "suçlu",
     "level": "B2",
     "note": "Sıfatın yöneldiği kaynağı veya niteliğin doğduğu kökeni belirtir.",
-    "sentence": "He felt guilty [of] lying to his best friend.",
-    "sentence_tr": "En iyi arkadaşına yalan söylediği için suçlu hissetti."
+    "sentence": "He was guilty [of] lying to his best friend.",
+    "sentence_tr": "En iyi arkadaşına yalan söylemekten suçluydu."
   },
   {
     "head": "guilty",
@@ -5651,7 +5651,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
     "sentence": "No economic sector is entirely immune [to] global market fluctuations.",
-    "sentence_tr": "Hiçbir ekonomik sektör küresel piyasa dalgalanmalarından tamamen etkilenmez değildir."
+    "sentence_tr": "Hiçbir ekonomik sektör küresel piyasa dalgalanmalarına karşı tamamen bağışık değildir."
   },
   {
     "head": "impact",
@@ -6069,7 +6069,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun etrafında döndüğü konuyu veya temayı belirtir.",
     "sentence": "Potential buyers often inquire [about] property prices.",
-    "sentence_tr": "Potansiyel alıcılar sıkça mülk fiyatları hakkında bilgi alıyor."
+    "sentence_tr": "Potansiyel alıcılar sıkça mülk fiyatlarını soruyor."
   },
   {
     "head": "insight",
@@ -6454,7 +6454,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun gerçekleştiği alanı, sınırı veya içsel durumu belirtir.",
     "sentence": "The police questioned him about his involvement [in] the robbery.",
-    "sentence_tr": "Polis onu soyguna dahil olması/ilişkisi hakkında sorguladı."
+    "sentence_tr": "Polis onu soygunla ilişkisi konusunda sorguladı."
   },
   {
     "head": "involvement",
@@ -6978,22 +6978,22 @@
     "pos": "isim",
     "prep": "of",
     "pattern": "mastery of",
-    "meaning": "hakimiyet, ustalık",
+    "meaning": "hâkimiyet, ustalık",
     "level": "C1",
     "note": "İki kavram arasındaki bağlantıyı, aidiyeti veya kaynağı ifade eder.",
     "sentence": "Her quick mastery [of] the guitar surprised her friends.",
-    "sentence_tr": "Gitara hızlıca hakim olması arkadaşlarını şaşırttı."
+    "sentence_tr": "Gitara hızlıca hâkim olması arkadaşlarını şaşırttı."
   },
   {
     "head": "mastery",
     "pos": "isim",
     "prep": "of",
     "pattern": "mastery of",
-    "meaning": "hakimiyet, ustalık",
+    "meaning": "hâkimiyet, ustalık",
     "level": "C1",
     "note": "İki kavram arasındaki bağlantıyı, aidiyeti veya kaynağı ifade eder.",
     "sentence": "Professional translation requires a complete mastery [of] both languages.",
-    "sentence_tr": "Profesyonel çeviri, her iki dile de eksiksiz bir hakimiyet gerektirir."
+    "sentence_tr": "Profesyonel çeviri, her iki dile de eksiksiz bir hâkimiyet gerektirir."
   },
   {
     "head": "means",
@@ -7070,7 +7070,7 @@
     "level": "B2",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "The police still do not know her motive [for] leaving.",
-    "sentence_tr": "Polis onun ayrılma gerekçesini/nedenini hâlâ bilmiyor."
+    "sentence_tr": "Polis onun ayrılma nedenini hâlâ bilmiyor."
   },
   {
     "head": "motive",
@@ -7180,7 +7180,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "The city is notorious [for] its terrible traffic jams.",
-    "sentence_tr": "Şehir, korkunç trafik sıkışıklıklarıyla ünlüdür."
+    "sentence_tr": "Şehir, korkunç trafik sıkışıklıklarıyla kötü şöhretlidir."
   },
   {
     "head": "notorious",
@@ -7191,7 +7191,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "The company is notorious [for] exploiting legal loopholes.",
-    "sentence_tr": "Şirket, yasal boşlukları kötüye kullanmasıyla tanınır."
+    "sentence_tr": "Şirket, yasal boşlukları kötüye kullanmasıyla kötü şöhretlidir."
   },
   {
     "head": "object",
@@ -7290,7 +7290,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun dayandığı temeli, odağı veya zihinsel zemini belirtir.",
     "sentence": "The surgeon will operate [on] her leg tomorrow morning.",
-    "sentence_tr": "Cerrah yarın sabah onun bacağından ameliyat edecek."
+    "sentence_tr": "Cerrah yarın sabah onun bacağını ameliyat edecek."
   },
   {
     "head": "operate",
@@ -7433,7 +7433,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun gerçekleştiği alanı, sınırı veya içsel durumu belirtir.",
     "sentence": "Scholars from various disciplines will participate [in] the conference.",
-    "sentence_tr": "Çevrimiçi konferansa çeşitli disiplinlerden akademisyenler katılacaklar."
+    "sentence_tr": "Konferansa çeşitli disiplinlerden akademisyenler katılacak."
   },
   {
     "head": "passion",
@@ -7652,7 +7652,7 @@
     "meaning": "komplo kurmak",
     "level": "C1",
     "note": "Eylemin bir karşı güce, engele veya tehdide yönelik duruşunu belirtir.",
-    "sentence": "Rebel groups conspired to plot [against] the democratic government.",
+    "sentence": "Rebel groups united to plot [against] the democratic government.",
     "sentence_tr": "İsyancı gruplar demokratik hükümete karşı komplo kurmak için birleşti."
   },
   {
@@ -7895,7 +7895,7 @@
     "level": "C1",
     "note": "Tartışma, kontrol veya etkinin bir konu veya alan üzerinde yoğunlaşmasını belirtir.",
     "sentence": "The chief justice will preside [over] the supreme court.",
-    "sentence_tr": "Anayasa mahkemesi başkanı yüksek mahkemeye başkanlık edecek."
+    "sentence_tr": "Başyargıç yüksek mahkemeye başkanlık edecek."
   },
   {
     "head": "prevent",
@@ -8775,7 +8775,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "The laboratory is globally renowned [for] its innovative neurological research.",
-    "sentence_tr": "Laboratuvar, yenilikçi nörojolik araştırmalarıyla küresel çapta ün kazanmıştır."
+    "sentence_tr": "Laboratuvar, yenilikçi nörolojik araştırmalarıyla küresel çapta ün kazanmıştır."
   },
   {
     "head": "reply",
@@ -9017,7 +9017,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "Human activities are primarily responsible [for] rapid habitat destruction.",
-    "sentence_tr": "Doğal yaşam alanlarının hızla yok olmasından birincil derecede insan faaliyetleri sorumludur."
+    "sentence_tr": "Doğal yaşam alanlarının hızla yok olmasından esas olarak insan faaliyetleri sorumludur."
   },
   {
     "head": "result",
@@ -9588,8 +9588,8 @@
     "meaning": "üzgün, pişman",
     "level": "A2",
     "note": "'for' sorumluluk/pişmanlık; 'about' duruma üzülme.",
-    "sentence": "The board expressed being sorry [for] the project delays.",
-    "sentence_tr": "Yönetim kurulu proje gecikmelerinden dolayı üzüntülerini bildirdi."
+    "sentence": "The board is deeply sorry [for] the project delays.",
+    "sentence_tr": "Yönetim kurulu proje gecikmeleri nedeniyle çok üzgün."
   },
   {
     "head": "specialize",
@@ -9815,7 +9815,7 @@
     "head": "subject",
     "pos": "sıfat",
     "prep": "to",
-    "pattern": "subject sb to sth",
+    "pattern": "subject to",
     "meaning": "tabi, bağlı, maruz",
     "level": "C1",
     "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
@@ -9826,7 +9826,7 @@
     "head": "subject",
     "pos": "sıfat",
     "prep": "to",
-    "pattern": "subject sb to sth",
+    "pattern": "subject to",
     "meaning": "tabi, bağlı, maruz",
     "level": "C1",
     "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
@@ -9875,7 +9875,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun yöneldiği hedefi, sonucu veya yönü gösterir.",
     "sentence": "In constitutional democracies, military power is strictly subordinate [to] civilian authority.",
-    "sentence_tr": "Anayasal demokrasilerde askeri güç kesin bir surette sivil otoriteye bağlıdır."
+    "sentence_tr": "Anayasal demokrasilerde askeri güç kesinlikle sivil otoriteye tabidir."
   },
   {
     "head": "subscribe",
@@ -9918,8 +9918,8 @@
     "meaning": "yerine kullanmak, ikame etmek",
     "level": "B2",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
-    "sentence": "Automators substitute machinery [for] manual labor.",
-    "sentence_tr": "Otomasyoncular el emeğinin yerine makineleri ikame ediyor."
+    "sentence": "Factories substitute machinery [for] manual labor.",
+    "sentence_tr": "Fabrikalar el emeğinin yerine makineleri koyuyor."
   },
   {
     "head": "substitute",
@@ -10183,7 +10183,7 @@
     "level": "B2",
     "note": "Eylemin yöneldiği nesneyi veya çıkış kaynağını belirtir.",
     "sentence": "Prosecutors suspect the firm [of] financial fraud.",
-    "sentence_tr": "Savcılar firmadan mali dolandırıcılık şüphesi duyuyor."
+    "sentence_tr": "Savcılar firmanın mali dolandırıcılık yaptığından şüpheleniyor."
   },
   {
     "head": "suspicious",
@@ -10260,7 +10260,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "I have deep sympathy [for] the homeless family.",
-    "sentence_tr": "Evsiz aileye karşı derin bir üzüntü/sempati duyuyorum."
+    "sentence_tr": "Evsiz aileye karşı derin bir sempati duyuyorum."
   },
   {
     "head": "sympathy",
@@ -10271,7 +10271,7 @@
     "level": "B1",
     "note": "Eylemin veya durumun yöneldiği amacı, hedefi veya gerekçeyi belirtir.",
     "sentence": "The public expressed great sympathy [for] the victims of war.",
-    "sentence_tr": "Kamuoyu, savaş mağdurlarına karşı büyük bir sempati/duyarlılık gösterdi."
+    "sentence_tr": "Kamuoyu, savaş mağdurlarına karşı büyük bir sempati gösterdi."
   },
   {
     "head": "synonymous",
@@ -10381,7 +10381,7 @@
     "level": "C1",
     "note": "Eylemin veya durumun getirdiği birlikteliği, ortaklığı veya araç ilişkisini gösterir.",
     "sentence": "The suspect attempted to tamper [with] key evidence.",
-    "sentence_tr": "Şüpheli, önemli deliller üzerinde oynama yapmaya çalıştı."
+    "sentence_tr": "Şüpheli, önemli delilleri kurcalamaya çalıştı."
   },
   {
     "head": "tend",
@@ -10447,7 +10447,7 @@
     "level": "A2",
     "note": "Eylemin yöneldiği belirli bir hedef noktayı veya beceri alanını gösterir.",
     "sentence": "Early models were terrible [at] predicting weather patterns.",
-    "sentence_tr": "İlk modeller hava durumu modellerini tahmin etmekte çok kötüydü."
+    "sentence_tr": "İlk modeller hava durumu kalıplarını tahmin etmekte çok kötüydü."
   },
   {
     "head": "testify",

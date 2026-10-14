@@ -183,7 +183,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although organic agriculture utilizes less chemical pesticides, it needs additional land to yield the same crop volume as conventional farming.",
+    "text": "Although organic agriculture employs fewer chemical pesticides, it needs additional land to yield the same crop volume as conventional farming.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -559,7 +559,7 @@
    },
    {
     "option_id": "D",
-    "text": "Because tropical rainforests soak up massive quantities of carbon dioxide, preserving them is essential for combating global climate variations.",
+    "text": "Because tropical rainforests soak up massive quantities of carbon dioxide, preserving them is essential for combating worldwide climate shifts.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -827,7 +827,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "why": "Kusursuz Eş Değer: 'Since' yerine 'Because', 'easy to carry' yerine 'simple to transport' and 'popular among' yerine 'favored by' diyerek anlamı eksiksiz karşılar."
+    "why": "Kusursuz Eş Değer: 'Since' yerine 'Because', 'easy to carry' yerine 'simple to transport' ve 'popular among' yerine 'favored by' diyerek anlamı eksiksiz karşılar."
    },
    {
     "option_id": "B",
@@ -1491,7 +1491,7 @@
   "id": "sll032",
   "topic": "Local Markets (Business)",
   "target_sentence": "While buying food from local markets supports local farmers, it can be more expensive than purchasing from large supermarkets.",
-  "tr": "Yerel pazarlardan yiyecek satın almak yerel çiftçileri desteklese da, büyük süpermarketlerden satın almaktan daha pahalı olabilir.",
+  "tr": "Yerel pazarlardan yiyecek satın almak yerel çiftçileri desteklese de, büyük süpermarketlerden satın almaktan daha pahalı olabilir.",
   "options": [
    {
     "option_id": "A",
@@ -1683,7 +1683,7 @@
   "id": "sll036",
   "topic": "Eco-Tourism (Travel)",
   "target_sentence": "Since ecotourism brings revenue to protected wildlife areas, it helps pay for park rangers who stop illegal hunting.",
-  "tr": "Ekoturizm koruma altındaki yaban hayatı alanlarına gelir getirdiği için, yasadışı avlanmayı durdururan park korucularının maaşlarının ödenmesine yardımcı olur.",
+  "tr": "Ekoturizm koruma altındaki yaban hayatı alanlarına gelir getirdiği için, yasadışı avlanmayı durduran park korucularının maaşlarının ödenmesine yardımcı olur.",
   "options": [
    {
     "option_id": "A",
@@ -1767,7 +1767,7 @@
    },
    {
     "option_id": "E",
-    "text": "Even though electric scooters offer a fast way to travel, they can cause accidents, which are very expensive to rent.",
+    "text": "Even though electric scooters, which are very expensive to rent, offer a fast way to travel, they can cause accidents.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "expensive to rent",
@@ -1911,7 +1911,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although growing trees along urban streets enhances air quality, it demands routine upkeep to keep branches from breaking power grids.",
+    "text": "Although growing trees along urban streets enhances air quality, it demands routine upkeep to keep branches from harming electrical cables.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -2047,7 +2047,7 @@
    },
    {
     "option_id": "D",
-    "text": "Although gaming can enhance spatial coordination, excessive playtime might decrease the amount of physical exercise.",
+    "text": "Although gaming can enhance spatial perception, excessive playtime might decrease the amount of physical exercise.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -2103,10 +2103,10 @@
    },
    {
     "option_id": "E",
-    "text": "Regular exercise is crucial for maintaining cardiovascular health, but overtraining can cause muscle injuries and severe fatigue in elder athletes.",
+    "text": "Regular exercise is crucial for maintaining cardiovascular health, but overtraining can cause muscle injuries and severe fatigue in elderly athletes.",
     "is_correct": false,
     "leak_type": "scope_leak",
-    "trigger_phrase": "in elder athletes",
+    "trigger_phrase": "in elderly athletes",
     "why": "Kapsam Sapması: Hedefteki genel uyarıyı sadece yaşlı sporcular ile sınırlandırarak kapsamını daraltmıştır."
    }
   ]
@@ -2119,7 +2119,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "A lot of consumers choose organic produce because it is cultivated without artificial pesticides, despite its higher price compared to standard options.",
+    "text": "A lot of consumers choose organic produce because it is cultivated without artificial chemicals, despite its higher price compared to standard options.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -2210,12 +2210,12 @@
  {
   "id": "sll047",
   "topic": "Public Libraries (Education)",
-  "target_sentence": "Although many public libraries now offer free e-books, traditional paper books remain popular among elder readers.",
+  "target_sentence": "Although many public libraries now offer free e-books, traditional paper books remain popular among older readers.",
   "tr": "Birçok halk kütüphanesi artık ücretsiz e-kitap sunsa da geleneksel kağıt kitaplar yaşlı okuyucular arasında popüler kalmaya devam ediyor.",
   "options": [
    {
     "option_id": "A",
-    "text": "Review of standard paper books shows they remain popular among all readers of all ages, even with free e-books.",
+    "text": "Although many public libraries now offer free e-books, traditional paper books remain popular among all readers of all ages.",
     "is_correct": false,
     "leak_type": "scope_leak",
     "trigger_phrase": "among all readers of all ages",
@@ -2223,7 +2223,7 @@
    },
    {
     "option_id": "B",
-    "text": "Although many public libraries now offer free e-books, traditional paper books must remain popular among elder readers.",
+    "text": "Although many public libraries now offer free e-books, traditional paper books must remain popular among older readers.",
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "must remain popular",
@@ -2239,7 +2239,7 @@
    },
    {
     "option_id": "D",
-    "text": "Although many public libraries now offer free e-books, traditional paper books remain popular among elder readers who do not know how to use computers.",
+    "text": "Although many public libraries now offer free e-books, traditional paper books remain popular among older readers who do not know how to use computers.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "who do not know how to use computers",
@@ -2247,7 +2247,7 @@
    },
    {
     "option_id": "E",
-    "text": "Because traditional paper books remain popular among elder readers, many public libraries now offer free e-books.",
+    "text": "Because traditional paper books remain popular among older readers, many public libraries now offer free e-books.",
     "is_correct": false,
     "leak_type": "causality_inversion",
     "trigger_phrase": "Because traditional paper books",
@@ -2327,7 +2327,7 @@
    },
    {
     "option_id": "C",
-    "text": "Reusing residential plastic containers assists in safeguarding sea creatures, despite demanding precise categorization at home.",
+    "text": "Reprocessing residential plastic bottles assists in safeguarding sea creatures, despite demanding precise categorization at home.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -2487,7 +2487,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although smart automation raises company efficiency, it might lead to employment reduction in office roles.",
+    "text": "Although machine intelligence raises company efficiency, it might lead to employment reduction in office roles.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -2823,7 +2823,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although virtual classes provide more convenience for employed learners, they demand strong self-discipline to finish successfully.",
+    "text": "Although virtual classes provide more convenience for employed learners, they demand a strong inner drive to finish successfully.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -3535,7 +3535,7 @@
    },
    {
     "option_id": "D",
-    "text": "While going to public gardens enhances psychological health, scarce green areas in dense urban centers restrict access for numerous citizens.",
+    "text": "While going to community parks enhances psychological health, scarce green areas in dense urban centers restrict access for numerous citizens.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -3567,7 +3567,7 @@
    },
    {
     "option_id": "B",
-    "text": "Although gene-altered plants have the potential to raise overall crop yields, they might lead to unforeseen durable impacts on regional wildlife.",
+    "text": "Although gene-altered plants have the potential to raise overall crop yields, they might lead to unforeseen long-lasting impacts on regional ecosystems.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -3623,7 +3623,7 @@
    },
    {
     "option_id": "C",
-    "text": "While digital reality tools may improve surgical practice, they fail to entirely reproduce the physical touch of real operations.",
+    "text": "While simulated-reality tools may improve medical instruction, they fail to entirely reproduce the physical touch of real operations.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -3663,7 +3663,7 @@
    },
    {
     "option_id": "B",
-    "text": "Although school assignments aid learners in solidifying classroom topics, too much schoolwork may trigger severe anxiety and sleep problems.",
+    "text": "Although school assignments aid learners in solidifying classroom topics, too much schoolwork may trigger intense stress and sleep problems.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -3751,7 +3751,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although modern stoves lower interior smoke exposure, they need routine upkeep and stable fuel supplies to function well.",
+    "text": "Although low-emission stoves lower interior smoke exposure, they need routine upkeep and access to particular fuels to function well.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -3874,7 +3874,7 @@
     "leak_type": "none",
     "trigger_phrase": null,
     "text": "While joining online meetings maintains team connection, spending excessive time on video calls may result in mental exhaustion.",
-    "why": "Kusursuz Eş Değer: Hedef cümledeki zıtlık bağlacını, uyanık kalma yardımını ve aşırı sürenin getirdiği yorgunluk ihtimalini tam karşılar.",
+    "why": "Kusursuz Eş Değer: Hedef cümledeki zıtlık bağlacını, ekiplerin bağlı kalmasını ve aşırı sürenin getirdiği yorgunluk ihtimalini tam karşılar.",
     "option_id": "D"
    },
    {
@@ -3993,8 +3993,8 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "text": "Although purchasing items on the internet provides high comfort, it frequently lowers the earnings of neighborhood shops.",
-    "why": "Kusursuz Eş Değer: İnternet alışverişinin rahatlığını ve yerel mahalle dükkanlarının kârını azaltma etkisini eş anlamlılarla tam karşılar.",
+    "text": "Although purchasing items on the internet provides great ease, it frequently lowers the profit rates of neighborhood shops.",
+    "why": "Kusursuz Eş Değer: İnternet alışverişinin kolaylığını ve yerel mahalle dükkanlarının kârını azaltma etkisini eş anlamlılarla tam karşılar.",
     "option_id": "A"
    },
    {
@@ -4153,7 +4153,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "text": "While smart home systems simplify everyday chores, they may jeopardize private data unless proper security is applied.",
+    "text": "While smart home systems simplify everyday chores, they may put personal privacy at risk unless proper security is applied.",
     "why": "Kusursuz Eş Değer: Günlük işlerin kolaylaşmasını ve güvenlik eksikliği durumunda gizliliğin tehlikeye girme ihtimalini tam karşılar.",
     "option_id": "C"
    },
@@ -4633,7 +4633,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "text": "While state libraries provide complimentary web access, they demand that guests remain quiet to preserve a peaceful learning space.",
+    "text": "While community libraries provide complimentary web access, they demand that guests remain quiet to preserve a peaceful learning space.",
     "why": "Kusursuz Eş Değer: Ücretsiz internet sunulmasını ve çalışma ortamını korumak için gereken sessizlik zorunluluğunu tam verir.",
     "option_id": "C"
    },
@@ -5113,7 +5113,7 @@
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
-    "text": "While establishing public gardens enhances local well-being, they require consistent police watch to stay secure.",
+    "text": "While establishing community parks enhances local health, they require consistent security rounds to stay secure.",
     "why": "Kusursuz Eş Değer: Parkların sağlığa katkısı faydasını ve güvenli kalması için gereken devriye zorunluluğunu tam olarak karşılar.",
     "option_id": "C"
    },
@@ -5823,7 +5823,7 @@
    },
    {
     "option_id": "B",
-    "text": "Although purchasing items on the internet provides high comfort for buyers, it may cause unplanned purchases because of simple transaction options.",
+    "text": "Although purchasing items on the internet provides great ease for buyers, it may cause unplanned purchases because of simple transaction options.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -6743,7 +6743,7 @@
    },
    {
     "option_id": "C",
-    "text": "While assigning homework supports class review, too much tasks may raise stress levels in early learners.",
+    "text": "While assigning homework supports class review, too many tasks may raise stress levels in early learners.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -6983,7 +6983,7 @@
    },
    {
     "option_id": "C",
-    "text": "Although gaming may enhance physical reflexes, spending too much time playing can cause a sedentary lifestyle.",
+    "text": "Although gaming may sharpen hand-eye skills, spending too much time playing can cause a sedentary lifestyle.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -7143,7 +7143,7 @@
    },
    {
     "option_id": "E",
-    "text": "While green roofs assist in cooling structures, they need constant inspection to avoid moisture problems.",
+    "text": "While green roofs assist in cooling structures, they need routine upkeep to avoid water leakage.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -7183,7 +7183,7 @@
    },
    {
     "option_id": "D",
-    "text": "Although having a dog offers excellent emotional support, it may become costly because of routine feeding and healthcare bills.",
+    "text": "Although having a dog offers wonderful company, it may become costly because of routine feeding and healthcare bills.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -7786,7 +7786,7 @@
     "leak_type": "scope_leak",
     "text": "Although online education provides flexible schedules for every single working adult in the country, it often lacks social interaction.",
     "trigger_phrase": "every single working adult in the country",
-    "why": "Kapsam Sapması: Çalışan yetişkinler genel ifadesi bu şıkta ülkedeki her tek çalışan yetişkin şeklinde mutlaklaştırılılarak kapsamı aşmıştır.",
+    "why": "Kapsam Sapması: Çalışan yetişkinler genel ifadesi bu şıkta ülkedeki her tek çalışan yetişkin şeklinde mutlaklaştırılarak kapsamı aşmıştır.",
     "option_id": "A"
    },
    {
@@ -7856,7 +7856,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "Although developing spacious green zones in populated urban areas enhances air conditions, it may lead to an increase in local housing costs.",
+    "text": "Although developing spacious green zones in populated urban areas makes the air cleaner, it may lead to an increase in local housing costs.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Şehirde yeşil alan oluşturma faydası ile konut fiyatlarının artma ihtimali zıtlığını tam ve doğru şekilde verir.",
     "option_id": "D"
@@ -7984,7 +7984,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "While foreign travel supports the finance of seaside towns, it frequently results in temporary beach pollution.",
+    "text": "While foreign travel supports the economies of seaside towns, it frequently results in temporary beach pollution.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Ekonomik katkı ile mevsimsel kirlilik arasındaki zıtlığı doğru kelimelerle kusursuz şekilde karşılar.",
     "option_id": "B"
@@ -7994,7 +7994,7 @@
     "leak_type": "modality_leak",
     "text": "Although international tourism boosts the economy of coastal towns, it will definitely make beaches completely dirty forever.",
     "trigger_phrase": "will definitely make beaches completely dirty forever",
-    "why": "Kip Kayması: Öncüldeki mevsimsel kirliliğe yol açabilir durumu bu şıkta kesinlikle sonsuza kadar tamamen kirletecektir şeklinde mutlaklaştırılmıştır.",
+    "why": "Kip Kayması: Öncüldeki genellikle mevsimsel kirliliğe yol açması durumu bu şıkta kesinlikle sonsuza kadar tamamen kirletecektir şeklinde mutlaklaştırılmıştır.",
     "option_id": "C"
    },
    {
@@ -8336,9 +8336,9 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "Although flying makes long-distance journeys highly comfortable, planes produce greenhouse gases that affect the global climate.",
+    "text": "Although flying makes long-distance journeys highly practical, planes produce greenhouse gases that affect the global climate.",
     "trigger_phrase": null,
-    "why": "Kusursuz Eş Değer: Havayolu seyahatinin sunduğu büyük rahatlık ile çevreye verdiği zararı eş anlamlılarla tam olarak karşılar.",
+    "why": "Kusursuz Eş Değer: Havayolu seyahatinin sunduğu büyük kolaylık ile çevreye verdiği zararı eş anlamlılarla tam olarak karşılar.",
     "option_id": "D"
    },
    {
@@ -8456,7 +8456,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "While gaming might enhance physical coordination, spending a major part of the day playing them may result in loneliness.",
+    "text": "While gaming might enhance spatial coordination, spending a major part of the day playing may result in loneliness.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Uzamsal koordinasyon faydası ile her gün saatlerce oynamanın yalnızlık getirme riskini tam yansıtır.",
     "option_id": "A"
@@ -8560,7 +8560,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "While digital books are weightless and highly portable, numerous people still favor the touch of printed novels.",
+    "text": "While digital books are very light and highly portable, numerous people still favor the touch of printed books.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Elektronik kitapların pratikliği ile basılı kitapların tercih edilmesi zıtlığını eş anlamlılarla tam korur.",
     "option_id": "B"
@@ -8680,7 +8680,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "While ecological travel designs to preserve wild environments, the arrival of many tourists may lead to land wear on famous walking paths.",
+    "text": "While ecological travel seeks to preserve wild environments, the arrival of many tourists may wear away the soil on famous walking paths.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Koruma amacı ile yoğun ziyaretçilerin yürüyüş yollarına verebileceği erozyon zararını tam olarak karşılar.",
     "option_id": "E"
@@ -8824,7 +8824,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "Although web shopping provides superb comfort, sending back unneeded goods creates shipping gases that damage nature.",
+    "text": "Although web shopping provides unrivaled convenience, sending back unneeded goods creates shipping emissions that damage nature.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: İnternet alışverişi rahatlığı ile iade kargolarının çevreye verdiği zararı eş anlamlılarla tam karşılar.",
     "option_id": "E"
@@ -8864,7 +8864,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "While synthetic packages are long-lasting and inexpensive, throwing them away unsafely dirties rivers and puts sea creatures in danger.",
+    "text": "While synthetic packages are long-lasting and inexpensive, throwing them away thoughtlessly dirties rivers and puts sea creatures in danger.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Plastik kapların ucuzluğu/dayanıklılığı ile dikkatsizce atılmasının deniz hayatına verdiği zararı tam verir.",
     "option_id": "D"
@@ -9192,7 +9192,7 @@
    {
     "is_correct": false,
     "leak_type": "unstated_addition",
-    "text": "While bacteria are often associated with disease, many_bacterial_strains are crucial for maintaining human digestive health, especially in young children.",
+    "text": "While bacteria are often associated with disease, many bacterial strains are crucial for maintaining human digestive health, especially in young children.",
     "trigger_phrase": "especially in young children",
     "why": "Kaçak Yolcu: Hedef cümlede bu sindirim yararının sadece küçük çocuklar için geçerli olduğuna dair hiçbir yaş kısıtlaması yer almamaktadır.",
     "option_id": "C"
@@ -9266,7 +9266,7 @@
  {
   "id": "sll194",
   "topic": "Nutrition & Cooking (Health)",
-  "target_sentence": "While boiling vegetables is a simple cooking method, it can wash away water-soluble vitamins like_vitamin_C.",
+  "target_sentence": "While boiling vegetables is a simple cooking method, it can wash away water-soluble vitamins like vitamin C.",
   "tr": "Sebzeleri haşlamak basit bir pişirme yöntemi olsa da C vitamini gibi suda çözünen vitaminleri alıp götürebilir.",
   "options": [
    {
@@ -9304,7 +9304,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "Although cooking green crops in water is an easy process, it may remove water-soluble nutrients such as vitamin C.",
+    "text": "Although cooking produce in boiling water is an easy process, it may remove water-soluble nutrients such as vitamin C.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Haşlamanın basitliği ile suda çözünen vitaminlerin yok olma ihtimali arasındaki ilişkiyi tam olarak yansıtır.",
     "option_id": "E"
@@ -9328,7 +9328,7 @@
    {
     "is_correct": true,
     "leak_type": "none",
-    "text": "While commuting on public transit lowers urban air pollution, aged buses still produce diesel gases that affect breathing conditions.",
+    "text": "While commuting on public transit lowers urban air pollution, aged buses still produce diesel gases that harm lung health.",
     "trigger_phrase": null,
     "why": "Kusursuz Eş Değer: Toplu taşımanın hava kalitesine faydası ile eski araçların dizel salınımı zararını doğru kelimelerle karşılar.",
     "option_id": "B"
@@ -9607,7 +9607,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "While organic agriculture yields less crop, it stops soil damage and preserves water quality.",
+    "text": "While organic agriculture yields less crop, it keeps soil from eroding and preserves water quality.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -9746,7 +9746,7 @@
  {
   "id": "sll204",
   "topic": "Public Transport (Urban Planning)",
-  "target_sentence": "Since public transit reducing car usage improves air quality, city officials should support railway expansion.",
+  "target_sentence": "Since public transit improves air quality by reducing car usage, city officials should support railway expansion.",
   "tr": "Toplu taşımanın araç kullanımını azaltarak hava kalitesini artırması nedeniyle, şehir yetkilileri demiryolu genişlemesini desteklemelidir.",
   "options": [
    {
@@ -9759,7 +9759,7 @@
    },
    {
     "option_id": "B",
-    "text": "Since public transit reducing car usage improves air quality, city officials should support railway expansion to attract wealthy tourists.",
+    "text": "Since public transit improves air quality by reducing car usage, city officials should support railway expansion to attract wealthy tourists.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "to attract wealthy tourists",
@@ -9767,7 +9767,7 @@
    },
    {
     "option_id": "C",
-    "text": "Since public transit reducing car usage improves air quality, city officials might occasionally think about supporting railway expansion.",
+    "text": "Since public transit improves air quality by reducing car usage, city officials might occasionally think about supporting railway expansion.",
     "is_correct": false,
     "leak_type": "modality_leak",
     "trigger_phrase": "might occasionally think about supporting",
@@ -9775,18 +9775,18 @@
    },
    {
     "option_id": "D",
-    "text": "Because city officials support railway expansion, public transit reducing car usage improves air quality.",
+    "text": "Because city officials support railway expansion, public transit improves air quality by reducing car usage.",
     "is_correct": false,
     "leak_type": "causality_inversion",
-    "trigger_phrase": "Because city officials support railway expansion, public transit reducing car usage",
+    "trigger_phrase": "Because city officials support railway expansion",
     "why": "Nedensellik Sapması: Demiryolu genişlemesinin yetkililerce desteklenmesi, toplu taşımanın araç kullanımını azaltmasının sebebi olarak ters yüz edilerek sunulmuştur."
    },
    {
     "option_id": "E",
-    "text": "Since public transit completely stop all private car usage to improve air quality, city officials should support railway expansion.",
+    "text": "Since public transit completely stops all private car usage to improve air quality, city officials should support railway expansion.",
     "is_correct": false,
     "leak_type": "scope_leak",
-    "trigger_phrase": "completely stop all private car usage",
+    "trigger_phrase": "completely stops all private car usage",
     "why": "Kapsam Sapması: Araç kullanımını azaltma durumu, tüm özel araç kullanımlarını tamamen durdurma şeklinde aşırı ve gerçek dışı bir kapsama taşınmıştır."
    }
   ]
@@ -9807,10 +9807,10 @@
    },
    {
     "option_id": "B",
-    "text": "Although using plastic packaging protects fresh food from damage, it causes long-term environmental damage after disposal, which are produced in state-owned factories.",
+    "text": "Although using plastic packaging, which is produced in state-owned factories, protects fresh food from damage, it causes long-term environmental damage after disposal.",
     "is_correct": false,
     "leak_type": "unstated_addition",
-    "trigger_phrase": "which are produced in state-owned factories",
+    "trigger_phrase": "which is produced in state-owned factories",
     "why": "Kaçak Yolcu: Plastiklerin devlet fabrikalarında üretildiğine veya üretim yerine dair hedef cümlede hiçbir bilgi yoktur."
    },
    {
@@ -9895,7 +9895,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "While utilizing social networks assists youths in keeping distant friendships alive, it may induce stress through peer evaluation.",
+    "text": "While utilizing social networks assists youths in keeping distant friendships alive, it may trigger worry through comparison with peers.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -9971,7 +9971,7 @@
     "is_correct": false,
     "leak_type": "scope_leak",
     "trigger_phrase": "every citizen living in the country",
-    "why": "Kapsam Sapması: Şehir sakinlerinin citizens sağlığının gelişmesi, ülkedeki her bir vatandaşı kapsayacak şekilde aşırı genişletilmiştir."
+    "why": "Kapsam Sapması: Şehir sakinlerinin sağlığının gelişmesi, ülkedeki her bir vatandaşı kapsayacak şekilde aşırı genişletilmiştir."
    },
    {
     "option_id": "E",
@@ -10067,14 +10067,14 @@
     "is_correct": false,
     "leak_type": "scope_leak",
     "trigger_phrase": "lowers residential energy consumption of all nations",
-    "why": "Kapsam Sapması: Evsel enerji tüketimini residential energy düşürmesi, tüm ulusların evsel tüketimi şeklinde aşırı genellenmiştir."
+    "why": "Kapsam Sapması: Evsel enerji tüketimini düşürmesi, tüm ulusların evsel tüketimi şeklinde aşırı genellenmiştir."
    },
    {
     "option_id": "E",
-    "text": "While installing smart thermostats lowers residential energy consumption, it requires a stable internet connection to function properly, which are made of high-quality silver.",
+    "text": "While installing smart thermostats lowers residential energy consumption, it requires a stable internet connection to function properly, and the devices are made of high-quality silver.",
     "is_correct": false,
     "leak_type": "unstated_addition",
-    "trigger_phrase": "which are made of high-quality silver",
+    "trigger_phrase": "the devices are made of high-quality silver",
     "why": "Kaçak Yolcu: Hedef cümlede termostatların kaliteli gümüşten üretildiğine dair hiçbir bilgi yer almamaktadır."
    }
   ]
@@ -10287,7 +10287,7 @@
    },
    {
     "option_id": "B",
-    "text": "While purchasing ocean food offers vital proteins, frequent intake may expose individuals to hazardous microplastics.",
+    "text": "While eating marine food offers vital proteins, frequent intake may expose individuals to hazardous microplastics.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -10399,7 +10399,7 @@
    },
    {
     "option_id": "D",
-    "text": "While utilizing a credential vault protects web personal profiles, it needs a main key to open all codes.",
+    "text": "While utilizing a credential vault protects personal web accounts, it needs a main key to unlock every stored login.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -10431,10 +10431,10 @@
    },
    {
     "option_id": "B",
-    "text": "While nuclear power plants completely solves the global warming crisis of the planet, they require safe storage of radioactive waste.",
+    "text": "While nuclear power plants completely solve the global warming crisis of the planet, they require safe storage of radioactive waste.",
     "is_correct": false,
     "leak_type": "scope_leak",
-    "trigger_phrase": "completely solves the global warming crisis of the planet",
+    "trigger_phrase": "completely solve the global warming crisis of the planet",
     "why": "Kapsam Sapması: Karbonsuz enerji üretme faydası, gezegenin küresel ısınma krizini tamamen çözme şeklinde aşırı iddialı bir kapsama ulaştırılmıştır."
    },
    {
@@ -10471,7 +10471,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "While eating junk food offers a rapid alternative for active households, it causes heart problems if consumed every day.",
+    "text": "While eating junk food offers a rapid alternative for time-pressed households, it causes heart problems if consumed every day.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -10535,7 +10535,7 @@
    },
    {
     "option_id": "C",
-    "text": "Although using electronic books lowers paper loss worldwide, it may induce eye tiredness during extended learning sessions.",
+    "text": "Although using electronic books lowers paper wastage worldwide, it may induce eye tiredness during extended learning sessions.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -10579,7 +10579,7 @@
     "is_correct": false,
     "leak_type": "scope_leak",
     "trigger_phrase": "every public pool in the entire continent",
-    "why": "Kapsam Sapması: Kentsel içme suyu urban drinking water ifadesi, kıtadaki tüm halka açık havuzlar şeklinde aşırı genellenmiştir."
+    "why": "Kapsam Sapması: Kentsel içme suyu ifadesi, kıtadaki tüm halka açık havuzlar şeklinde aşırı genellenmiştir."
    },
    {
     "option_id": "C",
@@ -10711,7 +10711,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although growing urban trees enhances city air cleanliness, it demands constant care by local municipalities.",
+    "text": "Although growing urban trees enhances city air cleanliness, it demands routine care by local municipalities.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -10775,7 +10775,7 @@
    },
    {
     "option_id": "C",
-    "text": "While micro-lending schemes assist small startups, they may cause heavy debt burdens for low-income households.",
+    "text": "While micro-lending schemes assist small enterprises, they may cause heavy debt burdens for low-income households.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -10839,7 +10839,7 @@
    },
    {
     "option_id": "E",
-    "text": "While drinking milk provides essential calcium for bone growth, consuming it, produced by grass-fed alpine cows, excessively is not sufficient.",
+    "text": "While drinking milk produced by grass-fed alpine cows provides essential calcium for bone growth, consuming it excessively is not sufficient to prevent all fractures.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "produced by grass-fed alpine cows",
@@ -10855,7 +10855,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although using chemical pesticides protects farm crops from insects, it can damage nearby bee populations manufactured by greedy multinational corporations.",
+    "text": "Although using chemical pesticides manufactured by greedy multinational corporations protects farm crops from insects, it can damage nearby bee populations.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "manufactured by greedy multinational corporations",
@@ -10903,7 +10903,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although operating electric vehicles decreases urban noise levels, producing them demands high mineral mining from natural regions.",
+    "text": "Although operating electric vehicles decreases urban noise levels, producing them demands intensive mineral mining from natural regions.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -11063,7 +11063,7 @@
    },
    {
     "option_id": "C",
-    "text": "While microfinance programs assist small businesses, they may lead to high debt levels for poor families.",
+    "text": "While microfinance programs assist small new businesses, they may lead to high debt levels for poor families.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -11103,7 +11103,7 @@
    },
    {
     "option_id": "B",
-    "text": "While drinking milk provides essential calcium for bone growth, consuming it, produced by grass-fed alpine cows, excessively is not sufficient.",
+    "text": "While drinking milk produced by grass-fed alpine cows provides essential calcium for bone growth, consuming it excessively is not sufficient to prevent all fractures.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "produced by grass-fed alpine cows",
@@ -11143,7 +11143,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although using chemical pesticides protects farm crops from insects, it can damage nearby bee populations manufactured by greedy multinational corporations.",
+    "text": "Although using chemical pesticides manufactured by greedy multinational corporations protects farm crops from insects, it can damage nearby bee populations.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "manufactured by greedy multinational corporations",
@@ -11223,7 +11223,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although operating electric vehicles decreases urban noise levels, producing them demands high mineral mining from natural regions.",
+    "text": "Although operating electric vehicles decreases urban noise levels, producing them demands intensive mineral mining from natural regions.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -11351,7 +11351,7 @@
    },
    {
     "option_id": "C",
-    "text": "While microfinance programs assist small businesses, they may lead to high debt levels for poor families.",
+    "text": "While microfinance programs assist small new businesses, they may lead to high debt levels for poor families.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -11407,7 +11407,7 @@
    },
    {
     "option_id": "D",
-    "text": "While drinking milk provides essential calcium for bone growth, consuming it, produced by grass-fed alpine cows, excessively is not sufficient.",
+    "text": "While drinking milk produced by grass-fed alpine cows provides essential calcium for bone growth, consuming it excessively is not sufficient to prevent all fractures.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "produced by grass-fed alpine cows",
@@ -11455,7 +11455,7 @@
    },
    {
     "option_id": "D",
-    "text": "Although using chemical pesticides protects farm crops from insects, it can damage nearby bee populations manufactured by greedy multinational corporations.",
+    "text": "Although using chemical pesticides manufactured by greedy multinational corporations protects farm crops from insects, it can damage nearby bee populations.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "manufactured by greedy multinational corporations",
@@ -11487,7 +11487,7 @@
    },
    {
     "option_id": "B",
-    "text": "Although operating electric vehicles decreases urban noise levels, producing them demands high mineral mining from natural regions.",
+    "text": "Although operating electric vehicles decreases urban noise levels, producing them demands intensive mineral mining from natural regions.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -11671,7 +11671,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although going to public libraries enhances reading frequency, taking home too many volumes may occasionally lead to pressure.",
+    "text": "Although going to libraries enhances reading frequency, taking home too many volumes may occasionally lead to tension.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -11887,7 +11887,7 @@
    },
    {
     "option_id": "D",
-    "text": "Although gaming enhances manual dexterity and eye coordination, too much screen time may occasionally cause social withdrawal.",
+    "text": "Although gaming enhances manual dexterity and eye coordination, too many hours of play may occasionally cause social withdrawal.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -12079,7 +12079,7 @@
    },
    {
     "option_id": "D",
-    "text": "Although having fast food once in a while saves useful time, daily consumption may harm digestive processes.",
+    "text": "Although having fast food once in a while saves valuable time, daily consumption may harm digestive processes.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -12831,7 +12831,7 @@
    },
    {
     "option_id": "B",
-    "text": "Although health trackers encourage individuals to work out, excessive dependence on them may occasionally lead to stress.",
+    "text": "Although activity trackers encourage individuals to work out, excessive dependence on them may occasionally lead to unease.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -12871,7 +12871,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although preserving old buildings maintains cultural heritage, restoring historic structural brick ruins requires highly specialized labor.",
+    "text": "Although preserving old buildings maintains cultural heritage, restoring historic ruins requires highly specialized labor.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "ruins",
@@ -13063,7 +13063,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "While vegetated rooftops reduce building warmth, setting up living plants demands strong structural reinforcement.",
+    "text": "While vegetated rooftops cool buildings down, setting up living plants demands strong structural reinforcement.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -13135,7 +13135,7 @@
    },
    {
     "option_id": "D",
-    "text": "While eating organic wheat dietary fibers improves digestive health, consuming too much of them can occasionally cause bloating.",
+    "text": "While eating dietary fibers from organic wheat improves digestive health, consuming too much of them can occasionally cause bloating.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "organic wheat",
@@ -13527,7 +13527,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although going to public gardens enhances bodily health, it also assists in lowering stress levels for citizens in packed urban areas.",
+    "text": "While spending time in public green spaces enhances bodily health, it also assists in lowering stress levels for citizens in packed urban areas.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -13567,7 +13567,7 @@
    },
    {
     "option_id": "D",
-    "text": "While consuming fresh greens strengthens body defenses, it fails to provide total protection from seasonal influenza.",
+    "text": "While consuming fresh plant foods strengthens body defenses, it fails to provide total protection from seasonal influenza.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -13743,7 +13743,7 @@
    },
    {
     "option_id": "B",
-    "text": "Although owning a pet offers great companionship, it requires regular financial commitment for especially imported organic meals and care.",
+    "text": "Although owning a pet offers great companionship, it requires regular financial commitment for food, especially imported organic meals, and care.",
     "is_correct": false,
     "leak_type": "unstated_addition",
     "trigger_phrase": "especially imported organic meals",
@@ -13879,7 +13879,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although engaging with fictional stories builds understanding in young kids, it is not the only way to improve social interactions.",
+    "text": "Although engaging with fictional stories builds empathy in young kids, it is not the only way to improve social abilities.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14007,7 +14007,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although hiking in natural settings enhances cognitive focus, it is insufficient by itself to treat deep clinical depression.",
+    "text": "Although hiking in natural settings enhances cognitive focus, it is insufficient by itself to treat profound depression.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14047,7 +14047,7 @@
    },
    {
     "option_id": "D",
-    "text": "While smart wearable devices readily monitor daily walks, their pulse measurement features may occasionally show errors.",
+    "text": "While smart wearable devices readily monitor daily step counts, their pulse measurement features may occasionally show errors.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14183,7 +14183,7 @@
    },
    {
     "option_id": "C",
-    "text": "Although state libraries provide complimentary book borrowing, numerous readers favor electronic copies in their own houses.",
+    "text": "Although community libraries provide complimentary book borrowing, numerous readers favor electronic copies in their own houses.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14247,10 +14247,10 @@
    },
    {
     "option_id": "E",
-    "text": "Although sleeping eight hours nightly is recommended, sleeping less occasionally due to drinking black tea before does not reduce mental sharpness.",
+    "text": "Although sleeping eight hours nightly is recommended, sleeping less occasionally because of drinking black tea before bed does not reduce mental sharpness.",
     "is_correct": false,
     "leak_type": "unstated_addition",
-    "trigger_phrase": "due to drinking black tea before",
+    "trigger_phrase": "because of drinking black tea before bed",
     "why": "Kaçak Yolcu: Öncülde az uyumanın siyah çay içilmesine bağlı olduğuna dair hiçbir neden belirtilmemiştir."
    }
   ]
@@ -14375,7 +14375,7 @@
    },
    {
     "option_id": "C",
-    "text": "Although playing recorded books allows story consumption while traveling, it fails to enhance writing correctness.",
+    "text": "Although playing recorded books allows story consumption while traveling, it fails to enhance spelling accuracy.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14423,7 +14423,7 @@
    },
    {
     "option_id": "C",
-    "text": "While reprocessing metal cans preserves huge amounts of production power, numerous plants continue to select lower-priced new resources.",
+    "text": "While reprocessing aluminium cans preserves huge amounts of production power, numerous plants continue to select lower-priced new resources.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14551,7 +14551,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "Although taking adequate fluids aids digestive health, drinking too much might lower vital bodily minerals.",
+    "text": "Although taking in enough water aids digestive health, drinking too much might lower vital bodily minerals.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14698,7 +14698,7 @@
     "text": "Although online business meetings remove all commuting problems globally, lack of physical interaction makes team cooperation harder.",
     "is_correct": false,
     "leak_type": "scope_leak",
-    "trigger_phrase": "removes all commuting problems globally",
+    "trigger_phrase": "remove all commuting problems globally",
     "why": "Kapsam Sapması: Ulaşım süresini azaltma durumu, küresel olarak tüm ulaşım sorunlarını ortadan kaldırır şeklinde aşırı genişletilmiştir."
    },
    {
@@ -14903,7 +14903,7 @@
    },
    {
     "option_id": "C",
-    "text": "While making food in your own kitchen lets you choose what goes in, active workers frequently do not have enough hours for cooking.",
+    "text": "While making food in your own kitchen lets you choose what goes in, employees with packed schedules frequently do not have enough hours for cooking.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14967,7 +14967,7 @@
    },
    {
     "option_id": "E",
-    "text": "Although doing flexibility exercises prior to training enhances physical agility, it fails to fully eliminate tissue strains.",
+    "text": "Although doing flexibility exercises prior to training enhances bodily suppleness, it fails to fully eliminate tissue strains.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14983,7 +14983,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "While bringing washable bags lowers plastic waste, leaving them behind compels shoppers to purchase fresh plastic carriers.",
+    "text": "While bringing multi-use bags lowers plastic waste, leaving them behind compels shoppers to purchase fresh plastic carriers.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -14999,11 +14999,11 @@
    },
    {
     "option_id": "C",
-    "text": "Although using reusable bags reduces plastic trash, forgotting them at home might occasionally advise them to gently get paper cups instead.",
+    "text": "Although using reusable bags reduces plastic trash, forgotting them at home might occasionally prompt them to gently consider paper bags instead.",
     "is_correct": false,
     "leak_type": "modality_leak",
-    "trigger_phrase": "might occasionally advise them to gently get",
-    "why": "Kip Kayması: Satın almaya zorlar şeklindeki kesin durum, bu şıkta ara sıra hafifçe tavsiye edebilir şeklinde çok zayıflatılmıştır."
+    "trigger_phrase": "might occasionally prompt them to gently consider",
+    "why": "Kip Kayması: Satın almaya zorlar şeklindeki kesin durum, bu şıkta ara sıra hafifçe düşündürebilir şeklinde çok zayıflatılmıştır."
    },
    {
     "option_id": "D",
@@ -15103,7 +15103,7 @@
    },
    {
     "option_id": "D",
-    "text": "While engaging in tabletop games fosters friendly connections, the aggressive element of certain plays may trigger disputes.",
+    "text": "While engaging in tabletop games fosters friendly connections, the rivalry involved in certain rounds may trigger disputes.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -15151,10 +15151,10 @@
    },
    {
     "option_id": "D",
-    "text": "While solar chargers provides infinite electric power for all electronic devices, they charge devices much slower than standard wall outlets.",
+    "text": "While solar chargers provide infinite electric power for all electronic devices, they charge devices much slower than standard wall outlets.",
     "is_correct": false,
     "leak_type": "scope_leak",
-    "trigger_phrase": "provides infinite electric power for all",
+    "trigger_phrase": "provide infinite electric power for all",
     "why": "Kapsam Sapması: Açık hava gezilerinde pratik olma durumu, tüm elektronik cihazlar için sonsuz enerji sağlar şeklinde aşırı genellenmiştir."
    },
    {
@@ -15175,7 +15175,7 @@
   "options": [
    {
     "option_id": "A",
-    "text": "While internet archives deliver books immediately, spending hours looking at displays may lead to tired eyes.",
+    "text": "While internet libraries deliver books immediately, spending hours looking at displays may lead to tired eyes.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,
@@ -15207,10 +15207,10 @@
    },
    {
     "option_id": "E",
-    "text": "Although online libraries contains every single text written in human history instantly, reading on screens can cause eye strain.",
+    "text": "Although online libraries contain every single text written in human history instantly, reading on screens can cause eye strain.",
     "is_correct": false,
     "leak_type": "scope_leak",
-    "trigger_phrase": "contains every single text written in human",
+    "trigger_phrase": "contain every single text written in human",
     "why": "Kapsam Sapması: Kitapları anında erişilebilir kılma genel durumu, insanlık tarihinde yazılmış her tek metni içerir şeklinde aşırı genişletilmiştir."
    }
   ]
@@ -15279,7 +15279,7 @@
    },
    {
     "option_id": "B",
-    "text": "While putting on sunglasses shields your eyes from UV radiation, low-quality lenses may result in blurry sight.",
+    "text": "While putting on sunglasses shields your eyes from UV radiation, low-quality lenses may result in warped sight.",
     "is_correct": true,
     "leak_type": "none",
     "trigger_phrase": null,

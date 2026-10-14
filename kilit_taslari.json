@@ -276,7 +276,7 @@
    "why": "“about” = “roughly”, “a week” = “seven days”. Biçim değişti, sıklık aynı."
   },
   "tactic": "“only” cümlede bir şeyi AZ ya da TEK gösterir: “only about once a week” = çok seyrek. “only” düşmüş ama sıklık korunmuşsa şık doğru sayılabilir. “regularly, often, frequently” gibi sıklığı büyüten şık ise yanlıştır. “only”nin tonunu (azlık) koruyan şıkkı seç.",
-  "tr": "Şaşırtıcı biçimde tembel hayvanlar yere yalnızca haftada bir kez kadar iner."
+  "tr": "Şaşırtıcı biçimde tembel hayvanlar yere yalnızca yaklaşık haftada bir kez iner."
  },
  {
   "id": "kt010",
@@ -2404,7 +2404,7 @@
    "why": "“for hundreds of years” = “for centuries”. Süre aynı."
   },
   "tactic": "“had been … for centuries before” bir UYARI cümlesidir: uzun sessizlik güvenlik demek değildir. Paragrafın tezi büyük olasılıkla “sessiz volkanlar tehlikeli olabilir”dir. “Volcanoes that have been quiet for centuries are safe” diyen şık, örneğin anlatmak istediğinin tam tersini söyler.",
-  "tr": "Vezüv Yanardağı, Pompeii'yi yok etmeden önce yüzyıllardır sessizdi."
+  "tr": "Vezüv Yanardağı, Pompei'yi yok etmeden önce yüzyıllardır sessizdi."
  },
  {
   "id": "kt083",
@@ -10154,7 +10154,7 @@
    "why": "“succeeded in producing” = “managed to produce”. Başarı ve çaba vurgusu aynı."
   },
   "tactic": "“for the first time” bir DÖNÜM NOKTASI işaretidir ve paragrafın neden önemli olduğunu söyler: avcı-toplayıcılar hiçbir zaman güvenilir bir fazlalığa sahip olmamıştı. “allowing” ise bu fazlalığın SONUCUNU verir: kalıcı yerleşim. Sebep-sonuç sorusunda fazlalık sebep, yerleşim sonuçtur; tersini söyleyen şık yanlıştır.",
-  "tr": "Yabani buğdayı yetiştirip hayvanları evcilleştirerek ilk topluluklar ilk kez güvenilir bir gıda fazlası üretmeyi başardı; bu da nüfusların kalıcı olarak yerleşmesine olanak tanıdı."
+  "tr": "Yabani buğdayı yetiştirip hayvanları evcilleştirerek erken dönem toplulukları ilk kez güvenilir bir gıda fazlası üretmeyi başardı; bu da nüfusların kalıcı olarak yerleşmesine olanak tanıdı."
  },
  {
   "id": "kt293",

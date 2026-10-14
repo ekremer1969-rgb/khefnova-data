@@ -38,7 +38,7 @@
    },
    {
     "en": "I missed the bus this morning because I woke up late, so I took a taxi, which was quite expensive.",
-    "tr": "Bu sabah otobüsü kaçırdım çünkü geç uyandım, bu yüzden taksiye bindim ki oldukça pahalıydı.",
+    "tr": "Bu sabah otobüsü kaçırdım çünkü geç uyandım, bu yüzden taksiye bindim; bu da oldukça pahalıydı.",
     "add": "which was quite expensive",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -319,7 +319,7 @@
    },
    {
     "en": "Green plants absorb carbon dioxide during photosynthesis to produce oxygen, which supports aerobic life on Earth.",
-    "tr": "Yeşil bitkiler oksijen üretmek için fotosentez sırasında karbondioksit emer; bu da Dünya üzerindeki aerobik (oksijenli) yaşamı destekler.",
+    "tr": "Yeşil bitkiler oksijen üretmek için fotosentez sırasında karbondioksit emer; bu da Dünya üzerindeki aerobik yaşamı destekler.",
     "add": ", which supports aerobic life on Earth",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -373,7 +373,7 @@
    },
    {
     "en": "The Earth continuously orbits the Sun in an elliptical path governed by gravity, which determines the seasons.",
-    "tr": "Dünya, yerçekimi tarafından yönetilen eliptik bir yörüngede sürekli olarak Güneş'in etrafında döner yardımıyla mevsimleri belirler.",
+    "tr": "Dünya, yerçekimi tarafından yönetilen eliptik bir yörüngede sürekli olarak Güneş'in etrafında döner; bu da mevsimleri belirler.",
     "add": ", which determines the seasons",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -741,7 +741,7 @@
   "rungs": [
    {
     "en": "The metal corrodes.",
-    "tr": "Metal korozyona uğrar (paslanır).",
+    "tr": "Metal korozyona uğrar.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -1795,7 +1795,7 @@
   "rungs": [
    {
     "en": "Algae bloom.",
-    "tr": "Algler çoğalır (çiçek açar).",
+    "tr": "Algler çoğalır.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -1835,7 +1835,7 @@
    },
    {
     "en": "Microscopic algae bloom rapidly in warm waters containing excess agricultural runoff, depleting oxygen levels which suffocates aquatic life.",
-    "tr": "Mikroskobik algler, sudaki yaşamı boğan oksijen seviyelerini tüketerek aşırı tarımsal atık içeren ılık sularda hızla çoğalır.",
+    "tr": "Mikroskobik algler, oksijen seviyelerini tüketerek aşırı tarımsal atık içeren ılık sularda hızla çoğalır; bu da sudaki yaşamı boğar.",
     "add": "which suffocates aquatic life",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -1895,7 +1895,7 @@
   "rungs": [
    {
     "en": "Plastics degrade.",
-    "tr": "Plastikler bozunur (çözünür).",
+    "tr": "Plastikler bozunur.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -1903,7 +1903,7 @@
    },
    {
     "en": "Most plastics degrade extremely slowly.",
-    "tr": "Çoğu plastik son derece yavaş çözünür.",
+    "tr": "Çoğu plastik son derece yavaş bozunur.",
     "add": "most|extremely slowly",
     "role": "obek",
     "label": "sıfat/zarf",
@@ -1911,7 +1911,7 @@
    },
    {
     "en": "Most plastics degrade extremely slowly in marine environments.",
-    "tr": "Çoğu plastik deniz ortamlarında son derece yavaş çözünür.",
+    "tr": "Çoğu plastik deniz ortamlarında son derece yavaş bozunur.",
     "add": "in marine environments",
     "role": "obek",
     "label": "edat öbeği",
@@ -1919,7 +1919,7 @@
    },
    {
     "en": "Most plastics degrade extremely slowly in marine environments, breaking into microplastics.",
-    "tr": "Çoğu plastik, mikroplastiklere ayrılarak deniz ortamlarında son derece yavaş çözünür.",
+    "tr": "Çoğu plastik, mikroplastiklere ayrılarak deniz ortamlarında son derece yavaş bozunur.",
     "add": ", breaking into microplastics",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -1927,7 +1927,7 @@
    },
    {
     "en": "Most plastics degrade extremely slowly in marine environments, breaking into microplastics that absorb toxic chemicals.",
-    "tr": "Çoğu plastik, zehirli kimyasalları emen mikroplastiklere ayrılarak deniz ortamlarında son derece yavaş çözünür.",
+    "tr": "Çoğu plastik, zehirli kimyasalları emen mikroplastiklere ayrılarak deniz ortamlarında son derece yavaş bozunur.",
     "add": "that absorb toxic chemicals",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -1935,7 +1935,7 @@
    },
    {
     "en": "Although bio-alternatives are emerging, most plastics degrade extremely slowly in marine environments, breaking into microplastics that absorb toxic chemicals.",
-    "tr": "Biyolojik alternatifler ortaya çıkmasına rağmen, çoğu plastik, zehirli kimyasalları emen mikroplastiklere ayrılarak deniz ortamlarında son derece yavaş çözünür.",
+    "tr": "Biyolojik alternatifler ortaya çıkmasına rağmen, çoğu plastik, zehirli kimyasalları emen mikroplastiklere ayrılarak deniz ortamlarında son derece yavaş bozunur.",
     "add": "Although bio-alternatives are emerging,",
     "role": "baglac",
     "label": "zıtlık bağlacı",
@@ -2241,7 +2241,7 @@
   "rungs": [
    {
     "en": "A solar flare disrupted communications.",
-    "tr": "Güneş patlaması haberleşmeyi kesti (aksattı).",
+    "tr": "Güneş patlaması haberleşmeyi aksattı.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -2318,15 +2318,15 @@
     "asks": "nasıl karbonu, nereye?"
    },
    {
-    "en": "Widespread deforestation releases stored carbon into the atmosphere, contributing to greenhouse effect.",
+    "en": "Widespread deforestation releases stored carbon into the atmosphere, contributing to the greenhouse effect.",
     "tr": "Yaygın ormansızlaşma, sera etkisine katkıda bulunarak depolanmış karbonu atmosfere salar.",
-    "add": ", contributing to greenhouse effect",
+    "add": ", contributing to the greenhouse effect",
     "role": "ortac",
     "label": "ortaç öbeği",
     "asks": "neye katkıda bulunarak?"
    },
    {
-    "en": "Widespread deforestation releases stored carbon into the atmosphere, contributing to greenhouse effect which warms the planet.",
+    "en": "Widespread deforestation releases stored carbon into the atmosphere, contributing to the greenhouse effect which warms the planet.",
     "tr": "Yaygın ormansızlaşma, gezegeni ısıtan sera etkisine katkıda bulunarak depolanmış karbonu atmosfere salar.",
     "add": "which warms the planet",
     "role": "ilgi",
@@ -3003,7 +3003,7 @@
   "rungs": [
    {
     "en": "Wind produces power.",
-    "tr": "Rüzgar güç (enerji) üretir.",
+    "tr": "Rüzgar güç üretir.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -3157,7 +3157,7 @@
   "rungs": [
    {
     "en": "The reaction releases gases.",
-    "tr": "Reaksiyon gazları açığa çıkarır (salar).",
+    "tr": "Reaksiyon gazları açığa çıkarır.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -3173,7 +3173,7 @@
    },
    {
     "en": "The chemical reaction quickly releases toxic gases into the chamber.",
-    "tr": "Kimyasal reaksiyon, zehirli gazları kabinin (haznenin) içine hızlıca açığa çıkarır.",
+    "tr": "Kimyasal reaksiyon, zehirli gazları kabinin içine hızlıca açığa çıkarır.",
     "add": "into the chamber",
     "role": "obek",
     "label": "edat öbeği",
@@ -3189,7 +3189,7 @@
    },
    {
     "en": "The chemical reaction quickly releases toxic gases into the chamber, increasing internal pressure that must be ventilated.",
-    "tr": "Kimyasal reaksiyon, havalandırılması gereken iç basıncı artırarak zehirli gasları kabinin içine hızlıca açığa çıkarır.",
+    "tr": "Kimyasal reaksiyon, havalandırılması gereken iç basıncı artırarak zehirli gazları kabinin içine hızlıca açığa çıkarır.",
     "add": "that must be ventilated",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -3203,7 +3203,7 @@
   "rungs": [
    {
     "en": "The alloy resists corrosion.",
-    "tr": "Alaşım korozyona (paslanmaya) karşı direnç gösterir.",
+    "tr": "Alaşım korozyona karşı direnç gösterir.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -3289,7 +3289,7 @@
    },
    {
     "en": "New superconductors efficiently transmit electricity without any resistance, minimizing energy loss which currently plagues power grids.",
-    "tr": "Yeni süperiletkenler, şu anda güç şebekelerini meşgul eden (olumsuz etkileyen) enerji kaybını en aza indirerek elektriği herhangi bir direnç olmadan verimli bir şekilde iletir.",
+    "tr": "Yeni süperiletkenler, şu anda güç şebekelerini zorlayan enerji kaybını en aza indirerek elektriği herhangi bir direnç olmadan verimli bir şekilde iletir.",
     "add": "which currently plagues power grids",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -3357,7 +3357,7 @@
   "rungs": [
    {
     "en": "Ecosystems support organisms.",
-    "tr": "Ekosistemler canlıları (organizmaları) destekler.",
+    "tr": "Ekosistemler canlıları destekler.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -3435,7 +3435,7 @@
    },
    {
     "en": "The organic compound effectively prevents metal oxidation during industrial manufacturing, forming a protective barrier that seals the surface.",
-    "tr": "Organik bileşik, yüzeyi kaplayan (mühürleyen) koruyucu bir bariyer oluşturarak endüstriyel üretim sırasında metal oksitlenmesini etkili bir şekilde önler.",
+    "tr": "Organik bileşik, yüzeyi kaplayan koruyucu bir bariyer oluşturarak endüstriyel üretim sırasında metal oksitlenmesini etkili bir şekilde önler.",
     "add": "that seals the surface",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -3456,24 +3456,24 @@
   "theme": "fen",
   "rungs": [
    {
-    "en": "The comet visible.",
+    "en": "The comet is visible.",
     "tr": "Kuyruklu yıldız görünürdür.",
     "add": "",
     "role": "omurga",
-    "label": "çekirdek (is-deletable)",
+    "label": "çekirdek",
     "asks": ""
    },
    {
     "en": "The rare comet is clearly visible.",
-    "tr": "Nadir görünen kuyruklu yıldız net bir şekilde görünürdür.",
-    "add": "rare|is clearly",
+    "tr": "Nadir görülen kuyruklu yıldız net bir şekilde görünürdür.",
+    "add": "rare|clearly",
     "role": "obek",
     "label": "sıfat/zarf",
     "asks": "nasıl kuyruklu yıldız, nasıl görünür?"
    },
    {
     "en": "The rare comet is clearly visible with a telescope.",
-    "tr": "Nadir görünen kuyruklu yıldız bir teleskopla net bir şekilde görünürdür.",
+    "tr": "Nadir görülen kuyruklu yıldız bir teleskopla net bir şekilde görünürdür.",
     "add": "with a telescope",
     "role": "obek",
     "label": "edat öbeği",
@@ -3481,7 +3481,7 @@
    },
    {
     "en": "The rare comet is clearly visible with a telescope during autumn nights.",
-    "tr": "Nadir görünen kuyruklu yıldız, sonbahar gecelerinde bir teleskopla net bir şekilde görünürdür.",
+    "tr": "Nadir görülen kuyruklu yıldız, sonbahar gecelerinde bir teleskopla net bir şekilde görünürdür.",
     "add": "during autumn nights",
     "role": "obek",
     "label": "zaman öbeği",
@@ -3489,7 +3489,7 @@
    },
    {
     "en": "The rare comet is clearly visible with a telescope during autumn nights, passing close to Earth.",
-    "tr": "Nadir görünen kuyruklu yıldız, Dünya'nın yakınından geçerek sonbahar gecelerinde bir teleskopla net bir şekilde görünürdür.",
+    "tr": "Nadir görülen kuyruklu yıldız, Dünya'nın yakınından geçerek sonbahar gecelerinde bir teleskopla net bir şekilde görünürdür.",
     "add": ", passing close to Earth",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -3719,7 +3719,7 @@
    },
    {
     "en": "Vibrant coral reefs naturally provide safe shelter for marine organisms.",
-    "tr": "Canlı mercan resifleri, deniz canlıları (organizmaları) için doğal olarak güvenli sığınak sağlar.",
+    "tr": "Canlı mercan resifleri, deniz canlıları için doğal olarak güvenli sığınak sağlar.",
     "add": "for marine organisms",
     "role": "obek",
     "label": "edat öbeği",
@@ -4073,7 +4073,7 @@
    },
    {
     "en": "Frequent acid rain severely damages high forests in northern Europe by leaching soil nutrients.",
-    "tr": "Sık gerçekleşen asit yağmuru, topraktaki besin maddelerini süzerek (yıkayarak) Kuzey Avrupa'daki yüksek ormanlara ciddi şekilde zarar verir.",
+    "tr": "Sık gerçekleşen asit yağmuru, topraktaki besin maddelerini süzerek Kuzey Avrupa'daki yüksek ormanlara ciddi şekilde zarar verir.",
     "add": "by leaching soil nutrients",
     "role": "obek",
     "label": "yöntem öbeği",
@@ -4103,7 +4103,7 @@
   "rungs": [
    {
     "en": "Carbon emissions drive warming.",
-    "tr": "Karbon emisyonları ısınmayı tetikler (sürür).",
+    "tr": "Karbon emisyonları ısınmayı tetikler.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -4203,7 +4203,7 @@
   "rungs": [
    {
     "en": "Enzymes catalyze reactions.",
-    "tr": "Enzimler reaksiyonları katalize eder (hızlandırır).",
+    "tr": "Enzimler reaksiyonları katalize eder.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -4495,7 +4495,7 @@
   "rungs": [
    {
     "en": "The process isolates compounds.",
-    "tr": "Süreç bileşikleri ayrıştırır (izole eder).",
+    "tr": "Süreç bileşikleri ayrıştırır.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -4503,7 +4503,7 @@
    },
    {
     "en": "The extraction process successfully isolates chemical compounds.",
-    "tr": "Özütleme (ekstraksiyon) süreci, kimyasal bileşikleri başarıyla ayrıştırır.",
+    "tr": "Özütleme süreci, kimyasal bileşikleri başarıyla ayrıştırır.",
     "add": "extraction|successfully|chemical",
     "role": "obek",
     "label": "sıfat/zarf/sıfat",
@@ -4573,7 +4573,7 @@
    },
    {
     "en": "Worker bees accurately communicate floral locations inside the dark hive by performing a waggle dance.",
-    "tr": "İşçi arılar, sallantı dansı (waggle dance) yaparak karanlık kovanın içinde çiçeklerin konumlarını doğru bir şekilde iletir.",
+    "tr": "İşçi arılar, sallantı dansı yaparak karanlık kovanın içinde çiçeklerin konumlarını doğru bir şekilde iletir.",
     "add": "by performing a waggle dance",
     "role": "obek",
     "label": "yöntem öbeği",
@@ -4627,7 +4627,7 @@
    },
    {
     "en": "The newly developed vaccine quickly provides robust immunity against the virus, stimulating antibody production which neutralizes spikes.",
-    "tr": "Yeni geliştirilen aşı, başak proteinlerini (spikes) etkisiz hale getiren antikor üretimini uyararak virüse karşı güçlü bağışıklığı hızlıca sağlar.",
+    "tr": "Yeni geliştirilen aşı, başak proteinlerini etkisiz hale getiren antikor üretimini uyararak virüse karşı güçlü bağışıklığı hızlıca sağlar.",
     "add": "which neutralizes spikes",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -5531,7 +5531,7 @@
    },
    {
     "en": "Pure water continuously hydrates tired muscles.",
-    "tr": "Saf su yorulmuş kasları sürekli olarak hidre eder (nemlendirir).",
+    "tr": "Saf su yorulmuş kasları sürekli olarak hidre eder.",
     "add": "Pure|continuously|tired",
     "role": "obek",
     "label": "sıfat/zarf/sıfat",
@@ -5685,7 +5685,7 @@
    },
    {
     "en": "The diabetic patient strictly avoided processed sugars to stabilize insulin levels, which was recommended by his dietitian.",
-    "tr": "Diyabetik hasta, diyetisyeni tarafından önerilen insülin seviyelerini dengelemek için işlenmiş şekerlerden kesinlikle kaçındı.",
+    "tr": "Diyabetik hasta, insülin seviyelerini dengelemek için işlenmiş şekerlerden kesinlikle kaçındı; bunu diyetisyeni önermişti.",
     "add": ", which was recommended by his dietitian",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -5693,7 +5693,7 @@
    },
    {
     "en": "The diabetic patient strictly avoided processed sugars to stabilize insulin levels, which was recommended by his dietitian hoping to prevent further complications.",
-    "tr": "Diyabetik hasta, daha fazla komplikasyonu önlemeyi uman diyetisyeni tarafından önerilen insülin seviyelerini dengelemek için işlenmiş şekerlerden kesinlikle kaçındı.",
+    "tr": "Diyabetik hasta, insülin seviyelerini dengelemek için işlenmiş şekerlerden kesinlikle kaçındı; bunu, daha fazla komplikasyonu önlemeyi uman diyetisyeni önermişti.",
     "add": "hoping to prevent further complications",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -6835,7 +6835,7 @@
    },
    {
     "en": "Calcium deficiency gradually ruins delicate human bones by reducing bone mineral density, leading to osteoporosis.",
-    "tr": "Kalsiyum eksikliği, kemik mineral yoğunluğunu azaltarak kemik erimesine (osteoporoz) yol açıp narin insan kemiklerini kademeli olarak mahveder.",
+    "tr": "Kalsiyum eksikliği, kemik mineral yoğunluğunu azaltarak kemik erimesine yol açıp narin insan kemiklerini kademeli olarak mahveder.",
     "add": ", leading to osteoporosis",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -6843,7 +6843,7 @@
    },
    {
     "en": "Calcium deficiency gradually ruins delicate human bones by reducing bone mineral density, leading to osteoporosis which makes bones fragile.",
-    "tr": "Kalsiyum eksikliği, kemik mineral yoğunluğunu azaltarak kemiklerini kırılgan hale getiren kemik erimesine yol açıp narin insan kemiklerini kademeli olarak mahveder.",
+    "tr": "Kalsiyum eksikliği, kemik mineral yoğunluğunu azaltarak kemikleri kırılgan hale getiren kemik erimesine yol açıp narin insan kemiklerini kademeli olarak mahveder.",
     "add": "which makes bones fragile",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -7141,7 +7141,7 @@
    },
    {
     "en": "Vitamin deficiencies frequently trigger neurological disorders.",
-    "tr": "Vitamin eksiklikleri sıklıkla nörojolik bozuklukları tetikler.",
+    "tr": "Vitamin eksiklikleri sıklıkla nörolojik bozuklukları tetikler.",
     "add": "Vitamin|frequently|neurological",
     "role": "obek",
     "label": "sıfat/zarf/sıfat",
@@ -7248,15 +7248,15 @@
     "asks": "ne amaçla?"
    },
    {
-    "en": "The elderly patient underwent intensive physical treatment to recover from stroke, which was caused by high pressure.",
+    "en": "The elderly patient underwent intensive physical treatment to recover from stroke, which was caused by high blood pressure.",
     "tr": "Yaşlı hasta, yüksek tansiyon nedeniyle meydana gelen felçten iyileşmek için yoğun fiziksel tedavi gördü.",
-    "add": ", which was caused by high pressure",
+    "add": ", which was caused by high blood pressure",
     "role": "ilgi",
     "label": "ilgi cümlesi",
     "asks": "felç neden meydana gelmişti?"
    },
    {
-    "en": "The elderly patient underwent intensive physical treatment to recover from stroke, which was caused by high pressure, showing significant improvement daily.",
+    "en": "The elderly patient underwent intensive physical treatment to recover from stroke, which was caused by high blood pressure, showing significant improvement daily.",
     "tr": "Yaşlı hasta, her gün önemli bir iyileşme göstererek, yüksek tansiyon nedeniyle meydana gelen felçten iyileşmek için yoğun fiziksel tedavi gördü.",
     "add": ", showing significant improvement daily",
     "role": "ortac",
@@ -7295,7 +7295,7 @@
    },
    {
     "en": "Modern hospitals dramatically reduce transmission of infections by employing strict sterilization procedures that target superbugs.",
-    "tr": "Modern hastaneler, dirençli bakterileri (süper mikropları) hedef alan sıkı sterilizasyon prosedürleri uygulayarak enfeksiyonların bulaşmasını büyük ölçüde azaltıyor.",
+    "tr": "Modern hastaneler, dirençli bakterileri hedef alan sıkı sterilizasyon prosedürleri uygulayarak enfeksiyonların bulaşmasını büyük ölçüde azaltıyor.",
     "add": "that target superbugs",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -7739,7 +7739,7 @@
    },
    {
     "en": "Pure water quickly hydrates body cells.",
-    "tr": "Saf su vücut hücrelerini hızla hidre eder (nemlendirir).",
+    "tr": "Saf su vücut hücrelerini hızla hidre eder.",
     "add": "Pure|quickly|body",
     "role": "obek",
     "label": "sıfat/zarf",
@@ -8031,7 +8031,7 @@
    },
    {
     "en": "Elderly patients frequently experience extreme chronic fatigue during cancer treatment, which limits their daily activities.",
-    "tr": "Yaşlı hastalar, günlük aktivitelerini sınırlayan kanser tedavisi sırasında sıklıkla aşırı kronik halsizlik yaşar.",
+    "tr": "Yaşlı hastalar, kanser tedavisi sırasında sıklıkla günlük aktivitelerini sınırlayan aşırı kronik halsizlik yaşar.",
     "add": ", which limits their daily activities",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -8915,7 +8915,7 @@
    },
    {
     "en": "Ethical philosophers constantly debate moral duty in modern societies facing technological advancements, because new technologies create ethical dilemmas.",
-    "tr": "Bilişim ve yeni teknolojiler ahlaki çıkmazlar yarattığı için, etik filozofları teknolojik gelişmelerle karşı karşıya kalan modern toplumlarda ahlaki görevi sürekli tartışır.",
+    "tr": "Yeni teknolojiler ahlaki çıkmazlar yarattığı için, etik filozofları teknolojik gelişmelerle karşı karşıya kalan modern toplumlarda ahlaki görevi sürekli tartışır.",
     "add": "because new technologies create ethical dilemmas",
     "role": "baglac",
     "label": "sebep bağlacı",
@@ -9407,7 +9407,7 @@
    },
    {
     "en": "Rapid globalization inevitably impacts local cuisines in traditional societies, introducing fast food chains.",
-    "tr": "Hızlı küreselleşme, hazır yemek zincirlerini sokarak geleneksel toplumlardaki yerel mutfakları kaçınılmaz olarak etkiler.",
+    "tr": "Hızlı küreselleşme, fast food zincirlerini getirerek geleneksel toplumlardaki yerel mutfakları kaçınılmaz olarak etkiler.",
     "add": ", introducing fast food chains",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -9415,7 +9415,7 @@
    },
    {
     "en": "Rapid globalization inevitably impacts local cuisines in traditional societies, introducing fast food chains although people prefer organic meals.",
-    "tr": "İnsanlar organik yemekleri tercih etmesine rağmen, hızlı küreselleşme hazır yemek zincirlerini sokarak geleneksel toplumlardaki yerel mutfakları kaçınılmaz olarak etkiler.",
+    "tr": "İnsanlar organik yemekleri tercih etmesine rağmen, hızlı küreselleşme fast food zincirlerini getirerek geleneksel toplumlardaki yerel mutfakları kaçınılmaz olarak etkiler.",
     "add": "although people prefer organic meals",
     "role": "baglac",
     "label": "zıtlık bağlacı",
@@ -9423,7 +9423,7 @@
    },
    {
     "en": "Rapid globalization inevitably impacts local cuisines in traditional societies, introducing fast food chains although people prefer organic meals that are prepared at home.",
-    "tr": "İnsanlar evde hazırlanan organik yemekleri tercih etmesine rağmen, hızlı küreselleşme hazır yemek zincirlerini sokarak geleneksel toplumlardaki yerel mutfakları kaçınılmaz olarak etkiler.",
+    "tr": "İnsanlar evde hazırlanan organik yemekleri tercih etmesine rağmen, hızlı küreselleşme fast food zincirlerini getirerek geleneksel toplumlardaki yerel mutfakları kaçınılmaz olarak etkiler.",
     "add": "that are prepared at home",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -9683,7 +9683,7 @@
   "rungs": [
    {
     "en": "Influencers drive consumption.",
-    "tr": "Etkileyiciler (influencer) tüketimi yönlendirir.",
+    "tr": "Etkileyiciler tüketimi yönlendirir.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -9761,7 +9761,7 @@
    },
    {
     "en": "Government subsidies artificially boost agricultural production in rural areas, leading to market surpluses.",
-    "tr": "Devlet sübvansiyonları, kırsal bölgelerde tarımsal üretimi yapay olarak artırarak piyasa fazlasına yol açır.",
+    "tr": "Devlet sübvansiyonları, kırsal bölgelerde tarımsal üretimi yapay olarak artırarak piyasa fazlasına yol açar.",
     "add": ", leading to market surpluses",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -10098,15 +10098,15 @@
     "asks": ""
    },
    {
-    "en": "Thomas Hobbes pessimisticly described human life.",
+    "en": "Thomas Hobbes pessimistically described human life.",
     "tr": "Thomas Hobbes insan hayatını karamsar bir şekilde tanımladı.",
-    "add": "Thomas|pessimisticly|human",
+    "add": "Thomas|pessimistically|human",
     "role": "obek",
     "label": "sıfatlar ve zarf",
     "asks": "hangi Hobbes, nasıl ve ne hayatını?"
    },
    {
-    "en": "Thomas Hobbes pessimisticly described human life in the state of nature.",
+    "en": "Thomas Hobbes pessimistically described human life in the state of nature.",
     "tr": "Thomas Hobbes, doğa durumundaki insan hayatını karamsar bir şekilde tanımladı.",
     "add": "in the state of nature",
     "role": "obek",
@@ -10114,7 +10114,7 @@
     "asks": "neredeki hayatı?"
    },
    {
-    "en": "Thomas Hobbes pessimisticly described human life in the state of nature, calling it short and solitary.",
+    "en": "Thomas Hobbes pessimistically described human life in the state of nature, calling it short and solitary.",
     "tr": "Thomas Hobbes, doğa durumundaki insan hayatını kısa ve yalnız olarak nitelendirerek karamsar bir şekilde tanımladı.",
     "add": ", calling it short and solitary",
     "role": "ortac",
@@ -10122,7 +10122,7 @@
     "asks": "nasıl nitelendirerek?"
    },
    {
-    "en": "Thomas Hobbes pessimisticly described human life in the state of nature, calling it short and solitary because there was no central authority.",
+    "en": "Thomas Hobbes pessimistically described human life in the state of nature, calling it short and solitary because there was no central authority.",
     "tr": "Merkezi bir otorite olmadığı için Thomas Hobbes, doğa durumundaki insan hayatını kısa ve yalnız olarak nitelendirerek karamsar bir şekilde tanımladı.",
     "add": "because there was no central authority",
     "role": "baglac",
@@ -10745,7 +10745,7 @@
   "rungs": [
    {
     "en": "Bronze replaced stone.",
-    "tr": "Tunç (bronz) taşın yerini aldı.",
+    "tr": "Tunç taşın yerini aldı.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -11045,7 +11045,7 @@
   "rungs": [
    {
     "en": "Mindfulness lowers stress.",
-    "tr": "Bilinçli farkındalık (mindfulness) stresi azaltır.",
+    "tr": "Bilinçli farkındalık stresi azaltır.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -11245,7 +11245,7 @@
   "rungs": [
    {
     "en": "Outsourcing reduces costs.",
-    "tr": "Dış kaynak kullanımı (outsourcing) maliyetleri azaltır.",
+    "tr": "Dış kaynak kullanımı maliyetleri azaltır.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -11391,7 +11391,7 @@
   "rungs": [
    {
     "en": "Empiricists reject ideas.",
-    "tr": "Empiristler (deneyimciler) fikirleri reddeder.",
+    "tr": "Empiristler fikirleri reddeder.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -11407,7 +11407,7 @@
    },
    {
     "en": "Radical empiricists completely reject innate ideas in epistemological debates.",
-    "tr": "Radikal empiristler, epistemolojik (bilgi felsefesi) tartışmalarda doğuştan gelen fikirleri tamamen reddeder.",
+    "tr": "Radikal empiristler, epistemolojik tartışmalarda doğuştan gelen fikirleri tamamen reddeder.",
     "add": "in epistemological debates",
     "role": "obek",
     "label": "edat öbeği",
@@ -11415,7 +11415,7 @@
    },
    {
     "en": "Radical empiricists completely reject innate ideas in epistemological debates, arguing for a blank slate.",
-    "tr": "Epistemolojik tartışmalarda doğuştan gelen fikirleri tamamen reddeden radikal empiristler, zihnin boş bir levha (tabula rasa) olduğunu savunur.",
+    "tr": "Epistemolojik tartışmalarda doğuştan gelen fikirleri tamamen reddeden radikal empiristler, zihnin boş bir levha olduğunu savunur.",
     "add": ", arguing for a blank slate",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -11923,7 +11923,7 @@
    },
    {
     "en": "Loyal knights bravely defended royal castles during medieval wars, fighting with heavy swords because they swore oaths of loyalty.",
-    "tr": "Sadıklık yemini ettikleri için, sadık şövalyeler ağır kılıçlarla savaşarak Orta Çağ savaşları sırasında kraliyet kalelerini cesurca savundu.",
+    "tr": "Sadakat yemini ettikleri için, sadık şövalyeler ağır kılıçlarla savaşarak Orta Çağ savaşları sırasında kraliyet kalelerini cesurca savundu.",
     "add": "because they swore oaths of loyalty",
     "role": "baglac",
     "label": "sebep bağlacı",
@@ -11931,7 +11931,7 @@
    },
    {
     "en": "Loyal knights bravely defended royal castles during medieval wars, fighting with heavy swords because they swore oaths of loyalty that bound their families.",
-    "tr": "Ailelerini bağlayan sadıklık yemini ettikleri için, sadık şövalyeler ağır kılıçlarla savaşarak Orta Çağ savaşları sırasında kraliyet kalelerini cesurca savundu.",
+    "tr": "Ailelerini bağlayan sadakat yemini ettikleri için, sadık şövalyeler ağır kılıçlarla savaşarak Orta Çağ savaşları sırasında kraliyet kalelerini cesurca savundu.",
     "add": "that bound their families",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -12437,7 +12437,7 @@
   "rungs": [
    {
     "en": "Schools promote integration.",
-    "tr": "Okullar entegrasyonu (uyumu) teşvik eder.",
+    "tr": "Okullar entegrasyonu teşvik eder.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -12623,7 +12623,7 @@
    },
    {
     "en": "Chronic stress easily triggers severe insomnia in busy employees, disrupting their natural sleep cycle which regulates hormone levels.",
-    "tr": "Chronic stres, yoğun çalışanlarda ciddi uykusuzluğu kolayca tetikler ve hormon seviyelerini düzenleyen doğal uyku döngülerini bozar.",
+    "tr": "Kronik stres, yoğun çalışanlarda ciddi uykusuzluğu kolayca tetikler ve hormon seviyelerini düzenleyen doğal uyku döngülerini bozar.",
     "add": "which regulates hormone levels",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -12699,7 +12699,7 @@
    },
    {
     "en": "Primitive agriculture permanently altered natural landscapes.",
-    "tr": "Primitif (ilkel) tarım doğal arazileri kalıcı olarak değiştirdi.",
+    "tr": "Primitif tarım doğal arazileri kalıcı olarak değiştirdi.",
     "add": "Primitive|permanently|natural",
     "role": "obek",
     "label": "sıfatlar ve zarf",
@@ -12761,7 +12761,7 @@
    },
    {
     "en": "John Locke strongly defended natural human rights in political philosophy, arguing against divine monarchy.",
-    "tr": "John Locke, tanrısal krallığa (monarşiye) karşı argüman sunarak siyaset felsefesinde doğal insan haklarını güçlü bir şekilde savundu.",
+    "tr": "John Locke, tanrısal krallığa karşı argüman sunarak siyaset felsefesinde doğal insan haklarını güçlü bir şekilde savundu.",
     "add": ", arguing against divine monarchy",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -12937,7 +12937,7 @@
   "rungs": [
    {
     "en": "Algorithms bias information.",
-    "tr": "Algoritmalar bilgiyi taraflı hale getirir (yanıltır).",
+    "tr": "Algoritmalar bilgiyi taraflı hale getirir.",
     "add": "",
     "role": "omurga",
     "label": "çekirdek",
@@ -12961,7 +12961,7 @@
    },
    {
     "en": "Digital algorithms systemically bias online information in social networks, creating echo chambers.",
-    "tr": "Dijital algoritmalar, yankı odaları (echo chambers) yaratarak sosyal ağlarda çevrimiçi bilgiyi sistemli olarak taraflı hale getirir.",
+    "tr": "Dijital algoritmalar, yankı odaları yaratarak sosyal ağlarda çevrimiçi bilgiyi sistemli olarak taraflı hale getirir.",
     "add": ", creating echo chambers",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -13815,7 +13815,7 @@
    },
    {
     "en": "Rapid urbanization creates environmental challenges in developing countries that lack infrastructure because populations grow too fast, threatening local wildlife habitats.",
-    "tr": "Nüfuslar çok hızlı büyüdüğü için hızlı kentleşme; yerel vahşi yaşam alanlarını tehdit ederek, altyapısı eksik olan gelişmekte olan ülkelerde çevresel zorluklar yaratır.",
+    "tr": "Nüfuslar çok hızlı büyüdüğü için hızlı kentleşme, yerel vahşi yaşam alanlarını tehdit ederek altyapısı eksik olan gelişmekte olan ülkelerde çevresel zorluklar yaratır.",
     "add": ", threatening local wildlife habitats",
     "role": "ortac",
     "label": "ortaç öbeği (active participle)",
@@ -13861,7 +13861,7 @@
    },
    {
     "en": "Last month, astronomers detected unusual signals from deep space that originated from a galaxy, sparking debates on alien life.",
-    "tr": "Geçen ay gökbilimciler, derin uzaydan bir galaksiden kaynaklanan olağan dışı sinyaller tespit ederek dış dünyadaki yaşam tartışmalarını alevlendirdi.",
+    "tr": "Geçen ay gökbilimciler, derin uzaydan bir galaksiden kaynaklanan olağan dışı sinyaller tespit ederek dünya dışı yaşam tartışmalarını alevlendirdi.",
     "add": ", sparking debates on alien life",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -14107,7 +14107,7 @@
    },
    {
     "en": "Health experts recommend a balanced diet to prevent heart disease which is the leading cause of death.",
-    "tr": "Sağlık uzmanları, baş ölüm nedeni olan kalp hastalığını önlemek için dengeli bir diyet öneriyor.",
+    "tr": "Sağlık uzmanları, önde gelen ölüm nedeni olan kalp hastalığını önlemek için dengeli bir diyet öneriyor.",
     "add": "which is the leading cause of death",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -14115,7 +14115,7 @@
    },
    {
     "en": "Health experts strongly recommend a balanced diet to prevent heart disease which is the leading cause of death, especially for individuals over fifty.",
-    "tr": "Sağlık uzmanları, özellikle elli yaşın üzerindeki bireyler için baş ölüm nedeni olan kalp hastalığını önlemek için dengeli bir diyeti şiddetle öneriyor.",
+    "tr": "Sağlık uzmanları, özellikle elli yaşın üzerindeki bireyler için önde gelen ölüm nedeni olan kalp hastalığını önlemek için dengeli bir diyeti şiddetle öneriyor.",
     "add": "strongly|, especially for individuals over fifty",
     "role": "obek",
     "label": "zarf ve hedef kitle öbeği",
@@ -14161,7 +14161,7 @@
    },
    {
     "en": "Tiny microplastics slowly contaminate oceans worldwide, threatening marine life because plastic waste degrades slowly.",
-    "tr": "Plastik atıklar yavaşça çözündüğü için minik mikroplastikler, deniz yaşamını tehdit ederek dünya çapındaki okyanusları yavaşça kirletiyor.",
+    "tr": "Plastik atıklar yavaş bozunduğu için minik mikroplastikler, deniz yaşamını tehdit ederek dünya çapındaki okyanusları yavaşça kirletiyor.",
     "add": "because plastic waste degrades slowly",
     "role": "baglac",
     "label": "sebep bağlacı",
@@ -14169,11 +14169,11 @@
    },
    {
     "en": "Tiny microplastics slowly contaminate oceans worldwide, threatening marine life because plastic waste degrades slowly, which worries researchers immensely.",
-    "tr": "Plastik atıklar yavaşça çözündüğü için minik mikroplastikler, deniz yaşamını tehdit ederek dünya çapındaki okyanusları yavaşça kirletiyor; bu da araştırmacıları son derece endişelendiriyor.",
+    "tr": "Plastik atıklar yavaş bozunduğu için minik mikroplastikler, deniz yaşamını tehdit ederek dünya çapındaki okyanusları yavaşça kirletiyor; bu da araştırmacıları son derece endişelendiriyor.",
     "add": ", which worries researchers immensely",
     "role": "ilgi",
     "label": "ilgi cümlesi",
-    "asks": "bu yavaş çözünme ve kirlilik neye sebep oluyor?"
+    "asks": "bu yavaş bozunma ve kirlilik neye sebep oluyor?"
    }
   ]
  },
@@ -14615,7 +14615,7 @@
    },
    {
     "en": "Although he was short on time, the Italian chef prepared a traditional dish with fresh ingredients gathered from local farms, impressing the food critics.",
-    "tr": "Zamanı kısıtlı olmasına rağmen İtalyan şef, gurmeleri etkileyerek yerel çiftliklerden toplanan taze malzemelerle geleneksel bir yemek hazırladı.",
+    "tr": "Zamanı kısıtlı olmasına rağmen İtalyan şef, yemek eleştirmenlerini etkileyerek yerel çiftliklerden toplanan taze malzemelerle geleneksel bir yemek hazırladı.",
     "add": "Although he was short on time,|, impressing the food critics",
     "role": "baglac",
     "label": "zıtlık bağlacı ve ortaç öbeği",
@@ -14761,7 +14761,7 @@
    },
    {
     "en": "Regular meditation reduces chronic anxiety in busy professionals working under pressure, which improves their overall health.",
-    "tr": "Düzenli meditasyon, genel sağlıklarını iyileştirecek şekilde baskı altında çalışan yoğun profesyonellerde kronik kaygıyı azaltır.",
+    "tr": "Düzenli meditasyon, baskı altında çalışan yoğun profesyonellerde kronik kaygıyı azaltır; bu da genel sağlıklarını iyileştirir.",
     "add": ", which improves their overall health",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -14769,7 +14769,7 @@
    },
    {
     "en": "When practiced daily, regular meditation reduces chronic anxiety in busy professionals working under pressure, which improves their overall health.",
-    "tr": "Günlük olarak uygulandığında düzenli meditasyon, genel sağlıklarını iyileştirecek şekilde baskı altında çalışan yoğun profesyonellerde kronik kaygıyı azaltır.",
+    "tr": "Günlük olarak uygulandığında düzenli meditasyon, baskı altında çalışan yoğun profesyonellerde kronik kaygıyı azaltır; bu da genel sağlıklarını iyileştirir.",
     "add": "When practiced daily,",
     "role": "ortac",
     "label": "ortaç öbeği (when reduced passive)",
@@ -14898,15 +14898,15 @@
     "asks": "nasıl dedektif, ne gizemini?"
    },
    {
-    "en": "The clever detective solved the murder mystery by analyzing finger prints.",
+    "en": "The clever detective solved the murder mystery by analyzing fingerprints.",
     "tr": "Zeki dedektif, parmak izlerini analiz ederek cinayet gizemini çözdü.",
-    "add": "by analyzing finger prints",
+    "add": "by analyzing fingerprints",
     "role": "obek",
     "label": "yöntem öbeği",
     "asks": "nasıl çözdü?"
    },
    {
-    "en": "The clever detective solved the murder mystery by analyzing finger prints that were left at the scene.",
+    "en": "The clever detective solved the murder mystery by analyzing fingerprints that were left at the scene.",
     "tr": "Zeki dedektif, olay yerinde bırakılan parmak izlerini analiz ederek cinayet gizemini çözdü.",
     "add": "that were left at the scene",
     "role": "ilgi",
@@ -14914,7 +14914,7 @@
     "asks": "hangi parmak izlerini?"
    },
    {
-    "en": "Although there were no witnesses, the clever detective solved the murder mystery by analyzing finger prints that were left at the scene.",
+    "en": "Although there were no witnesses, the clever detective solved the murder mystery by analyzing fingerprints that were left at the scene.",
     "tr": "Hiç tanık olmamasına rağmen, zeki dedektif olay yerinde bırakılan parmak izlerini analiz ederek cinayet gizemini çözdü.",
     "add": "Although there were no witnesses,",
     "role": "baglac",
@@ -16165,7 +16165,7 @@
    },
    {
     "en": "Marine biologists recently discovered a rare species living in deep ocean trenches that are completely dark, adapting to extreme atmospheric pressure.",
-    "tr": "Deniz biyologları, aşırı atmosferik basınca uyum sağlayarak, tamamen karanlık olan derin okyanus çukurlarında yaşayan nadir bir tür keşfetti.",
+    "tr": "Deniz biyologları yakın zamanda, aşırı atmosferik basınca uyum sağlamış, tamamen karanlık olan derin okyanus çukurlarında yaşayan nadir bir tür keşfetti.",
     "add": ", adapting to extreme atmospheric pressure",
     "role": "ortac",
     "label": "ortaç öbeği",
@@ -16663,7 +16663,7 @@
    },
    {
     "en": "Local organizations actively protect endangered wildlife by establishing conservation reserves that prevent human encroachment.",
-    "tr": "Yerel kuruluşlar, insan tecavüzünü engelleyen koruma rezervleri kurarak tehlike altındaki yaban hayatını aktif olarak koruyor.",
+    "tr": "Yerel kuruluşlar, insan müdahalesini engelleyen koruma rezervleri kurarak tehlike altındaki yaban hayatını aktif olarak koruyor.",
     "add": "that prevent human encroachment",
     "role": "ilgi",
     "label": "ilgi cümlesi",
@@ -16671,7 +16671,7 @@
    },
    {
     "en": "Local organizations actively protect endangered wildlife by establishing conservation reserves that prevent human encroachment, which ensures long-term survival of species.",
-    "tr": "Yerel kuruluşlar, insan tecavüzünü engelleyen koruma rezervleri kurarak tehlike altındaki yaban hayatını aktif olarak koruyor; bu da türlerin uzun vadede hayatta kalmasını sağlıyor.",
+    "tr": "Yerel kuruluşlar, insan müdahalesini engelleyen koruma rezervleri kurarak tehlike altındaki yaban hayatını aktif olarak koruyor; bu da türlerin uzun vadede hayatta kalmasını sağlıyor.",
     "add": ", which ensures long-term survival of species",
     "role": "ilgi",
     "label": "ilgi cümlesi",

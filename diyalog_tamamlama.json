@@ -180,7 +180,7 @@
     "d_konu": "I used to play soccer for my university's official team.",
     "d_akis": "Sure, here is the original copy of my diploma right now.",
     "d_uslup": "Why do you even need that? My skills are obvious enough without a piece of paper.",
-    "tr": "İK Yöneticisi: Firmamıza hoş geldiniz. İşe alımınızı tamamlamak için diplomanızın bir kopyasına ihtiyacımız var.\nYeni Çalışan: Henüz resmen mezun olmadım ama önümüzdeki hafta geçici mezuniyet belgemi alacağım.\nİK Yöneticisi: Bu hiç sorun olmaz. Alır almaz bize e-posta ile gönderin.",
+    "tr": "İK Yöneticisi: Firmamıza hoş geldiniz. İşe alımınızı tamamlamak için diplomanızın bir kopyasına ihtiyacımız var.\nYeni Çalışan: Henüz resmen mezun olmadım ama önümüzdeki hafta mezuniyet belgemi alacağım.\nİK Yöneticisi: Bu hiç sorun olmaz. Alır almaz bize e-posta ile gönderin.",
     "why": "İK yöneticisinin 'Bu hiç sorun olmaz... alır almaz gönderin' şeklindeki yapıcı yanıtı, çalışanın diplomayı hemen teslim edemediğini ve makul bir gecikme gerekçesi sunduğunu gösterir. Konu-dışı çeldirici üniversitede futbol oynamaktan bahseder. Akış çeldiricisi diplomanın zaten yanlarında olduğunu söylediği için yöneticinin 'alır almaz gönderin' demesini anlamsız kılar. Üslup çeldiricisi ise şirketin resmi talebini sorgulayan kaba bir tondadır."
   },
   {
@@ -940,7 +940,7 @@
     "d_akis": "I believe the satellite data is completely self-explanatory and does not require further elaboration.",
     "d_uslup": "It is of the utmost importance that we respect the pre-established page limits of the academic journal.",
     "tr": "Profesör: Alpler'deki buzul erime modelleri üzerine hazırladığın taslak iyi araştırılmış, ancak metodoloji bölümün uydu görüntülerinin kalibrasyonu konusunda detaydan yoksun.\nÖğrenci: Radyometrik kalibrasyon sürecini ve kullanılan belirli yazılım sürümlerini detaylandıran bir ek ekleyebilirim.\nProfesör: Bu ideal olur. Atmosferik bozulmayı hesaba katmak için tam olarak hangi algoritmaları kullandığını belirtmen çok önemlidir.",
-    "why": "Öğrencinin kalibrasyon sürecini detaylandıran bir ek ekleme teklifi, profesörün 'Bu ideal olur. Algoritmaları belirtmen önemlidir' cevabıyla mükemmel bir mantıksal akış oluşturur. Konu-dışı çeldirici buzul erimesi yerine Alpine bitki örtüsü ve turizme odaklanarak aynı genel coğrafyada kalsa da konunun odağını kaçırır. Akış çeldiricisi detaya gerek olmadığını savunarak profesörün detay talebini reddeder ve akışı bozar. Üslup çeldiricisi ise saygılı olsa da sayfa sınırlarından bahseden, profesörün metodoloji sorusuna cevap vermeyen kaçamak bir ifadedir."
+    "why": "Öğrencinin kalibrasyon sürecini detaylandıran bir ek ekleme teklifi, profesörün 'Bu ideal olur. Algoritmaları belirtmen önemlidir' cevabıyla mükemmel bir mantıksal akış oluşturur. Konu-dışı çeldirici buzul erimesi yerine Alp bitki örtüsü ve turizme odaklanarak aynı genel coğrafyada kalsa da konunun odağını kaçırır. Akış çeldiricisi detaya gerek olmadığını savunarak profesörün detay talebini reddeder ve akışı bozar. Üslup çeldiricisi ise saygılı olsa da sayfa sınırlarından bahseden, profesörün metodoloji sorusuna cevap vermeyen kaçamak bir ifadedir."
   },
   {
     "id": "dt042",
@@ -1031,7 +1031,7 @@
     "d_konu": "This technique could significantly increase the agricultural yield in regions affected by global warming.",
     "d_akis": "I am fully confident that there are absolutely no ecological risks associated with this method.",
     "d_uslup": "Scientific advancements must always be evaluated through a comprehensive multidimensional bioethical framework.",
-    "tr": "Genetikçi: Bitkinin kuraklığa karşı savunmasızlığından sorumlu olan geni hedeflemek ve susturmak için CRISPR'ı başarıyla kullandık.\nEtik Uzmanı: Benim temel endişem, bu genetiği değiştirilmiş genlerin yakındaki ekosistemlerdeki vahşi akrabalarına yayılma potansiyelidir.\nGenetikçi: Bu haklı bir endişe, bu yüzden denemelerimizi kesinlikle izole edilmiş seralarda yürütüyoruz.",
+    "tr": "Genetikçi: Bitkinin kuraklığa karşı savunmasızlığından sorumlu olan geni hedeflemek ve susturmak için CRISPR'ı başarıyla kullandık.\nEtik Uzmanı: Benim temel endişem, bu değiştirilmiş genlerin yakındaki ekosistemlerdeki vahşi akrabalarına yayılma potansiyelidir.\nGenetikçi: Bu haklı bir endişe, bu yüzden denemelerimizi kesinlikle izole edilmiş seralarda yürütüyoruz.",
     "why": "Genetikçinin 'Bu haklı bir endişe, bu yüzden izole seralarda çalışıyoruz' yanıtı, etik uzmanının genlerin doğaya yayılma riskine yönelik endişesini karşılar. Konu-dışı çeldirici tarımsal verimin artması gibi olumlu bir yönü vurgulayarak etik endişeden uzaklaşır. Akış çeldiricisi hiçbir risk olmadığını söyleyerek genetikçinin koruma önlemlerinden bahsetmesini anlamsızlaştırır. Üslup çeldiricisi ise pratik bir endişe belirtmeyen, felsefi ve kaçamak bir cümledir."
   },
   {
@@ -1418,11 +1418,11 @@
         "line": "I appreciate your quick response. I will check my inbox for that confirmation email."
       }
     ],
-    "correct": "Let me check your account. If the cancellation was processed, we will issue a full refund immediately.",
+    "correct": "Let me check your account. If the cancellation was processed, we will issue a full refund immediately and email you a confirmation.",
     "d_konu": "Our company is planning to launch a new mobile application for our subscribers next quarter.",
     "d_akis": "Our system shows that you are still actively using our premium features every single day.",
     "d_uslup": "Subscription cancellations are subject to the terms and conditions outlined in section four of our policy.",
-    "tr": "Abone: Bugün hesap özetimde bir ücret fark ettim, ancak geçen ay aboneliğimi iptal etmiştim.\nDestek Temsilcisi: Hesabınızı kontrol etmeme izin verin. İptal işlemi gerçekleştirildiyse hemen tam bir para iadesi yapacağız.\nAbone: Hızlı yanıtınız için teşekkür ederim. Onay e-postası için gelen kutumu kontrol edeceğim.",
+    "tr": "Abone: Bugün hesap özetimde bir ücret fark ettim, ancak geçen ay aboneliğimi iptal etmiştim.\nDestek Temsilcisi: Hesabınızı kontrol etmeme izin verin. İptal işlemi gerçekleştirildiyse hemen tam bir para iadesi yapacağız ve size bir onay e-postası göndereceğiz.\nAbone: Hızlı yanıtınız için teşekkür ederim. Onay e-postası için gelen kutumu kontrol edeceğim.",
     "why": "Abonenin 'Hızlı yanıtınız için teşekkür ederim. Onay e-postası için gelen kutumu kontrol edeceğim' demesi, temsilcinin hesabı kontrol edeceğine ve iade/iptal onayı göndereceğine yönelik yapıcı cevabını doğrular. Konu-dışı çeldirici mobil uygulama geliştirme planlarından bahseder. Akış çeldiricisi abonenin hizmeti hala her gün kullandığını iddia ederek tartışmacı bir akış yaratır. Üslup çeldiricisi ise sözleşmenin maddelerine atıfta bulunan aşırı resmi, mesafeli ve kaçamak bir şıktır."
   },
   {
@@ -1579,11 +1579,11 @@
         "line": "Of course. I will fill out the online form and have my professor sign the authorization letter tonight."
       }
     ],
-    "correct": "Those materials are restricted, so you will need to submit a formal request signed by your advisor.",
+    "correct": "Those materials are restricted, so you will need to submit a formal online request signed by your advisor.",
     "d_konu": "The library has recently digitized several modern economic journals from the early nineties.",
     "d_akis": "You can just go up to the third floor; all rare manuscripts are openly displayed on the shelves.",
     "d_uslup": "The preservation of historical parchment requires strict humidity controls in our designated vaults.",
-    "tr": "Öğrenci: Orta Çağ ticaret yolları üzerine bir makale yazıyorum ve nadir el yazmaları koleksiyonuna erişmem gerekiyor.\nArşiv Sorumlusu: Bu materyaller kısıtlıdır, bu nedenle danışmanınız tarafından imzalanmış resmi bir talep sunmanız gerekecektir.\nÖğrenci: Tabii ki. Çevrim içi formu dolduracağım ve bu gece profesörüme yetki mektubunu imzalatacağım.",
+    "tr": "Öğrenci: Orta Çağ ticaret yolları üzerine bir makale yazıyorum ve nadir el yazmaları koleksiyonuna erişmem gerekiyor.\nArşiv Sorumlusu: Bu materyaller kısıtlıdır, bu nedenle danışmanınız tarafından imzalanmış resmi bir çevrim içi talep sunmanız gerekecektir.\nÖğrenci: Tabii ki. Çevrim içi formu dolduracağım ve bu gece profesörüme yetki mektubunu imzalatacağım.",
     "why": "Öğrencinin 'profesörüme yetki mektubunu imzalatacağım' sözü, arşivcinin danışman imzalı resmi talep ('request signed by your advisor') şartı koştuğunu kanıtlar. Konu-dışı çeldirici modern ekonomi dergilerinin dijitalleşmesine odaklanır. Akış çeldiricisi nadir eserlerin raflarda açıkça sergilendiğini iddia ederek kütüphane güvenlik kurallarıyla çelişir. Üslup çeldiricisi ise eser koruma nem ayarlarını anlatan kaçamak ve erişim iznine değinmeyen resmi bir şıktır."
   },
   {
@@ -1629,8 +1629,8 @@
     "d_konu": "Please make sure you submit your receipts for the business trip expenses by Friday.",
     "d_akis": "Unfortunately, all personal leave requests are permanently suspended for the rest of the year.",
     "d_uslup": "Organizational regulations require all leave requests to be documented through the centralized portal.",
-    "tr": "Çalışan: Önümüzdeki ay kız kardeşimin yurt dışındaki düğününe katılmak için bir haftalık şahsi izin talep etmek istiyorum.\nİK Uzmanı: Mevcut projelerinizi yürütmek için ekibinizle koordine olduğunuz sürece bu bir sorun olmamalıdır.\nÇalışan: Paylaşılan takipçiyi zaten güncelledim ve acil görevlerimi David'e devrettim.",
-    "why": "Çalışanın 'takipçiyi güncelledim ve işleri David'e devrettim' diyerek iş güvencesi sunması, İK uzmanının 'ekiple koordine olma' ('coordinate with your team') şartı koştuğunu kanıtlar. Konu-dışı çeldirici seyahat gider makbuzlarının teslimiyle ilgilidir. Akış çeldiricisi izinlerin tamamen askıya alındığını söyleyerek çalışanın yapıcı hazırlık açıklamasını anlamsızlaştırır. Üslup çeldiricisi ise izinlerin portal üzerinden girilmesi kuralını hatırlatan ama izin onay şartına değinmeyen kaçamak resmi bir şıktır."
+    "tr": "Çalışan: Önümüzdeki ay kız kardeşimin yurt dışındaki düğününe katılmak için bir haftalık şahsi izin talep etmek istiyorum.\nİK Uzmanı: Mevcut projelerinizi yürütmek için ekibinizle koordine olduğunuz sürece bu bir sorun olmamalıdır.\nÇalışan: Paylaşılan takip tablosunu zaten güncelledim ve acil görevlerimi David'e devrettim.",
+    "why": "Çalışanın 'takip tablosunu güncelledim ve işleri David'e devrettim' diyerek iş güvencesi sunması, İK uzmanının 'ekiple koordine olma' ('coordinate with your team') şartı koştuğunu kanıtlar. Konu-dışı çeldirici seyahat gider makbuzlarının teslimiyle ilgilidir. Akış çeldiricisi izinlerin tamamen askıya alındığını söyleyerek çalışanın yapıcı hazırlık açıklamasını anlamsızlaştırır. Üslup çeldiricisi ise izinlerin portal üzerinden girilmesi kuralını hatırlatan ama izin onay şartına değinmeyen kaçamak resmi bir şıktır."
   },
   {
     "id": "dt072",
@@ -1721,8 +1721,8 @@
     "d_konu": "Golden retrievers are known to be highly active dogs that require daily exercise.",
     "d_akis": "Don't worry, dogs naturally scratch their ears and it will heal on its own without treatment.",
     "d_uslup": "Otitis externa anomalies in canine patients frequently present diverse dermatological symptoms.",
-    "tr": "Evcil Hayvan Sahibi: Golden retriever cinsi köpeğim sürekli kulaklarını kaşıyor ve içindeki deri oldukça kırmızı görünüyor.\nVeteriner: Bu bir maya enfeksiyonu veya gıda alerjisi olabilir, bu yüzden kulak sürüntü testi yapmalıyız.\nHasta Sahibi: Anlıyorum. Yarın sabah onu getireceğim, böylece mikroskop altında inceleyebilirsiniz.",
-    "why": "Hasta sahibinin 'Yarın sabah getireceğim, mikroskop altında inceleyebilirsiniz' cevabı, veterinerin bir test veya sürüntü ('ear swab test') önerdiğini doğrular. Konu-dışı çeldirici golden retriever köpeklerin egzersiz ihtiyacına odaklanır. Akış çeldiricisi kulak kaşıntısının doğal olduğunu ve kendiliğinden geçeceğini söyleyerek kliniğe gelme ihtiyacını ortadan kaldırır. Üslup çeldiricisi ise hastalığı latince/tıbbi terimlerle tanımlayan ama test önermeyen kaçamak resmi bir şıktır."
+    "tr": "Evcil Hayvan Sahibi: Golden retriever cinsi köpeğim sürekli kulaklarını kaşıyor ve içindeki deri oldukça kırmızı görünüyor.\nVeteriner: Bu bir maya enfeksiyonu veya gıda alerjisi olabilir, bu yüzden kulak sürüntü testi yapmalıyız.\nEvcil Hayvan Sahibi: Anlıyorum. Yarın sabah onu getireceğim, böylece mikroskop altında inceleyebilirsiniz.",
+    "why": "Evcil hayvan sahibinin 'Yarın sabah getireceğim, mikroskop altında inceleyebilirsiniz' cevabı, veterinerin bir test veya sürüntü ('ear swab test') önerdiğini doğrular. Konu-dışı çeldirici golden retriever köpeklerin egzersiz ihtiyacına odaklanır. Akış çeldiricisi kulak kaşıntısının doğal olduğunu ve kendiliğinden geçeceğini söyleyerek kliniğe gelme ihtiyacını ortadan kaldırır. Üslup çeldiricisi ise hastalığı latince/tıbbi terimlerle tanımlayan ama test önermeyen kaçamak resmi bir şıktır."
   },
   {
     "id": "dt076",
@@ -1882,7 +1882,7 @@
     "d_konu": "Bilingual children often demonstrate a higher capacity to switch between different social contexts.",
     "d_akis": "I think measuring cognitive flexibility is unnecessary since our main focus is on vocabulary acquisition.",
     "d_uslup": "Cognitive flexibility, as defined by contemporary cognitive psychologists, is a highly multifaceted construct.",
-    "tr": "Profesör: İki dilli çocuklar üzerindeki karşılaştırmalı çalışmanız etkileyici, ancak bilişsel esnekliği nasıl ölçtüğünüzü netleştirmeniz gerekiyor.\nAraştırmacı: Yönetici işlevlerini nicelleştirmek için Boyutsal Değişim Kart Eşleme görevini kullanmayı planlıyorum.\nProfesör: Bu son derece uygun olur. Kurulmuş standart testleri kullanmak metodolojinizi önemli ölçüde güçlendirecektir.",
+    "tr": "Profesör: İki dilli çocuklar üzerindeki karşılaştırmalı çalışmanız etkileyici, ancak bilişsel esnekliği nasıl ölçtüğünüzü netleştirmeniz gerekiyor.\nAraştırmacı: Yönetici işlevlerini nicelleştirmek için Boyutsal Değişim Kart Sıralama görevini kullanmayı planlıyorum.\nProfesör: Bu son derece uygun olur. Kurulmuş standart testleri kullanmak metodolojinizi önemli ölçüde güçlendirecektir.",
     "why": "Profesörün 'standart testleri kullanmak faydalı olur' demesi, araştırmacının bilişsel ölçüm için standart bir test (Boyutsal Değişim Kart Eşleme) önerdiğini gösterir. Konu-dışı çeldirici çocukların sosyal yeteneklerinden bahseder. Akış çeldiricisi ölçümü gereksiz bularak profesörün metodolojik talebini reddeder ve akışı bozar. Üslup çeldiricisi ise sadece bilişsel esnekliğin tanımını yapan aşırı teorik ve kaçamak bir ifadedir."
   },
   {
@@ -1936,7 +1936,7 @@
     "dialogue": [
       {
         "speaker": "Astronomer",
-        "line": "The light curve of this distant star shows periodic dimming that cannot be explained by an orbiting exoplanet alone."
+        "line": "The light curve of this distant star shows irregular dimming that cannot be explained by an orbiting exoplanet alone."
       },
       {
         "speaker": "Astrophysicist",
@@ -1951,7 +1951,7 @@
     "d_konu": "We have secured three more nights of observation time at the Mauna Kea observatory.",
     "d_akis": "It is definitely a standard gas giant planet, we just need to recalibrate our telescopes.",
     "d_uslup": "Anomalous light variations in stellar observations warrant meticulous and prolonged academic investigation.",
-    "tr": "Gökbilimci: Bu uzak yıldızın ışık eğrisi, yalnızca yörüngedeki bir ötegezegenle açıklanamayacak periyodik kararmalar gösteriyor.\nAstrofizikçi: Bu durum, yakın zamanda gerçekleşen bir gezegen çarpışmasından geriye kalan yoğun bir toz ve enkaz halkası olabilir mi?\nGökbilimci: Bu son derece akla yatkın. Yıldız çevresindeki yoğun bir toz bulutu, ışığı tam olarak bu düzensiz kalıpta engelleyecektir.",
+    "tr": "Gökbilimci: Bu uzak yıldızın ışık eğrisi, yalnızca yörüngedeki bir ötegezegenle açıklanamayacak düzensiz kararmalar gösteriyor.\nAstrofizikçi: Bu durum, yakın zamanda gerçekleşen bir gezegen çarpışmasından geriye kalan yoğun bir toz ve enkaz halkası olabilir mi?\nGökbilimci: Bu son derece akla yatkın. Yıldız çevresindeki yoğun bir toz bulutu, ışığı tam olarak bu düzensiz kalıpta engelleyecektir.",
     "why": "Gökbilimcinin 'Yıldız çevresindeki toz bulutu ışığı engeller' cevabı, astrofizikçinin toz veya enkaz halkası alternatifi üzerinde durduğunu gösterir. Konu-dışı çeldirici gözlemevinden ek süre almaktan bahseder. Akış çeldiricisi kararmayı doğrudan standart bir gaza dayandırarak gökbilimcinin ilk tespitiyle çelişir. Üslup çeldiricisi ise ölçümlerin detaylı incelenmesi gerektiğini söyleyen kaçamak ve aşırı resmi bir tondadır."
   },
   {
@@ -1974,7 +1974,7 @@
     "d_konu": "The yellow-legged frog is known to hibernate underwater during the coldest winter months.",
     "d_akis": "We must focus our efforts on breeding more frogs in captivity to release them later.",
     "d_uslup": "The preservation of endemic amphibian species is a paramount duty of conservation agencies globally.",
-    "tr": "Ekolog: Yerli olmayan alabalık türlerinin bölgeye getirilmesi, yerli sarı bacaklı kurbağa popülasyonunu ciddi şekilde tehdit etti.\nPark Korucusu: Alabalıkları ana üreme göllerinden temizlemek için fiziksel ağ kurma ve elektro-balıkçılık yeterli olur mu?\nEkolog: Bu son derece etkili olur. Alabalıkların o izole yüksek dağ göllerinden uzaklaştırılması diğer parklarda işe yaradı.",
+    "tr": "Ekolog: Yerli olmayan alabalık türlerinin bölgeye getirilmesi, yerli sarı bacaklı kurbağa popülasyonunu ciddi şekilde tehdit etti.\nPark Korucusu: Alabalıkları ana üreme göllerinden temizlemek için ağlarla avlama ve elektrikle balık avlama yöntemleri yeterli olur mu?\nEkolog: Bu son derece etkili olur. Alabalıkların o izole yüksek dağ göllerinden uzaklaştırılması diğer parklarda işe yaradı.",
     "why": "Ekoloğun 'Alabalıkların göllerden uzaklaştırılması diğer parklarda işe yaradı' demesi, korucunun alabalıkları temizlemeye yönelik aktif bir yöntem (ağ veya elektrikle avlama) önerdiğini doğrular. Konu-dışı çeldirici kurbağanın kış uykusu alışkanlığından bahseder. Akış çeldiricisi alabalık yerine kurbağa üretimine odaklanmayı önerdiği için temizleme vurgusuyla uyuşmaz. Üslup çeldiricisi ise koruma sorumluluğuna değinen aşırı resmi ve eylemsiz bir tondadır."
   },
   {
@@ -2020,7 +2020,7 @@
     "d_konu": "Many local wildlife species in the Arctic are migrating south to escape the changing climate.",
     "d_akis": "Fortunately, methane is quickly broken down by sunlight, neutralizing its greenhouse effect.",
     "d_uslup": "The chemical composition of gases emitted from cryogenic soils is subject to change.",
-    "tr": "İklimbilimci: Arktik permafrostun (donmuş toprak) erimesi, atmosfere büyük miktarlarda metan salıyor.\nJeokimyager: Bu da atmosferde daha fazla ısı tutulmasına yol açarak erimeyi daha da hızlandırıyor.\nİklimbilimci: Kesinlikle. Bu olumlu geri besleme döngüsü, ısınma eğiliminin kendi kendini besleyen bir hale geleceği anlamına geliyor.",
+    "tr": "İklimbilimci: Arktik permafrostun (donmuş toprak) erimesi, atmosfere büyük miktarlarda metan salıyor.\nJeokimyacı: Bu da atmosferde daha fazla ısı tutulmasına yol açarak erimeyi daha da hızlandırıyor.\nİklimbilimci: Kesinlikle. Bu olumlu geri besleme döngüsü, ısınma eğiliminin kendi kendini besleyen bir hale geleceği anlamına geliyor.",
     "why": "İklimbilimcinin 'Bu olumlu geri besleme döngüsü...' şeklinde onaylaması, kimyagerin erimenin erimeyi tetiklediği döngüsel bir süreci (metanın ısı tutması ve erimeyi hızlandırması) açıkladığını gösterir. Konu-dışı çeldirici yaban hayatının göçünden bahseder. Akış çeldiricisi metanın etkisiz hale geldiğini savunarak ısınma döngüsü ve iklimcinin teziyle tamamen çelişir. Üslup çeldiricisi ise gazların yapısının değişebileceğini söyleyen çok belirsiz ve kaçamak bir akademik ifadedir."
   },
   {
@@ -2549,7 +2549,7 @@
     "d_konu": "I spent several years living in France and speak fluent conversational French.",
     "d_akis": "Actually, I get extremely homesick and prefer to stay in my hometown as much as possible.",
     "d_uslup": "International mobility represents a highly compelling vector for contemporary career progression.",
-    "tr": "İK İşe Alım Sorumlusu: Bu rol, uluslararası ofislerimize genellikle çok kısa sürede geniş kapsamlı seyahatler gerektiriyor. Bu size uygun mu?\nAday: Evet, geçerli bir pasaportum var ve esnekliğimi sınırlayacak kişisel bir yükümlülüğüm bulunmuyor.\nİK Sorumlusu: Bu harika. Küresel müşterilerimiz genellikle sorunları çözmek için acil yerinde danışmanlık talep ediyorlar.",
+    "tr": "İK İşe Alım Sorumlusu: Bu rol, uluslararası ofislerimize genellikle çok kısa sürede geniş kapsamlı seyahatler gerektiriyor. Bu size uygun mu?\nAday: Evet, geçerli bir pasaportum var ve esnekliğimi sınırlayacak kişisel bir yükümlülüğüm bulunmuyor.\nİK İşe Alım Sorumlusu: Bu harika. Küresel müşterilerimiz genellikle sorunları çözmek için acil yerinde danışmanlık talep ediyorlar.",
     "why": "İK sorumlusunun 'Bu harika. Müşterilerimiz acil yerinde danışmanlık istiyor' demesi, adayın seyahat engelinin olmadığını ve esnek olduğunu onayladığını gösterir. Konu-dışı çeldirici adayın Fransa'da yaşayıp Fransızca konuşmasından bahseder. Akış çeldiricisi evini çok özlediğini söyleyerek uluslararası seyahat gerektiren bu işi yapamayacağını belirtir ve akışı bozar. Üslup çeldiricisi ise kariyer hareketliliğini öven kaçamak ve aşırı resmi bir tondadır."
   },
   {
@@ -2572,7 +2572,7 @@
     "d_konu": "These coins were minted during the reign of Emperor Augustus to celebrate the expansion of the empire.",
     "d_akis": "I think we should just let the visitors hold the coins in their hands to feel the history.",
     "d_uslup": "The preservation and display of numismatic collections warrant rigorous security and lighting evaluations.",
-    "tr": "Küratör: Hem güvenliği hem de görünürlüğü sağlamak için bu antik Roma sikkelerini nasıl sergileyeceğimize karar vermeliyiz.\nSergi Tasarımcısı: Onları, entegre LED aydınlatmalı ve üzerinde büyüteç merceği olan güçlendirilmiş bir cam vitrinin içine yerleştirebiliriz.\nKüratör: Bu mükemmel işe yarar. Büyüteç, ziyaretçilerin onlara dokunmadan karmaşık ayrıntıları takdir etmelerini sağlayacaktır.",
+    "tr": "Küratör: Hem güvenliği hem de görünürlüğü sağlamak için bu antik Roma sikkelerini nasıl sergileyeceğimize karar vermeliyiz.\nSergi Tasarımcısı: Onları, entegre LED aydınlatmalı ve üzerinde büyüteç merceği olan güçlendirilmiş bir cam vitrinin içine yerleştirebiliriz.\nKüratör: Bu mükemmel olur. Büyüteç, ziyaretçilerin onlara dokunmadan karmaşık ayrıntıları takdir etmelerini sağlayacaktır.",
     "why": "Küratörün 'Büyüteç, ziyaretçilerin dokunmadan ayrıntıları görmesini sağlayacak' sözleri, tasarımcının büyüteçli ve güvenli bir vitrin tasarımı sunduğunu gösterir. Konu-dışı çeldirici sikkelerin basıldığı imparatordan bahseder. Akış çeldiricisi uyarılara rağmen ziyaretçilerin eline vermeyi önererek güvenlik kuralını çiğner. Üslup çeldiricisi ise sikke koleksiyonlarının korunmasını teorik olarak ele alan kaçamak resmi bir tondadır."
   },
   {
@@ -2595,7 +2595,7 @@
     "d_konu": "Our subscription service now offers access to premium video content for an additional monthly fee.",
     "d_akis": "I am sorry, but our policy states that all subscription payments are strictly non-refundable.",
     "d_uslup": "Financial transactions are subject to rigorous verification protocols to ensure system integrity.",
-    "tr": "Müşteri: Bu ay aboneliğim için benden iki kez ücret alındı. Bu sorunu çözmeme yardımcı olabilir misiniz?\nMuhasebe Temsilcisi: Çift ödemeyi görüyorum; bir iade işlemi başlattım, bunun üç iş günü içinde ekstrenize yansıması gerekir.\nMüşteri: Açıklama için teşekkür ederim. Bu işlemin ekstremde görünmesini bekleyeceğim.",
+    "tr": "Müşteri: Bu ay aboneliğim için benden iki kez ücret alındı. Bu sorunu çözmeme yardımcı olabilir misiniz?\nFaturalama Temsilcisi: Çift ödemeyi görüyorum; bir iade işlemi başlattım, bunun üç iş günü içinde ekstrenize yansıması gerekir.\nMüşteri: Açıklama için teşekkür ederim. Bu işlemin ekstremde görünmesini bekleyeceğim.",
     "why": "Müşterinin 'Açıklama için teşekkürler. İşlemin ekstremde görünmesini bekleyeceğim' cevabı, temsilcinin çift ödemeyi onaylayıp iade başlattığını belirttiğini gösterir. Konu-dışı çeldirici ek ücretli premium içerik tanıtımı yapar. Akış çeldiricisi iadenin kesinlikle imkansız olduğunu söyleyerek müşterinin memnun ve beklemeyi kabul eden cevabıyla çelişir. Üslup çeldiricisi ise sistem güvenliğini öven kaçamak resmi bir tondadır."
   },
   {
@@ -2625,7 +2625,7 @@
     "id": "dt115",
     "dialogue": [
       {
-        "speaker": "Soli-Sponsor",
+        "speaker": "Lead Sponsor",
         "line": "We need to choose a theme for our charity gala that resonates with our corporate donors."
       },
       {
@@ -2633,7 +2633,7 @@
         "line": "____"
       },
       {
-        "speaker": "Soli-Sponsor",
+        "speaker": "Lead Sponsor",
         "line": "That is a brilliant angle. Aligning the event with their corporate social responsibility goals will drive higher sponsorships."
       }
     ],
@@ -2641,7 +2641,7 @@
     "d_konu": "The venue we booked has a seating capacity of five hundred guests with a large stage.",
     "d_akis": "We should keep the theme extremely generic and just focus on offering luxury food and drinks.",
     "d_uslup": "The conceptualization of philanthropic events requires meticulous coordination of thematic variables.",
-    "tr": "Sosyal Sponsor: Hayır galası için kurumsal bağışçılarımızda yankı uyandıracak bir tema seçmeliyiz.\nEtkinlik Planlayıcısı: Neden temiz enerji ve çevresel sürdürülebilirlik girişimlerine odaklanmıyoruz?\nSponsor: Bu harika bir açı. Etkinliği onların kurumsal sosyal sorumluluk hedefleriyle uyumlu hale getirmek daha yüksek sponsorluklar sağlayacaktır.",
+    "tr": "Ana Sponsor: Hayır galası için kurumsal bağışçılarımızda yankı uyandıracak bir tema seçmeliyiz.\nEtkinlik Planlayıcısı: Neden temiz enerji ve çevresel sürdürülebilirlik girişimlerine odaklanmıyoruz?\nAna Sponsor: Bu harika bir açı. Etkinliği onların kurumsal sosyal sorumluluk hedefleriyle uyumlu hale getirmek daha yüksek sponsorluklar sağlayacaktır.",
     "why": "Sponsorun 'Bu harika bir açı. Onların kurumsal sosyal sorumluluk hedefleriyle uyumlu hale getirmek...' sözleri, planlayıcının şirketlerin önemsediği sosyal sorumluluk alanlarından (temiz enerji ve sürdürülebilirlik) bir tema önerdiğini kanıtlar. Konu-dışı çeldirici salonun kapasitesinden bahseder. Akış çeldiricisi temayı önemsiz bulup sadece yemeğe odaklanmayı önererek akışı bozar. Üslup çeldiricisi ise hayır işlerini teorize eden kaçamak resmi bir tondadır."
   },
   {
@@ -2871,7 +2871,7 @@
     "d_konu": "Many computer scientists are currently developing larger language models with billions of active parameters.",
     "d_akis": "I am convinced that digital algorithms can easily achieve human-like self-awareness within the next five years.",
     "d_uslup": "The definition of consciousness is a subject of intense debate among both academics and the general public.",
-    "tr": "Filozof: Yapay zekanın eninde sonunda gerçek bilince ulaşacağına mı inanıyorsunuz, yoksa sadece düşünceyi mi taklit ediyor?\nNörobilimci: Gerçek bilinç muhtemelen silikon çiplerde kopyalanamayan biyolojik alt tabakalar ve sinirsel yapılar gerektirir.\nFilozof: Ben de bu görüşe meylediyorum. Fiziksel bir çevreyle etkileşime giren biyolojik bir beden olmadan, öznel deneyim imkansız görünüyor.",
+    "tr": "Filozof: Yapay zekanın eninde sonunda gerçek bilince ulaşacağına mı inanıyorsunuz, yoksa sadece düşünceyi mi taklit ediyor?\nNörobilimci: Gerçek bilinç muhtemelen silikon çiplerde kopyalanamayan biyolojik bir altyapı ve sinirsel yapılar gerektirir.\nFilozof: Ben de bu görüşe meylediyorum. Fiziksel bir çevreyle etkileşime giren biyolojik bir beden olmadan, öznel deneyim imkansız görünüyor.",
     "why": "Filozofun 'Ben de bu görüşe meylediyorum. Biyolojik bir beden olmadan öznel deneyim imkansız' sözü, nörobilimcinin bilincin biyolojik gereksinimleri (silikon çiplerde yapılamayacak olması) üzerine bir görüş belirttiğini gösterir. Konu-dışı çeldirici dil modellerinin parametre boyutundan bahseder. Akış çeldiricisi yapay zekanın kolayca bilinçleneceğini savunur ve filozofun biyolojik vurgusuyla çelişir. Üslup çeldiricisi ise bilincin tanımı üzerine genel-geçer, kaçamak bir felsefi tespittir."
   },
   {
@@ -2940,7 +2940,7 @@
     "d_konu": "The publisher decided to release a limited hardcover edition of the book due to unexpectedly high pre-order volumes.",
     "d_akis": "Actually, she repeatedly stated in interviews that the bird was purely decorative and had no deeper meaning.",
     "d_uslup": "Symbolism is a highly effective literary device used by many modern and classical novelists across the globe.",
-    "tr": "Edebiyat Eleştirmeni: Yazar, son romanında başkarakterin duygusal soyutlanmasını simgelemek için sürekli tekrarlanan bir kafesteki kuş imgesini kullanıyor.\nYazarın Biyografi Yazarı: Bu imge seçimi deeply kişiseldi; kendi gençliğinde ailesi tarafından kısıtlanma deneyimlerini yansıtıyordu.\nEdebiyat Eleştirmeni: Büyüleyici. Kendini geliştirdiği o yazarlık yıllarında bu kadar sıkı bir kısıtlama altında yaşadığını hiç bilmiyordum.",
+    "tr": "Edebiyat Eleştirmeni: Yazar, son romanında başkarakterin duygusal soyutlanmasını simgelemek için sürekli tekrarlanan bir kafesteki kuş imgesini kullanıyor.\nYazarın Biyografi Yazarı: Bu imge seçimi son derece kişiseldi; kendi gençliğinde ailesi tarafından kısıtlanma deneyimlerini yansıtıyordu.\nEdebiyat Eleştirmeni: Büyüleyici. Yazarlığının biçimlendiği o yıllarda bu kadar sıkı bir kısıtlama altında yaşadığını hiç bilmiyordum.",
     "why": "Eleştirmenin 'Büyüleyici... Yazarlık yıllarında bu kadar sıkı kısıtlama altında yaşadığını bilmiyordum' sözü, biyografi yazarının yazarın gençlik yıllarındaki kısıtlanma/aile baskısı gibi kişisel deneyimlerine değindiğini gösterir. Konu-dışı çeldirici kitabın ciltli baskısından bahseder. Akış çeldiricisi kuşun hiçbir anlamı olmadığını söyleyerek eleştirmenin 'büyüleyici' bulduğu derin kişisel geçmişle çelişir. Üslup çeldiricisi ise sembolizmin tanımını yapan aşırı genel ve kaçamak bir tespittir."
   },
   {
@@ -3009,7 +3009,7 @@
     "d_konu": "Environmental law has become a highly popular specialization among students at our law school this year.",
     "d_akis": "I strongly advise against this topic, as the concept of legal personhood for non-humans is completely absurd.",
     "d_uslup": "Writing a law thesis is a highly demanding academic endeavor that requires extensive familiarity with judicial structures.",
-    "tr": "Hukuk Öğrencisi: Tezimi çevre hukuku üzerine yazıyorum. Doğal kaynakların yasal kişiliğe sahip olması gerektiğini savunmak istiyorum.\nHukuk Profesörü: Bu yenilikçi bir yaklaşım. Bunun başarıyla uygulandığı mevcut küresel emsalleri analiz etmelisiniz.\nHukuk Öğrenci: Katılıyorum. İlk bölümümü Yeni Zelanda'nın Whanganui Nehri'ne nasıl yasal haklar tanıdığına odaklayacağım.",
+    "tr": "Hukuk Öğrencisi: Tezimi çevre hukuku üzerine yazıyorum. Doğal kaynakların yasal kişiliğe sahip olması gerektiğini savunmak istiyorum.\nHukuk Profesörü: Bu yenilikçi bir yaklaşım. Bunun başarıyla uygulandığı mevcut küresel emsalleri analiz etmelisiniz.\nHukuk Öğrencisi: Katılıyorum. İlk bölümümü Yeni Zelanda'nın Whanganui Nehri'ne nasıl yasal haklar tanıdığına odaklayacağım.",
     "why": "Öğrencinin 'Katılıyorum. İlk bölümümü Yeni Zelanda'nın Whanganui Nehri'ne nasıl yasal haklar tanıdığına odaklayacağım' cevabı, profesörün dünyadaki mevcut başarılı örnekleri/emsalleri incelemesini önerdiğini doğrular. Konu-dışı çeldirici çevre hukukunun popülerliğinden bahseder. Akış çeldiricisi bu fikrin saçma olduğunu söyleyerek öğrencinin heyecanlı teziyle ve somut örnek planıyla çelişir. Üslup çeldiricisi tez yazmanın zorluğuna dair kaçamak ve aşırı resmi bir tespittir."
   },
   {
@@ -3117,7 +3117,7 @@
       },
       {
         "speaker": "Journalist",
-        "line": "That is quiet worrying. It means they might arrive before their food sources have fully developed."
+        "line": "That is quite worrying. It means they might arrive before their food sources have fully developed."
       }
     ],
     "correct": "Yes, we observed that several species are nesting nearly two weeks earlier than they did thirty years ago.",
@@ -3239,7 +3239,7 @@
     "d_konu": "Several international organizations have developed online dictionaries to document endangered languages.",
     "d_akis": "I don't think that is a problem, as translation software can easily preserve all linguistic nuances perfectly.",
     "d_uslup": "Linguistic diversity is a widely discussed topic within contemporary social sciences and policy forums.",
-    "tr": "Dilbilimci: Tehlike altındaki birçok dil hızla yok oluyor ve beraberinde dünyayı anlamaya yönelik benzersiz bilişsel çerçeveleri de götürüyor.\nKültürel Antropolog: Gerçekten de, bir dili kaybetmek, yerel ekosistemler hakkındaki paha biçilmez geleneksel bilgileri kaybetmek anlamına gelir.\nDilbilimci: Kesinlikle. Bazı yerli dillerindeki bitki ve hayvan sınıflandırmaları, yüzyıllara dayanan ekolojik bilgi içermektedir.",
+    "tr": "Dilbilimci: Tehlike altındaki birçok dil hızla yok oluyor ve beraberinde dünyayı anlamaya yönelik benzersiz bilişsel çerçeveleri de götürüyor.\nKültürel Antropolog: Gerçekten de, bir dili kaybetmek, yerel ekosistemler hakkındaki paha biçilmez geleneksel bilgileri kaybetmek anlamına gelir.\nDilbilimci: Kesinlikle. Bazı yerli dillerdeki bitki ve hayvan sınıflandırmaları, yüzyıllara dayanan ekolojik bilgi içermektedir.",
     "why": "Dilbilimcinin 'Kesinlikle. Yerli dillerindeki bitki sınıflandırması ekolojik bilgi içerir' yanıtı, antropoloğun dillerin kaybolmasıyla ekosistemlere dair geleneksel bilgilerin (bilişsel çerçevelerin) yitirileceğini söylediğini kanıtlar. Konu-dışı çeldirici online sözlük çalışmalarından bahseder. Akış çeldiricisi çeviri yazılımlarının her şeyi koruyacağını savunarak dil kaybının bir sorun olmadığını iddia eder ve akışı bozar. Üslup çeldiricisi ise dilsel çeşitliliğin popülerliği üzerine kaçamak ve aşırı resmi bir tespittir."
   },
   {
@@ -3262,7 +3262,7 @@
     "d_konu": "Our research center has recently received a major grant to upgrade our satellite dishes.",
     "d_akis": "This is definitely proof of alien intelligence. Let's schedule a major press conference immediately.",
     "d_uslup": "Radio astronomy involves analyzing complex electromagnetic waves from outer space.",
-    "tr": "Astrofizikçi: Samanyolu'nun merkezinden kaynaklanan son derece olağan dışı radyo sinyalleri tespit ettik.\nAraştırma Direktörü: Bu emisyonlar Dünya yörüngesindeki insan yapımı telekomünikasyon cihazlarından kaynaklanıyor olabilir mi?\nAstrofizikçi: Kesinlikle. Kamuoyuna bir duyuru yapmadan önce yerel uydu parazitlerini elemeli/reddetmeliyiz.",
+    "tr": "Astrofizikçi: Samanyolu'nun merkezinden kaynaklanan son derece olağan dışı radyo sinyalleri tespit ettik.\nAraştırma Direktörü: Bu emisyonlar Dünya yörüngesindeki insan yapımı telekomünikasyon cihazlarından kaynaklanıyor olabilir mi?\nAstrofizikçi: Kesinlikle. Kamuoyuna bir duyuru yapmadan önce yerel uydu parazitlerini elemeliyiz.",
     "why": "Astrofizikçinin 'Kesinlikle. Duyuru yapmadan önce yerel uydu parazitlerini elemeliyiz' sözü, direktörün sinyallerin insan yapımı cihazlardan/uydulardan kaynaklanma ihtimalini (interferences) sorduğunu gösterir. Konu-dışı çeldirici ekipman güncelleme bütçesinden bahseder. Akış çeldiricisi doğrudan uzaylı kanıtı olduğunu iddia ederek aceleci bir tavır sergiler ve kontrol etme adımıyla çelişir. Üslup çeldiricisi radyo astronomisinin zorluğuna dair kaçamak ve aşırı resmi bir tespittir."
   },
   {
@@ -3446,7 +3446,7 @@
     "d_konu": "The local fishing industry supports thousands of families and contributes significantly to the regional economy.",
     "d_akis": "There is no danger at all; recent sonar data indicates cod populations are currently at record highs.",
     "d_uslup": "Marine resource management requires extensive scientific consensus and international regulatory cooperation.",
-    "tr": "Çevreci: Derhal sıkı balıkçılık kotaları uygulamazsak, Kuzey Denizi'ndeki morina balığı popülasyonu çökecektir.\nDeniz Ekologu: Katılıyorum. Mevcut ticari avlanma oranı, türün doğal üreme kapasitesini fazlasıyla aşıyor.\nÇevreci: Ben de tam olarak bundan korkuyorum. Morina popülasyonundaki bir çöküş tüm besin ağını bozabilir.",
+    "tr": "Çevreci: Derhal sıkı balıkçılık kotaları uygulamazsak, Kuzey Denizi'ndeki morina balığı popülasyonu çökecektir.\nDeniz Ekoloğu: Katılıyorum. Mevcut ticari avlanma oranı, türün doğal üreme kapasitesini fazlasıyla aşıyor.\nÇevreci: Ben de tam olarak bundan korkuyorum. Morina popülasyonundaki bir çöküş tüm besin ağını bozabilir.",
     "why": "Çevrecinin 'Ben de tam olarak bundan korkuyorum. Morina popülasyonundaki çöküş tüm ağı bozabilir' sözleri, ekoloğun da tehlikeyi onaylayıp aşırı avlanmaya (commercial extraction) dikkat çektiğini kanıtlar. Konu-dışı çeldirici balıkçılık sektörünün ekonomiye katkısından bahseder. Akış çeldiricisi popülasyonun rekor seviyede olduğunu söyleyerek çevrecinin korkusuyla çelişir. Üslup çeldiricisi ise deniz kaynakları yönetiminin zorluklarına dair kaçamak ve aşırı resmi bir tespittir."
   },
   {
@@ -3469,7 +3469,7 @@
     "d_konu": "Our marketing team is planning to launch a major advertising campaign for the app next month.",
     "d_akis": "That is physically impossible because our app has been thoroughly tested and has zero software bugs.",
     "d_uslup": "Mobile application development requires close collaboration between frontend and backend engineering teams.",
-    "tr": "Yazılım Test Mühendisi: Kullanıcılar beş megabayttan büyük bir görsel yüklemeye çalıştığında mobil uygulamanın çöktüğünü fark ettim.\nArka Plan Geliştiricisi: API'mizin 'yük çok büyük' hata kodu döndürüp döndürmediğini görmek için sunucu günlüklerini kontrol edeyim.\nTest Mühendisi: Bunu hemen yapacağım. Eğer sunucu reddediyorsa, çökmek yerine net bir hata mesajı göstermeliyiz.",
+    "tr": "Yazılım Test Mühendisi: Kullanıcılar beş megabayttan büyük bir görsel yüklemeye çalıştığında mobil uygulamanın çöktüğünü fark ettim.\nArka Uç Geliştiricisi: API'mizin 'yük çok büyük' hata kodu döndürüp döndürmediğini görmek için sunucu günlüklerini kontrol edeyim.\nTest Mühendisi: Bunu hemen yapacağım. Eğer sunucu reddediyorsa, çökmek yerine net bir hata mesajı göstermeliyiz.",
     "why": "Test mühendisinin 'Bunu hemen yapacağım. Sunucu reddediyorsa çökmek yerine hata mesajı göstermeliyiz' yanıtı, geliştiricinin sunucu günlüklerini / API hata kodunu (server logs, payload-too-large) inceleyeceğini söylediğini gösterir. Konu-dışı çeldirici reklam kampanyasından bahseder. Akış çeldiricisi uygulamada sıfır hata olduğunu savunarak çökmeyi reddeder ve akışı bozar. Üslup çeldiricisi ise yazılım geliştirme süreçlerinin genel işleyişi üzerine kaçamak ve aşırı resmi bir tespittir."
   },
   {
@@ -3492,7 +3492,7 @@
     "d_konu": "The local municipality has recently increased the ticket prices for several public museums.",
     "d_akis": "I strongly advise you to avoid our city entirely, as we are completely exhausted by the tourism industry.",
     "d_uslup": "Tourism represents a significant source of revenue that must be managed to preserve local cultural heritage.",
-    "tr": "Seyahat Bloggerı: Popüler turistik yerleri ziyaret etmeyi seviyorum ama yoğun kalabalıklar genellikle tarihin değerini anlamayı zorlaştırıyor.\nYerel Sakin: Doğu yakasındaki eski mahalleleri keşfetmelisiniz; oralar çok daha sessizdir ve tarihi mimariyle doludur.\nSeyahat Bloggerı: Kulağa harika bir alternatif geliyor. Şehri farklı bir perspektiften görmeyi çok isterim.",
+    "tr": "Seyahat Blog Yazarı: Popüler turistik yerleri ziyaret etmeyi seviyorum ama yoğun kalabalıklar genellikle tarihin değerini anlamayı zorlaştırıyor.\nYerel Sakin: Doğu yakasındaki eski mahalleleri keşfetmelisiniz; oralar çok daha sessizdir ve tarihi mimariyle doludur.\nSeyahat Blog Yazarı: Kulağa harika bir alternatif geliyor. Şehri farklı bir perspektiften görmeyi çok isterim.",
     "why": "Bloggerın 'Kulağa harika bir alternatif geliyor. Farklı perspektiften görmeyi isterim' ifadesi, yerel sakinin kalabalıktan uzak, tarihi ama daha az bilinen alternatif bir rota (east side, older quarters) önerdiğini gösterir. Konu-dışı çeldirici müze bilet fiyatlarından bahseder. Akış çeldiricisi bloggerı şehirden kovarak sert ve aşırı tepkisel bir akış bozulması yaratır. Üslup çeldiricisi ise turizmin ekonomik katkılarına dair kaçamak ve aşırı resmi bir tespittir."
   },
   {
@@ -3584,7 +3584,7 @@
     "d_konu": "We also need to replace the color cartridges in the marketing department's printer soon.",
     "d_akis": "Actually, the printers are operating perfectly and there is no paper waste occurring.",
     "d_uslup": "Paper consumption tracking is an important element in evaluating corporate operational efficiency.",
-    "tr": "Ofis Müdürü: Baskı odasındaki yazıcılar, geçen çeyreğe göre iki kat daha fazla kağıt tüketiyor.\nOperasyon Uzmanı: İsraf edilen sayfaları azaltmak için onları varsayılan olarak çift taraflı yazdıracak şekilde yapılandırmalıyız.\nOfis Müdürü: Bu yardımcı olacaktır. Bunu hemen tüm departman bilgisayarlarında varsayılan ayar yapalım.",
+    "tr": "Ofis Müdürü: Fotokopi odasındaki yazıcılar, geçen çeyreğe göre iki kat daha fazla kağıt tüketiyor.\nOperasyon Uzmanı: İsraf edilen sayfaları azaltmak için onları varsayılan olarak çift taraflı yazdıracak şekilde yapılandırmalıyız.\nOfis Müdürü: Bu yardımcı olacaktır. Bunu hemen tüm departman bilgisayarlarında varsayılan ayar yapalım.",
     "why": "Ofis müdürünün 'Bu yardımcı olacaktır. Bunu tüm bilgisayarlarda varsayılan ayar yapalım' sözleri, uzmanın kağıt tüketimini azaltacak pratik bir teknik ayar (print double-sided by default) önerdiğini kanıtlar. Konu-dışı çeldirici mürekkep kartuşlarından bahseder. Akış çeldiricisi kağıt israfı olmadığını iddia ederek müdürün verileriyle çelişir. Üslup çeldiricisi kağıt tüketimi takibinin önemine dair kaçamak ve aşırı resmi bir tespittir."
   },
   {
@@ -3700,7 +3700,7 @@
     "d_akis": "I believe they used advanced smelting techniques to construct those bronze statues.",
     "d_uslup": "It is scientifically probable that some combustion event occurred in the general vicinity of the structure.",
     "tr": "Arkeolog: Tapınak kapılarının yakınındaki toprak analizi, geç Bronz Çağı boyunca kömür katmanlarında ani bir artışa işaret ediyor.\nTarihçi: Bu, tüm yerleşimin büyük ve feci bir yangına maruz kaldığını kuvvetle gösteriyor.\nArkeolog: Kesinlikle. Evsel bir yangın olsaydı, yaygın ve tekdüze bir karbon tabakası yerine bölgesel kül yığınları görürdük.",
-    "why": "Arkeoloğun son repliğindeki 'Evsel bir yangın olsaydı bölgesel kül yığınları görürdük' karşılaştırması, tarihçinin yerleşimin genelini etkileyen büyük bir yangından (catastrophic conflagration) bahsettiğini gösterir. Konu-dışı çeldirici tarım ve tahıl üretiminden bahsettiği için konu içi ama detay dışıdır. Akış çeldiricisi metal eritme tekniklerini öne sürerek akışı bozar. Üslup çeldiricisi ise aşırı bilimsel, kaçamak ve belirsiz bir dil kullanarak 'bir ara bir şeyler yanmış olabilir' havası verir ancak kesin kilitlenmeyi sağlamaz."
+    "why": "Arkeoloğun son repliğindeki 'Evsel bir yangın olsaydı bölgesel kül yığınları görürdük' karşılaştırması, tarihçinin yerleşimin genelini etkileyen büyük bir yangından (catastrophic conflagration) bahsettiğini gösterir. Konu-dışı çeldirici arpa ve buğday yetiştiriciliğine kayarak yangın tartışmasından uzaklaşır. Akış çeldiricisi metal eritme tekniklerini öne sürerek akışı bozar. Üslup çeldiricisi ise aşırı bilimsel, kaçamak ve belirsiz bir dil kullanarak 'bir ara bir şeyler yanmış olabilir' havası verir ancak kesin kilitlenmeyi sağlamaz."
   },
   {
     "id": "dt162",
@@ -3795,8 +3795,8 @@
     "d_konu": "Pteropods are fascinating organisms that migrate vertically in the water column every day.",
     "d_akis": "These organisms will quickly adapt to the acid levels and continue to multiply rapidly.",
     "d_uslup": "The chemistry of the ocean has been studied extensively by research teams over the past several decades.",
-    "tr": "Deniz Biyoloğu: Okyanusların asitlenmesi, Kuzey Kutbu besin ağı için hayati önem taşıyan kanatlı salyangozların kalsiyum karbonat kabuklarını eritiyor.\nEkolog: Bu, pH değerindeki küçük bir değişikliğin bile kuzey enlemlerinde zincirleme bir ekolojik krizi tetikleyebileceği anlamına gelir.\nDeniz Biyoloğu: Kesinlikle. Nüfuslarındaki bir çöküş doğrudan somon, ringa balığı ve nihayetinde deniz memelilerini tehdit edecektir.",
-    "why": "Biyoloğun 'Nüfuslarındaki bir çöküş somonları ve memelileri tehdit edecek' sözü, ekoloğun 'zincirleme bir ekolojik kriz' (cascading ecological crisis) uyarısıyla tamamen örtüşür. Konu-dışı çeldirici salyangozların dikey göçünden bahseden konu içi ama detay dışı bir bilgidir. Akış çeldiricisi salyangozların hemen adapte olacağını söyleyerek tehlikeyi reddeder ve akışı bozar. Üslup çeldiricisi ise okyanus kimyasının yıllardır incelendiğini belirten aşırı genel ve konudan kaçan bir ifadedir."
+    "tr": "Deniz Biyoloğu: Okyanusların asitlenmesi, Kuzey Kutbu besin ağı için hayati önem taşıyan kanatlı salyangozların kalsiyum karbonat kabuklarını eritiyor.\nEkolog: Bu, pH değerindeki küçük bir değişikliğin bile kuzey enlemlerinde zincirleme bir ekolojik krizi tetikleyebileceği anlamına gelir.\nDeniz Biyoloğu: Kesinlikle. Popülasyonlarındaki bir çöküş doğrudan somon, ringa balığı ve nihayetinde deniz memelilerini tehdit edecektir.",
+    "why": "Biyoloğun 'Popülasyonlarındaki bir çöküş somonları ve memelileri tehdit edecek' sözü, ekoloğun 'zincirleme bir ekolojik kriz' (cascading ecological crisis) uyarısıyla tamamen örtüşür. Konu-dışı çeldirici salyangozların dikey göçünden bahseden konu içi ama detay dışı bir bilgidir. Akış çeldiricisi salyangozların hemen adapte olacağını söyleyerek tehlikeyi reddeder ve akışı bozar. Üslup çeldiricisi ise okyanus kimyasının yıllardır incelendiğini belirten aşırı genel ve konudan kaçan bir ifadedir."
   },
   {
     "id": "dt166",
@@ -3910,7 +3910,7 @@
     "d_konu": "These festivals are held annually during the spring equinox to celebrate the harvest.",
     "d_akis": "I strongly believe that all forms of tourism should be banned to preserve original cultures.",
     "d_uslup": "Cultural events of this nature tend to exhibit various socioeconomic dimensions in modern times.",
-    "tr": "Kültürel Antropolog: Geleneksel yerli festivallerinin ticarileşmesi, genellikle onları orijinal kutsal anlamlarından sıyırır.\nYerel Tarihçi: Bu doğru olsa da, birçok yerel halk tamamen bu etkinliklerin ürettiği turizm gelirine güveniyor.\nKültürel Antropolog: Doğru, ancak ekonomik kazanımlar nadiren gerçek topluluk üyeleri arasında adil bir şekilde dağıtılıyor.",
+    "tr": "Kültürel Antropolog: Geleneksel yerli festivallerin ticarileşmesi, genellikle onları orijinal kutsal anlamlarından sıyırır.\nYerel Tarihçi: Bu doğru olsa da, birçok yerel halk tamamen bu etkinliklerin ürettiği turizm gelirine güveniyor.\nKültürel Antropolog: Doğru, ancak ekonomik kazanımlar nadiren gerçek topluluk üyeleri arasında adil bir şekilde dağıtılıyor.",
     "why": "Antropoloğun 'Doğru, ancak ekonomik kazanımlar adil dağıtılmıyor' sözü, tarihçinin ticarileşmenin ekonomik faydalarına (tourism revenue, economic gains) değindiğini gösterir. Konu-dışı çeldirici festivallerin ne zaman yapıldığını anlatan konu içi ama bağlam dışı bir detaydır. Akış çeldiricisi tüm turizmin yasaklanmasını önererek tartışmanın akademik dengesini bozar. Üslup çeldiricisi ise modern zamanlardaki sosyoekonomik boyutlardan bahseden aşırı genel ve belirsiz bir ifadedir."
   },
   {
@@ -3926,14 +3926,14 @@
       },
       {
         "speaker": "Physician",
-        "line": "They definitely do. Prepared meals are heavily preserved with sodium, so preparing fresh ingredients at home is much safer."
+        "line": "Yes, you should. Prepared meals are heavily preserved with sodium, so preparing fresh ingredients at home is much safer."
       }
     ],
     "correct": "Does that mean I should avoid purchasing pre-packaged microwave dinners?",
     "d_konu": "I am planning to buy a digital blood pressure monitor for my home.",
     "d_akis": "I will immediately eliminate every single carbohydrate from my daily meals.",
     "d_uslup": "It is widely recognized that nutrition plays a critical role in cardiovascular health.",
-    "tr": "Hekim: Tansiyonunuzu düşürmek için ilaç reçete edildi, ancak günlük sodyum alımınızı da azaltmalısınız.\nHasta: Bu, hazır dondurulmuş mikrodalga yemeklerini satın almaktan kaçınmam gerektiği anlamına mı geliyor?\nHekim: Kesinlikle öyle. Hazır yemekler yoğun miktarda sodyum ile korunur, bu nedenle evde taze malzemeler hazırlamak çok daha güvenlidir.",
+    "tr": "Hekim: Tansiyonunuzu düşürmek için size ilaç yazıldı, ancak günlük sodyum alımınızı da azaltmalısınız.\nHasta: Bu, hazır dondurulmuş mikrodalga yemeklerini satın almaktan kaçınmam gerektiği anlamına mı geliyor?\nHekim: Kesinlikle öyle. Hazır yemekler yoğun miktarda sodyum ile korunur, bu nedenle evde taze malzemeler hazırlamak çok daha güvenlidir.",
     "why": "Hekimin 'Kesinlikle öyle. Hazır yemekler yoğun sodyum içerir' cevabı, hastanın dondurulmuş hazır gıdalarla (pre-packaged microwave dinners) ilgili bir sodyum sorusu sorduğunu gösterir. Konu-dışı çeldirici ev tipi tansiyon aleti satın alma planını anlatmaktadır. Akış çeldiricisi sodyum yerine karbonhidratı keseceğini söyleyerek tıbbi akışı bozar. Üslup çeldiricisi ise beslenmenin kalp sağlığındaki rolünü vurgulayan aşırı genel, kaçamak ve hastanın sorması beklenmeyecek kadar resmi bir ifadedir."
   },
   {
@@ -4025,7 +4025,7 @@
     "d_konu": "The price of organic pesticides has reached an all-time high this season.",
     "d_akis": "That is a brilliant idea, I will purchase ten thousand beetles online right now.",
     "d_uslup": "Ecological interventions require careful scientific oversight to ensure biological equilibrium.",
-    "tr": "Biyolog: Yerli olmayan böcek türünü getirmek, istilacı yabani ot popülasyonunu doğal yoldan kontrol etmeye yardımcı olabilir.\nAgronomist: Ya yabani otlar tükendiğinde adapte olup tarım alanlarımızı hedef almaya başlarlarsa?\nBiyolog: Bunun üzerinde kapsamlı laboratuvar testleri yaptık ve yerel mahsulleri tamamen göz ardı ederek sadece bu özel yabani otla besleniyorlar.",
+    "tr": "Biyolog: Yerli olmayan böcek türünü getirmek, istilacı yabani ot popülasyonunu doğal yoldan kontrol etmeye yardımcı olabilir.\nAgronom: Ya yabani otlar tükendiğinde adapte olup tarım alanlarımızı hedef almaya başlarlarsa?\nBiyolog: Bunun üzerinde kapsamlı laboratuvar testleri yaptık ve yerel mahsulleri tamamen göz ardı ederek sadece bu özel yabani otla besleniyorlar.",
     "why": "Biyoloğun 'Laboratuvar testleri yaptık, sadece yabani otla besleniyorlar, mahsulleri görmezden geliyorlar' güvencesi, agronomistin böceklerin ileride mahsullere zarar verme ihtimali/adaptasyonu (targeting agricultural fields) hakkındaki endişesiyle kilitlenir. Konu-dışı çeldirici organik tarım ilaçlarının fiyatlarından bahseder. Akış çeldiricisi hemen sipariş vermeyi önererek bilimsel tartışma akışını bozar. Üslup çeldiricisi ise ekolojik müdahalelerin bilimsel denetim gerektirdiğini söyleyen aşırı resmi, kaçamak ve bir sonraki savunmayı tetiklemeyen genel bir tespittir."
   },
   {
@@ -4163,7 +4163,7 @@
     "d_konu": "The local market prices for imported fertilizers have risen significantly this quarter.",
     "d_akis": "They must continue planting wheat and simply hope for more rain next year.",
     "d_uslup": "Agricultural adaptation is a complex process requiring careful planning and resource management.",
-    "tr": "Tarım Uzmanı: Değişen yağış düzenleri nedeniyle, yerel çiftçiler bu bölgede geleneksel buğday çeşitlerini yetiştirmekte zorlanıyor.\nİklim Bilimci: Belki de onları daha dayanıklı alternatif ürünlere yönelmeleri konusunda uyarmanın zamanı gelmiştir.\nTarım Uzmanı: Bu harika bir öneri. Kuraklığa dayanıklı sorgum bu yeni kuru koşullarda çok iyi yetişecektir.",
+    "tr": "Tarım Uzmanı: Değişen yağış düzenleri nedeniyle, yerel çiftçiler bu bölgede geleneksel buğday çeşitlerini yetiştirmekte zorlanıyor.\nİklim Bilimci: Belki de onlara daha dayanıklı alternatif ürünlere yönelmelerini tavsiye etmenin zamanı gelmiştir.\nTarım Uzmanı: Bu harika bir öneri. Kuraklığa dayanıklı sorgum bu yeni kuru koşullarda çok iyi yetişecektir.",
     "why": "Tarım uzmanının 'Bu harika bir öneri. Kuraklığa dayanıklı sorgum bu kuru koşullarda çok iyi yetişecektir' tepkisi, iklim bilimcinin alternatif ve dayanıklı ürünlere (resilient alternative crops) yönelme tavsiyesini onaylar. Konu-dışı çeldirici gübre fiyatlarından bahseder. Akış çeldiricisi çiftçilerin buğday ekmeye devam edip yağmur ummalarını önerir ki bu sorgum alternatifini önermez ve akışı bozar. Üslup çeldiricisi ise tarımsal adaptasyonun karmaşıklığından bahseden kaçamak ve aşırı genel bir ifadedir."
   },
   {
@@ -4186,7 +4186,7 @@
     "d_konu": "We should also catalog the fossilized shark teeth we found in the upper strata.",
     "d_akis": "I believe that all shallow-water species simply swam down to the deeper parts of the ocean.",
     "d_uslup": "Geological and paleontological data are often analyzed together to form comprehensive theories.",
-    "tr": "Paleontolog: Bu tabakadaki fosil kayıtları, sığ su çift kabuklularının ani bir şekilde yok olduğunu gösterirken, derin deniz türleri hayatta kalmış.\nJeolog: Bu örüntü, bir asteroit etkisinden ziyade doğrudan büyük bir deniz çekilmesi olayına işaret ediyor.\nPaleontolog: Kesinlikle. Deniz seviyelerindeki hızlı bir düşüş, derin okyanusları etkilemeden kıyı sahanlıklarını kurutacaktır.",
+    "tr": "Paleontolog: Bu tabakadaki fosil kayıtları, sığ su çift kabuklularının ani bir şekilde yok olduğunu gösterirken, derin deniz türleri hayatta kalmıştır.\nJeolog: Bu örüntü, bir asteroit etkisinden ziyade doğrudan büyük bir deniz çekilmesi olayına işaret ediyor.\nPaleontolog: Kesinlikle. Deniz seviyelerindeki hızlı bir düşüş, derin okyanusları etkilemeden kıyı sahanlıklarını kurutacaktır.",
     "why": "Paleontoloğun 'Kesinlikle. Deniz seviyelerindeki hızlı bir düşüş, derin okyanusları etkilemeden kıyı sahanlıklarını kurutacaktır' açıklaması, jeoloğun deniz çekilmesi (regression event) teorisini destekler. Konu-dışı çeldirici köpekbalığı dişlerinin kataloglanmasından bahseder. Akış çeldiricisi sığ su canlılarının derinlere yüzdüğünü söyleyen bilim dışı bir iddia sunarak akışı bozar. Üslup çeldiricisi ise verilerin birlikte incelendiğini söyleyen aşırı genel ve kaçamak bir cümledir."
   },
   {
@@ -4255,8 +4255,8 @@
     "d_konu": "Our museum's website has recently received a major award for its user interface.",
     "d_akis": "I suggest we simply hire interns and have them use standard office copy machines.",
     "d_uslup": "Digitization of historical documents is generally a prolonged process involving technical expertise.",
-    "tr": "Küratör: Müzemizin dijital arşivini güncellememiz gerekiyor, ancak binlerce hassas el yazmasını manuel olarak taramak çok riskli.\nBT Danışmanı: Sayfaları fiziksel temas olmadan yakalamak için yumuşak LED aydınlatma kullanan temassız baş üstü tarayıcılar kullanabiliriz.\nKüratör: Bu çok daha güvenli bir yaklaşım gibi görünüyor. Bu baş üstü tarama ekipmanını satın almayı araştıralım.",
-    "why": "Küratörün 'Bu çok daha güvenli bir yaklaşım... baş üstü tarama ekipmanını satın almayı araştıralım' yanıtı, danışmanın temassız baş üstü tarayıcıları (non-contact overhead scanners) önerdiğini gösterir. Konu-dışı çeldirici web sitesinin aldığı ödülden bahseder. Akış çeldiricisi stajyerlerin fotokopi makinesi kullanmasını önererek riskli tarama uyarısını göz ardı eder ve akışı bozar. Üslup çeldiricisi ise arşivlemenin uzun bir süreç olduğunu belirten aşırı genel ve kaçamak bir ifadedir."
+    "tr": "Küratör: Müzemizin dijital arşivini güncellememiz gerekiyor, ancak binlerce hassas el yazmasını manuel olarak taramak çok riskli.\nBT Danışmanı: Sayfaları fiziksel temas olmadan yakalamak için yumuşak LED aydınlatma kullanan temassız üstten tarayıcılar kullanabiliriz.\nKüratör: Bu çok daha güvenli bir yaklaşım gibi görünüyor. Bu üstten tarama ekipmanını satın almayı araştıralım.",
+    "why": "Küratörün 'Bu çok daha güvenli bir yaklaşım... üstten tarama ekipmanını satın almayı araştıralım' yanıtı, danışmanın temassız üstten tarayıcıları (non-contact overhead scanners) önerdiğini gösterir. Konu-dışı çeldirici web sitesinin aldığı ödülden bahseder. Akış çeldiricisi stajyerlerin fotokopi makinesi kullanmasını önererek riskli tarama uyarısını göz ardı eder ve akışı bozar. Üslup çeldiricisi ise arşivlemenin uzun bir süreç olduğunu belirten aşırı genel ve kaçamak bir ifadedir."
   },
   {
     "id": "dt186",
@@ -4278,7 +4278,7 @@
     "d_konu": "We must also calculate the total manufacturing cost per dose before entering phase-three.",
     "d_akis": "The patients should simply drink some warm milk before bedtime to solve their insomnia.",
     "d_uslup": "Pharmacological developments always involve certain side effects that must be carefully documented.",
-    "tr": "Klinik Araştırmacı: Yeni ilacın faz-iki çalışmaları olağanüstü etkinlik gösterdi, ancak bazı hastalar hafif uykusuzluk yaşadı.\nFarmakolog: Bu, aktif bileşiğin uyku döngülerini düzenleyen belirli nörotransmitterlerle etkileşime giriyor olabileceğini gösteriyor.\nKlinik Araştırmacı: Kesinlikle. Eğer bu özel yolu izole edebilirsek, terapötik faydaları kaybetmeden yan etkiyi ortadan kaldırabiliriz.",
+    "tr": "Klinik Araştırmacı: Yeni ilacın ikinci faz çalışmaları olağanüstü etkinlik gösterdi, ancak bazı hastalar hafif uykusuzluk yaşadı.\nFarmakolog: Bu, aktif bileşiğin uyku döngülerini düzenleyen belirli nörotransmitterlerle etkileşime giriyor olabileceğini gösteriyor.\nKlinik Araştırmacı: Kesinlikle. Eğer bu özel yolu izole edebilirsek, terapötik faydaları kaybetmeden yan etkiyi ortadan kaldırabiliriz.",
     "why": "Araştırmacının 'Kesinlikle. Eğer bu özel yolu (pathway) izole edebilirsek yan etkiyi ortadan kaldırabiliriz' cevabı, farmakoloğun ilacın uyku döngüsünü düzenleyen nöral yollarla/nörotransmitterlerle (neurotransmitters, sleep cycles) etkileşime girdiğini söyleyen doğru şıkkıyla mükemmel kilitlenir. Konu-dışı çeldirici doz başına üretim maliyetini hesaplamaktan bahseder. Akış çeldiricisi hastalara uykudan önce sıcak süt önermek gibi klinik düzeyle uyuşmayan basit bir tavırla akışı bozar. Üslup çeldiricisi ise yan etkilerin belgelenmesi gerektiğini söyleyen kaçamak ve aşırı genel bir tespittir."
   },
   {
@@ -4297,12 +4297,12 @@
         "line": "That is indeed a strong possibility. We should search for any diffuse gas or dark matter halos in that region."
       }
     ],
-    "correct": "There might be a substantial amount of non-luminous gas clouds blocking our sensors.",
+    "correct": "There might be a substantial amount of non-luminous gas clouds adding mass that our sensors cannot detect.",
     "d_konu": "The telescope's cooling liquid needs to be refilled before our next observation cycle.",
     "d_akis": "Our mathematical models are probably completely wrong and gravity does not exist there.",
     "d_uslup": "Astronomical data processing requires a high degree of mathematical precision and validation.",
-    "tr": "Astrofizikçi: Sektör kenarındaki kütleçekimsel anomali, yalnızca görünür yıldız kümesiyle açıklanamaz.\nKozmolog: Sensörlerimizi engelleyen önemli miktarda ışık saçmayan gaz bulutu olabilir.\nAstrofizikçi: Bu gerçekten güçlü bir olasılık. O bölgede dağınık gaz veya karanlık madde haleleri aramalıyız.",
-    "why": "Astrofizikçinin 'Bu gerçekten güçlü bir olasılık. O bölgede dağınık gaz (diffuse gas) veya karanlık madde aramalıyız' cevabı, kozmoloğun sensörleri engelleyen ışık saçmayan gaz bulutları (non-luminous gas clouds) teorisini destekler. Konu-dışı çeldirici teleskobun soğutma sıvısının yenilenmesinden bahseder. Akış çeldiricisi kütleçekiminin orada var olmadığını söyleyerek bilimsellik dışı bir iddiayla akışı bozar. Üslup çeldiricisi ise astronomik veri işlemenin matematiksel hassasiyet gerektirdiğini belirten kaçamak ve aşırı genel bir ifadedir."
+    "tr": "Astrofizikçi: Sektör kenarındaki kütleçekimsel anomali, yalnızca görünür yıldız kümesiyle açıklanamaz.\nKozmolog: Sensörlerimizin algılayamadığı, kütle ekleyen önemli miktarda ışık saçmayan gaz bulutu olabilir.\nAstrofizikçi: Bu gerçekten güçlü bir olasılık. O bölgede dağınık gaz veya karanlık madde haleleri aramalıyız.",
+    "why": "Astrofizikçinin 'Bu gerçekten güçlü bir olasılık. O bölgede dağınık gaz (diffuse gas) veya karanlık madde aramalıyız' cevabı, kozmoloğun sensörlerin algılayamadığı ışık saçmayan gaz bulutları (non-luminous gas clouds) teorisini destekler. Konu-dışı çeldirici teleskobun soğutma sıvısının yenilenmesinden bahseder. Akış çeldiricisi kütleçekiminin orada var olmadığını söyleyerek bilimsellik dışı bir iddiayla akışı bozar. Üslup çeldiricisi ise astronomik veri işlemenin matematiksel hassasiyet gerektirdiğini belirten kaçamak ve aşırı genel bir ifadedir."
   },
   {
     "id": "dt188",
@@ -4324,7 +4324,7 @@
     "d_konu": "Our company won a major government contract to build several wind farms onshore.",
     "d_akis": "We should just build them in shallow coastal waters where tourists can see them easily.",
     "d_uslup": "Oceanic engineering projects frequently encounter diverse environmental and logistical obstacles.",
-    "tr": "Yenilebilir Enerji Uzmanı: Açık deniz rüzgar türbinleri son derece verimlidir, ancak onları derin sulara kurmak teknik olarak zordur.\nDeniz Mühendisi: Sert temelleri doğrudan deniz yatağına çakmak yerine yüzen platformlar kullansak nasıl olur?\nYenilebilir Enerji Uzmanı: Bu yenilikçi bir çözüm. Onları deniz tabanına bağlamak, devasa çelik sütunlara olan ihtiyacı ortadan kaldıracaktır.",
+    "tr": "Yenilenebilir Enerji Uzmanı: Açık deniz rüzgar türbinleri son derece verimlidir, ancak onları derin sulara kurmak teknik olarak zordur.\nDeniz Mühendisi: Sert temelleri doğrudan deniz yatağına çakmak yerine yüzen platformlar kullansak nasıl olur?\nYenilenebilir Enerji Uzmanı: Bu yenilikçi bir çözüm. Onları deniz tabanına bağlamak, devasa çelik sütunlara olan ihtiyacı ortadan kaldıracaktır.",
     "why": "Uzmanın 'Bu yenilikçi bir çözüm. Onları deniz tabanına bağlamak devasa çelik sütunlara (massive steel pillars) olan ihtiyacı ortadan kaldıracaktır' sözü, mühendisin denize çakılan sert temeller yerine yüzen platformlar (floating platforms) kullanma önerisini doğrudan niteler. Konu-dışı çeldirici karadaki rüzgar türbinlerinden bahseder. Akış çeldiricisi türbinleri turistlerin görmesi için sığ kıyılara kurmayı önererek derin deniz mühendisliği akışını bozar. Üslup çeldiricisi ise okyanus projelerinin lojistik engellerle karşılaştığını belirten kaçamak ve aşırı genel bir ifadedir."
   },
   {
@@ -4508,7 +4508,7 @@
     "d_konu": "We should also make sure that our kitchen staff receives their new uniforms before the guests arrive.",
     "d_akis": "I suggest we simply cancel all the room reservations and close the entire hotel for six weeks.",
     "d_uslup": "Renovations must be carefully scheduled in order to balance operational efficiency and customer comfort.",
-    "tr": "Otel Müdürü: Lobimizin yenilenmesi en az altı hafta sürecek ve bu maalesef bahar konferans sezonuyla çakışacak.\nEtkinlik Koordinatörü: Bu süre zarfında cam pavyonu geçici olarak ikincil bir resepsiyon alanına dönüştürebilir miyiz?\nOtel Müdürü: Bu mükemmel bir uzlaşma. Bahçelerin yakınında, havanın çok daha sessiz olduğu yerde güzel bir kayıt masası kurabiliriz.",
+    "tr": "Otel Müdürü: Lobimizin yenilenmesi en az altı hafta sürecek ve bu maalesef bahar konferans sezonuyla çakışacak.\nEtkinlik Koordinatörü: Bu süre zarfında cam pavyonu geçici olarak ikincil bir resepsiyon alanına dönüştürebilir miyiz?\nOtel Müdürü: Bu mükemmel bir uzlaşma. Bahçelerin yakınında, ortamın çok daha sessiz olduğu bir yerde güzel bir kayıt masası kurabiliriz.",
     "why": "Müdürün 'Bu mükemmel bir uzlaşma (compromise). Bahçelerin yakınında... güzel bir kayıt masası kurabiliriz' cevabı, koordinatörün geçici alternatif bir resepsiyon alanı/cam pavyon (convert the glass pavilion into a secondary reception area) yaratma önerisiyle kilitlenir. Konu-dışı çeldirici mutfak çalışanlarının üniformalarından bahseder. Akış çeldiricisi oteli tamamen kapatmayı önererek 'uzlaşma' ve 'konferans sezonu' akışını bozar. Üslup çeldiricisi ise yenileme çalışmalarının planlanması gerektiğini söyleyen aşırı resmi ve kaçamak bir tespittir."
   },
   {
@@ -4600,8 +4600,8 @@
     "d_konu": "The local tourism authority wants to develop a spa resort around these hot springs.",
     "d_akis": "I believe the water is simply heated by local coal mines operating near the surface.",
     "d_uslup": "Geochemical anomalies in natural thermal springs have been documented globally for centuries.",
-    "tr": "Jeolog: Bu vadideki kaplıcalar, derin manto kökenlerine özgü benzersiz bir mineral kimyasına sahip.\nJeokimyager: Tam volkanik kaynağı belirlemek için soylu gaz izotoplarını analiz etmeliyiz.\nJeolog: Kesinlikle. Yüksek konsantrasyonlarda helyum-üç bulursak, bu alt mantoya doğrudan bir kanal olduğunu doğrulayacaktır.",
-    "why": "Jeoloğun 'Kesinlikle. Helyum-üç bulursak alt mantoya kanalı doğrulayacaktır' tespiti, jeokimyagerin soylu gaz izotoplarını analiz etme (analyze noble gas isotopes) önerisiyle doğrudan eşleşir (helyum-üç bir soylu gaz izotopudur). Konu-dışı çeldirici kaplıcaların etrafına spa tesisi kurma planlarından bahseder. Akış çeldiricisi suyun kömür madenleriyle ısındığını söyleyerek derin manto teorisiyle çelişir ve akışı bozar. Üslup çeldiricisi ise jeokimyasal anomalilerin yüzyıllardır belgelendiğini belirten aşırı genel ve kaçamak bir ifadedir."
+    "tr": "Jeolog: Bu vadideki kaplıcalar, derin manto kökenlerine özgü benzersiz bir mineral kimyasına sahip.\nJeokimyacı: Kesin volkanik kaynağı belirlemek için asal gaz izotoplarını analiz etmeliyiz.\nJeolog: Kesinlikle. Yüksek konsantrasyonlarda helyum-üç bulursak, bu alt mantoya doğrudan bir kanal olduğunu doğrulayacaktır.",
+    "why": "Jeoloğun 'Kesinlikle. Helyum-üç bulursak alt mantoya kanalı doğrulayacaktır' tespiti, jeokimyacının asal gaz izotoplarını analiz etme (analyze noble gas isotopes) önerisiyle doğrudan eşleşir (helyum-üç bir asal gaz izotopudur). Konu-dışı çeldirici kaplıcaların etrafına spa tesisi kurma planlarından bahseder. Akış çeldiricisi suyun kömür madenleriyle ısındığını söyleyerek derin manto teorisiyle çelişir ve akışı bozar. Üslup çeldiricisi ise jeokimyasal anomalilerin yüzyıllardır belgelendiğini belirten aşırı genel ve kaçamak bir ifadedir."
   },
   {
     "id": "dt201",
@@ -4646,8 +4646,8 @@
     "d_konu": "Therapy sessions should generally be scheduled in the morning when patients are less fatigued.",
     "d_akis": "I believe that traditional stretching exercises are much more effective than this modern constraint method.",
     "d_uslup": "While the clinical data is highly intriguing, neuroplasticity remains a complex phenomenon with many unknown variables.",
-    "tr": "Nörolog: Yoğun zorunlu kullanım hareket tedavisi gören felç hastalarında olağanüstü bir nöroplastisite gözlemledik.\nTerapist: Güçlü olan uzvun kullanımını sınırlamanın, beynin uykuda olan bölgelerini başarıyla uyardığı görülüyor.\nNörolog: Gerçekten de öyle. Hastayı etkilenen uzvunu kullanmaya zorlayarak, motor korteksteki sinirsel yolları aktif olarak yeniden şekillendiriyoruz.",
-    "why": "Nöroloğun 'Gerçekten de öyle. Hastayı etkilenen uzvunu kullanmaya zorlayarak...' ifadesi, terapistin tedavinin mekanizmasını (güçlü uzvun kullanımını sınırlama) açıkladığını gösterir. Konu-dışı çeldirici terapi seanslarının saatlerinden bahseder. Akış çeldiricisi geleneksel egzersizlerin daha iyi olduğunu savunarak akışı keser. Üslup çeldiricisi ise konuyu nöroplastisitenin bilinmezliklerine çekerek netlikten kaçan aşırı mesafeli bir üslup benimser."
+    "tr": "Nörolog: Yoğun kısıtlamaya dayalı hareket terapisi gören felç hastalarında olağanüstü bir nöroplastisite gözlemledik.\nTerapist: Güçlü olan uzvun kullanımını sınırlamanın, beynin uykuda olan bölgelerini başarıyla uyardığı görülüyor.\nNörolog: Gerçekten de öyle. Onları etkilenen uzuvlarını kullanmaya zorlayarak, motor korteksteki sinirsel yolları aktif olarak yeniden şekillendiriyoruz.",
+    "why": "Nöroloğun 'Gerçekten de öyle. Onları etkilenen uzuvlarını kullanmaya zorlayarak...' ifadesi, terapistin tedavinin mekanizmasını (güçlü uzvun kullanımını sınırlama) açıkladığını gösterir. Konu-dışı çeldirici terapi seanslarının saatlerinden bahseder. Akış çeldiricisi geleneksel egzersizlerin daha iyi olduğunu savunarak akışı keser. Üslup çeldiricisi ise konuyu nöroplastisitenin bilinmezliklerine çekerek netlikten kaçan aşırı mesafeli bir üslup benimser."
   },
   {
     "id": "dt203",
@@ -4692,7 +4692,7 @@
     "d_konu": "Textile factories during that era relied heavily on coal to power their steam engines.",
     "d_akis": "However, most weavers embraced the new machinery because it made their daily work much faster.",
     "d_uslup": "Historical transitions of this magnitude typically involve a myriad of socioeconomic factors that warrant deeper analysis.",
-    "tr": "Tarihçi: Endüstri Devrimi sırasında, tekstil üretiminin hızlı makineleşmesi geleneksel zanaatkar loncalarını temelinden sarstı.\nAkademik: Yani loncalar sadece ekonomik tekellerini değil, aynı zamanda zanaatkarlık üzerindeki kültürel nüfuzlarını da kaybettiler.\nTarihçi: Sorunun özü de bu zaten. Fiyatlandırma ve kalite üzerindeki kontrolün kaybedilmesi, vasıflı dokumacılar arasında yaygın toplumsal huzursuzluğa yol açtı.",
+    "tr": "Tarihçi: Endüstri Devrimi sırasında, tekstil üretiminin hızlı makineleşmesi geleneksel zanaatkar loncalarını temelinden sarstı.\nAkademisyen: Yani loncalar sadece ekonomik tekellerini değil, aynı zamanda zanaatkarlık üzerindeki kültürel nüfuzlarını da kaybettiler.\nTarihçi: Sorunun özü de bu zaten. Fiyatlandırma ve kalite üzerindeki kontrolün kaybedilmesi, vasıflı dokumacılar arasında yaygın toplumsal huzursuzluğa yol açtı.",
     "why": "Tarihçinin 'Sorunun özü de bu. Kontrolün kaybedilmesi huzursuzluğa yol açtı' diyerek onaylaması, akademisyenin loncaların kontrol ve etki kaybına değindiğini kanıtlar. Konu-dışı çeldirici kömür kullanımı gibi alakasız teknik bir detaya geçer. Akış çeldiricisi dokumacıların makineleri memnuniyetle kabul ettiğini iddia ederek huzursuzluk ifadesiyle çelişir. Üslup çeldiricisi ise analiz gerekliliğinden bahseden aşırı genel ve kaçamak bir yorumdur."
   },
   {
@@ -4715,7 +4715,7 @@
     "d_konu": "Expensive luxury items are generally placed on the eye-level shelves in retail stores.",
     "d_akis": "Therefore, consumers should simply avoid buying high-priced products altogether.",
     "d_uslup": "Consumer psychology is indeed a fascinating field with numerous theoretical frameworks.",
-    "tr": "Psikolog: Bilişsel çelişki, bir tüketicinin pahalı bir ürün satın alıp ardından bunun paraya değip değmediğinden hemen şüphe duymasıyla ortaya çıkar.\nPazarlamacı: Bu da markaların, alıcıyı rahatlatmak için neden satış sonrası iletişime bu kadar çok yatırım yaptığını açıklıyor.\nPsikolog: Kesinlikle. Uzatılmış garantiler veya takip güvence e-postaları sunmak, satın alma sonrası endişeyi nötralize etmede son derece etkilidir.",
+    "tr": "Psikolog: Bilişsel uyumsuzluk, bir tüketicinin pahalı bir ürün satın alıp ardından bunun paraya değip değmediğinden hemen şüphe duymasıyla ortaya çıkar.\nPazarlamacı: Bu da markaların, alıcıyı rahatlatmak için neden satış sonrası iletişime bu kadar çok yatırım yaptığını açıklıyor.\nPsikolog: Kesinlikle. Uzatılmış garantiler veya güvence veren takip e-postaları sunmak, satın alma sonrası endişeyi nötralize etmede son derece etkilidir.",
     "why": "Psikoloğun 'Kesinlikle. Uzatılmış garantiler ve takip e-postaları...' şeklindeki çözümü, pazarlamacının satış sonrası iletişime yapılan yatırımı sormuş/belirtmiş olduğunu gösterir. Konu-dışı çeldirici rafların düzeniyle ilgili farklı bir pazarlama detayına odaklanır. Akış çeldiricisi tüketicilerin pahalı ürünleri almaması gerektiğini savunarak ticari mantığı ve akışı bozar. Üslup çeldiricisi ise alanı öven ancak sorulan probleme değinmeyen belirsiz bir ifadedir."
   },
   {
@@ -4761,7 +4761,7 @@
     "d_konu": "We also use radial velocity measurements to determine the exact mass of the detected exoplanets.",
     "d_akis": "This means we can easily observe every single planet orbiting any star in our galaxy.",
     "d_uslup": "Determining orbital alignments requires highly precise calculations that are difficult to explain simply.",
-    "tr": "Astronom: Geçiş fotometrisi, bir gezegen önünden geçerken yıldızın parlaklığındaki küçük düşüşü ölçerek ötegezegenleri tespit etmemizi sağlar.\nAraştırmacı: Ancak bu yöntem, yalnızca gezegenin yörünge düzlemi Dünya'ya göre tam olarak tam karşıdan hizalanmışsa etkilidir.\nAstronom: Kesinlikle. Eğer yörünge bizim bakış açımızla hizalı değilse, gezegen bizim açımızdan yıldızın ışığını asla engellemeyecektir.",
+    "tr": "Astronom: Geçiş fotometrisi, bir gezegen önünden geçerken yıldızın parlaklığındaki küçük düşüşü ölçerek ötegezegenleri tespit etmemizi sağlar.\nAraştırmacı: Ancak bu yöntem, yalnızca gezegenin yörünge düzlemi Dünya'dan tam olarak yandan görülecek şekilde hizalanmışsa etkilidir.\nAstronom: Kesinlikle. Eğer yörünge bizim bakış açımızla hizalı değilse, gezegen bizim açımızdan yıldızın ışığını asla engellemeyecektir.",
     "why": "Astronomun 'Kesinlikle. Eğer yörünge bizim bakış açımızla hizalı değilse...' diyerek teyit etmesi, araştırmacının yörünge düzleminin Dünya ile mükemmel bir açıda olması gerekliliğine (edge-on) değindiğini gösterir. Konu-dışı çeldirici kütle belirlemek için radyal hız kullanımından bahseder. Akış çeldiricisi her gezegeni kolayca gözlemleyebileceğimizi iddia ederek yöntemin sınırlılığını göz ardı eder ve akışı bozar. Üslup çeldiricisi ise hesaplamaların zorluğuna sığınan belirsiz ve kaçamak bir şıktır."
   },
   {
@@ -4830,8 +4830,8 @@
     "d_konu": "Drought-resistant crops are becoming increasingly popular in arid agricultural zones.",
     "d_akis": "However, these changes are completely erased within a few minutes once the plant is watered.",
     "d_uslup": "The study of epigenetic alterations is a highly complex field with evolving scientific terminology.",
-    "tr": "Botanikçi: Uzun süreli kuraklık stresi altında, bazı bitki türleri, DNA dizilimlerini değiştirmeden gen ifadelerini başkalaştıran epigenetik değişikliklere uğrar.\nGenetikçi: Bu modifikasyonlar, esasen çevresel stresin anlık bir moleküler hafızası işlevini görür.\nBotanikçi: Gerçekten de öyle. Bu durum, kuraklığa dayanıklı özellikleri yavrularına, genetik mutasyonların izin vereceğinden çok daha hızlı aktarmalarını sağlar.",
-    "why": "Botanikçinin 'Bu durum, kuraklığa dayanıklı özellikleri yavrularına daha hızlı aktarmalarını sağlar' demesi, genetikçinin bu durumu bir 'moleküler hafıza/uyum' olarak tanımladığını doğrular. Konu-dışı çeldirici kuraklığa dayanıklı tarım ürünlerinin popülaritesinden bahseder. Akış çeldiricisi bu değişikliklerin birkaç dakikada silindiğini iddia ederek yavrulara aktarılması (offspring) bilgisiyle çelişir. Üslup çeldiricisi ise epigenetiğin karmaşık bir alan olduğunu söyleyen kaçamak ve içi boş bir ifadedir."
+    "tr": "Botanikçi: Uzun süreli kuraklık stresi altında, bazı bitki türleri, DNA dizilimlerini değiştirmeden gen ifadelerini başkalaştıran epigenetik değişikliklere uğrar.\nGenetikçi: Bu modifikasyonlar, esasen çevresel stresin anlık bir moleküler hafızası işlevini görür.\nBotanikçi: Gerçekten de öyle. Bu durum, kuraklığa dayanıklı özellikleri sonraki nesillerine, genetik mutasyonların izin vereceğinden çok daha hızlı aktarmalarını sağlar.",
+    "why": "Botanikçinin 'Bu durum, kuraklığa dayanıklı özellikleri sonraki nesillerine daha hızlı aktarmalarını sağlar' demesi, genetikçinin bu durumu bir 'moleküler hafıza/uyum' olarak tanımladığını doğrular. Konu-dışı çeldirici kuraklığa dayanıklı tarım ürünlerinin popülaritesinden bahseder. Akış çeldiricisi bu değişikliklerin birkaç dakikada silindiğini iddia ederek sonraki nesillere aktarılması (offspring) bilgisiyle çelişir. Üslup çeldiricisi ise epigenetiğin karmaşık bir alan olduğunu söyleyen kaçamak ve içi boş bir ifadedir."
   },
   {
     "id": "dt211",
@@ -4945,7 +4945,7 @@
     "d_konu": "The translation of West African novels into French has increased significantly since the late nineties.",
     "d_akis": "However, most of these poets preferred to completely abandon their local languages and write strictly in standard British English.",
     "d_uslup": "Literary analysis of this period reveals a wide variety of narrative techniques that are worthy of academic consideration.",
-    "tr": "Edebiyat Profesörü: Sömürge sonrası Batı Afrika şiiri, onlarca yıllık sömürge yönetiminin ardından kültürel kimliği geri kazanmak için sıklıkla yerel folkloru kullanır.\nLisansüstü Öğrenci: Ve genellikle yerel atasözlerini ve sözlü konuşma kalıplarını doğrudan İngilizce dizelerine entegre ederler.\nProfesör: Evet, öyle yapıyorlar. Yerel dilleri Avrupa şiir yapılarına örerek benzersiz, melez bir altüst etme biçimi yaratıyorlar.",
+    "tr": "Edebiyat Profesörü: Sömürge sonrası Batı Afrika şiiri, onlarca yıllık sömürge yönetiminin ardından kültürel kimliği geri kazanmak için sıklıkla yerel folkloru kullanır.\nLisansüstü Öğrencisi: Ve genellikle yerel atasözlerini ve sözlü konuşma kalıplarını doğrudan İngilizce dizelerine entegre ederler.\nEdebiyat Profesörü: Evet, öyle yapıyorlar. Yerel dilleri Avrupa şiir yapılarına örerek benzersiz, melez bir altüst etme biçimi yaratıyorlar.",
     "why": "Profesörün 'Evet, öyle yapıyorlar. Yerel dilleri Avrupa şiir yapılarına örerek...' demesi, öğrencinin yerel dil unsurlarının (proverbs, speech patterns) İngilizce dizelere entegre edildiğini belirttiğini gösterir. Konu-dışı çeldirici Batı Afrika romanlarının Fransızcaya çevrilmesinden bahseder. Akış çeldiricisi şairlerin yerel dilleri tamamen terk ettiğini iddia ederek profesörün tespitiyle çelişir. Üslup çeldiricisi ise dönemin zengin teknikler barındırdığını söyleyen kaçamak, akademik bir dolgu cümlesidir."
   },
   {
@@ -5037,8 +5037,8 @@
     "d_konu": "The glass facade of the building has been designed to reflect eighty percent of solar heat.",
     "d_akis": "This is a flawless design that will work perfectly under all possible environmental conditions.",
     "d_uslup": "Sustainable design elements are highly regarded in modern high-rise architecture projects.",
-    "tr": "Mimar: Bu yüksek katlı ticari proje için, enerji maliyetlerini azaltmak amacıyla doğal havalandırma bacası sistemi öneriyoruz.\nMekanik Mühendisi: Ancak rüzgarsız ve nemli günlerde, kaldırma kuvveti basıncı üst katları soğutmak için yeterli olmayabilir.\nMimar: Haklısınız. Aşırı yaz sıcak dalgaları sırasında baca etkisini otomatik mekanik fanlarla destekleyeceğiz.",
-    "why": "Mimarın 'Haklısınız. Aşırı yaz sıcak dalgaları sırasında baca etkisini mekanik fanlarla destekleyeceğiz' demesi, mühendisin sistemin yetersiz kalacağı bazı hava koşullarını (windless, humid days) ve zayıflıkları dile getirdiğini kanıtlar. Konu-dışı çeldirici cam cephenin ısı yansıtma özelliğinden bahseder. Akış çeldiricisi sistemin kusursuz çalışacağını iddia ederek mimarın düzeltme/destekleme ihtiyacını anlamsız kılar. Üslup çeldiricisi ise yeşil tasarımın takdir edildiğini söyleyen kaçamak ve belirsiz bir ifadedir."
+    "tr": "Mimar: Bu yüksek katlı ticari proje için, enerji maliyetlerini azaltmak amacıyla doğal havalandırma bacası sistemi öneriyoruz.\nMakine Mühendisi: Ancak rüzgarsız ve nemli günlerde, kaldırma kuvveti basıncı üst katları soğutmak için yeterli olmayabilir.\nMimar: Haklısınız. Yaz aylarındaki aşırı sıcak dalgaları sırasında baca etkisini otomatik mekanik fanlarla destekleyeceğiz.",
+    "why": "Mimarın 'Haklısınız. Yaz aylarındaki aşırı sıcak dalgaları sırasında baca etkisini mekanik fanlarla destekleyeceğiz' demesi, mühendisin sistemin yetersiz kalacağı bazı hava koşullarını (windless, humid days) ve zayıflıkları dile getirdiğini kanıtlar. Konu-dışı çeldirici cam cephenin ısı yansıtma özelliğinden bahseder. Akış çeldiricisi sistemin kusursuz çalışacağını iddia ederek mimarın düzeltme/destekleme ihtiyacını anlamsız kılar. Üslup çeldiricisi ise yeşil tasarımın takdir edildiğini söyleyen kaçamak ve belirsiz bir ifadedir."
   },
   {
     "id": "dt220",
@@ -5152,7 +5152,7 @@
     "d_konu": "Our billing system now supports multi-currency options for international clients.",
     "d_akis": "I think they are leaving because our subscription price is far too cheap for them.",
     "d_uslup": "Customer retention is an important KPI that we must analyze during our quarterly review meetings.",
-    "tr": "Müşteri Başarı Müdürü: Kurumsal hesaplar arasında aboneliklerinin ilk yılından sonra yüksek bir kayıp oranı fark ettik.\nHesap Direktörü: Katılım sürecimizin karmaşık kuruluşlar için yeterince kapsamlı olmamasından kaynaklanıyor olabilir mi?\nMüşteri Başarı Müdürü: Kesinlikle. Yazılımı satış sürecinde satın alıyorlar ancak rehberlik eksikliği nedeniyle uygulamada zorluk yaşıyorlar.",
+    "tr": "Müşteri Başarı Müdürü: Kurumsal hesaplar arasında aboneliklerinin ilk yılından sonra yüksek bir kayıp oranı fark ettik.\nHesap Direktörü: Kullanıma alıştırma (onboarding) sürecimizin karmaşık kuruluşlar için yeterince kapsamlı olmamasından kaynaklanıyor olabilir mi?\nMüşteri Başarı Müdürü: Kesinlikle. Yazılımı satış sürecinde satın alıyorlar ancak rehberlik eksikliği nedeniyle uygulamada zorluk yaşıyorlar.",
     "why": "Müşteri başarı müdürünün 'Kesinlikle. Satış sürecinde satın alıyorlar ama rehberlik eksikliği nedeniyle zorluk yaşıyorlar' demesi, hesap direktörünün katılım/oryantasyon (onboarding, lack of guidance) sürecindeki eksikliklere dikkat çektiğini gösterir. Konu-dışı çeldirici faturalandırma para birimi detayından bahseder. Akış çeldiricisi fiyatın ucuz olmasından dolayı ayrıldıklarını iddia ederek mantık dışı bir akış sunar. Üslup çeldiricisi ise KPI incelemelerinin öneminden bahseden kaçamak ve belirsiz bir yönetim cümlesidir."
   },
   {
@@ -5290,7 +5290,7 @@
     "d_konu": "The keynote speaker has requested a highly specialized presentation remote for their slides.",
     "d_akis": "Let's send an email telling everyone to join at the exact same second to test the limits.",
     "d_uslup": "Virtual event platforms have seen unprecedented technological growth over the past few years.",
-    "tr": "Etkinlik Direktörü: Tüm beş bin katılımcı açılış konuşması yayınına aynı anda katılırsa sanal konferans platformumuzun bant genişliği sınırları çökebilir.\nTeknik Lider: Farklı bilet kademelerini on dakikalık aralıklarla kabul ederek erişimi kademelendirebiliriz.\nEtik Direktörü: İyi düşünce. Bu, sunucu yükünü dağıtacak ve gerekirse kaynakları ölçeklendirmemiz için bize bir tampon sağlayacaktır.",
+    "tr": "Etkinlik Direktörü: Tüm beş bin katılımcı açılış konuşması yayınına aynı anda katılırsa sanal konferans platformumuzun bant genişliği sınırları çökebilir.\nTeknik Lider: Farklı bilet kademelerini on dakikalık aralıklarla kabul ederek erişimi kademelendirebiliriz.\nEtkinlik Direktörü: İyi düşünce. Bu, sunucu yükünü dağıtacak ve gerekirse kaynakları ölçeklendirmemiz için bize bir tampon sağlayacaktır.",
     "why": "Direktörün 'İyi düşünce. Bu, sunucu yükünü dağıtacak...' cevabı, teknik liderin katılımı zamana yayan, kademeli bir erişim planı (stagger the access) sunduğunu gösterir. Konu-dışı çeldirici konuşmacının slayt kumandası detayından bahseder. Akış çeldiricisi herkesin aynı saniyede girmesini isteyerek kasıtlı çöküşe sebep olur ve akışı bozar. Üslup çeldiricisi ise platformların genel büyümesinden bahseden kaçamak ve belirsiz bir tespittir."
   },
   {
@@ -5313,7 +5313,7 @@
     "d_konu": "Dutch painters during that era used unique oils made from linseed to create deep pigments.",
     "d_akis": "I am absolutely certain that the painting is authentic, so we do not need to waste time checking documents.",
     "d_uslup": "Verifying historical provenance is a delicate process that requires specialized expertise and thorough investigation.",
-    "tr": "Sanat Galerisi Sahibi: Bu 17. yüzyıl Hollanda manzara tablosunu satmak için, savaş sırasında yağmalanmadığını doğrulamak üzere kökenini (provenance) izlemeliyiz.\nAraştırmacı: Çerçevenin arkasındaki imzaları o dönemin satıcı kataloglarıyla çapraz karşılaştıracağım.\nSanat Galerisi Sahibi: Kesinlikle. Lütfen o on yıla ait mülkiyet kayıtlarını kontrol etmek için ulusal arşivlere başvurun.",
+    "tr": "Sanat Tüccarı: Bu 17. yüzyıl Hollanda manzara tablosunu satmak için, savaş sırasında yağmalanmadığını doğrulamak üzere kökenini (provenance) izlemeliyiz.\nAraştırmacı: Çerçevenin arkasındaki imzaları o dönemin satıcı kataloglarıyla çapraz karşılaştıracağım.\nSanat Tüccarı: Kesinlikle. Lütfen o on yıla ait mülkiyet kayıtlarını kontrol etmek için ulusal arşivlere başvurun.",
     "why": "Galeri sahibinin 'Kesinlikle. Lütfen arşivleri kontrol edin' diyerek onaylaması, araştırmacının provenance araştırması için somut bir adım (cross-reference frame signatures) attığını gösterir. Konu-dışı çeldirici keten tohumu yağı ve pigment detayından bahseder. Akış çeldiricisi belgelere bakmaya gerek olmadığını iddia ederek araştırmacının görevini ve diyalog akışını baltalar. Üslup çeldiricisi ise araştırmanın hassas bir süreç olduğunu söyleyen kaçamak ve belirsiz bir ifadedir."
   },
   {
@@ -5405,8 +5405,8 @@
     "d_konu": "Santorini is also famous for its volcanic soil and white-washed coastal houses.",
     "d_akis": "Actually, I would much prefer a heavy, oaky red wine with my delicate seafood.",
     "d_uslup": "Selecting the appropriate wine pairing is a matter of personal preference and taste experience.",
-    "tr": "Sommelier: Izgara levrek için, onu Santorini'den gelen bu taze, yüksek asitli Assyrtiko ile eşleştirmenizi öneririm.\nYemek Davetlisi: Yüksek asitlik, balığın üzerindeki bitkisel baharatları tamamlayacak mı?\nSommelier: Kesinlikle. Şarabın keskin narenciye notaları, balığın zengin yağlılığını keserek damakta bir denge kuracaktır.",
-    "why": "Sommelier'nin 'Kesinlikle. Şarabın narenciye notaları balığın zengin yağlılığını keserek dengeleyecektir' şeklindeki detaylı cevabı, davetlinin asitliğin balığa/baharata (acidity complement) uyumunu sorguladığını gösterir. Konu-dışı çeldirici Santorini adasının volkanik toprak detayından bahseder. Akış çeldiricisi levreğin yanına ağır bir kırmızı şarap isteyerek sommelier'nin asidite ve hafiflik odaklı önerisini tamamen bozar. Üslup çeldiricisi ise şarap eşleştirmenin kişisel tercih olduğunu söyleyen kaçamak ve belirsiz bir ifadedir."
+    "tr": "Sommelier: Izgara levrek için, onu Santorini'den gelen bu taze, yüksek asitli Assyrtiko ile eşleştirmenizi öneririm.\nMüşteri: Yüksek asitlik, balığın üzerindeki bitkisel baharatları tamamlayacak mı?\nSommelier: Kesinlikle. Şarabın keskin narenciye notaları, balığın zengin yağlılığını keserek damakta bir denge kuracaktır.",
+    "why": "Sommelier'in 'Kesinlikle. Şarabın narenciye notaları balığın zengin yağlılığını keserek dengeleyecektir' şeklindeki detaylı cevabı, müşterinin asitliğin balığa/baharata (acidity complement) uyumunu sorguladığını gösterir. Konu-dışı çeldirici Santorini adasının volkanik toprak detayından bahseder. Akış çeldiricisi levreğin yanına ağır bir kırmızı şarap isteyerek sommelier'in asidite ve hafiflik odaklı önerisini tamamen bozar. Üslup çeldiricisi ise şarap eşleştirmenin kişisel tercih olduğunu söyleyen kaçamak ve belirsiz bir ifadedir."
   },
   {
     "id": "dt236",
@@ -5451,7 +5451,7 @@
     "d_konu": "The novel itself was not very popular among Victorian readers when it was first published.",
     "d_akis": "Actually, I can see that this book was rebound in cheap modern plastic just last week.",
     "d_uslup": "Determining the authenticity of antique bindings requires extensive knowledge of historical printing techniques.",
-    "tr": "Kitap Koleksiyoneri: Bu Viktorya dönemi romanı, yaşından ötürü son derece nadir olan orijinal kumaş cildine sahip gibi görünüyor.\nAlıcı: Sırtındaki altın varak işlemeye yakından bakarsanız, işçilik olağanüstü.\nKitap Koleksiyoneri: Bu gerçekten de Londralı bir usta mücellidin imzasıdır. Sırtındaki eşleşen çiçek motiflerini size göstereyim.",
+    "tr": "Kitap Satıcısı: Bu Viktorya dönemi romanı, yaşından ötürü son derece nadir olan orijinal kumaş cildine sahip gibi görünüyor.\nKoleksiyoncu: Sırtındaki altın varak işlemeye yakından bakarsanız, işçilik olağanüstü.\nKitap Satıcısı: Bu gerçekten de Londralı bir usta mücellidin imzasıdır. Sırtındaki eşleşen çiçek motiflerini size göstereyim.",
     "why": "Kitap satıcısının 'Bu gerçekten Londralı bir usta mücellidin imzası. Sırtındaki çiçek motiflerini göstereyim' demesi, alıcının kitabın sırtındaki işçiliğe (spine gilding, craftsmanship) dikkat çektiğini gösterir. Konu-dışı çeldirici romanın Viktorya dönemindeki popülaritesinden bahseder. Akış çeldiricisi kitabın geçen hafta ucuz plastikle yeniden ciltlendiğini söyleyerek satıcının nadide kumaş tespitiyle çelişir. Üslup çeldiricisi ise antik ciltleri doğrulamanın zorluğunu anlatan kaçamak ve genel bir değerlendirmedir."
   },
   {
@@ -5612,7 +5612,7 @@
     "d_konu": "Our university offers several advanced courses on structural linguistics and cognitive psychology.",
     "d_akis": "I believe that language has absolutely zero impact on how human beings process visual stimuli.",
     "d_uslup": "Cognition and linguistics are two fields that have been studied together for many decades.",
-    "tr": "Dilbilimci: Sapir-Whorf hipotezine göre, bir dilin yapısı o dili konuşanların bilişini etkiler.\nBilişsel Bilimci: Son renk algısı testleri, dilin kategorizasyonu etkilemesine rağmen temel algının evrensel kaldığını gösteriyor.\nDilbilimci: Gerçekten de. Dil dikkati şekillendirirken, evrensel bilişsel süreçler yine de aşırı varyasyonları sınırlar.",
+    "tr": "Dilbilimci: Sapir-Whorf hipotezine göre, bir dilin yapısı o dili konuşanların bilişini etkiler.\nBilişsel Bilimci: Yakın tarihli renk algısı testleri, dilin kategorizasyonu etkilemesine rağmen temel algının evrensel kaldığını gösteriyor.\nDilbilimci: Gerçekten de. Dil dikkati şekillendirirken, evrensel bilişsel süreçler yine de aşırı varyasyonları sınırlar.",
     "why": "Dilbilimcinin 'Gerçekten de. Dil dikkati şekillendirirken, evrensel bilişsel süreçler sınırlar' şeklindeki orta yolcu cevabı, bilimcinin hem dilin etkisini hem de evrenselliği bir arada sunan bir kanıt (renk algısı çalışması) sunduğunu gösterir. Konu-dışı çeldirici ders programından bahsetmektedir. Akış çeldiricisi dilin etkisini tamamen reddederek akışı bozar. Üslup çeldiricisi ise iki alanın tarihsel ilişkisine değinen kaçamak ve genel bir ifadedir."
   },
   {
@@ -5819,7 +5819,7 @@
     "d_konu": "The processing speed of microchips has been doubling roughly every two years as predicted.",
     "d_akis": "AI is extremely dangerous and we should stop all computer science research immediately.",
     "d_uslup": "Consciousness has been defined in many different ways by philosophers and neuroscientists alike.",
-    "tr": "Filozof: Yapay zekanın günün birinde gerçek öznel bilince ulaşabileceğini mi düşünüyorsunuz, yoksa sadece bunu simüle mi ediyor?\nBilişsel Bilimci: Bir sistem, bilinci yerinde bir insanla bilişsel olarak özdeş bir şekilde davranıyorsa, bu ayrım anlamsız hale gelir.\nFilozof: Bu klasik bir işlevselci perspektif. Bu görüşe göre, eğer çıktı ayırt edilemez durumdaysa, içsel deneyim gerçektir.",
+    "tr": "Filozof: Yapay zekanın günün birinde gerçek öznel bilince ulaşabileceğini mi düşünüyorsunuz, yoksa sadece bunu simüle mi ediyor?\nBilişsel Bilimci: Bir sistem, bilinçli bir insanla bilişsel olarak özdeş bir şekilde davranıyorsa, bu ayrım anlamsız hale gelir.\nFilozof: Bu klasik bir işlevselci perspektif. Bu görüşe göre, eğer çıktı ayırt edilemez durumdaysa, içsel deneyim gerçektir.",
     "why": "Filozofun 'Bu klasik bir işlevselci perspektif... çıktı ayırt edilemezse iç deneyim gerçektir' demesi, bilimcinin davranışsal/bilişsel çıktının aynılığı üzerinden ayrımın anlamsızlaştığını savunduğunu gösterir. Konu-dışı çeldirici mikroçip hızlarından bahsetmektedir. Akış çeldiricisi araştırmaların durdurulmasını isteyen aşırı bir görüşle akışı bozar. Üslup çeldiricisi ise bilincin farklı tanımları olduğunu söyleyen kaçamak ve felsefi bir cümledir."
   },
   {
@@ -5934,7 +5934,7 @@
     "d_konu": "We need to schedule our research vessel's maintenance before the winter storms begin.",
     "d_akis": "Deep-sea creatures grow very fast because the warm hydrothermal vents speed up their cellular division.",
     "d_uslup": "The deep ocean remains one of the least explored environments on our planet.",
-    "tr": "Deniz Biyoloğu: Derin deniz yaratıklarında görülen abyssal devleşme genellikle soğuk sıcaklıklar ve yüksek basınçla ilişkilendirilir.\nOşinograf: Bu uç koşullar metabolizmalarını yavaşlatır, bu da olgunlaşmayı önemli ölçüde geciktirir ve ömrü uzatır.\nDeniz Biyoloğu: Gerçekten de. Daha yavaş bir metabolizma hızına sahip olmak, onlarca yıl boyunca kıt besin kaynaklarıyla hayatta kalmalarını sağlar.",
+    "tr": "Deniz Biyoloğu: Derin deniz yaratıklarında görülen abisal devleşme genellikle soğuk sıcaklıklar ve yüksek basınçla ilişkilendirilir.\nOşinograf: Bu uç koşullar metabolizmalarını yavaşlatır, bu da olgunlaşmayı önemli ölçüde geciktirir ve ömrü uzatır.\nDeniz Biyoloğu: Gerçekten de. Daha yavaş bir metabolizma hızına sahip olmak, onlarca yıl boyunca kıt besin kaynaklarıyla hayatta kalmalarını sağlar.",
     "why": "Biyoloğun 'Gerçekten de. Daha yavaş metabolizma hızı kıt besinle hayatta kalmalarını sağlar' onayı, oşinografın metabolizmanın yavaşlaması ve uzun yaşam döngüsü üzerine bir mekanizma sunduğunu gösterir. Konu-dışı çeldirici gemi bakımından bahseder. Akış çeldiricisi sıcak hidrotermal bacalar ve hızlı büyümeden bahsederek soğuk su teorisiyle çelişir. Üslup çeldiricisi ise okyanusun keşfedilmemiş olmasından bahseden kaçamak bir tespittir."
   },
   {
@@ -6019,21 +6019,21 @@
       },
       {
         "speaker": "Ecologist",
-        "line": "Absolutely. Releasing those native wasps could biological contain the beetle without chemical pesticides."
+        "line": "Absolutely. Releasing those native wasps could biologically contain the beetle without chemical pesticides."
       }
     ],
     "correct": "We should consider importing their natural predators from their native habitat to control the spread.",
     "d_konu": "Ash trees are highly valued in this region for their high-quality wood used in furniture.",
     "d_akis": "We must cut down every single tree in the forest immediately to prevent any further contact.",
     "d_uslup": "Invasive species are known to cause severe ecological damage to local flora and fauna.",
-    "tr": "Ekolojist: İstilacı böcek türünün getirilmesi yerel dişbudak ağacı popülasyonunu harap etti.\nOrmancılık Uzmanı: Yayılımı kontrol altına almak için doğal avcılarını kendi doğal yaşam alanlarından ithal etmeyi düşünmeliyiz.\nEkolojist: Kesinlikle. O yerli yaban arılarını salıvermek, kimyasal pestisitler olmadan böceği biyolojik olarak kontrol altına alabilir.",
-    "why": "Ekolojistin 'Kesinlikle. O yerli yaban arılarını salıvermek böceği biyolojik kontrol altında tutabilir' sözleri, uzmanın böceğin doğal bir avcısını (natural predator) doğaya salma önerisi getirdiğini kanıtlar. Konu-dışı çeldirici dişbudak ağacının mobilyacılıkta kullanımından bahseder. Akış çeldiricisi tüm ormanı kesmeyi öneren aşırı yıkıcı bir tespittir. Üslup çeldiricisi istilacı türlerin ekolojik zararını tanımlayan kaçamak bir ifadedir."
+    "tr": "Ekolog: İstilacı böcek türünün getirilmesi yerel dişbudak ağacı popülasyonunu harap etti.\nOrmancılık Uzmanı: Yayılımı kontrol altına almak için doğal avcılarını kendi doğal yaşam alanlarından ithal etmeyi düşünmeliyiz.\nEkolog: Kesinlikle. O yerli yaban arılarını salıvermek, kimyasal pestisitler olmadan böceği biyolojik olarak kontrol altına alabilir.",
+    "why": "Ekoloğun 'Kesinlikle. O yerli yaban arılarını salıvermek böceği biyolojik kontrol altında tutabilir' sözleri, uzmanın böceğin doğal bir avcısını (natural predator) doğaya salma önerisi getirdiğini kanıtlar. Konu-dışı çeldirici dişbudak ağacının mobilyacılıkta kullanımından bahseder. Akış çeldiricisi tüm ormanı kesmeyi öneren aşırı yıkıcı bir tespittir. Üslup çeldiricisi istilacı türlerin ekolojik zararını tanımlayan kaçamak bir ifadedir."
   },
   {
     "id": "dt263",
     "dialogue": [
       {
-        "speaker": "Sismologist",
+        "speaker": "Seismologist",
         "line": "Our sensors detected a series of minor tremors near the sleeping volcano early this morning."
       },
       {
@@ -6041,7 +6041,7 @@
         "line": "____"
       },
       {
-        "speaker": "Sismologist",
+        "speaker": "Seismologist",
         "line": "Exactly. An increase in sulfur-dioxide emissions will confirm that magma is indeed rising."
       }
     ],
@@ -6049,7 +6049,7 @@
     "d_konu": "The local tourism authority wants us to provide a safety certification for the hiking trails.",
     "d_akis": "I am positive that this volcano is completely dead and will never erupt again.",
     "d_uslup": "Volcanic activity is monitored using various physical and chemical sensors worldwide.",
-    "tr": "Sismolog: Sensörlerimiz bu sabah erken saatlerde uyuyan yanardağın yakınlarında bir dizi hafif sarsıntı tespit etti.\nYonardağ Uzmanı: Kimyasal çıktıda herhangi bir değişiklik olup olmadığını görmek için gaz izleme istasyonlarını kontrol etmeliyiz.\nSismolog: Kesinlikle. Kükürt dioksit emisyonlarındaki bir artış, magmanın gerçekten yükseldiğini doğrulayacaktır.",
+    "tr": "Sismolog: Sensörlerimiz bu sabah erken saatlerde uyuyan yanardağın yakınlarında bir dizi hafif sarsıntı tespit etti.\nYanardağ Uzmanı: Kimyasal çıktıda herhangi bir değişiklik olup olmadığını görmek için gaz izleme istasyonlarını kontrol etmeliyiz.\nSismolog: Kesinlikle. Kükürt dioksit emisyonlarındaki bir artış, magmanın gerçekten yükseldiğini doğrulayacaktır.",
     "why": "Sismoloğun 'Kesinlikle. Kükürt dioksit emisyonlarındaki artış magmanın yükseldiğini doğrulayacak' demesi, uzmanının gaz veya kimyasal değişim kontrolü (gaz izleme istasyonları) önerdiğini gösterir. Konu-dışı çeldirici yürüyüş yollarının güvenliğinden bahseder. Akış çeldiricisi yanardağın tamamen ölü olduğunu söyleyerek sarsıntı ve magma hareketlerini yok sayar. Üslup çeldiricisi ise volkanik izleme yöntemlerini listeleyen kaçamak ve fazla genel bir cümledir."
   },
   {
@@ -6302,8 +6302,8 @@
     "d_konu": "The decoration patterns on the pottery are typical of the Middle Bronze Age style.",
     "d_akis": "No, they were definitely imported from a highly advanced civilization across the sea.",
     "d_uslup": "Geochemical analysis of ancient artifacts provides valuable data regarding trade and technology.",
-    "tr": "Arkeolog: Bu kil çömleklerin bileşimi, ithal edilmek yerine yerel olarak üretildiklerini gösteriyor.\nJeokimyager: Evet, mineral profili buraya sadece üç mil uzaklıktaki nehir yatağında bulunan kille eşleşiyor.\nArkeolog: Büyüleyici. Bu, antik yerleşimin yakınlarda aktif bir çömlekçilik atölyesine sahip olduğunu kanıtlıyor.",
-    "why": "Arkeoloğun 'Büyüleyici. Bu, yakınlarda aktif bir atölye olduğunu kanıtlıyor' demesi, jeokimyagerin kilin yerel kaynağına (yakındaki nehir yatağı kilinin mineral profili) dair kanıt sunduğunu gösterir. Konu-dışı çeldirici dekorasyon desenlerinin tarzından bahseder. Akış çeldiricisi ithal edildiklerini savunarak arkeoloğun teziyle çelişir. Üslup çeldiricisi analizin önemini anlatan kaçamak bir ifadedir."
+    "tr": "Arkeolog: Bu kil çömleklerin bileşimi, ithal edilmek yerine yerel olarak üretildiklerini gösteriyor.\nJeokimyacı: Evet, mineral profili buraya sadece üç mil uzaklıktaki nehir yatağında bulunan kille eşleşiyor.\nArkeolog: Büyüleyici. Bu, antik yerleşimin yakınlarda aktif bir çömlekçilik atölyesine sahip olduğunu kanıtlıyor.",
+    "why": "Arkeoloğun 'Büyüleyici. Bu, yakınlarda aktif bir atölye olduğunu kanıtlıyor' demesi, jeokimyacının kilin yerel kaynağına (yakındaki nehir yatağı kilinin mineral profili) dair kanıt sunduğunu gösterir. Konu-dışı çeldirici dekorasyon desenlerinin tarzından bahseder. Akış çeldiricisi ithal edildiklerini savunarak arkeoloğun teziyle çelişir. Üslup çeldiricisi analizin önemini anlatan kaçamak bir ifadedir."
   },
   {
     "id": "dt275",
@@ -6371,7 +6371,7 @@
     "d_konu": "Siberia is also known for its rich deposits of natural gas and mineral resources.",
     "d_akis": "Methane has absolutely no greenhouse effect and is completely harmless to the atmosphere.",
     "d_uslup": "Permafrost regions are sensitive indicators of global temperature fluctuations over geological eras.",
-    "tr": "İklimbilimci: Sibirya'daki permafrostun (donmuş toprak) erimesi, hapsolmuş büyük miktarda metan gazı salıyor.\nJeokimyager: Metan, karbondioksitten çok daha güçlü bir sera gazı olduğu için bu son derece endişe verici.\nİklimbilimci: Kesinlikle, ve bu geri besleme döngüsü küresel ısınmayı mevcut temel çizgimizin ötesinde daha da hızlandıracaktır.",
+    "tr": "İklimbilimci: Sibirya'daki permafrostun (donmuş toprak) erimesi, hapsolmuş büyük miktarda metan gazı salıyor.\nJeokimyacı: Metan, karbondioksitten çok daha güçlü bir sera gazı olduğu için bu son derece endişe verici.\nİklimbilimci: Kesinlikle, ve bu geri besleme döngüsü küresel ısınmayı mevcut temel çizgimizin ötesinde daha da hızlandıracaktır.",
     "why": "İklimbilimcinin 'Kesinlikle, ve bu geri besleme döngüsü (feedback loop) ısınmayı daha da hızlandıracak' onayı, kimyagerin metanın gücü ve etkisi üzerine (sera etkisi) bilimsel bir açıklama yaptığını gösterir. Konu-dışı çeldirici Sibirya'nın maden kaynaklarından bahseder. Akış çeldiricisi metanın zararsız olduğunu iddia ederek bilimsel gerçeklerle ve iklimbilimcinin endişesiyle çelişir. Üslup çeldiricisi ise permafrost bölgelerini genel olarak tanımlayan kaçamak bir ifadedir."
   },
   {
@@ -6464,7 +6464,7 @@
     "d_akis": "That perfectly explains why they only emit light when a predator is in immediate proximity.",
     "d_uslup": "I am deeply honored by your profound insights and completely concur with this revolutionary biological assessment.",
     "tr": "Biyolog: Çalışmamız, bu derin deniz denizanalarındaki biyolüminesans davranışının birincil olarak bir savunma mekanizması olduğunu gösteriyor.\nAraştırmacı: Peki bu aynı zamanda beslenmek amacıyla daha küçük zooplanktonları çekmek için bir yem işlevi de görebilir mi?\nBiyolog: Başlangıçta biz de bunu varsaymıştık, ancak kontrollü laboratuvar deneylerimiz ışık emisyonu sırasında beslenme oranlarında hiçbir değişiklik olmadığını gösterdi.",
-    "why": "Araştırmacının sorusuna biyoloğun 'Başlangıçta biz de bunu varsaymıştık' diye yanıt vermesi ve ardından beslenme oranlarından bahsetmesi, boşlukta ışıldamanın beslenmeyle ilgili bir amaç taşıyıp taşımadığı sorusunu gerektirir. Konu-dışı çeldirici tuzluluk ve sıcaklık gibi alakasız fiziksel değişkenleri sorgulamaktadır. Akış çeldiricisi biyoloğun ilk cümlesini doğrudan destekleyerek sonraki 'karşı varsayım' açıklamasını anlamsız kılmaktadır. Üslup çeldiricisi ise akademik bir tartışma için aşırı derecede abartılı ve yapay bir nezaket dili barındırır."
+    "why": "Araştırmacının sorusuna biyoloğun 'Başlangıçta biz de bunu varsaymıştık' diye yanıt vermesi ve ardından beslenme oranlarından bahsetmesi, boşluktaki cümlenin ışıldamanın beslenmeyle ilgili bir amaç taşıyıp taşımadığını sormasını gerektirir. Konu-dışı çeldirici tuzluluk ve sıcaklık gibi alakasız fiziksel değişkenleri sorgulamaktadır. Akış çeldiricisi biyoloğun ilk cümlesini doğrudan destekleyerek sonraki 'karşı varsayım' açıklamasını anlamsız kılmaktadır. Üslup çeldiricisi ise akademik bir tartışma için aşırı derecede abartılı ve yapay bir nezaket dili barındırır."
   },
   {
     "id": "dt282",
@@ -6510,7 +6510,7 @@
     "d_akis": "I am convinced that natural physiological changes in the vocal tract are the sole cause.",
     "d_uslup": "It is highly probable that language is a dynamic medium susceptible to diverse external and internal variables.",
     "tr": "Dilbilimci: Bu lehçedeki ses bilgisel değişim, sadece iki nesil içinde oldukça hızlı bir şekilde gerçekleşmiş gibi görünüyor.\nSosyo-dilbilimci: Bölgedeki ani demografik değişimin bu dönüşümde büyük bir rol oynadığına inanıyor musunuz?\nDilbilimci: Kesinlikle. Göçmen işçilerin o ani akışı olmasaydı, ses birimleri muhtemelen sabit kalacaktı.",
-    "why": "Dilbilimcinin 'Kesinlikle. Göçmen işçilerin o ani akışı olmasaydı...' diyerek onaylaması, boşlukta göç/demografi gibi sosyal bir etkenin sorulduğunu gösterir. Konu-dışı çeldirici fiil yapıları ve yazılı belgelere odaklanmaktadır. Akış çeldiricisi sadece fizyolojik nedenleri savunarak dilbilimcinin göçmen işçi açıklamasıyla çelişir. Üslup çeldiricisi ise dili genel tanımlayan, soruyu yanıtlamayan kaçamak bir ifadedir."
+    "why": "Dilbilimcinin 'Kesinlikle. Göçmen işçilerin o ani akışı olmasaydı...' diyerek onaylaması, boşluktaki sorunun göç/demografi gibi sosyal bir etkeni sorduğunu gösterir. Konu-dışı çeldirici fiil yapıları ve yazılı belgelere odaklanmaktadır. Akış çeldiricisi sadece fizyolojik nedenleri savunarak dilbilimcinin göçmen işçi açıklamasıyla çelişir. Üslup çeldiricisi ise dili genel tanımlayan, soruyu yanıtlamayan kaçamak bir ifadedir."
   },
   {
     "id": "dt284",
@@ -6693,8 +6693,8 @@
     "d_konu": "My Sultan, the northern forces have recently signed a trade treaty with our eastern neighbors.",
     "d_akis": "My Sultan, those fortresses are already impenetrable and do not require any additional repairs.",
     "d_uslup": "A monarch must always maintain a grand army to assert his absolute sovereignty across the lands.",
-    "tr": "Sultan: Kuzey güçlerine karşı sınırlarımızı güvence altına almak için, Tuna boyundaki kaleleri derhal güçlendirmeliyiz.\nSadrazam: Hünkarım, bu tahkimatlara bu kadar çok altın tahsis etmek önümüzdeki bahar yapacağımız sefer hazinesini tüketebilir.\nSultan: Doğru, ancak o bölgedeki askeri bir sızıntı, hazinemize bakılmaksızın doğrudan başkenti tehlikeye atar.",
-    "why": "Sultanın 'Doğru, ancak o bölgedeki askeri sızıntı başkenti tehlikeye atar, hazinemize bakılmaksızın' demesi, sadrazamın finansal/hazine odaklı bir endişe (altın tahsisi) dile getirdiğini gösterir. Konu-dışı çeldirici ticaret anlaşmasından bahseder. Akış çeldiricisi kalelerin zaten geçilmez olduğunu savunur. Üslup çeldiricisi ise genel bir hükümdarlık felsefesi sunan ancak somut askeri/mali detaya değinmeyen kaçamak bir cevaptır."
+    "tr": "Sultan: Kuzey güçlerine karşı sınırlarımızı güvence altına almak için, Tuna boyundaki kaleleri derhal güçlendirmeliyiz.\nSadrazam: Hünkarım, bu tahkimatlara bu kadar çok altın tahsis etmek önümüzdeki bahar yapacağımız sefer hazinesini tüketebilir.\nSultan: Doğru, ancak o bölgedeki askeri bir gedik, hazinemize bakılmaksızın doğrudan başkenti tehlikeye atar.",
+    "why": "Sultanın 'Doğru, ancak o bölgedeki askeri gedik başkenti tehlikeye atar, hazinemize bakılmaksızın' demesi, sadrazamın finansal/hazine odaklı bir endişe (altın tahsisi) dile getirdiğini gösterir. Konu-dışı çeldirici ticaret anlaşmasından bahseder. Akış çeldiricisi kalelerin zaten geçilmez olduğunu savunur. Üslup çeldiricisi ise genel bir hükümdarlık felsefesi sunan ancak somut askeri/mali detaya değinmeyen kaçamak bir cevaptır."
   },
   {
     "id": "dt292",
@@ -6808,7 +6808,7 @@
     "d_konu": "Were you able to identify the chemical composition of the pigments used in that era?",
     "d_akis": "I am absolutely certain that the signature belongs to the master painter himself.",
     "d_uslup": "Restoring old paintings requires an extraordinary level of patience and delicate skill.",
-    "tr": "Sanat Tarihçisi: Rönesans duvar resminin restorasyonu, en üstteki boya katmanının altında gizli bir imza ortaya çıkardı.\nKonservatör: Bu keşif, duvar resminin aidiyeti konusundaki mevcut anlayışımızı değiştiriyor mu?\nSanat Tarihçisi: Aslında, evet. Ustanın baş çırağının tüm alt köşeyi boyadığını doğruluyor.",
+    "tr": "Sanat Tarihçisi: Rönesans duvar resminin restorasyonu, en üstteki boya katmanının altında gizli bir imza ortaya çıkardı.\nKonservatör: Bu keşif, duvar resminin kime ait olduğu konusundaki mevcut anlayışımızı değiştiriyor mu?\nSanat Tarihçisi: Aslında, evet. Ustanın baş çırağının tüm alt köşeyi boyadığını doğruluyor.",
     "why": "Sanat tarihçisinin 'Aslında, evet. Baş çırağın alt köşeyi boyadığını doğruluyor' cevabı, konservatörün resmin kime ait olduğu (yazarlık/aidiyet) üzerine bir soru sorduğunu gösterir. Konu-dışı çeldirici pigmentlerin kimyasal yapısını sormaktadır. Akış çeldiricisi imzanın ustaya ait olduğundan emin olduğunu söyleyerek tarihçinin 'çırağa ait' tespitiyle çelişir. Üslup çeldiricisi ise sabır ve yetenekten bahseden kaçamak bir ifadedir."
   },
   {
@@ -6919,11 +6919,11 @@
         "line": "Don't worry, the new LED fixtures are certified to emit zero ultraviolet radiation."
       }
     ],
-    "correct": "Will the new installation ensure that the painted sarcophagi are not exposed to degrading heat?",
+    "correct": "Will the new installation ensure that the painted sarcophagi are not exposed to degrading ultraviolet radiation?",
     "d_konu": "Should we also rearrange the display cases to improve visitor traffic during weekends?",
     "d_akis": "I highly recommend the lighting contractor we hired for the modern art pavilion last year.",
     "d_uslup": "Preserving these priceless historical treasures must always remain our absolute priority.",
-    "tr": "Müze Küratörü: Antik Mısır galerimizdeki aydınlatma sistemini güncellemek için fon aldık.\nKonservatör: Yeni kurulum, boyalı lahitlerin bozucu ısıya maruz kalmamasını sağlayacak mı?\nMüze Küratörü: Endişelenmeyin, yeni LED armatürlerin ultraviyole radyasyon yaymadığı onaylanmıştır.",
+    "tr": "Müze Küratörü: Antik Mısır galerimizdeki aydınlatma sistemini güncellemek için fon aldık.\nKonservatör: Yeni kurulum, boyalı lahitlerin bozucu ultraviyole radyasyona maruz kalmamasını sağlayacak mı?\nMüze Küratörü: Endişelenmeyin, yeni LED armatürlerin ultraviyole radyasyon yaymadığı onaylanmıştır.",
     "why": "Küratörün 'Endişelenmeyin, yeni LED armatürlerin ultraviyole radyasyon yaymadığı onaylanmıştır' diyerek sakinleştirmesi, konservatörün ışığın lahitler üzerindeki bozucu/fiziksel etkisi (ısı, UV vb.) hakkında bir kaygı dile getirdiğini kanıtlar. Konu-dışı çeldirici ziyaretçi trafiğinden bahseder. Akış çeldiricisi yüklenici firma önerir. Üslup çeldiricisi ise genel bir koruma felsefesi sunan ancak teknik detay sormayan kaçamak bir ifadedir."
   },
   {
@@ -6939,7 +6939,7 @@
       },
       {
         "speaker": "Software Engineer",
-        "line": "We tried indexing those foreign keys, but the latency persist due to the nested join operations."
+        "line": "We tried indexing those foreign keys, but the latency persists due to the nested join operations."
       }
     ],
     "correct": "Have you checked if the index files were properly updated during the migration?",
@@ -7016,7 +7016,7 @@
     "d_akis": "That is extraordinary news, as it proves high-temperature superconductivity is finally achieved.",
     "d_uslup": "Superconductivity continues to challenge our fundamental understanding of quantum physics.",
     "tr": "Fizikçi: Araştırma grubumuz, seksen Kelvin sıcaklıkta süperiletken malzemede anormal bir manyetik imza gözlemledi.\nMalzeme Bilimci: Bu imza, numune tabanındaki nikel kalıntılarının neden olduğu bir ölçüm hatası olabilir mi?\nFizikçi: Hayır, numunede hiçbir safsızlık olmadığından emin olmak için deneyden önce kapsamlı bir kalibrasyon gerçekleştirdik.",
-    "why": "Fizikçinin 'Hayır, numunede hiçbir safsızlık (impunity/traces) olmadığından emin olmak için kalibrasyon yaptık' yanıtı, malzeme bilimcinin numunede yabancı madde kalıntısı (nikel traces) veya ölçüm hatası olup olmadığını sorduğunu gösterir. Konu-dışı çeldirici devlet hibesi başvurusundan bahseder. Akış çeldiricisi kesin başarıyı ilan ederek fizikçinin savunma yapmasını gereksizleştirir. Üslup çeldiricisi ise kuantum fiziğinin zorluklarını genelleyen kaçamak bir tespittir."
+    "why": "Fizikçinin 'Hayır, numunede hiçbir safsızlık (impurities/traces) olmadığından emin olmak için kalibrasyon yaptık' yanıtı, malzeme bilimcinin numunede yabancı madde kalıntısı (nikel traces) veya ölçüm hatası olup olmadığını sorduğunu gösterir. Konu-dışı çeldirici devlet hibesi başvurusundan bahseder. Akış çeldiricisi kesin başarıyı ilan ederek fizikçinin savunma yapmasını gereksizleştirir. Üslup çeldiricisi ise kuantum fiziğinin zorluklarını genelleyen kaçamak bir tespittir."
   },
   {
     "id": "dt306",
@@ -7038,7 +7038,7 @@
     "d_konu": "Do you think the government will extend these subsidies to the neighboring agricultural regions?",
     "d_akis": "I am confident that groundwater levels will return to their historical highs by next spring.",
     "d_uslup": "Water resource management requires a delicate balance between agricultural needs and environmental preservation.",
-    "tr": "Tarım Ekonomisti: Damla sulama sistemlerinin sübvanse edilmesi, vadideki yeraltı suyu çıkarımını önemli ölçüde azalttı.\nHidrolog: Çiftçilerin tasarruf edilen suyu sadece sulanan alanlarını genişletmek için kullanmadıklarından emin miyiz?\nTarım Ekonomisti: Bu çok önemli bir ayrım. Akiferin gerçekten iyileştiğinden emin olmak için toprak nem seviyelerini izliyoruz.",
+    "tr": "Tarım Ekonomisti: Damla sulama sistemlerinin sübvanse edilmesi, vadideki yeraltı suyu çekimini önemli ölçüde azalttı.\nHidrolog: Çiftçilerin tasarruf edilen suyu sadece sulanan alanlarını genişletmek için kullanmadıklarından emin miyiz?\nTarım Ekonomisti: Bu çok önemli bir ayrım. Akiferin gerçekten iyileştiğinden emin olmak için toprak nem seviyelerini izliyoruz.",
     "why": "Ekonomistin 'Bu çok önemli bir ayrım (distinction). Akiferin (su tabakasının) gerçekten iyileştiğinden emin olmak için toprak nemini izliyoruz' yanıtı, hidroloğun tasarruf edilen suyun başka alanları sulamak için suistimal edilip edilmediğine (alan genişletme) yönelik kritik bir soru sorduğunu gösterir. Konu-dışı çeldirici komşu bölgelere sübvansiyondan bahseder. Akış çeldiricisi su seviyesinin hemen yükseleceğini iddia ederek izleme ihtiyacıyla çelişir. Üslup çeldiricisi ise su yönetimini genelleyen kaçamak bir tespittir."
   },
   {
@@ -7061,8 +7061,8 @@
     "d_konu": "Did the price of paper also contribute to the low production of secular books?",
     "d_akis": "I believe the printing press was the single most important factor in educating the masses.",
     "d_uslup": "Technological dissemination is often a slow process that requires structural adjustments over decades.",
-    "tr": "Tarihçi: Matbaanın bölgeye gelişi, okuryazarlık oranlarında anında bir artışa yol açmadı.\nSosyolog: Bu durum, kitapların mevcudiyetinin halk dilindeki resmi eğitim eksikliğini çözmemesinden mi kaynaklanıyordu?\nTarihçi: Kesinlikle. Basılı materyallerin çoğu başlangıçta sadece elitlerin okuyabildiği Latince dilinde üretilmişti.",
-    "why": "Tarihçinin 'Kesinlikle. Materyallerin çoğu elitlerin okuyabildiği Latince dilinde üretilmişti' demesi, sosyoloğun halk dili (vernacular) ve halk eğitimi/okuryazarlık engelleriyle ilgili bir tespitte bulunduğunu gösterir. Konu-dışı çeldirici kağıt fiyatlarından bahseder. Akış çeldiricisi matbaanın halkı anında eğittiğini savunarak tarihçiyle çelişir. Üslup çeldiricisi ise teknolojik yayılımı genelleyen kaçamak bir tespittir."
+    "tr": "Tarihçi: Matbaanın bölgeye gelişi, okuryazarlık oranlarında anında bir artışa yol açmadı.\nSosyolog: Bu durum, kitapların mevcudiyetinin halk dilindeki resmi eğitim eksikliğini çözmemesinden mi kaynaklanıyordu?\nTarihçi: Kesinlikle. Basılı materyallerin çoğu başlangıçta sadece elitlerin okuyabildiği Latince üretilmişti.",
+    "why": "Tarihçinin 'Kesinlikle. Materyallerin çoğu elitlerin okuyabildiği Latince üretilmişti' demesi, sosyoloğun halk dili (vernacular) ve halk eğitimi/okuryazarlık engelleriyle ilgili bir tespitte bulunduğunu gösterir. Konu-dışı çeldirici kağıt fiyatlarından bahseder. Akış çeldiricisi matbaanın halkı anında eğittiğini savunarak tarihçiyle çelişir. Üslup çeldiricisi ise teknolojik yayılımı genelleyen kaçamak bir tespittir."
   },
   {
     "id": "dt308",
@@ -7130,8 +7130,8 @@
     "d_konu": "Should we also consider implementing a tax credit for small businesses next quarter?",
     "d_akis": "I disagree with those findings because traditional economic theories clearly state that unemployment must rise.",
     "d_uslup": "Economic indicators are highly complex and can be influenced by a myriad of domestic and international factors.",
-    "tr": "Sosyo-ekonomist: Veriler, asgari ücretin artırılmasının öngörülen yerel işsizlik artışına yol açmadığını gösteriyor.\nPolitika Analisti: Yerel işletmelerin maliyeti daha yüksek tüketici satışları deneyimleyerek absorbe etmiş olması mümkün mü?\nSosyo-ekonomist: Gerçekten de gerçekleşen şey bu oldu. Düşük gelirli işçilerin artan satın alma gücü, yerel işletme talebini canlandırdı.",
-    "why": "Ekonomistin 'Gerçekten de gerçekleşen şey bu oldu. Düşük gelirli işçilerin artan satın alma gücü yerel talebi canlandırdı' açıklaması, analistin işletmelerin maliyeti tüketici satışlarının/talebinin artmasıyla (sales) absorbe edip etmediğini sorduğunu doğrular. Konu-dışı çeldirici vergi kredisinden bahseder. Akış çeldiricisi teorilerle doğrudan itiraz eder. Üslup çeldiricisi ise göstergeleri genelleyen kaçamak bir ifadedir."
+    "tr": "Sosyo-ekonomist: Veriler, asgari ücretin artırılmasının öngörülen yerel işsizlik artışına yol açmadığını gösteriyor.\nPolitika Analisti: Yerel işletmeler maliyeti bunun yerine artan tüketici satışlarıyla karşılamış olabilir mi?\nSosyo-ekonomist: Gerçekten de gerçekleşen şey bu oldu. Düşük gelirli işçilerin artan satın alma gücü, yerel işletme talebini canlandırdı.",
+    "why": "Ekonomistin 'Gerçekten de gerçekleşen şey bu oldu. Düşük gelirli işçilerin artan satın alma gücü yerel talebi canlandırdı' açıklaması, analistin işletmelerin maliyeti tüketici satışlarının/talebinin artmasıyla (sales) karşılayıp karşılamadığını sorduğunu doğrular. Konu-dışı çeldirici vergi kredisinden bahseder. Akış çeldiricisi teorilerle doğrudan itiraz eder. Üslup çeldiricisi ise göstergeleri genelleyen kaçamak bir ifadedir."
   },
   {
     "id": "dt311",
@@ -7153,7 +7153,7 @@
     "d_konu": "Do you think we should focus our research on deep-sea hydrothermal vents instead?",
     "d_akis": "I am sure these resilient organisms will adapt to the acidic environment over the next few weeks.",
     "d_uslup": "The oceans are vital to our planet's health, and marine biodiversity must be preserved at all costs.",
-    "tr": "Okyanus bilimci: Yükselen okyanus asitliği, deniz organizmalarının kalsiyum karbonat kabuklarını ciddi şekilde zayıflatıyor.\nDeniz Ekologu: Bu bozulmayı bu organizmaların erken gelişim aşamalarında gözlemliyor muyuz?\nOkyanus bilimci: Kesinlikle. Larva aşamaları özellikle savunmasızdır çünkü yapılarını yeterince hızlı kireçleyemezler.",
+    "tr": "Okyanus Bilimci: Yükselen okyanus asitliği, deniz organizmalarının kalsiyum karbonat kabuklarını ciddi şekilde zayıflatıyor.\nDeniz Ekoloğu: Bu bozulmayı bu organizmaların erken gelişim aşamalarında gözlemliyor muyuz?\nOkyanus Bilimci: Kesinlikle. Larva aşamaları özellikle savunmasızdır çünkü yapılarını yeterince hızlı kalsifiye edemezler.",
     "why": "Okyanus bilimcinin 'Kesinlikle. Larva (erken gelişim) aşamaları özellikle savunmasızdır...' yanıtı, ekoloğun organizmaların erken gelişim evrelerini sorduğunu gösterir. Konu-dışı çeldirici hidrotermal bacalarla ilgilidir. Akış çeldiricisi organizmaların birkaç haftada adapte olacağını iddia ederek bilimsel gerçekleri ve larval zafiyeti göz ardı eder. Üslup çeldiricisi ise deniz biyoçeşitliliğini genelleyen kaçamak bir tespittir."
   },
   {
@@ -7199,7 +7199,7 @@
     "d_konu": "Are there any distinctive grammatical changes occurring in their written literature as well?",
     "d_akis": "I am certain that the geographic barrier between the valleys will prevent any dialect mixing.",
     "d_uslup": "Language and geography are intricately linked, reflecting the complex patterns of human migration.",
-    "tr": "Dilbilimci: Bu izole topluluğun fonetik analizi, ünlü harf kaymasının kuzeye doğru yayıldığını gösteriyor.\nCoğrafyacı: Bu hareket, iki vadiyi birbirine bağlayan birincil altyapı yollarını mı takip ediyor?\nDilbilimci: Evet. Kuzey otoyolunun genişletilmesi, çok daha fazla günlük sosyal entegrasyona yol açtı.",
+    "tr": "Dilbilimci: Bu izole topluluğun fonetik analizi, ünlü kaymasının kuzeye doğru yayıldığını gösteriyor.\nCoğrafyacı: Bu hareket, iki vadiyi birbirine bağlayan birincil altyapı yollarını mı takip ediyor?\nDilbilimci: Evet. Kuzey otoyolunun genişletilmesi, çok daha fazla günlük sosyal entegrasyona yol açtı.",
     "why": "Dilbilimcinin 'Evet. Kuzey otoyolunun genişletilmesi...' cevabı, coğrafyacının yayılımın altyapı ve otoyol rotalarını (infrastructure routes) takip edip etmediğini sorduğunu gösterir. Konu-dışı çeldirici yazılı edebiyattaki dilbilgisi değişimlerini sorar. Akış çeldiricisi yayılımın engelleneceğini iddia ederek dilbilimcinin 'yayıldığını gösteriyor' tespitiyle çelişir. Üslup çeldiricisi ise dil-coğrafya ilişkisini genelleyen kaçamak bir ifadedir."
   },
   {
@@ -7222,7 +7222,7 @@
     "d_konu": "Were these specimens found in the same geological layers as the ancient stone tools?",
     "d_akis": "I believe they actually preferred eating soft fruits whenever they were seasonally available.",
     "d_uslup": "Paleoanthropology provides invaluable insights into the diverse evolutionary trajectories of our ancestors.",
-    "tr": "Paleontolog: Bu Miyosen homnidinin fosilleşmiş diş yapısı, esas olarak sert lifli bitkilerden oluşan bir diyete işaret ediyor.\nAntropolog: Böyle bir diyet için gereken mekanik stres, onların kafatası sağlamlığıyla korelasyon gösteriyor mu?\nPaleontolog: Bu, tüm örneklerde gözlemlenen yüksek mine aşınması ve kalın çene yapısıyla doğrulanıyor.",
+    "tr": "Paleontolog: Bu Miyosen hominidin fosilleşmiş diş yapısı, esas olarak sert lifli bitkilerden oluşan bir diyete işaret ediyor.\nAntropolog: Böyle bir diyet için gereken mekanik stres, onların kafatası sağlamlığıyla korelasyon gösteriyor mu?\nPaleontolog: Bu, tüm örneklerde gözlemlenen yüksek mine aşınması ve kalın çene yapısıyla doğrulanıyor.",
     "why": "Paleontoloğun 'Bu, tüm örneklerde gözlemlenen yüksek mine aşınması ve kalın çene yapısıyla doğrulanıyor' demesi, antropoloğun çiğneme stresi ve çene/kafatası sağlamlığı (cranial robusticity) arasındaki fiziksel ilişkiyi sorduğunu gösterir. Konu-dışı çeldirici taş aletlerden bahseder. Akış çeldiricisi yumuşak meyve yediklerini söyleyerek lifli bitki diyetini ve akışı bozar. Üslup çeldiricisi ise paleontolojiyi öven kaçamak bir cümledir."
   },
   {
@@ -7252,7 +7252,7 @@
     "id": "dt316",
     "dialogue": [
       {
-        "speaker": "Sosiologist",
+        "speaker": "Sociologist",
         "line": "Our survey indicates that social cohesion in these urban neighborhoods has declined since the gentrification process began."
       },
       {
@@ -7260,7 +7260,7 @@
         "line": "____"
       },
       {
-        "speaker": "Sosiologist",
+        "speaker": "Sociologist",
         "line": "Undeniably. The loss of those informal meeting hubs was identified as the primary factor in our interviews."
       }
     ],
@@ -7291,7 +7291,7 @@
     "d_konu": "Should we recommend that parents buy larger tablet screens to prevent eye strain?",
     "d_akis": "I do not think screen time is the issue; children are simply less motivated to pay attention nowadays.",
     "d_uslup": "Childhood cognitive development is a complex process that demands careful parental guidance.",
-    "tr": "Psikolog: Aşırı ekran süresinin küçük çocuklarda daha kısa dikkat süresiyle korelasyon gösterdiğini bulduk.\nPediatrist: Dijital içeriğin hızlı tempolu yapısı bu bilişsel etkide önemli bir rol oynuyor mu?\nPsikolog: Bu son derece olası. Dijital medyadaki sürekli hızlı sahne değişiklikleri erken duyusal işlemeyi değiştiriyor.",
+    "tr": "Psikolog: Aşırı ekran süresinin küçük çocuklarda daha kısa dikkat süresiyle korelasyon gösterdiğini bulduk.\nÇocuk Doktoru: Dijital içeriğin hızlı tempolu yapısı bu bilişsel etkide önemli bir rol oynuyor mu?\nPsikolog: Bu son derece olası. Dijital medyadaki sürekli hızlı sahne değişiklikleri erken duyusal işlemeyi değiştiriyor.",
     "why": "Psikoloğun 'Bu son derece olası. Sürekli hızlı sahne değişiklikleri (fast-paced content) duyusal işlemeyi değiştiriyor' demesi, pediatristin dijital içeriğin hızlı tempolu doğasını sorguladığını gösterir. Konu-dışı çeldirici ekran boyutundan ve göz yorgunluğundan bahseder. Akış çeldiricisi ekran süresini tamamen aklayarak akışı bozar. Üslup çeldiricisi ise çocuk gelişimini genelleyen kaçamak bir tespittir."
   },
   {
@@ -7353,14 +7353,14 @@
       },
       {
         "speaker": "Physician",
-        "line": "Yes, we have initiated strict isolation protocols for patients carrying those specific strains."
+        "line": "Yes, we have identified them and initiated strict isolation protocols for patients carrying those specific strains."
       }
     ],
     "correct": "Have you identified the specific plasmids responsible for transferring this resistance?",
     "d_konu": "Do you think we should recommend increasing the daily dosage of those antibiotics instead?",
     "d_akis": "I am certain that a new superbug will cause a global pandemic before the end of this year.",
     "d_uslup": "Antibiotic resistance is a highly critical global health concern that demands urgent scientific attention.",
-    "tr": "Hekim: Klinik servislerimizde üçüncü nesil antibiyotiklere karşı artan bir direnç gözlemliyoruz.\nMikrobiyolog: Bu direncin aktarılmasından sorumlu spesifik plazmidleri tanımladınız mi?\nHekim: Evet, bu belirli suşları taşıyan hastalar için sıkı izolasyon protokolleri başlattık.",
+    "tr": "Hekim: Klinik servislerimizde üçüncü nesil antibiyotiklere karşı artan bir direnç gözlemliyoruz.\nMikrobiyolog: Bu direncin aktarılmasından sorumlu spesifik plazmidleri tanımladınız mi?\nHekim: Evet, onları tespit ettik ve bu belirli suşları taşıyan hastalar için sıkı izolasyon protokolleri başlattık.",
     "why": "Hekimin 'Evet, bu belirli suşları (strains) taşıyan hastalar için izolasyon başlattık' demesi, mikrobiyoloğun direnci aktaran spesifik plazmidler/suşlar üzerine teknik bir soru sorduğunu gösterir. Konu-dışı çeldirici dozaj artırmaktan bahseder. Akış çeldiricisi küresel pandemi korkusu yayarak akışı bozar. Üslup çeldiricisi ise direnç konusunu genelleyen kaçamak bir tespittir."
   }
 ]

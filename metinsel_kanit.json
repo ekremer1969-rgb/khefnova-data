@@ -1328,7 +1328,7 @@
  {
   "id": "kem035",
   "topic": "Biomimicry (Science)",
-  "paragraph": "Biomimicry in architecture involves copying natural designs to create highly energy-efficient public buildings. For instance, the ventilation system of Zimbabwe's Eastgate Centre mimic East African termite mounds, which maintain stable temperatures without air conditioning. This ecological approach drastically reduces reliance on mechanical cooling, lowering electricity bills and carbon footprints in modern cities.",
+  "paragraph": "Biomimicry in architecture involves copying natural designs to create highly energy-efficient public buildings. For instance, the ventilation system of Zimbabwe's Eastgate Centre is designed to mimic East African termite mounds, which maintain stable temperatures without air conditioning. This ecological approach drastically reduces reliance on mechanical cooling, lowering electricity bills and carbon footprints in modern cities.",
   "question": "How does Zimbabwe's Eastgate Centre maintain comfortable indoor temperatures?",
   "correct_answer": "By imitating the cooling airflow structures built by insects.",
   "evidence_pool": [
@@ -1537,7 +1537,7 @@
     "text": "city governments",
     "is_evidence": true,
     "mapped_to": "municipal authorities",
-    "why": "Şehir yönetimleri ifadesi, cevaptaki belediye yetkilileri/merkezi yönetim karşılığını doğrudan doğrular."
+    "why": "Şehir yönetimleri ifadesi, cevaptaki belediye yetkilileri karşılığını doğrudan doğrular."
    },
    {
     "text": "cheap subway fares",
@@ -1640,7 +1640,7 @@
  {
   "id": "kem043",
   "topic": "Sleep Deprivation (Health)",
-  "paragraph": "In today's fast-paced society, sleep deprivation has become a silent epidemic affecting millions of young professionals. Research consistently shows that a lack of adequate rest severely impairs cognitive performance, reducing attention span and slow decision-making processes. Over time, chronic sleep deficit also contributes to heightened stress levels, making it harder for individuals to maintain emotional stability at work.",
+  "paragraph": "In today's fast-paced society, sleep deprivation has become a silent epidemic affecting millions of young professionals. Research consistently shows that a lack of adequate rest severely impairs cognitive performance, reducing attention span and slowing decision-making processes. Over time, chronic sleep deficit also contributes to heightened stress levels, making it harder for individuals to maintain emotional stability at work.",
   "question": "What is one immediate cognitive effect of not getting enough sleep?",
   "correct_answer": "It significantly hinders mental processing speed and attentiveness.",
   "evidence_pool": [
@@ -3097,13 +3097,13 @@
     "text": "chemical filters",
     "is_evidence": true,
     "mapped_to": "chemical strainers",
-    "why": "Kimyasal filtreler ifadesi, cevaptaki kimyasal süzgeçler/strainerler karşılığını doğrudan kanıtlar."
+    "why": "Kimyasal filtreler ifadesi, cevaptaki kimyasal süzgeçler karşılığını doğrudan kanıtlar."
    },
    {
     "text": "permanently sequestered",
     "is_evidence": true,
     "mapped_to": "locking the captured gas",
-    "why": "Kalıcı olarak hapsetmek/depolamak ifadesi, cevaptaki yakalanan gası kilitlemek karşılığını doğrudan doğrular."
+    "why": "Kalıcı olarak hapsetmek/depolamak ifadesi, cevaptaki yakalanan gazı kilitlemek karşılığını doğrudan doğrular."
    },
    {
     "text": "basalt rock formations",
@@ -3403,7 +3403,7 @@
     "text": "rural economies",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Milli gelirin ve ekonominin coğrafi alanıdır; girişimcinin alacağı desteği doğrudan kanıtlamaz."
+    "why": "Ekonominin kırsal kesimini belirtir; girişimcinin alacağı desteği doğrudan kanıtlamaz."
    },
    {
     "text": "traditional banking",
@@ -3838,7 +3838,7 @@
     "text": "absorb dangerous heavy metals",
     "is_evidence": true,
     "mapped_to": "attract environmental toxins",
-    "why": "Tehlikeli ağır metalleri emmek ifadesi, cevaptaki çevresel toxinsleri çekmek karşılığını doğrudan doğrular."
+    "why": "Tehlikeli ağır metalleri emmek ifadesi, cevaptaki çevresel toksinleri çekmek karşılığını doğrudan doğrular."
    },
    {
     "text": "small fish",
@@ -3877,7 +3877,7 @@
     "text": "artificial skyglow",
     "is_evidence": true,
     "mapped_to": "Artificial light obscures celestial bodies",
-    "why": "Yapay gökyüzü parlaması ifadesi, cevaptaki yapay ışığın gök cisimlerini gölgelemesi/perdelemesi karşılığını doğrudan eşler."
+    "why": "Yapay gökyüzü parlaması ifadesi, cevaptaki yapay ışığın gök cisimlerini gizlemesi karşılığını doğrudan eşler."
    },
    {
     "text": "optical telescopes",
@@ -3916,7 +3916,7 @@
     "text": "transcription errors",
     "is_evidence": true,
     "mapped_to": "writing mistakes",
-    "why": "Kopyalama/yazım hataları ifadesi, cevaptaki yazım yanlışları karşılığını doğrudan doğrular."
+    "why": "Kopyalama hataları ifadesi, cevaptaki yazım yanlışları karşılığını doğrudan doğrular."
    },
    {
     "text": "distribute identical texts",
@@ -4175,7 +4175,7 @@
  {
   "id": "kem108",
   "topic": "Quantum Computing (Technology)",
-  "paragraph": "Quantum computers leverage the principles of superposition and entanglement to process information at speeds unimaginable with classical silicon chips. While traditional transistors represent data as binary bits, qubits can exist in multiple states simultaneously. This quantum flexibility allows algorithms to solve complex mathematical puzzles, including factoring large prime numbers, which would take classical supercomputers millennia.",
+  "paragraph": "Quantum computers leverage the principles of superposition and entanglement to process information at speeds unimaginable with classical silicon chips. While traditional transistors represent data as binary bits, qubits can exist in multiple states simultaneously. This quantum flexibility allows algorithms to solve complex mathematical puzzles, including factoring large composite numbers, which would take classical supercomputers millennia.",
   "question": "What features of quantum systems enable them to outperform silicon computers in math problems?",
   "correct_answer": "They use qubits in multiple states at once to resolve intricate calculations far faster.",
   "evidence_pool": [
@@ -4183,7 +4183,7 @@
     "text": "superposition and entanglement",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Kuantum mekaniğinin teorik ilkeleridir; qubits'lerin çoklu durum özelliğini doğrudan kanıtlamaz."
+    "why": "Kuantum mekaniğinin teorik ilkeleridir; kubitlerin çoklu durum özelliğini doğrudan kanıtlamaz."
    },
    {
     "text": "qubits can exist in multiple states simultaneously",
@@ -4198,7 +4198,7 @@
     "why": "Karmaşık matematiksel bulmacaları çözmek ifadesi, cevaptaki çetrefilli hesaplamaları çözmek karşılığını doğrudan doğrular."
    },
    {
-    "text": "factoring large prime numbers",
+    "text": "factoring large composite numbers",
     "is_evidence": false,
     "mapped_to": null,
     "why": "Yapılan işlemin matematiksel örneğidir; hız farkının genel kanıtı değildir."
@@ -4315,10 +4315,10 @@
     "why": "Sosyal yapılar ifadesi, cevaptaki sosyal düzenleri tespit etmek karşılığını doğrudan doğrular."
    },
    {
-    "text": "cooperative herds",
+    "text": "extinct species",
     "is_evidence": true,
     "mapped_to": "prehistoric species",
-    "why": "Uyumlu sürüler halinde seyahat etmek, topluluğun tarih öncesi türler olduğunu doğrudan kanıtlar."
+    "why": "Soyu tükenmiş türler ifadesi, cevaptaki tarih öncesi türler karşılığını doğrudan doğrular."
    },
    {
     "text": "protect their vulnerable offspring",
@@ -4663,7 +4663,7 @@
     "text": "compulsive checking habits",
     "is_evidence": true,
     "mapped_to": "causing compulsive habits",
-    "why": "Dürtüsel/kompulsif kontrol alışkanlıkları, cevaptaki kompulsif alışkanlıklara yol açma karşılığını doğrudan doğrular."
+    "why": "Kompulsif kontrol alışkanlıkları, cevaptaki kompulsif alışkanlıklara yol açma karşılığını doğrudan doğrular."
    },
    {
     "text": "attention spans",
@@ -4675,7 +4675,7 @@
     "text": "increasing anxiety levels",
     "is_evidence": true,
     "mapped_to": "higher anxiety",
-    "why": "Anksiyete seviyelerinin artması ifadesi, cevaptaki daha yüksek kaygı/anksiyete karşılığını doğrudan doğrular."
+    "why": "Anksiyete seviyelerinin artması ifadesi, cevaptaki daha yüksek kaygı karşılığını doğrudan doğrular."
    }
   ]
  },
@@ -4877,7 +4877,7 @@
  {
   "id": "kem126",
   "topic": "Alternative Energy (Environment)",
-  "paragraph": "Harnessing wind energy has emerged as a cornerstone of global carbon reduction strategies. Offshore wind farms are particularly advantageous because maritime winds are stronger and more consistent than those over land. However, offshore construction requires specialized ships and corrosive-resistant materials, which increases initial installation budgets. To make these projects economically viable, engineering teams must maximize turbine rotor diameters to capture more energy.",
+  "paragraph": "Harnessing wind energy has emerged as a cornerstone of global carbon reduction strategies. Offshore wind farms are particularly advantageous because maritime winds are stronger and more consistent than those over land. However, offshore construction requires specialized ships and corrosion-resistant materials, which increases initial installation budgets. To make these projects economically viable, engineering teams must maximize turbine rotor diameters to capture more energy.",
   "question": "Why are wind turbines located at sea more efficient than those built on land?",
   "correct_answer": "Oceanic breezes tend to be more powerful and steady.",
   "evidence_pool": [
@@ -4900,7 +4900,7 @@
     "why": "İnşaat faaliyetinin adıdır; denizdeki rüzgarın fiziksel verimliliğini kanıtlamaz."
    },
    {
-    "text": "corrosive-resistant materials",
+    "text": "corrosion-resistant materials",
     "is_evidence": false,
     "mapped_to": null,
     "why": "Kullanılan malzeme türüdür; rüzgarın gücü veya sürekliliği ile ilgisi olmayan bir tuzaktır."
@@ -5176,7 +5176,7 @@
     "text": "digital designs",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Süreçte kullanılan bilgisayarlı planlerdir; fiziksel malzeme tasarrufunun doğrudan kanıtı değildir."
+    "why": "Süreçte kullanılan dijital tasarımlardır; fiziksel malzeme tasarrufunun doğrudan kanıtı değildir."
    },
    {
     "text": "complex geometries",
@@ -5215,7 +5215,7 @@
     "text": "promote tissue regeneration",
     "is_evidence": true,
     "mapped_to": "stimulate tissue regrowth",
-    "why": "Doku yenilenmesini destekleme ifadesi, cevaptaki doku büyümesini uyarma vaadini doğrudan kanıtlar."
+    "why": "Doku yenilenmesini destekleme ifadesi, cevaptaki doku büyümesini uyarma etkisini doğrudan kanıtlar."
    },
    {
     "text": "immune responses",
@@ -5353,7 +5353,7 @@
     "text": "induces seismic activity",
     "is_evidence": true,
     "mapped_to": "cause underground earthquakes",
-    "why": "Sismik hareketlilik tetikleme riski, cevaptaki yer sarsıntılarına/depremlere yol açma tehlikesini doğrudan kanıtlar."
+    "why": "Sismik hareketlilik tetikleme riski, cevaptaki depremlere yol açma tehlikesini doğrudan kanıtlar."
    },
    {
     "text": "deep drilling",
@@ -5392,7 +5392,7 @@
     "text": "non-slip footpads",
     "is_evidence": true,
     "mapped_to": "traction-friendly paws",
-    "why": "Kaymaz taban yapısı, cevaptaki yüksek sürtünmeli/kaymaz pençeler anatomik adaptasyonunu doğrudan kanıtlar."
+    "why": "Kaymaz taban yapısı, cevaptaki kaymaz pençeler anatomik adaptasyonunu doğrudan kanıtlar."
    },
    {
     "text": "Pleistocene epoch",
@@ -5443,7 +5443,7 @@
     "text": "neutralize virus particles",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Filtrenin tek başına yapamadığı etkisizleştirme işlemidir; duct içine takılan cihazı açıklamaz."
+    "why": "Filtrenin tek başına yapamadığı etkisizleştirme işlemidir; kanal içine takılan cihazı açıklamaz."
    },
    {
     "text": "ultraviolet sanitizers",
@@ -5533,7 +5533,7 @@
     "text": "dairy products",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Kalitesi korunan süt ürünleridir; iklim değişikliğini önleyen midelisel değişimi kanıtlamaz."
+    "why": "Kalitesi korunan süt ürünleridir; iklim değişikliğini önleyen mide içindeki değişimi kanıtlamaz."
    }
   ]
  },
@@ -5657,7 +5657,7 @@
  {
   "id": "kem146",
   "topic": "Neurology & Music (Health)",
-  "paragraph": "Neuroimaging studies have revealed that listening to rhythmic music stimulates the motor cortex, even when individuals remain completely still. This neural connection is particularly valuable in rehabilitative therapies for Parkinson's disease, where patients struggle with gait initiation. By utilizing auditory cues with a strong, predictable beat, therapists help stroke patients synchronize their steps, significantly improving walking speed and restoring physical coordination.",
+  "paragraph": "Neuroimaging studies have revealed that listening to rhythmic music stimulates the motor cortex, even when individuals remain completely still. This neural connection is particularly valuable in rehabilitative therapies for Parkinson's disease, where patients struggle with gait initiation. By utilizing auditory cues with a strong, predictable beat, therapists help Parkinson's patients synchronize their steps, significantly improving walking speed and restoring physical coordination.",
   "question": "How does rhythmic music assist Parkinson's patients during physical rehabilitation?",
   "correct_answer": "It activates the movement-control brain region and utilizes predictable beats to coordinate walking steps.",
   "evidence_pool": [
@@ -5680,10 +5680,10 @@
     "why": "Güçlü ve öngörülebilir ritimli işitsel uyarıcılar, cevaptaki adımları koordine etmek için öngörülebilir ritimler kullanma yöntemini doğrudan kanıtlar."
    },
    {
-    "text": "stroke patients",
+    "text": "Parkinson's patients",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Rehabilite edilen diğer hasta grubudur; müzikal ritmin beyindeki motor etkisini kanıtlamaz."
+    "why": "Rehabilite edilen hasta grubudur; müzikal ritmin beyindeki motor etkisini kanıtlamaz."
    },
    {
     "text": "physical coordination",
@@ -5821,7 +5821,7 @@
     "text": "injecting sulfur dioxide gas into the stratosphere",
     "is_evidence": true,
     "mapped_to": "entering the stratosphere",
-    "why": "Kükürt dioksit gazının stratosfere zerk edilmesi, cevaptaki gasın stratosfere girmesi koşulunu doğrudan kanıtlar."
+    "why": "Kükürt dioksit gazının stratosfere zerk edilmesi, cevaptaki gazın stratosfere girmesi koşulunu doğrudan kanıtlar."
    },
    {
     "text": "creates highly reflective sulfate aerosols",
@@ -5833,7 +5833,7 @@
     "text": "reflect incoming solar radiation",
     "is_evidence": true,
     "mapped_to": "deflecting sunlight",
-    "why": "Gelen güneş radyasyonunu yansıtma eylemi, cevaptaki güneş ışığını geri saptırma/yansıtma mekanizmasını doğrudan kanıtlar."
+    "why": "Gelen güneş radyasyonunu yansıtma eylemi, cevaptaki güneş ışığını geri yansıtma mekanizmasını doğrudan kanıtlar."
    },
    {
     "text": "cooling effect",
@@ -5852,7 +5852,7 @@
  {
   "id": "kem151",
   "topic": "Financial Literacy (Economy)",
-  "paragraph": "To prevent young adults from falling into severe debt, high schools are introducing mandatory courses in financial literacy. Educational studies indicate that teaching students how to construct a monthly budget decreases impulse spending. Additionally, these classes explain how high interest compound rates accumulate on credit cards, helping students avoid predatory loan agreements and ensuring long-term financial security as they enter the workforce.",
+  "paragraph": "To prevent young adults from falling into severe debt, high schools are introducing mandatory courses in financial literacy. Educational studies indicate that teaching students how to construct a monthly budget decreases impulse spending. Additionally, these classes explain how high compound interest rates accumulate on credit cards, helping students avoid predatory loan agreements and ensuring long-term financial security as they enter the workforce.",
   "question": "What are the key lessons taught in financial literacy courses, and what are their benefits?",
   "correct_answer": "Constructing monthly budgets lowers impulsive buying, while understanding credit card interest helps avoid predatory agreements.",
   "evidence_pool": [
@@ -5869,7 +5869,7 @@
     "why": "Dürtüsel harcamaları azaltma etkisi, cevaptaki düşüncesizce satın almaları düşürme yararını doğrudan kanıtlar."
    },
    {
-    "text": "high interest compound rates",
+    "text": "high compound interest rates",
     "is_evidence": false,
     "mapped_to": null,
     "why": "Derslerde anlatılan finansal matematik kavramıdır; öğrencilerin kaçındığı anlaşma türlerini doğrudan açıklamaz."
@@ -5878,7 +5878,7 @@
     "text": "avoid predatory loan agreements",
     "is_evidence": true,
     "mapped_to": "helps avoid predatory agreements",
-    "why": "Yıntıcı/tuzak kredi sözleşmelerinden kaçınma becerisi, cevaptaki zararlı borç anlaşmalarından uzak durma faydasını doğrudan kanıtlar."
+    "why": "Sömürücü kredi sözleşmelerinden kaçınma becerisi, cevaptaki zararlı borç anlaşmalarından uzak durma faydasını doğrudan kanıtlar."
    },
    {
     "text": "workforce",
@@ -5931,7 +5931,7 @@
   "id": "kem153",
   "topic": "History of Navigation (History)",
   "paragraph": "The invention of the marine chronometer in the eighteenth century revolutionized seafaring by allowing sailors to calculate longitude accurately. Prior to this, ships frequently lost their way on open oceans, leading to deadly shipwrecks on uncharted reefs. By maintaining precise Greenwich Mean Time despite the constant rocking motion of ships, this mechanical clock enabled navigators to determine their exact east-west position, drastically reducing travel times and saving thousands of lives.",
-  "question": "What problem did ancient sailors face, and how did the marine chronometer solve it?",
+  "question": "What problem did early sailors face, and how did the marine chronometer solve it?",
   "correct_answer": "Ships lost their way on oceans, which was resolved by a mechanical clock that tracked Greenwich Time to determine east-west positions.",
   "evidence_pool": [
    {
@@ -5962,7 +5962,7 @@
     "text": "travel times",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Kısaltılan yolculuk süreleridir; saatin geminin sarsıntısına rağmen ölçtüğü sapan zaman verisini kanıtlamaz."
+    "why": "Kısaltılan yolculuk süreleridir; saatin geminin sarsıntısına rağmen ölçtüğü zaman verisini kanıtlamaz."
    }
   ]
  },
@@ -5995,7 +5995,7 @@
     "text": "random assignment",
     "is_evidence": true,
     "mapped_to": "using random assignment",
-    "why": "Rastgele eşleştirme yöntemi yapılması, cevaptaki deneklerin rastgele atanması metodunu doğrudan kanıtlar."
+    "why": "Rastgele atama yöntemi uygulanması, cevaptaki deneklerin rastgele atanması metodunu doğrudan kanıtlar."
    },
    {
     "text": "demographic differences do not skew",
@@ -6038,9 +6038,9 @@
    },
    {
     "text": "high-purity water is strictly required",
-    "is_evidence": false,
-    "mapped_to": null,
-    "why": "Gerekli olan saf su girdisidir; güneş enerjisinin suyu nasıl böldüğü kimyasal adımlarını kendi başına kanıtlamaz."
+    "is_evidence": true,
+    "mapped_to": "strictly requires high-purity water",
+    "why": "Yüksek saflıkta suyun zorunlu olması ifadesi, cevaptaki yüksek saflıkta su gerekliliğini doğrudan doğrular."
    }
   ]
  },
@@ -6139,7 +6139,7 @@
     "text": "reducing energy expenditures",
     "is_evidence": true,
     "mapped_to": "decrease energy expenditures",
-    "why": "Enerji harcamalarını azaltma etkisi, cevaptaki elektrik/enerji faturalarını düşürme tasarrufunu doğrudan kanıtlar."
+    "why": "Enerji harcamalarını azaltma etkisi, cevaptaki enerji faturalarını düşürme tasarrufunu doğrudan kanıtlar."
    },
    {
     "text": "absorb heavy rainfall",
@@ -6892,7 +6892,7 @@
     "text": "remains stable",
     "is_evidence": true,
     "mapped_to": "accumulated facts and vocabulary stay intact",
-    "why": "Zekanın kararlı kalması/korunması, cevaptaki birikmiş bilgi ve kelime dağarcığının korunması durumunu doğrudan kanıtlar."
+    "why": "Zekanın kararlı kalması, cevaptaki birikmiş bilgi ve kelime dağarcığının korunması durumunu doğrudan kanıtlar."
    },
    {
     "text": "experience and wisdom",
@@ -6964,7 +6964,7 @@
     "text": "reduces the availability",
     "is_evidence": true,
     "mapped_to": "deprives shell-building creatures of necessary minerals",
-    "why": "Kalsiyum iyonlarının bulunabilirliğinin azalması, cevaptaki kabuklu canlıları minerallerden mahrum bırakma durumunu doğrudan kanıtlar."
+    "why": "Karbonat iyonlarının bulunabilirliğinin azalması, cevaptaki kabuklu canlıları minerallerden mahrum bırakma durumunu doğrudan kanıtlar."
    },
    {
     "text": "oysters, crabs",
@@ -7030,7 +7030,7 @@
     "text": "Sustainable forestry",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Genel tarım modelidir; ağaç kesim yönteminin detayını doğrudan kanıtlamaz."
+    "why": "Genel orman yönetimi yaklaşımıdır; ağaç kesim yönteminin detayını doğrudan kanıtlamaz."
    },
    {
     "text": "removing only mature trees",
@@ -7315,7 +7315,7 @@
     "text": "carbon sequestration",
     "is_evidence": true,
     "mapped_to": "carbon trapping",
-    "why": "Karbon tutma/depolama işlemi, cevaptaki karbon yakalama karşılığını doğrudan doğrular."
+    "why": "Karbon tutma işlemi, cevaptaki karbon yakalama karşılığını doğrudan doğrular."
    },
    {
     "text": "fluctuations in plankton populations",
@@ -7336,7 +7336,7 @@
   "topic": "Industrial Revolution (History)",
   "paragraph": "The Industrial Revolution in eighteenth-century Britain marked a profound transition from agricultural economies to mechanized manufacturing. The invention of the steam engine dramatically increased factory output, prompting massive rural-to-urban migration as workers sought employment. Despite this sudden economic growth, the working class endured dangerous conditions and long hours, prompting the rise of modern labor unions.",
   "question": "How did the introduction of steam technology affect economies, worker demography, and labor movements?",
-  "correct_answer": "Mechanized engines boosted factory production, caused cityward migration, and led to the creation of workers coalitions.",
+  "correct_answer": "Mechanized engines boosted factory production, caused cityward migration, and led to the creation of workers' coalitions.",
   "evidence_pool": [
    {
     "text": "steam engine",
@@ -7347,7 +7347,7 @@
    {
     "text": "increased factory output",
     "is_evidence": true,
-    "mapped_to": "mechanized engines boosted factory production",
+    "mapped_to": "Mechanized engines boosted factory production",
     "why": "Fabrika çıktısını artırma etkisi, cevaptaki makineleşmiş motorların üretimi yükseltmesi karşılığını doğrudan doğrular."
    },
    {
@@ -7359,7 +7359,7 @@
    {
     "text": "labor unions",
     "is_evidence": true,
-    "mapped_to": "led to the creation of workers coalitions",
+    "mapped_to": "led to the creation of workers' coalitions",
     "why": "İşçi sendikaları örgütlenmesi, cevaptaki çalışan koalisyonlarının kurulması sonucunu doğrudan doğrular."
    },
    {
@@ -7426,7 +7426,7 @@
     "text": "release of brain-derived neurotrophic factor",
     "is_evidence": true,
     "mapped_to": "promotes brain protein release that helps nerve growth",
-    "why": "Beyin kaynaklı koruyucu faktör salınımı, cevaptaki sinir büyümesini destekleyen beyin proteini salınımını doğrudan kanıtlar."
+    "why": "Beyin kaynaklı nörotrofik faktör salınımı, cevaptaki sinir büyümesini destekleyen beyin proteini salınımını doğrudan kanıtlar."
    },
    {
     "text": "reduces systemic inflammation",
@@ -7453,7 +7453,7 @@
   "topic": "Green Architecture (Engineering)",
   "paragraph": "Modern green buildings incorporate sustainable engineering practices to minimize environmental footprints during their operational lifespans. Architects deploy passive heating techniques and double-glazed windows to optimize thermal efficiency, substantially reducing heating and cooling costs. Furthermore, rainwater harvesting systems collect and purify runoff, supplying non-potable water for sanitation and landscaping needs without relying on municipal reserves.",
   "question": "How do sustainable buildings achieve energy savings and reduce water reliance?",
-  "correct_answer": "They use smart insulation design to lower thermal costs and gather precipitation to cover municipal water needs.",
+  "correct_answer": "They use smart insulation design to lower thermal costs and gather precipitation to reduce reliance on municipal water.",
   "evidence_pool": [
    {
     "text": "passive heating",
@@ -7516,7 +7516,7 @@
     "text": "adapting their tool-making",
     "is_evidence": true,
     "mapped_to": "adjusted their gear",
-    "why": "Alet yapma teknolojilerini uyarlama eylemi, cevaptaki ekipmanlarını/araçlarını ayarlama durumunu doğrudan doğrular."
+    "why": "Alet yapma teknolojilerini uyarlama eylemi, cevaptaki araçlarını ayarlama durumunu doğrudan doğrular."
    },
    {
     "text": "ecological zones",
@@ -7537,7 +7537,7 @@
     "text": "spawning grounds",
     "is_evidence": true,
     "mapped_to": "nurseries",
-    "why": "Yumurtlama alanları ifadesi, cevaptaki balık yuvaları/kreşleri karşılığını doğrudan kanıtlar."
+    "why": "Yumurtlama alanları ifadesi, cevaptaki balık kreşleri karşılığını doğrudan kanıtlar."
    },
    {
     "text": "sheltering juvenile organisms",
@@ -7666,7 +7666,7 @@
     "text": "chronic stress",
     "is_evidence": true,
     "mapped_to": "hindered by persistent tension",
-    "why": "Kronik stres faktörü, cevaptaki kalıcı stres/gerginlik nedeniyle engellenme durumunu doğrudan kanıtlar."
+    "why": "Kronik stres faktörü, cevaptaki kalıcı gerginlik nedeniyle engellenme durumunu doğrudan kanıtlar."
    },
    {
     "text": "subgranular zone",
@@ -8362,7 +8362,7 @@
     "text": "Handling tangible objects",
     "is_evidence": true,
     "mapped_to": "Manipulating physical items",
-    "why": "Fiziksel nesneleri ellemek ifadesi, cevaptaki fiziksel nesneleri yönlendirmek karşılığını doğrudan kanıtlar."
+    "why": "Somut nesnelerle uğraşmak ifadesi, cevaptaki fiziksel nesneleri elle işlemek karşılığını doğrudan kanıtlar."
    },
    {
     "text": "tactile feedback",
@@ -8419,7 +8419,7 @@
     "text": "employee training",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Alınması gereken önlemdir; filtrelerin neden aşındığını doğrudan kanıtlamaz."
+    "why": "Alınması gereken önlemdir; filtrelerin neden yetersiz kaldığını doğrudan kanıtlamaz."
    }
   ]
  },
@@ -8563,7 +8563,7 @@
     "text": "infer the presence",
     "is_evidence": true,
     "mapped_to": "estimate the existence",
-    "why": "Varlığını tahmin etmek/çıkarsamak ifadesi, cevaptaki varlığını öngörmek karşılığını doğrudan kanıtlar."
+    "why": "Varlığını çıkarsamak ifadesi, cevaptaki varlığını öngörmek karşılığını doğrudan kanıtlar."
    },
    {
     "text": "thick ice shell",
@@ -8887,7 +8887,7 @@
     "text": "urban alienation",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Binasının yarattığı yalnızlaşma hissidir; belediyenin yaptığı iyileştirici eylemleri kanıtlamaz."
+    "why": "Binaların yarattığı kentsel yabancılaşma hissidir; belediyenin yaptığı iyileştirici eylemleri kanıtlamaz."
    }
   ]
  },
@@ -9089,15 +9089,15 @@
  {
   "id": "kem234",
   "topic": "Logistics (Technology)",
-  "paragraph": "The integration of autonomous warehouse robots has revolutionized supply chain logistics by streamlining inventory tracking. These mobile units navigate factory floors using laser guidance systems, picking and packing items with minimal human intervention. By operating continuously without breaks, these systems increase order fulfillment speed while reducing picking errors, allowing e-commerce companies to offer guaranteed next-day delivery.",
+  "paragraph": "The integration of autonomous warehouse robots has revolutionized supply chain logistics by streamlining inventory tracking. These mobile units navigate warehouse floors using laser guidance systems, picking and packing items with minimal human intervention. By operating continuously without breaks, these systems increase order fulfillment speed while reducing picking errors, allowing e-commerce companies to offer guaranteed next-day delivery.",
   "question": "What capabilities allow warehouse robots to improve e-commerce order fulfillment?",
-  "correct_answer": "They navigate factory floors, picking and packing items with minimal human intervention.",
+  "correct_answer": "They navigate warehouse floors, picking and packing items with minimal human intervention.",
   "evidence_pool": [
    {
-    "text": "navigate factory floors",
+    "text": "navigate warehouse floors",
     "is_evidence": true,
-    "mapped_to": "navigate factory floors",
-    "why": "Fabrika zemininde yön bulma ifadesi, cevaptaki depo içinde hareket etme karşılığını doğrudan kanıtlar."
+    "mapped_to": "navigate warehouse floors",
+    "why": "Depo zemininde yön bulma ifadesi, cevaptaki depo içinde hareket etme karşılığını doğrudan kanıtlar."
    },
    {
     "text": "picking and packing items",
@@ -9973,7 +9973,7 @@
     "text": "microbes sustain larger organisms",
     "is_evidence": true,
     "mapped_to": "supporting larger creatures",
-    "why": "Mikropların daha büyük organizmaları beslemesi/yaşatması ifadesi, cevaptaki daha büyük canlıları destekleme karşılığını doğrudan doğrular."
+    "why": "Mikropların daha büyük organizmaları beslemesi ifadesi, cevaptaki daha büyük canlıları destekleme karşılığını doğrudan doğrular."
    },
    {
     "text": "giant tube worms",
@@ -10006,7 +10006,7 @@
     "text": "religious manuscripts",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Taşınan felsefi belgelerdir; felsefelerin nasıl dönüştüğünü doğrudan açıklamayan bir tuzaktır."
+    "why": "Taşınan dini el yazmalarıdır; felsefelerin nasıl dönüştüğünü doğrudan açıklamayan bir tuzaktır."
    },
    {
     "text": "reshaped regional philosophies",
@@ -10090,7 +10090,7 @@
     "text": "lower cortisol levels",
     "is_evidence": true,
     "mapped_to": "decreasing cortisol to manage stress",
-    "why": "Kortizol seviyelerini düşürme ifadesi, cevaptaki kortizolün azaltılarak stressin yönetilmesi karşılığını doğrudan doğrular."
+    "why": "Kortizol seviyelerini düşürme ifadesi, cevaptaki kortizolün azaltılarak stresin yönetilmesi karşılığını doğrudan doğrular."
    },
    {
     "text": "sleep quality",
@@ -10129,7 +10129,7 @@
     "text": "fracture active spacecraft panels",
     "is_evidence": true,
     "mapped_to": "capable of breaking spacecraft components",
-    "why": "Aktif uzay aracı panellerini kırma/çatlatma ifadesi, cevaptaki uzay aracı bileşenlerini kırabilme gücünü doğrudan doğrular."
+    "why": "Aktif uzay aracı panellerini kırma ifadesi, cevaptaki uzay aracı bileşenlerini kırabilme gücünü doğrudan doğrular."
    },
    {
     "text": "chain reaction of collisions",
@@ -10558,7 +10558,7 @@
     "text": "shields vulnerable segments",
     "is_evidence": true,
     "mapped_to": "shielding those who cannot be immunized",
-    "why": "Hassas kesimleri korumak/kalkan olmak ifadesi, cevaptaki aşılanamayanların korunması karşılığını doğrudan kanıtlar."
+    "why": "Hassas kesimleri korumak ifadesi, cevaptaki aşılanamayanların korunması karşılığını doğrudan kanıtlar."
    },
    {
     "text": "cancer patients",
@@ -11143,7 +11143,7 @@
     "text": "nitrogen dioxide",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Emilen gaz türlerinden biridir; fiziksel yakalama ve genel gas emme mekanizmasını tek başına kanıtlamaz."
+    "why": "Emilen gaz türlerinden biridir; fiziksel yakalama ve genel gaz emme mekanizmasını tek başına kanıtlamaz."
    },
    {
     "text": "filtration mechanism",
@@ -11338,7 +11338,7 @@
     "text": "commercial office blocks",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Enerji tasarrufu sağlayan eski iş yerleridir; evdeki tüketim artışını kanıtlamaz."
+    "why": "Emisyonların kaydığı ticari ofis binalarıdır; evdeki tüketim artışını kanıtlamaz."
    },
    {
     "text": "efficient insulation",
@@ -11722,7 +11722,7 @@
     "text": "avoid credit pitfalls",
     "is_evidence": true,
     "mapped_to": "dodge credit hazards",
-    "why": "Kredi tuzaklarından kaçınmak ifadesi, cevaptaki kredi tehlikelerinden/risklerinden sıyrılmak karşılığını doğrudan kanıtlar."
+    "why": "Kredi tuzaklarından kaçınmak ifadesi, cevaptaki kredi tehlikelerinden sıyrılmak karşılığını doğrudan kanıtlar."
    },
    {
     "text": "prudent investment choices",
@@ -11794,13 +11794,13 @@
     "text": "damages team cohesion",
     "is_evidence": true,
     "mapped_to": "reduce social integration among staff",
-    "why": "Takım uyumuna zarar vermek ifadesi, cevaptaki personel arasındaki sosyal bütünleşmeyi/uyumu azaltmak karşılığını doğrudan kanıtlar."
+    "why": "Takım uyumuna zarar vermek ifadesi, cevaptaki personel arasındaki sosyal bütünleşmeyi azaltmak karşılığını doğrudan kanıtlar."
    },
    {
     "text": "diminishes spontaneous problem-solving",
     "is_evidence": true,
     "mapped_to": "limit unscheduled collective brainstorming",
-    "why": "Anlık/kendiliğinden problem çözmeyi zayıflatmak ifadesi, cevaptaki planlanmamış ortak beyin fırtınasını sınırlamak karşılığını doğrudan kanıtlar."
+    "why": "Kendiliğinden problem çözmeyi zayıflatmak ifadesi, cevaptaki planlanmamış ortak beyin fırtınasını sınırlamak karşılığını doğrudan kanıtlar."
    },
    {
     "text": "virtual coffee breaks",
@@ -11845,7 +11845,7 @@
     "text": "lured away from their feeding grounds",
     "is_evidence": true,
     "mapped_to": "attracting bugs away from food sources",
-    "why": "Böcekleri beslenme alanlarından uzaklaştırmak ifadesi, cevaptaki haşereleri/böcekleri gıda kaynaklarından uzaklaştırmak karşılığını doğrudan kanıtlar."
+    "why": "Böcekleri beslenme alanlarından uzaklaştırmak ifadesi, cevaptaki böcekleri gıda kaynaklarından uzaklaştırmak karşılığını doğrudan kanıtlar."
    },
    {
     "text": "pollination cycles",
@@ -11872,7 +11872,7 @@
     "text": "validate consumer interest",
     "is_evidence": true,
     "mapped_to": "verify market demand",
-    "why": "Tüketici ilgisini doğrulamak ifadesi, cevaptaki pazar talebini doğrulamak/kontrol etmek karşılığını doğrudan kanıtlar."
+    "why": "Tüketici ilgisini doğrulamak ifadesi, cevaptaki pazar talebini doğrulamak karşılığını doğrudan kanıtlar."
    },
    {
     "text": "digital platforms",
@@ -11890,7 +11890,7 @@
     "text": "without giving up equity",
     "is_evidence": true,
     "mapped_to": "without forfeiting company ownership",
-    "why": "Hisse devretmeden ifadesi, cevaptaki şirket ortaklığını/mülkiyetini kaybetmeden karşılığını doğrudan kanıtlar."
+    "why": "Hisse devretmeden ifadesi, cevaptaki şirket mülkiyetini kaybetmeden karşılığını doğrudan kanıtlar."
    }
   ]
  },
@@ -11989,7 +11989,7 @@
     "text": "vegetation naturally cools",
     "is_evidence": true,
     "mapped_to": "Plant canopies lower ambient temperatures",
-    "why": "Bitki örtüsünün doğal olarak soğutması ifadesi, cevaptaki bitki canopilerinin ortam sıcaklığını düşürmesi karşılığını doğrudan kanıtlar."
+    "why": "Bitki örtüsünün doğal olarak soğutması ifadesi, cevaptaki bitki örtülerinin ortam sıcaklığını düşürmesi karşılığını doğrudan kanıtlar."
    },
    {
     "text": "absorb rainwater",
@@ -12007,7 +12007,7 @@
     "text": "lowering the risk of urban flash floods",
     "is_evidence": true,
     "mapped_to": "threat of deluge is minimized",
-    "why": "Kentsel ani sel riskini düşürmek ifadesi, cevaptaki su baskını/tufan tehdidinin en aza indirilmesi karşılığını doğrudan kanıtlar."
+    "why": "Kentsel ani sel riskini düşürmek ifadesi, cevaptaki su baskını tehdidinin en aza indirilmesi karşılığını doğrudan kanıtlar."
    }
   ]
  },
@@ -12040,7 +12040,7 @@
     "text": "prevents struggling students from falling behind",
     "is_evidence": true,
     "mapped_to": "struggling pupils are prevented from lagging",
-    "why": "Zorlanan öğrencilerin geride kalmasını önlemek ifadesi, cevaptaki zorlanan öğrencilerin yavaşlamasının/geride kalmasının engellenmesi karşılığını doğrudan kanıtlar."
+    "why": "Zorlanan öğrencilerin geride kalmasını önlemek ifadesi, cevaptaki zorlanan öğrencilerin geride kalmasının engellenmesi karşılığını doğrudan kanıtlar."
    },
    {
     "text": "advanced learners",
@@ -12061,13 +12061,13 @@
     "text": "decomposes under anaerobic conditions",
     "is_evidence": true,
     "mapped_to": "decays without oxygen",
-    "why": "Oksijensiz koşullarda çözünmek/ayrışmak ifadesi, cevaptaki oksijensiz çürüme karşılığını doğrudan kanıtlar."
+    "why": "Oksijensiz koşullarda ayrışmak ifadesi, cevaptaki oksijensiz çürüme karşılığını doğrudan kanıtlar."
    },
    {
     "text": "releases highly potent methane gas",
     "is_evidence": true,
     "mapped_to": "producing a powerful gas",
-    "why": "Çok güçlü metan gası salınımı yapmak ifadesi, cevaptaki güçlü bir gaz üretilmesi karşılığını doğrudan kanıtlar."
+    "why": "Çok güçlü metan gazı salınımı yapmak ifadesi, cevaptaki güçlü bir gaz üretilmesi karşılığını doğrudan kanıtlar."
    },
    {
     "text": "traps heat far more effectively",
@@ -12079,7 +12079,7 @@
     "text": "greenhouse effect",
     "is_evidence": false,
     "mapped_to": null,
-    "why": "Küreselis ısınma sürecidir; oksijensiz çürüme ve gaz salınım mekanizmasını tek başına kanıtlamaz."
+    "why": "Küresel ısınma sürecidir; oksijensiz çürüme ve gaz salınım mekanizmasını tek başına kanıtlamaz."
    },
    {
     "text": "agricultural fertilizer",
@@ -12131,7 +12131,7 @@
  {
   "id": "kem312",
   "topic": "Reading Habits & Empathy (Psychology/Literature)",
-  "paragraph": "Engaging regularly with literary fiction has been shown to enhance social cognition by exercising our cognitive empathy. When readers immerse themselves in character-driven narratives, they activate brain networks involved in decyphering complex emotional states. This mental simulation translates into real-world benefits, allowing regular readers to interpret facial expressions and navigate delicate interpersonal dynamics with greater sensitivity.",
+  "paragraph": "Engaging regularly with literary fiction has been shown to enhance social cognition by exercising our cognitive empathy. When readers immerse themselves in character-driven narratives, they activate brain networks involved in deciphering complex emotional states. This mental simulation translates into real-world benefits, allowing regular readers to interpret facial expressions and navigate delicate interpersonal dynamics with greater sensitivity.",
   "question": "How does reading story-driven books improve interpersonal relationships in reality?",
   "correct_answer": "By stimulating neural systems that decode complex feelings, helping readers read facial signs and handle social interactions smoothly.",
   "evidence_pool": [
@@ -12142,7 +12142,7 @@
     "why": "Okunan kitap türüdür; gerçek hayattaki ilişkilere faydasını doğrudan kanıtlamaz."
    },
    {
-    "text": "activate brain networks involved in decyphering complex emotional states",
+    "text": "activate brain networks involved in deciphering complex emotional states",
     "is_evidence": true,
     "mapped_to": "stimulating neural systems that decode complex feelings",
     "why": "Karmaşık duygusal durumları çözmekle görevli beyin ağlarını aktive etmek ifadesi, cevaptaki karmaşık duyguları çözen sinir sistemlerini uyarma karşılığını doğrudan kanıtlar."
@@ -12190,7 +12190,7 @@
     "text": "stabilize grid voltage",
     "is_evidence": true,
     "mapped_to": "balancing network voltage",
-    "why": "Şebeke voltajını sabitlemek/dengelemek ifadesi, cevaptaki şebeke voltajını dengeleme karşılığını doğrudan kanıtlar."
+    "why": "Şebeke voltajını sabitlemek ifadesi, cevaptaki şebeke voltajını dengeleme karşılığını doğrudan kanıtlar."
    },
    {
     "text": "infrastructure usage",
@@ -12229,7 +12229,7 @@
     "text": "interactive historical timelines",
     "is_evidence": true,
     "mapped_to": "supply historical context",
-    "why": "İnteraktif tarihi zaman tünelleri ifadesi, cevaptaki tarihi arka plan/bağlam sağlanması karşılığını doğrudan kanıtlar."
+    "why": "İnteraktif tarihi zaman tünelleri ifadesi, cevaptaki tarihi bağlam sağlanması karşılığını doğrudan kanıtlar."
    },
    {
     "text": "artistic movements",
@@ -12256,13 +12256,13 @@
     "text": "tensile strength",
     "is_evidence": true,
     "mapped_to": "high resistance to pulling forces",
-    "why": "Çekme mukavemeti/dayanımı ifadesi, cevaptaki çekme kuvvetlerine karşı yüksek direnç karşılığını doğrudan kanıtlar."
+    "why": "Çekme dayanımı ifadesi, cevaptaki çekme kuvvetlerine karşı yüksek direnç karşılığını doğrudan kanıtlar."
    },
    {
     "text": "flexible during seismic activities",
     "is_evidence": true,
     "mapped_to": "bends easily during tremors",
-    "why": "Sismik aktiviteler sırasında esnek olma ifadesi, cevaptaki sarsıntılar sırasında kolayca bükülme/esneme karşılığını doğrudan kanıtlar."
+    "why": "Sismik aktiviteler sırasında esnek olma ifadesi, cevaptaki sarsıntılar sırasında kolayca esneme karşılığını doğrudan kanıtlar."
    },
    {
     "text": "reducing structural damage",
@@ -12274,7 +12274,7 @@
     "text": "preventing catastrophic building collapses",
     "is_evidence": true,
     "mapped_to": "prevents sudden building failures",
-    "why": "Yıkıcı bina çökmelerini önlemek ifadesi, cevaptaki ani bina hasarlarını/çökmelerini engelleme karşılığını doğrudan kanıtlar."
+    "why": "Yıkıcı bina çökmelerini önlemek ifadesi, cevaptaki ani bina çökmelerini engelleme karşılığını doğrudan kanıtlar."
    },
    {
     "text": "earthquake-prone areas",
@@ -12301,13 +12301,13 @@
     "text": "filtering out opposing viewpoints",
     "is_evidence": true,
     "mapped_to": "isolate individuals from contrary opinions",
-    "why": "Karşıt görüşleri filtrelemek/süzmek ifadesi, cevaptaki bireyleri aksi fikirlerden yalıtmak/uzak tutmak karşılığını doğrudan kanıtlar."
+    "why": "Karşıt görüşleri filtrelemek ifadesi, cevaptaki bireyleri aksi fikirlerden uzak tutmak karşılığını doğrudan kanıtlar."
    },
    {
     "text": "reinforces preexisting prejudices",
     "is_evidence": true,
     "mapped_to": "strengthen existing biases",
-    "why": "Var olan ön yargıları pekiştirmek ifadesi, cevaptaki mevcut yanlılıkları/önyargıları güçlendirmek karşılığını doğrudan kanıtlar."
+    "why": "Var olan ön yargıları pekiştirmek ifadesi, cevaptaki mevcut önyargıları güçlendirmek karşılığını doğrudan kanıtlar."
    },
    {
     "text": "decreases tolerance",
@@ -12319,7 +12319,7 @@
     "text": "accelerates political polarization",
     "is_evidence": true,
     "mapped_to": "increase political division",
-    "why": "Siyasi kutuplaşmayı hızlandırmak ifadesi, cevaptaki siyasi bölünmeyi/ayrışmayı artırmak karşılığını doğrudan kanıtlar."
+    "why": "Siyasi kutuplaşmayı hızlandırmak ifadesi, cevaptaki siyasi bölünmeyi artırmak karşılığını doğrudan kanıtlar."
    }
   ]
  },
@@ -12346,13 +12346,13 @@
     "text": "strengthen synaptic connectivity",
     "is_evidence": true,
     "mapped_to": "enhancing connection points",
-    "why": "Sinaptik bağlantıyı güçlendirmek ifadesi, cevaptaki bağlantı noktalarının yani bağlantıların geliştirilmesi karşılığını doğrudan kanıtlar."
+    "why": "Sinaptik bağlantıyı güçlendirmek ifadesi, cevaptaki bağlantı noktalarının geliştirilmesi karşılığını doğrudan kanıtlar."
    },
    {
     "text": "improve blood circulation",
     "is_evidence": true,
     "mapped_to": "optimizing blood flow",
-    "why": "Kan dolaşımını geliştirmek ifadesi, cevaptaki kan akışının optimize edilmesi/iyileştirilmesi karşılığını doğrudan kanıtlar."
+    "why": "Kan dolaşımını geliştirmek ifadesi, cevaptaki kan akışının optimize edilmesi karşılığını doğrudan kanıtlar."
    },
    {
     "text": "cerebral tissues",
@@ -12418,13 +12418,13 @@
     "text": "low collection rates",
     "is_evidence": true,
     "mapped_to": "Inadequate return rates",
-    "why": "Düşük toplama oranları ifadesi, cevaptaki yetersiz geri dönüş/toplama oranları karşılığını doğrudan kanıtlar."
+    "why": "Düşük toplama oranları ifadesi, cevaptaki yetersiz geri dönüş oranları karşılığını doğrudan kanıtlar."
    },
    {
     "text": "store obsolete devices",
     "is_evidence": true,
     "mapped_to": "hold onto obsolete devices",
-    "why": "Eski cihazları depolamak/saklamak ifadesi, cevaptaki atıl cihazları elde tutmak karşılığını doğrudan kanıtlar."
+    "why": "Eski cihazları saklamak ifadesi, cevaptaki atıl cihazları elde tutmak karşılığını doğrudan kanıtlar."
    },
    {
     "text": "privacy concerns regarding personal data",

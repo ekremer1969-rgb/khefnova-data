@@ -425,7 +425,7 @@
    "praised for its"
   ],
   "why": "Ağrının azaltılmasına yönelik tedavinin övgüler alması ('praised for') olumlu bir yük olduğunu gösterir. 'to ____ the patient's' yapısı fiil gerektirir. Aynı tür ve olumlu yükteki 'enhance' (geliştirmek) fiili, ağrıyı (pain) hafifletmek yerine artırmak anlamına geleceği için bu bağlama uymamaktadır.",
-  "tr": "Doktor, hastanın hızlı iyileşme süresi nedeniyle övülen sürekli eklem ağrısını hafifletmek için yeni bir tedavi reçete etti.",
+  "tr": "Doktor, hızlı iyileşme süresiyle övgü toplayan yeni bir tedaviyi, hastanın sürekli eklem ağrısını hafifletmek için reçete etti.",
   "options": [
    {
     "w": "alleviate",
@@ -563,7 +563,7 @@
    "significant discovery"
   ],
   "why": "'which is defined as' açıklamasındaki 'significant discovery' (önemli keşif) ifadesi olumlu bir yük olduğunu gösterir. 'scientific ____' yapısı isim gerektirir. Aynı tür ve olumlu yükteki 'resilience' (direnç/esneklik) kelimesi, bilimsel bir keşif/çığır açma bağlamına uymamaktadır.",
-  "tr": "Laboratuvar, fizik anlayışımızı değiştiren önemli bir keşif olarak tanımlanan büyük bir bilimsel çığır açış duyurdu.",
+  "tr": "Laboratuvar, fizik anlayışımızı değiştiren önemli bir keşif olarak tanımlanan büyük bir bilimsel atılım duyurdu.",
   "options": [
    {
     "w": "resilience",
@@ -1023,7 +1023,7 @@
    "rapid spread of"
   ],
   "why": "'Because' sebep bağlacı ekipmanın temizlenememesi ve enfeksiyon yayılması gibi olumsuz sonuçlarla yükü olumsuza odaklar. 'extreme ____' tamlaması isim gerektirir. Aynı tür ve olumsuz yükteki 'deprivation' (yoksunluk) kelimesi, personelin görevini savsaklaması/ihmalkarlığı bağlamına uymamaktadır.",
-  "tr": "Hastane personeli aşırı ihmal gösterdiği için ekipmanı düzgün bir şekilde sterile edemedi ve bu durum enfeksiyonların hızla yayılmasına neden oldu.",
+  "tr": "Hastane personeli aşırı ihmal gösterdiği için ekipmanı düzgün bir şekilde sterilize edemedi ve bu durum enfeksiyonların hızla yayılmasına neden oldu.",
   "options": [
    {
     "w": "vulnerable",
@@ -1207,7 +1207,7 @@
    "led to massive"
   ],
   "why": "Protestolar ve yaygın şikayetler ('sparked widespread... complaints') olumsuz bir yük oluşturur. 'forced to ____ its' yapısı fiil gerektirir. Aynı tür ve olumsuz yükteki 'hinder' (engellemek) fiili, harcamaları veya bütçeyi kısmak/kısıtlamak anlamında 'budget' nesnesiyle kullanılmaz.",
-  "tr": "Ulusal müze, yaygın sanatçı protestolarına yol açan ve büyük halk şikayetlerine neden olan sergi bütçesini kısmak zorunda kaldı.",
+  "tr": "Ulusal müze sergi bütçesini kısmak zorunda kaldı; bu durum yaygın sanatçı protestolarına yol açtı ve büyük halk şikayetlerine neden oldu.",
   "options": [
    {
     "w": "hinder",
@@ -1253,7 +1253,7 @@
    "still inspire"
   ],
   "why": "'which means' sonrasındaki derin temaların ilham vermesi ('deep themes still inspire') olumlu bir yük oluşturur. 'a ____ impact' yapısı sıfat gerektirir. Aynı tür ve olumlu yükteki 'versatile' (çok yönlü) sıfatı, bir eserin edebiyat dünyası üzerindeki derin ve kalıcı etkisini tanımlamakta kullanılmaz.",
-  "tr": "Klasik romanın modern edebiyat üzerinde derin bir etkisi olmuştur, bu da onun derin temalarının çağdaş yazarlara hala ilham verdiği anlamına gelir.",
+  "tr": "Klasik romanın modern edebiyat üzerinde derin bir etkisi olmuştur, bu da onun derin temalarının çağdaş yazarlara hâlâ ilham verdiği anlamına gelir.",
   "options": [
    {
     "w": "embrace",
@@ -1759,7 +1759,7 @@
    "young visitors"
   ],
   "why": "Topluluğun modern sanatı kabul etmesi ve galerilerin ziyaretçi artışı bildirmesi ('increase in young visitors') olumlu bir yük olduğunu gösterir. 'chose to ____ modern' yapısı fiil gerektirir. 'pardon' (affetmek) olumlu bir fiildir ancak kişi veya suçları bağışlamak için kullanılır; bir sanat akımını kabul edip benimsemek anlamına gelmez.",
-  "tr": "Muhafazakar topluluk modern sanat tarzlarını benimsemeyi seçti ve several yerel galeri genç ziyaretçi sayısında ani bir artış bildirdi.",
+  "tr": "Muhafazakar topluluk modern sanat tarzlarını benimsemeyi seçti ve birkaç yerel galeri genç ziyaretçi sayısında ani bir artış bildirdi.",
   "options": [
    {
     "w": "versatile",
@@ -1805,7 +1805,7 @@
    "struggling to pay"
   ],
   "why": "Fabrika otomasyonu sonucu ailelerin faturalarını ödemekte zorlanması ('struggling to pay') olumsuz bir yük oluşturur. 'were made ____' yapısı sıfat gerektirir. Aynı tür ve olumsuz yükteki 'scant' (yetersiz/kıt) sıfatı, işçilerin işten çıkarılarak gereksiz/ihtiyaç fazlası hale gelmesini ifade eden 'made redundant' kalıbının yerini tutamaz.",
-  "tr": "Otomatik fabrika güncellemesi nedeniyle, elli işçi ihtiyaç fazlası (işsiz) hale getirildi ve bu durum ailelerini aylık faturaları ödemekte zorlanmak zorunda bıraktı.",
+  "tr": "Otomatik fabrika güncellemesi nedeniyle, elli işçi gereksiz görülerek işten çıkarıldı ve bu durum aileleri aylık faturaları ödemekte zorlanır hale getirdi.",
   "options": [
    {
     "w": "scant",
@@ -1975,7 +1975,7 @@
    "modern engineering"
   ],
   "why": "Cümledeki 'refers to' yapısı bir tanım başlatır ve modern mühendislikteki bu gelişmeyi olumlu bir yönde açıklar. 'a major ___ in' yapısı isim gerektirir. 'prosperity' (refah) olumlu bir isimdir ancak teknolojik veya bilimsel bir buluşu değil, ekonomik zenginlik ve gönenç durumunu anlatır.",
-  "tr": "Nanoteknoloji, modern mühendislikte büyük bir çığır açan, maddenin atomik ölçekte manipüle edilmesini ifade eder."
+  "tr": "Nanoteknoloji, modern mühendislikte büyük bir atılımı temsil eden, maddenin atomik ölçekte manipüle edilmesini ifade eder."
  },
  {
   "id": "ctx_044",
@@ -1992,7 +1992,7 @@
    {
     "w": "destruction",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "persistence",
@@ -2283,7 +2283,7 @@
    {
     "w": "destruction",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "controversy",
@@ -2365,7 +2365,7 @@
    {
     "w": "distortion",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "analogous",
@@ -2518,7 +2518,7 @@
    {
     "w": "deteriorate",
     "pos": "fiil",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    }
   ],
   "clues": [
@@ -2830,7 +2830,7 @@
    {
     "w": "invalidate",
     "pos": "fiil",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "validation",
@@ -3078,8 +3078,8 @@
    "evidence is quite clear",
    "room for multiple"
   ],
-  "why": "'Unlike' veya zıtlık bildiren yapı 'Although' burada zıtlık kurmaktadır: net kanıtların aksine belirsiz olan durumları anlatır. 'remain highly ___ , leaving' yapısı sıfat gerektirir. 'profound' (derin/köklü) nötr bir sıfattır ancak net olmama ve yoruma açıklık durumunu tanımlamaz.",
-  "tr": "Bazı arkeolojik kanıtlar oldukça açık olsa da, diğer bulgular son derece belirsizliğini korumakta ve çok sayıda tarihi yoruma yer bırakmaktadır."
+  "why": "'Although' burada zıtlık kurmaktadır: net kanıtların aksine belirsiz olan durumları anlatır. 'remain highly ___ , leaving' yapısı sıfat gerektirir. 'profound' (derin/köklü) nötr bir sıfattır ancak net olmama ve yoruma açıklık durumunu tanımlamaz.",
+  "tr": "Bazı arkeolojik kanıtlar oldukça açık olsa da, diğer bulgular son derece belirsiz kalmakta ve çok sayıda tarihi yoruma yer bırakmaktadır."
  },
  {
   "id": "ctx_068",
@@ -3198,7 +3198,7 @@
    {
     "w": "scanty",
     "pos": "sifat",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "prevalently",
@@ -3372,7 +3372,7 @@
    {
     "w": "insignificant",
     "pos": "sifat",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "profundity",
@@ -3617,7 +3617,7 @@
    {
     "w": "vaguely",
     "pos": "zarf",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "precise",
@@ -3781,7 +3781,7 @@
    {
     "w": "discrepancy",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "depiction",
@@ -3907,7 +3907,7 @@
    "strengthened the entire nation"
   ],
   "why": "'successful integration' ve 'strengthened the entire nation' ifadeleri olumlu bir birleşme ve dayanışma durumunu gösterir. 'remarkable social ___ that' yapısı isim gerektirir. 'reverence' (saygı/hürmet) olumlu bir isimdir ancak toplumsal grupların birbirine bağlılığı ve bütünleşmesini (cohesion) değil, saygı duyma eylemini ifade eder.",
-  "tr": "Azınlık gruplarının başarılı entegrasyonu, tüm ulusu dış krizlere karşı güçlendiren olağanüstü bir toplumsal uyum/bağlılık yarattı."
+  "tr": "Azınlık gruplarının başarılı entegrasyonu, tüm ulusu dış krizlere karşı güçlendiren olağanüstü bir toplumsal uyum yarattı."
  },
  {
   "id": "ctx_086",
@@ -3980,7 +3980,7 @@
    {
     "w": "adversary",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "proximity",
@@ -4113,7 +4113,7 @@
    {
     "w": "alienation",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "proximally",
@@ -4183,7 +4183,7 @@
    "under cosmic radiation"
   ],
   "why": "Mühendislerin güç hücresinin çalışabilirliğini/yaşayabilirliğini doğrulama çalışması olumlu bir amaca hizmet eder. 'verify the long-term ___ of' yapısı isim gerektirir. 'advancement' (ilerleme) olumlu bir isimdir ancak pilin işlevsel dayanıklılığını ve sürdürülebilirliğini (viability) değil, genel gelişimi ifade eder.",
-  "tr": "Uyduyu fırlatmadan önce mühendisler, kozmik radyasyon altında güç hücresinin uzun vadeli uygulanabilirliğini doğrulamak için kapsamlı testler gerçekleştirdiler."
+  "tr": "Uyduyu fırlatmadan önce mühendisler, kozmik radyasyon altında güç hücresinin uzun vadeli çalışabilirliğini doğrulamak için kapsamlı testler gerçekleştirdiler."
  },
  {
   "id": "ctx_092",
@@ -4689,7 +4689,7 @@
    "temple was built during"
   ],
   "why": "Tarihçilerin yazıtlar üzerindeki gözlemleri ve bunları iddia/beyan etmeleri nötr/akademik bir süreçtir. 'inscriptions do indeed ___ that' yapısı fiil gerektirir. 'attribute' (atfetmek) nötr bir fiildir ancak arkasından 'to' alarak kullanılır ve 'that' cümleciği ile iddia etme eylemini karşılamaz.",
-  "tr": "Tarihçiler, antik yazıtların tapınağın Tunç Çağı'nda inşa edildiğini gerçekten iddia ettiğini (ortaya koyduğunu) öne sürüyorlar."
+  "tr": "Tarihçiler, antik yazıtların tapınağın Tunç Çağı'nda inşa edildiğini gerçekten de ileri sürdüğünü iddia ediyor."
  },
  {
   "id": "ctx_103",
@@ -4735,7 +4735,7 @@
    "interactive school workshops"
   ],
   "why": "'deeper sense of responsibility' ve 'interactive school workshops' ifadeleri okul çalışmalarıyla sorumluluk bilincinin geliştirilmeye çalışıldığını (olumlu) gösterir. 'sought to ___ a' yapısı yalın fiil gerektirir. 'reimburse' (parasını geri ödemek) olumlu bir fiildir ancak maddi giderler için kullanılır; bir sorumluluk bilincini geliştirmek anlamına gelmez.",
-  "tr": "Çevre projesi, etkileşimli okul atölyeleri aracılığıyla genç vatandaşlar arasında daha derin bir sorumluluk bilinci geliştirmeyi (yeşertmeyi) amaçladı."
+  "tr": "Çevre projesi, etkileşimli okul atölyeleri aracılığıyla genç vatandaşlar arasında daha derin bir sorumluluk bilinci geliştirmeyi amaçladı."
  },
  {
   "id": "ctx_104",
@@ -4781,7 +4781,7 @@
    "without using toxic solvents"
   ],
   "why": "Zehirli çözücüler olmadan yeni bir yöntemle hedef bileşiğin eldesini ve kalitesini artırma çalışması olumlu bir gelişmedir. 'method to ___ the' yapısı fiil gerektirir. 'reconcile' (barıştırmak/uzlaştırmak) olumlu bir fiildir ancak kimyasal maddelerin kalitesini/verimini artırmayı (enhance) değil, karşıt tarafların uyuşmasını ifade eder.",
-  "tr": "Laboratuvar, toksik çözücüler kullanmadan hedef organik bileşiğin kalitesini artırmak (iyileştirmek) için yepyeni bir sentetik yöntem geliştirdi."
+  "tr": "Laboratuvar, toksik çözücüler kullanmadan hedef organik bileşiğin kalitesini artırmak için yepyeni bir sentetik yöntem geliştirdi."
  },
  {
   "id": "ctx_105",
@@ -4919,7 +4919,7 @@
    "based on an"
   ],
   "why": "'Unlike' zıtlık bildirir: sabit/belirli devrelerin aksine esnek/keyfi belirlenen komut mimarisini nötr dille anlatır. 'based on an ___ instruction' yapısı sıfat gerektirir. 'dominant' (baskın) nötr bir sıfattır ancak tasarımların keyfi/özgürce seçilen (arbitrary) yapısını değil, yaygınlığını ve üstünlüğünü ifade eder.",
-  "tr": "Sabit devrelere dayanan erken dönem bilgisayar tasarımlarının aksine, modern mikroişlemciler keyfi (değişken) bir komut kümesi mimarisine dayanmaktadır."
+  "tr": "Sabit devrelere dayanan erken dönem bilgisayar tasarımlarının aksine, modern mikroişlemciler keyfi bir komut kümesi mimarisine dayanmaktadır."
  },
  {
   "id": "ctx_108",
@@ -4965,7 +4965,7 @@
    "prompting labor unions to"
   ],
   "why": "Otomasyonun insan gücünü gereksiz/işlevsiz bırakması olumsuz bir durumdur. 'made many manual workers ___ , prompting' yapısı sıfat gerektirir. 'sparse' (seyrek/kısıtlı) olumsuz bir sıfattır ancak iş gücünün ihtiyaç fazlası/atıl kalması (redundant) durumunu karşılamaz.",
-  "tr": "Üretim hatlarının otomasyonu birçok manuel işçiyi ihtiyaç fazlası (işsiz) bıraktı ve bu durum işçi sendikalarını kapsamlı yeniden eğitim programları talep etmeye sevk etti."
+  "tr": "Üretim hatlarının otomasyonu birçok manuel işçiyi işsiz bıraktı ve bu durum işçi sendikalarını kapsamlı yeniden eğitim programları talep etmeye sevk etti."
  },
  {
   "id": "ctx_109",
@@ -5011,7 +5011,7 @@
    "better than the doctors"
   ],
   "why": "'resisting... better' ifadesi kalbin sağlamlığını ve direncini göstererek olumlu bir yük taşır. 'proved to be remarkably ___' yapısı sıfat gerektirir. 'receptive' (açık/alıcı) olumlu bir sıfattır ancak zorluklara ve strese karşı fiziksel dayanıklılığı (robust) değil, fikirleri veya tedavileri kabul etmeye açık olmayı tanımlar.",
-  "tr": "Hastanın kardiyovasküler sistemi, doktorların tahmin ettiğinden daha iyi ağır stres testlerine direnerek olağanüstü derecede sağlam olduğunu kanıtladı."
+  "tr": "Hastanın kardiyovasküler sistemi, ağır stres testlerine doktorların tahmin ettiğinden daha iyi direnerek olağanüstü derecede sağlam olduğunu kanıtladı."
  },
  {
   "id": "ctx_110",
@@ -5194,7 +5194,7 @@
    "local herbivore populations",
    "find enough food"
   ],
-  "why": "'Because' gerekçe bildirir; otçul hayvanların besin bulmakta zorlanmasının nedenini bitki örtüsünün seyrek/yetersiz (olumsuz) olmasıyla açıklar. 'vegetation ... was ___' yapısı sıfat gerektirir. 'disastrous' (felaket/korkunç) olumsuz bir sıfattır ancak bitki örtüsünün miktar olarak azlığını/seyrəkliğini (sparse) değil, yıkıcı olayları tanımlar.",
+  "why": "'Because' gerekçe bildirir; otçul hayvanların besin bulmakta zorlanmasının nedenini bitki örtüsünün seyrek/yetersiz (olumsuz) olmasıyla açıklar. 'vegetation ... was ___' yapısı sıfat gerektirir. 'disastrous' (felaket/korkunç) olumsuz bir sıfattır ancak bitki örtüsünün miktar olarak azlığını/seyrekliğini (sparse) değil, yıkıcı olayları tanımlar.",
   "tr": "Kurak bölgedeki bitki örtüsü seyrek olduğu için, yerel otçul popülasyonları sürekli yeterli yiyecek bulmak için mücadele etti."
  },
  {
@@ -5217,7 +5217,7 @@
    {
     "w": "insignificant",
     "pos": "sifat",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "extend",
@@ -5333,7 +5333,7 @@
    "wiping out decades of"
   ],
   "why": "'wiping out' ifadesi petrol sızıntısının kıyı balıkçılığı üzerindeki yıkıcı (olumsuz) etkisini gösterir. 'had a ___ effect' yapısı sıfat gerektirir. 'adverse' (olumsuz/ters) olumsuz bir sıfattır ancak onlarca yıllık koruma çalışmalarını yok eden tam bir felaket ve yıkım (disastrous) durumunu anlatmakta hafif kalır.",
-  "tr": "Büyük petrol sızıntısı, onlarca yıllık deniz koruma çalışmalarını yok ederek kıyı balıkçılığı üzerinde felaket bir etki yarattı."
+  "tr": "Büyük petrol sızıntısı, onlarca yıllık deniz koruma çalışmalarını yok ederek kıyı balıkçılığı üzerinde felaket boyutunda bir etki yarattı."
  },
  {
   "id": "ctx_117",
@@ -5391,7 +5391,7 @@
    {
     "w": "consecutively",
     "pos": "zarf",
-    "pol": "olumlu"
+    "pol": "notr"
    },
    {
     "w": "immensity",
@@ -5692,7 +5692,7 @@
    {
     "w": "shortage",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    }
   ],
   "clues": [
@@ -5701,7 +5701,7 @@
    "interstellar exploration"
   ],
   "why": "Keşiflerin gelecekteki görevler için taşıdığı anlamlar ve çıkarımlar nötr/bilimsel bir tonda sunulmuştur. 'has a profound ___ for' yapısı isim gerektirir. 'scrutiny' (dikkatli inceleme) nötr bir isimdir ancak bir keşfin yaratacağı olası sonuçları ve anlamları (implication) değil, doğrudan inceleme sürecini ifade eder.",
-  "tr": "Uzak gezegende su moleküllerinin keşfedilmesi, gelecekteki yıldızlararası keşif görevleri için derin bir anlama (çıkarıma) sahiptir."
+  "tr": "Uzak gezegende su moleküllerinin keşfedilmesi, gelecekteki yıldızlararası keşif görevleri için derin çıkarımlar taşımaktadır."
  },
  {
   "id": "ctx_125",
@@ -5922,7 +5922,7 @@
    {
     "w": "neglect",
     "pos": "isim",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    }
   ],
   "clues": [
@@ -6234,7 +6234,7 @@
    {
     "w": "ignore",
     "pos": "fiil",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "regulate",
@@ -6345,7 +6345,7 @@
    "cognitive development in young"
   ],
   "why": "'Because' gerekçe bildirir; ekran süresinin bilişsel gelişim üzerindeki olumsuz zarar verici (impair) etkisini açıklar. 'screen time can ___ cognitive' yapısı fiil gerektirir. 'deteriorate' (bozulmak) olumsuz bir fiildir ancak geçişsizdir ve nesne alamaz; gelişim gibi doğrudan bir nesneye zarar vermek/zayıflatmak için 'impair' kullanılır.",
-  "tr": "Aşırı ekran süresi küçük çocuklarda bilişsel gelişime zarar verebileceğinden, child doktoru grupları günlük kesin sınırlar önermektedir."
+  "tr": "Aşırı ekran süresi küçük çocuklarda bilişsel gelişime zarar verebileceğinden, çocuk doktoru grupları günlük kesin sınırlar önermektedir."
  },
  {
   "id": "ctx_139",
@@ -6805,7 +6805,7 @@
    "abandoned several centuries"
   ],
   "why": "Yüzyıllar önce terk edilmiş ve demode olmuş sulama sisteminin eski/tarih dışı kalması olumsuz bir niteliktir. 'used an ___ irrigation' yapısı sıfat gerektirir. 'scanty' (yetersiz/az) olumsuz bir sıfattır ancak sistemin eski zamanlara ait ve demode olma (antiquated) durumunu tam olarak tanımlamaz.",
-  "tr": "Arkeolog, tapınağın birkaç yüzyıl önce terk edilmiş olan eski (demode) bir sulama sistemi kullandığını keşfetti."
+  "tr": "Arkeolog, tapınağın birkaç yüzyıl önce terk edilmiş olan eski ve demode bir sulama sistemi kullandığını keşfetti."
  },
  {
   "id": "ctx_149",
@@ -6851,7 +6851,7 @@
    "population to double"
   ],
   "why": "Zorlu koşullarda hayatta kalan ve nesli korunan dağ keçilerinin hayata tutunma gücü (tenacious) olumlu tondadır. 'protected the ___ mountain' yapısı sıfat gerektirir. 'lucrative' (kazançlı) olumlu bir sıfattır ancak canlıların doğadaki direnç ve hayatta kalma azmini değil, finansal kazancı ifade eder.",
-  "tr": "Koruma programı, dayanıklı (hayata sıkı sıkıya bağlı) dağ keçilerini koruyarak popülasyonlarının beş yıl içinde iki katına çıkmasını sağladı."
+  "tr": "Koruma programı, dirençli dağ keçilerini koruyarak popülasyonlarının beş yıl içinde iki katına çıkmasını sağladı."
  },
  {
   "id": "ctx_150",
@@ -6897,7 +6897,7 @@
    "almost all urban"
   ],
   "why": "Yüksek hızlı internetin neredeyse tüm şehirlerde bulunması ve yaygınlaşması nötr bir gözlemdir. 'has become ___ in' yapısı sıfat gerektirir. 'comprehensive' (kapsamlı) nötr bir sıfattır ancak internetin 'her yerde hazır ve yaygın' bulunması (ubiquitous) durumunu değil, içerik zenginliğini tanımlar.",
-  "tr": "Akıllı telefonların yükselişiyle birlikte, yüksek hızlı internet erişimi dünya genelindeki hemen hemen tüm kentsel merkezlerde her yerde bulunur (yaygın) hale geldi."
+  "tr": "Akıllı telefonların yükselişiyle birlikte, yüksek hızlı internet erişimi dünya genelindeki hemen hemen tüm kentsel merkezlerde her yerde bulunur hale geldi."
  },
  {
   "id": "ctx_151",
@@ -6943,7 +6943,7 @@
    "planned surgery could"
   ],
   "why": "'planned surgery could go ahead' ifadesi kalbin ameliyat için yeterince sağlıklı ve yaşayabilir/çalışabilir (olumlu) olduğunu gösterir. 'was still ___ , meaning' yapısı sıfat gerektirir. 'cooperative' (uyumlu/iş birlikçi) olumlu bir sıfattır ancak bir organın biyolojik çalışabilirliğini (viable) değil, insanların uyumlu davranışlarını tanımlar.",
-  "tr": "Klinik sonuçlar, hastanın kalbinin hala yaşayabilir (çalışabilir durumda) olduğunu kanıtladı; bu da planlanan ameliyatın gerçekleştirilebileceği anlamına geliyordu."
+  "tr": "Klinik sonuçlar, hastanın kalbinin hâlâ yaşayabilir durumda olduğunu kanıtladı; bu da planlanan ameliyatın gerçekleştirilebileceği anlamına geliyordu."
  },
  {
   "id": "ctx_152",
@@ -7034,7 +7034,7 @@
    "overview of carbon",
    "covering over fifty"
   ],
-  "why": "Elli projenin birden kitapta yer alması literatür taramasının büyüklüğünü ve kapsamını nötr dille ifade eder. 'provides a ___ overview' yapısı sıfat gerektirir. 'ubiquitous' (her yerde bulunan) nötr bir sıfattır ancak bir yayının kapsamlılık ve içerik zenginliğini (comprehensive) değil, fiziksel yaygınlığı ifade eder.",
+  "why": "Elliden fazla projenin kitapta yer alması literatür taramasının büyüklüğünü ve kapsamını nötr dille ifade eder. 'provides a ___ overview' yapısı sıfat gerektirir. 'ubiquitous' (her yerde bulunan) nötr bir sıfattır ancak bir yayının kapsamlılık ve içerik zenginliğini (comprehensive) değil, fiziksel yaygınlığı ifade eder.",
   "tr": "El kitabı, elliden fazla uluslararası araştırma projesini kapsayan, karbon yakalama teknolojilerine ilişkin kapsamlı bir genel bakış sunmaktadır."
  },
  {
@@ -7127,7 +7127,7 @@
    "destroying dozens of"
   ],
   "why": "'destroying dozens of historic villages' ifadesi baraj çöküşünün vadi üzerindeki korkunç ve yıkıcı (olumsuz) etkisini gösterir. 'had a ___ effect' yapısı sıfat gerektirir. 'pernicious' (sinsi/zararlı) olumsuz bir sıfattır ancak onlarca köyü aniden yok eden büyük ve yıkıcı bir felaket (catastrophic) durumunu anlatmakta uygun değildir.",
-  "tr": "Büyük barajın ani çöküşü, vadinin aşağısında felaket bir etki yaratarak onlarca tarihi köyü yok etti."
+  "tr": "Büyük barajın ani çöküşü, vadinin aşağısında felaket boyutunda bir etki yaratarak onlarca tarihi köyü yok etti."
  },
  {
   "id": "ctx_156",
@@ -7173,7 +7173,7 @@
    "caps began to melt"
   ],
   "why": "'Although' zıtlığı kurar: yavaş (slowly) artış beklentisinin aksine buzulların çok hızlı ve radikal (olumsuz) bir şekilde eridiğini bildirir. 'began to melt ___ in' yapısı zarf gerektirir. 'regrettably' (maalesef) olumsuz bir zarftır ancak erimenin fiziksel hızını/büyüklüğünü (drastically) değil, konuşmacının konuya dair üzüntüsünü belirtir.",
-  "tr": "Küresel ısınma oranının yavaşça artması beklenmesine rağmen, kutup buzulları son on yıllarda radikal (şiddetli) bir şekilde erimeye başladı."
+  "tr": "Küresel ısınma oranının yavaşça artması beklenmesine rağmen, kutup buzulları son on yıllarda çarpıcı biçimde erimeye başladı."
  },
  {
   "id": "ctx_157",
@@ -7190,7 +7190,7 @@
    {
     "w": "simultaneously",
     "pos": "zarf",
-    "pol": "olumlu"
+    "pol": "notr"
    },
    {
     "w": "grow",
@@ -7297,7 +7297,7 @@
    {
     "w": "inadvertently",
     "pos": "zarf",
-    "pol": "olumlu"
+    "pol": "olumsuz"
    },
    {
     "w": "period",
@@ -7679,7 +7679,7 @@
    }
   ],
   "why": "Arkeologların kazı yaparak bir heykeli gün yüzüne çıkarması nötr bir eylemdir. 'managed to ____' yapısı fiil gerektirir. 'relocate' (yerini değiştirmek) nötr bir fiildir ancak toprağın altından kazıp çıkarma eylemini karşılamaz, kazılarda ortaya çıkarma için 'unearth' kullanılır.",
-  "tr": "Antik alanda çalışan arkeologlar, Helenistik döneme ait güzel bir şekilde korunmuş mermer bir heykeli gün yüzüne çıkarmayı başardılar."
+  "tr": "Antik alanda çalışan arkeologlar, Helenistik döneme ait çok iyi korunmuş bir mermer heykeli gün yüzüne çıkarmayı başardılar."
  },
  {
   "id": "ctx_168",
@@ -8001,7 +8001,7 @@
    }
   ],
   "why": "'discovery that could cure' açıklamasıyla tanımlanan durum olumlu bir gelişmedir. 'scientific ____' sıfat tamlamasında boşluğa isim gelmelidir. 'evolution' (evrim/gelişim) de olumlu bir isimdir ancak 'büyük bir buluş, çığır açıcı gelişme' anlamındaki ani başarıyı en iyi 'breakthrough' kelimesi karşılar.",
-  "tr": "Genetikçilerden oluşan ekip, kalıtsal birkaç hastalığı tedavi edebilecek bir keşif olan büyük bir bilimsel çığır açıcı gelişmeyi duyurdu."
+  "tr": "Genetikçilerden oluşan ekip, kalıtsal birkaç hastalığı tedavi edebilecek bir keşif niteliğindeki büyük bir bilimsel atılımı duyurdu."
  },
  {
   "id": "ctx_175",
@@ -8782,7 +8782,7 @@
     "pol": "olumlu"
    }
   ],
-  "why": "'Although' zıtlık ifadesi sunulan makul teori ile hakimin daha fazla somut delil istemesi arasındaki zıtlığı kurarak açıklamaya makul bir değer kazandırır. 'a ____ explanation' tamlaması sıfat ister. 'incredible' (inanılmaz/harika) olumlu bir sıfattır fakat mahkemede aranan şey akla yatkınlık ve inandırıcılık olduğu için 'plausible' kelimesi bağlama uyar.",
+  "why": "'Although' zıtlık ifadesi sunulan makul teori ile hâkimin daha fazla somut delil istemesi arasındaki zıtlığı kurarak açıklamaya makul bir değer kazandırır. 'a ____ explanation' tamlaması sıfat ister. 'incredible' (inanılmaz/harika) olumlu bir sıfattır fakat mahkemede aranan şey akla yatkınlık ve inandırıcılık olduğu için 'plausible' kelimesi bağlama uyar.",
   "tr": "Dedektif suç için akla yatkın bir açıklama sunmasına rağmen, yargıç daha somut fiziksel kanıtlar talep etti."
  },
  {
@@ -9197,7 +9197,7 @@
    "leading to extinction"
   ],
   "why": "'Although' zıtlık bağlacı koruma planları ile ormanların yok edilmesi arasındaki tezatı kurar. 'destroyed several unique habitats' (yaşam alanlarını yok etti) ve 'leading to extinction' (yok oluşa yol açtı) durumun olumsuzluğunu netleştirir. 'rapid ____' yapısı isim gerektirir. 'pollution' (kirlilik) de olumsuz bir isimdir ancak yaşam alanlarının doğrudan fiziksel yıkımını ve yok oluşunu ifade eden ormansızlaşma 'deforestation' kelimesidir.",
-  "tr": "Hükümet koruma planları başlatmış olmasına rağmen, bölgedeki hızlı ormansızlaşma birkaç benzersiz yaşam alanını yok etti yardımıyla yok oluşa yol açtı."
+  "tr": "Hükümet koruma planları başlatmış olmasına rağmen, bölgedeki hızlı ormansızlaşma birkaç benzersiz yaşam alanını yok ederek yok oluşa yol açtı."
  },
  {
   "id": "ctx_201",
@@ -9379,7 +9379,7 @@
    "established self-governance"
   ],
   "why": "'recognized its full' ve 'established self-governance' (kendi kendini yönetme) ifadeleri bağımsızlık ve egemenlik durumunu niteleyerek olumlu bir anlam yükü taşır. 'its full ____' tamlaması isim gerektirir. 'prosperity' (refah) da olumlu bir isimdir ancak dış yönetimden kurtulup kendi kendini yönetmeye başlamak doğrudan 'sovereignty' (egemenlik) kavramını ifade eder.",
-  "tr": "Onlarca yıllık yabancı yönetiminin ardından ulus nihayet tam egemenliğini tanıyan ve kendi kendini yönetimini tesis eden bir antlaşma imzaladı."
+  "tr": "Onlarca yıllık yabancı yönetiminin ardından ulus nihayet tam egemenliğini tanıyan ve kendi kendini yönetmeyi tesis eden bir antlaşma imzaladı."
  },
  {
   "id": "ctx_205",
@@ -9795,7 +9795,7 @@
  },
  {
   "id": "ctx_214",
-  "text": "Researchers was awarded a prize because the clinical trials proved the high ____ of the vaccine in preventing viral transmission.",
+  "text": "Researchers were awarded a prize because the clinical trials proved the high ____ of the vaccine in preventing viral transmission.",
   "pos": "isim",
   "pol": "olumlu",
   "answer": "efficacy",
@@ -9834,10 +9834,10 @@
   "clues": [
    "trials proved the high",
    "vaccine in preventing viral transmission",
-   "was awarded a prize"
+   "were awarded a prize"
   ],
-  "why": "Bilim insanlarının ödül alması ('was awarded a prize') ve aşının virüs bulaşmasını engellemedeki gücü olumlu bir yük oluşturur. 'the high ____ of' yapısında bir isim aranmaktadır. 'advancement' (ilerleme) de olumlu bir isimdir ancak bir aşının veya ilacın tıbbi gücünü, etkililiğini ifade etmek için doğrudan 'efficacy' (etkililik) terimi kullanılır.",
-  "tr": "Klinik araştırmalar aşının viral bulaşmayı önlemedeki yüksek etkililiğini kanıtladığı için araştırmacılar bir ödülle ödüllendirildi."
+  "why": "Bilim insanlarının ödül alması ('were awarded a prize') ve aşının virüs bulaşmasını engellemedeki gücü olumlu bir yük oluşturur. 'the high ____ of' yapısında bir isim aranmaktadır. 'advancement' (ilerleme) de olumlu bir isimdir ancak bir aşının veya ilacın tıbbi gücünü, etkililiğini ifade etmek için doğrudan 'efficacy' (etkililik) terimi kullanılır.",
+  "tr": "Klinik araştırmalar aşının viral bulaşmayı önlemedeki yüksek etkililiğini kanıtladığı için araştırmacılara bir ödül verildi."
  },
  {
   "id": "ctx_215",
@@ -10611,7 +10611,7 @@
    "when they successfully mapped the entire genome"
   ],
   "why": "Ekibin kutlama yapması ('celebrated') ve genom haritalamanın başarıyla tamamlanması olumlu bir yük oluşturur. 'scientific ____' tamlaması isim gerektirir. 'hospitality' (konukseverlik) olumlu bir isimdir ancak misafirlere gösterilen ilgiyi anlatır; genom haritalamasının çığır açıcı bilimsel başarısını karşılamaz.",
-  "tr": "Ekip, nadir bitki türünün tüm genomunu başarıyla haritaladıklarında büyük bir bilimsel buluşu kutladı."
+  "tr": "Ekip, nadir bitki türünün tüm genomunu başarıyla haritaladıklarında büyük bir bilimsel atılımı kutladı."
  },
  {
   "id": "ctx_232",
@@ -10701,7 +10701,7 @@
    "official decrees, and coins"
   ],
   "why": "'such as' ifadesi imparatorluk hanedanına ait mühür ve kararnameleri örneklendirmektedir. Tarihi belgeler nötr bir anlam yüküne sahiptir. 'a ____ dynasty' tamlaması sıfat gerektirir. 'feudal' (derebeylik) de nötr bir sıfattır ancak kraliyet mühürleri ve resmi devlet kararnameleri doğrudan imparatorluğa ait anlamına gelen 'imperial' sıfatı ile bağdaşır.",
-  "tr": "Müze sergisinde, kraliyet mühürleri, resmi kararnameler ve madeni paralar gibi imparatorluk hanedanlığına ait eserler yer alıyordu."
+  "tr": "Müze sergisinde, kraliyet mühürleri, resmi kararnameler ve madeni paralar gibi imparatorluk hanedanına ait eserler yer alıyordu."
  },
  {
   "id": "ctx_234",
@@ -11250,7 +11250,7 @@
    "allowed them to build"
   ],
   "why": "'and' bağlacı ve 'worked together' ifadesi olumlu bir birliktelik durumunu gösterir; okul inşa edilmesi bu iş birliğinin olumlu sonucudur. 'their deep ____' tamlaması bir isim gerektirir. 'elegance' (zarafet) olumlu bir isimdir ancak biçim ve davranıştaki inceliği anlatır; bir topluluğun üyeleri arasındaki dayanışmayı karşılamaz.",
-  "tr": "Köy liderleri yıllarca birlikte çalıştılar ve onların derin bağlılığı/uyumu, devlet fonu olmadan bir topluluk okulu inşa etmelerini sağladı."
+  "tr": "Köy liderleri yıllarca birlikte çalıştılar ve onların derin uyumu, devlet fonu olmadan bir topluluk okulu inşa etmelerini sağladı."
  },
  {
   "id": "ctx_246",
@@ -11939,7 +11939,7 @@
    "the council voted to",
    "historical monument"
   ],
-  "why": "'Although' kalesi yıkılmak istenen bir yapının korunması arasındaki tarihi kararın zıtlığını olumlu biçimde sunar. 'voted to ____' yapısı fiil gerektirir. 'reward' (ödüllendirmek) olumlu bir fiildir ancak başarıyı karşılıksız bırakmamayı anlatır; kalenin fiziksel varlığını koruyup sürdürmek anlamına gelmez.",
+  "why": "'Although' yapısı, kalenin yıkılmak istenmesi ile meclisin onu korumaya karar vermesi arasındaki zıtlığı kurar. 'voted to ____' yapısı fiil gerektirir. 'reward' (ödüllendirmek) olumlu bir fiildir ancak bir çabanın veya başarının karşılığını vermeyi anlatır; kalenin fiziksel varlığını koruyup sürdürmek anlamına gelmez.",
   "tr": "Bazı vatandaşlar eski kaleyi yıkmak istemesine rağmen, belediye meclisi kaleyi tarihi bir anıt olarak korumaya karar verdi."
  },
  {
@@ -12170,7 +12170,7 @@
    "to cyberattacks"
   ],
   "why": "'and this outdated hardware' ifadesi eski donanımın şirketi siber saldırılara açık hale getirmesinin olumsuz sonucunu açıklar. 'makes the company ____ to' yapısı sıfat ister. 'reluctant' (isteksiz) olumsuz bir sıfattır ancak genelde bir eylem almak konusundaki çekingenliği anlatır; eski donanımın şirketi saldırılara açık hale getirmesini karşılamaz.",
-  "tr": "Bilgisayar sistemi yirmi yıl önce kurulmuştu ve bu eski donanım şirketi siber saldırılara karşı savunmasız/açık hale getiriyor."
+  "tr": "Bilgisayar sistemi yirmi yıl önce kurulmuştu ve bu eski donanım şirketi siber saldırılara karşı savunmasız hale getiriyor."
  },
  {
   "id": "ctx_266",
@@ -12262,7 +12262,7 @@
    "reaction with his"
   ],
   "why": "'because' yapısı baş dönmesinin sebebini tıbbi olarak açıklar; reaksiyon olumsuzdur. 'highly ____ reaction' yapısı sıfat gerektirir. 'gullible' (kolay kanan) olumsuz bir sıfattır ancak kişilerin saflığını niteler; ilaç etkileşiminin istenmeyen yan etkisini karşılamaz.",
-  "tr": "Hasta sürekli baş dönmesi yaşadı çünkü uzun tedavi, günlük kalp haplarıyla son derece olumsuz/yan bir reaksiyon üretti."
+  "tr": "Hasta sürekli baş dönmesi yaşadı çünkü uzun tedavi, günlük kalp haplarıyla son derece olumsuz bir reaksiyon üretti."
  },
  {
   "id": "ctx_268",
@@ -12308,7 +12308,7 @@
    "international corporation"
   ],
   "why": "'Although' garajda başlama ile uluslararası bir dev olma arasındaki olumlu zıtlığı vurgular. 'highly ____ international' yapısı sıfat gerektirir. 'hospitable' (misafirperver) olumlu bir sıfattır ancak konuklara gösterilen sıcaklığı niteler; bir şirketin büyüyüp refaha ulaşmasını karşılamaz.",
-  "tr": "İşletme küçük bir ahşap garajda başlamış olmasına rağmen, onun liderliği altında hızla son derece müreffeh/başarılı uluslararası bir şirket haline geldi."
+  "tr": "İşletme küçük bir ahşap garajda başlamış olmasına rağmen, onun liderliği altında hızla son derece müreffeh uluslararası bir şirket haline geldi."
  },
  {
   "id": "ctx_269",
@@ -12400,7 +12400,7 @@
    "environment is essential for"
   ],
   "why": "'which means' yapısı ameliyathaneler için zorunlu olan mikroptan arındırılmış olumlu çevreyi tanımlar. 'completely ____ environment' yapısı sıfat gerektirir. 'luxurious' (lüks) olumlu bir sıfattır ancak konforu niteler; ameliyathanelerin mikropsuz ortamını karşılamaz.",
-  "tr": "Ameliyatlar için temiz odalar kullanan hastane, tamamen steril bir ortamın korunmasının hastanın iyileşmesi için gerekli olduğunu belirtiyor."
+  "tr": "Hastane ameliyatlar için temiz odalar kullanıyor, bu da tamamen steril bir ortamı korumanın hastanın iyileşmesi için şart olduğu anlamına geliyor."
  },
  {
   "id": "ctx_271",
@@ -12584,7 +12584,7 @@
    "object in archaeological digs"
   ],
   "why": "'which means' yapısı tarımda kullanılan işlevsel araçları nötr bir dille tanımlar. 'finding a ____ object' yapısı sıfat gerektirir. 'nocturnal' (gececil) nötr bir sıfattır ancak geceleri aktif olan canlıları niteler; günlük işlerde kullanılan eşyaları karşılamaz.",
-  "tr": "Müze, tarımda kullanılan antik araçları sergiliyor, bu da arkeolojik kazılarda yararcı/işlevsel bir nesne bulmanın yaygın olduğu anlamına geliyor."
+  "tr": "Müze, tarımda kullanılan antik araçları sergiliyor, bu da arkeolojik kazılarda işlevsel bir nesne bulmanın yaygın olduğu anlamına geliyor."
  },
  {
   "id": "ctx_275",
@@ -12768,7 +12768,7 @@
    "completed the masterpiece yesterday"
   ],
   "why": "'and she' ifadesi haftalarca süren hassas çalışmanın başarılı ve olumlu sonucunu bağlar. 'she ____ completed' yapısı fiili niteleyen zarf gerektirir. 'generously' (cömertçe) olumlu bir zarftır ancak vermeyi niteler; heykeltıraşın haftalarca süren titiz çalışmasını anlatmaz.",
-  "tr": "Genç heykeltıraş haftalarca hassas mermeri yonttu ve şaheseri dün öğleden sonra titizlikle tamamladı."
+  "tr": "Genç heykeltıraş haftalarca kırılgan mermeri yonttu ve şaheseri dün öğleden sonra titizlikle tamamladı."
  },
  {
   "id": "ctx_279",
@@ -12997,7 +12997,7 @@
    "which means a",
    "normal temperature range was"
   ],
-  "why": "'which means' yapısı normal sınırların dışına çıkılmasını olumsuz bir teknik bağlamda tanımlar. 'significant ____ from' yapısı sıfattan sonra isim ister. 'alteration' değişiklik demektir ama bir ölçümün veya değerin normal rotasından/çizgisinden sapmasını doğrudan niteleyen bilimsel terim 'deviation'dır.",
+  "why": "'which means' yapısı normal sınırların dışına çıkılmasını olumsuz bir teknik bağlamda tanımlar. 'significant ____ from' yapısı sıfattan sonra isim ister. 'alteration' değişiklik demektir ama bir ölçümün veya değerin normal değerinden sapmasını doğrudan niteleyen bilimsel terim 'deviation'dır.",
   "tr": "Makine güvenlik sınırlarının dışında çalıştı, bu da normal sıcaklık aralığından önemli bir sapma kaydedildiği anlamına geliyor."
  },
  {
@@ -13458,7 +13458,7 @@
    "trade between nearby cities"
   ],
   "why": "'and this delay will' ifadesi yol onarım gecikmesinin ticaret üzerindeki olumsuz sonucunu açıklar. 'delay will ____' yapısı yalın fiil gerektirir. 'overthrow' (devirmek) olumsuz bir fiildir ancak hükümet veya yönetimleri devirmek için kullanılır; gecikmenin ticareti aksatmasını karşılamaz.",
-  "tr": "Yerel yönetim ana yolları onarmayı başaramadı ve bu gecikme yakındaki şehirler arasındaki ticareti aksatacak/engelleyecek."
+  "tr": "Yerel yönetim ana yolları onarmayı başaramadı ve bu gecikme yakındaki şehirler arasındaki ticareti aksatacak."
  },
  {
   "id": "ctx_294",
@@ -13503,7 +13503,7 @@
    "night staff began to",
    "basic hygiene procedures"
   ],
-  "why": "'because' yapısı şikayetlerin tıbbi sebebini açıklar; hijyen kurallarının boşlanması olumsuz bir durumdur. 'began to ____' yapısı yalın fiil ister. 'confiscate' (el koymak) olumsuz bir fiildir ancak eşyalara el koymak için kullanılır; hijyen kurallarını ihmal etmek anlamına gelmez.",
+  "why": "'because' yapısı şikayetlerin tıbbi sebebini açıklar; hijyen kurallarının ihmal edilmesi olumsuz bir durumdur. 'began to ____' yapısı yalın fiil ister. 'confiscate' (el koymak) olumsuz bir fiildir ancak eşyalara el koymak için kullanılır; hijyen kurallarını ihmal etmek anlamına gelmez.",
   "tr": "Klinik kritik şikayetlerle karşılaştı çünkü gece personeli yoğun saatlerde temel hijyen prosedürlerini ihmal etmeye başladı."
  },
  {
@@ -13642,7 +13642,7 @@
    "their revolutionary geological theory"
   ],
   "why": "'and this clear evidence' yapısı yeni fosillerin jeolojik teoriyi destekleyen olumlu sonucunu bağlar. 'evidence will ____' yapısı fiil gerektirir. 'forgive' (affetmek) olumlu bir fiildir ancak bağışlama anlamındadır; fosil kanıtının kuramı doğrulayıp desteklemesini karşılamaz.",
-  "tr": "Araştırma laboratuvarı yeni fiziksel fosiller keşfetti ve bu açık kanıtlar onların devrim niteliğindeki jeolojik teorilerini doğrulayacak/destekleyecek."
+  "tr": "Araştırma laboratuvarı yeni fiziksel fosiller keşfetti ve bu açık kanıtlar onların devrim niteliğindeki jeolojik teorilerini doğrulayacak."
  },
  {
   "id": "ctx_298",
@@ -13733,8 +13733,8 @@
    "and their early",
    "new ocean trade routes"
   ],
-  "why": "'and their early' ifadesi denizcilerin haritalama çalışmalarının yeni ticaret yolları açan olumlu sonucunu bağlar. 'helped to ____' yapısı fiil gerektirir. 'reward' (ödüllendirmek) olumlu bir fiildir ancak başarıyı karşılıksız bırakmamayı anlatır; denizcilerin yeni ticaret yollarının öncüsü olmasını karşılamaz.",
-  "tr": "Antik denizciler güney denizlerini haritalandırdılar ve onların ilk seferleri yeni okyanus ticareti yollarına öncülük etmeye yardımcı oldu."
+  "why": "'and their early' ifadesi denizcilerin haritalama çalışmalarının yeni ticaret yolları açan olumlu sonucunu bağlar. 'helped to ____' yapısı fiil gerektirir. 'reward' (ödüllendirmek) olumlu bir fiildir ancak bir çabanın veya başarının karşılığını vermeyi anlatır; denizcilerin yeni ticaret yollarının öncüsü olmasını karşılamaz.",
+  "tr": "Antik denizciler güney denizlerini haritalandırdılar ve onların ilk seferleri yeni okyanus ticaret yollarına öncülük etmeye yardımcı oldu."
  },
  {
   "id": "ctx_300",
@@ -13876,7 +13876,7 @@
  },
  {
   "id": "ctx_303",
-  "text": "Although the two ancient royal weddings happened in different months, local rumors claim they actually continued to ____ with solar eclipses.",
+  "text": "Although the two ancient royal weddings happened in different months, local rumors claim they actually happened to ____ with solar eclipses.",
   "pos": "fiil",
   "pol": "notr",
   "answer": "coincide",
@@ -13917,8 +13917,8 @@
    "rumors claim they",
    "with solar eclipses"
   ],
-  "why": "'Although' farklı zamanlar ile tutulma dönemleri arasındaki nötr tarihsel ilişkiyi bağlar. 'continued to ____ with' yapısı fiil ister. 'clash' çelişmek/çakışmak demektir ama iki bağımsız olayın tamamen 'aynı zamana denk gelmesini' doğrudan niteleyen fiil 'coincide'dir.",
-  "tr": "İki antik kraliyet düğünü farklı aylarda gerçekleşmiş olmasına rağmen, yerel söylentiler bunların aslında güneş tutulmalarıyla aynı zamana denk gelmeye devam ettiğini iddia ediyor."
+  "why": "'Although' farklı zamanlar ile tutulma dönemleri arasındaki nötr tarihsel ilişkiyi bağlar. 'happened to ____ with' yapısı fiil ister. 'clash' çelişmek/çakışmak demektir ama iki bağımsız olayın tamamen 'aynı zamana denk gelmesini' doğrudan niteleyen fiil 'coincide'dir.",
+  "tr": "İki antik kraliyet düğünü farklı aylarda gerçekleşmiş olmasına rağmen, yerel söylentiler bunların aslında güneş tutulmalarıyla aynı zamana denk geldiğini iddia ediyor."
  },
  {
   "id": "ctx_304",
@@ -14240,7 +14240,7 @@
    "story of the nation's"
   ],
   "why": "'and these works' ifadesi kitapların okuyucuyu derinden etkileyen olumlu sonucunu bağlar. 'provided a ____ story' yapısı sıfat ister. 'dainty' (zarif, narin) olumlu bir sıfattır ancak küçük ve ince nesneleri niteler; okuru sürükleyen etkileyici bir anlatımı karşılamaz.",
-  "tr": "Yerel kütüphane many ilginç tarih kitabı sundu ve bu eserler ulusun mücadelesinin son derece sürükleyici/etkileyici bir hikayesini sundu."
+  "tr": "Yerel kütüphane birçok ilginç tarih kitabı sundu ve bu eserler ulusun mücadelesinin son derece sürükleyici bir hikâyesini anlattı."
  },
  {
   "id": "ctx_311",
@@ -14378,7 +14378,7 @@
    "and public transport"
   ],
   "why": "'such as' yapısı halkın ortaklaşa yaptığı olumlu projeleri örneklendirir. 'several ____ projects' yapısı sıfat gerektirir. 'glamorous' (gösterişli) olumlu bir sıfattır ancak çekici ve şatafatlı yaşamı niteler; ortak çalışmaya dayalı toplum projelerini karşılamaz.",
-  "tr": "Yerel yönetim, ortak tarım, topluluk bahçeleri ve toplu taşıma sistemleri gibi birkaç işbirlikçi/ortaklaşa proje başlattı."
+  "tr": "Yerel yönetim, ortak tarım, topluluk bahçeleri ve toplu taşıma sistemleri gibi işbirliğine dayalı birkaç proje başlattı."
  },
  {
   "id": "ctx_314",
@@ -14424,7 +14424,7 @@
    "numbers during the simulation"
   ],
   "why": "'Although' kelimesi sabit veriler ile simülasyondaki değişken sayılar arasındaki nötr zıtlığı bağlar. 'selects ____ numbers' yapısı ismi niteleyen sıfat gerektirir. 'ancestral' (atalara ait) nötr bir sıfattır ancak soy ve geçmişle ilgilidir; simülasyonda seçilen sayıların rastgeleliğini karşılamaz.",
-  "tr": "Bazı test modelleri sabit veritabanı değerleri kullanmasına rağmen, programımız simülasyon sırasında rastgele/isteğe bağlı sayılar seçer."
+  "tr": "Bazı test modelleri sabit veritabanı değerleri kullanmasına rağmen, programımız simülasyon sırasında rastgele sayılar seçer."
  },
  {
   "id": "ctx_315",
@@ -14470,7 +14470,7 @@
    "qualities of the skin are"
   ],
   "why": "'which means' yapısı doğumda belirlenen yapısal özellikleri nötr tıbbi bağlamda tanımlar. 'the ____ qualities' yapısı sıfat gerektirir. 'seasonal' (mevsimsel) nötr bir sıfattır ancak yılın dönemlerine bağlı değişimi niteler; doğuştan belirlenmiş, cildin içsel özelliklerini karşılamaz.",
-  "tr": "Hücreler özel yapısal moleküller içerir, bu da cildin yapısal/içkin özelliklerinin doğumda belirlendiği anlamına geliyor."
+  "tr": "Hücreler özel yapısal moleküller içerir, bu da cildin içsel özelliklerinin doğumda belirlendiği anlamına geliyor."
  },
  {
   "id": "ctx_316",
@@ -14562,7 +14562,7 @@
    "swallowed a plastic pill"
   ],
   "why": "'because' yapısı mide ağrısının kazara gerçekleşen olumsuz sebebini açıklar. 'had ____ swallowed' yapısı fiili niteleyen zarf ister. 'dishonestly' (dürüst olmayan biçimde) olumsuz bir zarftır ancak aldatıcı davranışı niteler; hastanın istemeden yuttuğu durumu karşılamaz.",
-  "tr": "Hasta ciddi mide ağrısı çekti çünkü dün kazara/istemeden plastik bir hap kapağı yutmuştu."
+  "tr": "Hasta ciddi mide ağrısı çekti çünkü dün istemeden plastik bir hap kapağı yutmuştu."
  },
  {
   "id": "ctx_318",

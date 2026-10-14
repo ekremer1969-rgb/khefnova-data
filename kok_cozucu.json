@@ -1284,7 +1284,7 @@
         "lit": "(bilgiyi) içine kurmak",
         "tr": "talimat vermek, öğretmek",
         "en": "Staff were instructed to leave the building immediately.",
-        "en_tr": "Personele binayı derhal terk etmesi talimatı verildi."
+        "en_tr": "Personele binayı derhal terk etmeleri talimatı verildi."
       }
     ]
   },
@@ -1589,7 +1589,7 @@
         "lit": "sesle ilgili",
         "tr": "sesli; açıkça dile getiren",
         "en": "She has been a vocal critic of the policy.",
-        "en_tr": "Politikanın sesini yükselten bir eleştirmeni oldu."
+        "en_tr": "Politikanın açık sözlü bir eleştirmeni oldu."
       }
     ]
   },
@@ -1756,7 +1756,7 @@
             "r": 1
           }
         ],
-        "lit": "ileriye taşımak",
+        "lit": "uzağa, sonraya taşımak",
         "tr": "ertelemek",
         "en": "The decision was deferred until next month.",
         "en_tr": "Karar gelecek aya ertelendi."
@@ -3320,7 +3320,7 @@
         "lit": "hissedilen şey",
         "tr": "duygu, kanaat",
         "en": "Public sentiment turned against the war.",
-        "en_tr": "Kamuoyu duygusu savaşa karşı döndü."
+        "en_tr": "Kamuoyu savaşa karşı döndü."
       }
     ]
   },
@@ -8053,7 +8053,7 @@
         "parts": [
           {
             "t": "para",
-            "g": "yanlış, bozuk"
+            "g": "yan, kenar"
           },
           {
             "t": "lys",
@@ -8065,7 +8065,7 @@
             "g": "-ma"
           }
         ],
-        "lit": "bozucu çözülme",
+        "lit": "bir yanın çözülmesi",
         "tr": "felç, kötürümlük",
         "en": "The spinal injury caused paralysis in both legs.",
         "en_tr": "Omurilik yaralanması iki bacakta felce yol açtı."

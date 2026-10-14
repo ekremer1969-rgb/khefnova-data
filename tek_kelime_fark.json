@@ -50,7 +50,7 @@
   "diffA": "went on explaining",
   "diffB": "went on to explain",
   "trA": "Profesör gürültüye rağmen ekonomik teoriyi açıklamaya devam etti.",
-  "trB": "Profesör gürültüye rağmen sıradaki adım olarak ekonomik teoriyi açıkladı.",
+  "trB": "Profesör gürültüye rağmen ardından ekonomik teoriyi açıklamaya geçti.",
   "why": "go on + V-ing = aynı eyleme devam etmek. go on + to V = yeni bir eyleme geçmek.",
   "topic": "gerund-infinitive"
  },
@@ -148,8 +148,8 @@
   "b": "With more time, she would have finished the exam.",
   "diffA": "could have finished",
   "diffB": "would have finished",
-  "trA": "Dün daha fazla zamanla sınavı bitirebilirdi.",
-  "trB": "Dün daha fazla zamanla sınavı bitirirdi.",
+  "trA": "Daha fazla zamanı olsaydı sınavı bitirebilirdi.",
+  "trB": "Daha fazla zamanı olsaydı sınavı bitirirdi.",
   "why": "could have V3 = geçmişte yeteneği/fırsatı vardı ama yapmadı/olmadı. would have V3 = geçmişte koşul sağlansaydı kesin yapardı.",
   "topic": "modal"
  },
@@ -335,8 +335,8 @@
   "b": "She will prepare the presentation until tomorrow morning.",
   "diffA": "by",
   "diffB": "until",
-  "trA": "Sunumu en geç yarın sabah teslim edilmek üzere hazırlayacak.",
-  "trB": "Yarın sabah vaktine kadar kesintisiz olarak sunumu hazırlayacak.",
+  "trA": "Sunumu en geç yarın sabaha kadar hazırlamış olacak.",
+  "trB": "Yarın sabaha kadar kesintisiz olarak sunumu hazırlayacak.",
   "why": "by = en geç o zamana kadar (tamamlanma). until = o zamana kadar kesintisiz (süreç).",
   "topic": "preposition"
  },
@@ -364,12 +364,12 @@
  },
  {
   "id": "dif_034",
-  "a": "The modern bus departed in time.",
-  "b": "The modern bus departed on time.",
+  "a": "The modern bus arrived in time for the concert.",
+  "b": "The modern bus arrived on time for the concert.",
   "diffA": "in time",
   "diffB": "on time",
-  "trA": "Modern otobüs bir şeyleri kaçırmayacak kadar erken bir vakitte hareket etti.",
-  "trB": "Modern otobüs tam olarak planlanan tarifeli saatinde hareket etti.",
+  "trA": "Modern otobüs konsere yetişecek kadar erken geldi.",
+  "trB": "Modern otobüs tam planlanan saatinde geldi.",
   "why": "in time = bir şeye yetişecek kadar erken vakitte. on time = tam belirlenen/tarifeli saatte.",
   "topic": "preposition"
  },
@@ -402,7 +402,7 @@
   "diffA": " which is green",
   "diffB": ", which is green,",
   "trA": "Yeşil renkli olan ev ucuzdur.",
-  "trB": "Ev, ki kendisi yeşil renklidir, ucuzdur.",
+  "trB": "Ev (bu arada yeşil renklidir) ucuzdur.",
   "why": "virgülsüz = hangi ev olduğunu tanımlar (defining). virgüllü = bilinen ev hakkında ek bilgi verir (non-defining).",
   "topic": "relative"
  },
@@ -500,9 +500,9 @@
   "b": "She lived in Paris for some time.",
   "diffA": "has lived",
   "diffB": "lived",
-  "trA": "Onun bir süre Paris'te yaşamışlığı vardır.",
+  "trA": "Bir süredir Paris'te yaşıyor.",
   "trB": "Bir süre Paris'te yaşadı.",
-  "why": "have V3 = geçmiş tecrübeyi belirtir. V2 = geçmişte tamamlanmış eylemi belirtir.",
+  "why": "have V3 = geçmişte başlayıp şimdiye uzanan durumu belirtir. V2 = geçmişte tamamlanmış eylemi belirtir.",
   "topic": "tense"
  },
  {
@@ -885,7 +885,7 @@
   "b": "She has not paid yet.",
   "diffA": "still has not paid",
   "diffB": "has not paid yet",
-  "trA": "Hala ödeme yapmadı.",
+  "trA": "Hâlâ ödeme yapmadı.",
   "trB": "Henüz ödeme yapmadı.",
   "why": "still not = eylemin gecikmesinden duyulan şaşkınlık veya vurgu. not yet = eylemin henüz gerçekleşmemiş olması.",
   "topic": "tense"
@@ -896,7 +896,7 @@
   "b": "She has written the final report.",
   "diffA": "been writing",
   "diffB": "written",
-  "trA": "Son raporu yazmaktaydı.",
+  "trA": "Bir süredir son raporu yazıyor.",
   "trB": "Son raporu yazdı.",
   "why": "have been V-ing = eylemin sürdüğünü vurgular. have V3 = eylemin bittiğini ve sonucunu vurgular.",
   "topic": "tense"
@@ -941,7 +941,7 @@
   "diffA": "didn't need to rent",
   "diffB": "needn't have rented",
   "trA": "Ekstra oda kiralamalarına gerek kalmadı.",
-  "trB": "Ekstra oda kiralamalarına gerek yoktu.",
+  "trB": "Ekstra oda kiralamalarına gerek yoktu ama kiraladılar.",
   "why": "didn't need to V = gerek yoktu ve yapılmadı. needn't have V3 = gerek yoktu ama yapıldı.",
   "topic": "modal"
  },
@@ -1050,7 +1050,7 @@
   "b": "I wish we had lived in a warmer country.",
   "diffA": "lived",
   "diffB": "had lived",
-  "trA": "Keşke daha sıcak bir ülkede yaşasaydık.",
+  "trA": "Keşke daha sıcak bir ülkede yaşasak.",
   "trB": "Keşke geçmişte daha sıcak bir ülkede yaşamış olsaydık.",
   "why": "wish + V2 = şu anki duruma yönelik dilek. wish + had V3 = geçmişe yönelik pişmanlık.",
   "topic": "conditional"
@@ -1101,12 +1101,12 @@
  },
  {
   "id": "dif_101",
-  "a": "Call the emergency services when they arrive.",
-  "b": "Call the emergency services if they arrive.",
+  "a": "Call me when they arrive.",
+  "b": "Call me if they arrive.",
   "diffA": "when they arrive",
   "diffB": "if they arrive",
-  "trA": "Ulaştıklarında acil servisleri ara.",
-  "trB": "Eğer ulaşırlarsa acil servisleri ara.",
+  "trA": "Ulaştıklarında beni ara.",
+  "trB": "Eğer ulaşırlarsa beni ara.",
   "why": "when = zamanı kesinleşmiş eylem. if = gerçekleşmesi belirsiz koşul.",
   "topic": "connector"
  },
@@ -1138,7 +1138,7 @@
   "b": "The ambulance arrived on time for the patient.",
   "diffA": "in time",
   "diffB": "on time",
-  "trA": "Ambulans hasta için tam vaktinde ulaştı.",
+  "trA": "Ambulans hastaya geç kalmadan yetişti.",
   "trB": "Ambulans hasta için planlanan saatte ulaştı.",
   "why": "in time = geç kalmadan (gerekli anda). on time = tam belirlenen saatte.",
   "topic": "preposition"
@@ -1172,7 +1172,7 @@
   "diffA": " who is singing",
   "diffB": ", who is singing,",
   "trA": "Şarkı söyleyen kız benim kız kardeşimdir.",
-  "trB": "Kız, ki kendisi şarkı söylemektedir, benim kız kardeşimdir.",
+  "trB": "Kız (bu arada şarkı söylüyor) benim kız kardeşimdir.",
   "why": "virgülsüz relative = hangi kız olduğunu belirten tanımlayıcı. virgüllü relative = bilinen kız hakkında ek bilgi.",
   "topic": "relative"
  },
@@ -1486,10 +1486,10 @@
  },
  {
   "id": "dif_136",
-  "a": "Has the team already finished his project?",
-  "b": "Has the team finished his project yet?",
-  "diffA": "already finished his project",
-  "diffB": "finished his project yet",
+  "a": "Has the team already finished its project?",
+  "b": "Has the team finished its project yet?",
+  "diffA": "already finished its project",
+  "diffB": "finished its project yet",
   "trA": "Ekip projesini çoktan bitirdi mi?",
   "trB": "Ekip projesini henüz bitirdi mi?",
   "why": "already = bir eylemin beklenenden önce yapıldığını sorgular. yet = bir eylemin şu ana kadar yapılıp yapılmadığını sorgular.",
@@ -1634,7 +1634,7 @@
   "diffA": "most",
   "diffB": "most of the",
   "trA": "Mülakat sırasında soruların çoğuna cevap verdi.",
-  "trB": "Mülakat sırasında soruların tamamına yakın çoğunluğuna cevap verdi.",
+  "trB": "Mülakat sırasında soruların büyük çoğunluğuna cevap verdi.",
   "why": "most = genel olarak çoğunluk. most of the = belirli bir gruptaki çoğunluk.",
   "topic": "quantifier"
  },
@@ -1688,7 +1688,7 @@
   "b": "I wish they had lived in this city.",
   "diffA": "lived",
   "diffB": "had lived",
-  "trA": "Keşke bu şehirde yaşasalardı.",
+  "trA": "Keşke bu şehirde yaşasalar.",
   "trB": "Keşke bu şehirde yaşamış olsalardı.",
   "why": "wish + past = şimdiki zamana dair dilek. wish + past perfect = geçmişe dair pişmanlık.",
   "topic": "conditional"
@@ -1706,10 +1706,10 @@
  },
  {
   "id": "dif_156",
-  "a": "The team achieved so great success that everyone celebrated.",
-  "b": "The team achieved such great success that everyone celebrated.",
-  "diffA": "so",
-  "diffB": "such",
+  "a": "The team achieved so great a success that everyone celebrated.",
+  "b": "The team achieved such a great success that everyone celebrated.",
+  "diffA": "so great a",
+  "diffB": "such a great",
   "trA": "Takım o kadar büyük bir başarı elde etti ki herkes kutlama yaptı.",
   "trB": "Takım öylesine büyük bir başarı elde etti ki herkes kutlama yaptı.",
   "why": "so + sıfat/zarf = o kadar. such + isim/sıfat tamlaması = öylesine bir.",
@@ -1776,7 +1776,7 @@
   "b": "They arrived at the station on time for the train.",
   "diffA": "in time",
   "diffB": "on time",
-  "trA": "Tren için tam vaktinden önce istasyona ulaştılar.",
+  "trA": "Trene yetişecek kadar erken istasyona ulaştılar.",
   "trB": "Tren için tam belirlenen saatte istasyona ulaştılar.",
   "why": "in time = vaktinden önce, geç kalmadan. on time = planlanan tam saatte.",
   "topic": "preposition"
@@ -1794,13 +1794,13 @@
  },
  {
   "id": "dif_164",
-  "a": "He promised he would call the manager.",
-  "b": "He promised he had called the manager.",
+  "a": "He told me he would call the manager.",
+  "b": "He told me he had called the manager.",
   "diffA": "would call",
   "diffB": "had called",
-  "trA": "Müdürü arayacağına dair söz verdi.",
-  "trB": "Müdürü aramış olduğuna dair söz verdi.",
-  "why": "would call = geleceğe yönelik vaat aktarımı. had called = geçmişte yapılmış bir eylemin aktarımı.",
+  "trA": "Bana müdürü arayacağını söyledi.",
+  "trB": "Bana müdürü aradığını söyledi.",
+  "why": "would call = geleceğe yönelik niyet/vaat aktarımı. had called = geçmişte yapılmış bir eylemin aktarımı.",
   "topic": "reported"
  },
  {
@@ -1898,7 +1898,7 @@
   "diffA": "already finished this project",
   "diffB": "finished this project yet",
   "trA": "Projeyi çoktan bitirdin mi?",
-  "trB": "Projeyi henüz bitirmedin mi?",
+  "trB": "Projeyi henüz bitirdin mi?",
   "why": "already = eylemin çoktan yapıldığını sormak. yet = beklenti içeren eylemin yapılıp yapılmadığını sormak.",
   "topic": "tense"
  },
@@ -1919,7 +1919,7 @@
   "b": "She lived in Paris.",
   "diffA": "has lived",
   "diffB": "lived",
-  "trA": "Paris'te yaşamışlığı vardır.",
+  "trA": "Paris'te yaşadığı bir dönem olmuştur.",
   "trB": "Bir dönem Paris'te yaşadı.",
   "why": "have V3 = geçmiş tecrübe veya günümüzle bağ. V2 = geçmişte bitmiş eylem.",
   "topic": "tense"
@@ -2084,7 +2084,7 @@
   "b": "She wishes she had lived in Paris.",
   "diffA": "lived",
   "diffB": "had lived",
-  "trA": "Keşke Paris'te yaşasaydı.",
+  "trA": "Keşke Paris'te yaşasa.",
   "trB": "Keşke Paris'te yaşamış olsaydı.",
   "why": "wish + past = şu ana dair pişmanlık veya dilek. wish + past perfect = geçmişe dair pişmanlık.",
   "topic": "conditional"
@@ -2150,8 +2150,8 @@
   "b": "The library will be open until Friday.",
   "diffA": "by",
   "diffB": "until",
-  "trA": "Kütüphane Cuma gününe kadar açılmış olacak.",
-  "trB": "Kütüphane Cuma gününe kadar açık olacak.",
+  "trA": "Kütüphane cuma gününe kadar açılmış olacak.",
+  "trB": "Kütüphane cuma gününe kadar açık olacak.",
   "why": "by = en geç o zamana kadar (tamamlanma). until = o zamana kadar kesintisiz (süreç).",
   "topic": "preposition"
  },
@@ -2217,7 +2217,7 @@
   "diffA": " who lives next door",
   "diffB": ", who lives next door,",
   "trA": "Yan dairede oturan doktor çok arkadaş canlısıdır.",
-  "trB": "Doktor, ki yan dairede oturur, çok arkadaş canlısıdır.",
+  "trB": "Doktor (bu arada yan dairede oturur) çok arkadaş canlısıdır.",
   "why": "virgülsüz relative = hangi doktor olduğunu tanımlar. virgüllü relative = bilinen doktor hakkında ek bilgi verir.",
   "topic": "relative"
  },
@@ -2306,7 +2306,7 @@
   "diffB": "regret to tell",
   "trA": "Durum hakkındaki gerçeği size söylediğimize pişmanız.",
   "trB": "Durum hakkındaki gerçeği size söyleyeceğimiz için üzgünüz.",
-  "why": "regret + V-ing = yapılmış eylemdan pişman olmak. regret + to V = kötü bir haber verirken üzgün olmak.",
+  "why": "regret + V-ing = yapılmış eylemden pişman olmak. regret + to V = kötü bir haber verirken üzgün olmak.",
   "topic": "gerund-infinitive"
  },
  {
@@ -2326,9 +2326,9 @@
   "b": "They have not arrived yet.",
   "diffA": "still have not arrived",
   "diffB": "have not arrived yet",
-  "trA": "Onlar hala gelmediler.",
+  "trA": "Onlar hâlâ gelmediler.",
   "trB": "Onlar henüz gelmediler.",
-  "why": "still not = beklentiye rağmen eylemin hala gerçekleşmediğini belirtmek. not yet = eylemin şu ana kadar gerçekleşmediğini belirtmek.",
+  "why": "still not = beklentiye rağmen eylemin hâlâ gerçekleşmediğini belirtmek. not yet = eylemin şu ana kadar gerçekleşmediğini belirtmek.",
   "topic": "tense"
  },
  {
@@ -2339,7 +2339,7 @@
   "diffB": "lived",
   "trA": "O beş yıldır Paris'te yaşamaktadır.",
   "trB": "O beş yıl boyunca Paris'te yaşadı.",
-  "why": "have V3 = eylemin hala devam ettiğini veya güncel etkisini belirtmek. V2 = eylemin geçmişte tamamlandığını ve bittiğini belirtmek.",
+  "why": "have V3 = eylemin hâlâ devam ettiğini veya güncel etkisini belirtmek. V2 = eylemin geçmişte tamamlandığını ve bittiğini belirtmek.",
   "topic": "tense"
  },
  {
@@ -2513,7 +2513,7 @@
   "b": "I wish you had lived in this beautiful city.",
   "diffA": "lived",
   "diffB": "had lived",
-  "trA": "Keşke bu güzel şehirde yaşasaydınız.",
+  "trA": "Keşke bu güzel şehirde yaşasanız.",
   "trB": "Keşke bu güzel şehirde yaşamış olsaydınız.",
   "why": "wish + past = şu anki zamana dair istek. wish + past perfect = geçmişe dair pişmanlık.",
   "topic": "conditional"
@@ -2601,41 +2601,41 @@
   "b": "The train arrived at the station on time.",
   "diffA": "in time",
   "diffB": "on time",
-  "trA": "Tren istasyona tam zamanında varmadan önce ulaştı.",
+  "trA": "Tren istasyona geç kalmadan, vaktinden önce ulaştı.",
   "trB": "Tren istasyona tam vaktinde ulaştı.",
   "why": "in time = eylemden önce, vaktinden önce. on time = planlanan tam saatte.",
   "topic": "preposition"
  },
  {
   "id": "dif_238",
-  "a": "She said she was leaving the company soon.",
-  "b": "She said she had left the company soon.",
+  "a": "She said she was leaving the department.",
+  "b": "She said she had left the department.",
   "diffA": "was leaving",
   "diffB": "had left",
-  "trA": "Yakında şirketten ayrılacağını söyledi.",
-  "trB": "Şirketten ayrılmış olduğunu söyledi.",
+  "trA": "Bölümden ayrılmakta olduğunu söyledi.",
+  "trB": "Bölümden ayrılmış olduğunu söyledi.",
   "why": "said + was leaving = geleceğe yönelik niyetin aktarımı. said + had left = geçmişte tamamlanmış eylemin aktarımı.",
   "topic": "reported"
  },
  {
   "id": "dif_239",
-  "a": "He promised he would call his family later.",
-  "b": "He promised he had called his family later.",
+  "a": "He said he would call his family.",
+  "b": "He said he had called his family.",
   "diffA": "would call",
   "diffB": "had called",
-  "trA": "Ailesini sonra arayacağına söz verdi.",
-  "trB": "Ailesini daha sonra aramış olduğuna söz verdi.",
-  "why": "promised + would call = geleceğe yönelik söz. promised + had called = geçmişte zaten aramış olduğuna dair söz.",
+  "trA": "Ailesini arayacağını söyledi.",
+  "trB": "Ailesini aramış olduğunu söyledi.",
+  "why": "said + would call = geleceğe yönelik niyetin aktarımı. said + had called = geçmişte yapılmış eylemin aktarımı.",
   "topic": "reported"
  },
  {
   "id": "dif_240",
-  "a": "The young lady lives alone in this house.",
-  "b": "The young lady lives lonely in this house.",
+  "a": "The young lady is alone in this house.",
+  "b": "The young lady is lonely in this house.",
   "diffA": "alone",
   "diffB": "lonely",
-  "trA": "Genç kadın bu evde tek başına yaşıyor.",
-  "trB": "Genç kadın bu evde yalnızlık hissederek yaşıyor.",
+  "trA": "Genç kadın bu evde tek başına.",
+  "trB": "Genç kadın bu evde yalnızlık çekiyor.",
   "why": "alone = fiziksel olarak tek başına. lonely = duygusal olarak yalnız hisseden.",
   "topic": "word-choice"
  },
@@ -2652,12 +2652,12 @@
  },
  {
   "id": "dif_242",
-  "a": "He stopped drinking coffee because of his health.",
-  "b": "He stopped to drink coffee because of his health.",
+  "a": "He stopped drinking coffee at the station.",
+  "b": "He stopped to drink coffee at the station.",
   "diffA": "stopped drinking",
   "diffB": "stopped to drink",
-  "trA": "Sağlığı yüzünden kahve içmeyi bıraktı.",
-  "trB": "Sağlığı yüzünden kahve içmek için durdu.",
+  "trA": "İstasyonda kahve içmeyi bıraktı.",
+  "trB": "İstasyonda kahve içmek için durdu.",
   "why": "stop + V-ing = eylemi bırakmak. stop + to V = eylem için durmak.",
   "topic": "gerund-infinitive"
  },
@@ -2668,7 +2668,7 @@
   "diffA": "locking",
   "diffB": "to lock",
   "trA": "Ayrılmadan önce kasayı kilitlediğimi hatırlıyorum.",
-  "trB": "Ayrılmadan önce kasayı kilitlemeyi hatırlarım.",
+  "trB": "Ayrılmadan önce kasayı kilitlemeyi hatırlıyorum.",
   "why": "remember + V-ing = geçmişte yapılanı hatırlamak. remember + to V = yapılması gerekeni hatırlamak.",
   "topic": "gerund-infinitive"
  },
@@ -2701,7 +2701,7 @@
   "diffA": "regret telling",
   "diffB": "regret to tell",
   "trA": "Sana bu kötü haberi söylediğim için pişmanım.",
-  "trB": "Sana bu kötü haberi verdiğim için üzgünüm.",
+  "trB": "Sana bu kötü haberi vermekten üzüntü duyuyorum.",
   "why": "regret + V-ing = yapılan bir şeyden pişman olmak. regret + to V = üzücü bir haber vermekten üzüntü duymak.",
   "topic": "gerund-infinitive"
  },
@@ -2911,7 +2911,7 @@
   "diffB": "worked",
   "trA": "On yıldır bu şirkette çalışmaktadır.",
   "trB": "On yıl bu şirkette çalıştı.",
-  "why": "have V3 + for = eylemin hala devam ettiğini belirtir. V2 + for = eylemin geçmişte kalıp bittiğini belirtir.",
+  "why": "have V3 + for = eylemin hâlâ devam ettiğini belirtir. V2 + for = eylemin geçmişte kalıp bittiğini belirtir.",
   "topic": "tense"
  },
  {
@@ -3152,7 +3152,7 @@
   "diffA": "workers who wore helmets",
   "diffB": "workers, who wore helmets,",
   "trA": "Baret takan işçiler güvendeydi.",
-  "trB": "İşçiler, ki hepsi baret takmıştı, güvendeydi.",
+  "trB": "İşçiler (hepsi baret takmıştı) güvendeydi.",
   "why": "virgülsüz relative = sadece tanımlanan grubu belirterek sınırlama yapar. virgüllü relative = grubun tamamı hakkında ek bilgi verir.",
   "topic": "relative"
  },
@@ -3174,8 +3174,8 @@
   "diffA": "has gone to",
   "diffB": "has been to",
   "trA": "Yeni bir iş başlatmak için Londra'ya gitti.",
-  "trB": "Yeni bir iş başlatmak için Londra'da bulundu.",
-  "why": "has gone to = gidip hala orada olmak. has been to = gidip dönmüş olmak.",
+  "trB": "Yeni bir iş başlatmak için Londra'ya gidip geldi.",
+  "why": "has gone to = gidip hâlâ orada olmak. has been to = gidip dönmüş olmak.",
   "topic": "tense"
  },
  {
@@ -3240,7 +3240,7 @@
   "diffA": "afford",
   "diffB": "buy",
   "trA": "Şu an yeni bir araba almaya param yetmiyor.",
-  "trB": "Şu an yeni bir araba satın almıyorum.",
+  "trB": "Şu an yeni bir araba satın alamıyorum.",
   "why": "afford = maddi gücü yetmek; buy = satın almak. “Can't afford” parası yetmemek, “can't buy” satın almamak/alamamak.",
   "topic": "word-choice"
  },
@@ -3345,23 +3345,23 @@
  },
  {
   "id": "tkf_hn_011",
-  "a": "Unfortunately, she has few friends here.",
-  "b": "Unfortunately, she has a few friends here.",
+  "a": "Honestly, she has few friends here.",
+  "b": "Honestly, she has a few friends here.",
   "diffA": "few",
   "diffB": "a few",
-  "trA": "Ne yazık ki burada az arkadaşı var (neredeyse yok).",
-  "trB": "Neyse ki burada birkaç arkadaşı var (biraz var).",
+  "trA": "Açıkçası burada az arkadaşı var (neredeyse yok).",
+  "trB": "Açıkçası burada birkaç arkadaşı var (biraz var).",
   "why": "few = az, neredeyse yok (olumsuz vurgu); a few = birkaç, biraz var (olumlu vurgu). Sayılabilenlerde.",
   "topic": "quantifier"
  },
  {
   "id": "tkf_hn_012",
-  "a": "Sadly, there is little hope left now.",
-  "b": "Sadly, there is a little hope left now.",
+  "a": "Honestly, there is little hope left now.",
+  "b": "Honestly, there is a little hope left now.",
   "diffA": "little",
   "diffB": "a little",
-  "trA": "Ne yazık ki artık çok az umut kaldı (neredeyse yok).",
-  "trB": "Yine de biraz umut kaldı (azıcık var).",
+  "trA": "Açıkçası artık çok az umut kaldı (neredeyse yok).",
+  "trB": "Açıkçası biraz umut kaldı (azıcık var).",
   "why": "little = çok az, yok denecek kadar (olumsuz); a little = biraz, az da olsa var (olumlu). Sayılamayanlarda.",
   "topic": "quantifier"
  },

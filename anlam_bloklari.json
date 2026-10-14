@@ -1368,7 +1368,7 @@
   {
     "id": "ab048",
     "seviye": 1,
-    "stem": "I would rather visit historical museums than spend my holiday at beach.",
+    "stem": "I would rather visit historical museums than spend my holiday at the beach.",
     "chunks": [
       {
         "en": "I would rather visit",
@@ -1381,7 +1381,7 @@
         "rol": "Nesne"
       },
       {
-        "en": "than spend my holiday at beach.",
+        "en": "than spend my holiday at the beach.",
         "tr": "tatilimi plajda geçirmektense.",
         "rol": "Tümleç"
       }
@@ -1419,7 +1419,7 @@
   {
     "id": "ab050",
     "seviye": 1,
-    "stem": "The police locked the gates to prevent the protesters from entering laboratory.",
+    "stem": "The police locked the gates to prevent the protesters from entering the laboratory.",
     "chunks": [
       {
         "en": "The police",
@@ -1437,7 +1437,7 @@
         "rol": "Amaç"
       },
       {
-        "en": "from entering laboratory.",
+        "en": "from entering the laboratory.",
         "tr": "laboratuvara girmekten.",
         "rol": "Nesne"
       }
@@ -2015,7 +2015,7 @@
         "rol": "Zaman"
       }
     ],
-    "tr": "Müdür, şirketinin gelecek ay elli yeni çalışan işe alacağını duyurdu."
+    "tr": "Müdür, şirketin gelecek ay elli yeni çalışan işe alacağını duyurdu."
   },
   {
     "id": "ab072",
@@ -2794,11 +2794,11 @@
   {
     "id": "ab100",
     "seviye": 1,
-    "stem": "Nature guards established a protected zone to save the rare mountain gorillas.",
+    "stem": "Park rangers established a protected zone to save the rare mountain gorillas.",
     "chunks": [
       {
-        "en": "Nature guards",
-        "tr": "Doğa koruyucuları",
+        "en": "Park rangers",
+        "tr": "Park korucuları",
         "rol": "Özne"
       },
       {
@@ -2817,7 +2817,7 @@
         "rol": "Amaç"
       }
     ],
-    "tr": "Doğa koruyucuları, nadir dağ gorillerini kurtarmak için koruma altında bir bölge kurdu."
+    "tr": "Park korucuları, nadir dağ gorillerini kurtarmak için koruma altında bir bölge kurdu."
   },
   {
     "id": "ab101",
@@ -3116,7 +3116,7 @@
       },
       {
         "en": "our local community will become.",
-        "tr": "yerel topluluğumuz daha güçlü olacaktır.",
+        "tr": "yerel topluluğumuz olacaktır.",
         "rol": "Yüklem"
       }
     ],
@@ -3153,7 +3153,7 @@
   {
     "id": "ab113",
     "seviye": 1,
-    "stem": "The laboratory tests showed that these organic components can prevent the cell aging.",
+    "stem": "The laboratory tests showed that these organic components can prevent cell aging.",
     "chunks": [
       {
         "en": "The laboratory tests",
@@ -3176,7 +3176,7 @@
         "rol": "Nesne"
       },
       {
-        "en": "the cell aging.",
+        "en": "cell aging.",
         "tr": "hücre yaşlanmasını.",
         "rol": "Nesne"
       }
@@ -4013,7 +4013,7 @@
       },
       {
         "en": "conservationists",
-        "tr": "doğa korumacılar",
+        "tr": "doğa koruma uzmanları",
         "rol": "Özne"
       },
       {
@@ -4032,7 +4032,7 @@
         "rol": "Niteleme"
       }
     ],
-    "tr": "Yerel vahşi yaşam popülasyonu büyük ölçüde azaldığı için doğa korumacılar, bu hayvanların doğal yaşam alanını eski haline getirmek için yoğun bir şekilde çalışıyorlar."
+    "tr": "Yerel vahşi yaşam popülasyonu büyük ölçüde azaldığı için doğa koruma uzmanları, bu hayvanların doğal yaşam alanını eski haline getirmek için yoğun bir şekilde çalışıyorlar."
   },
   {
     "id": "ab141",
@@ -4188,12 +4188,12 @@
       },
       {
         "en": "so that the fragile oil paintings",
-        "tr": "hassas yağlı boya tabloların olması için",
+        "tr": "hassas yağlı boya tabloların",
         "rol": "Amaç"
       },
       {
         "en": "would not be damaged over time.",
-        "tr": "zamanla zarar görmemesi.",
+        "tr": "zamanla zarar görmemesi için.",
         "rol": "Tümleç"
       }
     ],
@@ -4221,12 +4221,12 @@
       },
       {
         "en": "how environmental factors",
-        "tr": "çevresel faktörlerin nasıl etkileyeceğini",
+        "tr": "çevresel faktörlerin nasıl",
         "rol": "Nesne"
       },
       {
         "en": "will affect energy consumption in the long term.",
-        "tr": "uzun vadede enerji tüketimini.",
+        "tr": "uzun vadede enerji tüketimini etkileyeceğini.",
         "rol": "Tümleç"
       }
     ],
@@ -4565,7 +4565,7 @@
   {
     "id": "ab157",
     "seviye": 2,
-    "stem": "If you do not drink enough water during your long distance run, you might experience severe muscle cramps and dehydration.",
+    "stem": "If you do not drink enough water during your long-distance run, you might experience severe muscle cramps and dehydration.",
     "chunks": [
       {
         "en": "If you do not drink enough water",
@@ -4573,7 +4573,7 @@
         "rol": "Koşul"
       },
       {
-        "en": "during your long distance run,",
+        "en": "during your long-distance run,",
         "tr": "uzun mesafeli koşunuz sırasında,",
         "rol": "Zaman"
       },
@@ -4598,7 +4598,7 @@
   {
     "id": "ab158",
     "seviye": 2,
-    "stem": "The historic treaty that was signed yesterday by the leaders of both nations will establish long term peace in the region.",
+    "stem": "The historic treaty that was signed yesterday by the leaders of both nations will establish long-term peace in the region.",
     "chunks": [
       {
         "en": "The historic treaty",
@@ -4616,7 +4616,7 @@
         "rol": "Yüklem"
       },
       {
-        "en": "long term peace",
+        "en": "long-term peace",
         "tr": "uzun vadeli barışı",
         "rol": "Nesne"
       },
@@ -4998,17 +4998,17 @@
     "chunks": [
       {
         "en": "The deeper the divers went",
-        "tr": "Dalgıçlar daha derine gittikçe",
+        "tr": "Dalgıçlar daha derine indikçe",
         "rol": "Zarf"
       },
       {
         "en": "into the dark ocean,",
-        "tr": "karanlık okyanusun,",
+        "tr": "karanlık okyanusun içine,",
         "rol": "Yer"
       },
       {
         "en": "the stranger",
-        "tr": "o kadar garip",
+        "tr": "daha da garip",
         "rol": "Zarf"
       },
       {
@@ -5022,7 +5022,7 @@
         "rol": "Yüklem"
       }
     ],
-    "tr": "Dalgıçlar karanlık okyanusun daha derinlerine gittikçe karşılaştıkları deniz canlıları o kadar garip bir hale geldi."
+    "tr": "Dalgıçlar karanlık okyanusun daha derinlerine indikçe karşılaştıkları deniz canlıları daha da garip hale geldi."
   },
   {
     "id": "ab171",
@@ -5475,12 +5475,12 @@
       },
       {
         "en": "which help modern historians",
-        "tr": "modern tarihçilerin yardımcı olan",
+        "tr": "modern tarihçilere yardımcı olan",
         "rol": "Niteleme"
       },
       {
         "en": "understand society.",
-        "tr": "toplumu anlamasına.",
+        "tr": "toplumu anlamalarına.",
         "rol": "Nesne"
       }
     ],
@@ -5687,11 +5687,11 @@
   {
     "id": "ab191",
     "seviye": 2,
-    "stem": "Unless we book our train tickets today, my sister would prefer to travel by bus instead tomorrow.",
+    "stem": "Unless we book our train tickets today, my sister will prefer to travel by bus tomorrow instead.",
     "chunks": [
       {
         "en": "Unless we book",
-        "tr": "Rezervasyon yaptırmadıkça,",
+        "tr": "Ayırtmadıkça,",
         "rol": "Bağlaç"
       },
       {
@@ -5705,17 +5705,17 @@
         "rol": "Özne"
       },
       {
-        "en": "would prefer to travel by bus",
-        "tr": "otobüsle seyahat etmeyi tercih eder",
+        "en": "will prefer to travel by bus",
+        "tr": "otobüsle seyahat etmeyi tercih edecek",
         "rol": "Yüklem"
       },
       {
-        "en": "instead tomorrow.",
-        "tr": "bunun yerine yarın.",
+        "en": "tomorrow instead.",
+        "tr": "yarın bunun yerine.",
         "rol": "Zaman"
       }
     ],
-    "tr": "Tren biletlerimizi bugün rezervasyon yaptırmadıkça kız kardeşim bunun yerine yarın otobüsle seyahat etmeyi tercih eder."
+    "tr": "Tren biletlerimizi bugün ayırtmadıkça kız kardeşim yarın bunun yerine otobüsle seyahat etmeyi tercih edecek."
   },
   {
     "id": "ab192",
@@ -6069,7 +6069,7 @@
       },
       {
         "en": "with the complex",
-        "tr": "karmaşık olanla",
+        "tr": "karmaşık",
         "rol": "Tümleç"
       },
       {
@@ -6597,7 +6597,7 @@
       },
       {
         "en": "is still admired",
-        "tr": "hala beğenilmektedir",
+        "tr": "hâlâ beğenilmektedir",
         "rol": "Yüklem"
       },
       {
@@ -6606,7 +6606,7 @@
         "rol": "Tümleç"
       }
     ],
-    "tr": "Mozart henüz bir çocukken onun tarafından bestelenen klasik müzik eseri modern müzisyenler tarafından hala beğenilmektedir."
+    "tr": "Mozart henüz bir çocukken onun tarafından bestelenen klasik müzik eseri modern müzisyenler tarafından hâlâ beğenilmektedir."
   },
   {
     "id": "ab219",
@@ -6757,7 +6757,7 @@
       },
       {
         "en": "the judge",
-        "tr": "hakim",
+        "tr": "hâkim",
         "rol": "Özne"
       },
       {
@@ -6771,7 +6771,7 @@
         "rol": "Nesne"
       }
     ],
-    "tr": "Savunma avukatları yarın yeni kanıtlar sunsa bile hakimin nihai karar duruşmasını ertelemesi pek olası değildir."
+    "tr": "Savunma avukatları yarın yeni kanıtlar sunsa bile hâkimin nihai karar duruşmasını ertelemesi pek olası değildir."
   },
   {
     "id": "ab224",
@@ -6955,12 +6955,12 @@
       },
       {
         "en": "in order that low-income families",
-        "tr": "düşük gelirli ailelerin erişebilmesi amacıyla",
+        "tr": "düşük gelirli ailelerin",
         "rol": "Amaç"
       },
       {
         "en": "could access medical treatments",
-        "tr": "tıbbi tedavilere erişebilmesi",
+        "tr": "tıbbi tedavilere erişebilmesi amacıyla",
         "rol": "Nesne"
       },
       {
@@ -7073,7 +7073,7 @@
   {
     "id": "ab233",
     "seviye": 2,
-    "stem": "Education experts believe that what children learn during early childhood shaped their social behavior in adult life.",
+    "stem": "Education experts believe that what children learn during early childhood shapes their social behavior in adult life.",
     "chunks": [
       {
         "en": "Education experts believe",
@@ -7091,7 +7091,7 @@
         "rol": "Zaman"
       },
       {
-        "en": "shaped their social behavior",
+        "en": "shapes their social behavior",
         "tr": "sosyal davranışlarını şekillendirdiğine",
         "rol": "Nesne"
       },
@@ -7308,7 +7308,7 @@
     "chunks": [
       {
         "en": "Although traditional farming methods are still preferred",
-        "tr": "Geleneksel tarım yöntemleri hala tercih edilse de",
+        "tr": "Geleneksel tarım yöntemleri hâlâ tercih edilse de",
         "rol": "Bağlaç"
       },
       {
@@ -7332,7 +7332,7 @@
         "rol": "Nesne"
       }
     ],
-    "tr": "Geleneksel tarım yöntemleri uzak bölgelerde hala tercih edilse de modern tarım makineleri ürün rekoltesini önemli ölçüde artırmaktadır."
+    "tr": "Geleneksel tarım yöntemleri uzak bölgelerde hâlâ tercih edilse de modern tarım makineleri ürün rekoltesini önemli ölçüde artırmaktadır."
   },
   {
     "id": "ab241",
@@ -7366,11 +7366,11 @@
       },
       {
         "en": "because its unique script has puzzled linguistic experts.",
-        "tr": "benzersiz yazısı dil bilim uzmanlarının kafasını karıştırdığı için.",
+        "tr": "benzersiz yazısı dilbilim uzmanlarının kafasını karıştırdığı için.",
         "rol": "Sebep"
       }
     ],
-    "tr": "Arkeologlar antik kalıntılarda titizlikle çalışmış olsalar da, erken çivi yazısı kitabeleri içeren gizemli kil tablet, benzersiz yazısı dil bilim uzmanlarının kafasını karıştırdığı için tercüme edilemeden kalmaktadır."
+    "tr": "Arkeologlar antik kalıntılarda titizlikle çalışmış olsalar da, erken çivi yazısı kitabeleri içeren gizemli kil tablet, benzersiz yazısı dilbilim uzmanlarının kafasını karıştırdığı için tercüme edilemeden kalmaktadır."
   },
   {
     "id": "ab242",
@@ -7389,7 +7389,7 @@
       },
       {
         "en": "astronomers successfully captured",
-        "tr": "gök bilimciler başarıyla yakaladı",
+        "tr": "gökbilimciler başarıyla yakaladı",
         "rol": "Yüklem"
       },
       {
@@ -7408,7 +7408,7 @@
         "rol": "Niteleme"
       }
     ],
-    "tr": "Derin uzay teleskobu hassas kızılötesi aynalarla tasarlandığı için, gök bilimciler evren başladıktan kısa süre sonra oluşmuş olan uzak galaksilerin keskin görüntülerini başarıyla yakaladı."
+    "tr": "Derin uzay teleskobu hassas kızılötesi aynalarla tasarlandığı için, gökbilimciler evren başladıktan kısa süre sonra oluşmuş olan uzak galaksilerin keskin görüntülerini başarıyla yakaladı."
   },
   {
     "id": "ab243",
@@ -7760,11 +7760,11 @@
   {
     "id": "ab252",
     "seviye": 3,
-    "stem": "Because the space agency delayed the heavy rocket launch twice due to strong winds, the satellites, which monitor global weather changes, could not reach their designated orbits.",
+    "stem": "Although the space agency delayed the heavy rocket launch twice due to strong winds, the satellites, which monitor global weather changes, finally reached their designated orbits.",
     "chunks": [
       {
-        "en": "Because the space agency delayed",
-        "tr": "Uzay ajansı ertelediği için",
+        "en": "Although the space agency delayed",
+        "tr": "Uzay ajansı ertelemiş olsa da",
         "rol": "Sebep"
       },
       {
@@ -7783,8 +7783,8 @@
         "rol": "Niteleme"
       },
       {
-        "en": "could not reach",
-        "tr": "ulaşamadı",
+        "en": "finally reached",
+        "tr": "sonunda ulaştı",
         "rol": "Yüklem"
       },
       {
@@ -7793,7 +7793,7 @@
         "rol": "Yer"
       }
     ],
-    "tr": "Uzay ajansı güçlü rüzgarlar nedeniyle ağır roket fırlatmasını iki kez ertelediği için, küresel hava değişikliklerini izleyen uydular belirlenmiş yörüngelerine ulaşamadı."
+    "tr": "Uzay ajansı güçlü rüzgarlar nedeniyle ağır roket fırlatmasını iki kez ertelemiş olsa da, küresel hava değişikliklerini izleyen uydular belirlenmiş yörüngelerine sonunda ulaştı."
   },
   {
     "id": "ab253",
@@ -7807,7 +7807,7 @@
       },
       {
         "en": "substantial funds into coastal defenses this year,",
-        "tr": "bu yıl kıyı savunmalarına önemli ölçüde fon,",
+        "tr": "bu yıl kıyı savunmalarına önemli miktarda fon,",
         "rol": "Nesne"
       },
       {
@@ -7836,7 +7836,7 @@
         "rol": "Zaman"
       }
     ],
-    "tr": "Belediye meclisi bu yıl kıyı savunmalarına önemli ölçüde fon yatırım yapmadığı sürece, milyonlarca sakine ev sahipliği yapan alçak bölgeler fırtınalar sırasında yıkıcı sellerle karşı karşıya kalacaktır."
+    "tr": "Belediye meclisi bu yıl kıyı savunmalarına önemli miktarda fon yatırım yapmadığı sürece, milyonlarca sakine ev sahipliği yapan alçak bölgeler fırtınalar sırasında yıkıcı sellerle karşı karşıya kalacaktır."
   },
   {
     "id": "ab254",
@@ -8539,7 +8539,7 @@
       },
       {
         "en": "astronomers,",
-        "tr": "gök bilimciler,",
+        "tr": "gökbilimciler,",
         "rol": "Özne"
       },
       {
@@ -8558,7 +8558,7 @@
         "rol": "Zaman"
       }
     ],
-    "tr": "Uzay gözlemevi geçen ay büyük bir güneş fırtınası sırasında hasar gördüğü için, uzak yıldız kümelerini araştıran gök bilimciler araştırma projelerini önümüzdeki yıla kadar erteledi."
+    "tr": "Uzay gözlemevi geçen ay büyük bir güneş fırtınası sırasında hasar gördüğü için, uzak yıldız kümelerini araştıran gökbilimciler araştırma projelerini önümüzdeki yıla kadar erteledi."
   },
   {
     "id": "ab273",
@@ -9175,7 +9175,7 @@
       },
       {
         "en": "lead doctors warned",
-        "tr": "başhekimler uyardı",
+        "tr": "önde gelen doktorlar uyardı",
         "rol": "Yüklem"
       },
       {
@@ -9185,11 +9185,11 @@
       },
       {
         "en": "remained completely unknown.",
-        "tr": "tamamen bilinmezliğini koruduğu konusunda.",
+        "tr": "tamamen bilinmediği konusunda.",
         "rol": "Nesne"
       }
     ],
-    "tr": "Yüzlerce sağlıklı gönüllü üzerinde yeni bir aşıyı test eden klinik deney umut verici ilk sonuçlar üretmiş olsa da, başhekimler uzun vadeli yan etkilerin tamamen bilinmezliğini koruduğu konusunda uyardı."
+    "tr": "Yüzlerce sağlıklı gönüllü üzerinde yeni bir aşıyı test eden klinik deney umut verici ilk sonuçlar üretmiş olsa da, önde gelen doktorlar uzun vadeli yan etkilerin tamamen bilinmediği konusunda uyardı."
   },
   {
     "id": "ab290",
@@ -9885,7 +9885,7 @@
       },
       {
         "en": "which was carved into limestone cliffs thousands of years ago,",
-        "tr": "binlerce yıl önce kireç taşı kayalıklarına oyulmuş olan,",
+        "tr": "binlerce yıl önce kireçtaşı kayalıklarına oyulmuş olan,",
         "rol": "Niteleme"
       },
       {
@@ -9909,7 +9909,7 @@
         "rol": "Amaç"
       }
     ],
-    "tr": "Binlerce yıl önce kireç taşı kayalıklarına oyulmuş olan antik tapınak rüzgar fırtınaları nedeniyle ciddi erozyona maruz kalmış olsa da, uluslararası konservatör ekipleri onu korumak amacıyla birlikte çalıştı."
+    "tr": "Binlerce yıl önce kireçtaşı kayalıklarına oyulmuş olan antik tapınak rüzgar fırtınaları nedeniyle ciddi erozyona maruz kalmış olsa da, uluslararası konservatör ekipleri onu korumak amacıyla birlikte çalıştı."
   },
   {
     "id": "ab310",
@@ -10331,7 +10331,7 @@
       },
       {
         "en": "still argue",
-        "tr": "hala iddia ediyor",
+        "tr": "hâlâ iddia ediyor",
         "rol": "Yüklem"
       },
       {
@@ -10340,7 +10340,7 @@
         "rol": "Nesne"
       }
     ],
-    "tr": "Derin okyanus organizmalarını inceleyerek on yılını geçiren baş biyolog geçen ay şaşırtıcı bulgularını yayınlamış olsa da, birkaç muhafazakar bilim insanı hala onun kanıtlarının yetersiz olduğunu iddia ediyor."
+    "tr": "Derin okyanus organizmalarını inceleyerek on yılını geçiren baş biyolog geçen ay şaşırtıcı bulgularını yayınlamış olsa da, birkaç muhafazakar bilim insanı hâlâ onun kanıtlarının yetersiz olduğunu iddia ediyor."
   },
   {
     "id": "ab322",
@@ -10488,7 +10488,7 @@
       },
       {
         "en": "still claim",
-        "tr": "hala iddia ediyor",
+        "tr": "hâlâ iddia ediyor",
         "rol": "Yüklem"
       },
       {
@@ -10497,7 +10497,7 @@
         "rol": "Nesne"
       }
     ],
-    "tr": "Mısır'da amatör arkeologlar tarafından keşfedilen antik el yazması kritik tarihi veriler içerse de, akademisyenler hala çevrilen sayfaların bazılarının sahte olabileceğini iddia ediyor."
+    "tr": "Mısır'da amatör arkeologlar tarafından keşfedilen antik el yazması kritik tarihi veriler içerse de, akademisyenler hâlâ çevrilen sayfaların bazılarının sahte olabileceğini iddia ediyor."
   },
   {
     "id": "ab326",
@@ -11210,7 +11210,7 @@
       },
       {
         "en": "lost its primary sponsor last month,",
-        "tr": "geçen ay ana sponsorerini kaybettiği için,",
+        "tr": "geçen ay ana sponsorunu kaybettiği için,",
         "rol": "Sebep"
       },
       {
@@ -11229,7 +11229,7 @@
         "rol": "Nesne"
       }
     ],
-    "tr": "Zengin tüccarlar tarafından kurulan prestijli işletme okulu geçen ay ana sponsorerini kaybettiği için, mütevelli heyeti öğrenim ücretlerini önemli ölçüde artırmak zorunda kaldıklarını duyurdu."
+    "tr": "Zengin tüccarlar tarafından kurulan prestijli işletme okulu geçen ay ana sponsorunu kaybettiği için, mütevelli heyeti öğrenim ücretlerini önemli ölçüde artırmak zorunda kaldıklarını duyurdu."
   },
   {
     "id": "ab345",
@@ -11353,7 +11353,7 @@
   {
     "id": "ab348",
     "seviye": 3,
-    "stem": "If the municipal government, which manages local public facilities, renovations the historical park next summer, more local families will spend their weekends there in order to enjoy nature.",
+    "stem": "If the municipal government, which manages local public facilities, renovates the historical park next summer, more local families will spend their weekends there in order to enjoy nature.",
     "chunks": [
       {
         "en": "If the municipal government,",
@@ -11366,7 +11366,7 @@
         "rol": "Niteleme"
       },
       {
-        "en": "renovations the historical park next summer,",
+        "en": "renovates the historical park next summer,",
         "tr": "gelecek yaz tarihi parkı restore ederse,",
         "rol": "Koşul"
       },
@@ -11424,7 +11424,7 @@
         "rol": "Nesne"
       }
     ],
-    "tr": "Geçen Salı güvenlik uzmanları tarafından geliştirilen yazılım yaması büyük açıkları düzeltmiş olsa da, many cloud computer users sistemin yükleme hızlarını yavaşlattığından şikayet etti."
+    "tr": "Geçen Salı güvenlik uzmanları tarafından geliştirilen yazılım yaması büyük açıkları düzeltmiş olsa da, birçok bulut bilgisayar kullanıcısı sistemin yükleme hızlarını yavaşlattığından şikayet etti."
   },
   {
     "id": "ab350",

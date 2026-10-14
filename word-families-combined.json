@@ -147,7 +147,7 @@
         "type": "isim",
         "meaning": "saçmalık",
         "sentence": "I cannot understand this complete [absurdity].",
-        "sentence_tr": "Bu tamamen saçmalığı anlayamıyorum."
+        "sentence_tr": "Bu tam saçmalığı anlayamıyorum."
       },
       {
         "word": "absurd",
@@ -360,7 +360,7 @@
         "type": "sıfat",
         "meaning": "usta, başarılı",
         "sentence": "She is an [accomplished] piano player.",
-        "sentence_tr": "O usta bir piyano oyuncusudur."
+        "sentence_tr": "O usta bir piyanisttir."
       }
     ]
   },
@@ -474,7 +474,7 @@
         "type": "fiil",
         "meaning": "başarmak",
         "sentence": "You will [achieve] success with hard work.",
-        "sentence_tr": "Zorlu çalışma ile başarıya ulaşacaksın."
+        "sentence_tr": "Sıkı çalışmayla başarıya ulaşacaksın."
       },
       {
         "word": "achievement",
@@ -488,7 +488,7 @@
         "type": "sıfat",
         "meaning": "başarılabilir",
         "sentence": "This hard goal is still [achievable].",
-        "sentence_tr": "Bu zor hedef hala başarılabilir."
+        "sentence_tr": "Bu zor hedef hâlâ başarılabilir."
       }
     ]
   },
@@ -678,7 +678,7 @@
       {
         "word": "adapt",
         "type": "fiil",
-        "meaning": "uyarlamak",
+        "meaning": "uyum sağlamak, uyarlamak",
         "sentence": "Animals can [adapt] to cold weather.",
         "sentence_tr": "Hayvanlar soğuk havaya uyum sağlayabilir."
       },
@@ -713,7 +713,7 @@
         "type": "isim",
         "meaning": "ekleme, ilave",
         "sentence": "This book is a great [addition].",
-        "sentence_tr": "Bu kitap harika bir katkıdır."
+        "sentence_tr": "Bu kitap harika bir ilavedir."
       },
       {
         "word": "additional",
@@ -900,7 +900,7 @@
       {
         "word": "admission",
         "type": "isim",
-        "meaning": "kabul, itiraf",
+        "meaning": "giriş, kabul, itiraf",
         "sentence": "The price of [admission] is low.",
         "sentence_tr": "Giriş ücreti düşüktür."
       }
@@ -1106,7 +1106,7 @@
         "type": "isim",
         "meaning": "estetik",
         "sentence": "The class will study modern [aesthetics] today.",
-        "sentence_tr": "Sınıf bugün modern estetik çalışacak."
+        "sentence_tr": "Sınıf bugün modern estetiği inceleyecek."
       },
       {
         "word": "aesthetic",
@@ -1905,7 +1905,7 @@
         "word": "apparently",
         "type": "zarf",
         "meaning": "görünüşe göre",
-        "sentence": "[apparently], they will arrive at five today.",
+        "sentence": "[Apparently], they will arrive at five today.",
         "sentence_tr": "Görünüşe göre bugün saat beşte varacaklar."
       }
     ]
@@ -2304,7 +2304,7 @@
         "type": "sıfat",
         "meaning": "iddialı, atılgan",
         "sentence": "An [assertive] person usually expresses their feelings.",
-        "sentence_tr": "İddialı/atılgan bir kişi genellikle duygularını ifade eder."
+        "sentence_tr": "Atılgan bir kişi genellikle duygularını ifade eder."
       }
     ]
   },
@@ -2423,9 +2423,9 @@
       {
         "word": "assure",
         "type": "fiil",
-        "meaning": "temin etmek",
+        "meaning": "güvence vermek",
         "sentence": "I can [assure] you about this.",
-        "sentence_tr": "Seni bu konuda temin edebilirim."
+        "sentence_tr": "Sana bu konuda güvence verebilirim."
       },
       {
         "word": "assurance",
@@ -2693,7 +2693,7 @@
       {
         "word": "authoritative",
         "type": "sıfat",
-        "meaning": "yetkili",
+        "meaning": "yetkin, otoriter",
         "sentence": "She gave an [authoritative] answer today.",
         "sentence_tr": "Bugün yetkin bir cevap verdi."
       }
@@ -2712,7 +2712,7 @@
       {
         "word": "autonomous",
         "type": "sıfat",
-        "meaning": "özerk",
+        "meaning": "özerk, otonom",
         "sentence": "They want to build an [autonomous] vehicle.",
         "sentence_tr": "Otonom bir araç yapmak istiyorlar."
       }
@@ -3768,7 +3768,7 @@
         "type": "isim",
         "meaning": "parlaklık, dâhilik",
         "sentence": "Everyone admired the [brilliance] of his mind.",
-        "sentence_tr": "Herkes onun zihninin dahiliğine hayran kaldı."
+        "sentence_tr": "Herkes onun zihninin dâhiliğine hayran kaldı."
       },
       {
         "word": "brilliant",
@@ -3974,7 +3974,7 @@
         "type": "isim",
         "meaning": "bürokrat",
         "sentence": "He is a powerful [bureaucrat] in Washington.",
-        "sentence_tr": "Washington'da güçlü bir bürokrat."
+        "sentence_tr": "O, Washington'da güçlü bir bürokrattır."
       },
       {
         "word": "bureaucratic",
@@ -4000,7 +4000,7 @@
         "type": "isim",
         "meaning": "iş, ticaret",
         "sentence": "My father runs a small [business] here.",
-        "sentence_tr": "Babam burada küçük bir işletme işletiyor."
+        "sentence_tr": "Babam burada küçük bir işletme yönetiyor."
       },
       {
         "word": "busy",
@@ -4114,7 +4114,7 @@
       {
         "word": "camping",
         "type": "isim",
-        "meaning": "kamping",
+        "meaning": "kamp yapma",
         "sentence": "This wild forest is great for [camping].",
         "sentence_tr": "Bu yaban ormanı kamp yapmak için harika."
       }
@@ -5055,9 +5055,9 @@
       {
         "word": "cleanly",
         "type": "zarf",
-        "meaning": "temizce",
+        "meaning": "temiz biçimde, pürüzsüzce",
         "sentence": "The sharp knife cut [cleanly] through the paper.",
-        "sentence_tr": "Keskin bıçak kağıdı temizce kesti."
+        "sentence_tr": "Keskin bıçak kağıdı pürüzsüzce kesti."
       },
       {
         "word": "clear",
@@ -5192,9 +5192,9 @@
       {
         "word": "cloth",
         "type": "isim",
-        "meaning": "kumaş",
+        "meaning": "kumaş, bez",
         "sentence": "She used a wet [cloth] to clean the window.",
-        "sentence_tr": "Pencereyi temizlemek için ıslak bir kumaş kullandı."
+        "sentence_tr": "Pencereyi temizlemek için ıslak bir bez kullandı."
       }
     ]
   },
@@ -5225,7 +5225,7 @@
         "type": "fiil",
         "meaning": "çalıştırmak",
         "sentence": "He can [coach] our local team.",
-        "sentence_tr": "Bizim yerel takımı çalıştırabilir."
+        "sentence_tr": "Yerel takımımızı çalıştırabilir."
       },
       {
         "word": "coaching",
@@ -5452,7 +5452,7 @@
         "type": "sıfat",
         "meaning": "birleşik",
         "sentence": "Their [combined] efforts led to a successful product launch.",
-        "sentence_tr": "Onun ortak çabaları başarılı bir ürün lansmanına yol açtı."
+        "sentence_tr": "Onların ortak çabaları başarılı bir ürün lansmanına yol açtı."
       }
     ]
   },
@@ -5763,9 +5763,9 @@
       {
         "word": "compensate",
         "type": "fiil",
-        "meaning": "telafi etmek",
+        "meaning": "telafi etmek, tazmin etmek",
         "sentence": "The company must [compensate] the injured workers.",
-        "sentence_tr": "Şirket yaralanan işçileri telafi etmelidir."
+        "sentence_tr": "Şirket yaralanan işçilerin zararını tazmin etmelidir."
       },
       {
         "word": "compensation",
@@ -6241,7 +6241,7 @@
         "type": "sıfat",
         "meaning": "koşullu",
         "sentence": "The job offer is [conditional] on tests.",
-        "sentence_tr": "İş teklifi testlere bağlıdır (koşulludur)."
+        "sentence_tr": "İş teklifi testlere bağlıdır."
       }
     ]
   },
@@ -6454,7 +6454,7 @@
         "type": "isim",
         "meaning": "tebrik",
         "sentence": "She sent a warm letter of [congratulation].",
-        "sentence_tr": "Saka sıcak bir tebrik mektubu gönderdi."
+        "sentence_tr": "O, sıcak bir tebrik mektubu gönderdi."
       }
     ]
   },
@@ -6523,9 +6523,9 @@
       {
         "word": "conscientious",
         "type": "sıfat",
-        "meaning": "vicdanlı",
+        "meaning": "özenli, vicdanlı",
         "sentence": "She is a very [conscientious] young worker.",
-        "sentence_tr": "O çok vicdanlı genç bir işçidir."
+        "sentence_tr": "O çok özenli genç bir işçidir."
       }
     ]
   },
@@ -7326,9 +7326,9 @@
       {
         "word": "cooperative",
         "type": "sıfat",
-        "meaning": "işbirlikçi",
+        "meaning": "işbirliğine açık, uyumlu",
         "sentence": "The young patient was very [cooperative] during the medical test.",
-        "sentence_tr": "Genç hasta tıbbi test sırasında çok işbirlikçiydi."
+        "sentence_tr": "Genç hasta tıbbi test sırasında çok uyumluydu."
       }
     ]
   },
@@ -7942,14 +7942,14 @@
       {
         "word": "curve",
         "type": "isim",
-        "meaning": "eğri",
+        "meaning": "eğri, viraj",
         "sentence": "The race track has a sharp [curve].",
         "sentence_tr": "Yarış pistinin keskin bir virajı var."
       },
       {
         "word": "curved",
         "type": "sıfat",
-        "meaning": "eğri",
+        "meaning": "eğri, kavisli",
         "sentence": "They designed a modern [curved] wall today.",
         "sentence_tr": "Bugün modern, kavisli bir duvar tasarladılar."
       }
@@ -8143,7 +8143,7 @@
         "type": "sıfat",
         "meaning": "cüretkâr",
         "sentence": "The brave climber made a [daring] move.",
-        "sentence_tr": "Cesur tırmanıcı cüretkar bir hamle yaptı."
+        "sentence_tr": "Cesur tırmanıcı cüretkâr bir hamle yaptı."
       }
     ]
   },
@@ -8820,7 +8820,7 @@
         "type": "zarf",
         "meaning": "yoğun biçimde",
         "sentence": "This part of the city is [densely] populated.",
-        "sentence_tr": "Şehrin bu bölümü yoğun biçimde nüfuslanmıştır."
+        "sentence_tr": "Şehrin bu bölümü yoğun nüfusludur."
       }
     ]
   },
@@ -8998,9 +8998,9 @@
       {
         "word": "deprived",
         "type": "sıfat",
-        "meaning": "yoksun",
+        "meaning": "yoksun, yoksul",
         "sentence": "They grew up in a very [deprived] area of town.",
-        "sentence_tr": "Kasabanın çok yoksun bir bölgesinde büyüdüler."
+        "sentence_tr": "Kasabanın çok yoksul bir bölgesinde büyüdüler."
       }
     ]
   },
@@ -9528,7 +9528,7 @@
         "type": "fiil",
         "meaning": "ayırt etmek",
         "sentence": "Can you [differentiate] between these two colors?",
-        "sentence_tr": "Bu iki renk arasından ayırt edebilir misin?"
+        "sentence_tr": "Bu iki rengi ayırt edebilir misin?"
       },
       {
         "word": "differentiation",
@@ -9621,7 +9621,7 @@
       {
         "word": "diminish",
         "type": "fiil",
-        "meaning": "azalmak, eksilmek",
+        "meaning": "azalmak, azaltmak",
         "sentence": "This drug can [diminish] your high pain.",
         "sentence_tr": "Bu ilaç yüksek ağrınızı azaltabilir."
       },
@@ -9854,8 +9854,8 @@
         "word": "discipline",
         "type": "isim",
         "meaning": "disiplin",
-        "sentence": "Good teachers must [discipline] their young students.",
-        "sentence_tr": "İyi öğretmenler genç öğrencilerini disipline etmelidir."
+        "sentence": "Strict [discipline] helps young students learn better.",
+        "sentence_tr": "Sıkı disiplin genç öğrencilerin daha iyi öğrenmesine yardımcı olur."
       },
       {
         "word": "disciplined",
@@ -10071,9 +10071,9 @@
       {
         "word": "disruptive",
         "type": "sıfat",
-        "meaning": "sarsıcı",
+        "meaning": "düzeni bozan, yıkıcı",
         "sentence": "His [disruptive] behavior in class annoyed the teacher.",
-        "sentence_tr": "Sınıftaki sarsıcı davranışı öğretmeni kızdırdı."
+        "sentence_tr": "Sınıftaki düzeni bozan davranışı öğretmeni kızdırdı."
       }
     ]
   },
@@ -10426,7 +10426,7 @@
         "type": "sıfat",
         "meaning": "doktrinsel",
         "sentence": "They discussed some important [doctrinal] differences today.",
-        "sentence_tr": "Bugün bazı önemli öğretisel farklılıkları tartıştılar."
+        "sentence_tr": "Bugün bazı önemli doktrinsel farklılıkları tartıştılar."
       }
     ]
   },
@@ -10443,9 +10443,9 @@
       {
         "word": "documentation",
         "type": "isim",
-        "meaning": "belgelendirme",
+        "meaning": "belgelendirme, belgeler",
         "sentence": "Please bring the necessary [documentation] tomorrow.",
-        "sentence_tr": "Lütfen yarın gerekli belgelemeyi getirin."
+        "sentence_tr": "Lütfen yarın gerekli belgeleri getirin."
       }
     ]
   },
@@ -10455,7 +10455,7 @@
       {
         "word": "domestic",
         "type": "sıfat",
-        "meaning": "yerel, evcil",
+        "meaning": "yerli, evcil",
         "sentence": "The sweet cat is a [domestic] animal.",
         "sentence_tr": "Sevimli kedi evcil bir hayvandır."
       },
@@ -10590,7 +10590,7 @@
       {
         "word": "dream",
         "type": "fiil",
-        "meaning": "rüya görmek",
+        "meaning": "hayal kurmak, rüya görmek",
         "sentence": "They like to [dream] about the future.",
         "sentence_tr": "Gelecek hakkında hayal kurmayı severler."
       },
@@ -10637,7 +10637,7 @@
         "type": "isim",
         "meaning": "içki içen",
         "sentence": "The healthy man is a water [drinker].",
-        "sentence_tr": "Sağlıklı adam bir su içicisidir."
+        "sentence_tr": "Sağlıklı adam su içen biridir."
       }
     ]
   },
@@ -10687,7 +10687,7 @@
         "type": "fiil",
         "meaning": "tozunu almak",
         "sentence": "Please [dust] the wooden tables today.",
-        "sentence_tr": "Lütfen bugün ahşap masaların tozunu al."
+        "sentence_tr": "Lütfen bugün ahşap masaların tozunu alın."
       },
       {
         "word": "dusty",
@@ -10822,7 +10822,7 @@
         "type": "sıfat",
         "meaning": "doğuya ait",
         "sentence": "They visited an [eastern] country last year.",
-        "sentence_tr": "Geçen yıl doğulu bir ülkeyi ziyaret ettiler."
+        "sentence_tr": "Geçen yıl bir doğu ülkesini ziyaret ettiler."
       }
     ]
   },
@@ -11042,7 +11042,7 @@
       {
         "word": "electrical",
         "type": "sıfat",
-        "meaning": "elektrikli",
+        "meaning": "elektrikli, elektriksel",
         "sentence": "He works as an [electrical] engineer at the plant.",
         "sentence_tr": "Fabrikada elektrik mühendisi olarak çalışıyor."
       }
@@ -11056,7 +11056,7 @@
         "type": "isim",
         "meaning": "elektronik",
         "sentence": "Modern [electronics] are used in every home today.",
-        "sentence_tr": "Modern elektronikler bugün her evde kullanılmaktadır."
+        "sentence_tr": "Modern elektronik cihazlar bugün her evde kullanılmaktadır."
       },
       {
         "word": "electronic",
@@ -11082,7 +11082,7 @@
         "type": "isim",
         "meaning": "zarafet",
         "sentence": "Her white dress had natural [elegance] and beauty.",
-        "sentence_tr": "Beyaz elbisesinin doğal bir zarafeti ve güzelliliği vardı."
+        "sentence_tr": "Beyaz elbisesinin doğal bir zarafeti ve güzelliği vardı."
       },
       {
         "word": "elegant",
@@ -11376,9 +11376,9 @@
       {
         "word": "emphatic",
         "type": "sıfat",
-        "meaning": "vurgulu",
+        "meaning": "vurgulu, kesin",
         "sentence": "She gave an [emphatic] refusal to their business offer.",
-        "sentence_tr": "Onların iş teklifine kesin/vurgulu bir reddedişle karşılık verdi."
+        "sentence_tr": "Onların iş teklifine kesin bir reddedişle karşılık verdi."
       },
       {
         "word": "empire",
@@ -11395,14 +11395,14 @@
       {
         "word": "empirical",
         "type": "sıfat",
-        "meaning": "deneysel",
+        "meaning": "deneysel, ampirik",
         "sentence": "Scientists need [empirical] evidence for their research.",
         "sentence_tr": "Bilim insanlarının araştırmaları için ampirik kanıta ihtiyacı var."
       },
       {
         "word": "empirically",
         "type": "zarf",
-        "meaning": "deneysel olarak",
+        "meaning": "deneysel olarak, ampirik olarak",
         "sentence": "They proved the new theory [empirically] today.",
         "sentence_tr": "Yeni teoriyi bugün ampirik olarak kanıtladılar."
       }
@@ -11468,7 +11468,7 @@
         "type": "fiil",
         "meaning": "boşaltmak",
         "sentence": "You should [empty] the plastic bin now.",
-        "sentence_tr": "Plastik kutuyu şimdi boşaltmalısın."
+        "sentence_tr": "Plastik çöp kutusunu şimdi boşaltmalısın."
       },
       {
         "word": "emptiness",
@@ -11620,9 +11620,9 @@
       {
         "word": "engage",
         "type": "fiil",
-        "meaning": "meşgul etmek, tutmak",
+        "meaning": "meşgul etmek, ilgisini çekmek",
         "sentence": "The interesting talk will [engage] the students.",
-        "sentence_tr": "İlginç konuşma öğrencileri meşgul edecek."
+        "sentence_tr": "İlginç konuşma öğrencilerin ilgisini çekecek."
       },
       {
         "word": "engagement",
@@ -11925,7 +11925,7 @@
         "type": "zarf",
         "meaning": "çevresel olarak",
         "sentence": "The company tries to use [environmentally] friendly products.",
-        "sentence_tr": "Şirket çevresel olarak dost ürünler kullanmaya çalışıyor."
+        "sentence_tr": "Şirket çevre dostu ürünler kullanmaya çalışıyor."
       }
     ]
   },
@@ -12018,14 +12018,14 @@
       {
         "word": "erupt",
         "type": "fiil",
-        "meaning": "patlamak",
+        "meaning": "patlamak, püskürmek",
         "sentence": "The active volcano can [erupt] anytime.",
         "sentence_tr": "Aktif yanardağ her an patlayabilir."
       },
       {
         "word": "eruption",
         "type": "isim",
-        "meaning": "patlama",
+        "meaning": "patlama, püskürme",
         "sentence": "We saw a sudden volcanic [eruption] yesterday.",
         "sentence_tr": "Dün ani bir yanardağ püskürmesi gördük."
       }
@@ -12065,7 +12065,7 @@
         "type": "sıfat",
         "meaning": "temel, gerekli",
         "sentence": "Water is [essential] for all living things.",
-        "sentence_tr": "Su, tüm canlılar için temeldir."
+        "sentence_tr": "Su, tüm canlılar için gereklidir."
       },
       {
         "word": "essentially",
@@ -12110,7 +12110,7 @@
         "type": "isim",
         "meaning": "sonsuzluk",
         "sentence": "He promises to love her for an [eternity].",
-        "sentence_tr": "Ona sonsuzluğa kadar sevmeyi vaat ediyor."
+        "sentence_tr": "Onu sonsuzluğa kadar sevmeyi vaat ediyor."
       },
       {
         "word": "eternal",
@@ -12562,7 +12562,7 @@
       {
         "word": "expand",
         "type": "fiil",
-        "meaning": "genişlemek",
+        "meaning": "genişlemek, genişletmek",
         "sentence": "The company wants to [expand] its business.",
         "sentence_tr": "Şirket işini genişletmek istiyor."
       },
@@ -12787,9 +12787,9 @@
       {
         "word": "explorer",
         "type": "isim",
-        "meaning": "kaşif",
+        "meaning": "kâşif",
         "sentence": "The brave [explorer] found a new cave yesterday.",
-        "sentence_tr": "Cesur kaşif dün yeni bir mağara buldu."
+        "sentence_tr": "Cesur kâşif dün yeni bir mağara buldu."
       }
     ]
   },
@@ -12922,14 +12922,14 @@
       {
         "word": "extract",
         "type": "fiil",
-        "meaning": "özünü çıkarmak",
+        "meaning": "çıkarmak, çekmek",
         "sentence": "The dentist will [extract] his bad tooth.",
         "sentence_tr": "Diş hekimi onun çürük dişini çekecek."
       },
       {
         "word": "extraction",
         "type": "isim",
-        "meaning": "özünü çıkarma",
+        "meaning": "çıkarma, çekme",
         "sentence": "The safe [extraction] of oil is difficult.",
         "sentence_tr": "Petrolün güvenli bir şekilde çıkarılması zordur."
       }
@@ -12967,9 +12967,9 @@
       {
         "word": "extremist",
         "type": "isim",
-        "meaning": "aşırı yanlısı",
+        "meaning": "aşırıcı",
         "sentence": "The police arrested a dangerous [extremist] in the city.",
-        "sentence_tr": "Polis şehirde tehlikeli bir aşırı yanlısını tutukladı."
+        "sentence_tr": "Polis şehirde tehlikeli bir aşırıcıyı tutukladı."
       },
       {
         "word": "extreme",
@@ -13052,7 +13052,7 @@
         "type": "sıfat",
         "meaning": "gerçeklere dayalı",
         "sentence": "The reporter gave a [factual] report yesterday.",
-        "sentence_tr": "Muhabir dün olgusal bir rapor verdi."
+        "sentence_tr": "Muhabir dün gerçeklere dayalı bir rapor verdi."
       }
     ]
   },
@@ -13149,7 +13149,7 @@
         "type": "zarf",
         "meaning": "yanlış biçimde",
         "sentence": "The newspaper [falsely] accused him of the crime.",
-        "sentence_tr": "Gazete onu suçla yanlış bir biçimde suçladı."
+        "sentence_tr": "Gazete onu bu suçtan dolayı yanlış biçimde itham etti."
       }
     ]
   },
@@ -13291,7 +13291,7 @@
         "type": "sıfat",
         "meaning": "modaya uygun",
         "sentence": "They wore highly [fashionable] winter coats yesterday.",
-        "sentence_tr": "Dün son derece moda olan kışlık palto giydiler."
+        "sentence_tr": "Dün son derece modaya uygun kışlık paltolar giydiler."
       }
     ]
   },
@@ -13552,7 +13552,7 @@
       {
         "word": "fighter",
         "type": "isim",
-        "meaning": "savaşçı",
+        "meaning": "savaşçı, dövüşçü",
         "sentence": "The young boxer is a strong [fighter].",
         "sentence_tr": "Genç boksör güçlü bir dövüşçüdür."
       }
@@ -13687,7 +13687,7 @@
       {
         "word": "firm",
         "type": "sıfat",
-        "meaning": "sıkı, sert",
+        "meaning": "sağlam, sıkı, sert",
         "sentence": "The tall table has a [firm] base.",
         "sentence_tr": "Uzun masanın sağlam bir tabanı var."
       },
@@ -13733,8 +13733,8 @@
         "word": "fit",
         "type": "sıfat",
         "meaning": "formda",
-        "sentence": "These new shoes do not [fit] me.",
-        "sentence_tr": "Bu yeni ayakkabılar bana uymuyor."
+        "sentence": "My brother stays [fit] by running every morning.",
+        "sentence_tr": "Erkek kardeşim her sabah koşarak formda kalır."
       },
       {
         "word": "fitness",
@@ -14008,8 +14008,8 @@
         "word": "fool",
         "type": "fiil",
         "meaning": "kandırmak",
-        "sentence": "Do not act like a [fool] today.",
-        "sentence_tr": "Bugün bir aptal gibi davranma."
+        "sentence": "Do not [fool] yourself about this problem.",
+        "sentence_tr": "Bu sorun hakkında kendini kandırma."
       },
       {
         "word": "foolish",
@@ -14147,7 +14147,7 @@
       {
         "word": "form",
         "type": "fiil",
-        "meaning": "şekillendirmek",
+        "meaning": "oluşturmak, şekillendirmek",
         "sentence": "We must [form] a new study group.",
         "sentence_tr": "Yeni bir çalışma grubu oluşturmalıyız."
       },
@@ -14272,7 +14272,7 @@
         "type": "zarf",
         "meaning": "dürüstçe",
         "sentence": "He [frankly] admitted his big mistake yesterday.",
-        "sentence_tr": "Dün büyük hatasını açıkçası dürüstçe kabul etti."
+        "sentence_tr": "Dün büyük hatasını dürüstçe kabul etti."
       }
     ]
   },
@@ -14289,7 +14289,7 @@
       {
         "word": "fraudulent",
         "type": "sıfat",
-        "meaning": "dolandırıcı",
+        "meaning": "hileli, dolandırıcı",
         "sentence": "They made a [fraudulent] claim for money.",
         "sentence_tr": "Para için hileli bir talepte bulundular."
       }
@@ -14530,7 +14530,7 @@
       {
         "word": "fulfilment",
         "type": "isim",
-        "meaning": "yerine getirme",
+        "meaning": "yerine getirme, tatmin",
         "sentence": "Success brings a sense of deep [fulfilment].",
         "sentence_tr": "Başarı derin bir tatmin duygusu getirir."
       }
@@ -14800,7 +14800,7 @@
         "type": "fiil",
         "meaning": "üretmek",
         "sentence": "This wind farm can [generate] electricity for the city.",
-        "sentence_tr": "Bu rüzgar gülü çiftliği şehir için elektrik üretebilir."
+        "sentence_tr": "Bu rüzgar çiftliği şehir için elektrik üretebilir."
       },
       {
         "word": "generation",
@@ -14869,7 +14869,7 @@
       {
         "word": "gentleness",
         "type": "isim",
-        "meaning": "nezaket",
+        "meaning": "nezaket, şefkat",
         "sentence": "The nurse treated the sick child with great [gentleness].",
         "sentence_tr": "Hemşire hasta çocuğa büyük bir şefkatle davrandı."
       },
@@ -15006,7 +15006,7 @@
         "type": "isim",
         "meaning": "küre",
         "sentence": "Climate change affects the entire [globe] today.",
-        "sentence_tr": "İmparatorluklar çökse de, iklim değişikliği bugün tüm dünyayı etkiliyor."
+        "sentence_tr": "İklim değişikliği bugün tüm dünyayı etkiliyor."
       },
       {
         "word": "global",
@@ -15032,7 +15032,7 @@
         "type": "isim",
         "meaning": "şan, görkem",
         "sentence": "The brave soldiers fought for [glory] today.",
-        "sentence_tr": "Cesur askerler bugün zafer için savaştı."
+        "sentence_tr": "Cesur askerler bugün şan için savaştı."
       },
       {
         "word": "glorious",
@@ -15056,7 +15056,7 @@
       {
         "word": "golden",
         "type": "sıfat",
-        "meaning": "altından yapılmış",
+        "meaning": "altın renkli, altından",
         "sentence": "The sky had a beautiful [golden] color.",
         "sentence_tr": "Gökyüzü güzel bir altın rengine sahipti."
       }
@@ -15634,7 +15634,7 @@
       {
         "word": "head",
         "type": "fiil",
-        "meaning": "başlık yazmak, liderlik etmek",
+        "meaning": "yönelmek, başında olmak",
         "sentence": "We should [head] towards the main exit.",
         "sentence_tr": "Ana çıkışa doğru yönelmeliyiz."
       },
@@ -15918,7 +15918,7 @@
         "type": "isim",
         "meaning": "hiyerarşi",
         "sentence": "The army has a strict social [hierarchy].",
-        "sentence_tr": "Ordunun katı bir hiyerarşik yapısı vardır."
+        "sentence_tr": "Ordunun katı bir toplumsal hiyerarşisi vardır."
       },
       {
         "word": "hierarchical",
@@ -16071,8 +16071,8 @@
         "word": "honour",
         "type": "fiil",
         "meaning": "onurlandırmak",
-        "sentence": "It is a great [honour] to meet you.",
-        "sentence_tr": "Sizinle tanışmak büyük bir onurdur."
+        "sentence": "The mayor will [honour] the brave firefighters tomorrow.",
+        "sentence_tr": "Belediye başkanı yarın cesur itfaiyecileri onurlandıracak."
       },
       {
         "word": "honourable",
@@ -16257,7 +16257,7 @@
       {
         "word": "human",
         "type": "sıfat",
-        "meaning": "insani",
+        "meaning": "insani, insana ait",
         "sentence": "Scientists are studying how the [human] brain processes complex thoughts.",
         "sentence_tr": "Bilim insanları, insan beyninin karmaşık düşünceleri nasıl işlediğini inceliyor."
       },
@@ -16501,7 +16501,7 @@
       {
         "word": "identify",
         "type": "fiil",
-        "meaning": "tanımlamak",
+        "meaning": "tanımlamak, teşhis etmek",
         "sentence": "The witness was able to [identify] the suspect from the photographs.",
         "sentence_tr": "Tanık, fotoğraflardan şüpheliyi teşhis edebildi."
       },
@@ -16517,7 +16517,7 @@
         "type": "sıfat",
         "meaning": "özdeş",
         "sentence": "The twins wore [identical] outfits to their first day of school.",
-        "sentence_tr": "İkizler, okulun ilk gününde tek tip (özdeş) kıyafetler giydiler."
+        "sentence_tr": "İkizler, okulun ilk gününde özdeş kıyafetler giydiler."
       }
     ]
   },
@@ -16773,7 +16773,7 @@
         "type": "isim",
         "meaning": "bağışıklık",
         "sentence": "This natural vaccine provides strong [immunity] today.",
-        "sentence_tr": "Bu aşı bugün güçlü bir bağışıklık sağlar."
+        "sentence_tr": "Bu doğal aşı bugün güçlü bir bağışıklık sağlar."
       },
       {
         "word": "immune",
@@ -16816,7 +16816,7 @@
       {
         "word": "implication",
         "type": "isim",
-        "meaning": "ima, çıkarım",
+        "meaning": "ima, sonuç, çıkarım",
         "sentence": "This decision has a serious legal [implication].",
         "sentence_tr": "Bu kararın ciddi bir hukuki sonucu var."
       }
@@ -16863,7 +16863,7 @@
         "type": "zarf",
         "meaning": "önemli biçimde",
         "sentence": "More [importantly], we must find a way to reduce our expenses.",
-        "sentence_tr": "Daha önemli biçimde, harcamalarımızı azaltmanın bir yolunu bulmalıyız."
+        "sentence_tr": "Daha da önemlisi, harcamalarımızı azaltmanın bir yolunu bulmalıyız."
       },
       {
         "word": "impossibility",
@@ -17138,7 +17138,7 @@
       {
         "word": "indict",
         "type": "fiil",
-        "meaning": "suçlamak",
+        "meaning": "resmen suçlamak",
         "sentence": "The local court will [indict] the suspect.",
         "sentence_tr": "Yerel mahkeme şüpheliyi suçlayacak."
       },
@@ -17178,7 +17178,7 @@
         "type": "fiil",
         "meaning": "tetiklemek, ikna etmek",
         "sentence": "Some drugs can [induce] deep sleep.",
-        "sentence_tr": "Bazı ilaçlar derin uykuyu teşvik edebilir."
+        "sentence_tr": "Bazı ilaçlar derin uykuyu tetikleyebilir."
       },
       {
         "word": "induction",
@@ -17211,7 +17211,7 @@
         "type": "sıfat",
         "meaning": "hoşgörülü",
         "sentence": "The [indulgent] parents bought their child everything he asked for.",
-        "sentence_tr": "Hoşgörülü ebeveynler, çocuklarına istediği her şeyi satın aldı."
+        "sentence_tr": "Hoşgörülü ebeveynler, çocuklarının istediği her şeyi satın aldı."
       }
     ]
   },
@@ -17221,7 +17221,7 @@
       {
         "word": "industrialize",
         "type": "fiil",
-        "meaning": "sanayileşmek",
+        "meaning": "sanayileştirmek, sanayileşmek",
         "sentence": "The government plans to [industrialize] the rural region next year.",
         "sentence_tr": "Hükümet, önümüzdeki yıl kırsal bölgeyi sanayileştirmeyi planlıyor."
       },
@@ -17235,7 +17235,7 @@
       {
         "word": "industrial",
         "type": "sıfat",
-        "meaning": "sınai",
+        "meaning": "sınai, sanayi",
         "sentence": "They live in a large [industrial] city with many factories.",
         "sentence_tr": "Çok sayıda fabrikanın bulunduğu büyük bir sanayi şehrinde yaşıyorlar."
       }
@@ -17287,7 +17287,7 @@
         "type": "isim",
         "meaning": "kötü şöhret",
         "sentence": "The bad leader lived in [infamy] forever.",
-        "sentence_tr": "Kötü lider sonsuza kadar rezalet içinde yaşadı."
+        "sentence_tr": "Kötü lider sonsuza kadar kötü şöhret içinde yaşadı."
       },
       {
         "word": "infamous",
@@ -17377,7 +17377,7 @@
         "type": "sıfat",
         "meaning": "etkili",
         "sentence": "She is a highly [influential] writer.",
-        "sentence_tr": "O, son derece etkili bir yazadır."
+        "sentence_tr": "O, son derece etkili bir yazardır."
       }
     ]
   },
@@ -17453,7 +17453,7 @@
         "type": "sıfat",
         "meaning": "doğasında olan",
         "sentence": "Every job has some [inherent] risks.",
-        "sentence_tr": "Her işin bazı özünde olan riskleri vardır."
+        "sentence_tr": "Her işin doğasında bazı riskler vardır."
       },
       {
         "word": "inherently",
@@ -17496,7 +17496,7 @@
       {
         "word": "inhibition",
         "type": "isim",
-        "meaning": "engelleme",
+        "meaning": "engelleme, çekingenlik",
         "sentence": "The quiet girl lost her social [inhibition].",
         "sentence_tr": "Sessiz kız sosyal çekingenliğini kaybetti."
       }
@@ -17624,7 +17624,7 @@
       {
         "word": "inquire",
         "type": "fiil",
-        "meaning": "soruşturmak",
+        "meaning": "sormak, bilgi almak",
         "sentence": "You can [inquire] about the room prices.",
         "sentence_tr": "Oda fiyatları hakkında bilgi alabilirsiniz."
       },
@@ -17733,9 +17733,9 @@
       {
         "word": "inspire",
         "type": "fiil",
-        "meaning": "ilham vermek",
+        "meaning": "ilham vermek, aşılamak",
         "sentence": "A great leader should always [inspire] confidence in their team.",
-        "sentence_tr": "Harika bir lider, ekibine her zaman güven ilham etmelidir."
+        "sentence_tr": "Harika bir lider, ekibine her zaman güven aşılamalıdır."
       },
       {
         "word": "inspiration",
@@ -17901,7 +17901,7 @@
       {
         "word": "insulting",
         "type": "sıfat",
-        "meaning": "hakaret amiz",
+        "meaning": "hakaret dolu, aşağılayıcı",
         "sentence": "She received an [insulting] letter yesterday morning.",
         "sentence_tr": "Dün sabah aşağılayıcı bir mektup aldı."
       }
@@ -18713,7 +18713,7 @@
         "type": "isim",
         "meaning": "kaçırıcı",
         "sentence": "The angry police caught the dangerous [kidnapper].",
-        "sentence_tr": "Öfkeli polis tehlikeli fidyeciyi yakaladı."
+        "sentence_tr": "Öfkeli polis tehlikeli kaçırıcıyı yakaladı."
       }
     ]
   },
@@ -19170,7 +19170,7 @@
         "type": "isim",
         "meaning": "borç veren",
         "sentence": "The bank is a reliable money [lender].",
-        "sentence_tr": "Banka güvenilir bir para vericidir."
+        "sentence_tr": "Banka güvenilir bir borç veren kurumdur."
       }
     ]
   },
@@ -19241,7 +19241,7 @@
         "type": "sıfat",
         "meaning": "lisanslı",
         "sentence": "Only a [licensed] plumber is allowed to modify the main water pipes.",
-        "sentence_tr": "Ana su borularını değiştirmesine yalnızca lisanslı bir tesisatçının izin verilir."
+        "sentence_tr": "Ana su borularını yalnızca lisanslı bir tesisatçı değiştirebilir."
       }
     ]
   },
@@ -19367,9 +19367,9 @@
       {
         "word": "illiterate",
         "type": "sıfat",
-        "meaning": "cahil",
+        "meaning": "okuma yazma bilmeyen",
         "sentence": "A person who cannot read or write is considered [illiterate] in modern society.",
-        "sentence_tr": "Okuma yazma bilmeyen bir kişi modern toplumda cahil kabul edilir."
+        "sentence_tr": "Okuma yazma bilmeyen bir kişi, modern toplumda okuryazar olmayan sayılır."
       }
     ]
   },
@@ -19646,7 +19646,7 @@
         "type": "isim",
         "meaning": "ses yüksekliği",
         "sentence": "The sheer [loudness] of the rock concert caused temporary hearing loss.",
-        "sentence_tr": "Kaya konserinin gürültü derecesi geçici işitme kaybına neden oldu."
+        "sentence_tr": "Rock konserinin aşırı ses yüksekliği geçici işitme kaybına neden oldu."
       },
       {
         "word": "loud",
@@ -19968,7 +19968,7 @@
         "type": "isim",
         "meaning": "manipülasyon",
         "sentence": "The stock prices were artificially raised through clever financial [manipulation].",
-        "sentence_tr": "Hise senedi fiyatları, akıllıca finansal manipülasyon yoluyla yapay olarak yükseltildi."
+        "sentence_tr": "Hisse senedi fiyatları, akıllıca finansal manipülasyon yoluyla yapay olarak yükseltildi."
       },
       {
         "word": "manipulative",
@@ -20000,8 +20000,8 @@
         "word": "manufacturing",
         "type": "isim",
         "meaning": "imalat",
-        "sentence": "The government is trying to support the decline in the local [manufacturing] sector.",
-        "sentence_tr": "Hükümet, yerel imalat sektöründeki düşüşü desteklemeye çalışıyor."
+        "sentence": "The government is trying to reverse the decline in the local [manufacturing] sector.",
+        "sentence_tr": "Hükümet, yerel imalat sektöründeki düşüşü tersine çevirmeye çalışıyor."
       }
     ]
   },
@@ -20037,9 +20037,9 @@
       {
         "word": "marker",
         "type": "isim",
-        "meaning": "işaretleyici",
+        "meaning": "işaretleyici, keçeli kalem",
         "sentence": "Please use a red [marker] today.",
-        "sentence_tr": "Lütfen bugün kırmızı bir işaretleyici kullanın."
+        "sentence_tr": "Lütfen bugün kırmızı bir keçeli kalem kullanın."
       }
     ]
   },
@@ -20141,7 +20141,7 @@
         "type": "isim",
         "meaning": "matematikçi",
         "sentence": "The brilliant [mathematician] solved the famous theorem that had remained unsolved for a century.",
-        "sentence_tr": "Dahi matematikçi, bir yüzyıldır çözülememiş ünlü teoremi çözdü."
+        "sentence_tr": "Dâhi matematikçi, bir yüzyıldır çözülememiş ünlü teoremi çözdü."
       },
       {
         "word": "mathematical",
@@ -20378,7 +20378,7 @@
         "type": "fiil",
         "meaning": "ezberlemek",
         "sentence": "Students often struggle to [memorise] long lists of irregular verbs.",
-        "sentence_tr": "Öğrenciler genellikle düzensiz fiillerin uzun listelerini ezbermekte zorlanırlar."
+        "sentence_tr": "Öğrenciler genellikle düzensiz fiillerin uzun listelerini ezberlemekte zorlanırlar."
       },
       {
         "word": "memory",
@@ -20940,9 +20940,9 @@
       {
         "word": "moderately",
         "type": "zarf",
-        "meaning": "ölçülü biçimde",
+        "meaning": "orta derecede, ölçülü biçimde",
         "sentence": "The test was [moderately] difficult, so most students passed.",
-        "sentence_tr": "Sınav ölçülü biçimde zordu, bu yüzden öğrencilerin çoğu geçti."
+        "sentence_tr": "Sınav orta derecede zordu, bu yüzden öğrencilerin çoğu geçti."
       },
       {
         "word": "modesty",
@@ -21089,9 +21089,9 @@
       {
         "word": "monumental",
         "type": "sıfat",
-        "meaning": "anıtsal",
+        "meaning": "anıtsal, çok büyük",
         "sentence": "The young artist made a [monumental] error today.",
-        "sentence_tr": "Genç sanatçı bugün anıtsal bir hata yaptı."
+        "sentence_tr": "Genç sanatçı bugün çok büyük bir hata yaptı."
       }
     ]
   },
@@ -21103,12 +21103,12 @@
         "type": "isim",
         "meaning": "ruh hâli",
         "sentence": "The pleasant music improved my [mood] today.",
-        "sentence_tr": "Hoş müzik bugün ruh halimi düzeltti."
+        "sentence_tr": "Hoş müzik bugün ruh hâlimi düzeltti."
       },
       {
         "word": "moody",
         "type": "sıfat",
-        "meaning": "dakikası dakikasına uymayan",
+        "meaning": "ruh hâli değişken, kaprisli",
         "sentence": "The [moody] teenager is very quiet today.",
         "sentence_tr": "Kaprisli genç bugün çok sessiz."
       }
@@ -21269,9 +21269,9 @@
       {
         "word": "multiple",
         "type": "sıfat",
-        "meaning": "çoklu",
+        "meaning": "çoklu, birden fazla",
         "sentence": "The accident caused [multiple] injuries to the driver.",
-        "sentence_tr": "Kaza, sürücüde çoklu yaralanmalara neden oldu."
+        "sentence_tr": "Kaza, sürücüde birden fazla yaralanmaya neden oldu."
       }
     ]
   },
@@ -21340,9 +21340,9 @@
       {
         "word": "musically",
         "type": "zarf",
-        "meaning": "müzikal biçimde",
+        "meaning": "müzikal açıdan",
         "sentence": "The child is [musically] gifted and has a perfect pitch.",
-        "sentence_tr": "Çocuk müzikal biçimde yeteneklidir ve kusursuz bir kulağa sahiptir."
+        "sentence_tr": "Çocuk müzikal açıdan yeteneklidir ve kusursuz bir kulağa sahiptir."
       }
     ]
   },
@@ -21669,7 +21669,7 @@
         "type": "isim",
         "meaning": "olumsuzluk",
         "sentence": "Her constant [negativity] at the office ruined the morale of the entire team.",
-        "sentence_tr": "Ofisteki sürekli olumsuzluğu tüm ekibin moralini bozdu."
+        "sentence_tr": "Onun ofisteki sürekli olumsuzluğu tüm ekibin moralini bozdu."
       },
       {
         "word": "negative",
@@ -22247,7 +22247,7 @@
         "type": "isim",
         "meaning": "takıntı",
         "sentence": "His passion for collecting antique stamps became an unhealthy [obsession].",
-        "sentence_tr": "Antika pul toplama tutkusu, sağlıksız bir takıntı haline geldi."
+        "sentence_tr": "Antika pul toplama tutkusu, sağlıksız bir takıntı hâline geldi."
       },
       {
         "word": "obsessive",
@@ -22280,7 +22280,7 @@
         "type": "zarf",
         "meaning": "açıkça",
         "sentence": "He [obviously] did not understand our question.",
-        "sentence_tr": "Açıkçası bizim sorumuzu anlamadı."
+        "sentence_tr": "Belli ki bizim sorumuzu anlamadı."
       }
     ]
   },
@@ -22408,9 +22408,9 @@
       {
         "word": "offensive",
         "type": "sıfat",
-        "meaning": "saldırgan",
+        "meaning": "saldırgan, rahatsız edici",
         "sentence": "The comedian made some [offensive] jokes that angered the audience.",
-        "sentence_tr": "Komedyen, seyirciyi öfkelendiren bazı saldırgan şakalar yaptı."
+        "sentence_tr": "Komedyen, seyirciyi öfkelendiren bazı rahatsız edici şakalar yaptı."
       }
     ]
   },
@@ -22500,7 +22500,7 @@
         "type": "isim",
         "meaning": "operatör",
         "sentence": "She works as a telephone [operator] at the hospital.",
-        "sentence_tr": "Hastahanede telefon operatörü olarak çalışıyor."
+        "sentence_tr": "Hastanede telefon operatörü olarak çalışıyor."
       }
     ]
   },
@@ -22761,21 +22761,21 @@
       {
         "word": "outrage",
         "type": "isim",
-        "meaning": "öfke, hakaret",
+        "meaning": "öfke, infial",
         "sentence": "The corrupt decision caused public [outrage] across the entire country.",
         "sentence_tr": "Yolsuzluk kararı tüm ülkede halkın öfkesine neden oldu."
       },
       {
         "word": "outrageous",
         "type": "sıfat",
-        "meaning": "çirkin, rezil",
+        "meaning": "akıl almaz, rezil",
         "sentence": "Charging fifty dollars for a bottle of water is absolutely [outrageous].",
-        "sentence_tr": "Bir şişe su için elli dolar talep etmek kesinlikle rezilce bir durumdur."
+        "sentence_tr": "Bir şişe su için elli dolar talep etmek kesinlikle akıl almaz bir durumdur."
       },
       {
         "word": "outraged",
         "type": "sıfat",
-        "meaning": "öfkemiz, öfkeli",
+        "meaning": "öfkeli, öfkelenmiş",
         "sentence": "The [outraged] citizens gathered in front of the city hall to protest.",
         "sentence_tr": "Öfkeli vatandaşlar protesto etmek için belediye binasının önünde toplandı."
       }
@@ -22924,7 +22924,7 @@
       {
         "word": "parental",
         "type": "sıfat",
-        "meaning": "ebeveynlik",
+        "meaning": "ebeveynle ilgili",
         "sentence": "They need some [parental] advice this morning.",
         "sentence_tr": "Bu sabah biraz ebeveyn tavsiyesine ihtiyaçları var."
       }
@@ -23284,9 +23284,9 @@
       {
         "word": "perceptive",
         "type": "sıfat",
-        "meaning": "anlayışlı",
+        "meaning": "kavrayışlı, keskin görüşlü",
         "sentence": "The detective made a highly [perceptive] observation that helped solve the mystery.",
-        "sentence_tr": "Dedektif, gizemin çözülmesine yardımcı olan son derece anlayışlı bir gözlemde bulundu."
+        "sentence_tr": "Dedektif, gizemin çözülmesine yardımcı olan son derece isabetli bir gözlemde bulundu."
       }
     ]
   },
@@ -23878,7 +23878,7 @@
         "type": "fiil",
         "meaning": "işaret etmek",
         "sentence": "You should not [point] at other people.",
-        "sentence_tr": "Diğer insanları işaret etmemelisin."
+        "sentence_tr": "Diğer insanları parmakla göstermemelisin."
       },
       {
         "word": "pointless",
@@ -24056,9 +24056,9 @@
       {
         "word": "populate",
         "type": "fiil",
-        "meaning": "iskan etmek",
+        "meaning": "yerleşmek, iskan etmek",
         "sentence": "Wild animals will [populate] the quiet forest.",
-        "sentence_tr": "Vahşi hayvanlar sessiz ormanda yaşayacaklar (iskan edecekler)."
+        "sentence_tr": "Vahşi hayvanlar sessiz ormanda yaşayacak."
       },
       {
         "word": "population",
@@ -24075,9 +24075,9 @@
       {
         "word": "portray",
         "type": "fiil",
-        "meaning": "betimlemek",
+        "meaning": "betimlemek, resmetmek",
         "sentence": "The famous artist will [portray] him today.",
-        "sentence_tr": "Ünlü sanatçı onu bugün betimleyecek (resmedecek)."
+        "sentence_tr": "Ünlü sanatçı onu bugün resmedecek."
       },
       {
         "word": "portrayal",
@@ -24161,8 +24161,8 @@
         "word": "possibly",
         "type": "zarf",
         "meaning": "muhtemelen",
-        "sentence": "I cannot [possibly] accept this expensive gift under these difficult circumstances.",
-        "sentence_tr": "Bu zor şartlar altında bu pahalı hediyeyi muhtemelen (hiçbir şekilde) kabul edemem."
+        "sentence": "The delayed train will [possibly] arrive after midnight.",
+        "sentence_tr": "Rötarlı tren muhtemelen gece yarısından sonra varacak."
       }
     ]
   },
@@ -24231,7 +24231,7 @@
       {
         "word": "potentially",
         "type": "zarf",
-        "meaning": "olası biçimde",
+        "meaning": "potansiyel olarak",
         "sentence": "This old building is [potentially] very dangerous.",
         "sentence_tr": "Bu eski bina potansiyel olarak çok tehlikeli."
       }
@@ -24406,7 +24406,7 @@
         "type": "fiil",
         "meaning": "tahmin etmek",
         "sentence": "Experienced meteorologists cannot [predict] the weather with absolute certainty.",
-        "sentence_tr": "Deneyimli meteorologlar bile hava durumunu kesin bir kesinlikle tahmin edemez."
+        "sentence_tr": "Deneyimli meteorologlar hava durumunu mutlak bir kesinlikle tahmin edemez."
       },
       {
         "word": "prediction",
@@ -24588,7 +24588,7 @@
         "type": "isim",
         "meaning": "varlık, mevcudiyet",
         "sentence": "The teacher requested your physical [presence] today.",
-        "sentence_tr": "Öğretmen bugün fiziksel varlığınızı (katılımınızı) talep etti."
+        "sentence_tr": "Öğretmen bugün fiziken hazır bulunmanızı talep etti."
       }
     ]
   },
@@ -24689,15 +24689,15 @@
         "word": "pretend",
         "type": "fiil",
         "meaning": "-mış gibi yapmak",
-        "sentence": "The little children like to [pretend] here.",
-        "sentence_tr": "Küçük çocuklar burada oyun oynarmış (taklit yaparmış) gibi yapmayı severler."
+        "sentence": "The little children like to [pretend] they are pirates.",
+        "sentence_tr": "Küçük çocuklar korsanmış gibi yapmayı severler."
       },
       {
         "word": "pretence",
         "type": "isim",
         "meaning": "numara",
         "sentence": "Their friendly behavior was just a [pretence].",
-        "sentence_tr": "Onların dostça davranışı sadece bir numaraydı (gösterişti)."
+        "sentence_tr": "Onların dostça davranışı sadece bir numaraydı."
       }
     ]
   },
@@ -24707,9 +24707,9 @@
       {
         "word": "prevail",
         "type": "fiil",
-        "meaning": "hüküm sürmek",
+        "meaning": "hüküm sürmek, galip gelmek",
         "sentence": "We hope that common sense will [prevail] during the intense debate.",
-        "sentence_tr": "Yoğun tartışma sırasında sağduyunun hüküm süreceğini (galip geleceğini) umuyoruz."
+        "sentence_tr": "Yoğun tartışma sırasında sağduyunun galip geleceğini umuyoruz."
       },
       {
         "word": "prevalence",
@@ -24877,7 +24877,7 @@
         "type": "sıfat",
         "meaning": "önceki",
         "sentence": "The job requires some [prior] work experience.",
-        "sentence_tr": "İş biraz önceden iş deneyimi gerektiriyor."
+        "sentence_tr": "Bu iş, bir miktar önceden edinilmiş iş deneyimi gerektiriyor."
       }
     ]
   },
@@ -24967,7 +24967,7 @@
         "type": "sıfat",
         "meaning": "ayrıcalıklı",
         "sentence": "He comes from a very [privileged] background.",
-        "sentence_tr": "Çok ayrıcalıklı bir aile geçmişinden (ortamdan) geliyor."
+        "sentence_tr": "Çok ayrıcalıklı bir ortamdan geliyor."
       }
     ]
   },
@@ -25692,7 +25692,7 @@
         "type": "fiil",
         "meaning": "takip etmek, sürdürmek",
         "sentence": "They want to [pursue] a better life.",
-        "sentence_tr": "Daha iyi bir yaşam sürdürmek istiyorlar."
+        "sentence_tr": "Daha iyi bir yaşamın peşinden gitmek istiyorlar."
       },
       {
         "word": "pursuit",
@@ -25737,7 +25737,7 @@
         "type": "isim",
         "meaning": "nitelik, yeterlik",
         "sentence": "An advanced degree is a basic [qualification] for this academic job.",
-        "sentence_tr": "Yüksek lisans derecesi, bu akademik iş için temel bir yeterliliktir."
+        "sentence_tr": "Lisansüstü derece, bu akademik iş için temel bir yeterliliktir."
       },
       {
         "word": "qualified",
@@ -25896,7 +25896,7 @@
       {
         "word": "racing",
         "type": "isim",
-        "meaning": "yarışçılık",
+        "meaning": "yarış, yarışçılık",
         "sentence": "He loves horse [racing] very much today.",
         "sentence_tr": "O bugün at yarışını çok seviyor."
       }
@@ -26343,7 +26343,7 @@
         "type": "isim",
         "meaning": "karşılama, resepsiyon",
         "sentence": "The newly married couple held a grand [reception] at the luxury hotel.",
-        "sentence_tr": "Yeni evli çift, lüks otelde görkemli bir karşılama töreni düzenledi."
+        "sentence_tr": "Yeni evli çift, lüks otelde görkemli bir resepsiyon düzenledi."
       },
       {
         "word": "receptionist",
@@ -26578,9 +26578,9 @@
       {
         "word": "reflective",
         "type": "sıfat",
-        "meaning": "düşündürücü",
+        "meaning": "yansıtıcı, düşünümsel",
         "sentence": "The teacher assigned a [reflective] essay about our personal experiences.",
-        "sentence_tr": "Öğretmen, kişisel deneyimlerimiz hakkında düşündürücü bir kompozisyon ödevi verdi."
+        "sentence_tr": "Öğretmen, kişisel deneyimlerimiz hakkında yansıtıcı bir kompozisyon ödevi verdi."
       }
     ]
   },
@@ -26663,7 +26663,7 @@
         "type": "sıfat",
         "meaning": "kayıtlı",
         "sentence": "Only a [registered] nurse is allowed to administer this medication.",
-        "sentence_tr": "Bu ilacı uygulamaya yalnızca kayıtlı bir hemşirenin izni vardır."
+        "sentence_tr": "Bu ilacı yalnızca kayıtlı bir hemşire uygulayabilir."
       }
     ]
   },
@@ -26727,7 +26727,7 @@
         "type": "fiil",
         "meaning": "rehabilite etmek",
         "sentence": "Doctors want to [rehabilitate] the sick patient.",
-        "sentence_tr": "Doktorlar hasta hastayı rehabilite etmek istiyor."
+        "sentence_tr": "Doktorlar hasta kişiyi rehabilite etmek istiyor."
       },
       {
         "word": "rehabilitation",
@@ -26862,7 +26862,7 @@
         "type": "isim",
         "meaning": "ilgi, alaka",
         "sentence": "The academic board strictly questioned the historical [relevance] of the student's thesis topic.",
-        "sentence_tr": "Akademik kurul, öğrencinin tez konusunun tarihsel ilgisini kesin bir dille sorguladı."
+        "sentence_tr": "Akademik kurul, öğrencinin tez konusunun tarihsel alakasını kesin bir dille sorguladı."
       },
       {
         "word": "relevant",
@@ -26874,7 +26874,7 @@
       {
         "word": "irrelevant",
         "type": "sıfat",
-        "meaning": "ilgilesiz",
+        "meaning": "ilgisiz, alakasız",
         "sentence": "His personal opinions on politics are completely [irrelevant] to our current business decision.",
         "sentence_tr": "Onun siyaset hakkındaki kişisel görüşleri, şu anki ticari kararımızla tamamen ilgisizdir."
       }
@@ -26935,7 +26935,7 @@
         "type": "sıfat",
         "meaning": "dindar, dinî",
         "sentence": "The historic cathedral is still used for various [religious] ceremonies during special holidays.",
-        "sentence_tr": "Tarihi katedral, özel bayramlarda çeşitli dini törenler için hala kullanılmaktadır."
+        "sentence_tr": "Tarihi katedral, özel bayramlarda çeşitli dini törenler için hâlâ kullanılmaktadır."
       },
       {
         "word": "religiously",
@@ -27212,7 +27212,7 @@
         "type": "isim",
         "meaning": "üreme, kopya",
         "sentence": "The museum sells a high-quality [reproduction] of the famous painting in its gift shop.",
-        "sentence_tr": "Muzé, hediyelik eşya dükkanında ünlü tablonun yüksek kaliteli bir kopyasını satıyor."
+        "sentence_tr": "Müze, hediyelik eşya dükkanında ünlü tablonun yüksek kaliteli bir kopyasını satıyor."
       },
       {
         "word": "reproductive",
@@ -27378,9 +27378,9 @@
       {
         "word": "residential",
         "type": "sıfat",
-        "meaning": "konut bölgesine ait",
+        "meaning": "konutlara ait, yerleşim",
         "sentence": "Heavy trucks are strictly banned from driving through this quiet [residential] area.",
-        "sentence_tr": "Ağır kamyonların bu sessiz konut bölgesine ait alandan geçmesi kesinlikle yasaktır."
+        "sentence_tr": "Ağır kamyonların bu sessiz yerleşim alanından geçmesi kesinlikle yasaktır."
       }
     ]
   },
@@ -27546,7 +27546,7 @@
         "type": "fiil",
         "meaning": "eski hâline getirmek",
         "sentence": "We must [restore] this old wooden table.",
-        "sentence_tr": "Bu eski ahşap masayı eski haline getirmeliyiz."
+        "sentence_tr": "Bu eski ahşap masayı eski hâline getirmeliyiz."
       },
       {
         "word": "restoration",
@@ -27579,7 +27579,7 @@
         "type": "sıfat",
         "meaning": "ölçülü",
         "sentence": "The minimalist room had a [restrained] elegance with very few decorations.",
-        "sentence_tr": "Minimalist oda, çok az dekorasyonla ölçülü bir şıklığa sahiydi."
+        "sentence_tr": "Minimalist oda, çok az dekorasyonla ölçülü bir şıklığa sahipti."
       }
     ]
   },
@@ -27591,7 +27591,7 @@
         "type": "fiil",
         "meaning": "kısıtlamak",
         "sentence": "The security guards decided to [restrict] access to the laboratory after office hours.",
-        "sentence_tr": "Güvenlik görevlileri, mesai saatlerinden sonra laboratuvara erişimi kısıtlamak için karar aldı."
+        "sentence_tr": "Güvenlik görevlileri, mesai saatlerinden sonra laboratuvara erişimi kısıtlamaya karar verdi."
       },
       {
         "word": "restriction",
@@ -27852,9 +27852,9 @@
       {
         "word": "rhetorical",
         "type": "sıfat",
-        "meaning": "retorik, sözde",
+        "meaning": "retorik, cevap gerektirmeyen",
         "sentence": "He asked a very simple [rhetorical] question.",
-        "sentence_tr": "Çok basit, sözde (cevap gerektirmeyen) bir soru sordu."
+        "sentence_tr": "Çok basit, cevap gerektirmeyen retorik bir soru sordu."
       }
     ]
   },
@@ -27892,7 +27892,7 @@
         "type": "sıfat",
         "meaning": "zengin",
         "sentence": "This delicious chocolate cake is very [rich], so a small slice will be more than enough.",
-        "sentence_tr": "Bu lezzetli çikolatalı kek çok zengin (yoğun), bu yüzden küçük bir dilim fazlasıyla yeterli olacaktır."
+        "sentence_tr": "Bu lezzetli çikolatalı kek çok yoğun, bu yüzden küçük bir dilim fazlasıyla yeterli olacaktır."
       },
       {
         "word": "richly",
@@ -28077,7 +28077,7 @@
         "type": "isim",
         "meaning": "romantizm",
         "sentence": "Their long-lasting marriage is still filled with the sweet [romance] of their early youth.",
-        "sentence_tr": "Uzun süren evlilikleri, hala ilk gençliklerinin o tatlı romantizmi ile doludur."
+        "sentence_tr": "Uzun süren evlilikleri, hâlâ ilk gençliklerinin o tatlı romantizmi ile doludur."
       },
       {
         "word": "romantic",
@@ -28146,7 +28146,7 @@
       {
         "word": "royalty",
         "type": "isim",
-        "meaning": "kraliyet",
+        "meaning": "kraliyet ailesi",
         "sentence": "The national event was attended by [royalty].",
         "sentence_tr": "Ulusal etkinliğe kraliyet ailesi üyeleri katıldı."
       },
@@ -28193,7 +28193,7 @@
         "type": "fiil",
         "meaning": "mahvetmek",
         "sentence": "Bad weather can [ruin] our outdoor plans.",
-        "sentence_tr": "Kötü hava bugün açık hava planlarımızı mahvedebilir."
+        "sentence_tr": "Kötü hava açık hava planlarımızı mahvedebilir."
       },
       {
         "word": "ruined",
@@ -28314,7 +28314,7 @@
       {
         "word": "sailing",
         "type": "isim",
-        "meaning": "yelken, denizcilik",
+        "meaning": "yelkencilik, denizcilik",
         "sentence": "He decided to take up [sailing] as a hobby to spend more time outdoors.",
         "sentence_tr": "Açık havada daha fazla zaman geçirmek için bir hobi olarak yelkenciliğe başlamaya karar verdi."
       },
@@ -28323,7 +28323,7 @@
         "type": "isim",
         "meaning": "denizci",
         "sentence": "The experienced [sailor] checked the weather forecast before leaving the harbor.",
-        "sentence_tr": "Denizimli denizci, limandan ayrılmadan önce hava durumunu kontrol etti."
+        "sentence_tr": "Deneyimli denizci, limandan ayrılmadan önce hava durumunu kontrol etti."
       }
     ]
   },
@@ -28432,7 +28432,7 @@
         "type": "sıfat",
         "meaning": "skandal niteliğinde",
         "sentence": "They made a very [scandalous] decision yesterday.",
-        "sentence_tr": "Dün çok skandal bir karar verdiler."
+        "sentence_tr": "Dün son derece skandal niteliğinde bir karar verdiler."
       }
     ]
   },
@@ -28581,7 +28581,7 @@
         "type": "isim",
         "meaning": "inceleme",
         "sentence": "The financial reports face very close [scrutiny].",
-        "sentence_tr": "Finansal raporlar çok yakından incelemeyle karşı karşıya."
+        "sentence_tr": "Finansal raporlar çok yakın bir incelemeyle karşı karşıya."
       }
     ]
   },
@@ -29005,14 +29005,14 @@
         "type": "sıfat",
         "meaning": "cinsel",
         "sentence": "They studied the [sexual] reproduction of flowers.",
-        "sentence_tr": "Çiçeklerin eşeyli (cinsel) üremesini incelediler."
+        "sentence_tr": "Çiçeklerin eşeyli üremesini incelediler."
       },
       {
         "word": "sexually",
         "type": "zarf",
         "meaning": "cinsel olarak",
         "sentence": "These insects reproduce [sexually] during the spring season.",
-        "sentence_tr": "Bu böcekler ilkbahar mevsiminde eşeyli (cinsel) olarak ürerler."
+        "sentence_tr": "Bu böcekler ilkbahar mevsiminde eşeyli olarak ürerler."
       }
     ]
   },
@@ -29098,9 +29098,9 @@
       {
         "word": "sharpen",
         "type": "fiil",
-        "meaning": "keskinleştirmek",
+        "meaning": "keskinleştirmek, (kalem) açmak",
         "sentence": "Please [sharpen] your pencil before the exam starts.",
-        "sentence_tr": "Lütfen sınav başlamadan önce kaleminizi açın (keskinleştirin)."
+        "sentence_tr": "Lütfen sınav başlamadan önce kaleminizi açın."
       },
       {
         "word": "sharpness",
@@ -29211,7 +29211,7 @@
         "type": "isim",
         "meaning": "alışverişçi",
         "sentence": "A careful [shopper] always compares prices before buying.",
-        "sentence_tr": "Dikkatli bir müşteri (alışverişçi) satın almadan önce her zaman fiyatları karşılaştırır."
+        "sentence_tr": "Dikkatli bir alışverişçi satın almadan önce her zaman fiyatları karşılaştırır."
       }
     ]
   },
@@ -29228,9 +29228,9 @@
       {
         "word": "shortness",
         "type": "isim",
-        "meaning": "kısalık",
+        "meaning": "kısalık, darlık",
         "sentence": "The patient complained about [shortness] of breath.",
-        "sentence_tr": "Hasta nefes darlığından (kısalığından) şikayet etti."
+        "sentence_tr": "Hasta nefes darlığından şikayet etti."
       },
       {
         "word": "short",
@@ -29261,16 +29261,16 @@
       {
         "word": "shot",
         "type": "isim",
-        "meaning": "atış",
+        "meaning": "atış, şut",
         "sentence": "He made a perfect [shot] during the game.",
-        "sentence_tr": "Maç sırasında mükemmel bir şut (atış) çekti."
+        "sentence_tr": "Maç sırasında mükemmel bir şut çekti."
       },
       {
         "word": "shooting",
         "type": "isim",
         "meaning": "atış, çekim",
         "sentence": "The [shooting] of wild animals is illegal here.",
-        "sentence_tr": "Vahşi hayvanların vurulması (ateş edilmesi) burada yasaktır."
+        "sentence_tr": "Vahşi hayvanların vurulması burada yasaktır."
       }
     ]
   },
@@ -29315,7 +29315,7 @@
         "type": "sıfat",
         "meaning": "hasta",
         "sentence": "The doctor visited the [sick] patient yesterday.",
-        "sentence_tr": "Doktor dün hasta hastayı ziyaret etti."
+        "sentence_tr": "Doktor dün hasta kişiyi ziyaret etti."
       }
     ]
   },
@@ -29474,7 +29474,7 @@
       {
         "word": "simplicity",
         "type": "isim",
-        "meaning": "basitlik",
+        "meaning": "basitlik, sadelik",
         "sentence": "We admire the [simplicity] of this design.",
         "sentence_tr": "Bu tasarımın sadeliğine hayranız."
       },
@@ -29502,7 +29502,7 @@
         "type": "fiil",
         "meaning": "benzetmek, simüle etmek",
         "sentence": "These computer programs [simulate] real flight conditions.",
-        "sentence_tr": "Bu bilgisayar programları gerçek uçuş koşullarını benzetir."
+        "sentence_tr": "Bu bilgisayar programları gerçek uçuş koşullarını simüle eder."
       },
       {
         "word": "simulation",
@@ -29554,14 +29554,14 @@
         "type": "isim",
         "meaning": "günahkâr kişi",
         "sentence": "The priest promised to forgive every [sinner].",
-        "sentence_tr": "Rahip her günahkarı affetmeye söz verdi."
+        "sentence_tr": "Rahip her günahkârı affetmeye söz verdi."
       },
       {
         "word": "sinful",
         "type": "sıfat",
         "meaning": "günahkâr",
         "sentence": "He regretted his [sinful] actions.",
-        "sentence_tr": "Günahkarca eylemlerinden pişman oldu."
+        "sentence_tr": "Günahkârca eylemlerinden pişman oldu."
       }
     ]
   },
@@ -29650,8 +29650,8 @@
         "word": "slave",
         "type": "isim",
         "meaning": "köle",
-        "sentence": "The old man was a free [slave].",
-        "sentence_tr": "Yaşlı adam özgür bir köleydi."
+        "sentence": "The old man was a [slave] for twenty years.",
+        "sentence_tr": "Yaşlı adam yirmi yıl boyunca köleydi."
       },
       {
         "word": "slavery",
@@ -29790,8 +29790,8 @@
         "word": "smoke",
         "type": "fiil",
         "meaning": "sigara içmek, tütmek",
-        "sentence": "Heavy chimneys [smoke] a lot in winter.",
-        "sentence_tr": "Ağır bacalar kışın çok tüter."
+        "sentence": "Old factory chimneys [smoke] a lot in winter.",
+        "sentence_tr": "Eski fabrika bacaları kışın çok tüter."
       },
       {
         "word": "smoker",
@@ -30492,7 +30492,7 @@
         "type": "sıfat",
         "meaning": "klişe",
         "sentence": "They presented a [stereotypical] view of teenagers.",
-        "sentence_tr": "Gençlerin klişe bir görünümünü sundular."
+        "sentence_tr": "Gençlere dair klişe bir görüş sundular."
       }
     ]
   },
@@ -30592,9 +30592,9 @@
       {
         "word": "store",
         "type": "fiil",
-        "meaning": "depolamak",
+        "meaning": "depolamak, saklamak",
         "sentence": "You can safely [store] your luggage here.",
-        "sentence_tr": "Bagajınızı burada güvenle depolayabilirsiniz."
+        "sentence_tr": "Bagajınızı burada güvenle saklayabilirsiniz."
       },
       {
         "word": "storage",
@@ -30878,7 +30878,7 @@
         "type": "zarf",
         "meaning": "aptalca",
         "sentence": "The young driver [stupidly] ignored the sign.",
-        "sentence_tr": "Genç sürücü tabela işaretini aptalca görmezden geldi."
+        "sentence_tr": "Genç sürücü tabelayı aptalca görmezden geldi."
       }
     ]
   },
@@ -30933,7 +30933,7 @@
       {
         "word": "submission",
         "type": "isim",
-        "meaning": "sunum, teslimiyet",
+        "meaning": "teslim, gönderim, teslimiyet",
         "sentence": "The deadline for your online [submission] passed.",
         "sentence_tr": "Çevrimiçi gönderiminiz için son teslim tarihi geçti."
       }
@@ -31017,7 +31017,7 @@
         "word": "substantial",
         "type": "sıfat",
         "meaning": "önemli, hatırı sayılır",
-        "sentence": "We made a [substantial] progress this month.",
+        "sentence": "We made [substantial] progress this month.",
         "sentence_tr": "Bu ay önemli bir ilerleme kaydettik."
       },
       {
@@ -31068,9 +31068,9 @@
       {
         "word": "subtly",
         "type": "zarf",
-        "meaning": "ustaca",
+        "meaning": "belli belirsiz, ince biçimde",
         "sentence": "The lights in the theatre changed [subtly].",
-        "sentence_tr": "Tiyatrodaki ışıklar ustaca değişti."
+        "sentence_tr": "Tiyatrodaki ışıklar belli belirsiz değişti."
       }
     ]
   },
@@ -31357,7 +31357,7 @@
       {
         "word": "supervisor",
         "type": "isim",
-        "meaning": "amir",
+        "meaning": "amir, danışman",
         "sentence": "My [supervisor] approved the new project design.",
         "sentence_tr": "Danışmanım yeni proje tasarımını onayladı."
       }
@@ -31487,7 +31487,7 @@
         "type": "sıfat",
         "meaning": "en yüksek",
         "sentence": "The [supreme] court made a final decision.",
-        "sentence_tr": "Yüce mahkeme nihai bir karar verdi."
+        "sentence_tr": "Yüksek mahkeme nihai bir karar verdi."
       }
     ]
   },
@@ -31653,9 +31653,9 @@
       {
         "word": "suspend",
         "type": "fiil",
-        "meaning": "askıya almak",
+        "meaning": "askıya almak, uzaklaştırmak",
         "sentence": "They decided to [suspend] the old worker.",
-        "sentence_tr": "Eski işçiyi askıya almaya karar verdiler."
+        "sentence_tr": "Eski işçiyi işten uzaklaştırmaya karar verdiler."
       },
       {
         "word": "suspension",
@@ -31719,9 +31719,9 @@
       {
         "word": "sweetly",
         "type": "zarf",
-        "meaning": "tatlılıkla",
+        "meaning": "tatlı bir şekilde",
         "sentence": "The young girl smiled very [sweetly].",
-        "sentence_tr": "Küçük kız çok tatlılıkla gülümsedi."
+        "sentence_tr": "Küçük kız çok tatlı bir şekilde gülümsedi."
       }
     ]
   },
@@ -31797,7 +31797,7 @@
       {
         "word": "sympathetic",
         "type": "sıfat",
-        "meaning": "sempatik",
+        "meaning": "anlayışlı, sempatik",
         "sentence": "The nurse was very [sympathetic] to patients.",
         "sentence_tr": "Hemşire hastalara karşı çok anlayışlıydı."
       }
@@ -32067,7 +32067,7 @@
       {
         "word": "temptation",
         "type": "isim",
-        "meaning": "cazibe, nefse uyan şey",
+        "meaning": "cazibe, ayartma",
         "sentence": "She resisted the [temptation] to eat chocolate.",
         "sentence_tr": "Çikolata yeme cazibesine direndi."
       },
@@ -32637,7 +32637,7 @@
         "type": "sıfat",
         "meaning": "zamanında",
         "sentence": "Her warning was a [timely] reminder today.",
-        "sentence_tr": "Onun uyarısı bugün zamanında bir hatırlatmaydı."
+        "sentence_tr": "Onun uyarısı bugün tam zamanında bir hatırlatmaydı."
       }
     ]
   },
@@ -33022,8 +33022,8 @@
         "word": "traumatic",
         "type": "sıfat",
         "meaning": "travmatik",
-        "sentence": "Losing a loved job is highly [traumatic].",
-        "sentence_tr": "Sevilen bir işi kaybetmek son derece travmatiktir."
+        "sentence": "Losing a loved one is highly [traumatic].",
+        "sentence_tr": "Sevilen birini kaybetmek son derece travmatiktir."
       }
     ]
   },
@@ -33061,7 +33061,7 @@
         "type": "isim",
         "meaning": "tedavi, muamele",
         "sentence": "The sick patient received a special [treatment].",
-        "sentence_tr": "Hasta olan hasta özel bir tedavi gördü."
+        "sentence_tr": "Hasta kişi özel bir tedavi gördü."
       }
     ]
   },
@@ -33192,9 +33192,9 @@
       {
         "word": "troublesome",
         "type": "sıfat",
-        "meaning": "sıkıntılı",
+        "meaning": "sorunlu, başa bela",
         "sentence": "The [troublesome] dog barked all night yesterday.",
-        "sentence_tr": "Sıkıntılı köpek dün bütün gece havladı."
+        "sentence_tr": "Sorun çıkaran köpek dün bütün gece havladı."
       }
     ]
   },
@@ -33239,7 +33239,7 @@
         "type": "fiil",
         "meaning": "güvenmek",
         "sentence": "You can safely [trust] your best friend.",
-        "sentence_tr": "En iyi arkadaşına güvenle güvenebilirsin."
+        "sentence_tr": "En iyi arkadaşına rahatça güvenebilirsin."
       },
       {
         "word": "trustworthy",
@@ -33296,7 +33296,7 @@
         "type": "sıfat",
         "meaning": "nihai",
         "sentence": "Their [ultimate] goal is to win today.",
-        "sentence_tr": "Onun nihai amacı bugün kazanmaktır."
+        "sentence_tr": "Onların nihai amacı bugün kazanmaktır."
       },
       {
         "word": "ultimately",
@@ -33332,7 +33332,7 @@
       {
         "word": "unconscious",
         "type": "sıfat",
-        "meaning": "bilinçsiz",
+        "meaning": "bilinçsiz, baygın",
         "sentence": "The ambulance carried the [unconscious] driver to the hospital.",
         "sentence_tr": "Ambulans, bilinci kapalı sürücüyü hastaneye taşıdı."
       },
@@ -33924,7 +33924,7 @@
       {
         "word": "victim",
         "type": "isim",
-        "meaning": "kurban",
+        "meaning": "kurban, mağdur",
         "sentence": "The innocent [victim] described the bad event.",
         "sentence_tr": "Masum kurban kötü olayı tarif etti."
       }
@@ -34296,7 +34296,7 @@
         "type": "sıfat",
         "meaning": "uyanık",
         "sentence": "The sick baby was still [awake] yesterday.",
-        "sentence_tr": "Hasta bebek dün hala uyanıktı."
+        "sentence_tr": "Hasta bebek dün hâlâ uyanıktı."
       }
     ]
   },
@@ -34386,7 +34386,7 @@
         "type": "sıfat",
         "meaning": "savurgan",
         "sentence": "Buying many unnecessary things is very [wasteful].",
-        "sentence_tr": "Birçok gereksiz şey satın almak çok savurgancadır."
+        "sentence_tr": "Birçok gereksiz şey satın almak çok savurgan bir davranıştır."
       }
     ]
   },
@@ -34524,9 +34524,9 @@
       {
         "word": "western",
         "type": "sıfat",
-        "meaning": "batıya ait",
+        "meaning": "batıya ait, western",
         "sentence": "They love to watch old [western] movies.",
-        "sentence_tr": "Eski batı filmlerini izlemeyi severler."
+        "sentence_tr": "Eski western filmlerini izlemeyi severler."
       }
     ]
   },
@@ -34689,7 +34689,7 @@
         "type": "sıfat",
         "meaning": "kazanan, galip",
         "sentence": "He scored the [winning] goal last night.",
-        "sentence_tr": "Dün gece kazanan golü o attı."
+        "sentence_tr": "Dün gece galibiyeti getiren golü o attı."
       }
     ]
   },

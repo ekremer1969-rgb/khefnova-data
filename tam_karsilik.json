@@ -5,31 +5,31 @@
   "dir": "en_tr",
   "field": "saglik",
   "src": "Regular physical activity may reduce the risk of heart disease, but it cannot completely prevent it in people with a family history.",
-  "ok": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltabilir; ancak ailesinde öykü bulunan kişilerde bu hastalığı tamamen önleyemez.",
+  "ok": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltabilir; ancak aile öyküsü bulunan kişilerde bu hastalığı tamamen önleyemez.",
   "d": [
    {
-    "t": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltır; ancak ailesinde öykü bulunan kişilerde bu hastalığı tamamen önleyemez.",
+    "t": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltır; ancak aile öyküsü bulunan kişilerde bu hastalığı tamamen önleyemez.",
     "tag": "kip",
     "key": "may reduce",
     "bait": "riskini azaltır",
     "why": "Kaynakta 'may reduce' (azaltabilir) var; bu şık 'azaltır' diyerek olasılığı kesinliğe çeviriyor."
    },
    {
-    "t": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltabilir; ancak ailesinde öykü bulunan kişilerde bu hastalığı hiçbir şekilde önleyemez.",
+    "t": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltabilir; ancak aile öyküsü bulunan kişilerde bu hastalığı hiçbir şekilde önleyemez.",
     "tag": "kapsam",
     "key": "cannot completely prevent",
     "bait": "hiçbir şekilde önleyemez",
     "why": "'cannot completely prevent' = tamamen önleyemez, yani kısmen önleyebilir. 'Hiçbir şekilde' etkiyi sıfıra indiriyor."
    },
    {
-    "t": "Düzenli fiziksel aktivite, ailesinde öykü bulunan kişilerde bu hastalık tamamen önlenemediği için kalp hastalığı riskini azaltabilir.",
+    "t": "Düzenli fiziksel aktivite, aile öyküsü bulunan kişilerde bu hastalık tamamen önlenemediği için kalp hastalığı riskini azaltabilir.",
     "tag": "iliski",
     "key": "but",
     "bait": "tamamen önlenemediği için",
     "why": "Kaynaktaki 'but' bir zıtlık bağlar; bu şık iki fikir arasına uydurma bir sebep-sonuç ilişkisi ('… için') koyuyor."
    },
    {
-    "t": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltabilir; ancak ailesinde öykü bulunan kişilerde bu hastalığı tamamen önleyebilir.",
+    "t": "Düzenli fiziksel aktivite kalp hastalığı riskini azaltabilir; ancak aile öyküsü bulunan kişilerde bu hastalığı tamamen önleyebilir.",
     "tag": "ters",
     "key": "cannot",
     "bait": "tamamen önleyebilir",
@@ -2898,7 +2898,7 @@
     "tag": "kapsam",
     "key": "almost any other nation",
     "bait": "başına diğer tüm ülkelerden",
-    "why": "'almost any' = neredeyse her; 'neredeyse' düşünce ülke istisnasız birinci oluyor."
+    "why": "'almost any' = neredeyse her; 'neredeyse' sözcüğü düşünce ülke istisnasız birinci oluyor."
    },
    {
     "t": "Ülke, küçük olmasına rağmen neredeyse diğer tüm ülkelerden daha fazla Nobel ödülü sahibi yetiştirmiştir.",

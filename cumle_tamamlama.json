@@ -67,7 +67,7 @@
     "d_mantik": "resulting in an immediate decline in students' ability to use basic computer software",
     "d_ilgisiz": "although primary school attendance has reached nearly one hundred percent nationwide",
     "tr": "Milli Eğitim Bakanlığı, öğrencileri modern işgücünün hızla değişen taleplerine hazırlamayı umarak müfredatı dijital okuryazarlığa daha fazla odaklanacak şekilde revize etti.",
-    "why": "Cümlede müfredatın revize edilme AMACI anlatılmaktadır. Doğru şık, kısaltılmış bir amaç yapısı olan 'hoping to...' (umarak) ile bu eylemin gerekçesini tamamlar. Yapısal çeldirici 'so that... will have trained... before... started' şeklinde uyumsuz zamanlar kullanarak dilbilgisi hatası yapar. Mantık çeldiricisi müfredat değişikliğinin öğrencilerin bilgisayar becerilerini anında düşürdüğünü söyleyerek mantığa aykırı bir sonuç sunar. İlgisiz çeldirici ise okula kaydolma oranlarına değinerek dijital okuryazarlık konusundan sapar."
+    "why": "Cümlede müfredatın revize edilme AMACI anlatılmaktadır. Doğru şık, 'hoping to...' (umarak) yapısıyla bu eylemin beklenen amacını anlamca ve gramerce doğru biçimde tamamlar. Yapısal çeldirici 'so that... will have trained... before... started' şeklinde uyumsuz zamanlar kullanarak dilbilgisi hatası yapar. Mantık çeldiricisi müfredat değişikliğinin öğrencilerin bilgisayar becerilerini anında düşürdüğünü söyleyerek mantığa aykırı bir sonuç sunar. İlgisiz çeldirici ise okula devam oranlarına değinerek dijital okuryazarlık konusundan sapar."
   },
   {
     "id": "ct008",
@@ -497,17 +497,17 @@
     "d_mantik": "as a consequence, simple bacterial infections will be cured within a few hours",
     "d_ilgisiz": "Alexander Fleming discovered penicillin in nineteen twenty-eight by accident",
     "tr": "Antibiyotiğe dirençli bakterilerin oluşturduğu tehdit o kadar büyüktür ki, modern tıp yakında yaygın enfeksiyonlar için etkili tedavilerden yoksun kalabilir.",
-    "why": "Cümle başındaki devrik 'Such is + isim + sıfat fiil' kalıbı, bir SONUÇ bildiren 'such ... that' yapısının bir parçasıdır ve boşlukta 'that' ile başlayan bir yan cümle gerektirir. Doğru şık bu yapıyı tamamlar. Yapısal çeldirici 'because' kullanarak kalıbı yarım bırakır. Mantık çeldiricisi dirençli bakterilerin yarattığı büyük tehdide rağmen enfeksiyonların 'birkaç saatte iyileşebileceğini' söyleyerek mantık hatası yapar. İlgisiz çeldirici ise penisilinin tesadüfen keşfinden bahsederek konudan uzaklaşır."
+    "why": "Cümle başındaki devrik 'Such is the threat ...' kalıbı, bir SONUÇ bildiren 'such ... that' yapısının bir parçasıdır ve boşlukta 'that' ile başlayan bir yan cümle gerektirir. Doğru şık bu yapıyı tamamlar. Yapısal çeldirici 'because' kullanarak kalıbı yarım bırakır. Mantık çeldiricisi dirençli bakterilerin yarattığı büyük tehdide rağmen enfeksiyonların 'birkaç saatte iyileşebileceğini' söyleyerek mantık hatası yapar. İlgisiz çeldirici ise penisilinin tesadüfen keşfinden bahsederek konudan uzaklaşır."
   },
   {
     "id": "ct051",
     "stem": "____, the city council decided to mandate green roofs on all newly constructed commercial buildings.",
     "correct": "With a view to reducing the urban heat island effect and improving air quality",
-    "d_yapisal": "In order that they can decrease the total construction costs of modern offices",
+    "d_yapisal": "In order that to decrease the total construction costs of modern offices",
     "d_mantik": "Due to the fact that urban areas are much cooler than rural surroundings",
     "d_ilgisiz": "While many architects prefer using sustainable materials like bamboo and timber",
     "tr": "Kentsel ısı adası etkisini azaltmak ve hava kalitesini artırmak amacıyla, belediye meclisi yeni inşa edilen tüm ticari binalarda yeşil çatıları zorunlu kılmaya karar verdi.",
-    "why": "Ana cümledeki karar bir AMAÇ ilişkisine dayanmaktadır. 'With a view to + V-ing' (-mek amacıyla) yapısı, yeşil çatı kararının amacını (ısı adası etkisini azaltmak) açıklayarak cümleyi doğru şekilde tamamlar. Yapısal çeldirici 'In order that' kalıbından sonra öznesiz bir yapı değil tam cümle gelmesi gerektiği için gramer hatası içerir (ayrıca yeşil çatı maliyet düşürmez). Mantık çeldiricisi şehirlerin kırsal alanlardan 'daha soğuk' olduğunu söyleyerek kentsel ısı adası gerçeğine ve yeşil çatı kararına aykırı bir mantık sunar. İlgisiz çeldirici ise bambu gibi malzemelerin tercih edilmesinden bahseder ama bu belediyenin çatı kararıyla doğrudan ilişkili değildir."
+    "why": "Ana cümledeki karar bir AMAÇ ilişkisine dayanmaktadır. 'With a view to + V-ing' (-mek amacıyla) yapısı, yeşil çatı kararının amacını (ısı adası etkisini azaltmak) açıklayarak cümleyi doğru şekilde tamamlar. Yapısal çeldirici 'In order that' bağlacından sonra özne + fiil içeren tam bir cümle gelmesi gerekirken mastar ('to decrease') getirdiği için gramer hatası içerir (ayrıca yeşil çatı inşa maliyetini düşürmez). Mantık çeldiricisi şehirlerin kırsal alanlardan 'daha soğuk' olduğunu söyleyerek kentsel ısı adası gerçeğine ve yeşil çatı kararına aykırı bir mantık sunar. İlgisiz çeldirici ise bambu gibi malzemelerin tercih edilmesinden bahseder ama bu belediyenin çatı kararıyla doğrudan ilişkili değildir."
   },
   {
     "id": "ct052",
@@ -661,7 +661,7 @@
   },
   {
     "id": "ct067",
-    "stem": "By the time Isaac Newton published his groundbreaking work *Principia Mathematica* in 1687, ____.",
+    "stem": "By the time Isaac Newton published his groundbreaking work Principia Mathematica in 1687, ____.",
     "correct": "the scientific revolution had already fundamentally challenged geocentric views of the universe",
     "d_yapisal": "he will have formulated the three fundamental laws of classical mechanics",
     "d_mantik": "most European scholars would have rejected the idea of gravity as a fantasy",
@@ -673,11 +673,11 @@
     "id": "ct068",
     "stem": "____, school districts must provide adequate funding and specialized training for teachers.",
     "correct": "With a view to integrating students with diverse learning needs into mainstream classrooms",
-    "d_yapisal": "Lest they want to decrease the overall academic performance of their top students",
+    "d_yapisal": "Lest decreasing the overall academic performance of their top students",
     "d_mantik": "Due to the fact that students with special needs require absolutely no additional support",
     "d_ilgisiz": "Education has been recognized as a fundamental human right by the United Nations",
     "tr": "Farklı öğrenme ihtiyaçları olan öğrencileri genel sınıflara entegre etmek amacıyla, okul bölgeleri öğretmenler için yeterli finansman ve özel eğitim sağlamalıdır.",
-    "why": "Ana cümledeki okul bütçesi ve öğretmen eğitimi gerekliliği bir AMAÇ ilişkisine dayanmaktadır. 'With a view to + V-ing' (-mek amacıyla) edat grubu, özel ihtiyaçlı öğrencilerin kaynaştırılması amacını doğru şekilde ortaya koyar. Yapısal çeldirici 'Lest' yapısından sonra genellikle olumsuz anlamda 'want' gibi istemek fiilleri bu biçimde kullanılmaz ve anlamca 'üst düzey öğrencilerin başarısını düşürmemek için' ifadesi bu yatırımla uyuşmaz. Mantık çeldiricisi özel ihtiyaçlı çocukların 'hiçbir ek desteğe ihtiyacı olmadığını' söyleyerek sağlanan bütçe ve eğitim zorunluluğuyla çelişir. İlgisiz çeldirici ise eğitimin bir insan hakkı olduğuna dair genel bir beyandır ama öğretmen eğitim bütçesiyle doğrudan ilişkili değildir."
+    "why": "Ana cümledeki okul bütçesi ve öğretmen eğitimi gerekliliği bir AMAÇ ilişkisine dayanmaktadır. 'With a view to + V-ing' (-mek amacıyla) edat grubu, özel ihtiyaçlı öğrencilerin kaynaştırılması amacını doğru şekilde ortaya koyar. Yapısal çeldirici 'Lest' bağlacından sonra özne + fiil içeren bir yan cümle gelmesi gerekirken 'decreasing' (Ving) getirdiği için gramer hatası içerir; anlamca da 'üst düzey öğrencilerin başarısını düşürmemek için' ifadesi bu yatırımla uyuşmaz. Mantık çeldiricisi özel ihtiyaçlı çocukların 'hiçbir ek desteğe ihtiyacı olmadığını' söyleyerek sağlanan bütçe ve eğitim zorunluluğuyla çelişir. İlgisiz çeldirici ise eğitimin bir insan hakkı olduğuna dair genel bir beyandır ama öğretmen eğitim bütçesiyle doğrudan ilişkili değildir."
   },
   {
     "id": "ct069",
@@ -1037,7 +1037,7 @@
     "d_mantik": "its cultural influence would have disappeared instantly without leaving any trace",
     "d_ilgisiz": "archaeologists discovered the palace of Knossos in the early twentieth century",
     "tr": "Girit'teki antik Minos uygarlığı bir yanardağ patlamasıyla harap olmasaydı, Ege ticaret ağlarına yüzyıllar boyunca hükmetmeye devam edebilirdi.",
-    "why": "Cümle başındaki 'Had the ... civilization ... not been devastated' yapısı, geçmişe yönelik gerçekleşmemiş bir koşul bildiren KOŞUL (Type 3 Inversion) yapısıdır ve ana cümlede 'would/could/might have V3' yapısı gerektirir. Doğru şık hem gramer hem de mantık açısından koşulu doğru tamamlar. Yapısal çeldirici 'will establish' kullanarak zaman uyumsuzluğu yaratır. Mantık çeldiricisi yanardağ patlamasaydı kültürün 'iz bırakmadan anında yok olacağını' söyleyerek mantık hatası yapar. İlgisiz çeldirici ise Knossos Sarayı'nın keşif tarihini verir ama bu ticaret hakimiyeti koşuluyla alakasızdır."
+    "why": "Cümle başındaki 'Had the ... civilization ... not been devastated' yapısı, geçmişe yönelik gerçekleşmemiş bir koşul bildiren KOŞUL (Type 3 Inversion) yapısıdır ve ana cümlede 'would/could/might have V3' yapısı gerektirir. Doğru şık hem gramer hem de mantık açısından koşulu doğru tamamlar. Yapısal çeldirici 'will establish' kullanarak zaman uyumsuzluğu yaratır. Mantık çeldiricisi yanardağ patlamasaydı kültürün 'iz bırakmadan anında yok olacağını' söyleyerek mantık hatası yapar. İlgisiz çeldirici ise Knossos Sarayı'nın keşif tarihini verir ama bu ticaret hâkimiyeti koşuluyla alakasızdır."
   },
   {
     "id": "ct105",
@@ -1293,11 +1293,11 @@
     "id": "ct130",
     "stem": "____, the linguistic patterns of the ancient empire underwent dramatic changes over several centuries.",
     "correct": "As different ethnic groups migrated into the imperial territories and intermingled",
-    "d_yapisal": "During the period of rapid territorial expansion which was led by the military commanders",
+    "d_yapisal": "Because the period of rapid territorial expansion led by the military commanders",
     "d_mantik": "Because the royal court successfully isolated the nation from all external cultural influences",
     "d_ilgisiz": "Linguistics is the scientific study of language and its structure across different cultures",
     "tr": "Farklı etnik gruplar imparatorluk topraklarına göç edip birbirine karıştıkça, antik imparatorluğun dilsel kalıpları birkaç yüzyıl boyunca dramatik değişikliklere uğradı.",
-    "why": "Ana cümle dildeki dramatik değişikliklerden bahsettiği için boşlukta bunun sebebini veya sürecini açıklayan bir yapı aranmalıdır. Doğru şık, farklı etnik grupların göç edip karışmasını ('As...' bağlacıyla) bu sürecin sebebi olarak göstererek anlamı tamamlar. Yapısal çeldirici 'During...' ile başlayan bir edat öbeğidir, dilsel değişime doğrudan etki eden bir özne veya eylem içermez. Mantık çeldiricisi ulusu izole etmenin dilsel değişime neden olduğunu söyleyerek mantıksal bir çelişki sunar (izolasyon değişimi azaltır). İlgisiz çeldirici dilbilimin genel tanımıdır."
+    "why": "Ana cümle dildeki dramatik değişikliklerden bahsettiği için boşlukta bunun sebebini veya sürecini açıklayan bir yapı aranmalıdır. Doğru şık, farklı etnik grupların göç edip karışmasını ('As...' bağlacıyla) bu sürecin sebebi olarak göstererek anlamı tamamlar. Yapısal çeldirici 'Because' ile başlayıp ardından fiil içermeyen bir isim öbeği getirdiği için (Because + özne + fiil olmalıdır) gramer hatası içerir. Mantık çeldiricisi ulusu izole etmenin dilsel değişime neden olduğunu söyleyerek mantıksal bir çelişki sunar (izolasyon değişimi azaltır). İlgisiz çeldirici dilbilimin genel tanımıdır."
   },
   {
     "id": "ct131",
@@ -1891,12 +1891,12 @@
   },
   {
     "id": "ct190",
-    "stem": "Once historians analyze the newly discovered clay tablets using advanced carbon dating, ____.",
+    "stem": "Once historians analyze the newly discovered clay tablets using advanced thermoluminescence dating, ____.",
     "correct": "they will be able to reconstruct the trade networks of ancient Mesopotamian merchants",
     "d_yapisal": "since the chemical composition of the clay reveals the exact geographic origin of the artifacts",
     "d_mantik": "the actual age of the civilization had remained completely unknown to the research community",
     "d_ilgisiz": "Mesopotamia is often referred to as the cradle of civilization due to its early urban centers",
-    "tr": "Tarihçiler yeni keşfedilen kil tabletleri gelişmiş karbon tarihleme yöntemini kullanarak analiz ettiklerinde, antik Mezopotamya tüccarlarının ticaret ağlarını yeniden inşa edebilecekler.",
+    "tr": "Tarihçiler yeni keşfedilen kil tabletleri gelişmiş termolüminesans tarihleme yöntemini kullanarak analiz ettiklerinde, antik Mezopotamya tüccarlarının ticaret ağlarını yeniden inşa edebilecekler.",
     "why": "Cümledeki 'Once' (-ince / dığında) bir ZAMAN/KOŞUL ilişkisi kurar. Tabletlerin analiz edilmesinin ardından gelecekte yapılabilecek eylemi bildiren doğru şık (will be able to) zaman uyumunu sağlar. Yapısal çeldirici 'since' ile başladığından cümlenin ana cümlesiz kalmasına sebep olur. Mantık çeldiricisi geçmiş zaman (had remained) kullanarak 'Once'lı yapının gerektirdiği gelecek yönelimli zaman uyumunu bozar. İlgisiz çeldirici Mezopotamya'nın unvanından bahseden ilgisiz bir cümledir."
   },
   {
@@ -1967,7 +1967,7 @@
     "d_mantik": "as a result, standard terrestrial organisms can easily adapt to this aquatic ecosystem",
     "d_ilgisiz": "oceanographers first discovered these volcanic vents in the late twentieth century using submersibles",
     "tr": "Derin deniz hidrotermal bacalarını çevreleyen çevre koşulları o kadar uç noktadadır ki, bu habitatlarda yalnızca son derece özelleşmiş ekstremofil mikroorganizmalar hayatta kalabilir.",
-    "why": "Cümle başındaki devrik 'So extreme are...' yapısı, bir SONUÇ ilişkisi kuran 'so ... that' kalıbının bir parçasıdır ve boşlukta 'that' ile başlayan bir yan cümle gerektirir. Doğru şık bu yapıyı kurar ve zorlu koşulların sonucunu açıklar. Yapısal çeldirici 'because of' edat grubu ile devam ederek kalıbı yarım bırakır. Mantık çeldiricisi karasal canlıların bu sistememe 'kolayca uyum sağlayacağını' iddia ederek ekstrem koşullar gerçeğiyle çelişir. İlgisiz çeldirici bacaların keşif tarihinden bahseden ilgisiz bir cümledir."
+    "why": "Cümle başındaki devrik 'So extreme are...' yapısı, bir SONUÇ ilişkisi kuran 'so ... that' kalıbının bir parçasıdır ve boşlukta 'that' ile başlayan bir yan cümle gerektirir. Doğru şık bu yapıyı kurar ve zorlu koşulların sonucunu açıklar. Yapısal çeldirici 'because of' edat grubu ile devam ederek kalıbı yarım bırakır. Mantık çeldiricisi karasal canlıların bu sisteme 'kolayca uyum sağlayacağını' iddia ederek ekstrem koşullar gerçeğiyle çelişir. İlgisiz çeldirici bacaların keşif tarihinden bahseden ilgisiz bir cümledir."
   },
   {
     "id": "ct198",
@@ -2086,7 +2086,7 @@
     "d_yapisal": "due to the expansion of subway lines and the reduction of bus ticket prices",
     "d_mantik": "traffic congestion in the metropolitan area will be resolved overnight without delay",
     "d_ilgisiz": "urban planning experts advise that cities should be designed around pedestrian zones",
-    "tr": "Belediye yönetimi kentsel toplu taşıma için ek fon ayırsa bile, çoğu çalışan kolaylık olması açısından kişisel araçlarını kullanmaya muhtemelen devam edecektir.",
+    "tr": "Belediye yönetimi kentsel toplu taşıma için ek fon ayırsa bile, işe gidip gelenlerin çoğu kolaylık nedeniyle kişisel araçlarını kullanmaya muhtemelen devam edecektir.",
     "why": "Cümledeki 'Even if' (-se bile) bir KOŞUL/ZITLIK ilişkisi kurar: toplu taşımaya para yatırılmasına rağmen insanların alışkanlıklarını değiştirmemesi beklenir. Doğru şık bu zıtlığı çok iyi verir. Yapısal çeldirici 'due to...' ile başlayan bir isim öbeğidir ve cümleyi ana cümlesiz bırakır. Mantık çeldiricisi trafik sorununun 'bir gecede çözüleceğini' söyleyerek 'even if' bağlacının gerektirdiği olumsuz/dirençli durumla çelişir. İlgisiz çeldirici ise yaya bölgeleriyle ilgili genel bir uzman görüşü sunar ama yatırımla bağlantılı zıtlığı kurmaz."
   },
   {
@@ -2276,7 +2276,7 @@
     "d_yapisal": "which has already devastated extensive woodland areas across North America",
     "d_mantik": "local biodiversity immediately increases as new plant species begin to flourish",
     "d_ilgisiz": "forestry departments are responsible for managing public lands and timber harvests",
-    "tr": "İstilacı zümrüt kül sondaj böceği yerli bir sert ağaç ormanına girdiğinde, son derece kısa bir süre içinde milyonlarca olgun dişbudak ağacını yok edebilir.",
+    "tr": "İstilacı zümrüt dişbudak delici böceği yerli bir sert ağaç ormanına girdiğinde, son derece kısa bir süre içinde milyonlarca olgun dişbudak ağacını yok edebilir.",
     "why": "Cümledeki 'Once' (-ince / -er -mez) bağlacı bir ZAMAN ve KOŞUL ilişkisi kurar. Böceğin ormana girmesinin kaçınılmaz ve yıkıcı sonucunu veren doğru şık anlamı tamamlar. Yapısal çeldirici 'which' sıfat tümleci ile devam ettiği için ana cümlesiz bir yapı bırakır. Mantık çeldiricisi istilacı zararlı bir böceğin ormana girmesiyle 'biyoçeşitliliğin hemen artacağını' söyleyerek mantık hatası yapar. İlgisiz çeldirici ise orman bakanlıklarının genel görevlerinden bahseden ilgisiz bir bilgidir."
   },
   {
@@ -2311,7 +2311,7 @@
   },
   {
     "id": "ct232",
-    "stem": "No matter how much efforts the diplomatic delegation made during the peace summit, ____.",
+    "stem": "No matter how much effort the diplomatic delegation made during the peace summit, ____.",
     "correct": "they could not persuade the warring factions to sign a long-term ceasefire agreement",
     "d_yapisal": "because of the deeply rooted historical grievances and territorial disputes between the nations",
     "d_mantik": "they successfully negotiated a comprehensive treaty that resolved all border issues instantly",
@@ -2364,7 +2364,7 @@
     "stem": "Lest the delicate electronic components of the deep-space satellite should freeze, ____.",
     "correct": "engineers installed small radioisotope heaters to maintain a stable operating temperature",
     "d_yapisal": "for fear of the extreme sub-zero temperatures in the shadow of planetary bodies",
-    "d_mantik": "they decided to completely deactivate all thermal regulation systems before launching the orbit",
+    "d_mantik": "they decided to completely deactivate all thermal regulation systems before launching the satellite",
     "d_ilgisiz": "satellites are launched into orbit using powerful multi-stage rocket propulsion systems",
     "tr": "Derin uzay uydusunun hassas elektronik bileşenlerinin donmaması için, mühendisler istikrarlı bir çalışma sıcaklığını korumak amacıyla küçük radyoizotop ısıtıcılar kurdular.",
     "why": "Cümle başındaki 'Lest' (olmasın diye / korkusuyla) yapısı bir AMAÇ/KORKU ilişkisi kurar. Donma tehlikesine karşı alınan tedbiri (ısıtıcı kurulması) açıklayan doğru şık anlamı mükemmel tamamlar. Yapısal çeldirici 'for fear of' ile başlayıp yan cümleyi ana cümlesiz bıraktığı için gramer olarak yanlıştır. Mantık çeldiricisi donmayı önlemek için 'tüm termal sistemleri kapattıklarını' iddia ederek mantık hatası yapar. İlgisiz çeldirici ise uyduların roketlerle fırlatılma sürecini anlatan ilgisiz bir bilgidir."
@@ -2372,11 +2372,11 @@
   {
     "id": "ct238",
     "stem": "Once the agricultural runoff containing synthetic fertilizers enters the freshwater lake, ____.",
-    "correct": "it triggers rapid algal blooms that deplete oxygen levels and suffocate marine life",
+    "correct": "it triggers rapid algal blooms that deplete oxygen levels and suffocate aquatic life",
     "d_yapisal": "which has led to the formation of massive dead zones in coastal waters around the globe",
     "d_mantik": "the overall water quality improves significantly, benefiting the local fish populations",
     "d_ilgisiz": "eutrophication is the scientific term used to describe nutrient enrichment in aquatic bodies",
-    "tr": "Sentetik gübreler içeren tarımsal akıntılar tatlı su gölüne girdiğinde, oksijen seviyelerini tüketen ve deniz yaşamını boğan hızlı alg patlamalarını tetikler.",
+    "tr": "Sentetik gübreler içeren tarımsal akıntılar tatlı su gölüne girdiğinde, oksijen seviyelerini tüketen ve sucul yaşamı boğan hızlı alg patlamalarını tetikler.",
     "why": "Cümledeki 'Once' (-ince / -er -mez) bağlacı bir ZAMAN ve KOŞUL ilişkisi kurar. Gübreli akıntıların göle girmesinin kaçınılmaz ekolojik sonucunu (alg patlaması ve oksijensizlik) veren doğru şık anlamı tamamlar. Yapısal çeldirici 'which' ile sıfat tümleci kurduğu için ana cümlesiz yapı hatası yaratır. Mantık çeldiricisi gübreli suyun göle girmesiyle 'su kalitesinin artacağını' söyleyerek ekolojik gerçeklerle çelişir. İlgisiz çeldirici ise ötrofikasyon teriminin bilimsel tanımını yapan ilgisiz bir bilgidir."
   },
   {
@@ -2395,7 +2395,7 @@
     "correct": "Active individuals who exercise regularly maintain high muscular density and cardiovascular health",
     "d_yapisal": "Although physical inactivity is closely linked to various chronic cardiovascular conditions",
     "d_mantik": "People who spend most of their day sitting in offices experience enhanced overall physical fitness",
-    "d_ilgisiz": "muscular dystrophy is a group of genetic diseases that cause progressive weakness of muscle fibers",
+    "d_ilgisiz": "Muscular dystrophy is a group of genetic diseases that cause progressive weakness of muscle fibers",
     "tr": "Hareketsiz meslektaşları kas erimesi ve metabolik yavaşlamadan muzdaripken, düzenli egzersiz yapan aktif bireyler yüksek kas yoğunluğunu ve kardiyovasküler sağlığı korurlar.",
     "why": "Cümledeki 'whereas' (-e karşılık / oysa) bağlacı doğrudan bir KARŞILAŞTIRMA/ZITLIK ilişkisi kurar. Hareketsiz insanların olumsuz durumuna karşılık aktif insanların kas yoğunluğunu ve sağlığını korumasını sunan doğru şık bu zıtlığı mükemmel tamamlar. Yapısal çeldirici 'Although' ile başladığı için iki yan cümleyi arka arkaya bağlar ve ana cümlesiz yapı hatası yaratır. Mantık çeldiricisi gün boyu oturan kişilerin 'fiziksel uygunluğunun arttığını' söyleyerek hem bilimsel gerçekle hem de 'sedentary' kelimesinin olumsuz akışıyla çelişir. İlgisiz çeldirici ise kas distrofisi hastalığının tanımını yapan ilgisiz tıbbi bir bilgidir."
   },
@@ -2436,7 +2436,7 @@
     "d_yapisal": "when the severe ocean storm started to compromise the stability of the main deck",
     "d_mantik": "before the scientists aboard could even turn on the primary monitoring screens in the lab",
     "d_ilgisiz": "which was equipped with state-of-the-art sonar mapping technology designed by marine engineers",
-    "tr": "Derin deniz araştırma gemisi robotik denizaltısını konuşlandırır konuşlandırmaz, denizaltı daha önce belgelenmemiş bir hidrotermal çatlak topluluğunun yüksek çözünürlüklü görüntülerini yakaladı.",
+    "tr": "Derin deniz araştırma gemisi robotik denizaltısını konuşlandırır konuşlandırmaz, denizaltı daha önce belgelenmemiş bir hidrotermal baca topluluğunun yüksek çözünürlüklü görüntülerini yakaladı.",
     "why": "'No sooner ... than' kalıbı, ardışık gerçekleşen eylemleri ifade eden devrik bir ZAMAN ilişkisidir. Doğru şık, kalıbın tamamlayıcısı olan 'than' ile başlayarak anlamlı bir ardışıklık sunar. Yapısal çeldirici 'when' kullandığı için dilbilgisel olarak yanlıştır (scarcely/hardly ile 'when' kullanılır). Mantık çeldiricisi bilim insanlarının ekranları açmasından 'önce' gerçekleştiğini iddia ederek kronolojik ve mantıksal hata yapar. İlgisiz çeldirici ise 'which' sıfat tümleci ile kalıbı yarım bırakır."
   },
   {
@@ -2527,7 +2527,7 @@
     "d_mantik": "the local authorities have completely dismantled the existing light rail transit network",
     "d_ilgisiz": "carbon dioxide is a greenhouse gas that traps heat within the Earth's lower atmosphere",
     "tr": "Şehrin genel karbon ayak izini azaltmak amacıyla, büyükşehir belediyesi tüm halk otobüsü filosunu elektrikli modellere dönüştürme kararı aldı.",
-    "why": "'With a view to' (-mek amacıyla / hedefiyle) yapısı bir AMAÇ ilişkisi kurar ve ardından gerund (-ing) alır. Boşlukta, bu amacı gerçekleştirecek ana eylem aranmalıdır. Doğru şık otobüslerin elektriğe dönüştürülmesini vererek bu amacı mantıken tamamlar. Yapısal çeldirici 'because' ile başladığı için cümlenin ana cümlesiz kalmasına yol açar. Mantık çeldiricisi karbon azaltma amacıyla hafif raylı sistemi sökmenin çelişeceğini göz ardı eder. İlgisiz çeldirici ise karbondioksitin genel bir tanımını yapar ama azaltma amacıyla doğrudan bir eylem sunmaz."
+    "why": "'With a view to' (-mek amacıyla / hedefiyle) yapısı bir AMAÇ ilişkisi kurar ve ardından gerund (-ing) alır. Boşlukta, bu amacı gerçekleştirecek ana eylem aranmalıdır. Doğru şık otobüslerin elektriğe dönüştürülmesini vererek bu amacı mantıken tamamlar. Yapısal çeldirici 'because' ile başladığı için cümlenin ana cümlesiz kalmasına yol açar. Mantık çeldiricisi karbon azaltma amacına rağmen hafif raylı sistemi tamamen söktüklerini söyleyerek amaçla çelişir. İlgisiz çeldirici ise karbondioksitin genel bir tanımını yapar ama azaltma amacıyla doğrudan bir eylem sunmaz."
   },
   {
     "id": "ct254",
@@ -2626,7 +2626,7 @@
     "d_yapisal": "when the stock market index plummeted due to concerns over user privacy and cybersecurity",
     "d_mantik": "before the technology department could write the initial conceptual draft of the software",
     "d_ilgisiz": "which was intended to completely phase out the circulation of traditional paper banknotes",
-    "tr": "Merkezi hükümet dijital para biriminin tanıtılacağını duyurur duyurur duyurmaz, ticari bankalar seçkin perakende müşterileriyle deneme işlemleri yapmaya başladı.",
+    "tr": "Merkezi hükümet dijital para biriminin kullanıma sunulacağını duyurur duyurmaz, ticari bankalar belirli perakende müşterileriyle deneme işlemleri yapmaya başladı.",
     "why": "'No sooner ... than' yapısı bir ZAMAN ilişkisidir ve devrik yapıyla kurulan eylemlerin ardışıklığını ifade eder. Boşluk 'than' ile tamamlanmalıdır. Doğru şık bu yapıyı kurar ve dijital paranın duyurulmasının hemen ardından bankaların denemelere başladığını belirtir. Yapısal çeldirici 'when' kullandığı için gramer olarak yanlıştır. Mantık çeldiricisi yazılım taslağı yazılmadan 'önce' işlemlerin başladığını iddia ederek kronolojik çelişki sunar. İlgisiz çeldirici 'which' sıfat tümleci ile cümleyi ana cümlesiz bırakır."
   },
   {
@@ -2713,7 +2713,7 @@
     "id": "ct272",
     "stem": "____, with a view to enhancing their global export competitiveness in high-tech industries.",
     "correct": "The government has recently launched substantial tax incentives for domestic semiconductor manufacturers",
-    "d_yapisal": "whereas neighboring countries have decided to increase import tariffs on all foreign machinery",
+    "d_yapisal": "Whereas neighboring countries have decided to increase import tariffs on all foreign machinery",
     "d_mantik": "Many local tech firms have permanently closed down their research and development centers to cut costs",
     "d_ilgisiz": "High-tech industries require highly skilled labor and immense continuous investments in infrastructure",
     "tr": "Yüksek teknoloji endüstrilerinde küresel ihracat rekabet güçlerini artırmak amacıyla, hükümet son zamanlarda yerli yarı iletken üreticileri için önemli vergi teşvikleri başlattı.",
@@ -2773,7 +2773,7 @@
     "id": "ct278",
     "stem": "____, whereas their sedentary agriculturalist neighbors suffered from frequent crop failures and malnutrition.",
     "correct": "Nomadic pastoralists in ancient Central Asia maintained a highly resilient and protein-rich diet",
-    "d_yapisal": "Although nomadic pastoralists migrated constantly search of fresh pastures for their herds",
+    "d_yapisal": "Although nomadic pastoralists migrated constantly in search of fresh pastures for their herds",
     "d_mantik": "Sedentary farmers cultivated immense fields of wheat and barley that guaranteed perpetual food security",
     "d_ilgisiz": "Central Asia is characterized by vast arid steppes and dramatic seasonal temperature fluctuations",
     "tr": "Yerleşik tarımcı komşuları sık sık ürün kıtlığı ve yetersiz beslenmeden muzdaripken, antik Orta Asya'daki göçebe çobanlar son derece dayanıklı ve protein açısından zengin bir diyeti sürdürdüler.",
@@ -2923,11 +2923,11 @@
     "id": "ct293",
     "stem": "Microplastics have now been detected in even the most remote marine trenches, ____.",
     "correct": "illustrating the pervasive nature of plastic pollution across the entire biosphere",
-    "d_yapisal": "which is showing how plastics are manufactured from refined crude oil and chemical additives",
+    "d_yapisal": "which showing how plastics are manufactured from refined crude oil and chemical additives",
     "d_mantik": "demonstrating that deep-sea organisms are completely immune to synthetic toxins",
     "d_ilgisiz": "the Mariana Trench is the deepest known point in the Earth's oceans",
-    "tr": "Mikroplastikler artık en uzak deniz çukurlarında bile tespit edildi ve bu durum plastik kirliliğinin tüm biyosferdeki yayılımcı doğasını gözler önüne serdi.",
-    "why": "Cümle, ana cümlenin bildirdiği durumun sonucunu açıklayan bir 'participle clause' (fiilimsili kısaltma) yapısı gerektirir. Doğru şık, en derin çukurlarda mikroplastik bulunmasının kirliliğin küreselliğini gösterdiğini söyleyerek anlamı tamamlar. Yapısal çeldirici 'which is showing' kullanarak süregelen bir şimdiki zaman Relative Clause kurar ki bu tür genel bilimsel gerçeklerde tercih edilmez ve 'is showing' ifadesi yapısal olarak hantaldır. Mantık çeldiricisi mikroplastik varlığının canlıların zehirlere karşı bağışıklığı olduğunu kanıtladığını söyleyerek biyolojik bir saçmalık sunar. İlgisiz çeldirici Mariana çukurunun coğrafi tanımıdır."
+    "tr": "Mikroplastikler artık en uzak deniz çukurlarında bile tespit edildi ve bu durum plastik kirliliğinin tüm biyosfere ne kadar yaygın biçimde nüfuz ettiğini gözler önüne serdi.",
+    "why": "Cümle, ana cümlenin bildirdiği durumun sonucunu açıklayan bir 'participle clause' (fiilimsili kısaltma) yapısı gerektirir. Doğru şık, en derin çukurlarda mikroplastik bulunmasının kirliliğin küreselliğini gösterdiğini söyleyerek anlamı tamamlar. Yapısal çeldirici 'which showing' yapısında yardımcı fiil eksiktir; 'which' ile başlayan bir ilgi cümleciği tam bir fiil (is showing / shows) gerektirir, bu yüzden gramer hatası içerir. Mantık çeldiricisi mikroplastik varlığının canlıların zehirlere karşı bağışıklığı olduğunu kanıtladığını söyleyerek biyolojik bir saçmalık sunar. İlgisiz çeldirici Mariana çukurunun coğrafi tanımıdır."
   },
   {
     "id": "ct294",
@@ -2953,11 +2953,11 @@
     "id": "ct296",
     "stem": "____, agricultural productivity is bound to decline, leading to severe food shortages in the region.",
     "correct": "Unless sustainable irrigation techniques are adopted by local farmers soon",
-    "d_yapisal": "On condition that the regional water tables are completely depleted due to overuse",
+    "d_yapisal": "In spite that the regional water tables are completely depleted due to overuse",
     "d_mantik": "As long as modern fertilizer distribution networks are established across the country",
     "d_ilgisiz": "Organic farming has gained immense popularity among health-conscious consumers recently",
     "tr": "Yerel çiftçiler tarafından yakında sürdürülebilir sulama teknikleri benimsenmedikçe, tarımsal verimlilik kesinlikle düşecek ve bölgede ciddi gıda sıkıntılarına yol açacaktır.",
-    "why": "Cümledeki 'is bound to decline' (düşmesi kaçınılmazdır) ifadesi olumsuz bir gelecek sonucu gösterir. Doğru şık, 'Unless' (-medikçe) ile sulama tekniklerinin geliştirilmemesi durumunda bu felaketin olacağını belirterek KOŞUL ilişkisini hem dilbilgisi hem mantık olarak tamamlar. Yapısal çeldirici 'On condition that' (koşuluyla) bağlacından sonra 'suların tükenmesi' gibi olumsuz bir şart koşmaz, yapısal olarak uymaz. Mantık çeldiricisi modern gübre dağıtımının kurulması durumunda verimliliğin 'düşeceğini' iddia ederek mantık hatası yapar. İlgisiz çeldirici ise tüketici alışkanlıklarındaki organik tarım popülerliğinden bahseden bağımsız bir cümledir."
+    "why": "Cümledeki 'is bound to decline' (düşmesi kaçınılmazdır) ifadesi olumsuz bir gelecek sonucu gösterir. Doğru şık, 'Unless' (-medikçe) ile sulama tekniklerinin geliştirilmemesi durumunda bu felaketin olacağını belirterek KOŞUL ilişkisini hem dilbilgisi hem mantık olarak tamamlar. Yapısal çeldirici 'In spite that' kalıbı dilbilgisel olarak hatalıdır ('in spite of' ya da 'in spite of the fact that' olmalıdır) ve ödün bağlacı bu cümlede anlam kurmaz. Mantık çeldiricisi modern gübre dağıtımının kurulması durumunda verimliliğin 'düşeceğini' iddia ederek mantık hatası yapar. İlgisiz çeldirici ise tüketici alışkanlıklarındaki organik tarım popülerliğinden bahseden bağımsız bir cümledir."
   },
   {
     "id": "ct297",
@@ -2996,7 +2996,7 @@
     "d_yapisal": "that historians have begun to understand the daily lives of ancient Roman citizens",
     "d_mantik": "the volcanic eruption of Mount Vesuvius had completely vaporized all organic matter instantly",
     "d_ilgisiz": "the city was originally founded by the Osci in the central part of the Italian peninsula",
-    "tr": "Pompeii yıkıntıları on sekizinci yüzyılda sistematik olarak ortaya çıkarılana kadar, bilim insanları volkanik kül altında elde edilen olağanüstü korunma düzeyini fark edememişlerdi.",
+    "tr": "Pompei kalıntıları on sekizinci yüzyılda sistematik olarak ortaya çıkarılana kadar, bilim insanları volkanik kül altında elde edilen olağanüstü korunma düzeyini fark edememişlerdi.",
     "why": "Cümle başındaki 'Not until' yapısı, ana cümlede devrik yapı gerektiren kısıtlayıcı bir ZAMAN yapısıdır. Geçmişe ait bu yapıyı 'did + özne + yalın fiil' şeklinde devrik kuran doğru şık hem gramer kuralına uyar hem de keşifle birlikte ortaya çıkan şaşkınlığı mantıken tamamlar. Yapısal çeldirici 'that' ile devam eden bir yapı kurarak devrikliği göz ardı eder ve dilbilgisel hata yapar. Mantık çeldiricisi kül altındaki koruma düzeyini idrak etmek yerine küllerin her şeyi anında buharlaştırdığını söyleyerek korunma gerçeğiyle çelişir. İlgisiz çeldirici şehrin kuruluş tarihinden bahseden bağımsız bir bilgidir."
   },
   {
@@ -3124,7 +3124,7 @@
     "stem": "The government subsidizes public university tuition fees with a view to ____.",
     "correct": "providing equal educational opportunities to students from diverse socioeconomic backgrounds",
     "d_yapisal": "to reduce the overall financial burden on low-income families across the nation",
-    "d_mantik": "disencouraging young citizens from pursuing higher education in scientific fields",
+    "d_mantik": "discouraging young citizens from pursuing higher education in scientific fields",
     "d_ilgisiz": "the history of university education in Europe dates back to the twelfth century",
     "tr": "Hükümet, farklı sosyoekonomik geçmişe sahip öğrencilere eşit eğitim fırsatları sunmak amacıyla devlet üniversitesi harçlarını sübvanse etmektedir.",
     "why": "Cümledeki 'with a view to' yapısı, 'amacıyla' anlamına gelen bir AMAÇ yapısıdır ve edat olan 'to' ile bittiği için ardından mutlaka 'V-ing' (gerund) almalıdır. Doğru şık hem gramer kuralına uyar hem de harçların devletçe karşılanmasının amacını (eğitimin demokratikleştirilmesi) mantıklı olarak tamamlar. Yapısal çeldirici yalın fiille başlayan 'to reduce' getirdiği için dilbilgisi kurallarına aykırıdır. Mantık çeldiricisi harç indirimlerinin amacını gençleri 'eğitimden caydırmak' olarak sunarak mantıksal bir çelişki yaratır. İlgisiz çeldirici Avrupa'daki üniversitelerin tarihinden bahseden ilgisiz bir cümledir."
@@ -3151,12 +3151,12 @@
   },
   {
     "id": "ct316",
-    "stem": "____, whereas the Southern Hemisphere experience milder temperature variations due to the dominance of oceanic waters.",
+    "stem": "____, whereas the Southern Hemisphere experiences milder temperature variations due to the dominance of oceanic waters.",
     "correct": "The Northern Hemisphere is characterized by vast landmasses that absorb and release heat rapidly",
     "d_yapisal": "Although the global climate is heavily influenced by solar radiation and orbital cycles",
     "d_mantik": "South American countries suffer from extreme continental winters with heavy sub-zero snowfalls",
     "d_ilgisiz": "The equator receives the most direct sunlight throughout the year, causing tropical climates",
-    "tr": "Güney Yarımküre, okyanus sularının hakimiyeti nedeniyle daha hafif sıcaklık dalgalanmaları yaşarken, Kuzey Yarımküre, ısıyı hızla emen ve salan geniş kara kütleleri ile karakterize edilir.",
+    "tr": "Güney Yarımküre, okyanus sularının hâkimiyeti nedeniyle daha hafif sıcaklık dalgalanmaları yaşarken, Kuzey Yarımküre, ısıyı hızla emen ve salan geniş kara kütleleri ile karakterize edilir.",
     "why": "Cümledeki 'whereas' bağlacı iki bölge arasında doğrudan bir KARŞILAŞTIRMA/ZITLIK ilişkisi kurar. Güney Yarımküre'nin okyanusal ve ılıman yapısıyla, Kuzey Yarımküre'nin geniş karasal ve değişken yapısını kıyaslayan doğru şık, bu coğrafi zıtlığı anlamca ve gramer olarak çok iyi tamamlar. Yapısal çeldirici 'Although' ile başladığı için 'whereas' ile birlikte iki yan cümle oluşturup ana cümlesiz yapı hatası yaratır. Mantık çeldiricisi Güney Yarımküre'de yer alan Güney Amerika ülkelerinin aşırı sert karasal kışlar yaşadığını iddia ederek okyanusal ılımanlıkla çelişir. İlgisiz çeldirici ekvatorun güneş ışığı alma açısını anlatan bağımsız bir cümledir."
   },
   {
@@ -3196,7 +3196,7 @@
     "d_yapisal": "which will prevent unauthorized personnel from accessing the central flight controller database",
     "d_mantik": "every single drone will operate safely and deliver its cargo without any external interference",
     "d_ilgisiz": "drones have recently become extremely popular for high-resolution aerial photography in real estate",
-    "tr": "Otonom drone ağının güvenlik protokolleri tamamen yükseltilmedikçe, düşman aktörler iletişim frekanslarını sabote edebilir ve hava araçlarını kötü niyetli amaçlar için yönlendirebilir.",
-    "why": "Cümledeki 'Unless' (medikçe / olmazsa) olumsuz bir KOŞUL yapısıdır. Drone ağının yükseltilmemesi durumunun olumsuz sonucu siber saldırganların ağı sabote etmesi olacağı için doğru şık anlamı tamamlar. Yapısal çeldirici 'which' ile bir sıfat tümleci açarak ana cümlesiz yapı hatası yapar. Mantık çeldiricisi protokoller yükseltilmedikçe her şeyin 'güvenle çalışacağını' söyleyerek 'unless' mantığıyla doğrudan çelişir. İlgisiz çeldirici dronların emlak sektöründeki kullanım alanlarından bahseden alakasız bir cümledir."
+    "tr": "Otonom drone ağının güvenlik protokolleri tamamen yükseltilmedikçe, düşman aktörler iletişim frekanslarını ele geçirebilir ve hava araçlarını kötü niyetli amaçlar için yönlendirebilir.",
+    "why": "Cümledeki 'Unless' (medikçe / olmazsa) olumsuz bir KOŞUL yapısıdır. Drone ağının yükseltilmemesi durumunun olumsuz sonucu düşman aktörlerin iletişim frekanslarını ele geçirmesi olacağı için doğru şık anlamı tamamlar. Yapısal çeldirici 'which' ile bir sıfat tümleci açarak ana cümlesiz yapı hatası yapar. Mantık çeldiricisi protokoller yükseltilmedikçe her şeyin 'güvenle çalışacağını' söyleyerek 'unless' mantığıyla doğrudan çelişir. İlgisiz çeldirici dronların emlak sektöründeki kullanım alanlarından bahseden alakasız bir cümledir."
   }
 ]

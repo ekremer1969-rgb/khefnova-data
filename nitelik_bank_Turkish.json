@@ -178,10 +178,10 @@
       "id": "nk_b1_010",
       "level": "B1",
       "pos": "adj",
-      "tr": "Köpek yabancılara karşı sinirli davranıyordu.",
+      "tr": "Köpek yabancılara karşı saldırgan davranıyordu.",
       "sentence": "The dog was aggressive toward strangers.",
       "answer": "aggressive",
-      "answer_tr": "sinirli",
+      "answer_tr": "saldırgan",
       "modDistractors": [
         "friendly",
         "calm",
@@ -273,7 +273,7 @@
       "id": "nk_b2_015",
       "level": "B2",
       "pos": "adj",
-      "tr": "Bu davranış resmi bir durum için uygun değildi.",
+      "tr": "Bu davranış resmi bir etkinlik için uygun değildi.",
       "sentence": "This behavior was not appropriate for a formal event.",
       "answer": "appropriate",
       "answer_tr": "uygun",
@@ -539,7 +539,7 @@
       "id": "nk_b2_029",
       "level": "B2",
       "pos": "adj",
-      "tr": "Mühendis zor işleri yapabilir bir uzmandı.",
+      "tr": "Mühendis zor işler için yetenekli bir uzmandı.",
       "sentence": "The engineer was a capable expert for difficult tasks.",
       "answer": "capable",
       "answer_tr": "yetenekli",
@@ -577,10 +577,10 @@
       "id": "nk_a2_031",
       "level": "A2",
       "pos": "adj",
-      "tr": "Eski yönetici bu karar konusunda kesindi.",
+      "tr": "Eski yönetici bu karar konusunda emindi.",
       "sentence": "The old manager was certain about this decision.",
       "answer": "certain",
-      "answer_tr": "kesin",
+      "answer_tr": "emin",
       "modDistractors": [
         "doubtful",
         "unclear",
@@ -645,7 +645,7 @@
       ],
       "mod_tr": {
         "confusing": "kafa karıştırıcı",
-        "vague": "bulanık",
+        "vague": "belirsiz",
         "dark": "karanlık"
       }
     },
@@ -741,7 +741,7 @@
       "mod_tr": {
         "peaceful": "huzurlu",
         "friendly": "dostça",
-        "cooperative": "uyumlu"
+        "cooperative": "işbirlikçi"
       }
     },
     {
@@ -767,7 +767,7 @@
       "id": "nk_b1_041",
       "level": "B1",
       "pos": "adj",
-      "tr": "Makinanın kullanım kılavuzu çok karmaşık yazılmıştı.",
+      "tr": "Makinenin kullanım kılavuzu çok karmaşık yazılmıştı.",
       "sentence": "The user manual of the machine was very complicated.",
       "answer": "complicated",
       "answer_tr": "karmaşık",
@@ -884,7 +884,7 @@
       "tr": "Sürekli gürültü hastaların uyumasını engelledi.",
       "sentence": "The constant noise prevented the patients from sleeping.",
       "answer": "constant",
-      "answer_tr": "sabit",
+      "answer_tr": "sürekli",
       "modDistractors": [
         "temporary",
         "occasional",
@@ -976,10 +976,10 @@
       "id": "nk_b1_052",
       "level": "B1",
       "pos": "adj",
-      "tr": "Polis yasadışı bir örgütü çökertti.",
+      "tr": "Polis bir suç örgütünü çökertti.",
       "sentence": "The police stopped a criminal organization.",
       "answer": "criminal",
-      "answer_tr": "yasadışı",
+      "answer_tr": "suç",
       "modDistractors": [
         "legal",
         "peaceful",
@@ -1005,7 +1005,7 @@
         "casual"
       ],
       "mod_tr": {
-        "minor": "önemsiz",
+        "minor": "küçük",
         "unimportant": "önemsiz",
         "casual": "sıradan"
       }
@@ -1356,10 +1356,10 @@
       "id": "nk_b2_072",
       "level": "B2",
       "pos": "adj",
-      "tr": "Film son derece donuk bir hikayeye sahipti.",
+      "tr": "Film son derece sıkıcı bir hikayeye sahipti.",
       "sentence": "The movie had a very dull storyline.",
       "answer": "dull",
-      "answer_tr": "donuk",
+      "answer_tr": "sıkıcı",
       "modDistractors": [
         "exciting",
         "lively",
@@ -1481,7 +1481,7 @@
       ],
       "mod_tr": {
         "careless": "dikkatsiz",
-        "clumsy": "sakarlar",
+        "clumsy": "sakar",
         "expensive": "pahalı"
       }
     },
@@ -1511,7 +1511,7 @@
       "tr": "Bahçede devasa bir kaya parçası duruyordu.",
       "sentence": "An enormous rock was standing in the garden.",
       "answer": "enormous",
-      "answer_tr": "büyük",
+      "answer_tr": "devasa",
       "modDistractors": [
         "tiny",
         "slender",
@@ -1717,10 +1717,10 @@
       "id": "nk_a2_091",
       "level": "A2",
       "pos": "adj",
-      "tr": "Adam polise yanlış bir isim verdi.",
+      "tr": "Adam polise sahte bir isim verdi.",
       "sentence": "The man gave a false name to the police.",
       "answer": "false",
-      "answer_tr": "yanlış",
+      "answer_tr": "sahte",
       "modDistractors": [
         "correct",
         "true",
@@ -1880,7 +1880,7 @@
       ],
       "mod_tr": {
         "previous": "önceki",
-        "former": "eskiki",
+        "former": "eski",
         "past": "geçmiş"
       }
     },
@@ -2135,8 +2135,8 @@
       "id": "nk_a2_113",
       "level": "A2",
       "pos": "adj",
-      "tr": "Çocuk elmanın yarım kısmını yedi.",
-      "sentence": "The child ate the half portion of the apple.",
+      "tr": "Çocuk yarım porsiyon pilav yedi.",
+      "sentence": "The child ate a half portion of rice.",
       "answer": "half",
       "answer_tr": "yarım",
       "modDistractors": [
@@ -2268,7 +2268,7 @@
       "id": "nk_a2_120",
       "level": "A2",
       "pos": "adj",
-      "tr": "Yaşlı adam günlerdir hasta yatakta yatıyordu.",
+      "tr": "Yaşlı adam günlerdir hasta olarak yatakta yatıyordu.",
       "sentence": "The old man was ill in bed for days.",
       "answer": "ill",
       "answer_tr": "hasta",
@@ -2382,10 +2382,10 @@
       "id": "nk_b1_126",
       "level": "B1",
       "pos": "adj",
-      "tr": "Her öğrenci kişisel ilgiye ihtiyaç duyar.",
+      "tr": "Her öğrenci bireysel ilgiye ihtiyaç duyar.",
       "sentence": "Every student needs individual attention.",
       "answer": "individual",
-      "answer_tr": "kişisel",
+      "answer_tr": "bireysel",
       "modDistractors": [
         "constant",
         "collective",
@@ -2477,7 +2477,7 @@
       "id": "nk_a2_131",
       "level": "A2",
       "pos": "adj",
-      "tr": "Birçok genç tarihle ilgiliydi.",
+      "tr": "Birçok genç tarihle ilgileniyordu.",
       "sentence": "Many young people were interested in history.",
       "answer": "interested",
       "answer_tr": "ilgili",
@@ -3161,10 +3161,10 @@
       "id": "nk_b1_167",
       "level": "B1",
       "pos": "adj",
-      "tr": "Yerli bir konuşmacı gibi İngilizce konuşuyor.",
+      "tr": "Anadili konuşuru gibi İngilizce konuşuyor.",
       "sentence": "She speaks English like a native speaker.",
       "answer": "native",
-      "answer_tr": "yerli",
+      "answer_tr": "anadili",
       "modDistractors": [
         "foreign",
         "fluent",
@@ -3351,7 +3351,7 @@
       "id": "nk_b2_177",
       "level": "B2",
       "pos": "adj",
-      "tr": "Görüşme sırasında bazı ara sıra olan kesintiler yaşandı.",
+      "tr": "Görüşme sırasında ara sıra kesintiler yaşandı.",
       "sentence": "There were occasional interruptions during the meeting.",
       "answer": "occasional",
       "answer_tr": "ara sıra olan",
@@ -3408,7 +3408,7 @@
       "id": "nk_b1_180",
       "level": "B1",
       "pos": "adj",
-      "tr": "Müze tablonun asıl nüshasını sergiliyor.",
+      "tr": "Müze asıl tabloyu sergiliyor.",
       "sentence": "The museum displays the original painting.",
       "answer": "original",
       "answer_tr": "asıl",
@@ -3514,7 +3514,7 @@
       ],
       "mod_tr": {
         "temporary": "geçici",
-        "brief": "kısa",
+        "brief": "kısa süreli",
         "short": "kısa"
       }
     },
@@ -3601,7 +3601,7 @@
       "tr": "Futbol ülkemizde çok popüler bir spordur.",
       "sentence": "Football is a very popular sport in our country.",
       "answer": "popular",
-      "answer_tr": "ünlü",
+      "answer_tr": "popüler",
       "modDistractors": [
         "unknown",
         "rare",
@@ -3636,10 +3636,10 @@
       "id": "nk_b2_192",
       "level": "B2",
       "pos": "adj",
-      "tr": "Şirket olası müşterilere yeni sunum yaptı.",
+      "tr": "Şirket potansiyel müşterilere yeni bir sunum yaptı.",
       "sentence": "The company made a new presentation to potential clients.",
       "answer": "potential",
-      "answer_tr": "olası",
+      "answer_tr": "potansiyel",
       "modDistractors": [
         "former",
         "existing",
@@ -3655,7 +3655,7 @@
       "id": "nk_b1_193",
       "level": "B1",
       "pos": "adj",
-      "tr": "Fırtına sahil kasabasına güçlü bir darbe vurdu.",
+      "tr": "Fırtına sahil kasabasına güçlü bir darbe indirdi.",
       "sentence": "The storm dealt a powerful blow to the coastal town.",
       "answer": "powerful",
       "answer_tr": "güçlü",
@@ -3712,7 +3712,7 @@
       "id": "nk_b1_196",
       "level": "B1",
       "pos": "adj",
-      "tr": "Müdür mevcut durumdan oldukça memnundu.",
+      "tr": "Müdür şu anki durumdan oldukça memnundu.",
       "sentence": "The manager was quite happy with the present situation.",
       "answer": "present",
       "answer_tr": "şu anki",
@@ -3742,7 +3742,7 @@
       ],
       "mod_tr": {
         "next": "sonraki",
-        "subsequent": "ardışık",
+        "subsequent": "ardından gelen",
         "following": "takip eden"
       }
     },
@@ -3761,7 +3761,7 @@
       ],
       "mod_tr": {
         "secondary": "ikincil",
-        "minor": "önemsiz",
+        "minor": "küçük",
         "trivial": "önemsiz"
       }
     },
@@ -3807,10 +3807,10 @@
       "id": "nk_a2_201",
       "level": "A2",
       "pos": "adj",
-      "tr": "Bu park umumi bir alandır.",
+      "tr": "Bu park kamusal bir alandır.",
       "sentence": "This park is a public space.",
       "answer": "public",
-      "answer_tr": "umumi",
+      "answer_tr": "kamusal",
       "modDistractors": [
         "private",
         "secret",
@@ -4369,7 +4369,7 @@
       ],
       "mod_tr": {
         "complex": "karmaşık",
-        "intricate": "dolambaçlı",
+        "intricate": "girift",
         "confusing": "kafa karıştırıcı"
       }
     },
@@ -4472,7 +4472,7 @@
       "id": "nk_a1_236",
       "level": "A1",
       "pos": "adj",
-      "tr": "Hatasını anlayan genç adam çok üzgündü.",
+      "tr": "Genç adam hatasından dolayı çok üzgündü.",
       "sentence": "The young man was very sorry for his mistake.",
       "answer": "sorry",
       "answer_tr": "üzgün",
@@ -4586,10 +4586,10 @@
       "id": "nk_b2_242",
       "level": "B2",
       "pos": "adj",
-      "tr": "Yazar bu soruna açık bir çözüm sundu.",
+      "tr": "Yazar bu soruna basit bir çözüm sundu.",
       "sentence": "The author offered a straightforward solution to this problem.",
       "answer": "straightforward",
-      "answer_tr": "açık",
+      "answer_tr": "basit",
       "modDistractors": [
         "complicated",
         "ambiguous",
@@ -4615,7 +4615,7 @@
         "tolerant"
       ],
       "mod_tr": {
-        "lenient": "hoşgörülü",
+        "lenient": "müsamahakâr",
         "flexible": "esnek",
         "tolerant": "hoşgörülü"
       }
@@ -4654,7 +4654,7 @@
       ],
       "mod_tr": {
         "previous": "önceki",
-        "prior": "öncelikli",
+        "prior": "daha önceki",
         "former": "eski"
       }
     },
@@ -4833,7 +4833,7 @@
       "id": "nk_b1_255",
       "level": "B1",
       "pos": "adj",
-      "tr": "Köyde hala geleneksel yöntemler kullanılıyor.",
+      "tr": "Köyde hâlâ geleneksel yöntemler kullanılıyor.",
       "sentence": "They still use traditional methods in the village.",
       "answer": "traditional",
       "answer_tr": "geleneksel",
@@ -4844,7 +4844,7 @@
       ],
       "mod_tr": {
         "modern": "modern",
-        "futuristic": "gelecikçi",
+        "futuristic": "gelecekçi",
         "novel": "yeni"
       }
     },
@@ -4871,10 +4871,10 @@
       "id": "nk_b2_257",
       "level": "B2",
       "pos": "adj",
-      "tr": "Onların en son amacı maçı kazanmaktı.",
+      "tr": "Onların nihai amacı maçı kazanmaktı.",
       "sentence": "Their ultimate goal was to win the match.",
       "answer": "ultimate",
-      "answer_tr": "en son",
+      "answer_tr": "nihai",
       "modDistractors": [
         "initial",
         "minor",
@@ -5023,10 +5023,10 @@
       "id": "nk_a1_265",
       "level": "A1",
       "pos": "adj",
-      "tr": "Bu kitap sınav için çok kullanışlı bilgiler içeriyor.",
+      "tr": "Bu kitap sınav için çok yararlı bilgiler içeriyor.",
       "sentence": "This book contains very useful information for the exam.",
       "answer": "useful",
-      "answer_tr": "kullanışlı",
+      "answer_tr": "yararlı",
       "modDistractors": [
         "useless",
         "worthless",
@@ -5175,10 +5175,10 @@
       "id": "nk_b2_273",
       "level": "B2",
       "pos": "adj",
-      "tr": "Küçük çocuklar hastalıklara karşı daha hassas durumdadır.",
+      "tr": "Küçük çocuklar hastalıklara karşı daha savunmasızdır.",
       "sentence": "Young children are more vulnerable to diseases.",
       "answer": "vulnerable",
-      "answer_tr": "hassas",
+      "answer_tr": "savunmasız",
       "modDistractors": [
         "resistant",
         "secure",
@@ -5574,10 +5574,10 @@
       "id": "nk_b2_294",
       "level": "B2",
       "pos": "adj",
-      "tr": "Bilim insanı karmaşık problem için değişik bir çözüm önerdi.",
+      "tr": "Bilim insanı karmaşık problem için yeni bir çözüm önerdi.",
       "sentence": "The scientist proposed a novel solution for the complex problem.",
       "answer": "novel",
-      "answer_tr": "değişik",
+      "answer_tr": "yeni",
       "modDistractors": [
         "traditional",
         "conventional",
@@ -5688,10 +5688,10 @@
       "id": "nk_b2_300",
       "level": "B2",
       "pos": "adj",
-      "tr": "Hükümet eğitim sistemi için gelişen bir politika benimsedi.",
+      "tr": "Hükümet eğitim sistemi için ilerici bir politika benimsedi.",
       "sentence": "The government adopted a progressive policy for the education system.",
       "answer": "progressive",
-      "answer_tr": "gelişen",
+      "answer_tr": "ilerici",
       "modDistractors": [
         "regressive",
         "conservative",
@@ -5897,10 +5897,10 @@
       "id": "nk_b2_311",
       "level": "B2",
       "pos": "adj",
-      "tr": "Her müdür şirket değerleri için temsilci bir figürdür.",
+      "tr": "Her müdür şirket değerlerini temsil eden bir figürdür.",
       "sentence": "Each manager is a representative figure for the company values.",
       "answer": "representative",
-      "answer_tr": "temsilci",
+      "answer_tr": "temsil eden",
       "modDistractors": [
         "private",
         "alien",
@@ -5957,7 +5957,7 @@
       "tr": "Hükümet ulusal borcu azaltmak için radikal önlemler aldı.",
       "sentence": "The government took drastic measures to reduce national debt.",
       "answer": "drastic",
-      "answer_tr": "şiddetli",
+      "answer_tr": "radikal",
       "modDistractors": [
         "minor",
         "subtle",
@@ -6185,7 +6185,7 @@
       "tr": "Genç müzisyen olağanüstü bir yeteneğe sahipti.",
       "sentence": "The young musician had exceptional talent.",
       "answer": "exceptional",
-      "answer_tr": "istisnai",
+      "answer_tr": "olağanüstü",
       "modDistractors": [
         "average",
         "ordinary",
@@ -6223,7 +6223,7 @@
       "tr": "Şirket herkes için uygun fiyatlı konutlar sunuyor.",
       "sentence": "The company offers affordable housing for everyone.",
       "answer": "affordable",
-      "answer_tr": "satın alınabilir",
+      "answer_tr": "uygun fiyatlı",
       "modDistractors": [
         "costly",
         "expensive",
@@ -6277,10 +6277,10 @@
       "id": "nk_b2_331",
       "level": "B2",
       "pos": "adj",
-      "tr": "Ekip bu görevi tamamlamak için oldukça yeteneklidir.",
+      "tr": "Ekip bu görevi tamamlamak için oldukça yetkindir.",
       "sentence": "The team is highly competent to complete this task.",
       "answer": "competent",
-      "answer_tr": "yetenekli",
+      "answer_tr": "yetkin",
       "modDistractors": [
         "incapable",
         "careless",
@@ -6296,10 +6296,10 @@
       "id": "nk_b2_332",
       "level": "B2",
       "pos": "adj",
-      "tr": "İşçi kutudaki hassas camları dikkatle taşıdı.",
+      "tr": "İşçi narin camı dikkatle taşıdı.",
       "sentence": "The worker handled the delicate glass with care.",
       "answer": "delicate",
-      "answer_tr": "hassas",
+      "answer_tr": "narin",
       "modDistractors": [
         "sturdy",
         "strong",
@@ -6334,7 +6334,7 @@
       "id": "nk_c1_334",
       "level": "C1",
       "pos": "adj",
-      "tr": "Adam gösterişli yaşam tarzı nedeniyle çok para harcadı.",
+      "tr": "Adam savurgan yaşam tarzı nedeniyle çok para harcadı.",
       "sentence": "The man spent much money due to his extravagant lifestyle.",
       "answer": "extravagant",
       "answer_tr": "savurgan",
@@ -6375,7 +6375,7 @@
       "tr": "Hastanın durumunda kademeli bir iyileşme vardı.",
       "sentence": "There was a gradual improvement in the patient's condition.",
       "answer": "gradual",
-      "answer_tr": "aşamalı",
+      "answer_tr": "kademeli",
       "modDistractors": [
         "sudden",
         "rapid",
@@ -6451,7 +6451,7 @@
       "tr": "İki resim arasında ince bir fark vardı.",
       "sentence": "There was a subtle difference between the two paintings.",
       "answer": "subtle",
-      "answer_tr": "güç algılanan",
+      "answer_tr": "ince",
       "modDistractors": [
         "obvious",
         "striking",
@@ -6467,10 +6467,10 @@
       "id": "nk_c1_341",
       "level": "C1",
       "pos": "adj",
-      "tr": "Yaşlı insanlar enfeksiyonlara karşı daha savunmasızdır.",
+      "tr": "Yaşlı insanlar enfeksiyonlara daha yatkındır.",
       "sentence": "Elderly people are more susceptible to infections.",
       "answer": "susceptible",
-      "answer_tr": "savunmasız",
+      "answer_tr": "yatkın",
       "modDistractors": [
         "immune",
         "resistant",
@@ -6524,10 +6524,10 @@
       "id": "nk_b2_344",
       "level": "B2",
       "pos": "adj",
-      "tr": "Lider kriz anında kesin bir adım attı.",
+      "tr": "Lider kriz anında kararlı bir adım attı.",
       "sentence": "The leader took a decisive step during the crisis.",
       "answer": "decisive",
-      "answer_tr": "kesin",
+      "answer_tr": "kararlı",
       "modDistractors": [
         "hesitant",
         "uncertain",
@@ -6581,10 +6581,10 @@
       "id": "nk_b2_347",
       "level": "B2",
       "pos": "adj",
-      "tr": "Öğretmen öğrencinin iddiası konusunda şüpheliydi.",
+      "tr": "Öğretmen öğrencinin iddiası konusunda şüpheciydi.",
       "sentence": "The teacher was doubtful about the student's claim.",
       "answer": "doubtful",
-      "answer_tr": "şüpheli",
+      "answer_tr": "şüpheci",
       "modDistractors": [
         "certain",
         "confident",
@@ -6638,10 +6638,10 @@
       "id": "nk_c1_350",
       "level": "C1",
       "pos": "adj",
-      "tr": "Genç mucit yaratıcı bir çözüm buldu.",
+      "tr": "Genç mucit dahice bir çözüm buldu.",
       "sentence": "The young inventor found an ingenious solution.",
       "answer": "ingenious",
-      "answer_tr": "yaratıcı",
+      "answer_tr": "dahice",
       "modDistractors": [
         "foolish",
         "simple",
@@ -6667,7 +6667,7 @@
         "limited"
       ],
       "mod_tr": {
-        "finite": "sınırlı",
+        "finite": "sonlu",
         "temporary": "geçici",
         "limited": "sınırlı"
       }
@@ -6695,10 +6695,10 @@
       "id": "nk_c2_353",
       "level": "C1",
       "pos": "adj",
-      "tr": "Anlaşmada dolaylı bir onay vardı.",
+      "tr": "Sözleşmede örtük bir anlaşma vardı.",
       "sentence": "There was an implicit agreement in the contract.",
       "answer": "implicit",
-      "answer_tr": "dolaylı",
+      "answer_tr": "örtük",
       "modDistractors": [
         "explicit",
         "direct",
@@ -6725,7 +6725,7 @@
       ],
       "mod_tr": {
         "vague": "belirsiz",
-        "implicit": "dolaylı",
+        "implicit": "örtük",
         "hidden": "gizli"
       }
     },
@@ -6752,10 +6752,10 @@
       "id": "nk_b2_356",
       "level": "B2",
       "pos": "adj",
-      "tr": "Öğrencinin performansında dikkate değer bir gelişme vardı.",
+      "tr": "Öğrenci performansında belirgin bir gelişme vardı.",
       "sentence": "There was a noticeable improvement in student performance.",
       "answer": "noticeable",
-      "answer_tr": "dikkate değer",
+      "answer_tr": "belirgin",
       "modDistractors": [
         "slight",
         "invisible",
@@ -6828,10 +6828,10 @@
       "id": "nk_c1_360",
       "level": "C1",
       "pos": "adj",
-      "tr": "Açıklama herkes için acımasız bir şok oldu.",
-      "sentence": "The statement was an outrageous shock to everyone.",
+      "tr": "Açıklama herkes için kabul edilemez bir hakaretti.",
+      "sentence": "The statement was an outrageous insult to everyone.",
       "answer": "outrageous",
-      "answer_tr": "acımasız",
+      "answer_tr": "kabul edilemez",
       "modDistractors": [
         "mild",
         "reasonable",
@@ -6867,7 +6867,7 @@
       "level": "C1",
       "pos": "adj",
       "tr": "Eski fabrikadaki birçok işçi gereksiz hale geldi.",
-      "sentence": "Many workers in old factory became redundant.",
+      "sentence": "Many workers in the old factory became redundant.",
       "answer": "redundant",
       "answer_tr": "gereksiz",
       "modDistractors": [
@@ -7105,7 +7105,7 @@
       ],
       "mod_tr": {
         "illogical": "mantıksız",
-        "confused": "kafa karıştırıcı",
+        "confused": "kafası karışık",
         "vague": "belirsiz"
       }
     },
@@ -7341,10 +7341,10 @@
       "id": "nk_c1_387",
       "level": "C1",
       "pos": "adj",
-      "tr": "Yazar belirsiz bir kasabada doğmuştu.",
+      "tr": "Yazar tanınmayan bir kasabada doğmuştu.",
       "sentence": "The author was born in an obscure town.",
       "answer": "obscure",
-      "answer_tr": "belirsiz",
+      "answer_tr": "tanınmayan",
       "modDistractors": [
         "famous",
         "clear",
@@ -7398,10 +7398,10 @@
       "id": "nk_b2_390",
       "level": "B2",
       "pos": "adj",
-      "tr": "Polis olay yerinde tam bir inceleme yaptı.",
+      "tr": "Polis olay yerinde etraflı bir inceleme yaptı.",
       "sentence": "The police conducted a thorough investigation at the scene.",
       "answer": "thorough",
-      "answer_tr": "tam",
+      "answer_tr": "etraflı",
       "modDistractors": [
         "quick",
         "brief",
@@ -7493,10 +7493,10 @@
       "id": "nk_b1_395",
       "level": "B1",
       "pos": "adj",
-      "tr": "Ev sahipleri güneşle ilgili bir enerji sistemi kurdu.",
+      "tr": "Ev sahipleri bir güneş enerjisi sistemi kurdu.",
       "sentence": "The homeowners installed a solar energy system.",
       "answer": "solar",
-      "answer_tr": "güneşle ilgili",
+      "answer_tr": "güneş",
       "modDistractors": [
         "nuclear",
         "electrical",
@@ -7569,10 +7569,10 @@
       "id": "nk_b2_399",
       "level": "B2",
       "pos": "adj",
-      "tr": "Takım baskın bir zafer kazandı.",
+      "tr": "Takım ezici bir zafer kazandı.",
       "sentence": "The team won an overwhelming victory.",
       "answer": "overwhelming",
-      "answer_tr": "baskın",
+      "answer_tr": "ezici",
       "modDistractors": [
         "slight",
         "minor",
@@ -7626,10 +7626,10 @@
       "id": "nk_b2_402",
       "level": "B2",
       "pos": "adj",
-      "tr": "Genç kadın sinema dünyasında çok çekici bir yaşam sürüyordu.",
+      "tr": "Genç kadın sinema dünyasında çok göz alıcı bir yaşam sürüyordu.",
       "sentence": "The young woman led a very glamorous life in the film industry.",
       "answer": "glamorous",
-      "answer_tr": "çekici",
+      "answer_tr": "göz alıcı",
       "modDistractors": [
         "monotonous",
         "hazardous",
@@ -7683,10 +7683,10 @@
       "id": "nk_c1_405",
       "level": "C1",
       "pos": "adj",
-      "tr": "Çöl canlılar için çok konuk sevmez bir ortam sunmaktadır.",
+      "tr": "Çöl canlılar için çok elverişsiz bir ortam sunmaktadır.",
       "sentence": "The desert presents a very inhospitable environment for living creatures.",
       "answer": "inhospitable",
-      "answer_tr": "konuk sevmez",
+      "answer_tr": "elverişsiz",
       "modDistractors": [
         "welcoming",
         "fertile",
@@ -7713,7 +7713,7 @@
       ],
       "mod_tr": {
         "dull": "donuk",
-        "unremarkable": "Sıradan",
+        "unremarkable": "sıradan",
         "mediocre": "vasat"
       }
     },
@@ -7759,7 +7759,7 @@
       "id": "nk_b2_409",
       "level": "B2",
       "pos": "adj",
-      "tr": "Yeni yazılım mevcut bilgisayar işletim sistemi ile tamamen uyumludur.",
+      "tr": "Yeni yazılım mevcut bilgisayar sistemi ile tamamen uyumludur.",
       "sentence": "The new software is fully compatible with the current computer system.",
       "answer": "compatible",
       "answer_tr": "uyumlu",
@@ -7873,10 +7873,10 @@
       "id": "nk_b2_415",
       "level": "B2",
       "pos": "adj",
-      "tr": "Profesör alanında çok önemli bir bilim insanı olarak biliniyordu.",
+      "tr": "Profesör alanında önde gelen bir bilim insanı olarak biliniyordu.",
       "sentence": "The professor was known as a prominent scientist in his field.",
       "answer": "prominent",
-      "answer_tr": "önemli",
+      "answer_tr": "önde gelen",
       "modDistractors": [
         "obscure",
         "insignificant",
@@ -7892,7 +7892,7 @@
       "id": "nk_c1_416",
       "level": "C1",
       "pos": "adj",
-      "tr": "Grup lideri kararlarında oldukça kendinden emin bir tavır takındı.",
+      "tr": "Grup lideri toplantılar sırasında oldukça kendinden emin bir tavır takındı.",
       "sentence": "The team leader was quite self-assertive during the meetings.",
       "answer": "self-assertive",
       "answer_tr": "kendinden emin",
@@ -8006,7 +8006,7 @@
       "id": "nk_c1_422",
       "level": "C1",
       "pos": "adj",
-      "tr": "Başarı bazen insan hayatında kısa süreli bir durum olabilir.",
+      "tr": "Başarı bazen insan hayatında geçici bir durum olabilir.",
       "sentence": "Success can sometimes be a transient state in human life.",
       "answer": "transient",
       "answer_tr": "geçici",
@@ -8025,7 +8025,7 @@
       "id": "nk_b1_423",
       "level": "B1",
       "pos": "adj",
-      "tr": "Şirketin gelecekteki finansal durumu hala belirsiz görünmektedir.",
+      "tr": "Şirketin gelecekteki finansal durumu hâlâ belirsiz görünmektedir.",
       "sentence": "The future financial status of the company remains uncertain.",
       "answer": "uncertain",
       "answer_tr": "belirsiz",
@@ -8074,7 +8074,7 @@
       ],
       "mod_tr": {
         "forgettable": "unutulabilir",
-        "unremarkable": "Sıradan",
+        "unremarkable": "dikkat çekmeyen",
         "ordinary": "sıradan"
       }
     },
@@ -8161,7 +8161,7 @@
       "tr": "Cezalar suçun ağırlığı ile orantılıdır.",
       "sentence": "The punishments are proportional to the crime.",
       "answer": "proportional",
-      "answer_tr": "nispi",
+      "answer_tr": "orantılı",
       "modDistractors": [
         "excessive",
         "extreme",
@@ -8330,7 +8330,7 @@
       "level": "B2",
       "pos": "adj",
       "tr": "Yetersiz delil nedeniyle dava düştü.",
-      "sentence": "The case dropped due to insufficient evidence.",
+      "sentence": "The case was dropped due to insufficient evidence.",
       "answer": "insufficient",
       "answer_tr": "yetersiz",
       "modDistractors": [
@@ -8370,7 +8370,7 @@
       "tr": "En son haberler herkesi şaşırttı.",
       "sentence": "The latest news surprised everyone in the room.",
       "answer": "latest",
-      "answer_tr": "en yeni",
+      "answer_tr": "en son",
       "modDistractors": [
         "oldest",
         "previous",
@@ -8389,7 +8389,7 @@
       "tr": "Hasta kapalı alanda kalmaktan rahatsız oldu.",
       "sentence": "The patient felt uneasy in a confined space.",
       "answer": "confined",
-      "answer_tr": "sınırlı",
+      "answer_tr": "kapalı",
       "modDistractors": [
         "spacious",
         "vast",
@@ -8500,10 +8500,10 @@
       "id": "nk_b2_448",
       "level": "B2",
       "pos": "adj",
-      "tr": "Düşman gruptan sert bir tepki geldi.",
+      "tr": "Kalabalıktan düşmanca bir tepki geldi.",
       "sentence": "A hostile reaction came from the crowd.",
       "answer": "hostile",
-      "answer_tr": "düşman",
+      "answer_tr": "düşmanca",
       "modDistractors": [
         "friendly",
         "welcoming",
@@ -8557,10 +8557,10 @@
       "id": "nk_b2_451",
       "level": "B2",
       "pos": "adj",
-      "tr": "Hükümet ülkedeki kararsız siyasi durumdan endişeliydi.",
+      "tr": "Hükümet ülkedeki istikrarsız siyasi durumdan endişeliydi.",
       "sentence": "The government was concerned about the unstable political situation.",
       "answer": "unstable",
-      "answer_tr": "kararsız",
+      "answer_tr": "istikrarsız",
       "modDistractors": [
         "stable",
         "peaceful",
@@ -8633,10 +8633,10 @@
       "id": "nk_b1_455",
       "level": "B1",
       "pos": "adj",
-      "tr": "Kırık bacak hasta için çok ağrılı bir süreçti.",
+      "tr": "Kırık bacak hasta için çok acı verici bir süreçti.",
       "sentence": "The broken leg was a very painful process for the patient.",
       "answer": "painful",
-      "answer_tr": "ağrılı",
+      "answer_tr": "acı verici",
       "modDistractors": [
         "pleasant",
         "comfortable",
@@ -8671,7 +8671,7 @@
       "id": "nk_c1_457",
       "level": "C1",
       "pos": "adj",
-      "tr": "Adama eski hatasını açıklamak yararsız bir çabaydı.",
+      "tr": "Adama hatasını açıklamak yararsız bir çabaydı.",
       "sentence": "Explaining his mistake to the man was a futile effort.",
       "answer": "futile",
       "answer_tr": "yararsız",
@@ -8690,10 +8690,10 @@
       "id": "nk_b2_458",
       "level": "B2",
       "pos": "adj",
-      "tr": "Askerler sınırlı bir bölgede devriye geziyordu.",
+      "tr": "Askerler kısıtlı bir bölgede devriye geziyordu.",
       "sentence": "The soldiers were patrolling in a restricted area.",
       "answer": "restricted",
-      "answer_tr": "sınırlı",
+      "answer_tr": "kısıtlı",
       "modDistractors": [
         "public",
         "open",
@@ -8739,7 +8739,7 @@
       ],
       "mod_tr": {
         "bored": "sıkılmış",
-        "indifferent": "ilgısız",
+        "indifferent": "ilgisiz",
         "unimpressed": "etkilenmemiş"
       }
     },
@@ -8766,10 +8766,10 @@
       "id": "nk_b2_462",
       "level": "B2",
       "pos": "adj",
-      "tr": "Yazar kariyeri boyunca hesapsız ödül kazandı.",
+      "tr": "Yazar kariyeri boyunca sayısız ödül kazandı.",
       "sentence": "The author won countless awards during his long career.",
       "answer": "countless",
-      "answer_tr": "hesapsız",
+      "answer_tr": "sayısız",
       "modDistractors": [
         "few",
         "limited",
@@ -8823,10 +8823,10 @@
       "id": "nk_c1_465",
       "level": "C1",
       "pos": "adj",
-      "tr": "Müşteri sürekli şikayetleri ile bilinen biriydi.",
+      "tr": "Müşteri sürekli şikayetleriyle bilinen ısrarlı biriydi.",
       "sentence": "The customer was a persistent person with continuous complaints.",
       "answer": "persistent",
-      "answer_tr": "sürekli",
+      "answer_tr": "ısrarlı",
       "modDistractors": [
         "temporary",
         "transient",
@@ -8880,10 +8880,10 @@
       "id": "nk_c2_468",
       "level": "C1",
       "pos": "adj",
-      "tr": "Bu bitki sadece bu adaya özgü yöresel bir türdü.",
+      "tr": "Bu bitki bu küçük adaya özgü endemik bir türdü.",
       "sentence": "This plant was an endemic species to this small island.",
       "answer": "endemic",
-      "answer_tr": "yöresel",
+      "answer_tr": "endemik",
       "modDistractors": [
         "widespread",
         "global",
@@ -8930,7 +8930,7 @@
       "mod_tr": {
         "useless": "faydasız",
         "barren": "verimsiz",
-        "unproductive": "üretkensiz"
+        "unproductive": "üretken olmayan"
       }
     },
     {
@@ -8994,7 +8994,7 @@
       "id": "nk_b2_474",
       "level": "B2",
       "pos": "adj",
-      "tr": "Dinozorlar milyarlarca yıl önce nesli tükenmiş canlılardı.",
+      "tr": "Dinozorlar milyonlarca yıl önce nesli tükenmiş canlılardı.",
       "sentence": "Dinosaurs were extinct animals millions of years ago.",
       "answer": "extinct",
       "answer_tr": "nesli tükenmiş",
@@ -9013,10 +9013,10 @@
       "id": "nk_c1_475",
       "level": "C1",
       "pos": "adj",
-      "tr": "Binanın üzerindeki tabela apaçık bir yerde duruyordu.",
+      "tr": "Binanın üzerindeki tabela göze çarpan bir yerde duruyordu.",
       "sentence": "The sign on the building stood in a conspicuous location.",
       "answer": "conspicuous",
-      "answer_tr": "apaçık",
+      "answer_tr": "göze çarpan",
       "modDistractors": [
         "hidden",
         "obscure",
@@ -9146,10 +9146,10 @@
       "id": "nk_c1_482",
       "level": "C1",
       "pos": "adj",
-      "tr": "Müdür çalışanlara karşı kötü bir tutuma sahipti.",
+      "tr": "Müdür çalışanlara karşı incitici bir tutuma sahipti.",
       "sentence": "The manager had an abusive attitude toward staff.",
       "answer": "abusive",
-      "answer_tr": "kötü davranan",
+      "answer_tr": "incitici",
       "modDistractors": [
         "polite",
         "friendly",
@@ -9222,10 +9222,10 @@
       "id": "nk_b2_486",
       "level": "B2",
       "pos": "adj",
-      "tr": "Yaralanma kasti bir eylemin sonucuydu.",
+      "tr": "Yaralanma kasıtlı bir eylemin sonucuydu.",
       "sentence": "The injury was the result of a deliberate act.",
       "answer": "deliberate",
-      "answer_tr": "kasti",
+      "answer_tr": "kasıtlı",
       "modDistractors": [
         "accidental",
         "random",
@@ -9548,7 +9548,7 @@
       "tr": "İki arkadaş tamamen zıt yönlere yürüdü.",
       "sentence": "The two friends walked in opposite directions.",
       "answer": "opposite",
-      "answer_tr": "tamamen farklı",
+      "answer_tr": "zıt",
       "modDistractors": [
         "similar",
         "identical",
@@ -9624,7 +9624,7 @@
       "tr": "Bu kural tüm öğrenciler için geçerlidir.",
       "sentence": "This rule is applicable to all students.",
       "answer": "applicable",
-      "answer_tr": "uygulanabilir",
+      "answer_tr": "geçerli",
       "modDistractors": [
         "irrelevant",
         "futile",
@@ -9681,7 +9681,7 @@
       "tr": "Halk yozlaşmış yetkilileri protesto etti.",
       "sentence": "The public protested against corrupt officials.",
       "answer": "corrupt",
-      "answer_tr": "bozulmuş",
+      "answer_tr": "yozlaşmış",
       "modDistractors": [
         "honest",
         "genuine",
@@ -9773,10 +9773,10 @@
       "id": "nk_c1_515",
       "level": "C1",
       "pos": "adj",
-      "tr": "İki takımın berabere kalması beklenmeyen bir durumdu.",
+      "tr": "İki takımın berabere kalması olası olmayan bir sonuçtu.",
       "sentence": "A draw between the two teams was an improbable outcome.",
       "answer": "improbable",
-      "answer_tr": "beklenmeyen",
+      "answer_tr": "olası olmayan",
       "modDistractors": [
         "likely",
         "predictable",
@@ -9821,7 +9821,7 @@
         "sensible"
       ],
       "mod_tr": {
-        "deliberate": "kasti",
+        "deliberate": "kasıtlı",
         "cautious": "temkinli",
         "sensible": "mantıklı"
       }
@@ -9849,10 +9849,10 @@
       "id": "nk_c1_519",
       "level": "C1",
       "pos": "adj",
-      "tr": "Sanat eserinin asıl bir değeri vardı.",
+      "tr": "Sanat eserinin içsel bir değeri vardı.",
       "sentence": "The artwork had an intrinsic value.",
       "answer": "intrinsic",
-      "answer_tr": "asıl",
+      "answer_tr": "içsel",
       "modDistractors": [
         "superficial",
         "extrinsic",
@@ -9963,10 +9963,10 @@
       "id": "nk_b2_525",
       "level": "B2",
       "pos": "adj",
-      "tr": "Kuraklık sırasında temiz su oldukça az hale geldi.",
+      "tr": "Kuraklık sırasında tatlı su oldukça kıt hale geldi.",
       "sentence": "Fresh water became quite scarce during the drought.",
       "answer": "scarce",
-      "answer_tr": "az",
+      "answer_tr": "kıt",
       "modDistractors": [
         "abundant",
         "excessive",
@@ -10118,7 +10118,7 @@
       "tr": "Ulaşılabilir hedefler koymak özgüven inşasına yardımcı olur.",
       "sentence": "Setting attainable goals helps build confidence.",
       "answer": "attainable",
-      "answer_tr": "elde edilebilir",
+      "answer_tr": "ulaşılabilir",
       "modDistractors": [
         "impossible",
         "remote",
@@ -10457,10 +10457,10 @@
       "id": "nk_c1_551",
       "level": "C1",
       "pos": "adj",
-      "tr": "İşte hiç kimse kendini beğenmiş bir insanı sevmez.",
+      "tr": "İşte hiç kimse övüngen bir insanı sevmez.",
       "sentence": "Nobody likes a boastful person at work.",
       "answer": "boastful",
-      "answer_tr": "kendini beğenmiş",
+      "answer_tr": "övüngen",
       "modDistractors": [
         "humble",
         "modest",
@@ -10476,10 +10476,10 @@
       "id": "nk_b1_552",
       "level": "B1",
       "pos": "adj",
-      "tr": "O buzlu yollarda dikkatli bir sürücüdür.",
+      "tr": "O buzlu yollarda temkinli bir sürücüdür.",
       "sentence": "She is a cautious driver on icy roads.",
       "answer": "cautious",
-      "answer_tr": "dikkatli",
+      "answer_tr": "temkinli",
       "modDistractors": [
         "reckless",
         "hasty",
@@ -10507,7 +10507,7 @@
       "mod_tr": {
         "residential": "yerleşim yeri",
         "private": "özel",
-        "domestic": "evcil"
+        "domestic": "evsel"
       }
     },
     {
@@ -10552,7 +10552,7 @@
       "id": "nk_c1_556",
       "level": "C1",
       "pos": "adj",
-      "tr": "İyi bir hakim mahkemede tarafsız kalmalıdır.",
+      "tr": "İyi bir hâkim mahkemede tarafsız kalmalıdır.",
       "sentence": "A good judge must remain impartial in court.",
       "answer": "impartial",
       "answer_tr": "tarafsız",
@@ -10810,7 +10810,7 @@
       ],
       "mod_tr": {
         "planned": "planlı",
-        "deliberate": "kasti",
+        "deliberate": "kasıtlı",
         "calculated": "hesaplanmış"
       }
     },
@@ -10899,12 +10899,12 @@
       "answer": "irresistible",
       "answer_tr": "karşı konulmaz",
       "modDistractors": [
-        "repensive",
+        "repulsive",
         "unattractive",
         "avoidable"
       ],
       "mod_tr": {
-        "repensive": "itici",
+        "repulsive": "itici",
         "unattractive": "çekici olmayan",
         "avoidable": "kaçınılabilir"
       }
@@ -11009,9 +11009,9 @@
       "level": "C1",
       "pos": "adj",
       "tr": "Askerler görev sırasında taşınabilir bir radyo taşıdı.",
-      "sentence": "The soldiers carried a portative radio during the mission.",
-      "answer": "portative",
-      "answer_tr": "portatif",
+      "sentence": "The soldiers carried a portable radio during the mission.",
+      "answer": "portable",
+      "answer_tr": "taşınabilir",
       "modDistractors": [
         "heavy",
         "stationary",
@@ -11065,10 +11065,10 @@
       "id": "nk_c1_583",
       "level": "C1",
       "pos": "adj",
-      "tr": "Merdiven buzun üzerinde sallantılı bir konumdaydı.",
+      "tr": "Merdiven buzun üzerinde dengesiz bir konumdaydı.",
       "sentence": "The ladder was in a precarious position on the ice.",
       "answer": "precarious",
-      "answer_tr": "sallantılı",
+      "answer_tr": "dengesiz",
       "modDistractors": [
         "secure",
         "stable",
@@ -11103,10 +11103,10 @@
       "id": "nk_c1_585",
       "level": "C1",
       "pos": "adj",
-      "tr": "Mülteciler aylarca acıklı koşullarda yaşadı.",
+      "tr": "Mülteciler aylarca içler acısı koşullarda yaşadı.",
       "sentence": "The refugees lived in deplorable conditions for many months.",
       "answer": "deplorable",
-      "answer_tr": "acıklı",
+      "answer_tr": "içler acısı",
       "modDistractors": [
         "excellent",
         "admirable",
@@ -11122,10 +11122,10 @@
       "id": "nk_b2_586",
       "level": "B2",
       "pos": "adj",
-      "tr": "Otel tüm etkinlikler için kapsamlı bir fiyat sunuyor.",
+      "tr": "Otel tüm etkinlikleri kapsayan bir fiyat sunuyor.",
       "sentence": "The hotel offers an inclusive price for all activities.",
       "answer": "inclusive",
-      "answer_tr": "kapsamlı",
+      "answer_tr": "kapsayan",
       "modDistractors": [
         "exclusive",
         "limited",
@@ -11217,10 +11217,10 @@
       "id": "nk_b2_591",
       "level": "B2",
       "pos": "adj",
-      "tr": "Bu pozisyon için maaş tartışılabilir.",
+      "tr": "Bu pozisyon için maaş pazarlığa açıktır.",
       "sentence": "The salary for this position is negotiable.",
       "answer": "negotiable",
-      "answer_tr": "tartışılabilir",
+      "answer_tr": "pazarlığa açık",
       "modDistractors": [
         "fixed",
         "rigid",
@@ -11236,10 +11236,10 @@
       "id": "nk_b2_592",
       "level": "B2",
       "pos": "adj",
-      "tr": "Bu ülke çapında reklamı yapılmış bir etkinlikti.",
+      "tr": "Bu, ülke çapında geniş biçimde duyurulmuş bir etkinlikti.",
       "sentence": "This was a highly publicized event across the country.",
       "answer": "publicized",
-      "answer_tr": "reklamı yapılmış",
+      "answer_tr": "duyurulmuş",
       "modDistractors": [
         "hidden",
         "secret",
@@ -11255,10 +11255,10 @@
       "id": "nk_c2_593",
       "level": "C1",
       "pos": "adj",
-      "tr": "İmparatorluk çökmüş yaşam tarzı nedeniyle yıkıldı.",
+      "tr": "İmparatorluk yozlaşmış yaşam tarzı nedeniyle yıkıldı.",
       "sentence": "The empire fell due to its decadent lifestyle.",
       "answer": "decadent",
-      "answer_tr": "çökmüş",
+      "answer_tr": "yozlaşmış",
       "modDistractors": [
         "moral",
         "upright",
@@ -11293,10 +11293,10 @@
       "id": "nk_c2_595",
       "level": "C1",
       "pos": "adj",
-      "tr": "Onun teorisi testten sonra aksi ispatlanabilir çıktı.",
+      "tr": "Onun teorisi testten sonra çürütülebilir çıktı.",
       "sentence": "His theory turned out to be refutable after testing.",
       "answer": "refutable",
-      "answer_tr": "aksi ispatlanabilir",
+      "answer_tr": "çürütülebilir",
       "modDistractors": [
         "undeniable",
         "certain",
@@ -11445,10 +11445,10 @@
       "id": "nk_b2_603",
       "level": "B2",
       "pos": "adv",
-      "tr": "O sınavı görünüşte sorunsuz geçti.",
+      "tr": "Görünüşe göre sınavı sorunsuz geçti.",
       "sentence": "She apparently passed the exam without trouble.",
       "answer": "apparently",
-      "answer_tr": "görünüşte",
+      "answer_tr": "görünüşe göre",
       "modDistractors": [
         "definitely",
         "certainly",
@@ -11597,7 +11597,7 @@
       "id": "nk_b1_611",
       "level": "B1",
       "pos": "adv",
-      "tr": "O işte devamlı yeni şeyler öğreniyor.",
+      "tr": "O burada devamlı yeni şeyler öğreniyor.",
       "sentence": "She is constantly learning new things here.",
       "answer": "constantly",
       "answer_tr": "devamlı",
@@ -11673,7 +11673,7 @@
       "id": "nk_b2_615",
       "level": "B2",
       "pos": "adv",
-      "tr": "O tümüyle haklı bir gerekçe sundu.",
+      "tr": "O bugün tümüyle geçerli bir gerekçe sundu.",
       "sentence": "He presented an entirely valid reason today.",
       "answer": "entirely",
       "answer_tr": "tümüyle",
@@ -11692,7 +11692,7 @@
       "id": "nk_b1_616",
       "level": "B1",
       "pos": "adv",
-      "tr": "İki aday da aynı derecede yeteneklidir.",
+      "tr": "Her iki aday da bunun için aynı derecede nitelikli.",
       "sentence": "Both candidates are equally qualified for this.",
       "answer": "equally",
       "answer_tr": "aynı derecede",
@@ -11759,7 +11759,7 @@
         "approximately"
       ],
       "mod_tr": {
-        "inaccurately": "yanlışlıkla",
+        "inaccurately": "hatalı biçimde",
         "roughly": "kabaca",
         "approximately": "yaklaşık olarak"
       }
@@ -11768,10 +11768,10 @@
       "id": "nk_a2_620",
       "level": "A2",
       "pos": "adv",
-      "tr": "Hava bugün dışarıda oldukça soğuktur.",
+      "tr": "Hava bugün dışarıda son derece soğuk.",
       "sentence": "The weather is extremely cold outside today.",
       "answer": "extremely",
-      "answer_tr": "oldukça",
+      "answer_tr": "son derece",
       "modDistractors": [
         "slightly",
         "mildly",
@@ -11844,10 +11844,10 @@
       "id": "nk_b2_624",
       "level": "B2",
       "pos": "adv",
-      "tr": "Hava aşama aşama ısınmaya başladı.",
+      "tr": "Hava bu hafta giderek ısındı.",
       "sentence": "The weather gradually became warmer this week.",
       "answer": "gradually",
-      "answer_tr": "aşama aşama",
+      "answer_tr": "giderek",
       "modDistractors": [
         "suddenly",
         "abruptly",
@@ -11863,7 +11863,7 @@
       "id": "nk_b2_625",
       "level": "B2",
       "pos": "adv",
-      "tr": "Destek projenin başarısını büyük oranda etkiledi.",
+      "tr": "Desteğiniz nihai başarımıza büyük oranda yardımcı oldu.",
       "sentence": "Your support greatly helped our final success.",
       "answer": "greatly",
       "answer_tr": "büyük oranda",
@@ -12053,10 +12053,10 @@
       "id": "nk_b1_635",
       "level": "B1",
       "pos": "adv",
-      "tr": "Onlar toplantıda başlıca bütçe konularını konuştular.",
+      "tr": "Onlar toplantıda esas olarak bütçe konularını konuştular.",
       "sentence": "They mainly discussed budget issues in the meeting.",
       "answer": "mainly",
-      "answer_tr": "başlıca",
+      "answer_tr": "esas olarak",
       "modDistractors": [
         "rarely",
         "casually",
@@ -12091,10 +12091,10 @@
       "id": "nk_a2_637",
       "level": "A2",
       "pos": "adv",
-      "tr": "Proje yaklaşık tamamlanmak üzere.",
+      "tr": "Proje şimdi neredeyse tamamlanmış durumda.",
       "sentence": "The project is nearly finished now.",
       "answer": "nearly",
-      "answer_tr": "yaklaşık",
+      "answer_tr": "neredeyse",
       "modDistractors": [
         "hardly",
         "barely",
@@ -12110,7 +12110,7 @@
       "id": "nk_b1_638",
       "level": "B1",
       "pos": "adv",
-      "tr": "Yüksek fiyat her zaman mutlaka iyi kalite anlamına gelmez.",
+      "tr": "Yüksek fiyat mutlaka iyi kalite anlamına gelmez.",
       "sentence": "A high price does not necessarily mean good quality.",
       "answer": "necessarily",
       "answer_tr": "mutlaka",
@@ -12234,7 +12234,7 @@
         "vaguely"
       ],
       "mod_tr": {
-        "roughly": "kabataslak",
+        "roughly": "kabaca",
         "approximately": "yaklaşık olarak",
         "vaguely": "belirsizce"
       }
@@ -12262,10 +12262,10 @@
       "id": "nk_b2_646",
       "level": "B2",
       "pos": "adv",
-      "tr": "Kurs başlıca genç profesyonelleri hedeflemektedir.",
+      "tr": "Kurs öncelikle genç profesyonelleri hedeflemektedir.",
       "sentence": "The course is primarily aimed at young professionals.",
       "answer": "primarily",
-      "answer_tr": "başlıca",
+      "answer_tr": "öncelikle",
       "modDistractors": [
         "secondarily",
         "rarely",
@@ -12471,10 +12471,10 @@
       "id": "nk_a2_657",
       "level": "A2",
       "pos": "adv",
-      "tr": "Doktor onu sağlık sorununu ciddi derecede önemsemesi için uyardı.",
+      "tr": "Doktor onu sağlık sorununu ciddi şekilde ele alması için uyardı.",
       "sentence": "The doctor warned him to take his health problem seriously.",
       "answer": "seriously",
-      "answer_tr": "ciddi derecede",
+      "answer_tr": "ciddi şekilde",
       "modDistractors": [
         "lightly",
         "playfully",
@@ -12616,7 +12616,7 @@
       "mod_tr": {
         "separately": "ayrı olarak",
         "individually": "bireysel olarak",
-        "alone": "yalnızca"
+        "alone": "tek başına"
       }
     },
     {
@@ -12889,10 +12889,10 @@
       "id": "nk_b2_679",
       "level": "B2",
       "pos": "adv",
-      "tr": "Fiyatlar geçen ay önemli derecede arttı.",
+      "tr": "Fiyatlar geçen ay çarpıcı biçimde arttı.",
       "sentence": "Prices increased dramatically last month.",
       "answer": "dramatically",
-      "answer_tr": "önemli derecede",
+      "answer_tr": "çarpıcı biçimde",
       "modDistractors": [
         "slightly",
         "gradually",
@@ -12965,7 +12965,7 @@
       "id": "nk_b2_683",
       "level": "B2",
       "pos": "adv",
-      "tr": "Bu bölge insanlarla yoğun şekilde nüfuslanmıştır.",
+      "tr": "Bu bölgede insanlar yoğun şekilde yerleşmiştir.",
       "sentence": "This region is densely populated with people.",
       "answer": "densely",
       "answer_tr": "yoğun şekilde",
@@ -12984,7 +12984,7 @@
       "id": "nk_b2_684",
       "level": "B2",
       "pos": "adv",
-      "tr": "O o kokuyu belirgin şekilde hatırlıyordu.",
+      "tr": "O, o eşsiz kokuyu belirgin şekilde hatırlıyordu.",
       "sentence": "She distinctly remembered that unique smell.",
       "answer": "distinctly",
       "answer_tr": "belirgin şekilde",
@@ -13041,10 +13041,10 @@
       "id": "nk_b2_687",
       "level": "B2",
       "pos": "adv",
-      "tr": "Biz şans eseri trene zamanında yetiştik.",
+      "tr": "Neyse ki trene zamanında yetiştik.",
       "sentence": "We fortunately caught the train on time.",
       "answer": "fortunately",
-      "answer_tr": "şans eseri",
+      "answer_tr": "neyse ki",
       "modDistractors": [
         "unfortunately",
         "tragically",
@@ -13090,7 +13090,7 @@
       ],
       "mod_tr": {
         "exactly": "tam olarak",
-        "precisely": "kesinlikle",
+        "precisely": "tam tamına",
         "definitely": "kesin olarak"
       }
     },
@@ -13098,7 +13098,7 @@
       "id": "nk_b1_690",
       "level": "B1",
       "pos": "adv",
-      "tr": "O son zamanlarda çok yorgun görünüyor.",
+      "tr": "O son zamanlarda çok yorgun hissediyor.",
       "sentence": "She has been feeling very tired lately.",
       "answer": "lately",
       "answer_tr": "son zamanlarda",
@@ -13174,10 +13174,10 @@
       "id": "nk_b2_694",
       "level": "B2",
       "pos": "adv",
-      "tr": "Proje bütçe sorunları nedeniyle belirsiz şekilde ertelendi.",
+      "tr": "Proje bütçe sorunları nedeniyle süresiz olarak ertelendi.",
       "sentence": "The project was postponed indefinitely due to budget issues.",
       "answer": "indefinitely",
-      "answer_tr": "belirsiz şekilde",
+      "answer_tr": "süresiz olarak",
       "modDistractors": [
         "temporarily",
         "briefly",
@@ -13250,7 +13250,7 @@
       "id": "nk_b2_698",
       "level": "B2",
       "pos": "adv",
-      "tr": "O o yoğun siste hemen hemen hiç göremiyordu.",
+      "tr": "O, yoğun siste hemen hemen hiçbir şey göremiyordu.",
       "sentence": "He could scarcely see anything in the thick fog.",
       "answer": "scarcely",
       "answer_tr": "hemen hemen hiç",
@@ -13326,7 +13326,7 @@
       "id": "nk_b1_702",
       "level": "B1",
       "pos": "adv",
-      "tr": "O hedefini doğru biçimde vurmayı başardı.",
+      "tr": "O hedefi doğru biçimde vurmayı başardı.",
       "sentence": "He managed to hit the target accurately.",
       "answer": "accurately",
       "answer_tr": "doğru biçimde",
@@ -13336,7 +13336,7 @@
         "carelessly"
       ],
       "mod_tr": {
-        "falsely": "yanlışlıkla",
+        "falsely": "yanlış biçimde",
         "wrongly": "hatalı şekilde",
         "carelessly": "dikkatsizce"
       }
@@ -13345,17 +13345,17 @@
       "id": "nk_b2_703",
       "level": "B2",
       "pos": "adv",
-      "tr": "O projeye gönüllüce katılmaya karar verdi.",
+      "tr": "O projeye gönüllü olarak katılmaya karar verdi.",
       "sentence": "She decided to join the project voluntarily.",
       "answer": "voluntarily",
-      "answer_tr": "gönüllüce",
+      "answer_tr": "gönüllü olarak",
       "modDistractors": [
         "compulsively",
         "unwillingly",
         "forcibly"
       ],
       "mod_tr": {
-        "compulsively": "zorunlu olarak",
+        "compulsively": "takıntılı biçimde",
         "unwillingly": "istemeyerek",
         "forcibly": "zorla"
       }
@@ -13478,10 +13478,10 @@
       "id": "nk_c1_710",
       "level": "C1",
       "pos": "adv",
-      "tr": "Onlar bu konuyu gizlice tartıştılar.",
+      "tr": "Onlar bu konuyu gizlilik içinde tartıştılar.",
       "sentence": "They discussed this matter confidentially.",
       "answer": "confidentially",
-      "answer_tr": "gizlice",
+      "answer_tr": "gizlilik içinde",
       "modDistractors": [
         "publicly",
         "openly",
@@ -13508,7 +13508,7 @@
       ],
       "mod_tr": {
         "unwillingly": "istemeyerek",
-        "compulsively": "mecburen",
+        "compulsively": "takıntılı biçimde",
         "randomly": "rastgele"
       }
     },
@@ -13547,7 +13547,7 @@
       "mod_tr": {
         "secretly": "gizlice",
         "vaguely": "belirsizce",
-        "obscurely": "karmaşıkça"
+        "obscurely": "anlaşılmaz biçimde"
       }
     },
     {
@@ -13640,7 +13640,7 @@
         "slightly"
       ],
       "mod_tr": {
-        "moderately": "kararınca",
+        "moderately": "ölçülü biçimde",
         "rarely": "nadiren",
         "slightly": "hafifçe"
       }
@@ -13680,7 +13680,7 @@
       "mod_tr": {
         "slightly": "hafifçe",
         "barely": "neredeyse hiç",
-        "scarcely": "kıt kanaat"
+        "scarcely": "güçlükle"
       }
     },
     {
@@ -13706,10 +13706,10 @@
       "id": "nk_c1_722",
       "level": "C1",
       "pos": "adv",
-      "tr": "Jüri sunumu uygun olmayan şekilde değerlendirdi.",
+      "tr": "Jüri sunumu olumsuz biçimde değerlendirdi.",
       "sentence": "The jury evaluated the presentation unfavourably.",
       "answer": "unfavourably",
-      "answer_tr": "uygun olmayan şekilde",
+      "answer_tr": "olumsuz biçimde",
       "modDistractors": [
         "favorably",
         "positively",
@@ -13725,10 +13725,10 @@
       "id": "nk_c1_723",
       "level": "C1",
       "pos": "adv",
-      "tr": "Maliyetler son yıllarda aşırı derecede arttı.",
+      "tr": "Maliyetler son yıllarda muazzam ölçüde arttı.",
       "sentence": "The costs increased enormously in recent years.",
       "answer": "enormously",
-      "answer_tr": "aşırı derecede",
+      "answer_tr": "muazzam ölçüde",
       "modDistractors": [
         "slightly",
         "minimally",
@@ -13782,10 +13782,10 @@
       "id": "nk_c1_726",
       "level": "C1",
       "pos": "adv",
-      "tr": "O tüm görevlerini vicdanen ve özenle yerine getirir.",
+      "tr": "O işte tüm görevlerini titizlikle yerine getirir.",
       "sentence": "She performs all her duties conscientiously at work.",
       "answer": "conscientiously",
-      "answer_tr": "vicdanen",
+      "answer_tr": "titizlikle",
       "modDistractors": [
         "carelessly",
         "hastily",
@@ -13839,10 +13839,10 @@
       "id": "nk_c1_729",
       "level": "C1",
       "pos": "adv",
-      "tr": "Her iki gruba da eşit şekilde davranıldı.",
+      "tr": "Test sırasında her iki gruba da eşdeğer biçimde davranıldı.",
       "sentence": "Both groups were treated equivalently during the test.",
       "answer": "equivalently",
-      "answer_tr": "eşit şekilde",
+      "answer_tr": "eşdeğer biçimde",
       "modDistractors": [
         "unequally",
         "differently",
@@ -13858,19 +13858,19 @@
       "id": "nk_b2_730",
       "level": "B2",
       "pos": "adv",
-      "tr": "Bu yeni plan potansiyel olarak hayat kurtarabilir.",
+      "tr": "Bu yeni plan potansiyel olarak birçok hayat kurtarabilir.",
       "sentence": "This new plan could potentially save many lives.",
       "answer": "potentially",
-      "answer_tr": "imkan dahilinde",
+      "answer_tr": "potansiyel olarak",
       "modDistractors": [
         "definitely",
         "certainly",
-        "impossible"
+        "impossibly"
       ],
       "mod_tr": {
         "definitely": "kesinlikle",
         "certainly": "şüphesiz",
-        "impossible": "imkansız"
+        "impossibly": "imkansız biçimde"
       }
     },
     {
@@ -13915,10 +13915,10 @@
       "id": "nk_b2_733",
       "level": "B2",
       "pos": "adv",
-      "tr": "Otel şehir merkezinde elverişli bir konumdadır.",
+      "tr": "Otel merkeze yakın, elverişli bir şekilde konumlanmıştır.",
       "sentence": "The hotel is conveniently located near the center.",
       "answer": "conveniently",
-      "answer_tr": "uygun olarak",
+      "answer_tr": "elverişli bir şekilde",
       "modDistractors": [
         "inconveniently",
         "remotely",
@@ -13945,8 +13945,8 @@
       ],
       "mod_tr": {
         "completely": "tamamen",
-        "fully": "tamıyla",
-        "totally": "bütünsel olarak"
+        "fully": "tamamıyla",
+        "totally": "tümüyle"
       }
     },
     {
@@ -13972,10 +13972,10 @@
       "id": "nk_b2_736",
       "level": "B2",
       "pos": "adv",
-      "tr": "Toplantı sabah saat dokuzda hemen başladı.",
+      "tr": "Toplantı sabah saat dokuzda tam zamanında başladı.",
       "sentence": "The meeting started promptly at nine in the morning.",
       "answer": "promptly",
-      "answer_tr": "hemen",
+      "answer_tr": "tam zamanında",
       "modDistractors": [
         "late",
         "slowly",
@@ -14124,19 +14124,19 @@
       "id": "nk_b2_744",
       "level": "B2",
       "pos": "adv",
-      "tr": "O parti boyunca sosyal olarak çok aktifti.",
+      "tr": "O etkinlik boyunca sosyal olarak çok aktifti.",
       "sentence": "She was very active socially during the event.",
       "answer": "socially",
       "answer_tr": "sosyal olarak",
       "modDistractors": [
-        "isolated",
+        "solitarily",
         "quietly",
         "privately"
       ],
       "mod_tr": {
-        "isolated": "izole",
+        "solitarily": "yalnız başına",
         "quietly": "sessizce",
-        "privately": "özellikle"
+        "privately": "özel olarak"
       }
     },
     {
@@ -14181,7 +14181,7 @@
       "id": "nk_c1_747",
       "level": "C1",
       "pos": "adv",
-      "tr": "Onlar yeni evlerinde çok fazla mutlu oldular.",
+      "tr": "Onlar tatil köyünde zamanın tadını çok fazla çıkardılar.",
       "sentence": "They enjoyed their time immensely at the resort.",
       "answer": "immensely",
       "answer_tr": "çok fazla",
@@ -14200,7 +14200,7 @@
       "id": "nk_b2_748",
       "level": "B2",
       "pos": "adv",
-      "tr": "O zorlu sınava zihinsel olarak hazırdı.",
+      "tr": "O bu zorlu mücadeleye zihinsel olarak hazırdı.",
       "sentence": "He was mentally prepared for the difficult challenge.",
       "answer": "mentally",
       "answer_tr": "zihinsel olarak",
@@ -14219,10 +14219,10 @@
       "id": "nk_c1_749",
       "level": "C1",
       "pos": "adv",
-      "tr": "Bu yılın en iyi filmi tartışılır şekilde budur.",
+      "tr": "Bu, denebilir ki yılın en iyi filmi.",
       "sentence": "This is arguably the best movie of the year.",
       "answer": "arguably",
-      "answer_tr": "tartışılır şekilde",
+      "answer_tr": "denebilir ki",
       "modDistractors": [
         "undeniably",
         "definitely",
@@ -14561,10 +14561,10 @@
       "id": "nk_b2_767",
       "level": "B2",
       "pos": "adv",
-      "tr": "Komite yeni proje teklifimize uygun bir şekilde yanıt verdi.",
+      "tr": "Komite yeni proje teklifimize olumlu bir şekilde yanıt verdi.",
       "sentence": "The committee responded favourably to our new project proposal.",
       "answer": "favourably",
-      "answer_tr": "uygun bir şekilde",
+      "answer_tr": "olumlu bir şekilde",
       "modDistractors": [
         "unfavourably",
         "negatively",
@@ -14590,7 +14590,7 @@
         "sparingly"
       ],
       "mod_tr": {
-        "selfishly": "bencilleşerek",
+        "selfishly": "bencilce",
         "meanly": "cimrice",
         "sparingly": "tutumlu bir şekilde"
       }
@@ -14599,10 +14599,10 @@
       "id": "nk_c1_769",
       "level": "C1",
       "pos": "adv",
-      "tr": "Toplum merkezi ayrım gözetmeksizin herkesi kapsamlı bir şekilde karşılıyor.",
+      "tr": "Toplum merkezi ayrım gözetmeksizin herkesi kapsayıcı bir şekilde karşılıyor.",
       "sentence": "The community center welcomes everyone inclusively without discrimination.",
       "answer": "inclusively",
-      "answer_tr": "kapsamlı bir şekilde",
+      "answer_tr": "kapsayıcı bir şekilde",
       "modDistractors": [
         "exclusively",
         "selectively",
@@ -14648,7 +14648,7 @@
       ],
       "mod_tr": {
         "individually": "bireysel olarak",
-        "separately": "ayrıca",
+        "separately": "ayrı ayrı",
         "unilaterally": "tek taraflı olarak"
       }
     },
@@ -14744,17 +14744,17 @@
       "mod_tr": {
         "randomly": "rastgele",
         "singly": "tek tek",
-        "separately": "ayrıca"
+        "separately": "ayrı ayrı"
       }
     },
     {
       "id": "nk_c1_777",
       "level": "C1",
       "pos": "adv",
-      "tr": "Nehir yüzücü güvenliği için kötü ünlü derecede tehlikelidir.",
+      "tr": "Nehir, bilindiği üzere yüzücü güvenliği için tehlikelidir.",
       "sentence": "The river is notoriously dangerous for swimmer safety.",
       "answer": "notoriously",
-      "answer_tr": "kötü ünlü",
+      "answer_tr": "bilindiği üzere",
       "modDistractors": [
         "famously",
         "popularly",
@@ -14827,10 +14827,10 @@
       "id": "nk_c1_781",
       "level": "C1",
       "pos": "adv",
-      "tr": "Büyüyen tehlikenin şiddetle farkına vardı.",
+      "tr": "Büyüyen tehlikenin keskin biçimde farkına vardı.",
       "sentence": "He became acutely aware of the growing danger.",
       "answer": "acutely",
-      "answer_tr": "şiddetle",
+      "answer_tr": "keskin biçimde",
       "modDistractors": [
         "mildly",
         "slightly",
@@ -14891,12 +14891,12 @@
       "modDistractors": [
         "deliberately",
         "intentionally",
-        "planned"
+        "purposely"
       ],
       "mod_tr": {
         "deliberately": "kasten",
         "intentionally": "bilerek",
-        "planned": "planlı"
+        "purposely": "amaçlı olarak"
       }
     },
     {
@@ -15003,12 +15003,12 @@
       "answer": "painfully",
       "answer_tr": "acı verici bir şekilde",
       "modDistractors": [
-        "painless",
+        "painlessly",
         "pleasantly",
         "easily"
       ],
       "mod_tr": {
-        "painless": "ağrısız",
+        "painlessly": "acısızca",
         "pleasantly": "hoş bir şekilde",
         "easily": "kolayca"
       }
@@ -15055,18 +15055,18 @@
       "id": "nk_c1_793",
       "level": "C1",
       "pos": "adv",
-      "tr": "Her birkaç dakikada bir telefonunu zorunlu olarak kontrol etti.",
+      "tr": "Her birkaç dakikada bir telefonunu takıntılı biçimde kontrol etti.",
       "sentence": "He checked his phone compulsively every few minutes.",
       "answer": "compulsively",
-      "answer_tr": "zorunlu olarak",
+      "answer_tr": "takıntılı biçimde",
       "modDistractors": [
         "optionally",
         "calmly",
         "rarely"
       ],
       "mod_tr": {
-        "optionally": "isteğe bağlı",
-        "calmly": "sakinleşip",
+        "optionally": "isteğe bağlı olarak",
+        "calmly": "sakin bir şekilde",
         "rarely": "nadiren"
       }
     },
@@ -15074,7 +15074,7 @@
       "id": "nk_b2_794",
       "level": "B2",
       "pos": "adv",
-      "tr": "Muhafız siyah karavana şüpheyle baktı.",
+      "tr": "Muhafız koyu renkli minibüse şüpheyle baktı.",
       "sentence": "The guard looked suspiciously at the dark van.",
       "answer": "suspiciously",
       "answer_tr": "şüpheyle",
@@ -15085,7 +15085,7 @@
       ],
       "mod_tr": {
         "trustingly": "güvenle",
-        "confidently": "eminlikle",
+        "confidently": "kendinden emin biçimde",
         "openly": "açıkça"
       }
     },
@@ -15093,19 +15093,19 @@
       "id": "nk_c1_795",
       "level": "C1",
       "pos": "adv",
-      "tr": "Mülakatta her soruyu ilgili olarak yanıtladı.",
+      "tr": "Mülakatta her soruyu konuyla ilgili biçimde yanıtladı.",
       "sentence": "She answered every question relevantly during the interview.",
       "answer": "relevantly",
-      "answer_tr": "ilgili olarak",
+      "answer_tr": "konuyla ilgili biçimde",
       "modDistractors": [
-        "irrelevant",
+        "irrelevantly",
         "randomly",
-        "unrelated"
+        "pointlessly"
       ],
       "mod_tr": {
-        "irrelevant": "ilgisizce",
+        "irrelevantly": "konu dışı biçimde",
         "randomly": "rastgele",
-        "unrelated": "bağlantısız"
+        "pointlessly": "anlamsızca"
       }
     },
     {
@@ -15788,7 +15788,7 @@
       ],
       "mod_tr": {
         "continual": "sık sık tekrarlanan (aralıklarla; kesintisiz değil)",
-        "continued": "devam eden/sürdürülür (başka anlam)",
+        "continued": "devam eden (başka anlam)",
         "continuing": "süregelen (başka anlam)"
       }
     },
@@ -16131,7 +16131,7 @@
       "mod_tr": {
         "confident": "kendinden emin (kişi için; 'gizli' değil)",
         "confiding": "içini döken/güvenen (başka anlam)",
-        "evident": "aşikâr/apaçık (zıt yönde)"
+        "evident": "aşikâr/apaçık (başka anlam)"
       }
     },
     {
@@ -16214,10 +16214,10 @@
       "id": "nk_c1_854",
       "level": "C1",
       "pos": "adj",
-      "tr": "Toplantılar dönüşümlü günlerde yapılıyor.",
+      "tr": "Toplantılar gün aşırı yapılıyor.",
       "sentence": "The meetings are held on alternate days.",
       "answer": "alternate",
-      "answer_tr": "dönüşümlü/bir gün arayla",
+      "answer_tr": "gün aşırı",
       "modDistractors": [
         "alternative",
         "alternating",
@@ -16328,7 +16328,7 @@
       "id": "nk_b1_860",
       "level": "B1",
       "pos": "adj",
-      "tr": "Bu bir insan hatasıydı.",
+      "tr": "Kaza insan hatasından kaynaklandı.",
       "sentence": "The accident was caused by human error.",
       "answer": "human",
       "answer_tr": "insan/insana ait",
@@ -17145,7 +17145,7 @@
       "id": "nk_a2_903",
       "level": "A2",
       "pos": "adj",
-      "tr": "Konuya gerçekten ilgili görünüyordu.",
+      "tr": "Konuyla gerçekten ilgili görünüyordu.",
       "sentence": "She seemed genuinely interested in the subject.",
       "answer": "interested",
       "answer_tr": "ilgili/meraklı",

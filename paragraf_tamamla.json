@@ -763,7 +763,7 @@
   ],
   "d": [
    {
-    "t": "For this reason, it is best to brush the teeth as soon as possible after drinking them.",
+    "t": "For this reason, it is best to brush the teeth as soon as possible after having them.",
     "tag": "ters",
     "key": "Waiting for thirty minutes to an hour",
     "bait": "as soon as possible",
@@ -952,7 +952,7 @@
     "tag": "bag",
     "key": "cause the pupils to widen",
     "bait": "However",
-    "why": "Bilgi doğru ama ilişki sonuç ilişkisi: göz bebeği genişlediği İÇİN daha çok ışın girer. 'However' karşıtlık kurduğu için mantık bozuluyor."
+    "why": "Bilgi doğru ama bağlaç yanlış: göz bebeği genişlediği İÇİN daha çok ışın girer, yani ilişki bir sonuç ilişkisidir. 'However' karşıtlık kurduğu için mantık bozuluyor."
    },
    {
     "t": "In other words, dark lenses mean that less light reaches the pupils of the eyes.",

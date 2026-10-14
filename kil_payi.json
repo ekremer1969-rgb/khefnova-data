@@ -361,7 +361,7 @@
   ],
   "yol": "Örneğin işlevini “even” ele veriyor: yazar sorunları sıralıyor (hatalar, donmalar, hırsızlık) ve en uç noktayı “even” ile sona koyuyor. Bu, iddianın (“savings … smaller than expected”) en çarpıcı kanıtı. Doğru şıktaki “striking” kelimesi “even”in işlevini karşılıyor.",
   "tactic": "Bir örnek “even” ile sunuluyorsa yazar onu iddianın EN GÜÇLÜ kanıtı olarak kullanıyordur. Amaç sorusunda “to give a striking/extreme example of …” kalıbını ara ve “of …” kısmının paragrafın ana iddiasıyla eşleştiğini kontrol et.",
-  "tr": "Süpermarketler personel maliyetinden tasarruf etmek için self-servis kasalar getirdi. Ancak tasarruf beklenenden az oldu. Müşteriler hata yapıyor, makineler donuyor ve yardım etmek için yine de personel çalıştırmak gerekiyor. Bazı mağazalar, ürünleri müşteri adına kimse okutmadığında hırsızlığın arttığını da fark etti. İngiltere'deki büyük bir zincir ise makineleri birkaç mağazasından kaldırıp geleneksel kasiyerleri geri getirdi."
+  "tr": "Süpermarketler personel maliyetinden tasarruf etmek için self-servis kasalar getirdi. Ancak tasarruf beklenenden az oldu. Müşteriler hata yapıyor, makineler donuyor ve yardım etmek için yine de personel çalıştırmak gerekiyor. Bazı mağazalar, ürünleri müşteri adına kimse okutmadığında hırsızlığın arttığını da fark etti. İngiltere'deki büyük bir zincir hatta makineleri birkaç mağazasından kaldırıp geleneksel kasiyerleri geri getirdi."
  },
  {
   "id": "kp015",
@@ -1011,7 +1011,7 @@
   ],
   "yol": "“Less well known is that…” cümlesi paragrafın amacını ilan ediyor: bilinen imajın (lambalı hemşire) yanına bilinmeyen bir yüz eklemek (istatistikçi). Sonraki her cümle bu bilinmeyen yüzü anlatıyor. Bilinen imaj sadece arka plan.",
   "tactic": "“Less well known is…”, “What few people realise is…”, “Often overlooked is…” amaç sorusunun altın anahtarlarıdır: yazar bilineni ARKA PLAN yapar, bilinmeyeni öne çıkarır. Bilinen tarafı anlatan şık paragrafın sahnesini, bilinmeyeni anlatan şık amacını verir.",
-  "tr": "Florence Nightingale, geceleri elinde lambayla hastane koğuşlarında dolaşan şefkatli bir hemşire olarak hatırlanır. Daha az bilinen şey, onun aynı zamanda yetenekli bir istatistikçi olduğudur. Kırım Savaşı sırasında, kirli hastanelerde yaralarından değil hastalıktan ölen askerlerin çok daha fazla olduğunu gösteren veriler topladı. Rakamları, hükümeti hastane hijyenini iyileştirmeye ikna eden açık ve renkli diyagramlarla sundu."
+  "tr": "Florence Nightingale, geceleri elinde lambayla hastane koğuşlarında dolaşan şefkatli bir hemşire olarak hatırlanır. Daha az bilinen şey, onun aynı zamanda yetenekli bir istatistikçi olduğudur. Kırım Savaşı sırasında, kirli hastanelerde hastalıktan ölen askerlerin yaralarından ölenlerden çok daha fazla olduğunu gösteren veriler topladı. Rakamları, hükümeti hastane hijyenini iyileştirmeye ikna eden açık ve renkli diyagramlarla sundu."
  },
  {
   "id": "kp040",
@@ -1583,7 +1583,7 @@
   ],
   "yol": "Paragrafın kalbi “Sleep scientists say this is unfair” ve gerekçesi: ergenlikte iç saat KAYIYOR. Yani geç uyumak karakter (tembellik) değil, biyoloji. Okul saatleri örneği bu fikrin pratik bir uzantısı; ana fikir değil.",
   "tactic": "Bir davranışı açıklayan iki rakip yorum varsa (karakter mi, biyoloji mi?), ana fikir yazarın SEÇTİĞİ yorumdur. Suçlama cümlesi (“are often accused of…”) metne başka bir sesi taşır; o sesi tekrar eden şık, yazarın düzelttiği yargıdır.",
-  "tr": "Ergenler, geç yattıkları ve sabahları kalkmakta zorlandıkları için sık sık tembellikle suçlanır. Uyku bilimcileri bunun haksızlık olduğunu söylüyor. Ergenlik döneminde vücudun iç saati kayar; böylece gençler doğal olarak yetişkinlerden ya da küçük çocuklardan yaklaşık iki saat sonra uykulu hisseder. Başlangıç saatini sabahın daha geç bir saatine alan bazı okullar daha iyi devam oranları ve sınıfta uyuyakalan öğrencilerin azaldığını bildirdi."
+  "tr": "Ergenler, geç yattıkları ve sabahları kalkmakta zorlandıkları için sık sık tembellikle suçlanır. Uyku bilimcileri bunun haksızlık olduğunu söylüyor. Ergenlik döneminde vücudun iç saati kayar; böylece gençler doğal olarak yetişkinlerden ya da küçük çocuklardan yaklaşık iki saat sonra uykulu hisseder. Başlangıç saatini sabahın daha geç bir saatine alan bazı okullar devam oranlarının iyileştiğini ve sınıfta uyuyakalan öğrencilerin azaldığını bildirdi."
  },
  {
   "id": "kp062",
@@ -4781,7 +4781,7 @@
   ],
   "yol": "Erken haritalar bir SORUN olarak anlatılıyor: ölçekli çizim merkezi sıkıştırıyor, kenarları dağıtıyordu; sonuç kafa karıştırıcıydı. Beck'in diyagramı bu sorunun çözümü: gerçek mesafeyi yok say, yalnızca sıra ve aktarma noktalarını göster. Yani erken haritalar, çözümün değerini anlamamız için kurulmuş sahne.",
   "tactic": "Sorun-çözüm anlatan bir paragrafta ilk bölümün (eski yöntem, başarısız deneme) amacı neredeyse her zaman ÇÖZÜMÜN neyi düzelttiğini göstermektir. Amaç sorusunda “to show the problem that … was meant to solve” kalıbını ara.",
-  "tr": "Londra metrosunun ilk haritaları güzergâhları doğru biçimde göstermeye çalışıyordu; her kıvrım ve mesafe ölçekli çiziliyordu. Sonuç kafa karıştırıcıydı, çünkü merkezdeki istasyonlar birbirine sıkışırken kenardakiler çok uzağa dağılıyordu. 1931'de Harry Beck adlı bir mühendislik teknik ressamı gerçek mesafeleri yok sayan ve yalnızca düz çizgiler kullanan bir diyagram önerdi. Yolcuların, diye fark etmişti, istasyonların sırasını ve nerede aktarma yapacaklarını bilmesi gerekiyordu, birbirlerinden ne kadar uzak olduklarını değil."
+  "tr": "Londra metrosunun ilk haritaları güzergâhları doğru biçimde göstermeye çalışıyordu; her kıvrım ve mesafe ölçekli çiziliyordu. Sonuç kafa karıştırıcıydı, çünkü merkezdeki istasyonlar birbirine sıkışırken kenardakiler çok uzağa dağılıyordu. 1931'de Harry Beck adlı bir mühendislik teknik ressamı gerçek mesafeleri yok sayan ve yalnızca düz çizgiler kullanan bir diyagram önerdi. Beck'in fark ettiği şey şuydu: yolcuların istasyonların birbirinden ne kadar uzak olduğunu değil, sırasını ve nerede aktarma yapacaklarını bilmesi gerekiyordu."
  },
  {
   "id": "kp185",
@@ -6029,7 +6029,7 @@
   ],
   "yol": "Metin bir silahlanma yarışı anlatıyor: konaklar yabancı yumurtayı tanımayı öğreniyor, guguk kuşları taklit yumurtaya evriliyor. Dunnock bu yarışın dışında kalmış: hiç benzemeyen yumurtaları bile kabul ediyor. Neden? Son cümle: daha kısa süredir hedef, savunmaları henüz evrimleşme fırsatı bulamadı.",
   "tactic": "Bir genel mekanizma (taklit yumurta) ile bir İSTİSNA (benzemeyen yumurtayı kabul eden tür) aynı paragraftaysa, istisnanın nedeni genel mekanizma olamaz. İstisnayı açıklayan cümle genellikle ondan hemen sonra gelir.",
-  "tr": "Guguk kuşu yumurtalarını başka kuşların yuvalarına bırakır ve yavrularını büyütmeyi ev sahiplerine bırakır. Ev sahibi türler karşılık verdi: kendi yumurtalarına benzemeyen yumurtaları tanımayı ve reddetmeyi öğrendiler; guguk kuşları da kendi özel ev sahiplerinin yumurtalarını taklit eden yumurtalar geliştirdi. Saz ötleğeni gibi bazı ev sahipleri artık yabancı yumurtaları kolayca reddediyor; dunnock gibi diğerleri ise kendilerininkine hiç benzemeyen yumurtaları kabul ediyor. Araştırmacılar dunnock'un daha kısa süredir hedef olduğunu ve savunmalarının henüz evrimleşme fırsatı bulamadığını düşünüyor."
+  "tr": "Guguk kuşu yumurtalarını başka kuşların yuvalarına bırakır ve yavrularını büyütmeyi ev sahiplerine bırakır. Ev sahibi türler karşılık verdi: kendi yumurtalarına benzemeyen yumurtaları tanımayı ve reddetmeyi öğrendiler; guguk kuşları da kendi özel ev sahiplerinin yumurtalarını taklit eden yumurtalar geliştirdi. Saz ötleğeni gibi bazı ev sahipleri artık yabancı yumurtaları kolayca reddediyor; çit serçesi (dunnock) gibi diğerleri ise kendilerininkine hiç benzemeyen yumurtaları kabul ediyor. Araştırmacılar çit serçesinin daha kısa süredir hedef olduğunu ve savunmalarının henüz evrimleşme fırsatı bulamadığını düşünüyor."
  },
  {
   "id": "kp233",
@@ -6159,7 +6159,7 @@
   ],
   "yol": "Soru “ultimately” diyor: zinciri en dibe kadar izle. Hayvanlar → bakteriler → bakteriler enerjiyi ışıktan değil, bacalardan akan sıcak suda çözünmüş kimyasallardan (özellikle hidrojen sülfür) alıyor. Nihai kaynak kimyasallar; bakteriler bir ara halka.",
   "tactic": "“Ultimately”, “originally”, “at root” gibi kelimeler bir zincirin EN SON halkasını ister. Ara halkayı (bakteri) veren şık doğru ama yarım kalır; zinciri sonuna kadar izle ve “draw energy from …” gibi kaynağı bildiren ifadeyi bul.",
-  "tr": "1977'ye kadar biyologlar Dünya'daki neredeyse bütün yaşamın nihayetinde güneş ışığına bağlı olduğunu varsayıyordu. O yıl Pasifik'in tabanındaki hidrotermal bacaları araştıran bilim insanları, tam karanlıkta yaşayan dev tüp solucanları, istiridyeler ve yengeçlerden oluşan yoğun topluluklar buldu. Besin zincirleri, enerjiyi ışıktan değil, bacalardan akan sıcak suda çözünmüş kimyasallardan, başta hidrojen sülfürden çeken bakterilere dayanıyor. Bu keşif o zamandan beri, buzun altında benzer bacaların bulunabileceği Europa gibi uydularda yaşam arayışını teşvik etti."
+  "tr": "1977'ye kadar biyologlar Dünya'daki neredeyse bütün yaşamın nihayetinde güneş ışığına bağlı olduğunu varsayıyordu. O yıl Pasifik'in tabanındaki hidrotermal bacaları araştıran bilim insanları, tam karanlıkta yaşayan dev tüp solucanları, deniz tarakları ve yengeçlerden oluşan yoğun topluluklar buldu. Besin zincirleri, enerjiyi ışıktan değil, bacalardan akan sıcak suda çözünmüş kimyasallardan, başta hidrojen sülfürden çeken bakterilere dayanıyor. Bu keşif o zamandan beri, buzun altında benzer bacaların bulunabileceği Europa gibi uydularda yaşam arayışını teşvik etti."
  },
  {
   "id": "kp238",
@@ -8042,7 +8042,7 @@
   ],
   "yol": "İlk cümle atasözünü verip “but it is false” ile reddediyor. Gerekçe: yıldırım en yüksek nesneye düşer ve yüksek nesne yüksek kalır. Empire State örneği ve açık arazide çalışanlar bunu destekliyor. Son cümle sonucu bağlıyor: bir kez vurulmak güvende olmak demek değil.",
   "tactic": "Paragraf bir atasözünü alıntılayıp “but it is false” diyorsa ana fikir atasözünün TERSİdir. Atasözünü tekrar eden şık başkasının sesidir. Rekor gibi çarpıcı bir örnek (yılda 20–25 kez) ana fikir değil, kanıttır.",
-  "tr": "“Yıldırım aynı yere iki kez düşmez” teselli edici bir sözdür, ama yanlıştır. Yıldırım bir bölgedeki en yüksek nesneye düşme eğilimindedir ve yüksek bir nesne yüksek kalır. New York'taki Empire State Binası her yıl yaklaşık yirmi ila yirmi beş kez yıldırım çarpmasına uğrar. Parkkorucuları, golfçüler ve açık tarlalarda çalışan çiftçiler de aynı nedenle daha yüksek risk taşır. Demek ki bir kez yıldırım çarpması güvende olmak hakkında hiçbir şey söylemez; hatta bir yerin özellikle açıkta olduğuna işaret edebilir."
+  "tr": "“Yıldırım aynı yere iki kez düşmez” teselli edici bir sözdür, ama yanlıştır. Yıldırım bir bölgedeki en yüksek nesneye düşme eğilimindedir ve yüksek bir nesne yüksek kalır. New York'taki Empire State Binası her yıl yaklaşık yirmi ila yirmi beş kez yıldırım çarpmasına uğrar. Park korucuları, golfçüler ve açık tarlalarda çalışan çiftçiler de aynı nedenle daha yüksek risk taşır. Demek ki bir kez yıldırım çarpması güvende olmak hakkında hiçbir şey söylemez; hatta bir yerin özellikle açıkta olduğuna işaret edebilir."
  },
  {
   "id": "kp310",
@@ -8666,12 +8666,12 @@
     "tag": "yok",
     "sub": "oteye",
     "bait": "a car with 79,900 miles",
-    "why": "Yazar alıcılara hiçbir tavsiye vermiyor; tersine 79.900 ile 80.100 kilometrelik arabaların neredeyse aynı olduğunu söylüyor. Şık bulgudan bir öneri üretiyor."
+    "why": "Yazar alıcılara hiçbir tavsiye vermiyor; tersine 79.900 ile 80.100 millik arabaların neredeyse aynı olduğunu söylüyor. Şık bulgudan bir öneri üretiyor."
    }
   ],
   "yol": "İlk cümle etkiyi tanımlıyor (soldaki rakama fazla ağırlık). İkinci cümle “not limited to shop prices”. Hemen ardından araba çalışması geliyor. Çalışmanın görevi, etkinin dükkânların dışına da uzandığını göstermek.",
   "tactic": "Bir örnek “The effect is not limited to …” cümlesinin hemen ardından geliyorsa işlevi, etkinin KAPSAMINI genişletmektir. Örneğin teknik ayrıntısını (kilometre–fiyat) anlatan şık içeriği verir; örnekten tavsiye çıkaran şık metnin ötesine geçer.",
-  "tr": "10 yerine 9,99 gibi fiyatlar işe yarar, çünkü sayıları soldan sağa okur ve ilk rakama fazla ağırlık veririz. Etki dükkân fiyatlarıyla sınırlı değil. Milyonlarca ikinci el araba satışını inceleyen bir çalışma, bir arabanın kilometresi 80.000 gibi yuvarlak bir sayıyı her geçtiğinde fiyatların keskin biçimde düştüğünü buldu; oysa 79.900 kilometredeki bir araba, 80.100 kilometredekiyle pratikte aynıdır. Görünüşe göre alıcılar sayının tamamını en soldaki rakamına göre değerlendiriyor."
+  "tr": "10 yerine 9,99 gibi fiyatlar işe yarar, çünkü sayıları soldan sağa okur ve ilk rakama fazla ağırlık veririz. Etki dükkân fiyatlarıyla sınırlı değil. Milyonlarca ikinci el araba satışını inceleyen bir çalışma, bir arabanın kat ettiği mesafe 80.000 mil gibi yuvarlak bir sayıyı her geçtiğinde fiyatların keskin biçimde düştüğünü buldu; oysa 79.900 mildeki bir araba, 80.100 mildekiyle pratikte aynıdır. Görünüşe göre alıcılar sayının tamamını en soldaki rakamına göre değerlendiriyor."
  },
  {
   "id": "kp333",
@@ -9352,7 +9352,7 @@
   ],
   "yol": "İki tanım yan yana konuyor: mutfaktaki (küçük, yumuşak meyve) ve botanikteki (tek çiçek parçasından gelişir, tohumu içeride). Sonuçları çelişiyor (çilek / muz). Son cümle hükmü veriyor: ikisi de yanlış değil, farklı amaçlara hizmet ediyor.",
   "tactic": "İki bakış karşılaştırılıp son cümlede “Neither … is wrong” deniyorsa ana fikir bir tarafın zaferi değil, İKİSİNİN de kendi alanında geçerli olmasıdır. Taraflardan birinin sonucunu tek doğru gibi veren şık o tarafın sesidir.",
-  "tr": "Mutfakta her küçük, yumuşak meyveye dut türü (berry) denir; bu yüzden çoğu insan çileğe berry der, muza ise kesinlikle demez. Botanikçiler daha katı bir tanım kullanır: gerçek bir berry tek bir çiçek parçasından gelişir ve tohumlarını içinde taşır. Bu kurala göre muz, domates, hatta üzüm berry'dir; tohumları dışında duran çilek ise değildir. Hiçbir tanım yanlış değil; sadece farklı amaçlara hizmet ediyorlar: biri aşçılar, biri bilim insanları için."
+  "tr": "Mutfakta her küçük, yumuşak meyveye berry (üzümsü meyve) denir; bu yüzden çoğu insan çileğe berry der, muza ise kesinlikle demez. Botanikçiler daha katı bir tanım kullanır: gerçek bir berry tek bir çiçek parçasından gelişir ve tohumlarını içinde taşır. Bu kurala göre muz, domates, hatta üzüm berry'dir; tohumları dışında duran çilek ise değildir. Hiçbir tanım yanlış değil; sadece farklı amaçlara hizmet ediyorlar: biri aşçılar, biri bilim insanları için."
  },
  {
   "id": "kp358",
@@ -11798,7 +11798,7 @@
   ],
   "yol": "Fırlatma öncesi bulunabilirdi: “might have revealed … were ignored”. Gözlüğe benzer onarım: son cümle. Çıplak gözle görülen kusur: metin hatanın saç kalınlığının ellide biri olduğunu söylüyor; çelişiyor. Cevap bu.",
   "tactic": "Metindeki küçük ölçüler (“one-fiftieth of the width of a human hair”) bir şeyin ne kadar KÜÇÜK olduğunu vurgulamak içindir; şık bu ölçüyü “çıplak gözle görülür” büyüklüğe çıkarıyorsa derece çarpıtması vardır. “Rather than replace” gibi ifadelere de dikkat: yapılmayan bir şeyi söylerler.",
-  "tr": "Hubble Uzay Teleskobu 1990'da fırlatıldığında ilk görüntüleri hayal kırıklığı yaratacak kadar bulanıktı. Neden, bir insan saçının kalınlığının yaklaşık ellide biri kadar yanlış biçimde taşlanmış olan ana aynasına dayandırıldı. Arızalı bir test aygıtı üreticileri yanıltmıştı ve hatayı ortaya çıkarabilecek diğer kontroller görmezden gelinmişti. Astronotlar 1993'te aynayı değiştirmek yerine, tıpkı gözlüğün bir insanın görmesini düzeltmesi gibi, düzeltici optik parçalar yerleştirdi."
+  "tr": "Hubble Uzay Teleskobu 1990'da fırlatıldığında ilk görüntüleri hayal kırıklığı yaratacak kadar bulanıktı. Sorunun kaynağının, bir insan saçının kalınlığının yaklaşık ellide biri kadar yanlış biçimde taşlanmış olan ana ayna olduğu anlaşıldı. Arızalı bir test aygıtı üreticileri yanıltmıştı ve hatayı ortaya çıkarabilecek diğer kontroller görmezden gelinmişti. Astronotlar 1993'te aynayı değiştirmek yerine, tıpkı gözlüğün bir insanın görmesini düzeltmesi gibi, düzeltici optik parçalar yerleştirdi."
  },
  {
   "id": "kp448",
@@ -11906,7 +11906,7 @@
   ],
   "yol": "Soru “because” ile nedeni soruyor → metindeki “Historians value them because…” cümlesi: ünlü yazarların eserlerinden farklı olarak sıradan insanların, belki kölelerin bile sözlerini kaydediyorlar.",
   "tactic": "“because” ile soran ayrıntı sorusunda metindeki “value them because” ifadesini bul: neden O cümlededir. Mesajların içeriğini (seçim, aşk, şikâyet) sayan şık “ne yazıyor” sorusuna cevaptır, “neden değerli” sorusuna değil. “unlike” ise karşıtı verir; karşıtı şıkta görürsen çarpıtmadır.",
-  "tr": "MS 79'daki Vezüv patlaması yalnızca Pompeii'nin binalarını değil, duvarlarına kazınmış ya da boyanmış binlerce mesajı da korudu. Bazıları siyasidir: Boyalı duyurular yurttaşları yerel seçimlerde belirli adaylara oy vermeye çağırır. Diğerleri kişiseldir; aşk ilanlarından komşu şikâyetlerine kadar uzanır. Tarihçiler bunlara değer verir, çünkü ünlü yazarların eserlerinden farklı olarak bunlar, aralarında muhtemelen kölelerin da bulunduğu sıradan insanların sözlerini kaydeder."
+  "tr": "MS 79'daki Vezüv patlaması yalnızca Pompeii'nin binalarını değil, duvarlarına kazınmış ya da boyanmış binlerce mesajı da korudu. Bazıları siyasidir: Boyalı duyurular yurttaşları yerel seçimlerde belirli adaylara oy vermeye çağırır. Diğerleri kişiseldir; aşk ilanlarından komşu şikâyetlerine kadar uzanır. Tarihçiler bunlara değer verir, çünkü ünlü yazarların eserlerinden farklı olarak bunlar, aralarında muhtemelen kölelerin de bulunduğu sıradan insanların sözlerini kaydeder."
  },
  {
   "id": "kp452",
@@ -12611,7 +12611,7 @@
   ],
   "yol": "Reklam: öğretmenlerimiz ana dili konuşanlar. Taviz: “certainly” doğal telaffuz ve sezgi. “Yet”: dili sonradan öğrenenler zorluğu daha iyi anlar, grameri açıklayabilir, akıcılığın mümkün olduğunun canlı kanıtıdır. Hüküm: öğrencinin ihtiyacı, ana dili ne olursa olsun, becerikli bir öğretmen.",
   "tactic": "Yazar iki tarafa da hak veriyorsa (“certainly … Yet …”), hükmü çoğu zaman iki tarafı da AŞAN bir ölçüttür: burada “a skilled teacher, whatever their first language”. Taraflardan birini kayıran ya da dışlayan şık, yazarın aştığı tartışmaya geri döner.",
-  "tr": "Dil okulları sık sık öğretmenlerinin anadili İngilizce olan kişiler olduğunu ilan eder ve pek çok öğrenci onlar için daha fazla ödemeye razıdır. Anadili olarak konuşanlar elbette doğal bir telaffuz ve neyin doğru kulağa geldiğine dair içgüdüsel bir his sunar. Oysa dili kendisi sonradan öğrenmiş öğretmenler çoğu zaman dilin neden zor olduğunu daha iyi anlar, anadili olanların düşünmeden kullandığı dilbilgisini açıklayabilir ve akıcılığın mümkün olduğunun canlı kanıtı olur. Görünüşe göre öğrencilerin ihtiyacı, ana dili ne olursa olsun, becerikli bir öğretmendir."
+  "tr": "Dil okulları sık sık öğretmenlerinin o dili anadili olarak konuşan kişiler olduğunu ilan eder ve pek çok öğrenci onlar için daha fazla ödemeye razıdır. Anadili olarak konuşanlar elbette doğal bir telaffuz ve neyin doğru kulağa geldiğine dair içgüdüsel bir his sunar. Oysa dili kendisi sonradan öğrenmiş öğretmenler çoğu zaman dilin neden zor olduğunu daha iyi anlar, anadili olanların düşünmeden kullandığı dilbilgisini açıklayabilir ve akıcılığın mümkün olduğunun canlı kanıtı olur. Görünüşe göre öğrencilerin ihtiyacı, ana dili ne olursa olsun, becerikli bir öğretmendir."
  },
  {
   "id": "kp478",
@@ -12991,7 +12991,7 @@
   ],
   "yol": "Soru göç öncesini soruyor → “Before departure, godwits eat until fat makes up more than half their weight.” Yağ vücut ağırlığının yarısını aşıyor: büyük yağ depoları.",
   "tactic": "Bir hazırlık süreci anlatılıyorsa her fiilin YÖNÜNE bak: yağ ARTIYOR, sindirim organları KÜÇÜLÜYOR. İki zıt yönlü hazırlık yan yana olduğunda çeldirici birinin yönünü ötekine uydurur.",
-  "tr": "2022'de uydu vericisi takılmış genç bir kırmızı kuyruklu çamurçulluğu Alaska'dan Tazmanya'ya hiç konmadan uçtu ve on bir günde 13.500 kilometreden fazla yol katetti. Kuş suyun üzerinde dinlenemez, çünkü tüyleri yeterince su geçirmez değildir. Göçten önce çamurçulluklar yağ ağırlıklarının yarısından fazlasını oluşturana kadar yer, bu sırada sindirim organları ağırlıktan tasarruf etmek için küçülür. Ayrıca yola çıkışlarını geçen fırtınaların arka rüzgârlarını yakalayacak şekilde zamanlarlar."
+  "tr": "2022'de uydu vericisi takılmış genç bir kıyı çamurçulluğu Alaska'dan Tazmanya'ya hiç konmadan uçtu ve on bir günde 13.500 kilometreden fazla yol katetti. Kuş suyun üzerinde dinlenemez, çünkü tüyleri yeterince su geçirmez değildir. Göçten önce çamurçulluklar yağ, ağırlıklarının yarısından fazlasını oluşturana kadar yer, bu sırada sindirim organları ağırlıktan tasarruf etmek için küçülür. Ayrıca yola çıkışlarını geçen fırtınaların arka rüzgârlarını yakalayacak şekilde zamanlarlar."
  },
  {
   "id": "kp492",
@@ -13263,7 +13263,7 @@
   ],
   "yol": "Gözlem: çip araştırmacıları 18 kat arttı, ilerleme hızı aynı; tarım ve tıpta da aynı tablo. İki açıklama var: “Some see this as…” → bilim verimsizleşiyor; yazar “a more likely explanation” → kolay keşifler önce yapılır, sonrakiler daha çok emek ister. Ana fikir = gözlem + yazarın tercih ettiği açıklama.",
   "tactic": "İki açıklamayı yan yana koyan paragrafta ana fikir, yazarın “more likely” diye seçtiği açıklamayı taşır. “Some see this as…” ile gelen açıklama rakip sestir; ne kadar makul görünse de yazara ait değildir. Tek alana ait sayı (18 kat) ise yalnızca kanıttır.",
-  "tr": "İnovasyonu inceleyen ekonomistler şaşırtıcı bir örüntü fark etti. Bilgisayar çiplerini hızlandırmak için çalışan araştırmacı sayısı 1970'lerin başından bu yana kabaca on sekiz kat arttı, ama gelişme hızı aşağı yukarı aynı kaldı. Tarım ve tıpta da benzer eğilimler görülüyor: istikrarlı ilerleme artık giderek büyüyen araştırma ekipleri gerektiriyor. Bazıları bunu bilimin daha verimsiz hale geldiğinin kanıtı olarak görüyor; ama daha olası açıklama, en kolay keşiflerin önce yapılması, böylece her yeni ilerlemenin bir öncekinden daha fazla emek istemesidir."
+  "tr": "İnovasyonu inceleyen ekonomistler şaşırtıcı bir örüntü fark etti. Bilgisayar çiplerini hızlandırmak için çalışan araştırmacı sayısı 1970'lerin başından bu yana kabaca on sekiz kat arttı, ama gelişme hızı aşağı yukarı aynı kaldı. Tarım ve tıpta da benzer eğilimler görülüyor: istikrarlı ilerleme artık giderek büyüyen araştırma ekipleri gerektiriyor. Bazıları bunu bilimin daha verimsiz hâle geldiğinin kanıtı olarak görüyor; ama daha olası açıklama, en kolay keşiflerin önce yapılması, böylece her yeni ilerlemenin bir öncekinden daha fazla emek istemesidir."
  },
  {
   "id": "kp502",
@@ -13318,7 +13318,7 @@
   ],
   "yol": "Eski okuma: inatçılık + soğuyan iklim. “Recent studies… a different emphasis”: koloniler mors dişi ihracatına bağlıydı; fil dişi bollaşıp moda değişince gelir çöktü. Son cümle ağırlığı netleştiriyor: soğuma hayatı zorlaştırdı, ama toparlanamamalarına yol açan ticaretin kaybıydı.",
   "tactic": "“X made life harder, but it was Y that…” kalıbı (it-cleft) belirleyici nedeni ayırır: X arka plan, Y asıl neden. “Decisive / main factor” soran soruda eski yorumun sesi (“long read as”) çoktan geride bırakılmıştır; metinde hiç geçmeyen bir tarihsel hipotez ise ne kadar bilinir olursa olsun cevap olamaz.",
-  "tr": "Grönland'daki Nors kolonileri on beşinci yüzyıla gelindiğinde terk edilmişti ve akıbetleri uzun süre bir inatçılık meseli olarak okundu: yerleşimciler iklim soğurken Avrupa usulü sığır çiftçiliğine sıkı sıkıya bağlı kalmıştı. Kemikler ve ticaret kayıtları üzerine yapılan yeni çalışmalar ise farklı bir vurgu öneriyor. Koloniler büyük ölçüde Avrupa'ya mors dişi ihracatına bağımlıydı ve Afrika'dan gelen fil dişi bollaşıp moda mors dişine sırt çevirince bu gelir çöktü. Soğuma hayatı zorlaştırdı, ama yerleşimleri toparlanamaz hale getiren ticaretin kaybıydı."
+  "tr": "Grönland'daki Nors kolonileri on beşinci yüzyıla gelindiğinde terk edilmişti ve akıbetleri uzun süre bir inatçılık meseli olarak okundu: yerleşimciler iklim soğurken Avrupa usulü sığır çiftçiliğine sıkı sıkıya bağlı kalmıştı. Kemikler ve ticaret kayıtları üzerine yapılan yeni çalışmalar ise farklı bir vurgu öneriyor. Koloniler büyük ölçüde Avrupa'ya mors dişi ihracatına bağımlıydı ve Afrika'dan gelen fil dişi bollaşıp moda mors dişine sırt çevirince bu gelir çöktü. Soğuma hayatı zorlaştırdı, ama yerleşimleri toparlanamaz hâle getiren ticaretin kaybıydı."
  },
  {
   "id": "kp504",
@@ -13428,7 +13428,7 @@
   ],
   "yol": "Hasar: sol ön lob → ilk şık metinde. Planlama gerektiren iş: Şili'de posta arabası sürücülüğü → ikinci şık metinde. Kaliforniya ve 1860: metin hiç bahsetmiyor; tarihsel olarak doğru olsa da cevap bu.",
   "tactic": "Gerçek hayatta DOĞRU olan bir bilgi, EXCEPT sorusunun en sinsi şıkkıdır: Gage'in Kaliforniya'da öldüğünü biliyorsan şıkkı “doğru” diye geçersin. Soru dünyayı değil metni soruyor; metnin hikâyeyi bıraktığı yer (Şili) sınırdır.",
-  "tr": "1848'de bir demir çubuk, Vermont'ta demiryolu ustabaşı olan Phineas Gage'in kafatasını delip geçti ve sol ön lobunun büyük kısmını tahrip etti. Hayatta kaldı ve ders kitapları uzun süre onun kalıcı olarak dürtüsel ve acımasız biri haline geldiğini, bunun da kişiliğin ön loblarda bulunduğunun kanıtı olduğunu iddia etti. Oysa değişimlerine dair dönemin raporları cılızdır ve sonraki kayıtlar onun yıllarca Şili'de, planlama ve öz denetim gerektiren bir iş olan posta arabası sürücülüğü yaptığını gösteriyor. Bazı tarihçiler artık onun büyük ölçüde iyileştiğini düşünüyor."
+  "tr": "1848'de bir demir çubuk, Vermont'ta demiryolu ustabaşı olan Phineas Gage'in kafatasını delip geçti ve sol ön lobunun büyük kısmını tahrip etti. Hayatta kaldı ve ders kitapları uzun süre onun kalıcı olarak dürtüsel ve acımasız biri hâline geldiğini, bunun da kişiliğin ön loblarda bulunduğunun kanıtı olduğunu iddia etti. Oysa değişimlerine dair dönemin raporları cılızdır ve sonraki kayıtlar onun yıllarca Şili'de, planlama ve öz denetim gerektiren bir iş olan posta arabası sürücülüğü yaptığını gösteriyor. Bazı tarihçiler artık onun büyük ölçüde iyileştiğini düşünüyor."
  },
  {
   "id": "kp508",
@@ -13507,7 +13507,7 @@
   ],
   "yol": "Gözlem: tahta pistler, bambu kuleler. Etiket: 'cargo cults', ritüeli sebep-sonuçla karıştırmanın simgesi. Dönüş: sonraki antropologlar bu okumanın gözlemcileri anlattığını savunuyor; hareketler siyasiydi, sömürge yönetimini ve eşitsizliği protesto ediyordu. Amaç: yaygın yorumun yerine yenisini koymak.",
   "tactic": "Paragraf bir etiketle (“were labelled…”) başlayıp “Later X argue that this reading…” ile dönüyorsa amaç yeniden YORUMLAMAKTIR. Etiketin içeriğini doğru diye sunan şık, paragrafın sorguladığı okumayı tekrarlar; sahnenin betimlenmesi ise yalnızca malzemedir.",
-  "tr": "İkinci Dünya Savaşı'ndan sonra Melanezya'daki gözlemciler, uçakların mallarla geri döneceği umuduyla tahta pistler ve bambu kontrol kuleleri inşa eden adalıları anlattı. Bu hareketlere 'kargo kültleri' adı verildi ve ritüeli sebep-sonuç ilişkisiyle karıştırmanın simgesi haline geldiler. Sonraki antropologlar bu okumanın gözlemciler hakkında daha çok şey söylediğini savunuyor. Hareketlerin çoğu siyasiydi; sömürge yönetimini ve servetin eşitsiz dağılımını protesto ediyordu ve ritüelleri, dışarıdan gelenlerin sahip olduğu mallara aynı erişim talebini dile getiriyordu."
+  "tr": "İkinci Dünya Savaşı'ndan sonra Melanezya'daki gözlemciler, uçakların mallarla geri döneceği umuduyla tahta pistler ve bambu kontrol kuleleri inşa eden adalıları anlattı. Bu hareketlere 'kargo kültleri' adı verildi ve ritüeli sebep-sonuç ilişkisiyle karıştırmanın simgesi hâline geldiler. Sonraki antropologlar bu okumanın gözlemciler hakkında daha çok şey söylediğini savunuyor. Hareketlerin çoğu siyasiydi; sömürge yönetimini ve servetin eşitsiz dağılımını protesto ediyordu ve ritüelleri, dışarıdan gelenlerin sahip olduğu mallara aynı erişim talebini dile getiriyordu."
  },
  {
   "id": "kp511",
@@ -13528,11 +13528,11 @@
     "t": "By surviving as dormant specks until their pools fill again",
     "tag": "cevap",
     "bait": "they survive as dormant specks",
-    "why": "Doğru, metinde var: havuz kuruyunca uyku halinde hayatta kalıyorlar. Ama bu hayatta kalma yolu; yeni genler bu kuruma-ıslanma sürecinde DNA onarılırken başka canlılardan alınıyor."
+    "why": "Doğru, metinde var: havuz kuruyunca uyku hâlinde hayatta kalıyorlar. Ama bu hayatta kalma yolu; yeni genler bu kuruma-ıslanma sürecinde DNA onarılırken başka canlılardan alınıyor."
    }
   ],
-  "yol": "Bilmece: seks olmadan on milyonlarca yıl; teoriye göre tükenmeleri gerekirdi. Sır: kurumak. Havuz buharlaşınca uyku hali; yeniden ıslanınca kırılan DNA onarılırken bakteri, mantar ve bitkilerden genetik parça alıyorlar. Yeni genin kaynağı: başka canlıların DNA'sı.",
-  "tactic": "Süreç anlatan cümlede (“When…, and as…, they absorb…”) birden çok adım art arda gelir; soru hangi adımı soruyorsa onun fiilini bul. Burada “acquire genes” → “absorb fragments”. Önceki adım (uyku hali) ortamı hazırlar ama genleri getiren o değildir.",
+  "yol": "Bilmece: seks olmadan on milyonlarca yıl; teoriye göre tükenmeleri gerekirdi. Sır: kurumak. Havuz buharlaşınca uyku hâli; yeniden ıslanınca kırılan DNA onarılırken bakteri, mantar ve bitkilerden genetik parça alıyorlar. Yeni genin kaynağı: başka canlıların DNA'sı.",
+  "tactic": "Süreç anlatan cümlede (“When…, and as…, they absorb…”) birden çok adım art arda gelir; soru hangi adımı soruyorsa onun fiilini bul. Burada “acquire genes” → “absorb fragments”. Önceki adım (uyku hâli) ortamı hazırlar ama genleri getiren o değildir.",
   "tr": "Göletlerde ve nemli yosunlarda yaşayan mikroskobik hayvanlar olan bdelloid rotiferler, on milyonlarca yıldır seks olmadan çoğalmış görünüyor; evrim teorisine göre bu başarının tükenişe yol açması gerekir, çünkü cinsiyetsiz soylar genleri kolayca karıştıramaz ya da zararlı mutasyonları ayıklayamaz. Sırları kısmen kurumakta yatıyor gibi görünüyor. Havuzları buharlaştığında uykudaki zerreler olarak hayatta kalıyorlar ve yeniden ıslandıklarında DNA'ları kırılıp onarılırken bakterilerden, mantarlardan ve bitkilerden genetik malzeme parçaları alarak bir eş olmadan yeni genler ediniyorlar."
  },
  {
@@ -13616,7 +13616,7 @@
   ],
   "yol": "Kuram zarifti ve birçok gözlemi açıklıyordu, “but” → olumsuz yön. Ne zaman? Tartı, bazı metallerin yanarken ağırlaştığını gösterince; kuram ise bir şeyin AYRILDIĞINI, yani hafiflemeyi öngörüyordu. Kuram sınavda tuttu mu? Hayır. found wanting = yetersiz bulundu.",
   "tactic": "“found wanting” kalıbını tek parça oku: bir şey test edilip yetersiz/eksik bulundu demektir (want'ın eski “eksik olmak” anlamı). Sağlaması “but” bağlacında: önceki yarı olumlu (elegant), demek ki “wanting” olumsuz bir değerlendirme.",
-  "tr": "On sekizinci yüzyıl kimyacıları yanmayı, yanan her şeyin saldığı varsayılan bir madde olan flojiston ile açıklıyordu. Kuram zarifti ve birçok gözlemi açıklıyordu, ama dikkatli tartımlar bazı metallerin yandıkça hafiflemek yerine ağırlaştığını gösterince yetersiz bulundu. Savunucuları flojistonun negatif ağırlığı olabileceğini öne sürdü. Antoine Lavoisier daha basit bir açıklama getirdi: yanma, havanın oksijen adını verdiği bir bileşeniyle birleşmeydi. Rakipleri tartışmayı kaybetmekten çok, yavaş yavaş tartışmayı sürdürmeyi bıraktı."
+  "tr": "On sekizinci yüzyıl kimyacıları yanmayı, yanan her şeyin saldığı varsayılan bir madde olan flojiston ile açıklıyordu. Kuram zarifti ve birçok gözlemi açıklıyordu, ama dikkatli tartımlar bazı metallerin yandıkça hafiflemek yerine ağırlaştığını gösterince yetersiz bulundu. Savunucuları flojistonun negatif ağırlığı olabileceğini öne sürdü. Antoine Lavoisier daha basit bir açıklama getirdi: yanma, havanın, Lavoisier'nin oksijen adını verdiği bir bileşeniyle birleşmesiydi. Rakipleri tartışmayı kaybetmekten çok, yavaş yavaş tartışmayı sürdürmeyi bıraktı."
  },
  {
   "id": "kp515",
@@ -13698,7 +13698,7 @@
   ],
   "yol": "Kavram: legible = merkezden okunabilir. Araçlar: soyadları, standart ölçüler, tapu kayıtları, adresler; neden: tanımadığını vergilendiremezsin. Scott'ın yargısı: yararlı ama gerçeklik sanılırsa tehlikeli. Örnek: Alman ormancılar karma ormanı tek tür sıralara çevirdi → birkaç kuşakta çöktü. Ana fikir yargı cümlesi.",
   "tactic": "Bir kavram tanımlanıp (“that is, readable from the centre”) örneklendikten sonra bir düşünürün yargısı geliyorsa, ana fikir o yargıdır; son örnek de yargının KANITIDIR. Kavramın gerekçesi (vergi, askerlik) ve örneğin teknik ayrıntısı (kârlı ağaç) ana fikre aday değildir.",
-  "tr": "Modern devletler uzun zamandır nüfuslarını ve topraklarını okunabilir, yani merkezden okunabilir kılmaya çalıştı. Kalıcı soyadları, standart ölçüler, tapu kayıtları ve sokak adresleri çoğu zaman bu amaçla dayatıldı, çünkü bir hükümet tanımlayamadığı insanları vergilendiremez ya da askere alamaz. Siyaset bilimci James C. Scott, bu tür sadeleştirmelerin yararlı olduğunu, ama gerçekliğin kendisi sanıldığında tehlikeli hale geldiğini savundu. On sekizinci yüzyıl Alman ormancıları karma ormanları tek bir kârlı ağaç türünün düzgün sıralarıyla değiştirdi; birkaç kuşak içinde sadeleştirilmiş ormanlar çökmeye başladı."
+  "tr": "Modern devletler uzun zamandır nüfuslarını ve topraklarını okunabilir, yani merkezden okunabilir kılmaya çalıştı. Kalıcı soyadları, standart ölçüler, tapu kayıtları ve sokak adresleri çoğu zaman bu amaçla dayatıldı, çünkü bir hükümet tanımlayamadığı insanları vergilendiremez ya da askere alamaz. Siyaset bilimci James C. Scott, bu tür sadeleştirmelerin yararlı olduğunu, ama gerçekliğin kendisi sanıldığında tehlikeli hâle geldiğini savundu. On sekizinci yüzyıl Alman ormancıları karma ormanları tek bir kârlı ağaç türünün düzgün sıralarıyla değiştirdi; birkaç kuşak içinde sadeleştirilmiş ormanlar çökmeye başladı."
  },
  {
   "id": "kp518",
@@ -13917,7 +13917,7 @@
   ],
   "yol": "Tabletler pişmemiş kilden; ucuz, ıslanınca dağılır, çoğu zaman yeniden kullanılır. “Ironically”: hayatta kalanların çoğu felakete borçlu. Düşmanlar sarayları yakınca ateş kili pişirdi. Son cümle ironiyi özetliyor: koleksiyonları bitiren yıkım, bugün okuyabilmemizin nedeni. Ana fikir bu.",
   "tactic": "“Ironically” ana fikrin habercisidir: paragrafın sürprizi, yani beklenenin tersi, genellikle ana fikrin ta kendisidir. Son cümle ironiyi özetliyorsa onu ana fikir say; “much / in large part” gibi ölçüleri “every”ye çeviren şıktan da kaçın.",
-  "tr": "Antik Mezopotamya'daki çivi yazılı tabletlerin çoğu pişirilmemiş kilden yapılmıştı; ıslanınca dağılan ucuz bir malzemeydi ve bir metne artık ihtiyaç kalmayınca çoğu zaman yeniden kullanılırdı. İronik biçimde, bugüne ulaşanların büyük kısmı korunmasını bir felakete borçlu. Düşmanlar Ninova gibi şehirleri yağmalayıp sarayları ateşe verdiğinde alevler içerideki kütüphane ve arşivlerin kilini pişirdi ve aksi halde çözülüp gidecek olan tabletleri sertleştirdi. Bu koleksiyonların sonunu getiren yıkım, büyük ölçüde bugün onları okuyabilmemizin nedenidir."
+  "tr": "Antik Mezopotamya'daki çivi yazılı tabletlerin çoğu pişirilmemiş kilden yapılmıştı; ıslanınca dağılan ucuz bir malzemeydi ve bir metne artık ihtiyaç kalmayınca çoğu zaman yeniden kullanılırdı. İronik biçimde, bugüne ulaşanların büyük kısmı korunmasını bir felakete borçlu. Düşmanlar Ninova gibi şehirleri yağmalayıp sarayları ateşe verdiğinde alevler içerideki kütüphane ve arşivlerin kilini pişirdi ve aksi hâlde çözülüp gidecek olan tabletleri sertleştirdi. Bu koleksiyonların sonunu getiren yıkım, büyük ölçüde bugün onları okuyabilmemizin nedenidir."
  },
  {
   "id": "kp526",
@@ -14025,7 +14025,7 @@
   ],
   "yol": "Yaygın tutum: ezber = aşağılama. Reformcular: bilgi aranabiliyor, düşünme becerisi öğretin. Yazar: “This misreads…”; düşünürken bellekteki bilgiyle akıl yürütürüz. Son cümle iki yanlı: ezber anlamanın yerini tutmaz, AMA anlama hatırlanan bilgi üzerine kurulur.",
   "tactic": "“X is no substitute for Y, but Y is built on X” cümlesi bir denge kurar: X ne gereksizdir ne de yeterli. Doğru şık bu ikiliği (temel ama ikame değil) korur; X'i çöpe atan şık reformcuların sesine, X'i taçlandıran şık abartıya kayar.",
-  "tr": "Ezber, eğitimde neredeyse bir hakaret haline geldi; akılsız alıştırmalarla ilişkilendiriliyor ve gerçek anlamayla karşıtlık içinde düşünülüyor. Pek çok reformcu, bilgiler artık anında aranabildiğine göre okulların bunun yerine düşünme becerileri öğretmesi gerektiğini savunuyor. Bu, düşünmenin nasıl işlediğini yanlış anlamaktır. Bellekte zaten tuttuklarımızla akıl yürütürüz; her terimi aramak zorunda olan bir öğrenci bir argümanı izleyemez, onu sorgulamak şöyle dursun. Ezberlemek anlamanın yerini tutmaz, ama anlama hatırlanan bir bilgi birikiminin üzerine kurulur."
+  "tr": "Ezber, eğitimde neredeyse bir hakaret hâline geldi; akılsız alıştırmalarla ilişkilendiriliyor ve gerçek anlamayla karşıtlık içinde düşünülüyor. Pek çok reformcu, bilgiler artık anında aranabildiğine göre okulların bunun yerine düşünme becerileri öğretmesi gerektiğini savunuyor. Bu, düşünmenin nasıl işlediğini yanlış anlamaktır. Bellekte zaten tuttuklarımızla akıl yürütürüz; her terimi aramak zorunda olan bir öğrenci bir argümanı izleyemez, onu sorgulamak şöyle dursun. Ezberlemek anlamanın yerini tutmaz, ama anlama hatırlanan bir bilgi birikiminin üzerine kurulur."
  },
  {
   "id": "kp530",
@@ -14134,7 +14134,7 @@
   ],
   "yol": "Örnek: dörtlü 1800'deki gibi dört kişi, kırk dakika → verimlilik sabit. Ama ücretler arttı, çünkü müzisyenler fabrika ve ofislerde de çalışabilir, orada verimlilik fırladı. Baumol: eğitim, sağlık, canlı performans bu yüzden pahalanıyor. Son cümle: israf değil, ekonominin geri kalanının başarısı.",
   "tactic": "Ana fikir sorusunda “not X but Y” ile biten son cümle genellikle tezin ta kendisidir: X yaygın açıklama (israf), Y yazarın açıklaması (başka yerdeki başarı). Örneğin sayılarını taşıyan şık ne kadar doğru olsa da ana fikir değil, kanıttır.",
-  "tr": "1800'de yazılmış bir yaylı çalgılar dörtlüsü bugün de tıpkı o zamanki gibi dört müzisyen ve yaklaşık kırk dakika gerektirir; verimliliği hiç artmamıştır. Yine de müzisyenlerin ücretleri muazzam ölçüde arttı, çünkü aksi halde verimliliğin fırladığı fabrikalarda ve ofislerde geçimlerini sağlayabilirlerdi. Ekonomist William Baumol, eğitim, sağlık ve canlı performans gibi hizmetlerin imal edilmiş mallara göre neden giderek pahalandığını bunun açıkladığını savundu. Artan maliyetleri israfı değil, ekonominin geri kalanının başarısını yansıtır."
+  "tr": "1800'de yazılmış bir yaylı çalgılar dörtlüsü bugün de tıpkı o zamanki gibi dört müzisyen ve yaklaşık kırk dakika gerektirir; verimliliği hiç artmamıştır. Yine de müzisyenlerin ücretleri muazzam ölçüde arttı, çünkü aksi hâlde verimliliğin fırladığı fabrikalarda ve ofislerde geçimlerini sağlayabilirlerdi. Ekonomist William Baumol, eğitim, sağlık ve canlı performans gibi hizmetlerin imal edilmiş mallara göre neden giderek pahalandığını bunun açıkladığını savundu. Artan maliyetleri israfı değil, ekonominin geri kalanının başarısını yansıtır."
  },
  {
   "id": "kp534",
@@ -14494,13 +14494,13 @@
   "id": "kp547",
   "level": 3,
   "type": "olumsuz",
-  "p": "In late 1946 or early 1947, a Bedouin shepherd searching for a lost goat near Qumran, on the north-western shore of the Dead Sea, threw a stone into a cave and heard pottery break. Inside were jars holding ancient scrolls. Over the next decade, some 900 manuscripts were recovered from eleven caves, many only as fragments. They include the oldest known copies of books of the Hebrew Bible, about a thousand years older than the previously oldest manuscripts, and they show that the text had changed remarkably little.",
+  "p": "In late 1946 or early 1947, a Bedouin shepherd searching for a lost goat near Qumran, on the north-western shore of the Dead Sea, threw a stone into a cave and heard pottery break. Inside were jars holding ancient scrolls. Over the next decade, some 900 manuscripts were recovered from eleven caves, most only as fragments. They include the oldest known copies of books of the Hebrew Bible, about a thousand years older than the previously oldest manuscripts, and they show that the text had changed remarkably little.",
   "q": "According to the passage, all of the following are true EXCEPT that ___.",
   "ok": "most of the manuscripts were found intact in sealed jars",
   "okTag": "carpit",
   "okSub": "derece",
-  "okWhy": "Metne göre testiler yalnızca ilk mağarada anılıyor ve el yazmalarının çoğu “only as fragments”, yani parçalar halinde bulundu. Şık bir mağaradaki görüntüyü tüm buluntuya yayıp “bütün halde” diyor.",
-  "ev": "many only as fragments",
+  "okWhy": "Metne göre testiler yalnızca ilk mağarada anılıyor ve el yazmalarının çoğu “only as fragments”, yani parçalar hâlinde bulundu. Şık bir mağaradaki görüntüyü tüm buluntuya yayıp “bütün hâlde” diyor.",
+  "ev": "most only as fragments",
   "d": [
    {
     "t": "the first find was made by someone who was not looking for antiquities",
@@ -14515,9 +14515,9 @@
     "why": "Metinde: daha önce bilinen en eski el yazmalarından yaklaşık bin yıl daha eski. “far older than earlier known copies” = bu ifade."
    }
   ],
-  "yol": "Tesadüfi buluntu: keçi arayan çoban → metinde. Bin yıl daha eski: son cümle → metinde. Bütün halde, mühürlü testilerde: metin testileri yalnızca ilk mağarada anıyor, el yazmalarının çoğu parça halinde → doğru olmayan bu.",
-  "tactic": "EXCEPT sorusunda paragrafın AÇILIŞ sahnesi tuzaktır: ilk mağaradaki testiler akılda kalır ve tüm buluntuya genellenir. Sayılar ve nitelemeler için asıl cümleye dön (“some 900… many only as fragments”); sahne ile toplam aynı şey değildir.",
-  "tr": "1946'nın sonlarında ya da 1947'nin başlarında, Lut Gölü'nün kuzeybatı kıyısındaki Kumran yakınlarında kayıp bir keçiyi arayan Bedevi bir çoban bir mağaraya taş attı ve çanak çömleğin kırıldığını duydu. İçeride antik tomarlar barındıran testiler vardı. Sonraki on yıl içinde on bir mağaradan yaklaşık 900 el yazması çıkarıldı; çoğu yalnızca parçalar halindeydi. Bunlar arasında İbranice Kutsal Kitap'ın bilinen en eski kopyaları da var; daha önce bilinen en eski el yazmalarından yaklaşık bin yıl daha eskiler ve metnin dikkat çekici ölçüde az değiştiğini gösteriyorlar."
+  "yol": "Tesadüfi buluntu: keçi arayan çoban → metinde. Bin yıl daha eski: son cümle → metinde. Bütün hâlde, mühürlü testilerde: metin testileri yalnızca ilk mağarada anıyor, el yazmalarının çoğu parça hâlinde → doğru olmayan bu.",
+  "tactic": "EXCEPT sorusunda paragrafın AÇILIŞ sahnesi tuzaktır: ilk mağaradaki testiler akılda kalır ve tüm buluntuya genellenir. Sayılar ve nitelemeler için asıl cümleye dön (“some 900… most only as fragments”); sahne ile toplam aynı şey değildir.",
+  "tr": "1946'nın sonlarında ya da 1947'nin başlarında, Lut Gölü'nün kuzeybatı kıyısındaki Kumran yakınlarında kayıp bir keçiyi arayan Bedevi bir çoban bir mağaraya taş attı ve çanak çömleğin kırıldığını duydu. İçeride antik tomarlar barındıran testiler vardı. Sonraki on yıl içinde on bir mağaradan yaklaşık 900 el yazması çıkarıldı; çoğu yalnızca parçalar hâlindeydi. Bunlar arasında İbranice Kutsal Kitap'ın bilinen en eski kopyaları da var; daha önce bilinen en eski el yazmalarından yaklaşık bin yıl daha eskiler ve metnin dikkat çekici ölçüde az değiştiğini gösteriyorlar."
  },
  {
   "id": "kp548",
@@ -14543,7 +14543,7 @@
   ],
   "yol": "Bulgu: uzmanlar ortalamada şanstan pek iyi değil; en kötüler tek büyük fikirli “kirpiler”, daha iyiler esnek “tilkiler”. “Yet”: televizyona en çok çağrılanlar kirpiler, çünkü ekran cesur ve basit hikâye sever. İşlev: medyanın en isabetsiz uzman türünü ödüllendirdiğini göstermek.",
   "tactic": "Bir bulgunun ardından “Yet…” ile gelen ayrıntı neredeyse her zaman bir ÇELİŞKİYİ ortaya koymak içindir: en kötü performans ↔ en çok ekran. İşlevi bulmak için “Yet”in iki ucunu yan yana koy; ayrıntının içeriğini anlatan şık çelişkiyi göremez.",
-  "tr": "Psikolog Philip Tetlock yirmi yıl boyunca siyaset ve ekonomi uzmanlarından yaklaşık 28.000 tahmin topladı ve hangilerinin gerçekleştiğini kontrol etti. Uzmanlar ortalamada şanstan biraz daha iyi sonuç aldı. En kötü performansı, her şeyi tek bir büyük fikirle açıklayan kendinden emin düşünürler olan 'kirpiler' gösterdi; pek çok fikirden yararlanan ve kolayca fikir değiştiren temkinli 'tilkiler' daha başarılıydı. Yine de televizyona en sık davet edilenler kirpilerdi; çünkü ekranda cesur ve basit bir hikâye, ihtiyatlı bir tahminden daha çok rağbet görür."
+  "tr": "Psikolog Philip Tetlock yirmi yıl boyunca siyaset ve ekonomi uzmanlarından yaklaşık 28.000 tahmin topladı ve hangilerinin gerçekleştiğini kontrol etti. Uzmanlar ortalamada şanstan pek de iyi sonuç alamadı. En kötü performansı, her şeyi tek bir büyük fikirle açıklayan kendinden emin düşünürler olan 'kirpiler' gösterdi; pek çok fikirden yararlanan ve kolayca fikir değiştiren temkinli 'tilkiler' daha başarılıydı. Yine de televizyona en sık davet edilenler kirpilerdi; çünkü ekranda cesur ve basit bir hikâye, ihtiyatlı bir tahminden daha çok rağbet görür."
  },
  {
   "id": "kp549",

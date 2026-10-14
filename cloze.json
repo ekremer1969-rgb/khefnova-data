@@ -4860,8 +4860,8 @@
       "why": "Olumsuz çıkarım; sonuçlar bakterilerin rol oynayabileceğini düşündürüyor."
      },
      {
-      "t": "may have played",
-      "why": "Geçmişteki bir olasılığı anlatır; burada şu anki bilgi durumu ('yet') ve genel mekanizma söz konusu."
+      "t": "ought to play",
+      "why": "'ought to' beklenti/tavsiye bildirir; 'nobody can be sure yet' ile ifade edilen belirsiz olasılığı vermez."
      },
      {
       "t": "will play",
@@ -8269,7 +8269,7 @@
      "empty stone houses",
      "in the 1840s"
     ],
-    "why": "Kanıt: yıkık köy, boş taş evlar, 'no one had lived there since'; zaman: 'in the 1840s' → geçmiş için güçlü çıkarım: must have emigrated."
+    "why": "Kanıt: yıkık köy, boş taş evler, 'no one had lived there since'; zaman: 'in the 1840s' → geçmiş için güçlü çıkarım: must have emigrated."
    },
    {
     "n": 5,
@@ -10933,7 +10933,7 @@
   "id": "cz076",
   "level": 3,
   "field": "saglik",
-  "p": "In 1747, the Scottish naval surgeon James Lind [1] a famous experiment on a British warship, where twelve sailors had scurvy, a disease that killed thousands at sea. He divided the men into six pairs and gave each pair a different treatment, such as vinegar, seawater or oranges and lemons. Only the two men who ate the fruit recovered, so Lind concluded that the fruit [2] their recovery, since no other pair had improved. Yet the navy took almost fifty years to act. By the time it finally ordered lemon juice for every ship, Lind [3] dead for more than ten years. Since then, scurvy [4] a serious problem for sailors in rich countries. Historians say that if the navy [5] his advice at once, thousands of lives would have been saved.",
+  "p": "In 1747, the Scottish naval surgeon James Lind [1] a famous experiment on a British warship, where twelve sailors had scurvy, a disease that killed thousands at sea. He divided the men into six pairs and gave each pair a different treatment, such as vinegar, seawater or oranges and lemons. Only the two men who ate the fruit recovered, so Lind concluded that the fruit [2] their recovery, since no other pair had improved. Yet the navy took almost fifty years to act. By the time it finally ordered lemon juice for every ship, Lind [3] dead for about a year. Since then, scurvy [4] a serious problem for sailors in rich countries. Historians say that if the navy [5] his advice at once, thousands of lives would have been saved.",
   "b": [
    {
     "n": 1,
@@ -11014,9 +11014,9 @@
     ],
     "cue": [
      "By the time it finally ordered lemon juice for every ship",
-     "for more than ten years"
+     "for about a year"
     ],
-    "why": "'By the time it finally ordered' (geçmiş referans) + 'for more than ten years' → o noktaya kadar süren durum → past perfect: had been."
+    "why": "'By the time it finally ordered' (geçmiş referans) + 'for about a year' → o noktaya kadar süren durum → past perfect: had been."
    },
    {
     "n": 4,
@@ -12535,7 +12535,7 @@
   "id": "cz087",
   "level": 3,
   "field": "sosyal",
-  "p": "Before the railways, every town in Britain kept its own local time, and noon in Bristol [1] about ten minutes later than noon in London. When trains began to run between towns, timetables became a nightmare. In 1847, the main railway companies [2] to use London time at all their stations, and by 1855 almost all public clocks in Britain [3] to the same time. Since 1884, when an international conference chose Greenwich as the starting point, the whole world [4] a single system of time zones. Next July, a German passenger [5] across eleven time zones on the Trans-Siberian railway, changing his watch almost every day.",
+  "p": "Before the railways, every town in Britain kept its own local time, and noon in Bristol [1] about ten minutes later than noon in London. When trains began to run between towns, timetables became a nightmare. In 1847, the main railway companies [2] to use London time at all their stations, and by 1855 almost all public clocks in Britain [3] to the same time. Since 1884, when an international conference chose Greenwich as the starting point, the whole world [4] a single system of time zones. Next July, a German passenger [5] across seven time zones on the Trans-Siberian railway, changing his watch almost every day.",
   "b": [
    {
     "n": 1,

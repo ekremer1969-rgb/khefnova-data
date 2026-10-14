@@ -4797,7 +4797,7 @@
     "ask": "Etraftakiler ne yapıyor?",
     "distractors": [
      "because benches are free",
-     "betting glasses of tea"
+     "although few of them play"
     ]
    },
    {
@@ -5430,7 +5430,7 @@
    {
     "band": "B2",
     "en": "The wind shapes the trees on the exposed cliff, bending every branch permanently toward the land, until the whole grove leans like a crowd frozen mid-escape.",
-    "tr": "Rüzgâr, korunaksız yamaçtaki ağaçları şekillendirir ve her dalı kalıcı olarak karaya doğru büker; ta ki bütün koruluk, kaçış ânında donmuş bir kalabalık gibi yatana dek.",
+    "tr": "Rüzgâr, korunaksız yamaçtaki ağaçları şekillendirir ve her dalı kalıcı olarak karaya doğru büker; ta ki bütün koruluk, kaçış ânında donmuş bir kalabalık gibi eğilene dek.",
     "add": "until the whole grove leans like a crowd frozen mid-escape",
     "ask": "Koruluk neye benziyor?",
     "distractors": [
@@ -5441,7 +5441,7 @@
    {
     "band": "C1",
     "en": "The wind shapes the trees on the exposed cliff, bending every branch permanently toward the land, until the whole grove leans like a crowd frozen mid-escape, a living record of every gale the coast has endured, written in wood instead of words.",
-    "tr": "Rüzgâr, korunaksız yamaçtaki ağaçları şekillendirir ve her dalı kalıcı olarak karaya doğru büker; ta ki bütün koruluk, kaçış ânında donmuş bir kalabalık gibi yatana dek — kıyının katlandığı her fırtınanın, kelimeler yerine ahşaba yazılmış canlı bir kaydı.",
+    "tr": "Rüzgâr, korunaksız yamaçtaki ağaçları şekillendirir ve her dalı kalıcı olarak karaya doğru büker; ta ki bütün koruluk, kaçış ânında donmuş bir kalabalık gibi eğilene dek — kıyının katlandığı her fırtınanın, kelimeler yerine ahşaba yazılmış canlı bir kaydı.",
     "add": "a living record of every gale the coast has endured, written in wood instead of words",
     "ask": "Bu ağaçlar neyin kaydı?",
     "distractors": [
@@ -6659,7 +6659,7 @@
    {
     "band": "C1",
     "en": "The notebook keeps our recipes in three different handwritings, where grandmother's ink fades into mother's pencil and my hurried ballpoint, each generation correcting the salt and doubling the love in the margins, less a cookbook by now than a family letter that happens to be edible.",
-    "tr": "Defter tariflerimizi üç farklı el yazısıyla saklar; büyükannemin mürekkebi, annemin kurşun kalemine ve benim aceleci tükenmezime karışır — her kuşak kenar boşluklarında tuzu düzeltir, sevgiyi ikiye katlar; artık bir yemek kitabından çok, yenilebilir olma özelliği taşıyan bir aile mektubu.",
+    "tr": "Defter tariflerimizi üç farklı el yazısıyla saklar; büyükannemin mürekkebi, annemin kurşun kalemine ve benim aceleci tükenmezime karışır — her kuşak kenar boşluklarında tuzu düzeltir, sevgiyi ikiye katlar; artık bir yemek kitabından çok, tesadüfen yenilebilir olan bir aile mektubu.",
     "add": "less a cookbook by now than a family letter that happens to be edible",
     "ask": "Defter artık ne?",
     "distractors": [
@@ -7007,7 +7007,7 @@
    {
     "band": "C1",
     "en": "After a single sentence from his doctor frightened him more than any lecture, he takes the stairs up to the fifth floor now, counting each flight as a small victory over his old excuses, and six months later it is the lift, waiting empty and patient, that has become the stranger.",
-    "tr": "Doktorunun tek bir cümlesi onu her nasihatten çok korkuttuktan sonra, artık beşinci kata kadar merdivenleri kullanıyor ve her katı eski bahanelerine karşı küçük bir zafer sayıyor; altı ay sonra ise yabancılaşan, boş ve sabırlı bekleyen asansörün kendisi oldu.",
+    "tr": "Doktorunun tek bir cümlesi onu her nasihatten çok korkuttuktan sonra, artık beşinci kata kadar merdivenleri kullanıyor ve her katı eski bahanelerine karşı küçük bir zafer sayıyor; altı ay sonra ise yabancıya dönüşen şey, boş ve sabırla bekleyen asansör oldu.",
     "add": "and six months later it is the lift, waiting empty and patient, that has become the stranger",
     "ask": "Altı ay sonra ne değişti?",
     "distractors": [
@@ -7393,7 +7393,7 @@
     "en": "She baked a chocolate cake for her daughter's birthday.",
     "tr": "Kızının doğum günü için çikolatalı bir kek pişirdi.",
     "add": "for her daughter's birthday",
-    "ask": "Ne için/Kim için?",
+    "ask": "Ne için?",
     "distractors": [
      "in the brand new kitchen",
      "quite easily"
@@ -7404,7 +7404,7 @@
     "en": "She baked a chocolate cake for her daughter's birthday, using a secret family recipe.",
     "tr": "Gizli bir aile tarifini kullanarak, kızının doğum günü için çikolatalı bir kek pişirdi.",
     "add": ", using a secret family recipe",
-    "ask": "Nasıl/Hangi yöntemle?",
+    "ask": "Hangi yöntemle?",
     "distractors": [
      "since everyone loved sugar",
      "although she lacked cocoa powder"
@@ -7462,7 +7462,7 @@
     "en": "We completed the project on Friday despite some technical issues, thanks to our team's amazing cooperation.",
     "tr": "Ekibimizin harika iş birliği sayesinde, bazı teknik sorunlara rağmen projeyi cuma günü tamamladık.",
     "add": ", thanks to our team's amazing cooperation",
-    "ask": "Kimin/Neyin sayesinde?",
+    "ask": "Neyin sayesinde?",
     "distractors": [
      "although we had tight deadlines",
      "hoping to impress the director"
@@ -7498,7 +7498,7 @@
     "en": "My parents bought a family car.",
     "tr": "Annemle babam bir aile arabası satın aldı.",
     "add": "family",
-    "ask": "Nasıl/Ne tür bir araba?",
+    "ask": "Ne tür bir araba?",
     "distractors": [
      "last week",
      "from a friend"
@@ -7604,7 +7604,7 @@
    {
     "band": "A1",
     "en": "They bought groceries.",
-    "tr": "Onlar market alışverişi yaptı.",
+    "tr": "Market alışverişi yaptılar.",
     "add": "",
     "ask": "",
     "distractors": []
@@ -7612,7 +7612,7 @@
    {
     "band": "A2",
     "en": "They bought fresh groceries.",
-    "tr": "Taze market alışverişi yaptılar (taze gıdalar aldılar).",
+    "tr": "Taze gıdalar aldılar.",
     "add": "fresh",
     "ask": "Nasıl gıdalar?",
     "distractors": [
@@ -7681,7 +7681,7 @@
    {
     "band": "B1",
     "en": "He went to the doctor for a general check-up because he felt extremely tired.",
-    "tr": "Kendisini aşırı derecede yorgun hissettiği için genel bir kontrol için doktora gitti.",
+    "tr": "Kendini aşırı derecede yorgun hissettiği için genel bir kontrol yaptırmak üzere doktora gitti.",
     "add": "because he felt extremely tired",
     "ask": "Neden?",
     "distractors": [
@@ -7692,7 +7692,7 @@
    {
     "band": "B2",
     "en": "He went to the doctor for a general check-up because he felt extremely tired, which worried his whole family.",
-    "tr": "Kendisini aşırı derecede yorgun hissettiği için genel bir kontrol için doktora gitti; bu durum tüm ailesini endişelendirdi.",
+    "tr": "Kendini aşırı derecede yorgun hissettiği için genel bir kontrol yaptırmak üzere doktora gitti; bu durum tüm ailesini endişelendirdi.",
     "add": ", which worried his whole family",
     "ask": "Bu durum neye yol açtı?",
     "distractors": [
@@ -7703,9 +7703,9 @@
    {
     "band": "C1",
     "en": "He went to the doctor for a general check-up because he felt extremely tired, which worried his whole family, though the test results proved to be perfectly normal.",
-    "tr": "Kendisini aşırı derecede yorgun hissettiği için genel bir kontrol için doktora gitti; bu durum tüm ailesini endişelendirdi, gerçi test sonuçları tamamen normal çıktı.",
+    "tr": "Kendini aşırı derecede yorgun hissettiği için genel bir kontrol yaptırmak üzere doktora gitti; bu durum tüm ailesini endişelendirdi, gerçi test sonuçları tamamen normal çıktı.",
     "add": ", though the test results proved to be perfectly normal",
-    "ask": "Neye rağmen endişelendiler (sonuç ne çıktı)?",
+    "ask": "Test sonuçları nasıl çıktı?",
     "distractors": [
      "giving him great peace of mind",
      "after examining him carefully"
@@ -7741,7 +7741,7 @@
     "en": "She plays the piano elegantly to relax after a stressful day.",
     "tr": "Stresli bir günün ardından rahatlamak için zarif bir şekilde piyano çalıyor.",
     "add": "to relax after a stressful day",
-    "ask": "Hangi amaçla / Ne zaman?",
+    "ask": "Hangi amaçla?",
     "distractors": [
      "although she is self-taught",
      "which sounds beautiful"
@@ -7761,7 +7761,7 @@
    {
     "band": "C1",
     "en": "Even though she had no professional training, she plays the piano elegantly to relax after a stressful day, a hobby she has maintained since her early childhood.",
-    "tr": "Profesyonel bir eğitim almamış olmasına rağmen, erken çocukluğundan beri sürdürdüğü bir hobi olarak stresli bir günün ardından rahatlamak için zarif bir şekilde piyano çalıyor.",
+    "tr": "Profesyonel bir eğitim almamış olmasına rağmen, stresli bir günün ardından rahatlamak için zarif bir şekilde piyano çalıyor; erken çocukluğundan beri sürdürdüğü bir hobi.",
     "add": ", a hobby she has maintained since her early childhood",
     "ask": "Bu hobinin geçmişi nedir?",
     "distractors": [
@@ -7788,7 +7788,7 @@
     "en": "They visited the famous museum.",
     "tr": "Ünlü müzeyi ziyaret ettiler.",
     "add": "famous",
-    "ask": "Nasıl/Hangi müzeyi?",
+    "ask": "Hangi müzeyi?",
     "distractors": [
      "in Paris",
      "last week"
@@ -7973,7 +7973,7 @@
     "en": "They bought a small flat using a bank loan.",
     "tr": "Banka kredisi kullanarak küçük bir daire satın aldılar.",
     "add": "using a bank loan",
-    "ask": "Nasıl/Hangi yöntemle?",
+    "ask": "Hangi yöntemle?",
     "distractors": [
      "because rent was high",
      "which has a nice view"
@@ -8029,7 +8029,7 @@
    {
     "band": "B1",
     "en": "We painted the living room light blue to make it look brighter.",
-    "tr": "Daha parlak (aydınlık) görünmesini sağlamak için oturma odasını açık maviye boyadık.",
+    "tr": "Daha aydınlık görünmesini sağlamak için oturma odasını açık maviye boyadık.",
     "add": "to make it look brighter",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -8111,7 +8111,7 @@
     "en": "I received a handwritten letter from my childhood friend, whom I hadn't heard from for years, bringing back instantly all the sweet memories of our school days.",
     "tr": "Yıllardır haber alamadığım çocukluk arkadaşımdan el yazısıyla yazılmış bir mektup aldım; bu mektup okul günlerimizin tüm tatlı anılarını anında geri getirdi.",
     "add": ", bringing back instantly all the sweet memories of our school days",
-    "ask": "Bu mektup neye vesile oldu / ne hissettirdi?",
+    "ask": "Bu mektup ne hissettirdi?",
     "distractors": [
      "hoping we could meet again",
      "before I realized he was in town"
@@ -8216,7 +8216,7 @@
     "en": "My grandmother makes herbal tea whenever we have a cold, boiling wild plants she gathers from the garden.",
     "tr": "Ne zaman soğuk algınlığı geçirsek büyükannem, bahçeden topladığı yabani bitkileri kaynatarak bitki çayı yapar.",
     "add": ", boiling wild plants she gathers from the garden",
-    "ask": "Nasıl / Hangi bitkileri kullanarak?",
+    "ask": "Hangi bitkileri kullanarak?",
     "distractors": [
      "which tastes very bitter",
      "although we prefer medicine"
@@ -8229,7 +8229,7 @@
     "add": ", a natural remedy that works wonders for our throats",
     "ask": "Bu çayın etkisi nedir?",
     "distractors": [
-     "making us feel much better within an hour",
+     "while the kettle whistles loudly",
      "which her own mother taught her to prepare"
     ]
    }
@@ -8252,7 +8252,7 @@
     "en": "They opened a small gift shop.",
     "tr": "Küçük bir hediyelik eşya dükkanı açtılar.",
     "add": "small gift",
-    "ask": "Nasıl / Ne dükkanı?",
+    "ask": "Ne dükkanı?",
     "distractors": [
      "last summer",
      "in the town"
@@ -8321,7 +8321,7 @@
     "en": "My older sister got married in a seaside wedding.",
     "tr": "Ablam deniz kenarında bir düğünle evlendi.",
     "add": "in a seaside wedding",
-    "ask": "Nasıl / Nerede bir düğünle?",
+    "ask": "Nerede bir düğünle?",
     "distractors": [
      "with all our relatives",
      "because she fell in love"
@@ -8366,7 +8366,7 @@
    {
     "band": "A2",
     "en": "The thick snow melted.",
-    "tr": "Yoğun (kalın) kar eridi.",
+    "tr": "Kalın kar eridi.",
     "add": "thick",
     "ask": "Nasıl kar?",
     "distractors": [
@@ -8390,7 +8390,7 @@
     "en": "The thick snow melted rapidly in the sun, turning the dry soil into mud.",
     "tr": "Kalın kar güneşin altında hızla eridi ve kuru toprağı çamura dönüştürdü.",
     "add": ", turning the dry soil into mud",
-    "ask": "Bu durum neye yol açtı / toprağı ne yaptı?",
+    "ask": "Kuru toprağa ne oldu?",
     "distractors": [
      "although we wanted to ski",
      "forcing children to stay indoors"
@@ -8509,7 +8509,7 @@
     "ask": "Bu durum ona ne fayda sağlar?",
     "distractors": [
      "since organic ones are expensive",
-     "making her feel energetic all day"
+     "during the cold months"
     ]
    },
    {
@@ -8573,7 +8573,7 @@
    {
     "band": "C1",
     "en": "He reads mystery novels before going to bed, which helps him escape the stress of his daily job, even though some stories keep him awake for hours with suspense.",
-    "tr": "Günlük işinin stresinden kaçmasına yardımcı olan yatmadan önce gizem romanları okuma eylemini, bazı hikayelerin onu merak içinde saatlerce uyanık tutmasına rağmen sürdürür.",
+    "tr": "Yatmadan önce gizem romanları okur; bu, günlük işinin stresinden kaçmasına yardımcı olur, bazı hikâyeler onu gerilimle saatlerce uyanık tutsa da.",
     "add": ", even though some stories keep him awake for hours with suspense",
     "ask": "Neye rağmen okur?",
     "distractors": [
@@ -8667,7 +8667,7 @@
    {
     "band": "B1",
     "en": "She downloaded the free app on her tablet.",
-    "tr": "Tableti üzerine ücretsiz uygulamayı indirdi.",
+    "tr": "Tabletine ücretsiz uygulamayı indirdi.",
     "add": "on her tablet",
     "ask": "Nereye?",
     "distractors": [
@@ -8678,7 +8678,7 @@
    {
     "band": "B2",
     "en": "She downloaded the free app on her tablet to learn French vocabulary.",
-    "tr": "Fransızca kelime öğrenmek için tableti üzerine ücretsiz uygulamayı indirdi.",
+    "tr": "Fransızca kelime öğrenmek için tabletine ücretsiz uygulamayı indirdi.",
     "add": "to learn French vocabulary",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -8899,7 +8899,7 @@
    {
     "band": "B1",
     "en": "I helped my best friend with his homework.",
-    "tr": "Ödevi konusunda en iyi arkadaşıma yardım ettim (ödevine yardım ettim).",
+    "tr": "En iyi arkadaşıma ödevinde yardım ettim.",
     "add": "with his homework",
     "ask": "Ne konuda?",
     "distractors": [
@@ -8910,7 +8910,7 @@
    {
     "band": "B2",
     "en": "I helped my best friend with his homework, although I was very tired myself.",
-    "tr": "Kendim çok yorgun olmama rağmen, ödevine yardım etmek için en iyi arkadaşıma yardım ettim.",
+    "tr": "Kendim çok yorgun olmama rağmen, en iyi arkadaşıma ödevinde yardım ettim.",
     "add": ", although I was very tired myself",
     "ask": "Neye rağmen?",
     "distractors": [
@@ -8938,7 +8938,7 @@
    {
     "band": "A1",
     "en": "We packed our bags.",
-    "tr": "Çantalarımızı hazırladık (topladık).",
+    "tr": "Çantalarımızı hazırladık.",
     "add": "",
     "ask": "",
     "distractors": []
@@ -8996,7 +8996,7 @@
    {
     "band": "A1",
     "en": "He prepared breakfast.",
-    "tr": "O kahvaltı hazırladı.",
+    "tr": "Kahvaltı hazırladı.",
     "add": "",
     "ask": "",
     "distractors": []
@@ -9028,7 +9028,7 @@
     "en": "He prepared a traditional breakfast for his family on Sunday, using only organic ingredients.",
     "tr": "Sadece organik malzemeler kullanarak, pazar günü ailesi için geleneksel bir kahvaltı hazırladı.",
     "add": ", using only organic ingredients",
-    "ask": "Nasıl / Hangi malzemeleri kullanarak?",
+    "ask": "Hangi malzemeleri kullanarak?",
     "distractors": [
      "because it was healthier",
      "which took him two hours"
@@ -9037,7 +9037,7 @@
    {
     "band": "C1",
     "en": "He prepared a traditional breakfast for his family on Sunday, using only organic ingredients, which was highly appreciated by everyone at the table.",
-    "tr": "Sadece organik malzemeler kullanarak pazar günü ailesi için geleneksel bir kahvaltı hazırladı; masadaki herkes tarafından çok takdir edilen bir şey.",
+    "tr": "Sadece organik malzemeler kullanarak pazar günü ailesi için geleneksel bir kahvaltı hazırladı; bu da masadaki herkes tarafından çok takdir edildi.",
     "add": ", which was highly appreciated by everyone at the table",
     "ask": "Bu hazırlık masadakiler tarafından nasıl karşılandı?",
     "distractors": [
@@ -9112,7 +9112,7 @@
    {
     "band": "A1",
     "en": "We had a dinner.",
-    "tr": "Yemek yedik (akşam yemeği yedik).",
+    "tr": "Akşam yemeği yedik.",
     "add": "",
     "ask": "",
     "distractors": []
@@ -9122,7 +9122,7 @@
     "en": "We had a family dinner.",
     "tr": "Ailece akşam yemeği yedik.",
     "add": "family",
-    "ask": "Nasıl / Kiminle yemek?",
+    "ask": "Kiminle yemek?",
     "distractors": [
      "last night",
      "at a restaurant"
@@ -9296,7 +9296,7 @@
     "en": "He exercises regularly.",
     "tr": "Düzenli olarak egzersiz yapar.",
     "add": "regularly",
-    "ask": "Nasıl / Ne sıklıkla?",
+    "ask": "Ne sıklıkla?",
     "distractors": [
      "at the gym",
      "to lose weight"
@@ -9363,7 +9363,7 @@
    {
     "band": "B1",
     "en": "They draw nature pictures using charcoal pencils.",
-    "tr": "Kömür kalemler (karakalem) kullanarak doğa resimleri çizerler.",
+    "tr": "Karakalem kullanarak doğa resimleri çizerler.",
     "add": "using charcoal pencils",
     "ask": "Ne kullanarak?",
     "distractors": [
@@ -9479,7 +9479,7 @@
    {
     "band": "B1",
     "en": "He bought a powerful laptop for his computer science studies.",
-    "tr": "Bilgisayar bilimi çalışmaları (eğitimi) için güçlü bir dizüstü bilgisayar satın aldı.",
+    "tr": "Bilgisayar bilimi eğitimi için güçlü bir dizüstü bilgisayar satın aldı.",
     "add": "for his computer science studies",
     "ask": "Ne için?",
     "distractors": [
@@ -9608,7 +9608,7 @@
     "en": "They saved enough money to buy their own house, after working in three different jobs for years.",
     "tr": "Yıllarca üç farklı işte çalıştıktan sonra, kendi evlerini satın almak için yeterli para biriktirdiler.",
     "add": ", after working in three different jobs for years",
-    "ask": "Neyin ardından / Nasıl?",
+    "ask": "Neyin ardından?",
     "distractors": [
      "since they wanted stability",
      "making a big sacrifice in their lives"
@@ -9724,7 +9724,7 @@
     "en": "We celebrated our graduation with our closest friends, dining at a beautiful seaside restaurant.",
     "tr": "Deniz kenarında güzel bir restoranda akşam yemeği yiyerek, en yakın arkadaşlarımızla mezuniyetimizi kutladık.",
     "add": ", dining at a beautiful seaside restaurant",
-    "ask": "Nasıl / Nerede kutladınız?",
+    "ask": "Nerede kutladınız?",
     "distractors": [
      "although we had no money",
      "making some noise in the city"
@@ -9780,7 +9780,7 @@
    {
     "band": "B2",
     "en": "They rented a small car for their summer holiday to explore the hidden beaches of the region.",
-    "tr": "Bölgenin gizli plajlarını keşfetmek için, yaz tatilleri için küçük bir araba kiraladılar.",
+    "tr": "Bölgenin gizli plajlarını keşfetmek için yaz tatillerinde küçük bir araba kiraladılar.",
     "add": "to explore the hidden beaches of the region",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -9829,7 +9829,7 @@
     "en": "The manager hired temporary staff for the busy summer season.",
     "tr": "Müdür, yoğun yaz sezonu için geçici personel işe aldı.",
     "add": "for the busy summer season",
-    "ask": "Ne zaman/Ne için?",
+    "ask": "Ne için?",
     "distractors": [
      "to handle the workload",
      "which was expected"
@@ -9924,7 +9924,7 @@
    {
     "band": "A1",
     "en": "The fog cleared.",
-    "tr": "Sis dağıldı (açıldı).",
+    "tr": "Sis dağıldı.",
     "add": "",
     "ask": "",
     "distractors": []
@@ -10128,7 +10128,7 @@
    {
     "band": "B2",
     "en": "He checked in at the boutique hotel after a tiring twelve-hour flight, only to find that his room was not ready.",
-    "tr": "Yorucu bir on iki saatlik uçuşun ardından butik otelde giriş yaptı, fakat sadece odasının hazır olmadığını gördü.",
+    "tr": "Yorucu bir on iki saatlik uçuşun ardından butik otelde giriş yaptı, fakat odasının hazır olmadığını gördü.",
     "add": ", only to find that his room was not ready",
     "ask": "Giriş yaptıktan sonra neyle karşılaştı?",
     "distractors": [
@@ -10429,7 +10429,7 @@
    {
     "band": "C1",
     "en": "He plays the acoustic guitar in his bedroom when he wants to relax, which has been his favourite hobby, though he has never performed in public.",
-    "tr": "Rahatlamak istediğinde yatak odasında akustik gitar çalar; bu, en sevdiği hobisidir - gerçi hiçbir zaman halk önünde sahne almamıştır.",
+    "tr": "Rahatlamak istediğinde yatak odasında akustik gitar çalar; bu, en sevdiği hobisidir; gerçi hiçbir zaman halk önünde sahne almamıştır.",
     "add": ", though he has never performed in public",
     "ask": "Neye rağmen bu hobiyi sürdürüyor?",
     "distractors": [
@@ -10476,7 +10476,7 @@
    {
     "band": "B2",
     "en": "The subway was incredibly crowded this morning because of the roadworks, making my commute extremely stressful.",
-    "tr": "Yol çalışmaları nedeniyle bu sabah metro inanılmaz kalabalıktı, bu da işe gidiş gelişimizi son derece stresli hale getirdi.",
+    "tr": "Yol çalışmaları nedeniyle bu sabah metro inanılmaz kalabalıktı, bu da işe gidiş-dönüş yolculuğumu son derece stresli hale getirdi.",
     "add": ", making my commute extremely stressful",
     "ask": "Bu durum yolculuğunuzu nasıl etkiledi?",
     "distractors": [
@@ -10487,7 +10487,7 @@
    {
     "band": "C1",
     "en": "The subway was incredibly crowded this morning because of the roadworks, making my commute extremely stressful, a situation that officials need to address.",
-    "tr": "Yol çalışmaları nedeniyle bu sabah metro inanılmaz kalabalıktı ve işe gidiş gelişimizi son derece stresli hale getirdi; yetkililerin çözmesi gereken bir durum bu.",
+    "tr": "Yol çalışmaları nedeniyle bu sabah metro inanılmaz kalabalıktı ve işe gidiş-dönüş yolculuğumu son derece stresli hale getirdi; yetkililerin çözmesi gereken bir durum bu.",
     "add": ", a situation that officials need to address",
     "ask": "Bu durum hakkında yetkililer ne yapmalı?",
     "distractors": [
@@ -10523,7 +10523,7 @@
    {
     "band": "B1",
     "en": "We bought a smart speaker for our living room to control the lights.",
-    "tr": "Işıkları kontrol etmek için oturma odamız için akıllı bir hoparlör aldık.",
+    "tr": "Işıkları kontrol etmek üzere oturma odamıza akıllı bir hoparlör aldık.",
     "add": "to control the lights",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -10534,7 +10534,7 @@
    {
     "band": "B2",
     "en": "We bought a smart speaker for our living room to control the lights, which has made our routines easier.",
-    "tr": "Işıkları kontrol etmek için oturma odamız için akıllı bir hoparlör aldık; bu, rutinlerimizi kolaylaştırdı.",
+    "tr": "Işıkları kontrol etmek üzere oturma odamıza akıllı bir hoparlör aldık; bu, rutinlerimizi kolaylaştırdı.",
     "add": ", which has made our routines easier",
     "ask": "Bunun hayatınıza nasıl bir etkisi oldu?",
     "distractors": [
@@ -10545,7 +10545,7 @@
    {
     "band": "C1",
     "en": "We bought a smart speaker for our living room to control the lights, which has made our routines easier, despite our worries about privacy.",
-    "tr": "Işıkları kontrol etmek için oturma odamız için akıllı bir hoparlör aldık; gizlilik konusundaki endişelerimize rağmen, bu rutinlerimizi kolaylaştırdı.",
+    "tr": "Işıkları kontrol etmek üzere oturma odamıza akıllı bir hoparlör aldık; gizlilik konusundaki endişelerimize rağmen, bu rutinlerimizi kolaylaştırdı.",
     "add": ", despite our worries about privacy",
     "ask": "Neye rağmen bu cihazı kullanıyorsunuz?",
     "distractors": [
@@ -10719,7 +10719,7 @@
    {
     "band": "C1",
     "en": "Since we wanted to avoid the crowds, we played board games at my house until the early hours, reminding us of our university days.",
-    "tr": "Kalabalıktan kaçınmak istediğimiz için, bize üniversite günlerimizi hatırlatacak şekilde, sabahın erken saatlerine kadar benim evimde kutu oyunları oynadık.",
+    "tr": "Kalabalıktan kaçınmak istediğimiz için, bize üniversite günlerimizi hatırlatarak, sabahın erken saatlerine kadar benim evimde kutu oyunları oynadık.",
     "add": ", reminding us of our university days",
     "ask": "Bu oyun gecesi size neyi hatırlattı?",
     "distractors": [
@@ -10755,7 +10755,7 @@
    {
     "band": "B1",
     "en": "They decorated the living room with cushions to make it welcoming.",
-    "tr": "Misafirler için daha davetkar hale getirmek amacıyla oturma odasını minderlerle dekore ettiler.",
+    "tr": "Daha davetkar hale getirmek amacıyla oturma odasını minderlerle dekore ettiler.",
     "add": "to make it welcoming",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -10766,9 +10766,9 @@
    {
     "band": "B2",
     "en": "Using items they found at markets, they decorated the living room with cushions to make it welcoming.",
-    "tr": "Pazarlarda buldukları eşyaları kullanarak, misafirler için daha davetkar hale getirmek amacıyla oturma odasını minderlerle dekore ettiler.",
+    "tr": "Pazarlarda buldukları eşyaları kullanarak, daha davetkar hale getirmek amacıyla oturma odasını minderlerle dekore ettiler.",
     "add": "Using items they found at markets,",
-    "ask": "Nasıl/ne kullanarak?",
+    "ask": "Ne kullanarak?",
     "distractors": [
      "Because they moved to a new flat,",
      "To spend their weekends actively,"
@@ -10777,7 +10777,7 @@
    {
     "band": "C1",
     "en": "Using items they found at markets, they decorated the living room with cushions to make it welcoming, creating a unique style on a tight budget.",
-    "tr": "Pazarlarda buldukları eşyaları kullanarak, dar bir bütçeyle benzersiz bir tarz yaratarak, misafirler için daha davetkar hale getirmek amacıyla oturma odasını minderlerle dekore ettiler.",
+    "tr": "Pazarlarda buldukları eşyaları kullanarak, daha davetkar hale getirmek amacıyla oturma odasını minderlerle dekore ettiler ve dar bir bütçeyle benzersiz bir tarz yarattılar.",
     "add": ", creating a unique style on a tight budget",
     "ask": "Sonuçta nasıl bir tarz ve bütçe dengesi oluştu?",
     "distractors": [
@@ -11767,7 +11767,7 @@
     "add": ", a decision that proved extremely beneficial for his health",
     "ask": "Bu karar onun için nasıl sonuçlandı?",
     "distractors": [
-     "allowing him to sleep soundly at night",
+     "even though he arrived quite late",
      "which was highly recommended by his doctor"
     ]
    }
@@ -12169,7 +12169,7 @@
    {
     "band": "C1",
     "en": "We looked at old family photos in the attic, which were stored in a dusty wooden box, laughing at the funny clothes people wore, a nostalgic journey that made us feel deeply connected.",
-    "tr": "Tavan arasında, tozlu ahşap bir kutuda saklanan eski aile fotoğraflarına baktık; insanların giydiği komik kıyafetlere güldük. Bizi birbirimize derinden bağlı hissettiren nostaljik bir yolculuktu bu.",
+    "tr": "Tavan arasında, tozlu ahşap bir kutuda saklanan eski aile fotoğraflarına baktık; insanların giydiği komik kıyafetlere güldük; bizi birbirimize derinden bağlı hissettiren nostaljik bir yolculuktu bu.",
     "add": ", a nostalgic journey that made us feel deeply connected",
     "ask": "Bu deneyim size ne hissettirdi?",
     "distractors": [
@@ -12227,7 +12227,7 @@
    {
     "band": "C1",
     "en": "A sudden summer shower started in the afternoon, surprising all the tourists in the streets, who ran to find shelter under the cafes, a refreshing break from the intense heat.",
-    "tr": "Öğleden sonra ani bir yaz sağanağı başladı; sokaktaki tüm turistleri şaşırttı ve kafelerin altına sığınmak için koşmalarına yol açtı; yoğun sıcaktan sonra ferahlatıcı bir mola oldu bu.",
+    "tr": "Öğleden sonra ani bir yaz sağanağı başladı; sokaktaki tüm turistleri şaşırttı ve onlar da kafelerin altına sığınmak için koştular; yoğun sıcaktan sonra ferahlatıcı bir mola oldu bu.",
     "add": ", a refreshing break from the intense heat",
     "ask": "Bu sağanak genel olarak havayı nasıl etkiledi?",
     "distractors": [
@@ -12252,7 +12252,7 @@
    {
     "band": "A2",
     "en": "I bought a green potted plant for my office.",
-    "tr": "Ofisim için yeşil saksıda bir bitki aldım.",
+    "tr": "Ofisim için yeşil bir saksı bitkisi aldım.",
     "add": "green potted plant for my office",
     "ask": "Nasıl bir bitki ve neresi için?",
     "distractors": [
@@ -12263,7 +12263,7 @@
    {
     "band": "B1",
     "en": "I bought a green potted plant for my office, which is very easy to care for.",
-    "tr": "Ofisim için, bakımı çok kolay olan yeşil saksıda bir bitki aldım.",
+    "tr": "Ofisim için, bakımı çok kolay olan yeşil bir saksı bitkisi aldım.",
     "add": ", which is very easy to care for",
     "ask": "Bitkinin özelliği ne?",
     "distractors": [
@@ -12274,7 +12274,7 @@
    {
     "band": "B2",
     "en": "I bought a green potted plant for my office, which is very easy to care for, because my desk felt extremely empty.",
-    "tr": "Çalışma masam son derece boş hissettirdiği için, ofisime bakımı çok kolay olan yeşil saksıda bir bitki aldım.",
+    "tr": "Çalışma masam son derece boş hissettirdiği için, ofisime bakımı çok kolay olan yeşil bir saksı bitkisi aldım.",
     "add": "because my desk felt extremely empty",
     "ask": "Neden?",
     "distractors": [
@@ -12285,7 +12285,7 @@
    {
     "band": "C1",
     "en": "I bought a green potted plant for my office, which is very easy to care for, because my desk felt extremely empty, a small purchase that added a touch of nature to my workspace.",
-    "tr": "Çalışma masam son derece boş hissettirdiği için, ofisime bakımı çok kolay olan yeşil saksıda bir bitki aldım; çalışma alanıma doğadan bir dokunuş katan küçük bir alışveriştir bu.",
+    "tr": "Çalışma masam son derece boş hissettirdiği için, ofisime bakımı çok kolay olan yeşil bir saksı bitkisi aldım; çalışma alanıma doğadan bir dokunuş katan küçük bir alışveriştir bu.",
     "add": ", a small purchase that added a touch of nature to my workspace",
     "ask": "Bu küçük alışveriş ofisinize ne kattı?",
     "distractors": [
@@ -12401,7 +12401,7 @@
    {
     "band": "C1",
     "en": "He learned to knit a woollen scarf from his grandmother, which became his favorite way to spend evenings, a comforting hobby that connected him to his family's traditions.",
-    "tr": "Büyükannesinden yün bir atkı örmeyi öğrendi; bu, onu ailesinin geleneklerine bağlayan, huzur verici ve en sevdiği akşam geçirme yolu haline geldi.",
+    "tr": "Büyükannesinden yün bir atkı örmeyi öğrendi; bu, akşamları vakit geçirmenin en sevdiği yolu haline geldi; onu ailesinin geleneklerine bağlayan huzur verici bir hobi.",
     "add": ", a comforting hobby that connected him to his family's traditions",
     "ask": "Bu hobi ailevi anlamda ona ne hissettirdi?",
     "distractors": [
@@ -12459,7 +12459,7 @@
    {
     "band": "C1",
     "en": "Because the weather was freezing, they had hot lentil soup for lunch to warm up, a traditional dish that reminded them of home.",
-    "tr": "Hava dondurucu olduğu için, onlara evlerini hatırlatan geleneksel bir yemek olan sıcak mercimek çorbasını öğle yemeğinde ısınmak amacıyla içtiler.",
+    "tr": "Hava dondurucu olduğu için, ısınmak amacıyla öğle yemeğinde sıcak mercimek çorbası içtiler; onlara evlerini hatırlatan geleneksel bir yemek.",
     "add": ", a traditional dish that reminded them of home",
     "ask": "Bu yemek onlara neyi hatırlattı?",
     "distractors": [
@@ -12495,7 +12495,7 @@
    {
     "band": "B1",
     "en": "We visited the ancient castle on the hill to enjoy the panoramic views.",
-    "tr": "Panoromik manzaranın tadını çıkarmak için tepedeki antik kaleyi ziyaret ettik.",
+    "tr": "Panoramik manzaranın tadını çıkarmak için tepedeki antik kaleyi ziyaret ettik.",
     "add": "to enjoy the panoramic views",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -12506,7 +12506,7 @@
    {
     "band": "B2",
     "en": "We visited the ancient castle on the hill to enjoy the panoramic views, which were absolutely breathtaking.",
-    "tr": "Panoromik manzaranın tadını çıkarmak için tepedeki antik kaleyi ziyaret ettik; manzara kesinlikle nefes kesiciydi.",
+    "tr": "Panoramik manzaranın tadını çıkarmak için tepedeki antik kaleyi ziyaret ettik; manzara kesinlikle nefes kesiciydi.",
     "add": ", which were absolutely breathtaking",
     "ask": "Manzara nasıldı?",
     "distractors": [
@@ -12517,7 +12517,7 @@
    {
     "band": "C1",
     "en": "We visited the ancient castle on the hill to enjoy the panoramic views, which were absolutely breathtaking, showing the entire valley below.",
-    "tr": "Panoromik manzaranın tadını çıkarmak için tepedeki antik kaleyi ziyaret ettik; tüm vadiyi aşağıda gösteren manzara kesinlikle nefes kesiciydi.",
+    "tr": "Panoramik manzaranın tadını çıkarmak için tepedeki antik kaleyi ziyaret ettik; tüm vadiyi aşağıda gösteren manzara kesinlikle nefes kesiciydi.",
     "add": ", showing the entire valley below",
     "ask": "Manzara tam olarak nereyi gösteriyordu?",
     "distractors": [
@@ -12981,7 +12981,7 @@
    {
     "band": "C1",
     "en": "She studied cell biology in the study room to prepare for her final exam, which was scheduled for next Thursday, a critical test that would determine her grade.",
-    "tr": "Gelecek perşembe yapılması planlanan, geçme notunu belirleyecek kritik bir sınav olan final sınavına hazırlanmak için çalışma odasında hücre biyolojisi çalıştı.",
+    "tr": "Gelecek perşembe yapılması planlanan, notunu belirleyecek kritik bir sınav olan final sınavına hazırlanmak için çalışma odasında hücre biyolojisi çalıştı.",
     "add": ", a critical test that would determine her grade",
     "ask": "Bu sınav onun için ne kadar kritikti?",
     "distractors": [
@@ -13619,7 +13619,7 @@
    {
     "band": "C1",
     "en": "He photographs colorful wild birds in the forest, spending hours waiting in silence, which requires incredible patience, a trait he developed through his love for nature.",
-    "tr": "Saatlerce sessizlik içinde bekleyerek ormanda renkli yaban kuşlarının fotoğraflarını çeker; doğaya olan sevgisi sayesinde geliştirdiği, inanılmaz bir sabır gerektiren bir uğraştır bu.",
+    "tr": "Saatlerce sessizlik içinde bekleyerek ormanda renkli yaban kuşlarının fotoğraflarını çeker; bu, inanılmaz bir sabır gerektirir — doğaya olan sevgisiyle geliştirdiği bir özellik.",
     "add": ", a trait he developed through his love for nature",
     "ask": "Bu sabrı nasıl kazandı?",
     "distractors": [
@@ -13897,9 +13897,9 @@
    },
    {
     "band": "B2",
-    "en": "We shared a yellow cab on our way home because the rain was pouring, spliting the fare equally among us.",
+    "en": "We shared a yellow cab on our way home because the rain was pouring, splitting the fare equally among us.",
     "tr": "Yağmur bardaktan boşalırcasına yağdığı için ücreti aramızda eşit bölüşerek eve dönüş yolumuzda sarı bir taksi paylaştık.",
-    "add": ", spliting the fare equally among us",
+    "add": ", splitting the fare equally among us",
     "ask": "Ücret konusunu nasıl çözdünüz?",
     "distractors": [
      "since we wanted to reach home dry",
@@ -13908,7 +13908,7 @@
    },
    {
     "band": "C1",
-    "en": "We shared a yellow cab on our way home because the rain was pouring, spliting the fare equally among us, a practical choice that saved us from getting completely soaked.",
+    "en": "We shared a yellow cab on our way home because the rain was pouring, splitting the fare equally among us, a practical choice that saved us from getting completely soaked.",
     "tr": "Yağmur bardaktan boşalırcasına yağdığı için ücreti aramızda eşit bölüşerek eve dönüş yolumuzda sarı bir taksi paylaştık; bizi tamamen sırılsıklam olmaktan kurtaran pratik bir seçimdi bu.",
     "add": ", a practical choice that saved us from getting completely soaked",
     "ask": "Bu seçim sizin için ne kadar pratik oldu?",
@@ -13956,7 +13956,7 @@
    {
     "band": "B2",
     "en": "I changed the broken lightbulb in the living room to make the space brighter, which immediately improved my evening reading comfort.",
-    "tr": "Alanı daha parlak hale getirmek için oturma odasındaki bozuk ampulü değiştirdim; bu, akşam kitap okuma konforumuzu hemen artırdı.",
+    "tr": "Alanı daha parlak hale getirmek için oturma odasındaki bozuk ampulü değiştirdim; bu, akşam kitap okuma konforumu hemen artırdı.",
     "add": ", which immediately improved my evening reading comfort",
     "ask": "Bunun size nasıl bir faydası oldu?",
     "distractors": [
@@ -13967,7 +13967,7 @@
    {
     "band": "C1",
     "en": "I changed the broken lightbulb in the living room to make the space brighter, which immediately improved my evening reading comfort, a simple fix that resolved my eye strain.",
-    "tr": "Alanı daha parlak hale getirmek için oturma odasındaki bozuk ampulü değiştirdim ve bu, göz yorgunluğumu çözen basit bir çözüm olarak akşam kitap okuma konforumuzu hemen artırdı.",
+    "tr": "Alanı daha parlak hale getirmek için oturma odasındaki bozuk ampulü değiştirdim; bu, akşam kitap okuma konforumu hemen artırdı — göz yorgunluğumu gideren basit bir çözümdü.",
     "add": ", a simple fix that resolved my eye strain",
     "ask": "Bu basit çözüm neyi ortadan kaldırdı?",
     "distractors": [
@@ -14248,7 +14248,7 @@
     "en": "He stretches his muscles for ten minutes after work to relieve physical tension, especially after sitting all day at his desk.",
     "tr": "Özellikle bütün gün masasında oturduktan sonra, fiziksel gerginliği hafifletmek için işten sonra on dakika boyunca kaslarını esnetir.",
     "add": ", especially after sitting all day at his desk",
-    "ask": "Özellikle ne zaman sonra?",
+    "ask": "Özellikle hangi durumdan sonra?",
     "distractors": [
      "since his lower back hurts frequently",
      "before he prepares his dinner"
@@ -14257,7 +14257,7 @@
    {
     "band": "C1",
     "en": "He stretches his muscles for ten minutes after work to relieve physical tension, especially after sitting all day at his desk, a simple routine that prevents chronic stiffness.",
-    "tr": "Özellikle bütün gün masasında oturduktan sonra, fiziksel gerginliği hafifletmek için işten sonra on dakika boyunca kaslarını esnetir; kronik sertleşmeyi önleyen basit bir rutindir bu.",
+    "tr": "Özellikle bütün gün masasında oturduktan sonra, fiziksel gerginliği hafifletmek için işten sonra on dakika boyunca kaslarını esnetir; kronik tutukluğu önleyen basit bir rutindir bu.",
     "add": ", a simple routine that prevents chronic stiffness",
     "ask": "Bu basit rutinin uzun vadeli faydası ne?",
     "distractors": [
@@ -14306,7 +14306,7 @@
     "en": "They play competitive chess online to challenge players from other countries, which has improved their global rankings.",
     "tr": "Diğer ülkelerden oyunculara meydan okumak için internet üzerinden rekabetçi satranç oynarlar; bu, onların küresel sıralamalarını yükseltti.",
     "add": ", which has improved their global rankings",
-    "ask": "Bunun kariyerlerine/seviyelerine etkisi ne oldu?",
+    "ask": "Bu durum sıralamalarını nasıl etkiledi?",
     "distractors": [
      "even though they experience connection issues",
      "before they enter the national tournament"
@@ -14641,7 +14641,7 @@
    {
     "band": "B1",
     "en": "He packed a very light suitcase for his trip to avoid paying extra luggage fees.",
-    "tr": "Ekstra bagaj ücreti ödemekten kaçınmak için yolculuğu için çok hafif bir valiz hazırladı.",
+    "tr": "Ekstra bagaj ücreti ödemekten kaçınmak amacıyla yolculuğu için çok hafif bir valiz hazırladı.",
     "add": "to avoid paying extra luggage fees",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -14652,7 +14652,7 @@
    {
     "band": "B2",
     "en": "He packed a very light suitcase for his trip to avoid paying extra luggage fees, which is a practical travel rule he follows.",
-    "tr": "Ekstra bagaj ücreti ödemekten kaçınmak için yolculuğu için çok hafif bir valiz hazırladı; bu, onun takip ettiği pratik bir seyahat kuralıdır.",
+    "tr": "Ekstra bagaj ücreti ödemekten kaçınmak amacıyla yolculuğu için çok hafif bir valiz hazırladı; bu, onun takip ettiği pratik bir seyahat kuralıdır.",
     "add": ", which is a practical travel rule he follows",
     "ask": "Bu onun için nasıl bir yöntem?",
     "distractors": [
@@ -14663,7 +14663,7 @@
    {
     "band": "C1",
     "en": "He packed a very light suitcase for his trip to avoid paying extra luggage fees, which is a practical travel rule he follows, allowing him to move around the city with ease.",
-    "tr": "Ekstra bagaj ücreti ödemekten kaçınmak için yolculuğu için çok hafif bir valiz hazırladı; takip ettiği bu pratik seyahat kuralı, şehirde kolayca hareket etmesini sağlıyor.",
+    "tr": "Ekstra bagaj ücreti ödemekten kaçınmak amacıyla yolculuğu için çok hafif bir valiz hazırladı; takip ettiği bu pratik seyahat kuralı, şehirde kolayca hareket etmesini sağlıyor.",
     "add": ", allowing him to move around the city with ease",
     "ask": "Bu kural ona ne kolaylığı sağlıyor?",
     "distractors": [
@@ -15434,7 +15434,7 @@
    {
     "band": "A1",
     "en": "He learned to juggle.",
-    "tr": "Lobut çevirmeyi (joklörlük) öğrendi.",
+    "tr": "Jonglörlük yapmayı öğrendi.",
     "add": "",
     "ask": "",
     "distractors": []
@@ -15442,9 +15442,9 @@
    {
     "band": "A2",
     "en": "He learned to juggle three tennis balls.",
-    "tr": "Üç tenis topuyla lobut çevirmeyi öğrendi.",
+    "tr": "Üç tenis topuyla jonglörlük yapmayı öğrendi.",
     "add": "to juggle three tennis balls",
-    "ask": "Neyle lobut çevirmeyi?",
+    "ask": "Neyle jonglörlük yapmayı?",
     "distractors": [
      "during his free summer days",
      "using a helpful video tutorial"
@@ -15453,7 +15453,7 @@
    {
     "band": "B1",
     "en": "He learned to juggle three tennis balls to entertain his younger cousins.",
-    "tr": "Kuzenlerini eğlendirmek için üç tenis topuyla lobut çevirmeyi öğrendi.",
+    "tr": "Kuzenlerini eğlendirmek için üç tenis topuyla jonglörlük yapmayı öğrendi.",
     "add": "to entertain his younger cousins",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -15464,7 +15464,7 @@
    {
     "band": "B2",
     "en": "He learned to juggle three tennis balls to entertain his younger cousins, which became his favorite party trick.",
-    "tr": "Kuzenlerini eğlendirmek için üç tenis topuyla lobut çevirmeyi öğrendi; bu, onun en sevdiği parti numarası haline geldi.",
+    "tr": "Kuzenlerini eğlendirmek için üç tenis topuyla jonglörlük yapmayı öğrendi; bu, onun en sevdiği parti numarası haline geldi.",
     "add": ", which became his favorite party trick",
     "ask": "Bu yetenek onun için neye dönüştü?",
     "distractors": [
@@ -15475,7 +15475,7 @@
    {
     "band": "C1",
     "en": "He learned to juggle three tennis balls to entertain his younger cousins, which became his favorite party trick, bringing laughter and joy to family gatherings.",
-    "tr": "Kuzenlerini eğlendirmek için üç tenis topuyla lobut çevirmeyi öğrendi; aile toplantılarına kahkaha ve neşe getiren, onun en sevdiği parti numarası haline geldi bu.",
+    "tr": "Kuzenlerini eğlendirmek için üç tenis topuyla jonglörlük yapmayı öğrendi; aile toplantılarına kahkaha ve neşe getiren, onun en sevdiği parti numarası haline geldi bu.",
     "add": ", bringing laughter and joy to family gatherings",
     "ask": "Bu numara aile toplantılarınıza nasıl yansıdı?",
     "distractors": [
@@ -15569,7 +15569,7 @@
    {
     "band": "B1",
     "en": "I bought a mechanical typing keyboard for my computer to write my thesis faster.",
-    "tr": "Tezimi daha hızlı yazmak için bilgisayarım için mekanik bir yazı yazma klavyesi aldım.",
+    "tr": "Tezimi daha hızlı yazmak için bilgisayarıma mekanik bir yazı yazma klavyesi aldım.",
     "add": "to write my thesis faster",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -15580,7 +15580,7 @@
    {
     "band": "B2",
     "en": "I bought a mechanical typing keyboard for my computer to write my thesis faster, which has significantly improved my coding speed.",
-    "tr": "Tezimi daha hızlı yazmak için bilgisayarım için mekanik bir yazı yazma klavyesi aldım; bu, kodlama hızımı önemli ölçüde artırdı.",
+    "tr": "Tezimi daha hızlı yazmak için bilgisayarıma mekanik bir yazı yazma klavyesi aldım; bu, kodlama hızımı önemli ölçüde artırdı.",
     "add": ", which has significantly improved my coding speed",
     "ask": "Bu klavyenin size nasıl bir doğrudan faydası oldu?",
     "distractors": [
@@ -15591,7 +15591,7 @@
    {
     "band": "C1",
     "en": "I bought a mechanical typing keyboard for my computer to write my thesis faster, which has significantly improved my coding speed, making long hours of screen work much more enjoyable.",
-    "tr": "Tezimi daha hızlı yazmak için bilgisayarım için mekanik bir yazı yazma klavyesi aldım; kodlama hızımı önemli ölçüde artıran bu durum, ekran başındaki uzun saatleri çok daha keyifli hale getirdi.",
+    "tr": "Tezimi daha hızlı yazmak için bilgisayarıma mekanik bir yazı yazma klavyesi aldım; kodlama hızımı önemli ölçüde artıran bu durum, ekran başındaki uzun saatleri çok daha keyifli hale getirdi.",
     "add": ", making long hours of screen work much more enjoyable",
     "ask": "Hızın ve konforun artması ekran başındaki saatlerinizi nasıl etkiledi?",
     "distractors": [
@@ -15754,7 +15754,7 @@
    {
     "band": "B2",
     "en": "I hung a beautiful landscape painting in the living room, which my sister had painted, to add some color to the room.",
-    "tr": "Odaya biraz renk katmak için oturma odasına kız kardeşimin boyamış olduğu güzel bir manzara tablosu astım.",
+    "tr": "Ortama biraz renk katmak için oturma odasına kız kardeşimin boyamış olduğu güzel bir manzara tablosu astım.",
     "add": "to add some color to the room",
     "ask": "Hangi amaçla?",
     "distractors": [
@@ -15765,7 +15765,7 @@
    {
     "band": "C1",
     "en": "I hung a beautiful landscape painting in the living room, which my sister had painted, to add some color to the room, instantly making the space feel warmer.",
-    "tr": "Odaya biraz renk katmak için oturma odasına kız kardeşimin boyamış olduğu güzel bir manzara tablosu astım; bu, alanı anında daha sıcak hissettirdi.",
+    "tr": "Ortama biraz renk katmak için oturma odasına kız kardeşimin boyamış olduğu güzel bir manzara tablosu astım; bu, alanı anında daha sıcak hissettirdi.",
     "add": ", instantly making the space feel warmer",
     "ask": "Tablonun odaya kattığı anlık etki ne oldu?",
     "distractors": [
@@ -16171,7 +16171,7 @@
    {
     "band": "C1",
     "en": "We took a scenic ferry ride across the bay to watch the historic palaces from the water, which was a wonderfully peaceful experience, making us fall in love with the city again.",
-    "tr": "Tarihi sarayları su üzerinden izlemek için körfez boyunca manzaralı bir vapur yolculuğu yaptık; bize şehre yeniden aşık eden, harika derecede huzurlu bir deneyimdi bu.",
+    "tr": "Tarihi sarayları su üzerinden izlemek için körfez boyunca manzaralı bir vapur yolculuğu yaptık; bizi şehre yeniden âşık eden, harika derecede huzurlu bir deneyimdi bu.",
     "add": ", making us fall in love with the city again",
     "ask": "Bu huzurlu deneyim size ne hissettirdi?",
     "distractors": [

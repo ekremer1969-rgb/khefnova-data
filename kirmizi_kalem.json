@@ -109,7 +109,7 @@
       "'to help' → 'to helping': 'to'dan sonra fiil -ing alır."
     ],
     "note": "can, must, should, will: hepsinden sonra 'to'suz yalın fiil gelir: can help, must go.",
-    "tr": "Çantamda bana yardım edebilir misin?"
+    "tr": "Çantam konusunda bana yardım edebilir misin?"
   },
   {
     "id": "kk_a1_009",
@@ -2225,7 +2225,7 @@
       "'does' → 'doing': geniş zaman sorusu -ing ile kurulur."
     ],
     "note": "your children = they → do. Does yalnız he / she / it ile: What time does your son go to bed?",
-    "tr": "Çocukların saat kaçta yatar?"
+    "tr": "Çocuklarınız saat kaçta yatar?"
   },
   {
     "id": "kk_a1_090",
@@ -2365,7 +2365,7 @@
       "'in' → 'in the': vakitler 'the' ile söylenir (in the noon)."
     ],
     "note": "at noon, at night, at midnight; ama in the morning / afternoon / evening.",
-    "tr": "Öğlen yemek yeriz."
+    "tr": "Öğle yemeğini öğlen yeriz."
   },
   {
     "id": "kk_a1_100",
@@ -7379,7 +7379,7 @@
       "'not' → 'nothing': isimden önce 'nothing' gelir."
     ],
     "note": "no + isim (no reason); not + fiil / sıfat (isn't necessary). 'There is not reason' olmaz; 'There isn't any reason' olur.",
-    "tr": "Sonuçlar için endişelenmek için bir sebep yok."
+    "tr": "Sonuçlar konusunda endişelenmek için bir sebep yok."
   },
   {
     "id": "kk_b1_173",
@@ -8257,7 +8257,7 @@
       "'few' → 'a few': umut az olduğu için 'a few' gelir."
     ],
     "note": "little + sayılamayan (little hope); few + sayılabilen çoğul (few survivors).",
-    "tr": "Hayatta kalan bulma umudu çok az."
+    "tr": "Hayatta kalanları bulma umudu çok az."
   },
   {
     "id": "kk_b1_240",
@@ -8429,7 +8429,7 @@
       "'can't be' → 'mustn't be': geçmişe dair olumsuz çıkarım 'mustn't be' ile yapılır."
     ],
     "note": "Geçmişe çıkarım: must have V3 (kesin öyle), can't have V3 (kesin değil). 'yesterday' geçmişi gösterir.",
-    "tr": "Dün evde olamaz; bütün akşam ışıklar kapalıydı."
+    "tr": "Dün evde olamazdı; bütün akşam ışıklar kapalıydı."
   },
   {
     "id": "kk_b2_024",
@@ -10841,7 +10841,7 @@
       "'for' → 'with': iyilik yapan kişi 'with' ile verilir."
     ],
     "note": "It's kind / nice / generous / silly OF you to… (davranış). It's important / difficult FOR you to… (durum).",
-    "tr": "Taşınmada bana yardım etmen çok naziklikti."
+    "tr": "Taşınmada bana yardım etmen çok nazik bir davranıştı."
   },
   {
     "id": "kk_b2_207",
@@ -13507,7 +13507,7 @@
     "type": "phenomenon / phenomena",
     "reason": "'phenomena' → 'phenomenon': 'This' ve 'has' tekil ister.",
     "distractors": [
-      "'phenomena' → 'phenomenas': Latince kökenli isim de -s ile çoğul olur.",
+      "'phenomena' → 'phenomenas': Yunanca kökenli isim de -s ile çoğul olur.",
       "'phenomena' → 'phenomenal': 'This' ardından sıfat biçimi gelir."
     ],
     "note": "phenomenon → phenomena, criterion → criteria (Yunanca kökenli tekil/çoğul). 'phenomena' çoğuldur.",
@@ -13745,7 +13745,7 @@
     "s": "It is ten years since I last saw my old headmaster.",
     "type": "Hatalı görünen doğru: It is … since",
     "note": "Hata yok. 'It is (has been) + süre + since + geçmiş zaman' doğrudur; since'ten sonra past simple gelir.",
-    "tr": "Eski okul müdürümü en son göreli on yıl oldu."
+    "tr": "Eski okul müdürümü en son görmemin üzerinden on yıl geçti."
   },
   {
     "id": "kk_c1_199",

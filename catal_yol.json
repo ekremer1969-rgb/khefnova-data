@@ -847,7 +847,7 @@
    },
    {
     "prep": "with",
-    "en": "Compare this year figures ___ last year carefully.",
+    "en": "Compare this year's figures ___ last year's carefully.",
     "tr": "Bu yılın rakamlarını geçen yılınkiyle dikkatle karşılaştır.",
     "sense": "yan yana koyup incelemek"
    }
@@ -920,7 +920,7 @@
    {
     "prep": "on",
     "en": "They blamed the accident ___ the icy mountain road.",
-    "tr": "Kazayı buzlu dağ yoluna yıktılar.",
+    "tr": "Kazanın suçunu buzlu dağ yoluna yıktılar.",
     "sense": "suçu bir şeye yüklemek"
    }
   ]
@@ -1699,7 +1699,7 @@
   "slots": [
    {
     "prep": "to",
-    "en": "The ruins testify ___ the city forgotten wealth.",
+    "en": "The ruins testify ___ the city's forgotten wealth.",
     "tr": "Harabeler kentin unutulmuş zenginliğine tanıklık ediyor.",
     "sense": "kanıtlamak"
    },
@@ -4151,7 +4151,7 @@
   "id": "cy182",
   "root": "climb",
   "level": "B1",
-  "note": "up to = yukarı doğru · onto = üstüne çıkmak · over = üstünden aşmak · down = aşağı doğru",
+  "note": "up = yukarı doğru · onto = üstüne çıkmak · over = üstünden aşmak · down = aşağı doğru",
   "slots": [
    {
     "prep": "onto",
@@ -4161,8 +4161,8 @@
    },
    {
     "prep": "up",
-    "en": "Slowly he climbed ___ the top of the stone tower.",
-    "tr": "Yavaşça taş kulenin tepesine kadar tırmandı.",
+    "en": "Slowly he climbed ___ the winding stairs of the stone tower.",
+    "tr": "Yavaşça taş kulenin dolambaçlı merdivenlerinden yukarı tırmandı.",
     "sense": "yukarı doğru"
    },
    {
@@ -5305,7 +5305,7 @@
   "id": "cy228",
   "root": "use",
   "level": "B1",
-  "note": "of = neyin kullanımı · for = kime yararı · in use = kullanımda",
+  "note": "of = neyin kullanımı · for = neye ihtiyaç duymak (have no use for) · in use = kullanımda",
   "slots": [
    {
     "prep": "of",
@@ -5315,9 +5315,9 @@
    },
    {
     "prep": "for",
-    "en": "This rusty old key has no use ___ anyone.",
-    "tr": "Bu paslı eski anahtar kimsenin işine yaramaz.",
-    "sense": "kime yarar"
+    "en": "I have no use ___ this rusty old key.",
+    "tr": "Bu paslı eski anahtara hiç ihtiyacım yok.",
+    "sense": "neye ihtiyaç duymak"
    },
    {
     "prep": "in",
@@ -6047,8 +6047,8 @@
    },
    {
     "prep": "on",
-    "en": "The new drug was first experimented ___ mice.",
-    "tr": "Yeni ilaç önce fareler üzerinde denendi.",
+    "en": "Some cosmetic firms still experiment ___ animals.",
+    "tr": "Bazı kozmetik firmaları hâlâ hayvanlar üzerinde deney yapıyor.",
     "sense": "kimin üzerinde"
    }
   ]
@@ -6408,7 +6408,7 @@
    {
     "prep": "at",
     "en": "The minister hinted ___ a possible early election.",
-    "tr": "Bakan olası bir erken seçime ima etti.",
+    "tr": "Bakan olası bir erken seçimi ima etti.",
     "sense": "ima etmek"
    },
    {
@@ -6579,8 +6579,8 @@
    },
    {
     "prep": "over",
-    "en": "The company has exclusive rights ___ the design.",
-    "tr": "Şirketin tasarım üzerinde münhasır hakları var.",
+    "en": "Parents do not have unlimited rights ___ their grown-up children.",
+    "tr": "Ebeveynlerin yetişkin çocukları üzerinde sınırsız hakları yoktur.",
     "sense": "ne üzerinde hak"
    }
   ]
@@ -7283,8 +7283,8 @@
    },
    {
     "prep": "among",
-    "en": "The land was finally scattered ___ seven heirs.",
-    "tr": "Arazi sonunda yedi mirasçı arasında dağıldı.",
+    "en": "The refugees were scattered ___ the local population.",
+    "tr": "Mülteciler yerel halkın arasına dağılmıştı.",
     "sense": "kişiler arasında"
    }
   ]
@@ -9676,7 +9676,7 @@
    {
     "prep": "behind",
     "en": "A small locked door was hidden ___ the tall mirror.",
-    "tr": "Uzun aynanın arkasına kilitli küçük bir kapı gizlenmişti.",
+    "tr": "Uzun aynanın arkasında kilitli küçük bir kapı gizliydi.",
     "sense": "arkasında"
    },
    {

@@ -37,15 +37,15 @@
  },
  {
   "id": "ref_004",
-  "text": "The Great Wall of China is one of the largest construction projects ever completed. Experts believe [[that]] was originally built to protect borders against nomadic invasions.",
-  "ref": "that",
+  "text": "The Great Wall of China is one of the largest construction projects ever completed. Experts believe [[it]] was originally built to protect borders against nomadic invasions.",
+  "ref": "it",
   "answer": "The Great Wall of China",
   "distractors": [
    "the largest construction projects",
    "nomadic invasions"
   ],
-  "why": "\"that\" tekildir ve göçebe istilalarına karşı korunmak amacıyla inşa edilen \"Çin Seddi\"ni (The Great Wall of China) işaret eder. \"the largest construction projects\" ise çoğul bir ifadedir.",
-  "tr": "Çin Seddi, şimdiye kadar tamamlanmış en büyük inşaat projelerinden biridir. Uzmanlar, [bunun] aslen göçebe istilalarına karşı sınırları korumak için inşa edildiğine inanıyor."
+  "why": "\"it\" tekildir ve göçebe istilalarına karşı korunmak amacıyla inşa edilen \"Çin Seddi\"ni (The Great Wall of China) işaret eder. \"the largest construction projects\" ise çoğul bir ifadedir.",
+  "tr": "Çin Seddi, şimdiye kadar tamamlanmış en büyük inşaat projelerinden biridir. Uzmanlar, [onun] aslen göçebe istilalarına karşı sınırları korumak için inşa edildiğine inanıyor."
  },
  {
   "id": "ref_005",
@@ -53,10 +53,10 @@
   "ref": "it",
   "answer": "Geothermal energy",
   "distractors": [
-   "the natural heat",
+   "the Earth's surface",
    "solar power"
   ],
-  "why": "\"it\" tekildir ve hava koşullarından bağımsız olarak sürekli mevcut olan \"jeotermal enerji\"yi (Geothermal energy) temsil eder. \"the natural heat\" ısıdır ve hava durumundan bağımsız olması anlamca jeotermal enerjinin geneline atıftır; \"solar power\" ise karşılaştırılan diğer enerji türüdür.",
+  "why": "\"it\" tekildir ve hava koşullarından bağımsız olarak sürekli mevcut olan \"jeotermal enerji\"yi (Geothermal energy) temsil eder. \"the Earth's surface\" yüzeydir, enerji kaynağı değildir; \"solar power\" ise karşılaştırılan diğer enerji türüdür.",
   "tr": "Jeotermal enerji, Dünya yüzeyinin altında depolanan doğal ısıdan elde edilir. Güneş enerjisinin aksine, [o] hava koşullarından bağımsız olarak sürekli mevcuttur."
  },
  {
@@ -68,7 +68,7 @@
    "the structure",
    "a global landmark"
   ],
-  "why": "'this' az önce anlatılan olumsuz eleştiriyi işaret eder -> 'The initial criticism of the Eiffel Tower'. 'the structure' kulenin kendisidir; 'a global landmark' ise sonradan olduğu sey.",
+  "why": "'this' az önce anlatılan olumsuz eleştiriyi işaret eder -> 'The initial criticism of the Eiffel Tower'. 'the structure' kulenin kendisidir; 'a global landmark' ise sonradan olduğu şey.",
   "tr": "Eyfel Kulesi'ne yönelik ilk eleştiri çok sertti. Ancak [bu], yapının küresel bir simge haline gelmesini engellemedi."
  },
  {
@@ -89,10 +89,10 @@
   "ref": "it",
   "answer": "theobromine",
   "distractors": [
-   "Chocolate",
-   "a compound"
+   "humans",
+   "dogs and cats"
   ],
-  "why": "\"it\" tekildir; kedi ve köpekler için oldukça zehirli olan madde çikolatanın içindeki \"teobromin\" (theobromine) bileşiğidir. \"Chocolate\" genel besindir ama zehirleyici olan asıl kimyasal \"theobromine\"dir; \"a compound\" ise çok genel bir ifadedir.",
+  "why": "\"it\" tekildir; köpekler ve kediler için oldukça zehirli olan madde, çikolatanın içindeki \"teobromin\" (theobromine) bileşiğidir. \"humans\" (insanlar) çoğuldur ve zehirlenen taraf değildir; \"dogs and cats\" ise çoğuldur ve gönderimden sonra geçer.",
   "tr": "Çikolata, insanlar için sağlıklı olan teobromin adı verilen bir bileşik içerir. Ancak [o], köpekler ve kediler için son derece zehirlidir."
  },
  {
@@ -495,24 +495,24 @@
   "id": "ref_042",
   "text": "Psychologists advise that regular physical exercise reduces stress hormones. [[This]] explains why active individuals report higher levels of happiness.",
   "ref": "This",
-  "answer": "regular physical exercise",
+  "answer": "regular physical exercise reduces stress hormones",
   "distractors": [
    "stress hormones",
    "active individuals"
   ],
-  "why": "\"This\" tekildir; aktif bireylerin daha mutlu olmasını açıklayan durum stres hormonlarını azaltan \"regular physical exercise\" (düzenli fiziksel egzersiz) eylemidir. \"stress hormones\" tek başına bu durumu açıklamaz; \"active individuals\" çoğuldur ve açıklanan durumun kendisi değildir.",
+  "why": "\"This\" tekildir ve bir önceki cümlenin tamamına gönderme yapar: aktif bireylerin daha mutlu olmasını açıklayan şey, düzenli fiziksel egzersizin stres hormonlarını azaltmasıdır (\"regular physical exercise reduces stress hormones\"). \"stress hormones\" tek başına bu durumu açıklamaz; \"active individuals\" çoğuldur ve açıklanan durumun kendisi değildir.",
   "tr": "Psikologlar düzenli fiziksel egzersizin stres hormonlarını azalttığını belirtiyor. [Bu], aktif bireylerin neden daha yüksek mutluluk seviyeleri bildirdiğini açıklamaktadır."
  },
  {
   "id": "ref_043",
   "text": "The Amazon rainforest absorbs billions of tons of carbon dioxide annually. [[That]] is why global conservation efforts focus so heavily on the region.",
   "ref": "That",
-  "answer": "The Amazon rainforest",
+  "answer": "The Amazon rainforest absorbs billions of tons of carbon dioxide annually",
   "distractors": [
    "carbon dioxide",
    "global conservation efforts"
   ],
-  "why": "\"That\" tekildir; küresel koruma çabalarının üzerine odaklandığı yer, karbon emen \"The Amazon rainforest\" (Amazon yağmur ormanı) bölgesidir. \"carbon dioxide\" odaklanılan bölge olamaz; \"global conservation efforts\" ise koruma çabalarının kendisidir.",
+  "why": "\"That\" tekildir ve bir önceki cümlenin tamamına gönderme yapar: koruma çabalarının bu bölgeye odaklanma nedeni, Amazon yağmur ormanının her yıl milyarlarca ton karbondioksit emmesidir (\"The Amazon rainforest absorbs billions of tons of carbon dioxide annually\"). \"carbon dioxide\" tek başına bu nedeni anlatmaz; \"global conservation efforts\" ise nedenin sonucudur.",
   "tr": "Amazon yağmur ormanları her yıl milyarlarca ton karbondioksit emer. Küresel koruma çabalarının bu bölgeye bu kadar yoğun odaklanmasının nedeni [budur]."
  },
  {
@@ -627,25 +627,25 @@
   "id": "ref_053",
   "text": "In the old gallery, the curator highlighted Renaissance paintings rather than [[those]] painted during the Baroque period.",
   "ref": "those",
-  "answer": "Renaissance paintings",
+  "answer": "paintings",
   "distractors": [
    "the old gallery",
    "the curator"
   ],
-  "why": "\"those\" çoğuldur; Barok döneminde yapılanlarla karşılaştırılan ve galeride sergilenen sanat eserleri \"Renaissance paintings\" (Rönesans tabloları) dır. \"the old gallery\" (eski galeri) tekildir ve mekandır; \"the curator\" (küratör) ise tekildir ve kişidir.",
-  "tr": "Eski galeride küratör, Barok döneminde yapılanlardan ziyade [Rönesans tablolarını] öne çıkardı."
+  "why": "\"those\" çoğuldur ve \"paintings\" (tablolar) sözcüğünün yerini tutar: \"those painted during the Baroque period\" Barok döneminde yapılmış tablolar demektir (Rönesans tabloları değil, onlarla karşılaştırılanlar). \"the old gallery\" (eski galeri) tekildir ve mekandır; \"the curator\" (küratör) ise tekildir ve kişidir.",
+  "tr": "Eski galeride küratör, Rönesans tablolarını Barok döneminde yapılmış [olanlardan] ziyade öne çıkardı."
  },
  {
   "id": "ref_054",
-  "text": "When volcanic eruptions release thick clouds of ash into the stratosphere, [[they]] can block sunlight and lower global temperatures.",
+  "text": "Volcanic eruptions release thick clouds of ash into the stratosphere, where [[they]] can block sunlight and lower global temperatures.",
   "ref": "they",
-  "answer": "volcanic eruptions",
+  "answer": "thick clouds of ash",
   "distractors": [
-   "thick clouds",
+   "Volcanic eruptions",
    "the stratosphere"
   ],
-  "why": "\"they\" çoğuldur; güneş ışığını engelleyip küresel sıcaklıkları düşürebilen ana olaylar \"volcanic eruptions\" (volkanik patlamalar) dır. \"thick clouds\" (kalın bulutlar) da çoğuldur ama patlamaların saldığı bir yan unsurdur; \"the stratosphere\" (stratosfer) ise tekildir.",
-  "tr": "Volkanik patlamalar stratosfere kalın kül bulutları saldığında, [onlar] güneş ışığını engelleyebilir ve küresel sıcaklıkları düşürebilir."
+  "why": "\"they\" çoğuldur ve stratosferde güneş ışığını engelleyip küresel sıcaklıkları düşürebilen \"thick clouds of ash\" (kalın kül bulutları) ifadesini işaret eder. \"Volcanic eruptions\" (volkanik patlamalar) stratosferde bulunan şeyler değil, bulutları salan olaylardır; \"the stratosphere\" (stratosfer) ise tekildir.",
+  "tr": "Volkanik patlamalar stratosfere kalın kül bulutları salar; orada [bunlar] güneş ışığını engelleyebilir ve küresel sıcaklıkları düşürebilir."
  },
  {
   "id": "ref_055",
@@ -669,7 +669,7 @@
    "urban rivers"
   ],
   "why": "\"those\" çoğuldur; dağ derelerindeki değerlerle karşılaştırılan unsur \"pollution levels\" (kirlilik seviyeleri) dir. \"Environmentalists\" (çevreciler) insan grubudur; \"urban rivers\" (şehir nehirleri) ise karşılaştırılan nehirlerin kendisidir, seviyeler değildir.",
-  "tr": "Çevreciler, şehir nehirlerindeki kirlilik seviyelerini uzak dağ derelerininkiler [olanlar] ile karşılaştırdı."
+  "tr": "Çevreciler, şehir nehirlerindeki kirlilik seviyelerini uzak dağ derelerindeki [olanlarla] karşılaştırdı."
  },
  {
   "id": "ref_057",
@@ -965,10 +965,10 @@
   "ref": "it",
   "answer": "a special robotic arm",
   "distractors": [
-   "the Mars rover",
+   "soil samples",
    "extremely low temperatures"
   ],
-  "why": "\"it\" tekildir; aşırı düşük sıcaklıklarda kusursuz çalışan ve toprak numunesi toplamak için tasarlanan şey robotik koldur (\"a special robotic arm\"). \"the Mars rover\" (Mars keşif aracı) kolun takıldığı araçtır; \"extremely low temperatures\" ise çoğuldur.",
+  "why": "\"it\" tekildir; aşırı düşük sıcaklıklarda kusursuz çalışan ve toprak numunesi toplamak için tasarlanan şey robotik koldur (\"a special robotic arm\"). \"soil samples\" (toprak numuneleri) çoğuldur ve kolun topladığı şeylerdir; \"extremely low temperatures\" ise çoğuldur.",
   "tr": "Bilim insanları, toprak numuneleri toplamak amacıyla Mars keşif aracı için özel bir robotik kol tasarladılar. Aşırı düşük sıcaklıklarda çalışmasına rağmen, [bu cihaz] görev boyunca kusursuz bir performans gösterdi."
  },
  {
@@ -1064,8 +1064,8 @@
    "the rocky cliff",
    "heavy autumn storms"
   ],
-  "why": "\"it\" tekil ve cansızdır. Denizcilerin fırtınalarda güvenli seyir için hala güvendiği yapı eski deniz feneridir (\"The old lighthouse\"). \"the rocky cliff\" fenerin üzerinde durduğu kayalıktır; \"heavy autumn storms\" ise çoğul bir zaman zarfıdır.",
-  "tr": "Eski deniz feneri, on sekizinci yüzyıldan beri kayalık uçurumun üzerinde durmaktadır. Denizciler, sonbahardaki şiddetli fırtınalarda tehlikeli sığ sularda yollarını bulmak için hala [ona] güvenirler."
+  "why": "\"it\" tekil ve cansızdır. Denizcilerin fırtınalarda güvenli seyir için hâlâ güvendiği yapı eski deniz feneridir (\"The old lighthouse\"). \"the rocky cliff\" fenerin üzerinde durduğu kayalıktır; \"heavy autumn storms\" ise çoğul bir zaman zarfıdır.",
+  "tr": "Eski deniz feneri, on sekizinci yüzyıldan beri kayalık uçurumun üzerinde durmaktadır. Denizciler, sonbahardaki şiddetli fırtınalarda tehlikeli sığ sularda yollarını bulmak için hâlâ [ona] güvenirler."
  },
  {
   "id": "ref_090",
@@ -1093,15 +1093,15 @@
  },
  {
   "id": "ref_092",
-  "text": "Marine sanctuaries protect delicate coral reefs from destructive commercial fishing activities. Environmental agencies argue [[these]] are essential for maintaining the biodiversity of our oceans.",
+  "text": "Marine sanctuaries protect delicate coral reefs from destructive commercial fishing activities. Environmental agencies warn [[these]] are bleaching rapidly due to rising sea temperatures.",
   "ref": "these",
   "answer": "delicate coral reefs",
   "distractors": [
    "Marine sanctuaries",
    "destructive commercial fishing activities"
   ],
-  "why": "\"these\" çoğuldur. Okyanus biyoçeşitliliğini korumak için hayati önem taşıyan ekosistemler hassas mercan resifleridir (\"delicate coral reefs\"). \"Marine sanctuaries\" resifleri koruyan sığınaklardır; \"destructive commercial fishing activities\" ise tahrip edici balıkçılık faaliyetleridir.",
-  "tr": "Deniz koruma alanları, hassas mercan resiflerini yıkıcı ticari balıkçılık faaliyetlerinden korur. Çevre ajansları, [bunların] okyanuslarımızın biyoçeşitliliğini sürdürmek için elzem olduğunu savunuyor."
+  "why": "\"these\" çoğuldur. Artan deniz sıcaklıkları nedeniyle hızla ağaran (beyazlaşan) şeyler hassas mercan resifleridir (\"delicate coral reefs\"). \"Marine sanctuaries\" resifleri koruyan alanlardır, ağarmazlar; \"destructive commercial fishing activities\" ise tahrip edici balıkçılık faaliyetleridir.",
+  "tr": "Deniz koruma alanları, hassas mercan resiflerini yıkıcı ticari balıkçılık faaliyetlerinden korur. Çevre ajansları, [bunların] artan deniz sıcaklıkları nedeniyle hızla ağardığı konusunda uyarıyor."
  },
  {
   "id": "ref_093",
@@ -1117,15 +1117,15 @@
  },
  {
   "id": "ref_094",
-  "text": "The sanctuary provides a safe nesting ground for migratory birds during the winter. Conservationists monitor [[those]] to track fluctuations in global population sizes.",
-  "ref": "those",
+  "text": "The sanctuary provides a safe nesting ground for migratory birds during the winter. Conservationists monitor [[them]] to track fluctuations in global population sizes.",
+  "ref": "them",
   "answer": "migratory birds",
   "distractors": [
    "The sanctuary",
    "global population sizes"
   ],
-  "why": "\"those\" çoğul nesneleri veya canlıları işaret eder. Küresel popülasyon dalgalanmalarını izlemek için takip edilen canlılar göçmen kuşlardır (\"migratory birds\"). \"The sanctuary\" tekildir; \"global population sizes\" ise ölçülen parametredir.",
-  "tr": "Koruma alanı, göçmen kuşlar için kış boyunca güvenli bir yuvalama alanı sağlar. Doğacılar, küresel popülasyon büyüklüklerindeki dalgalanmaları takip etmek için [onları] izlemektedir."
+  "why": "\"them\" çoğul bir nesneyi/canlıyı işaret eder. Küresel popülasyon dalgalanmalarını izlemek için takip edilen canlılar göçmen kuşlardır (\"migratory birds\"). \"The sanctuary\" tekildir; \"global population sizes\" ise ölçülen parametredir.",
+  "tr": "Koruma alanı, göçmen kuşlar için kış boyunca güvenli bir yuvalama alanı sağlar. Doğa koruma uzmanları, küresel popülasyon büyüklüklerindeki dalgalanmaları takip etmek için [onları] izlemektedir."
  },
  {
   "id": "ref_095",
@@ -1141,15 +1141,15 @@
  },
  {
   "id": "ref_096",
-  "text": "The government launched public awareness campaigns to highlight new digital privacy laws. Officials hope [[these]] will prevent cybercriminals from stealing personal data.",
+  "text": "The government launched public awareness campaigns to highlight new digital privacy laws. Officials plan to broadcast [[these]] on television and social media throughout the year.",
   "ref": "these",
   "answer": "public awareness campaigns",
   "distractors": [
    "new digital privacy laws",
-   "cybercriminals"
+   "social media"
   ],
-  "why": "\"these\" çoğuldur. Siber suçluların kişisel verileri çalmasını önlemesi ümit edilen girişimler kamuoyu bilinçlendirme kampanyalarıdır (\"public awareness campaigns\"). \"new digital privacy laws\" yasalardır, kampanyalar bunları duyurmak içindir; \"cybercriminals\" ise önlenmek istenen suçlulardır.",
-  "tr": "Hükümet, yeni dijital gizlilik yasalarına dikkat çekmek için kamuoyu bilinçlendirme kampanyaları başlattı. Yetkililer, [bunların] siber suçluların kişisel verileri çalmasını engelleyeceğini umuyor."
+  "why": "\"these\" çoğuldur. Yıl boyunca televizyonda ve sosyal medyada yayınlanması planlanan şey kamuoyu bilinçlendirme kampanyalarıdır (\"public awareness campaigns\"). \"new digital privacy laws\" yasalardır; kampanyalar bunları duyurmak içindir, yasaların kendisi yayınlanmaz; \"social media\" ise yayının yapılacağı mecradır.",
+  "tr": "Hükümet, yeni dijital gizlilik yasalarına dikkat çekmek için kamuoyu bilinçlendirme kampanyaları başlattı. Yetkililer, [bunları] yıl boyunca televizyonda ve sosyal medyada yayınlamayı planlıyor."
  },
  {
   "id": "ref_097",
@@ -1261,14 +1261,14 @@
  },
  {
   "id": "ref_106",
-  "text": "European nations signed a series of bilateral trade pacts to eliminate custom tariffs. Economists expect [[such agreements]] to boost international trade volume by ten percent.",
+  "text": "European nations signed a series of bilateral trade pacts to eliminate customs tariffs. Economists expect [[such agreements]] to boost international trade volume by ten percent.",
   "ref": "such agreements",
   "answer": "bilateral trade pacts",
   "distractors": [
    "European nations",
-   "custom tariffs"
+   "customs tariffs"
   ],
-  "why": "\"such agreements\" (bu tür anlaşmalar) çoğuldur. Uluslararası ticaret hacmini artırması beklenen anlaşmalar, gümrük vergilerini sıfırlamak için imzalanan ikili ticaret paktlarıdır (\"bilateral trade pacts\"). \"European nations\" anlaşmayı imzalayan taraflardır; \"custom tariffs\" ise kaldırılması planlanan gümrük vergileridir.",
+  "why": "\"such agreements\" (bu tür anlaşmalar) çoğuldur. Uluslararası ticaret hacmini artırması beklenen anlaşmalar, gümrük vergilerini sıfırlamak için imzalanan ikili ticaret paktlarıdır (\"bilateral trade pacts\"). \"European nations\" anlaşmayı imzalayan taraflardır; \"customs tariffs\" ise kaldırılması planlanan gümrük vergileridir.",
   "tr": "Avrupa ülkeleri, gümrük vergilerini ortadan kaldırmak için bir dizi ikili ticaret paktı imzaladı. Ekonomistler, [bu tür anlaşmaların] uluslararası ticaret hacmini yüzde on oranında artırmasını bekliyor."
  },
  {
@@ -1352,7 +1352,7 @@
    "traditional invasive heart surgeries",
    "patient recovery time"
   ],
-  "why": "\"ones\" çoğuldur. İyileşme süresini kırk sekiz saate indiren daha güvenli operasyonlar gelişmiş invaziv olmayan (ameliyatsız) kalp operasyonlarıdır (\"advanced non-invasive ones\"). \"traditional invasive heart surgeries\" diğer gruptur; \"patient recovery time\" ise iyileşme süresidir.",
+  "why": "\"ones\" çoğuldur. İyileşme süresini kırk sekiz saate indiren daha güvenli operasyonlar gelişmiş invaziv olmayan kalp operasyonlarıdır (\"advanced non-invasive ones\"). \"traditional invasive heart surgeries\" diğer gruptur; \"patient recovery time\" ise iyileşme süresidir.",
   "tr": "Klinik, geleneksel invaziv kalp ameliyatları ve gelişmiş invaziv olmayan kalp ameliyatları sunmaktadır. Daha güvenli olan [ameliyatlar], hastanın iyileşme süresini sadece kırk sekiz saate indirmektedir."
  },
  {
@@ -1381,15 +1381,15 @@
  },
  {
   "id": "ref_116",
-  "text": "Isaac Newton formulated the universal law of gravitation after watching a falling apple. He calculated that [[the force]] depends directly on the masses of the two interacting objects.",
-  "ref": "the force",
+  "text": "Isaac Newton formulated the universal law of gravitation after watching a falling apple. He showed that [[the law]] applies equally to falling apples and orbiting planets.",
+  "ref": "the law",
   "answer": "universal law of gravitation",
   "distractors": [
    "falling apple",
    "Isaac Newton"
   ],
-  "why": "\"the force\" (kuvvet) ifadesi fiziksel bir kuvvete veya yasaya işaret eder. Newton'ın iki etkileşim halindeki nesnenin kütlesine bağlı olduğunu hesapladığı kuvvet, kütleçekim yasasıdır (\"universal law of gravitation\"). \"falling apple\" kuvveti fark etmesini sağlayan elmadır; \"Isaac Newton\" ise bilim insanıdır.",
-  "tr": "Isaac Newton, düşen bir elmayı izledikten sonra evrensel kütleçekim yasasını formüle etti. Newton, [bu kuvvetin] doğrudan etkileşim halindeki iki nesnenin kütlelerine bağlı olduğunu hesapladı."
+  "why": "\"the law\" (yasa) tekildir ve bir önceki cümledeki evrensel kütleçekim yasasına (\"universal law of gravitation\") işaret eder. \"falling apple\" yasayı düşünmesine yol açan elmadır; \"Isaac Newton\" ise yasayı formüle eden bilim insanıdır.",
+  "tr": "Isaac Newton, düşen bir elmayı izledikten sonra evrensel kütleçekim yasasını formüle etti. Newton, [bu yasanın] düşen elmalar için olduğu kadar yörüngedeki gezegenler için de geçerli olduğunu gösterdi."
  },
  {
   "id": "ref_117",
@@ -1397,10 +1397,10 @@
   "ref": "the process",
   "answer": "how mutated cells divide",
   "distractors": [
-   "tumor growth",
+   "mutated cells",
    "cancer"
   ],
-  "why": "\"the process\" (süreç) ifadesi bir biyolojik sürece işaret eder. Kanser yayılmasını durdurmak için engellenmesi gereken süreç mutasyona uğramış hücrelerin bölünme biçimidir (\"how mutated cells divide\"). \"tumor growth\" tümör büyümesidir; \"cancer\" ise genel hastalığın adıdır.",
+  "why": "\"the process\" (süreç) ifadesi bir biyolojik sürece işaret eder. Kanser yayılmasını durdurmak için engellenmesi gereken süreç mutasyona uğramış hücrelerin bölünme biçimidir (\"how mutated cells divide\"). \"mutated cells\" (mutasyona uğramış hücreler) bir süreç değil, sürece konu olan hücrelerdir; \"cancer\" ise genel hastalığın adıdır.",
   "tr": "Onkolojide, mutasyona uğramış hücrelerin nasıl bölündüğünü hedeflemek tümör büyümesini durdurmak için çok önemlidir. Doktorlar, [bu sürecin] engellenmesinin kanserin diğer organlara yayılmasını önlediğini vurgulamaktadır."
  },
  {
@@ -1449,7 +1449,7 @@
    "the city center"
   ],
   "why": "\"it\" tekildir; kireç taşından inşa edilen nesne \"the massive library\"dir. \"The local government\" inşa eden kurumdur; \"the city center\" ise kütüphanenin bulunduğu konumdur.",
-  "tr": "Yerel yönetim şehir merkezindeki muazzam kütüphaneyi fonladı. Arşiv araştırmaları, [bunun] yerel kireç taşından inşa edildiğini gösteriyor."
+  "tr": "Yerel yönetim şehir merkezindeki muazzam kütüphaneyi finanse etti. Arşiv araştırmaları, [bunun] yerel kireç taşından inşa edildiğini gösteriyor."
  },
  {
   "id": "ref_122",
@@ -1569,7 +1569,7 @@
    "open water channels"
   ],
   "why": "\"they\" çoğuldur; açık su kanallarında fok avlayan canlılar \"several polar bears\"dır. \"the arctic ice\" tekildir; \"open water channels\" ise avlandıkları konumdur.",
-  "tr": "Zooloklar kutup buzu boyunca birkaç kutup ayısını takip etti. Araştırmacılar, [bunların] açık su kanallarının yakınında fok avladıklarını gözlemledi."
+  "tr": "Zoologlar kutup buzu boyunca birkaç kutup ayısını takip etti. Araştırmacılar, [bunların] açık su kanallarının yakınında fok avladıklarını gözlemledi."
  },
  {
   "id": "ref_132",
@@ -1617,7 +1617,7 @@
    "thousands of local jobs"
   ],
   "why": "\"these\" çoğuldur; binlerce yerel iş imkanı yaratması öngörülen yatırım alanı \"renewable energy sources\"dur. \"Economic analysts\" analistlerdir; \"thousands of local jobs\" ise yaratılan istihdam sonucudur.",
-  "tr": "Ülke rüzgar ve güneş gibi yenilebilir enerji kaynaklarına yatırım yaptı. Ekonomik analistler, [bunların] binlerce yerel iş yaratacağını tahmin etti."
+  "tr": "Ülke rüzgar ve güneş gibi yenilenebilir enerji kaynaklarına yatırım yaptı. Ekonomik analistler, [bunların] binlerce yerel iş yaratacağını tahmin etti."
  },
  {
   "id": "ref_136",
@@ -1652,8 +1652,8 @@
    "plant starches",
    "Environmental agencies"
   ],
-  "why": "\"these\" çoğuldur; toprakta tamamen çözünen maddeler üretilen \"biodegradable polymers\"dır. \"plant starches\" ham maddedir; \"Environmental agencies\" ise denetleyen kurumdur.",
-  "tr": "Kimya mühendisleri bitki nişastalarından biyolojik olarak parçalanabilir polimerler üretti. Çevre ajansları, [bunların] toprakta tamamen çözündüğünü doğruladı."
+  "why": "\"these\" çoğuldur; toprakta tamamen ayrışan maddeler üretilen \"biodegradable polymers\"dır. \"plant starches\" ham maddedir; \"Environmental agencies\" ise denetleyen kurumdur.",
+  "tr": "Kimya mühendisleri bitki nişastalarından biyolojik olarak parçalanabilir polimerler üretti. Çevre ajansları, [bunların] toprakta tamamen ayrıştığını doğruladı."
  },
  {
   "id": "ref_139",
@@ -1861,14 +1861,14 @@
  },
  {
   "id": "ref_156",
-  "text": "Charged particles from the sun collide with the atmosphere to create the aurora orealis. Skywatchers travel north to witness [[the phenomenon]] in winter.",
+  "text": "Charged particles from the sun collide with the atmosphere to create the aurora borealis. Skywatchers travel north to witness [[the phenomenon]] in winter.",
   "ref": "the phenomenon",
-  "answer": "the aurora orealis",
+  "answer": "the aurora borealis",
   "distractors": [
    "Charged particles",
    "the atmosphere"
   ],
-  "why": "\"the phenomenon\" (bu doğa olayı/olgu) kutup ışıklarını yani \"the aurora orealis\"i nitelemektedir. \"Charged particles\" ve \"the atmosphere\" bu olayın oluşmasını sağlayan etkenlerdir.",
+  "why": "\"the phenomenon\" (bu doğa olayı/olgu) kutup ışıklarını yani \"the aurora borealis\"i nitelemektedir. \"Charged particles\" ve \"the atmosphere\" bu olayın oluşmasını sağlayan etkenlerdir.",
   "tr": "Güneşten gelen yüklü parçacıklar kutup ışıklarını oluşturmak için atmosferle çarpışır. Gökyüzü gözlemcileri kışın [bu doğa olayına] tanıklık etmek için kuzeye seyahat eder."
  },
  {
@@ -1881,7 +1881,7 @@
    "test scores"
   ],
   "why": "\"the approach\" (bu yaklaşım) uygulanan eğitim metodolojisi olan \"direct instruction\"ı nitelemektedir. \"elementary mathematics\" dersin adıdır; \"test scores\" ise öğrenci puanlarıdır.",
-  "tr": "Okul aile birliği ilköğretim matematiğinde doğrudan anlatımı uyguladı. Veliler test puanlarını artırdığı için [bu yaklaşımı] destekledi."
+  "tr": "Okul kurulu ilköğretim matematiğinde doğrudan anlatımı uyguladı. Veliler test puanlarını artırdığı için [bu yaklaşımı] destekledi."
  },
  {
   "id": "ref_158",
@@ -1904,7 +1904,7 @@
    "changing environments",
    "biological diversity"
   ],
-  "why": "\"the mechanism\" (bu mekanizma) nesiller boyu uyumu sağlayan evrimsel süreç olan \"natural selection\"ı (doğal seçilim) işaret eder. \"changing environments\" koşullardır; \"biological diversity\" ise çeşitlilikdir.",
+  "why": "\"the mechanism\" (bu mekanizma) nesiller boyu uyumu sağlayan evrimsel süreç olan \"natural selection\"ı (doğal seçilim) işaret eder. \"changing environments\" koşullardır; \"biological diversity\" ise çeşitliliğin kendisidir.",
   "tr": "Türler, doğal seçilim yoluyla nesiller boyunca değişen çevre koşullarına uyum sağlar. Evrimsel biyologlar, biyolojik çeşitliliği anlamak için [bu mekanizmayı] incelerler."
  },
  {
@@ -2029,15 +2029,15 @@
  },
  {
   "id": "ref_170",
-  "text": "The government launched a major anti-monopoly investigation against the tech giant. [[It]] focused heavily on the acquisition of smaller start-up competitors.",
+  "text": "The government launched a major anti-monopoly investigation against the tech giant. [[It]] lasted eighteen months and focused heavily on the acquisition of smaller start-up competitors.",
   "ref": "It",
   "answer": "a major anti-monopoly investigation",
   "distractors": [
    "the tech giant",
    "smaller start-up competitors"
   ],
-  "why": "\"It\" tekil zamiri, satın almalara odaklanan süreci, yani \"a major anti-monopoly investigation\" (büyük bir tekel karşıtı soruşturma) ifadesini niteler. \"the tech giant\" soruşturulan firmadır; \"smaller start-up competitors\" ise çoğuldur.",
-  "tr": "Hükümet, teknoloji devine karşı büyük bir tekel karşıtı soruşturma başlattı. [Bu], küçük girişimci rakiplerin satın alınmasına büyük ölçüde odaklandı."
+  "why": "\"It\" tekil zamiri, on sekiz ay süren ve satın almalara odaklanan süreci, yani \"a major anti-monopoly investigation\" (büyük bir tekel karşıtı soruşturma) ifadesini niteler. \"the tech giant\" soruşturulan firmadır; \"smaller start-up competitors\" ise çoğuldur.",
+  "tr": "Hükümet, teknoloji devine karşı büyük bir tekel karşıtı soruşturma başlattı. [Bu], on sekiz ay sürdü ve küçük girişimci rakiplerin satın alınmasına büyük ölçüde odaklandı."
  },
  {
   "id": "ref_171",
@@ -2061,7 +2061,7 @@
    "public buildings"
   ],
   "why": "\"These\" çoğul işaret zamiri, güneş enerjisini emip şebekeye elektrik sağlayan üniteleri, yani \"green solar panels\" (yeşil güneş panelleri) ifadesini niteler. \"The city council\" panelleri kuran belediye meclisidir; \"public buildings\" ise panellerin kurulduğu binalardır.",
-  "tr": "Belediye meclisi kamu binalarının üzerine yeşil güneş panelleri inşa etti. [Bunlar] güneş enerjisini verimli bir şekilde emer ve şehir şebekesine elektrik sağlar."
+  "tr": "Belediye meclisi kamu binalarının üzerine yeşil güneş panelleri kurdu. [Bunlar] güneş enerjisini verimli bir şekilde emer ve şehir şebekesine elektrik sağlar."
  },
  {
   "id": "ref_173",
@@ -2096,7 +2096,7 @@
    "wild forest flowers",
    "The botanist"
   ],
-  "why": "\"Those\" uzaklık belirten çoğul işaret zamiri, metinde daha uzaktaki/sonraki gruptan ayırt edilen ve sürekli sulama gerektiren yapay çiçekleri, yani \"cultivated greenhouse blossoms\" (yetiştirilmiş sera çiçekleri) ifadesini işaret eder. \"wild forest flowers\" ormandaki yaban çiçekleridir; \"The botanist\" ise tekildir.",
+  "why": "\"Those\" çoğul bir işaret zamiridir; çok daha büyük büyüyen ama hayatta kalmak için sürekli yapay sulama gerektiren çiçekler yetiştirilmiş sera çiçekleridir (\"cultivated greenhouse blossoms\"). \"wild forest flowers\" yabani orman çiçekleridir ve yapay sulamaya ihtiyaç duymazlar; \"The botanist\" ise tekildir.",
   "tr": "Botanikçi, yabani orman çiçekleri ile yetiştirilmiş sera çiçeklerini karşılaştırdı. [Şunlar] çok daha büyük büyüdü ancak hayatta kalmak için sürekli yapay sulama gerektirdi."
  },
  {
@@ -2288,7 +2288,7 @@
    "heavy copper pans",
    "The experienced chef"
   ],
-  "why": "\"ones\" çoğul pro-form'u, şefin seçtiği spesifik grubu, yani \"light titanium ones\" (hafif titanyum olanları/tencereleri) ifade eder. \"heavy copper pans\" karşılaştırılan diğer gruptur; \"The experienced chef\" ise tekil öznedir.",
+  "why": "\"ones\" çoğul pro-form'u, şefin seçtiği spesifik grubu, yani \"light titanium ones\" (hafif titanyum olanları/tavaları) ifade eder. \"heavy copper pans\" karşılaştırılan diğer gruptur; \"The experienced chef\" ise tekil öznedir.",
   "tr": "Mağaza ağır bakır tavalar ve hafif titanyum olanlar satıyor. Deneyimli şef, çok daha hızlı ısındıkları için titanyum [olanları] seçti."
  },
  {
@@ -2629,7 +2629,7 @@
  },
  {
   "id": "ref_220",
-  "text": "The local conservationists protected old oak trees near the construction zone. Because [[they]] provided habitats for nesting owls, cutdowns were illegal.",
+  "text": "The local conservationists protected old oak trees near the construction zone. Because [[they]] provided habitats for nesting owls, cutting them down was illegal.",
   "ref": "they",
   "answer": "old oak trees",
   "distractors": [
@@ -2773,15 +2773,15 @@
  },
  {
   "id": "ref_232",
-  "text": "The architect designed a traditional stone fireplace and a modern electric one. The elegant [[one]] became the focal point of the living room.",
+  "text": "The architect designed a traditional stone fireplace and a modern electric one. The wood-burning [[one]] became the focal point of the living room.",
   "ref": "one",
   "answer": "a traditional stone fireplace",
   "distractors": [
    "a modern electric one",
    "the focal point"
   ],
-  "why": "\"one\" tekildir; şık/zarif (elegant) olarak oda odağı haline gelen \"a traditional stone fireplace\" (geleneksel bir taş şömine) ifadesidir. \"a modern electric one\" diğer alternatiftir (tuzak).",
-  "tr": "Mimar geleneksel bir taş şömine ve modern bir elektrikli şömine tasarladı. Şık [olanı], oturma odasının odak noktası haline geldi."
+  "why": "\"one\" tekildir; odun yakan (wood-burning) ve oda odağı haline gelen \"a traditional stone fireplace\" (geleneksel bir taş şömine) ifadesidir. \"a modern electric one\" diğer alternatiftir (tuzak).",
+  "tr": "Mimar geleneksel bir taş şömine ve modern bir elektrikli şömine tasarladı. Odun yakan [olanı], oturma odasının odak noktası haline geldi."
  },
  {
   "id": "ref_233",
@@ -2840,8 +2840,8 @@
    "chronic back pain",
    "older patients"
   ],
-  "why": "\"The approach\" (yaklaşım/yöntem) tekildir; iyileşme sürelerini azaltan tedavi yaklaşımı \"a non-invasive laser therapy\" (girişimsel olmayan bir lazer tedavisi) yöntemidir.",
-  "tr": "Klinik, kronik sırt ağrısını tedavi etmek için girişimsel olmayan bir lazer tedavisi uygulamaya başladı. [Yaklaşım], yaşlı hastaların iyileşme sürelerini önemli ölçüde kısalttı."
+  "why": "\"The approach\" (yaklaşım/yöntem) tekildir; iyileşme sürelerini azaltan tedavi yaklaşımı \"a non-invasive laser therapy\" (invaziv olmayan bir lazer tedavisi) yöntemidir.",
+  "tr": "Klinik, kronik sırt ağrısını tedavi etmek için invaziv olmayan bir lazer tedavisi uygulamaya başladı. [Yaklaşım], yaşlı hastaların iyileşme sürelerini önemli ölçüde kısalttı."
  },
  {
   "id": "ref_238",
@@ -2861,23 +2861,23 @@
   "ref": "The mechanism",
   "answer": "an invisible pulling force",
   "distractors": [
-   "Gravity",
+   "Sir Isaac Newton",
    "planets in their orbits"
   ],
-  "why": "\"The mechanism\" (mekanizma) tekildir; Newton tarafından matematiksel olarak ilk kez açıklanan çekim mekanizması \"an invisible pulling force\" (görünmez bir çekim kuvveti) ifadesidir. \"Gravity\" ise bu kuvvetin adıdır.",
+  "why": "\"The mechanism\" (mekanizma) tekildir; Newton tarafından matematiksel olarak ilk kez açıklanan çekim mekanizması \"an invisible pulling force\" (görünmez bir çekim kuvveti) ifadesidir. \"Sir Isaac Newton\" mekanizmayı açıklayan bilim insanıdır, mekanizmanın kendisi değildir.",
   "tr": "Kütle çekimi, gezegenleri yörüngelerinde tutan görünmez bir çekim kuvveti olarak hareket eder. [Mekanizma], ilk kez Sir Isaac Newton tarafından matematiksel olarak açıklandı."
  },
  {
   "id": "ref_240",
-  "text": "Ancient glaciers carved deep valleys across the Scandinavian peninsula over millions of years. [[The force]] behind this erosion was the immense weight of slowly moving ice.",
-  "ref": "The force",
+  "text": "Ancient glaciers carved deep valleys across the Scandinavian peninsula over millions of years. [[They]] advanced slowly under their own immense weight.",
+  "ref": "They",
   "answer": "Ancient glaciers",
   "distractors": [
    "deep valleys",
    "the Scandinavian peninsula"
   ],
-  "why": "\"The force\" (güç/kuvvet) geriye gönderim yapan isim öbeğidir; bu erozyonun arkasındaki itici güç yavaşça hareket eden buz kütlesi, yani \"Ancient glaciers\" (antik buzullar) öznesidir.",
-  "tr": "Antik buzullar, milyonlarca yıl boyunca İskandinav yarımadasında derin vadiler oydular. Bu aşınmanın arkasındaki [güç], yavaşça hareket eden buzun muazzam ağırlığıydı."
+  "why": "\"They\" çoğuldur; kendi ağırlıkları altında yavaşça ilerleyen yapılar \"Ancient glaciers\" (antik buzullar) ifadesidir. \"deep valleys\" (derin vadiler) buzulların oyduğu yerlerdir, ilerleyen şeyler değildir; \"the Scandinavian peninsula\" ise tekildir.",
+  "tr": "Antik buzullar, milyonlarca yıl boyunca İskandinav yarımadasında derin vadiler oydular. [Onlar], kendi muazzam ağırlıkları altında yavaşça ilerledi."
  },
  {
   "id": "ref_241",
@@ -3061,15 +3061,15 @@
  },
  {
   "id": "ref_256",
-  "text": "Biologists compared sensory receptors and motor neurons in lab animals. They discovered [[those]] carried electrical impulses back from muscles to the spine.",
+  "text": "Biologists compared sensory receptors and motor neurons in lab animals. They discovered [[those]] carried electrical impulses from the spine out to the muscles.",
   "ref": "those",
   "answer": "motor neurons",
   "distractors": [
    "sensory receptors",
    "lab animals"
   ],
-  "why": "\"those\" çoğul işaret zamiridir ve kaslardan omuriliğe elektrik uyarıları taşıyan hücre grubunu, yani motor nöronları işaret etmektedir → \"motor neurons\". \"sensory receptors\" diğer hücre grubudur; \"lab animals\" ise üzerinde çalışma yapılan hayvanlardır.",
-  "tr": "Biyologlar laboratuvar hayvanlarında duyusal alıcıları ve motor nöronları karşılaştırdı. [Onların] kaslardan omuriliğe elektrik uyarıları taşıdığını keşfettiler."
+  "why": "\"those\" çoğul işaret zamiridir ve omurilikten kaslara elektrik uyarıları taşıyan hücre grubunu, yani motor nöronları işaret etmektedir → \"motor neurons\". \"sensory receptors\" diğer hücre grubudur; \"lab animals\" ise üzerinde çalışma yapılan hayvanlardır.",
+  "tr": "Biyologlar laboratuvar hayvanlarında duyusal alıcıları ve motor nöronları karşılaştırdı. [Onların] omurilikten kaslara elektrik uyarıları taşıdığını keşfettiler."
  },
  {
   "id": "ref_257",
@@ -3109,15 +3109,15 @@
  },
  {
   "id": "ref_260",
-  "text": "Renaissance architects designed majestic stone cathedrals across Europe. Scholars discovered [[they]] utilized geometric patterns inspired by ancient Greek mathematics.",
+  "text": "Renaissance architects designed majestic stone cathedrals across Europe. Scholars discovered [[they]] consulted ancient Greek mathematical treatises before drawing their plans.",
   "ref": "they",
   "answer": "Renaissance architects",
   "distractors": [
    "majestic stone cathedrals",
-   "geometric patterns"
+   "mathematical treatises"
   ],
-  "why": "\"they\" çoğuldur ve geometrik desenleri kullanan özneleri, yani Rönesans mimarlarını işaret etmektedir → \"Renaissance architects\". \"majestic stone cathedrals\" inşa edilen yapılardır; \"geometric patterns\" ise kullanılan desenlerdir.",
-  "tr": "Rönesans mimarları Avrupa genelinde görkemli taş katedraller tasarladılar. Bilim insanları, [bunların] antik Yunan matematiğinden esinlenen geometrik kalıplar kullandıklarını keşfettiler."
+  "why": "\"they\" çoğuldur ve planlarını çizmeden önce antik Yunan matematik risalelerine başvuran özneleri, yani Rönesans mimarlarını işaret etmektedir → \"Renaissance architects\". \"majestic stone cathedrals\" inşa edilen yapılardır; \"mathematical treatises\" ise başvurulan eserlerdir.",
+  "tr": "Rönesans mimarları Avrupa genelinde görkemli taş katedraller tasarladılar. Bilim insanları, [bunların] planlarını çizmeden önce antik Yunan matematik risalelerine başvurduklarını keşfettiler."
  },
  {
   "id": "ref_261",
@@ -3224,7 +3224,7 @@
    "offshore wind energy",
    "The energy report"
   ],
-  "why": "\"the former\" iki şeyden İLİKİNİ işaret eder → \"nuclear fusion\". \"offshore wind energy\" ikincisidir (the latter); \"The energy report\" ise analiz edilen belgedir.",
+  "why": "\"the former\" iki şeyden İLKİNİ işaret eder → \"nuclear fusion\". \"offshore wind energy\" ikincisidir (the latter); \"The energy report\" ise analiz edilen belgedir.",
   "tr": "Enerji raporu, nükleer füzyon ve açık deniz rüzgar enerjisini analiz etti. Yazarlar, başarıyla ticarileştirilmesi durumunda [birincisinin] neredeyse sınırsız baz yük gücü sağlayabileceğini öne sürdü."
  },
  {
@@ -3309,7 +3309,7 @@
    "gas molecules"
   ],
   "why": "\"the phenomenon\" (doğa olayı) tekil geriye gönderimdir ve yüksek enlemlerde en iyi görülen kutup ışıklarını işaret eder → \"the Aurora Borealis\". \"Solar winds\" olaya neden olan rüzgarlardır.",
-  "tr": "Güneş rüzgarları Dünya'nın üst atmosferindeki gas molekülleriyle çarpışarak Kutup Işıkları'nı (Aurora Borealis) oluşturur. Gözlemciler, [bu doğa olayının] en çok yüksek enlemli bölgelerde görülebildiğini kaydettiler."
+  "tr": "Güneş rüzgarları Dünya'nın üst atmosferindeki gaz molekülleriyle çarpışarak Kutup Işıkları'nı (Aurora Borealis) oluşturur. Gözlemciler, [bu doğa olayının] en çok yüksek enlemli bölgelerde görülebildiğini kaydettiler."
  },
  {
   "id": "ref_277",
@@ -3342,7 +3342,7 @@
   "answer": "aerodynamic lift",
   "distractors": [
    "an aircraft wing",
-   "Air flows faster"
+   "heavy planes"
   ],
   "why": "\"the mechanism\" (mekanizma) uçakların havada kalmasını sağlayan fiziksel kaldırma kuvvetini işaret eder → \"aerodynamic lift\". \"an aircraft wing\" bu kuvvetin oluşmasını sağlayan kanat yapısıdır.",
   "tr": "Hava, bir uçak kanadının kavisli üst yüzeyi üzerinden daha hızlı akarak aerodinamik kaldırma kuvveti oluşturur. Mühendisler, [bu mekanizmanın] ağır uçakların havada kalmasını sağladığını açıkladı."
@@ -3548,7 +3548,7 @@
    "the nineteenth century",
    "Curators"
   ],
-  "why": "\"thought\" değil; \"those\" çoğuldur; özel vitrinlerde korunan askeri üniformaları temsil eder → \"vintage military uniforms\". \"the nineteenth century\" dönemdir; \"Curators\" ise küratörlerdir.",
+  "why": "\"those\" çoğuldur; özel vitrinlerde korunan askeri üniformaları temsil eder → \"vintage military uniforms\". \"the nineteenth century\" dönemdir; \"Curators\" ise küratörlerdir.",
   "tr": "Müze, on dokuzuncu yüzyıldan kalma eski askeri üniformaları sergiliyor. Küratörler, [bunların] iklim kontrollü cam vitrinlerde korunmasını sağladı."
  },
  {
@@ -3603,13 +3603,13 @@
   "id": "ref_301",
   "text": "The school board banned high-calorie sugary drinks from vending machines. Nutritionists argue [[such regulations]] promote healthier habits among students.",
   "ref": "such regulations",
-  "answer": "high-calorie sugary drinks",
+  "answer": "banned high-calorie sugary drinks from vending machines",
   "distractors": [
    "vending machines",
    "Nutritionists"
   ],
-  "why": "\"such regulations\" (bu tür düzenlemeler/yasaklar), okul yönetiminin şekerli içecekleri otomatlardan yasaklaması eylemine ve o içeceklere yönelik karara gönderme yapar → \"high-calorie sugary drinks\". \"vending machines\" içeceklerin satıldığı makinelerdir; \"Nutritionists\" ise beslenme uzmanlarıdır.",
-  "tr": "Okul aile birliği, otomatlardaki yüksek kalorili şekerli içecekleri yasakladı. Beslenme uzmanları, [bu tür düzenlemelerin] öğrenciler arasında daha sağlıklı alışkanlıkları teşvik ettiğini savunuyor."
+  "why": "\"such regulations\" (bu tür düzenlemeler) çoğuldur ve okul kurulunun şekerli içecekleri otomatlardan yasaklamasına gönderme yapar → \"banned high-calorie sugary drinks from vending machines\". \"vending machines\" içeceklerin satıldığı makinelerdir; \"Nutritionists\" ise beslenme uzmanlarıdır.",
+  "tr": "Okul kurulu, otomatlardaki yüksek kalorili şekerli içecekleri yasakladı. Beslenme uzmanları, [bu tür düzenlemelerin] öğrenciler arasında daha sağlıklı alışkanlıkları teşvik ettiğini savunuyor."
  },
  {
   "id": "ref_302",
@@ -3723,13 +3723,13 @@
   "id": "ref_311",
   "text": "The vintage shop displayed several gold necklaces and some silver ones. The wealthy collector bought a heavy gold [[one]] for an astronomical price.",
   "ref": "one",
-  "answer": "silver ones",
+  "answer": "several gold necklaces",
   "distractors": [
-   "The wealthy collector",
-   "astronomical price"
+   "some silver ones",
+   "The wealthy collector"
   ],
-  "why": "Burada \"one\" bir isim pro-formudur ve \"necklace\" (kolye) ismini karşılar. Metinde \"gold necklaces\" ve \"silver ones\" karşılaştırılmaktadır. \"one\" ifadesi \"necklace\"ı temsil ettiğinden, \"gold one\" altın kolye anlamına gelir. Çeldirici olarak gruptaki diğer öge olan \"silver ones\" verilmiştir.",
-  "tr": "Antika dükkanı birkaç altın kolye ve bazı gümüş [olanları] sergiledi. Zengin koleksiyoncu fahiş bir fiyata ağır, altın [bir tanesini] satın aldı."
+  "why": "\"one\" tekildir ve önceden geçen \"necklaces\" (kolyeler) isminin yerine geçen bir pro-formdur. Koleksiyoncunun fahiş bir fiyata satın aldığı ağır altın kolye, \"several gold necklaces\" (birkaç altın kolye) grubundan biridir. \"some silver ones\" gümüş olanlardır (altın değil); \"The wealthy collector\" ise alıcıdır.",
+  "tr": "Antika dükkanı birkaç altın kolye ve bazı gümüş olanlar sergiledi. Zengin koleksiyoncu fahiş bir fiyata ağır, altın [bir tanesini] satın aldı."
  },
  {
   "id": "ref_312",
@@ -3813,7 +3813,7 @@
    "energy distribution"
   ],
   "why": "\"system\" (sistem), elektrik tüketimini izleyen ve enerjiyi optimize eden şebekeyi, yani akıllı şebekeyi işaret eder → \"The smart grid\". \"electrical consumption\" tüketimdir; \"energy distribution\" ise sistemin yaptığı dağıtımdır.",
-  "tr": "[Akıllı şebeke], eyalet genelindeki elektrik tüketimini gerçek zamanlı olarak izler. Bu otomatik [sistem], yoğun saatlerde enerji dağıtımını optimize eder."
+  "tr": "Akıllı şebeke, eyalet genelindeki elektrik tüketimini gerçek zamanlı olarak izler. Bu otomatik [sistem], yoğun saatlerde enerji dağıtımını optimize eder."
  },
  {
   "id": "ref_319",
@@ -3824,7 +3824,7 @@
    "The chemical reaction",
    "steam turbines"
   ],
-  "why": "\"force\" (güç/kuvvet), buhar türbinlerini çalıştırmak için kullanılan ısı enerjisini işaret eder → \"thermal energy\". \"The chemical reaction\" enerjiyi açığa çıkaran reaksiyondur; \"steam turbines\" ise dönen tribünlerdir.",
+  "why": "\"force\" (güç/kuvvet), buhar türbinlerini çalıştırmak için kullanılan ısı enerjisini işaret eder → \"thermal energy\". \"The chemical reaction\" enerjiyi açığa çıkaran reaksiyondur; \"steam turbines\" (buhar türbinleri) ise enerjinin çalıştırdığı makinelerdir.",
   "tr": "Kimyasal reaksiyon büyük miktarda termal enerji açığa çıkarır. Bilim insanları, buhar türbinlerini çalıştırmak için bu güçlü [gücü] kullanırlar."
  },
  {

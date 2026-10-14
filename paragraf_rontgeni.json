@@ -189,7 +189,7 @@
     "text": "Standard examinations indeed allow teachers to grade thousands of pupils quickly and cheaply.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Çoktan seçmeli testlerin hızlı okuma ve düşük maliyet gibi pratik avantajlarını dürüstçe kabul etmektedir."
+    "why": "Çoktan seçmeli testlerin hızlı notlandırma ve düşük maliyet gibi pratik avantajlarını dürüstçe kabul etmektedir."
    },
    {
     "sentence_index": 2,
@@ -375,7 +375,7 @@
     "text": "A clinical test of eighty families showed that eating organic food dropped pesticide exposure markers within two weeks.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Seksen aile üzerinde yapılan testin tarım ilacı belirteçlerindeki anlık düşüş sonuçlarını sunarak karşı tezi desteklemektedir."
+    "why": "Seksen aile üzerinde yapılan testin tarım ilacı belirteçlerindeki iki haftalık düşüş sonuçlarını sunarak karşı tezi desteklemektedir."
    },
    {
     "sentence_index": 4,
@@ -691,7 +691,7 @@
   "id": "pxr017",
   "topic": "Ancient Architecture (Archaeology)",
   "paragraph_raw": "Many structural engineers state that ancient buildings were constructed without any mathematical plan. Early builders indeed worked with basic stone tools and lacked modern computerized structural design systems. Careful testing tells a different story about ancient skills: historic temples incorporate incredibly precise geometric ratios in their layouts. A scanning project of twelve stone temples revealed full alignment with golden ratio proportions in their dimensions. Hence, ancient civilizations possessed a highly sophisticated and mathematically organized architectural science.",
-  "tr": "Birçok inşaat mühendisi, antik binaların herhangi bir matematiksel plan olmadan inşa edildiğini belirtir. İlk inşaatçılar gerçekten de temel taş aletlerle çalışıyordu ve modern bilgisayarlı yapısal tasarım sistemlerinden yoksundu. Dikkatli testler ise antik beceriler hakkında farklı bir hikaye anlatıyor: tarihi tapınaklar yerleşim planlarında inanılmaz derecede hassas geometrik oranlar barındırır. On iki taş tapınağı kapsayan bir tarama projesi, tapınak boyutlarının altın oran oranlarıyla tam bir uyum sergilediğini ortaya koydu. Bu nedenle, antik uygarlıklar son derece gelişmiş ve matematiksel olarak organize edilmiş bir mimarlık bilimine sahipti.",
+  "tr": "Birçok inşaat mühendisi, antik binaların herhangi bir matematiksel plan olmadan inşa edildiğini belirtir. İlk inşaatçılar gerçekten de temel taş aletlerle çalışıyordu ve modern bilgisayarlı yapısal tasarım sistemlerinden yoksundu. Dikkatli testler ise antik beceriler hakkında farklı bir hikaye anlatıyor: tarihi tapınaklar yerleşim planlarında inanılmaz derecede hassas geometrik oranlar barındırır. On iki taş tapınağı kapsayan bir tarama projesi, tapınak boyutlarının altın oran orantılarıyla tam bir uyum sergilediğini ortaya koydu. Bu nedenle, antik uygarlıklar son derece gelişmiş ve matematiksel olarak organize edilmiş bir mimarlık bilimine sahipti.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -820,7 +820,7 @@
   "id": "pxr020",
   "topic": "Genetic Crops (Biology)",
   "paragraph_raw": "Many green consumers believe that genetically modified crops are always dangerous for human digestion. Introducing foreign genes into plants indeed demands long-term laboratory testing to monitor allergen changes. A closer look reveals that genetically modified foods carry zero unique health hazards compared to standard foods. A biotechnology report on twenty varieties showed that modified corn was eaten by millions of citizens without health issues. Hence, modified crops represent a safe and effective tool to feed the growing world population.",
-  "tr": "Birçok yeşil tüketici, genetiği değiştirilmiş ürünlerin insan sindirimi için her zaman tehlikeli olduğuna inanır. Bitkilere yabancı genler eklemek, alerjen değişikliklerini izlemek için gerçekten de uzun vadeli laboratuvar testleri gerektirir. Daha yakın bir bakış ise genetiği değiştirilmiş gıdaların standart gıdalara kıyasla hiçbir benzersiz sağlık riski taşımadığını ortaya koyuyor. Yirmi çeşidi kapsayan bir biyoteknoloji raporu, değiştirilmiş mısırın milyonlarca vatandaş tarafından hiçbir sağlık sorunu olmadan tüketildiğini gösterdi. Bu nedenle, değiştirilmiş ürünler büyüyen dünya nüfusunu beslemek için güvenli ve etkili bir araç temsil eder.",
+  "tr": "Birçok yeşil tüketici, genetiği değiştirilmiş ürünlerin insan sindirimi için her zaman tehlikeli olduğuna inanır. Bitkilere yabancı genler eklemek, alerjen değişikliklerini izlemek için gerçekten de uzun vadeli laboratuvar testleri gerektirir. Daha yakından bir bakış ise genetiği değiştirilmiş gıdaların standart gıdalara kıyasla hiçbir benzersiz sağlık riski taşımadığını ortaya koyuyor. Yirmi çeşidi kapsayan bir biyoteknoloji raporu, değiştirilmiş mısırın milyonlarca vatandaş tarafından hiçbir sağlık sorunu olmadan tüketildiğini gösterdi. Bu nedenle, değiştirilmiş ürünler büyüyen dünya nüfusunu beslemek için güvenli ve etkili bir araç temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -1149,7 +1149,7 @@
     "text": "An ecological report on ten retail brands found that factories dumped toxic chemicals directly into rivers during production.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "On büyük markanın fabrikalarında üretilen giysiler sırasında nehirlere zehirli atık salındığını gösteren ekolojik raporla tezi desteklemektedir."
+    "why": "On büyük markanın fabrikalarında giysi üretimi sırasında nehirlere zehirli atık salındığını gösteren ekolojik raporla tezi desteklemektedir."
    },
    {
     "sentence_index": 4,
@@ -1207,7 +1207,7 @@
   "id": "pxr029",
   "topic": "Nuclear Energy (Economics)",
   "paragraph_raw": "Many safety inspectors assume that using nuclear energy is always too dangerous for civil areas. Building and operating atomic reactors indeed demands strict security steps to prevent chemical and radiation leaks. Careful testing tells a different story about atomic power: modern smart reactors produce massive electricity without carbon emissions or accident risks. A safety report of twenty plants found that automated water reactors operated for forty years without direct health incidents. Hence, controlled nuclear energy represents a highly clean and stable tool for national grids.",
-  "tr": "Birçok güvenlik müfettişi, nükleer enerji kullanmanın sivil alanlar için her zaman çok tehlikeli olduğunu varsayar. Atom reaktörleri inşa etmek ve işletmek, kimyasal ve radyasyon sızıntılarını önlemek için gerçekten de çok sıkı güvenlik adımları gerektirir. Dikkatli testler ise atom gücü hakkında farklı bir hikaye anlatıyor: modern akıllı reaktörler, karbon emisyonu veya kaza riskleri olmadan devasa düzeyde elektrik üretir. Yirmi santralı kapsayan güvenlik raporu, otomatik su reaktörlerinin kırk yıl boyunca hiçbir doğrudan sağlık olayı olmadan çalıştığını buldu. Bu nedenle, kontrollü nükleer enerji ulusal şebekeler için son derece temiz ve istikrarlı bir araç temsil eder.",
+  "tr": "Birçok güvenlik müfettişi, nükleer enerji kullanmanın sivil alanlar için her zaman çok tehlikeli olduğunu varsayar. Atom reaktörleri inşa etmek ve işletmek, kimyasal ve radyasyon sızıntılarını önlemek için gerçekten de çok sıkı güvenlik adımları gerektirir. Dikkatli testler ise atom gücü hakkında farklı bir hikaye anlatıyor: modern akıllı reaktörler, karbon emisyonu veya kaza riskleri olmadan devasa düzeyde elektrik üretir. Yirmi santrali kapsayan güvenlik raporu, otomatik su reaktörlerinin kırk yıl boyunca hiçbir doğrudan sağlık olayı olmadan çalıştığını buldu. Bu nedenle, kontrollü nükleer enerji ulusal şebekeler için son derece temiz ve istikrarlı bir araç temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -1336,7 +1336,7 @@
   "id": "pxr032",
   "topic": "Plastic Packaging (Ecology)",
   "paragraph_raw": "Many retail companies state that banning plastic packaging ruins fresh food transportation safety. Wrapping fresh apples and meat in light plastic indeed protects them from street dust and bacteria. A closer look reveals that natural plant-based packaging protects food freshness much longer and biodegrades safely. A storage test of thirty foods showed that plant-based films kept vegetables fresh for forty days without chemicals. Thus, switching to organic packaging is a highly successful model for green retail transport.",
-  "tr": "Birçok perakende şirketi, plastik ambalajların yasaklanmasının taze gıda taşıma güvenliğini mahvettiğini belirtir. Taze elmaları ve etleri hafif plastikle sarmak, onları sokak tozundan ve bakterilerden gerçekten de korur. Daha yakın bir bakış ise bitki bazlı doğal ambalajların gıda tazeliğini çok daha uzun süre koruduğunu ve güvenle doğaya karıştığını ortaya koyuyor. Otuz gıdayı kapsayan bir depolama testi, bitki bazlı filmlerin sebzeleri kimyasallar olmadan kırk gün boyunca taze tuttuğunu gösterdi. Bu nedenle, organik ambalajlara geçmek yeşil perakende taşımacılığı için son derece başarılı bir modeldir.",
+  "tr": "Birçok perakende şirketi, plastik ambalajların yasaklanmasının taze gıda taşıma güvenliğini mahvettiğini belirtir. Taze elmaları ve etleri hafif plastikle sarmak, onları sokak tozundan ve bakterilerden gerçekten de korur. Daha yakından bir bakış ise bitki bazlı doğal ambalajların gıda tazeliğini çok daha uzun süre koruduğunu ve güvenle doğaya karıştığını ortaya koyuyor. Otuz gıdayı kapsayan bir depolama testi, bitki bazlı filmlerin sebzeleri kimyasallar olmadan kırk gün boyunca taze tuttuğunu gösterdi. Bu nedenle, organik ambalajlara geçmek yeşil perakende taşımacılığı için son derece başarılı bir modeldir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -1443,7 +1443,7 @@
     "text": "Scientific analysis reveals a different outcome: congestion tolls decrease inner traffic jams and encourage green transit use.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
-    "why": "Bu bütçelerin trafik tıkanıklıklarını azalttığını ve toplu taşımayı canlandırdığını savunarak ücretlerin yararını ortaya koyar."
+    "why": "Bu ücretlerin trafik tıkanıklıklarını azalttığını ve toplu taşımayı canlandırdığını savunarak ücretlerin yararını ortaya koyar."
    },
    {
     "sentence_index": 3,
@@ -1550,7 +1550,7 @@
  {
   "id": "pxr037",
   "topic": "Music Education (Pedagogy)",
-  "paragraph_raw": "Many school directors argue that funding music lessons is a financial waste for academic schools. Maintaining special piano rooms and hiring violin teachers indeed demands high yearly school budgets. What actually happens is that active instrument training improves kid brain development and raises math scores. A cognitive project in forty classrooms showed that music pupils demonstration of logical reasoning was forty percent higher. Hence, integrating music studies is a highly successful model to boost overall student intellect.",
+  "paragraph_raw": "Many school directors argue that funding music lessons is a financial waste for academic schools. Maintaining special piano rooms and hiring violin teachers indeed demands high yearly school budgets. What actually happens is that active instrument training improves kid brain development and raises math scores. A cognitive project in forty classrooms showed that music pupils' demonstration of logical reasoning was forty percent higher. Hence, integrating music studies is a highly successful model to boost overall student intellect.",
   "tr": "Birçok okul yöneticisi, müzik derslerini finanse etmenin akademik okullar için finansal bir israf olduğunu savunur. Özel piyano odaları işletmek ve keman öğretmenleri işe almak, gerçekten de yüksek yıllık okul bütçeleri gerektirir. Gerçekte olan ise aktif enstrüman eğitiminin çocuk beyin gelişimini iyileştirdiği ve matematik puanlarını artırdığıdır. Kırk sınıfı kapsayan bilişsel bir proje, müzik öğrencilerinin mantıksal akıl yürütme becerilerinin yüzde kırk daha yüksek olduğunu gösterdi. Bu nedenle, müzik çalışmalarını entegre etmek genel öğrenci zekasını artırmak için son derece başarılı bir modeldir.",
   "scaffolding": [
    {
@@ -1576,7 +1576,7 @@
    },
    {
     "sentence_index": 3,
-    "text": "A cognitive project in forty classrooms showed that music pupils demonstration of logical reasoning was forty percent higher.",
+    "text": "A cognitive project in forty classrooms showed that music pupils' demonstration of logical reasoning was forty percent higher.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
     "why": "Kırk sınıftaki müzik öğrencilerinin mantıksal akıl yürütme testlerinde elde ettiği yüzde kırklık üstünlüğü gösteren veriyle karşı tezi desteklemektedir."
@@ -1593,7 +1593,7 @@
  {
   "id": "pxr038",
   "topic": "E-books Memory (Media Studies)",
-  "paragraph_raw": "Many digital promoters assert that reading e-books completely replaces the experience of paper books. Reading screen texts indeed allows citizens to carry thousands of novels easily in a small pocket device. The opposite proves true: reading printed paper improves long term memory recall and deep reading focus. A test with three hundred students showed that print readers scoring on narrative detail was thirty percent higher than tablet readers. Therefore, physical books remain a vital tool for deep academic study and memory retention.",
+  "paragraph_raw": "Many digital promoters assert that reading e-books completely replaces the experience of paper books. Reading screen texts indeed allows citizens to carry thousands of novels easily in a small pocket device. The opposite proves true: reading printed paper improves long term memory recall and deep reading focus. A test with three hundred students showed that print readers' scores on narrative detail were thirty percent higher than tablet readers. Therefore, physical books remain a vital tool for deep academic study and memory retention.",
   "tr": "Birçok dijital destekçi, e-kitap okumanın basılı kitap deneyiminin yerini tamamen aldığını iddia eder. Ekran yazıları okumak, vatandaşların küçük bir cep cihazında binlerce romanı kolayca taşımasına gerçekten de olanak tanır. Oysa tam tersi gerçekleşir: basılı kağıttan okumak uzun vadeli hafıza hatırlamasını ve derin okuma odaklanmasını geliştirir. Üç yüz öğrenci üzerinde yapılan bir test, basılı kitap okuyanların olay ayrıntısı puanlarının tablet okuyucularına göre yüzde otuz daha yüksek olduğunu gösterdi. Bu nedenle, fiziksel kitaplar derin akademik çalışma ve hafıza koruma için hayati bir araç olmaya devam etmektedir.",
   "scaffolding": [
    {
@@ -1615,11 +1615,11 @@
     "text": "The opposite proves true: reading printed paper improves long term memory recall and deep reading focus.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
-    "why": "Gerçek kağıt kokusunun ve dokusunun odaklanma derinliği ve uzun vadeli hafıza recall yeteneğini artırdığını savunarak yön değiştirmektedir."
+    "why": "Gerçek kağıt kokusunun ve dokusunun odaklanma derinliği ve uzun vadeli hafıza hatırlama yeteneğini artırdığını savunarak yön değiştirmektedir."
    },
    {
     "sentence_index": 3,
-    "text": "A test with three hundred students showed that print readers scoring on narrative detail was thirty percent higher than tablet readers.",
+    "text": "A test with three hundred students showed that print readers' scores on narrative detail were thirty percent higher than tablet readers.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
     "why": "Üç yüz öğrencilik testte kağıttan okuyanların ayrıntılı hatırlama testlerinde kazandığı yüzde otuzluk başarıyı kanıt göstererek karşı tezi desteklemektedir."
@@ -1766,7 +1766,7 @@
   "id": "pxr042",
   "topic": "Exercise and Aging (Medicine)",
   "paragraph_raw": "Some elderly people believe that physical exercise is dangerous for weak aging bodies. Intensive heavy training indeed strains fragile joints and can cause immediate muscle pain. Scientific analysis points in another direction: moderate daily activity significantly delays physical decline. For instance, seniors who walk thirty minutes daily show much better joint flexibility and lower fall risks. Hence, maintaining an active physical routine is a crucial strategy for healthy and independent aging.",
-  "tr": "Bazı yaşlı insanlar, fiziksel egzersizin zayıf yaşlanan vücutlar için tehlikeli olduğuna inanmaktadır. Yoğun ağır antrenmanlar gerçekten de hassas eklemleri zorlar ve ani kas ağrılarına neden olabilir. Bilimsel analizler ise başka bir yönü işaret ediyor: orta düzeyde günlük aktivitenin fiziksel gerilemeyi önemli ölçüde geciktirdiğidir. Örneğin, her gün otuz dakika yürüyen yaşlılar çok daha iyi eklem esnekliği ve daha düşük düşme riskleri göstermektedir. Bu nedenle, aktif bir fiziksel rutini sürdürmek sağlıklı ve bağımsız yaşlanma için hayati bir stratejidir.",
+  "tr": "Bazı yaşlı insanlar, fiziksel egzersizin zayıf yaşlanan vücutlar için tehlikeli olduğuna inanmaktadır. Yoğun ağır antrenmanlar gerçekten de hassas eklemleri zorlar ve ani kas ağrılarına neden olabilir. Bilimsel analizler ise başka bir yönü işaret ediyor: orta düzeyde günlük aktivite fiziksel gerilemeyi önemli ölçüde geciktirir. Örneğin, her gün otuz dakika yürüyen yaşlılar çok daha iyi eklem esnekliği ve daha düşük düşme riskleri göstermektedir. Bu nedenle, aktif bir fiziksel rutini sürdürmek sağlıklı ve bağımsız yaşlanma için hayati bir stratejidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -1852,7 +1852,7 @@
   "id": "pxr044",
   "topic": "Organic Farming (Agriculture)",
   "paragraph_raw": "Many conventional farming groups argue that chemical pesticides are completely harmless to retail shoppers. Residues left on fruit indeed are usually small enough to meet current government safety levels. Detailed statistics demonstrate that organic diets reduce cellular inflammation by protecting cell barriers. For instance, families switched to organic food show a major decline in chemical markers linked to metabolic disorders. Consequently, choosing organic produce remains a smarter long term strategy for protecting cellular health.",
-  "tr": "Birçok geleneksel tarım grubu, kimyasal böcek ilaçlarının perakende alışverişçileri için tamamen zararsız olduğunu savunmaktadır. Meyvelerde kalan kalıntılar gerçekten de genellikle mevcut devlet güvenlik seviyelerini karşılayacak kadar küçüktür. Detaylı istatistikler ise organik diyetlerin hücre duvarlarını koruyarak hücresel iltihabı azalttığını gösteriyor. Örneğin, organik gıdaya geçen aileler metabolik bozukluklarla bağlantılı kimyasal belirteçlerde büyük bir düşüş göstermektedir. Sonuç olarak, organik ürünleri seçmek hücresel sağlığı korumak için daha akıllıca bir uzun vadeli stratejidir.",
+  "tr": "Birçok geleneksel tarım grubu, kimyasal böcek ilaçlarının perakende alışverişçileri için tamamen zararsız olduğunu savunmaktadır. Meyvelerde kalan kalıntılar gerçekten de genellikle mevcut devlet güvenlik seviyelerini karşılayacak kadar küçüktür. Detaylı istatistikler ise organik diyetlerin hücre bariyerlerini koruyarak hücresel iltihabı azalttığını gösteriyor. Örneğin, organik gıdaya geçen aileler metabolik bozukluklarla bağlantılı kimyasal belirteçlerde büyük bir düşüş göstermektedir. Sonuç olarak, organik ürünleri seçmek hücresel sağlığı korumak için daha akıllıca bir uzun vadeli stratejidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -1895,7 +1895,7 @@
   "id": "pxr045",
   "topic": "Sabbatical Leave (Human Resources)",
   "paragraph_raw": "Most company directors assume that allowing workers to take long sabbatical leaves destroys business focus. Employee absence indeed requires careful work planning and can increase temporary hiring costs. The opposite proves true: extended breaks prevent professional burnout and return sharper employees to their offices. A survey of forty technology companies showed that returning workers had double the creative output. Therefore, supporting structured leaves is an effective strategy to keep highly skilled staff.",
-  "tr": "Çoğu şirket yöneticisi, çalışanların uzun süreli akademik izinler almasına izin vermenin iş odaklanmasını yok ettiğini varsayar. Çalışanın yokluğu gerçekten de dikkatli bir iş planlaması gerektirir ve geçici işe alım maliyetlerini artırabilir. Oysa tam tersi gerçekleşir: uzatılmış izinler mesleki tükenmişliği önler ve ofislere çok daha zinde çalışanlar kazandırır. Kırk teknoloji şirketi üzerinde yapılan bir anket, geri dönen çalışanların yaratıcı üretiminin iki katına çıktığını gösterdi. Bu nedenle, yapılandırılmış izinleri desteklemek son derece yetenekli personeli elde tutmak için etkili bir stratejidir.",
+  "tr": "Çoğu şirket yöneticisi, çalışanların uzun süreli sabbatical izinler almasına izin vermenin iş odaklanmasını yok ettiğini varsayar. Çalışanın yokluğu gerçekten de dikkatli bir iş planlaması gerektirir ve geçici işe alım maliyetlerini artırabilir. Oysa tam tersi gerçekleşir: uzatılmış izinler mesleki tükenmişliği önler ve ofislere çok daha zinde çalışanlar kazandırır. Kırk teknoloji şirketi üzerinde yapılan bir anket, geri dönen çalışanların yaratıcı üretiminin iki katına çıktığını gösterdi. Bu nedenle, yapılandırılmış izinleri desteklemek son derece yetenekli personeli elde tutmak için etkili bir stratejidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -1937,8 +1937,8 @@
  {
   "id": "pxr046",
   "topic": "Solar Energy (Environmental Studies)",
-  "paragraph_raw": "Many environmentalists believe that using domestic solar panels guarantees zero emission energy. Producing the silicone materials indeed demands significant electrical use in factories during initial creation stages. Practical application demonstrates that household green installations drastically lower overall carbon outputs. A study of ten thousand homes showed that solar panels saved five tons of emissions per year. The main lesson is that local solar power remains a highly effective method to reduce pollution.",
-  "tr": "Birçok çevreci, ev tipi güneş panelleri kullanmanın sıfır emisyonlu enerjiyi garanti ettiğine inanır. Silikon malzemelerin üretilmesi, ilk üretim aşamalarında fabrikalarda gerçekten de önemli ölçüde elektrik kullanımı gerektirir. Pratik uygulamalar ise evsel yeşil kurulumların genel karbon salınımını ciddi şekilde düşürdüğünü gösteriyor. On bin ev üzerinde yapılan bir araştırma, güneş panellerinin yılda beş ton emisyon tasarrufu sağladığını gösterdi. Temel ders, yerel güneş enerjisinin kirliliği azaltmak için son derece etkili bir yöntem olmaya devam ettiğidir.",
+  "paragraph_raw": "Many environmentalists believe that using domestic solar panels guarantees zero emission energy. Producing the silicon materials indeed demands significant electrical use in factories during initial creation stages. Practical application demonstrates that household green installations drastically lower overall carbon outputs. A study of ten thousand homes showed that solar panels saved five tons of emissions per year. The main lesson is that local solar power remains a highly effective method to reduce pollution.",
+  "tr": "Birçok çevreci, ev tipi güneş panelleri kullanmanın sıfır emisyonlu enerjiyi garanti ettiğine inanır. Silisyum malzemelerin üretilmesi, ilk üretim aşamalarında fabrikalarda gerçekten de önemli ölçüde elektrik kullanımı gerektirir. Pratik uygulamalar ise evsel yeşil kurulumların genel karbon salınımını ciddi şekilde düşürdüğünü gösteriyor. On bin ev üzerinde yapılan bir araştırma, güneş panellerinin yılda beş ton emisyon tasarrufu sağladığını gösterdi. Temel ders, yerel güneş enerjisinin kirliliği azaltmak için son derece etkili bir yöntem olmaya devam ettiğidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -1949,7 +1949,7 @@
    },
    {
     "sentence_index": 1,
-    "text": "Producing the silicone materials indeed demands significant electrical use in factories during initial creation stages.",
+    "text": "Producing the silicon materials indeed demands significant electrical use in factories during initial creation stages.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
     "why": "Panellerin üretiminde kullanılan ağır sanayi elektriği ve fabrika maliyetlerini dürüstçe kabul etmektedir."
@@ -2368,7 +2368,7 @@
   "id": "pxr056",
   "topic": "Shorter Workweeks (Sociology)",
   "paragraph_raw": "Many corporate bosses assert that implementing four-day workweeks will drastically decrease company revenues. Reducing weekly working hours from forty to thirty-two indeed demands careful planning of shift tasks. The opposite proves true: shorter workweeks raise daily employee output and prevent burnout. For instance, companies that reduced workdays reported a thirty percent increase in overall business efficiency. Consequently, four-day workweeks represent a highly profitable strategy that benefits both workers and businesses.",
-  "tr": "Birçok şirket patronu, dört günlük çalışma haftasını uygulamanın şirket gelirlerini ciddi şekilde düşüreceğini iddia eder. Haftalık çalışma saatlerini kırktan otuz ikiye indirmek gerçekten de vardiya görevlerinin dikkatli planlanmasını gerektirir. Oysa tam tersi gerçekleşir: kısa çalışma haftaları günlük çalışan verimliliğini artırır ve tükenmişliği önler. Örneğin, çalışma günlerini azaltan şirketler genel iş verimliliğinde yüzde otuzluk bir artış bildirdi. Sonuç olarak, dört günlük çalışma hafta hem çalışanlara hem de işletmelere fayda sağlayan son derece karlı bir stratejidir.",
+  "tr": "Birçok şirket patronu, dört günlük çalışma haftasını uygulamanın şirket gelirlerini ciddi şekilde düşüreceğini iddia eder. Haftalık çalışma saatlerini kırktan otuz ikiye indirmek gerçekten de vardiya görevlerinin dikkatli planlanmasını gerektirir. Oysa tam tersi gerçekleşir: kısa çalışma haftaları günlük çalışan verimliliğini artırır ve tükenmişliği önler. Örneğin, çalışma günlerini azaltan şirketler genel iş verimliliğinde yüzde otuzluk bir artış bildirdi. Sonuç olarak, dört günlük çalışma haftası hem çalışanlara hem de işletmelere fayda sağlayan son derece karlı bir stratejidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -2389,7 +2389,7 @@
     "text": "The opposite proves true: shorter workweeks raise daily employee output and prevent burnout.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
-    "why": "Daha az dinlenme süresinin getirdiği yorgunluğu önleyerek ve verimi artırarak iş kaybını engellediğini savunup yönü değiştirmektedir."
+    "why": "Daha fazla dinlenme süresinin tükenmişliği önleyerek ve verimi artırarak iş kaybını engellediğini savunup yönü değiştirmektedir."
    },
    {
     "sentence_index": 3,
@@ -2425,7 +2425,7 @@
     "text": "Maintaining historic book buildings indeed requires continuous funding for heating and print acquisitions.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Binasların bakım, ısıtma ve kitap alım masraflarının sürekli finansal yük yarattığını dürüstçe kabul etmektedir."
+    "why": "Binaların bakım, ısıtma ve kitap alım masraflarının sürekli finansal yük yarattığını dürüstçe kabul etmektedir."
    },
    {
     "sentence_index": 2,
@@ -2454,7 +2454,7 @@
   "id": "pxr058",
   "topic": "Ancient Architecture (Archaeology)",
   "paragraph_raw": "Many structural engineers state that ancient buildings were constructed without any mathematical plan. Early builders indeed worked with basic stone tools and lacked modern computerized structural design systems. New findings point the other way — historic temples incorporate incredibly precise geometric ratios in their layouts. For instance, the dimensions of several ancient stone temples exhibit full alignment with golden ratio proportions. Hence, ancient civilizations possessed a highly sophisticated and mathematically organized architectural science.",
-  "tr": "Birçok inşaat mühendisi, antik binaların herhangi bir matematiksel plan olmadan inşa edildiğini belirtmektedir. İlk inşaatçılar gerçekten de temel taş aletlerle çalışıyordu ve modern bilgisayarlı yapısal tasarım sistemlerinden yoksundu. Yeni bulgular ise başka bir noktaya işaret ediyor: tarihi tapınaklar yerleşim planlarında inanılmaz derecede hassas geometrik oranlar barındırır. Örneğin, bazı antik taş tapınakların boyutları altın oran oranlarıyla tam bir uyum sergilemektedir. Bu nedenle, antik uygarlıklar son derece gelişmiş ve matematiksel olarak organize edilmiş bir mimarlık bilimine sahipti.",
+  "tr": "Birçok inşaat mühendisi, antik binaların herhangi bir matematiksel plan olmadan inşa edildiğini belirtmektedir. İlk inşaatçılar gerçekten de temel taş aletlerle çalışıyordu ve modern bilgisayarlı yapısal tasarım sistemlerinden yoksundu. Yeni bulgular ise başka bir noktaya işaret ediyor: tarihi tapınaklar yerleşim planlarında inanılmaz derecede hassas geometrik oranlar barındırır. Örneğin, bazı antik taş tapınakların boyutları altın oran orantılarıyla tam bir uyum sergilemektedir. Bu nedenle, antik uygarlıklar son derece gelişmiş ve matematiksel olarak organize edilmiş bir mimarlık bilimine sahipti.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -2540,7 +2540,7 @@
   "id": "pxr060",
   "topic": "Vegetarian Diets (Nutrition)",
   "paragraph_raw": "Many standard doctors claim that vegetarian diets always fail to provide enough high quality protein. Eating only plant foods indeed makes it slightly harder to get some essential amino acids. Careful testing tells a different story — balanced plant diets easily meet all basic human daily protein requirements. A study of two hundred active athletes showed that plant eaters had excellent muscle recovery. The main takeaway is that a well planned plant diet is a very safe and healthy choice.",
-  "tr": "Çoğu geleneksel doktor, vejetaryen öğünlerin her zaman yeterli yüksek kaliteli protein sağlamada başarısız olduğunu varsayar. Sadece bitkisel gıdalarla beslenmek, bazı temel amino asitleri almayı gerçekten de biraz daha zorlaştırır. Dikkatli testler ise farklı bir hikaye anlatıyor: dengeli bitki diyetleri tüm temel günlük insan proteini ihtiyaçlarını kolayca karşılar. İki yüz aktif sporcu üzerinde yapılan bir araştırma, bitkiyle beslenenlerin mükemmel kas iyileşmesine sahip olduğunu gösterdi. Temel çıkarım, iyi planlanmış bir bitki diyetinin çok güvenli ve sağlıklı bir seçim olduğudur.",
+  "tr": "Çoğu geleneksel doktor, vejetaryen diyetlerin her zaman yeterli yüksek kaliteli protein sağlamada başarısız olduğunu varsayar. Sadece bitkisel gıdalarla beslenmek, bazı temel amino asitleri almayı gerçekten de biraz daha zorlaştırır. Dikkatli testler ise farklı bir hikaye anlatıyor: dengeli bitki diyetleri tüm temel günlük insan proteini ihtiyaçlarını kolayca karşılar. İki yüz aktif sporcu üzerinde yapılan bir araştırma, bitkiyle beslenenlerin mükemmel kas iyileşmesine sahip olduğunu gösterdi. Temel çıkarım, iyi planlanmış bir bitki diyetinin çok güvenli ve sağlıklı bir seçim olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -2583,7 +2583,7 @@
   "id": "pxr061",
   "topic": "Homework Value (Pedagogy)",
   "paragraph_raw": "Most school boards believe that daily homework is necessary for high academic success. Doing home study tasks indeed helps pupils memorize math equations and vocabulary. The opposite proves true: excessive homework increases stress levels and reduces childhood sleeping times. A study of four hundred students showed that those with less homework had higher attention levels. The main lesson is that moderate school preparation is better for long term child learning than heavy assignment sheets.",
-  "tr": "Çoğu okul aile birliği, yüksek akademik başarı için günlük ödevlerin gerekli olduğuna inanır. Evde çalışma görevleri yapmak, öğrencilerin matematik formüllerini ve kelimeleri ezberlemesine gerçekten de yardımcı olur. Oysa tam tersi gerçekleşir: aşırı ödev stres seviyelerini artırır ve çocukluk uyku sürelerini kısaltır. Dört yüz öğrenci üzerinde yapılan bir araştırma, daha az ödevi olanların daha yüksek odaklanma düzeylerine sahip olduğunu gösterdi. Temel ders, orta düzeyde okul hazırlığının çocukların uzun vadeli öğrenmesi için ağır ödev sayfalarından daha iyi olduğudur.",
+  "tr": "Çoğu okul kurulu, yüksek akademik başarı için günlük ödevlerin gerekli olduğuna inanır. Evde çalışma görevleri yapmak, öğrencilerin matematik formüllerini ve kelimeleri ezberlemesine gerçekten de yardımcı olur. Oysa tam tersi gerçekleşir: aşırı ödev stres seviyelerini artırır ve çocukluk uyku sürelerini kısaltır. Dört yüz öğrenci üzerinde yapılan bir araştırma, daha az ödevi olanların daha yüksek odaklanma düzeylerine sahip olduğunu gösterdi. Temel ders, orta düzeyde okul hazırlığının çocukların uzun vadeli öğrenmesi için ağır ödev sayfalarından daha iyi olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -2669,7 +2669,7 @@
   "id": "pxr063",
   "topic": "Remote Schooling (Education)",
   "paragraph_raw": "Many school directors assert that online study classes are incapable of providing a rigorous learning environment. Virtual meetings indeed struggle to replicate the active physical interactions of real playground spaces. A closer look shows that well designed digital courses offer highly customized study schedules for slow pupils. A project with thirty schools showed that adaptive virtual lessons increased student exam pass rates. Therefore, digital learning represents a highly valuable tool for modern educational systems.",
-  "tr": "Birçok okul yöneticisi, çevrim içi çalışma sınıflarının sıkı bir öğrenme ortamı sağlama konusunda yetersiz olduğunu iddia eder. Sanal toplantılar gerçekten de gerçek oyun alanı alanlarının aktif fiziksel etkileşimlerini kopyalamakta zorlanır. Daha yakından bakıldığında ise iyi tasarlanmış dijital derslerin yavaş öğrenen öğrenciler için son derece özelleştirilmiş çalışma programları sunduğu görülür. Otuz okulla yapılan bir proje, uyarlanabilir sanal derslerin öğrenci sınav geçme oranlarını artırdığını gösterdi. Bu nedenle, dijital öğrenme modern eğitim sistemleri için son derece değerli bir araç temsil eder.",
+  "tr": "Birçok okul yöneticisi, çevrim içi çalışma sınıflarının sıkı bir öğrenme ortamı sağlama konusunda yetersiz olduğunu iddia eder. Sanal toplantılar gerçekten de gerçek oyun alanlarının aktif fiziksel etkileşimlerini kopyalamakta zorlanır. Daha yakından bakıldığında ise iyi tasarlanmış dijital derslerin yavaş öğrenen öğrenciler için son derece özelleştirilmiş çalışma programları sunduğu görülür. Otuz okulla yapılan bir proje, uyarlanabilir sanal derslerin öğrenci sınav geçme oranlarını artırdığını gösterdi. Bu nedenle, dijital öğrenme modern eğitim sistemleri için son derece değerli bir araç temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3013,7 +3013,7 @@
   "id": "pxr071",
   "topic": "School Uniforms (Education)",
   "paragraph_raw": "Most school boards believe that forcing students to wear uniforms improves daily discipline. Wearing the same clothes indeed makes pupils look neat and organized in class. What actually happens is that letting children choose their outfits helps them develop personal identity and self-confidence. A project with five schools showed that students who wore free clothes felt much happier and participated more. The main lesson is that self-expression is more important for student development than strict dress rules.",
-  "tr": "Çoğu okul aile birliği, öğrencileri üniforma giymeye zorlamanın günlük disiplini artırdığına inanır. Aynı kıyafetleri giymek gerçekten de öğrencilerin sınıfta temiz ve düzenli görünmesini sağlar. Gerçekte olan ise çocukların kendi kıyafetlerini seçmelerine izin vermenin, kişisel kimlik ve öz güven geliştirmelerine yardımcı olduğudur. Beş okulla yapılan bir proje, serbest kıyafet giyen öğrencilerin çok daha mutlu hissettiklerini ve derslere daha fazla katıldıklarını gösterdi. Temel ders, kendini ifade etmenin öğrenci gelişimi için katı kıyafet kurallarından daha önemli olduğudur.",
+  "tr": "Çoğu okul kurulu, öğrencileri üniforma giymeye zorlamanın günlük disiplini artırdığına inanır. Aynı kıyafetleri giymek gerçekten de öğrencilerin sınıfta temiz ve düzenli görünmesini sağlar. Gerçekte olan ise çocukların kendi kıyafetlerini seçmelerine izin vermenin, kişisel kimlik ve öz güven geliştirmelerine yardımcı olduğudur. Beş okulla yapılan bir proje, serbest kıyafet giyen öğrencilerin çok daha mutlu hissettiklerini ve derslere daha fazla katıldıklarını gösterdi. Temel ders, kendini ifade etmenin öğrenci gelişimi için katı kıyafet kurallarından daha önemli olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3041,7 +3041,7 @@
     "text": "A project with five schools showed that students who wore free clothes felt much happier and participated more.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Beş okulda gerçekleştirilen serbest kıyafet uygulamasının olumlu katılım verilerini sunarak karşı tezi destekmektedir."
+    "why": "Beş okulda gerçekleştirilen serbest kıyafet uygulamasının olumlu katılım verilerini sunarak karşı tezi desteklemektedir."
    },
    {
     "sentence_index": 4,
@@ -3099,7 +3099,7 @@
   "id": "pxr073",
   "topic": "Urban Rooftop Gardens (Urban Agriculture)",
   "paragraph_raw": "Many real estate developers argue that building green rooftops only increases maintenance costs for building owners. Installing plant soil and water systems indeed demands significant initial investments and regular structural checks. The real picture is that rooftop gardens provide excellent building insulation and reduce monthly energy bills. For example, commercial buildings with green roofs reported a thirty percent drop in summer cooling expenses. Consequently, integrating rooftop gardens represents a highly profitable investment for modern green building designs.",
-  "tr": "Birçok gayrimenkul geliştiricisi, yeşil çatılar inşa etmenin bina sahipleri için yalnızca bakım maliyetlerini artırdığını savunur. Bitki toprağı ve su sistemleri kurmak gerçekten de önemli başlangıç yatırımları ve düzenli yapısal kontroller gerektirir. Gerçek tablo ise çatı bahçelerinin mükemmel bir bina yalıtımı sağladığı ve aylık enerji faturalarını düşürdüğüdür. Örneğin, yeşil çatılı ticari binalar yazlık soğutma giderlerinde yüzde otuzluk bir düşüş bildirdi. Sonuç olarak, çatı bahçelerini entegre etmek modern yeşil bina tasarımları için son derece karlı bir yatırımı temsil eder.",
+  "tr": "Birçok gayrimenkul geliştiricisi, yeşil çatılar inşa etmenin bina sahipleri için yalnızca bakım maliyetlerini artırdığını savunur. Bitki toprağı ve su sistemleri kurmak gerçekten de önemli başlangıç yatırımları ve düzenli yapısal kontroller gerektirir. Gerçek tablo ise çatı bahçelerinin mükemmel bir bina yalıtımı sağladığı ve aylık enerji faturalarını düşürdüğüdür. Örneğin, yeşil çatılı ticari binalar yaz aylarındaki soğutma giderlerinde yüzde otuzluk bir düşüş bildirdi. Sonuç olarak, çatı bahçelerini entegre etmek modern yeşil bina tasarımları için son derece karlı bir yatırımı temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3285,7 +3285,7 @@
     "text": "Installing large modern statues indeed requires significant funding and demands constant cleaning fees.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Heykellerin kurulum ve sürekli temizlik, bakım masraflarının belediyeye doğrudan doğrudan yük getirdiğini dürüstçe kabul eder."
+    "why": "Heykellerin kurulum ve sürekli temizlik, bakım masraflarının belediyeye doğrudan yük getirdiğini dürüstçe kabul eder."
    },
    {
     "sentence_index": 2,
@@ -3314,7 +3314,7 @@
   "id": "pxr078",
   "topic": "Zoo Conservation (Ecology)",
   "paragraph_raw": "Many animal rights advocates claim that keeping wild creatures in public zoos carries no ecological conservation value. Locking animals in small cages indeed prevents them from hunting and limits natural family formations. New findings point the other way — modern zoos support vital genetic research and save endangered species from extinction. For instance, global breeding programs helped restore endangered tiger populations by thirty percent over twenty years. Therefore, structured zoological facilities represent essential tools to protect endangered global biodiversity.",
-  "tr": "Birçok hayvan hakları savunucusu, vahşi canlıları halka açık hayvanat bahçelerinde tutmanın hiçbir ekolojik koruma değeri taşımadığını iddia eder. Hayvanları küçük kafeslere kilitlemek gerçekten de onların avlanmalarını engeller ve doğal aile oluşumlarını sınırlar. Yeni bulgular ise başka bir noktaya işaret ediyor: modern hayvanat bahçeleri hayati genetik araştırmaları destekler ve nesli tükenmekte olan türleri yok olmaktan kurtarır. Örneğin, küresel üreme programları nesli tükenmekte olan kaplan nüfusunu yirmi yılda yüzde otuz oranında geri kazandırmaya yardımcı oldu. Bu nedenle, yapılandırılmış hayvanat bahçe tesisleri küresel biyolojik çeşitliliği korumak için temel araçları temsil eder.",
+  "tr": "Birçok hayvan hakları savunucusu, vahşi canlıları halka açık hayvanat bahçelerinde tutmanın hiçbir ekolojik koruma değeri taşımadığını iddia eder. Hayvanları küçük kafeslere kilitlemek gerçekten de onların avlanmalarını engeller ve doğal aile oluşumlarını sınırlar. Yeni bulgular ise başka bir noktaya işaret ediyor: modern hayvanat bahçeleri hayati genetik araştırmaları destekler ve nesli tükenmekte olan türleri yok olmaktan kurtarır. Örneğin, küresel üreme programları nesli tükenmekte olan kaplan nüfusunu yirmi yılda yüzde otuz oranında geri kazandırmaya yardımcı oldu. Bu nedenle, yapılandırılmış hayvanat bahçesi tesisleri küresel biyolojik çeşitliliği korumak için temel araçları temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3357,7 +3357,7 @@
   "id": "pxr079",
   "topic": "Cow Milk vs Plant Milk (Nutrition)",
   "paragraph_raw": "Many school dietitians believe that drinking cow milk is necessary for building strong childhood bones. Standard animal dairy indeed provides high amounts of daily calcium and primary vitamin D. The real picture is that calcium rich plant milk has equal bone development value and lower cholesterol. For example, children raised on soy and almond milk showed zero differences in average joint and bone density tests. Consequently, balanced plant milk represents an excellent healthy dairy alternative for growing children.",
-  "tr": "Birçok okul diyetisyeni, güçlü çocukluk kemikleri oluşturmak için inek sütü içmenin gerekli olduğuna inanır. Standart hayvansal süt ürünleri gerçekten de yüksek miktarda günlük kalsiyum ve birincil D vitamini sağlar. Gerçek tablo ise kalsiyum açısından zengin bitki sütlerinin eşit kemik gelişim değerine ve daha düşük kolesterole sahip olduğudur. Örneğin, soya ve badem sütüyle büyüyen çocuklar, ortalama eklem ve kemik yoğunluğu testlerinde sıfır fark gösterdi. Sonuç olarak, dengeli bitki sütleri büyüyen çocuklar için mükemmel bir sağlıklı süt alternatifi temsil eder.",
+  "tr": "Birçok okul diyetisyeni, güçlü çocukluk kemikleri oluşturmak için inek sütü içmenin gerekli olduğuna inanır. Standart hayvansal süt ürünleri gerçekten de yüksek miktarda günlük kalsiyum ve başlıca D vitamini sağlar. Gerçek tablo ise kalsiyum açısından zengin bitki sütlerinin eşit kemik gelişim değerine ve daha düşük kolesterole sahip olduğudur. Örneğin, soya ve badem sütüyle büyüyen çocuklar, ortalama eklem ve kemik yoğunluğu testlerinde sıfır fark gösterdi. Sonuç olarak, dengeli bitki sütleri büyüyen çocuklar için mükemmel bir sağlıklı süt alternatifi temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3443,7 +3443,7 @@
   "id": "pxr081",
   "topic": "School Uniforms (Education)",
   "paragraph_raw": "Most school boards believe that forcing students to wear uniforms improves daily discipline. Wearing the same clothes indeed makes pupils look neat and organized in class. School project results show that letting children choose their outfits helps them develop personal identity and self-confidence. A project with five schools showed that students who wore free clothes felt much happier and participated more. The main lesson is that self-expression is more important for student development than strict dress rules.",
-  "tr": "Çoğu okul aile birliği, öğrencileri üniforma giymeye zorlamanın günlük disiplini artırdığına inanır. Aynı kıyafetleri giymek gerçekten de öğrencilerin sınıfta temiz ve düzenli görünmesini sağlar. Okul projesi sonuçları ise çocukların kendi kıyafetlerini seçmelerine izin vermenin kişisel kimlik ve öz güven geliştirmelerine yardımcı olduğunu gösteriyor. Beş okulla yapılan bir proje, serbest kıyafet giyen öğrencilerin çok daha mutlu hissettiklerini ve derslere daha fazla katıldıklarını gösterdi. Temel ders, kendini ifade etmenin öğrenci gelişimi için katı kıyafet kurallarından daha önemli olduğudur.",
+  "tr": "Çoğu okul kurulu, öğrencileri üniforma giymeye zorlamanın günlük disiplini artırdığına inanır. Aynı kıyafetleri giymek gerçekten de öğrencilerin sınıfta temiz ve düzenli görünmesini sağlar. Okul projesi sonuçları ise çocukların kendi kıyafetlerini seçmelerine izin vermenin kişisel kimlik ve öz güven geliştirmelerine yardımcı olduğunu gösteriyor. Beş okulla yapılan bir proje, serbest kıyafet giyen öğrencilerin çok daha mutlu hissettiklerini ve derslere daha fazla katıldıklarını gösterdi. Temel ders, kendini ifade etmenin öğrenci gelişimi için katı kıyafet kurallarından daha önemli olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3872,8 +3872,8 @@
  {
   "id": "pxr091",
   "topic": "Electric Cars (Technology)",
-  "paragraph_raw": "Many transport engineers claim that shifting entirely to electric cars quickly eliminates urban carbon footprints. Manufacturing electric engines indeed reduces tailpipe emissions to zero in high density areas. Careful testing tells a different story about the huge pollution produced during battery production. A lifecycle analysis showed that building electric cars creates sixty percent more carbon than standard vehicles. Consequently, solving climate change requires a wider mix of clean transport options.",
-  "tr": "Birçok ulaşım mühendisi, tamamen elektrikli arabalara geçişin şehirlerdeki karbon ayak izini hızla ortadan kaldıracağını iddia eder. Elektrikli motorlar üretmek, gerçekten de nüfusun yoğun olduğu bölgelerdeki egzoz emisyonlarını sıfıra indirir. Dikkatli testler ise batarya üretimi sırasında ortaya çıkan devasa kirlilik hakkında farklı bir hikaye anlatıyor. Bir yaşam döngüsü analizi, elektrikli araba üretmenin standart araçlara göre yüzde altmış daha fazla karbon yarattığını gösterdi. Sonuç olarak, iklim değişikliğini çözmek daha geniş bir temiz ulaşım seçenekleri karışımı gerektirir.",
+  "paragraph_raw": "Many transport engineers claim that shifting entirely to electric cars quickly eliminates urban carbon footprints. Using electric engines indeed reduces tailpipe emissions to zero in high density areas. Careful testing tells a different story about the huge pollution produced during battery production. A lifecycle analysis showed that building electric cars creates sixty percent more carbon than standard vehicles. Consequently, solving climate change requires a wider mix of clean transport options.",
+  "tr": "Birçok ulaşım mühendisi, tamamen elektrikli arabalara geçişin şehirlerdeki karbon ayak izini hızla ortadan kaldıracağını iddia eder. Elektrikli motorlar kullanmak, gerçekten de nüfusun yoğun olduğu bölgelerdeki egzoz emisyonlarını sıfıra indirir. Dikkatli testler ise batarya üretimi sırasında ortaya çıkan devasa kirlilik hakkında farklı bir hikaye anlatıyor. Bir yaşam döngüsü analizi, elektrikli araba üretmenin standart araçlara göre yüzde altmış daha fazla karbon yarattığını gösterdi. Sonuç olarak, iklim değişikliğini çözmek daha geniş bir temiz ulaşım seçenekleri karışımı gerektirir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3884,7 +3884,7 @@
    },
    {
     "sentence_index": 1,
-    "text": "Manufacturing electric engines indeed reduces tailpipe emissions to zero in high density areas.",
+    "text": "Using electric engines indeed reduces tailpipe emissions to zero in high density areas.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
     "why": "Elektrikli motorların egzoz emisyonlarını sıfırlama gücünü ve yerel hava kalitesine katkısını dürüstçe kabul eder."
@@ -3916,7 +3916,7 @@
   "id": "pxr092",
   "topic": "Genetically Modified Foods (Agriculture)",
   "paragraph_raw": "Many standard biologists claim that growing genetically modified food is dangerous for natural environments. Modifying seed DNA indeed creates super weeds that are hard to destroy with common farming chemicals. The real picture is that laboratory seeds require fewer dangerous pesticides and protect local soil health. A regional study found that biotechnology farms used forty percent less spray over five harvest seasons. Therefore, modern genetic engineering represents a useful tool to reduce classic chemical usage in global farming.",
-  "tr": "Birçok standart biyolog, genetiği değiştirilmiş gıdalar yetiştirmenin doğal çevre için tehlikeli olduğunu iddia eder. Tohum DNA'sını değiştirmek gerçekten de yaygın tarım kimyasallarıyla yok edilmesi zor olan süper yabani otlar yaratır. Gerçek tablo ise laboratuvar tohumlarının daha az tehlikeli tarım ilacı gerektirdiği ogelişmiş toprak sağlığını koruduğudur. Bölgesel bir çalışma, biyoteknoloji çiftliklerinin beş hasat sezonu boyunca yüzde kırk daha az ilaç kullandığını buldu. Bu nedenle, modern genetik mühendisliği küresel tarımda klasik kimyasal kullanımını azaltmak için faydalı bir araç temsil eder.",
+  "tr": "Birçok standart biyolog, genetiği değiştirilmiş gıdalar yetiştirmenin doğal çevre için tehlikeli olduğunu iddia eder. Tohum DNA'sını değiştirmek gerçekten de yaygın tarım kimyasallarıyla yok edilmesi zor olan süper yabani otlar yaratır. Gerçek tablo ise laboratuvar tohumlarının daha az tehlikeli tarım ilacı gerektirdiği ve yerel toprak sağlığını koruduğudur. Bölgesel bir çalışma, biyoteknoloji çiftliklerinin beş hasat sezonu boyunca yüzde kırk daha az ilaç kullandığını buldu. Bu nedenle, modern genetik mühendisliği küresel tarımda klasik kimyasal kullanımını azaltmak için faydalı bir araç temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -3973,7 +3973,7 @@
     "text": "Digital screens indeed allow readers to carry thousands of interactive novels and search for definitions instantly.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Ekranların binlerce kitabı taşıma ve anlık arama yapabilme gibi pratik pratik faydalarını kabul eder."
+    "why": "Ekranların binlerce kitabı taşıma ve anlık arama yapabilme gibi pratik faydalarını kabul eder."
    },
    {
     "sentence_index": 2,
@@ -4002,7 +4002,7 @@
   "id": "pxr094",
   "topic": "Exercise and Memory (Cognitive Science)",
   "paragraph_raw": "Most athletes believe that intensive strength lifting is the only active way to improve overall brain performance. Heavy weight lifting indeed raises blood oxygen levels and supports muscle growth very effectively. Detailed statistics show a different trend: slow aerobic walking triggers much higher growth in brain memory centers. A clinical test showed that older people who walked slowly for fifteen minutes before sleeping reported a much deeper rest. The main takeaway is that light regular exercise supports long-term mental health better than heavy lifting.",
-  "tr": "Çoğu sporcu, yoğun kuvvet kaldırmanın genel beyin performansını iyileştirmenin tek aktif yolu olduğuna inanır. Ağır ağırlık kaldırmak gerçekten de kan oksijen seviyelerini yükseltir ve kas büyümesini çok etkili bir şekilde destekler. Detaylı istatistikler ise farklı bir eğilim gösteriyor: yavaş aerobik yürüyüş, beyin hafıza merkezlerinde çok daha yüksek bir büyüme tetikler. Klinik bir test, yatmadan önce on breaths dakika yavaş tempo yürüyüş yapan yaşlı bireylerin çok daha derin bir dinlenme bildirdiğini gösterdi. Temel çıkarım, hafif düzenli egzersizin uzun vadeli zihin sağlığını ağır kaldırmadan daha iyi desteklediğidir.",
+  "tr": "Çoğu sporcu, yoğun kuvvet kaldırmanın genel beyin performansını iyileştirmenin tek aktif yolu olduğuna inanır. Ağır ağırlık kaldırmak gerçekten de kan oksijen seviyelerini yükseltir ve kas büyümesini çok etkili bir şekilde destekler. Detaylı istatistikler ise farklı bir eğilim gösteriyor: yavaş aerobik yürüyüş, beyin hafıza merkezlerinde çok daha yüksek bir büyüme tetikler. Klinik bir test, yatmadan önce on beş dakika yavaş tempo yürüyüş yapan yaşlı bireylerin çok daha derin bir dinlenme bildirdiğini gösterdi. Temel çıkarım, hafif düzenli egzersizin uzun vadeli zihin sağlığını ağır kaldırmadan daha iyi desteklediğidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -4131,7 +4131,7 @@
   "id": "pxr097",
   "topic": "Foreign Language in Primary School (Education)",
   "paragraph_raw": "Most school boards believe that starting foreign language lessons in primary school only confuses young children. Teaching grammar rules to six year old kids indeed makes it difficult for them to write their native language well. New findings point the other way — young children pick up foreign languages naturally through active play and musical songs. A study showed that early learners developed much wider native and foreign vocabulary sizes within two years. The main takeaway is that playful language lessons support cognitive development during early school years.",
-  "tr": "Çoğu okul aile birliği, ilkokulda yabancı dil derslerine başlamanın yalnızca küçük çocukların kafasını karıştırdığına inanır. Altı yaşındaki çocuklara dil bilgisi kuralları öğretmek, ana dillerini iyi yazmalarını gerçekten de zorlaştırır. Yeni bulgular ise başka bir noktaya işaret ediyor: küçük çocuklar yabancı dilleri aktif oyunlar ve müzikli şarkılar yoluyla doğal olarak kaparlar. Bir araştırma, erken yaşta öğrenenlerin iki yıl içinde çok daha geniş ana dil ve yabancı dil kelime hazinesi geliştirdiğini gösterdi. Temel çıkarım, eğlenceli dil derslerinin erken okul yıllarında bilişsel gelişimi desteklediğidir.",
+  "tr": "Çoğu okul kurulu, ilkokulda yabancı dil derslerine başlamanın yalnızca küçük çocukların kafasını karıştırdığına inanır. Altı yaşındaki çocuklara dil bilgisi kuralları öğretmek, ana dillerini iyi yazmalarını gerçekten de zorlaştırır. Yeni bulgular ise başka bir noktaya işaret ediyor: küçük çocuklar yabancı dilleri aktif oyunlar ve müzikli şarkılar yoluyla doğal olarak kaparlar. Bir araştırma, erken yaşta öğrenenlerin iki yıl içinde çok daha geniş ana dil ve yabancı dil kelime hazinesi geliştirdiğini gösterdi. Temel çıkarım, eğlenceli dil derslerinin erken okul yıllarında bilişsel gelişimi desteklediğidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -4224,7 +4224,7 @@
     "text": "Many social workers believe that growing tourism always destroys the original traditions of small local communities.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
-    "why": "Sosyologların turizmin yerel köylerdeki geleneksel kültüre kaçınılmaz olarak zarar vereceğine yönelik yaygın sosyolojik kaygısını sunar."
+    "why": "Sosyal hizmet uzmanlarının turizmin yerel köylerdeki geleneksel kültüre kaçınılmaz olarak zarar vereceğine yönelik yaygın sosyolojik kaygısını sunar."
    },
    {
     "sentence_index": 1,
@@ -4510,7 +4510,7 @@
     "text": "Consequently, using soft instrumental songs is an effective method to improve academic productivity.",
     "role": "conclusion",
     "display_role": "Sentez (Sonuç)",
-    "why": "Melodi takip yükü ile dış gürültüyü maskeleme ogünlük soru çözme verilerini sentezleyerek klasik müziğin ders çalışmadaki rolünü bağlar."
+    "why": "Melodi takip yükü ile dış gürültüyü maskeleme ve hızlı soru çözme verilerini sentezleyerek klasik müziğin ders çalışmadaki rolünü bağlar."
    }
   ]
  },
@@ -4518,7 +4518,7 @@
   "id": "pxr106",
   "topic": "Social Media and Youth (Sociology)",
   "paragraph_raw": "Many social workers argue that spending time on social media platforms always isolates modern teenagers. Creating a virtual online life indeed cuts down the hours young people spend in face to face meetings. Sociological evaluations complicate this view — digital spaces allow lonely teenagers to discover supportive friends and communities. A sociological study found that quiet teenagers felt forty percent more connected after joining online interest groups. Therefore, digital connection represents a useful tool to help young people build their social skills.",
-  "tr": "Birçok sosyal hizmet uzmanı, sosyal medya platformlarında zaman geçirmenin modern gençleri her zaman izole ettiğini savunun. Sanal bir çevrim içi yaşam oluşturmak, gençlerin yüz yüze görüşmelerde geçirdikleri saatleri gerçekten de azaltır. Sosyolojik değerlendirmeler ise bu görüşü karmaşıklaştırıyor: dijital alanlar yalnız gençlerin destekleyici arkadaşlar ve topluluklar keşfetmesine olanak tanır. Sosyolojik bir araştırma, sessiz gençlerin çevrim içi ilgi gruplarına katıldıktan sonra kendilerini yüzde kırk daha bağlı hissettiklerini buldu. Bu nedenle, dijital bağlantı gençlerin sosyal becerilerini geliştirmelerine yardımcı olmak için faydalı bir araç temsil eder.",
+  "tr": "Birçok sosyal hizmet uzmanı, sosyal medya platformlarında zaman geçirmenin modern gençleri her zaman izole ettiğini savunur. Sanal bir çevrim içi yaşam oluşturmak, gençlerin yüz yüze görüşmelerde geçirdikleri saatleri gerçekten de azaltır. Sosyolojik değerlendirmeler ise bu görüşü karmaşıklaştırıyor: dijital alanlar yalnız gençlerin destekleyici arkadaşlar ve topluluklar keşfetmesine olanak tanır. Sosyolojik bir araştırma, sessiz gençlerin çevrim içi ilgi gruplarına katıldıktan sonra kendilerini yüzde kırk daha bağlı hissettiklerini buldu. Bu nedenle, dijital bağlantı gençlerin sosyal becerilerini geliştirmelerine yardımcı olmak için faydalı bir araç temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -4754,7 +4754,7 @@
     "text": "Literary testing complicates this view — active reading of narrative stories directly develops social empathy and emotional intelligence.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
-    "why": "Kurgusal anlatıların okuyucuda empati, empati kurma gücü ve duygusal zekayı doğrudan artırdığını savunarak yön değiştirir."
+    "why": "Kurgusal anlatıların okuyucuda empati kurma gücü ve duygusal zekayı doğrudan artırdığını savunarak yön değiştirir."
    },
    {
     "sentence_index": 3,
@@ -4776,7 +4776,7 @@
   "id": "pxr112",
   "topic": "Coding in Schools (Education)",
   "paragraph_raw": "Many computer teachers argue that starting software coding lessons in elementary schools is too difficult for kids. Teaching syntax rules to ten year old pupils indeed causes frustration during homework cycles. Detailed statistics show a different trend: visual blocks and simple block games help kids build strong logical thinking easily. An educational project with five schools showed that young coders scored thirty percent higher in standard math tests. Consequently, computer coding serves as a highly helpful language to prepare children for scientific challenges.",
-  "tr": "Birçok bilgisayar öğretmeni, ilkokullarda yazılım kodlama derslerine başlamanın çocuklar için çok zor olduğunu savunur. On yaşındaki öğrencilere söz dizimi kurallarını öğretmek, ev ödevi döngüleri sırasında gerçekten de hayal kırıklığına neden olur. Detaylı istatistikler ise farklı bir eğilim gösteriyor: görsel bloklar ve basit blok oyunları, çocukların kolayca güçlü mantıksal düşünme kurmalarına yardımcı olur. Beş okulla yürütülen bir eğitim projesi, genç kodlayıcıların standart matematik testlerinde yüzde otuz daha yüksek puan aldığını gösterdi. Sonuç olarak, bilgisayar kodlama çocukları bilimsel zorluklara hazırlamak için son derece yardımcı bir dil görevi görür.",
+  "tr": "Birçok bilgisayar öğretmeni, ilkokullarda yazılım kodlama derslerine başlamanın çocuklar için çok zor olduğunu savunur. On yaşındaki öğrencilere söz dizimi kurallarını öğretmek, ev ödevi döngüleri sırasında gerçekten de hayal kırıklığına neden olur. Detaylı istatistikler ise farklı bir eğilim gösteriyor: görsel bloklar ve basit blok oyunları, çocukların kolayca güçlü mantıksal düşünme geliştirmelerine yardımcı olur. Beş okulla yürütülen bir eğitim projesi, genç kodlayıcıların standart matematik testlerinde yüzde otuz daha yüksek puan aldığını gösterdi. Sonuç olarak, bilgisayar kodlama çocukları bilimsel zorluklara hazırlamak için son derece yardımcı bir dil görevi görür.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -4883,7 +4883,7 @@
     "text": "The opposite proves true: digital cashless databases drastically reduce tax avoidance and lower bank management fees.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
-    "why": "Dijital kayıtların vergi kaçaklarını azalttığını ogirişimci tasarruflarını artırdığını savunarak geleneksel endişelere karşı çıkar."
+    "why": "Dijital kayıtların vergi kaçaklarını azalttığını ve bankacılık maliyet tasarruflarını artırdığını savunarak geleneksel endişelere karşı çıkar."
    },
    {
     "sentence_index": 3,
@@ -4904,12 +4904,12 @@
  {
   "id": "pxr115",
   "topic": "Art Education (Pedagogy)",
-  "paragraph_raw": "Most school managers assume that having art education lessons in high school schedules waste student study hours. Forcing teenagers to paint canvases indeed cuts down the hours they spend preparing for science university exams. New findings point the other way — creative art classes develop advanced visual thinking and emotional wellness. An education study of three hundred students showed that art lessons reduced school stress and improved math focus. The main takeaway is that painting classes support general student academic output.",
+  "paragraph_raw": "Most school managers assume that having art education lessons in high school schedules wastes student study hours. Forcing teenagers to paint canvases indeed cuts down the hours they spend preparing for science university exams. New findings point the other way — creative art classes develop advanced visual thinking and emotional wellness. An education study of three hundred students showed that art lessons reduced school stress and improved math focus. The main takeaway is that painting classes support general student academic output.",
   "tr": "Çoğu okul yöneticisi, lise programlarında sanat eğitimi derslerine yer vermenin öğrencilerin çalışma saatlerini boşa harcadığını varsayar. Gençleri tuval boyamaya zorlamak, fen üniversitesi sınavlarına hazırlanmak için harcadıkları saatleri gerçekten de azaltır. Yeni bulgular ise başka bir noktaya işaret ediyor: yaratıcı sanat dersleri gelişmiş görsel düşünmeyi ve duygusal sağlığı geliştirir. Üç yüz öğrenci üzerinde yapılan bir eğitim araştırması, sanat derslerinin okul stresini azalttığını ve matematik odaklanmasını iyileştirdiğini gösterdi. Temel çıkarım, resim derslerinin genel öğrenci akademik çıktısını desteklediğidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
-    "text": "Most school managers assume that having art education lessons in high school schedules waste student study hours.",
+    "text": "Most school managers assume that having art education lessons in high school schedules wastes student study hours.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
     "why": "Yöneticilerin resim ve sanat derslerinin öğrencileri üniversite sınavı gibi asıl derslerden uzaklaştıran bir zaman kaybı olduğuna dair inancını sunar."
@@ -4991,7 +4991,7 @@
   "id": "pxr117",
   "topic": "Noise Pollution (Environmental Health)",
   "paragraph_raw": "Many factory owners believe that urban traffic noise only causes minor temporary hearing problems. Spending working hours near noisy roads indeed leads to slight ear tiredness that disappears after a quiet sleep. The real picture is that constant noise elevates blood pressure and raises heart attack risk rates. An environmental study of six hundred citizens showed that traffic noise increased cardiovascular diseases by thirty percent. Consequently, reducing urban decibel levels is a necessary strategy to protect public heart health.",
-  "tr": "Birçok fabrika sahibi, gürültünün yalnızca geçici kulak yorgunluğu yarattığına inanır. Gürültülü yolların yakınında çalışma saatleri geçirmek, gerçekten de sakin bir uykudan sonra ortadan kalkan hafif kulak yorgunluğuna yol açar. Gerçek tablo ise sürekli gürültünün kan basıncını yükselttiği ve kalp krizi risk oranlarını artırdığıdır. Altı yüz vatandaş üzerinde yapılan bir çevre araştırması, gürültünün kardiyovasküler hastalıkları yüzde otuz oranında artırdığını gösterdi. Sonuç olarak, kentsel desibel seviyelerini düşürmek halkın kalp sağlığını korumak için gerekli bir stratejidir.",
+  "tr": "Birçok fabrika sahibi, kentsel trafik gürültüsünün yalnızca küçük, geçici işitme sorunlarına yol açtığına inanır. Gürültülü yolların yakınında çalışma saatleri geçirmek, gerçekten de sakin bir uykudan sonra ortadan kalkan hafif kulak yorgunluğuna yol açar. Gerçek tablo ise sürekli gürültünün kan basıncını yükselttiği ve kalp krizi risk oranlarını artırdığıdır. Altı yüz vatandaş üzerinde yapılan bir çevre araştırması, gürültünün kardiyovasküler hastalıkları yüzde otuz oranında artırdığını gösterdi. Sonuç olarak, kentsel desibel seviyelerini düşürmek halkın kalp sağlığını korumak için gerekli bir stratejidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -5421,7 +5421,7 @@
   "id": "pxr127",
   "topic": "Zoo Conservation (Biology)",
   "paragraph_raw": "Most animal lovers argue that keeping wild animals in zoos is always a harmful and useless practice. Living in small locked enclosures indeed limits natural movement and causes high stress for some large mammals. Local conservation programs inside modern zoos actually help save endangered species from complete extinction in the wild. A biological study of twenty zoos showed that captive breeding successfully raised local bird and turtle populations. The main lesson is that certified wildlife centers are helpful conservation partners rather than simple public entertainment venues.",
-  "tr": "Çoğu hayvansever, vahşi hayvanları hayvanat bahçelerinde tutmanın her zaman zararlı ve faydasız bir uygulama olduğunu savunur. Küçük kilitli kafeslerde yaşamak gerçekten de doğal hareketi kısıtlar ve bazı büyük memeliler için yüksek strese neden olur. Modern hayvanat bahçelerindeki yerel koruma programları ise nesli tükenmekte olan türlerin doğada tamamen yok olmasını engellemeye aslında yardımcı olur. Yirmi hayvanat bahçesini kapsayan biyolojik bir çalışma, koruma altındaki üremenin yerel kuş ve kaplumbağa popülasyonlarını başarıyla artırdığını gösterdi. Temel ders, sertifikalı yaban hayatı merkezlerinin basit halk eğlence mekanlarından ziyade faydalı koruma ortakları olduğudur.",
+  "tr": "Çoğu hayvansever, vahşi hayvanları hayvanat bahçelerinde tutmanın her zaman zararlı ve faydasız bir uygulama olduğunu savunur. Küçük kilitli kafeslerde yaşamak gerçekten de doğal hareketi kısıtlar ve bazı büyük memeliler için yüksek strese neden olur. Modern hayvanat bahçelerindeki yerel koruma programları ise nesli tükenmekte olan türlerin doğada tamamen yok olmasını engellemeye aslında yardımcı olur. Yirmi hayvanat bahçesini kapsayan biyolojik bir çalışma, esaret altında üremenin yerel kuş ve kaplumbağa popülasyonlarını başarıyla artırdığını gösterdi. Temel ders, sertifikalı yaban hayatı merkezlerinin basit halk eğlence mekanlarından ziyade faydalı koruma ortakları olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -5593,7 +5593,7 @@
   "id": "pxr131",
   "topic": "Reading Habits (Media Studies)",
   "paragraph_raw": "Many digital promoters assert that reading e-books completely replaces the cognitive experience of paper books. Admittedly, digital screens allow readers to carry thousands of interactive novels and search for definitions instantly. Paper books, rather than digital screens, continue to support much deeper reading comprehension and information recall. A testing project with two hundred students showed that print readers scored thirty percent higher on detailed narrative comprehension. Consequently, physical books remain a vital tool for deep academic development and long term memory.",
-  "tr": "Birçok dijital destekçi, e-kitap okumanın basılı kitapların bilişsel deneyiminin yerini tamamen aldığını iddia etmektedir. Şüphesiz, dijital ekranlar okuyucuların binlerce etkileşimli romanı taşımasına ve tanımları anında aramasına olanak tanır. Basılı kitaplar ise dijital ekranlar yerine çok daha derin okuma kavrayışını ve bilgi hatırlamayı desteklemeye devam etmektedir. İki yüz öğrenciyle yapılan bir test projesi, basılı materyal okuyanların ayrıntılı anlatı kavrayışında yüzde otuz daha yüksek puan aldığını gösterdi. Sonuç olarak, fiziksel kitaplar derin akademik gelişim ve uzun vadeli hafıza için hayati bir araç olmaya devam etmektedir.",
+  "tr": "Birçok dijital destekçi, e-kitap okumanın basılı kitapların bilişsel deneyiminin yerini tamamen aldığını iddia etmektedir. Kabul etmek gerekir ki, dijital ekranlar okuyucuların binlerce etkileşimli romanı taşımasına ve tanımları anında aramasına olanak tanır. Basılı kitaplar ise dijital ekranlar yerine çok daha derin okuma kavrayışını ve bilgi hatırlamayı desteklemeye devam etmektedir. İki yüz öğrenciyle yapılan bir test projesi, basılı materyal okuyanların ayrıntılı anlatı kavrayışında yüzde otuz daha yüksek puan aldığını gösterdi. Sonuç olarak, fiziksel kitaplar derin akademik gelişim ve uzun vadeli hafıza için hayati bir araç olmaya devam etmektedir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -5736,7 +5736,7 @@
     "text": "Spraying synthetic chemical powders indeed kills harmful bugs quickly and secures massive harvest sizes during summer.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Sentetik ilaç püskürtmenin böcekleri hızla temizleme ve yazlık verimi koruma başarısını dürüstçe kabul eder."
+    "why": "Sentetik ilaç püskürtmenin böcekleri hızla temizleme ve yaz verimini koruma başarısını dürüstçe kabul eder."
    },
    {
     "sentence_index": 2,
@@ -5808,7 +5808,7 @@
   "id": "pxr136",
   "topic": "Zoo Conservation (Biology)",
   "paragraph_raw": "Most environmental advocates argue that keeping wild predators in zoos is always a cruel and useless practice. Keeping large lions in concrete pens indeed limits active natural behaviors and causes significant stress over years. Wildlife breeding centers inside certified zoos actually save rare animals from total extinction in dangerous forests. A biological study of thirty modern zoos showed that captive breeding successfully raised local turtle and tiger numbers. The main lesson is that regulated animal parks are critical rescue partners rather than basic entertainment spaces.",
-  "tr": "Çoğu çevre savunucusu, vahşi yırtıcıları hayvanat bahçelerinde tutmanın her zaman zalimce ve faydasız bir uygulama olduğunu savunur. Büyük aslanları beton kafeslerde tutmak gerçekten de aktif doğal davranışları kısıtlar ve yıllar boyunca önemli strese neden olur. Sertifikalı hayvanat bahçelerindeki yaban hayatı üreme merkezleri ise nadir hayvanları tehlikeli ormanlarda tamamen yok olmaktan aslında kurtarır. Otuz modern hayvanat bahçesini kapsayan biyolojik bir çalışma, koruma altındaki üremenin yerel kaplumbağa ve kaplan sayılarını başarıyla artırdığını gösterdi. Temel ders, denetlenen hayvan parklarının basit eğlence alanlarından ziyade kritik kurtarma ortakları olduğudur.",
+  "tr": "Çoğu çevre savunucusu, vahşi yırtıcıları hayvanat bahçelerinde tutmanın her zaman zalimce ve faydasız bir uygulama olduğunu savunur. Büyük aslanları beton kafeslerde tutmak gerçekten de aktif doğal davranışları kısıtlar ve yıllar boyunca önemli strese neden olur. Sertifikalı hayvanat bahçelerindeki yaban hayatı üreme merkezleri ise nadir hayvanları tehlikeli ormanlarda tamamen yok olmaktan aslında kurtarır. Otuz modern hayvanat bahçesini kapsayan biyolojik bir çalışma, esaret altında üremenin yerel kaplumbağa ve kaplan sayılarını başarıyla artırdığını gösterdi. Temel ders, denetlenen hayvan parklarının basit eğlence alanlarından ziyade kritik kurtarma ortakları olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -6238,7 +6238,7 @@
   "id": "pxr146",
   "topic": "Remote Work (Sociology)",
   "paragraph_raw": "Most company managers assume that letting staff work from home reduces overall project cooperation. Chatting online on screen platforms indeed cannot replace the warm feeling of sharing office desks. Shared online platforms, not physical office meetings, turn out to keep remote teams highly united and efficient. A business survey of forty remote companies showed that software projects were completed much faster. The main lesson is that clear common goals are more important for team success than shared office spaces.",
-  "tr": "Çoğu şirket yöneticisi, personelin evden çalışmasına izin vermenin genel proje iş birliğini azalttığını varsayar. Ekran platformlarında çevrim içi sohbet etmek gerçekten de ofis masalarını paylaşmanın samimi hissinin yerini alamaz. Fiziksel ofis toplantıları yerine paylaşılan çevrim içi platformlar, uzaktan çalışan ekipleri son derece bir arada ve verimli tutmaktadır. Kırk uzaktan çalışan şirketi kapsayan bir iş anket çalışması, yazılım projelerinin çok daha hızlı tamamlandığını gösterdi. Temel ders, net ortak hedeflerin ekip başarısı için paylaşılan ofis alanlarından daha önemli olduğudur.",
+  "tr": "Çoğu şirket yöneticisi, personelin evden çalışmasına izin vermenin genel proje iş birliğini azalttığını varsayar. Ekran platformlarında çevrim içi sohbet etmek gerçekten de ofis masalarını paylaşmanın samimi hissinin yerini alamaz. Fiziksel ofis toplantıları yerine paylaşılan çevrim içi platformlar, uzaktan çalışan ekipleri son derece bir arada ve verimli tutmaktadır. Kırk uzaktan çalışan şirketi kapsayan bir işletme anketi, yazılım projelerinin çok daha hızlı tamamlandığını gösterdi. Temel ders, net ortak hedeflerin ekip başarısı için paylaşılan ofis alanlarından daha önemli olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -6453,7 +6453,7 @@
   "id": "pxr151",
   "topic": "Language Learning (Education)",
   "paragraph_raw": "Most language coaches claim that foreign travel is necessary to develop strong verbal conversation skills. Spending years abroad indeed forces adult students to speak native words while shopping. Active speech practice, not simply living abroad, turns out to drive faster conversational fluency. A study of eighty adult learners showed that active talking partners gained vocabulary twice as fast. The main lesson is that active daily chatting is highly effective to master foreign speaking.",
-  "tr": "Çoğu dil koçu, güçlü sözlü konuşma becerileri geliştirmek için yabancı ülkelerin gerekli olduğunu iddia eder. Yurt dışında yıllar geçirmek, yetişkin öğrencileri alışveriş yaparken gerçekten de yerel kelimeleri konuşmaya zorlar. Sadece yurt dışında yaşamak yerine aktif konuşma pratiği yapmak, daha hızlı konuşma akıcılığı sağlamaktadır. Seksen yetişkin öğrenciyi kapsayan bir çalışma, aktif konuşma ortaklarının kelimeleri iki kat daha hızlı kazandığını gösterdi. Temel ders, aktif günlük sohbetlerin yabancı dilde konuşmada ustalaşmak için son derece etkili olduğudur.",
+  "tr": "Çoğu dil koçu, güçlü sözlü konuşma becerileri geliştirmek için yabancı ülkelere seyahat etmenin gerekli olduğunu iddia eder. Yurt dışında yıllar geçirmek, yetişkin öğrencileri alışveriş yaparken gerçekten de yerel kelimeleri konuşmaya zorlar. Sadece yurt dışında yaşamak yerine aktif konuşma pratiği yapmak, daha hızlı konuşma akıcılığı sağlamaktadır. Seksen yetişkin öğrenciyi kapsayan bir çalışma, aktif konuşma ortaklarının kelimeleri iki kat daha hızlı kazandığını gösterdi. Temel ders, aktif günlük sohbetlerin yabancı dilde konuşmada ustalaşmak için son derece etkili olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -6539,7 +6539,7 @@
   "id": "pxr153",
   "topic": "Organic Farming (Agriculture)",
   "paragraph_raw": "Most traditional farmers believe that chemical fertilizers are absolutely required to harvest big vegetable crops. Spraying standard nitrogen powder indeed raises the total weight of vegetables during summer harvest weeks. Balanced organic compost, not chemical spraying, turns out to maintain soil nutrients and vegetable health over years. A field trial with fifty crops showed that natural compost dropped plant disease rates significantly. The main lesson is that biological farming methods are highly successful tools for lasting food security.",
-  "tr": "Çoğu geleneksel çiftçi, büyük sebze ürünleri hasat etmek için kimyasal gübrelerin kesinlikle gerekli olduğuna inanır. Standart azot tozu püskürtmek gerçekten de yaz hasat haftalarında sebzelerin toplam ağırlığını artırır. Kimyasal ilaçlama yerine dengeli organik kompost yöntemi, toprak besinlerini ve sebze sağlığını yıllar boyunca korumaktadır. Elli ürün üzerinde yapılan bir tarladaki deneme, doğal kompostun bitki hastalık oranlarını önemli ölçüde düşürdüğünü gösterdi. Temel ders, biyolojik tarım yöntemlerinin kalıcı gıda güvenliği için son derece başarılı araçlar olduğudur.",
+  "tr": "Çoğu geleneksel çiftçi, büyük sebze ürünleri hasat etmek için kimyasal gübrelerin kesinlikle gerekli olduğuna inanır. Standart azot tozu püskürtmek gerçekten de yaz hasat haftalarında sebzelerin toplam ağırlığını artırır. Kimyasal ilaçlama yerine dengeli organik kompost yöntemi, toprak besinlerini ve sebze sağlığını yıllar boyunca korumaktadır. Elli ürün üzerinde yapılan bir tarla denemesi, doğal kompostun bitki hastalık oranlarını önemli ölçüde düşürdüğünü gösterdi. Temel ders, biyolojik tarım yöntemlerinin kalıcı gıda güvenliği için son derece başarılı araçlar olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -6711,7 +6711,7 @@
   "id": "pxr157",
   "topic": "Gym Membership (Health)",
   "paragraph_raw": "Most health bloggers argue that paying for expensive gym memberships is necessary to build strong daily muscle stamina. Lifting heavy metal bars indeed helps clients train specific arm and leg zones in structured ways. Park running exercises, not gym membership fees, turn out to improve overall physical fitness and heart health. A clinical trial of eighty people showed that daily park runners had much lower body fat percentages. The main lesson is that outdoor physical activities are highly reliable tools to maintain healthy stamina.",
-  "tr": "Çoğu sağlık blog yazarı, güçlü günlük kas dayanıklılığı oluşturmak için pahalı spor salonu üyeliklerine para ödemenin gerekli olduğunu savunur. Ağır metal barları kaldırmak gerçekten de müşterilerin belirli kol ve bacak bölgelerini yapılandırılmış şekillerde çalıştırmalarına yardımcı olur. Spor salonu ücretleri yerine park koşusu egzersizleri, genel fiziksel zindeliği ve kalp sağlığını geliştirmektedir. Seksen kişiyi kapsayan klinik bir deneme, her gün parkta koşanların çok daha düşük vücut yağı yüzdelerine sahip olduğunu gösterdi. Temel ders, açık hava fiziksel aktivitelerinin sağlıklı dayanıklılığı korumak için son derece güvenilir araçlar olduğudur.",
+  "tr": "Çoğu sağlık blog yazarı, güçlü günlük kas dayanıklılığı oluşturmak için pahalı spor salonu üyeliklerine para ödemenin gerekli olduğunu savunur. Ağır metal çubukları kaldırmak gerçekten de müşterilerin belirli kol ve bacak bölgelerini yapılandırılmış şekillerde çalıştırmalarına yardımcı olur. Spor salonu ücretleri yerine park koşusu egzersizleri, genel fiziksel zindeliği ve kalp sağlığını geliştirmektedir. Seksen kişiyi kapsayan klinik bir deneme, her gün parkta koşanların çok daha düşük vücut yağı yüzdelerine sahip olduğunu gösterdi. Temel ders, açık hava fiziksel aktivitelerinin sağlıklı dayanıklılığı korumak için son derece güvenilir araçlar olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -6854,7 +6854,7 @@
     "text": "Spraying synthetic chemical liquids indeed kills plant bugs quickly and protects total summer harvest weight.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Sentetik ilaçların böcekleri hızlıca öldürerek yazlık hasat hacmini korumadaki pratik faydalarını dürüstçe kabul eder."
+    "why": "Sentetik ilaçların böcekleri hızlıca öldürerek yaz hasadı hacmini korumadaki pratik faydalarını dürüstçe kabul eder."
    },
    {
     "sentence_index": 2,
@@ -6954,7 +6954,7 @@
     "text": "A survey of one thousand students showed that online learners graduated with much less debt.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Bin öğrenciyle yapılan anketin borçsuz mezuniyet verilerini sunarak çevrim içi eğitimin maliyet avantajını destekler."
+    "why": "Bin öğrenciyle yapılan anketin daha az borçla mezuniyet verilerini sunarak çevrim içi eğitimin maliyet avantajını destekler."
    },
    {
     "sentence_index": 4,
@@ -7664,7 +7664,7 @@
     "text": "Many environmental advocates assume that editing crop genetics always destroys local plant ecosystems.",
     "role": "common_belief",
     "display_role": "Yaygın Görüş (Tez)",
-    "why": "Çevrecilerin tarımsal genetik müdahalelerin ekosistemi mahfedeceği yönündeki yaygın ekolojik varsayımını yansıtır."
+    "why": "Çevrecilerin tarımsal genetik müdahalelerin ekosistemi mahvedeceği yönündeki yaygın ekolojik varsayımını yansıtır."
    },
    {
     "sentence_index": 1,
@@ -7743,7 +7743,7 @@
   "id": "pxr181",
   "topic": "Exercise and Weight (Health)",
   "paragraph_raw": "Many physical trainers believe that skipping daily meals is the quickest path to weight loss. Severe calorie restriction indeed drops total weight rapidly during the first few days. Consistent jogging, rather than extreme dieting, raises daily metabolic rates and preserves muscle tissue. A clinical test of sixty patients showed that active runners kept their weight off for much longer. The main lesson is that active exercise is more sustainable for body shape than starvation.",
-  "tr": "Birçok spor eğitmeni, günlük öğünleri atlamanın kilo vermenin en hızlı yolu olduğuna inanır. Şiddetli kalori kısıtlaması gerçekten de ilk birkaç gün içinde toplam kiloyu hızla düşürür. Düzenli koşu ise aşırı diyet yapmak yerine günlük metabolizma hızını artırır ve kas dokusunu korur. Seksen hasta üzerinde yapılan bir klinik test, aktif koşucuların kilolarını çok daha uzun süre koruduklarını gösterdi. Temel ders, aktif egzersizin vücut şekli için aç kalmaktan çok daha sürdürülebilir olduğudur.",
+  "tr": "Birçok spor eğitmeni, günlük öğünleri atlamanın kilo vermenin en hızlı yolu olduğuna inanır. Şiddetli kalori kısıtlaması gerçekten de ilk birkaç gün içinde toplam kiloyu hızla düşürür. Düzenli koşu ise aşırı diyet yapmak yerine günlük metabolizma hızını artırır ve kas dokusunu korur. Altmış hasta üzerinde yapılan bir klinik test, aktif koşucuların kilolarını çok daha uzun süre koruduklarını gösterdi. Temel ders, aktif egzersizin vücut şekli için aç kalmaktan çok daha sürdürülebilir olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -7829,7 +7829,7 @@
   "id": "pxr183",
   "topic": "Active Commuting (Health)",
   "paragraph_raw": "Many suburban residents argue that walking or cycling to work is unrealistic for modern busy lives. Admittedly, active commuting requires significant physical effort and can demand extra time planning during winter. Active cycling, instead of driving personal cars, drastically reduces anxiety and lowers heart risks. A public health study of four hundred citizens showed that active commuters had forty percent fewer stress fatigue visits. The main lesson is that active transport represents an essential health strategy for modern busy cities.",
-  "tr": "Birçok banliyö sakini, işe yürüyerek veya bisikletle gitmenin modern yoğun yaşamlar için gerçekçi olmadığını savunur. Şüphesiz, aktif ulaşım önemli bir fiziksel çaba gerektirir ve kış aylarında ekstra zaman planlaması talep edebilir. Aktif bisiklet sürmek ise kişisel araçlar kullanmak yerine kaygıyı ciddi şekilde azaltır ve kalp risklerini düşürür. Dört yüz vatandaş üzerinde yapılan bir halk sağlığı çalışması, aktif ulaşım kullananların yüzde kırk daha az stres yorgunluğu ziyareti yaptığını gösterdi. Temel ders, aktif ulaşımın modern yoğun şehirler için temel bir sağlık stratejisi temsil ettiğidir.",
+  "tr": "Birçok banliyö sakini, işe yürüyerek veya bisikletle gitmenin modern yoğun yaşamlar için gerçekçi olmadığını savunur. Kabul etmek gerekir ki, aktif ulaşım önemli bir fiziksel çaba gerektirir ve kış aylarında ekstra zaman planlaması talep edebilir. Aktif bisiklet sürmek ise kişisel araçlar kullanmak yerine kaygıyı ciddi şekilde azaltır ve kalp risklerini düşürür. Dört yüz vatandaş üzerinde yapılan bir halk sağlığı çalışması, aktif ulaşım kullananların yüzde kırk daha az stres yorgunluğu ziyareti yaptığını gösterdi. Temel ders, aktif ulaşımın modern yoğun şehirler için temel bir sağlık stratejisi temsil ettiğidir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -7915,7 +7915,7 @@
   "id": "pxr185",
   "topic": "Traditional Books (Media Studies)",
   "paragraph_raw": "Many young students believe that reading online text is just as effective as traditional books. Scanning digital articles indeed allows quick dictionary lookups and has high search speeds. Paper novels, not digital devices, continue to support deep focus and improve information recall. A testing trial with three hundred pupils showed that print readers recalled seventy percent more narrative details. The main takeaway is that physical books are still vital for deep long term academic memory.",
-  "tr": "Birçok genç öğrenci, çevrim içi metin okumanın geleneksel kitaplar kadar etkili olduğuna inanır. Dijital makaleleri taramak gerçekten de hızlı sözlük aramalarına izin verir ve yüksek arama hızlarına sahiptir. Basılı romanlar ise dijital cihazlar yerine derin odaklanmayı desteklemeye ve bilgi hatırlamayı iyileştirmeye devam etmektedir. Üç yüz öğrenciyle yapılan bir test çalışması, basılı materyal okuyanların yüzde yetmiş daha fazla hikaye detayı hatırladığını gösterdi. Temel çıkarım, fiziksel kitapların derin uzun vadeli akademik hafıza için hala hayati olduğudur.",
+  "tr": "Birçok genç öğrenci, çevrim içi metin okumanın geleneksel kitaplar kadar etkili olduğuna inanır. Dijital makaleleri taramak gerçekten de hızlı sözlük aramalarına izin verir ve yüksek arama hızlarına sahiptir. Basılı romanlar ise dijital cihazlar yerine derin odaklanmayı desteklemeye ve bilgi hatırlamayı iyileştirmeye devam etmektedir. Üç yüz öğrenciyle yapılan bir test çalışması, basılı materyal okuyanların yüzde yetmiş daha fazla hikaye detayı hatırladığını gösterdi. Temel çıkarım, fiziksel kitapların derin uzun vadeli akademik hafıza için hâlâ hayati olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -8001,7 +8001,7 @@
   "id": "pxr187",
   "topic": "Microlearning (Education)",
   "paragraph_raw": "Many language learners believe that weekend study bootcamps are the quickest path to fluency. Spending six hours in weekend classes indeed helps pupils review vast grammar guides easily. Short daily sessions, not giant weekend bootcamps, help retain language skills and raise motivation. A project with two hundred adults showed that ten minute daily study doubled vocabulary retention rates. The main takeaway is that regular small steps are much more effective than intensive learning spikes.",
-  "tr": "Birçok dil öğrenici, hafta sonu yoğun çalışma kamplarının akıcılığa giden en hızlı yol olduğuna inanır. Hafta sonu sınıflarında altı saat geçirmek gerçekten de öğrencilerin geniş dil bilgisi kılavuzlarını kolayca gözden geçirmesine yardımcı olur. Günlük kısa seanslar ise devasa hafta sonu kampları yerine dil becerilerini akılda tutmaya ve motivasyonu artırmaya yardımcı olur. İki yüz yetişkinle yapılan bir proje, günlük on dakikalık çalışmanın kelime dağarcığını akılda tutma oranlarını ikiye katladığını gösterdi. Temel çıkarım, düzenli küçük adımların yoğun çalışma dönemlerinden çok daha etkili olduğudur.",
+  "tr": "Birçok dil öğrenicisi, hafta sonu yoğun çalışma kamplarının akıcılığa giden en hızlı yol olduğuna inanır. Hafta sonu sınıflarında altı saat geçirmek gerçekten de öğrencilerin geniş dil bilgisi kılavuzlarını kolayca gözden geçirmesine yardımcı olur. Günlük kısa seanslar ise devasa hafta sonu kampları yerine dil becerilerini akılda tutmaya ve motivasyonu artırmaya yardımcı olur. İki yüz yetişkinle yapılan bir proje, günlük on dakikalık çalışmanın kelime dağarcığını akılda tutma oranlarını ikiye katladığını gösterdi. Temel çıkarım, düzenli küçük adımların yoğun çalışma dönemlerinden çok daha etkili olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -8086,7 +8086,7 @@
  {
   "id": "pxr189",
   "topic": "GMO Crops (Agriculture)",
-  "paragraph_raw": "Many organic advocates argue that modifying crop seeds always hurts agricultural safety. Growing natural crops indeed preserves traditional seed models and supports organic farming definitions. Targeted crop editing, not chemical pest sprays, protects crops from insects and raises food supply. A bio project in five regions showed that modified fields used eighty percent less toxic chemical. The main takeaway is that scientific seed modifications represents a highly clean choice for agriculture.",
+  "paragraph_raw": "Many organic advocates argue that modifying crop seeds always hurts agricultural safety. Growing natural crops indeed preserves traditional seed models and supports organic farming definitions. Targeted crop editing, not chemical pest sprays, protects crops from insects and raises food supply. A bio project in five regions showed that modified fields used eighty percent less toxic chemical. The main takeaway is that scientific seed modifications represent a highly clean choice for agriculture.",
   "tr": "Birçok organik savunucu, ürün tohumlarını değiştirmenin tarım güvenliğine her zaman zarar verdiğini savunur. Doğal ürünler yetiştirmek gerçekten de geleneksel tohum modellerini korur ve organik tarım tanımlarını destekler. Hedefli ürün düzenlemesi ise kimyasal böcek spreyleri yerine ürünleri böceklerden korur ve gıda arzını artırır. Beş bölgedeki bir biyolojik proje, modifiye edilmiş tarlaların yüzde seksen daha az toksik kimyasal kullandığını gösterdi. Temel çıkarım, bilimsel tohum değişikliklerinin tarım için son derece temiz bir seçim temsil ettiğidir.",
   "scaffolding": [
    {
@@ -8119,7 +8119,7 @@
    },
    {
     "sentence_index": 4,
-    "text": "The main takeaway is that scientific seed modifications represents a highly clean choice for agriculture.",
+    "text": "The main takeaway is that scientific seed modifications represent a highly clean choice for agriculture.",
     "role": "conclusion",
     "display_role": "Sentez (Sonuç)",
     "why": "Geleneksel koruma çabaları ile kimyasal zehir tasarrufu verilerini birleştirerek kontrollü gen değişikliklerinin temiz bir tarım aracı olduğu sonucunu bağlar."
@@ -8559,7 +8559,7 @@
  {
   "id": "pxr200",
   "topic": "Community Gardens (Sociology)",
-  "paragraph_raw": "Many city administrators assume that community gardens are a waste of valuable urban land. Converting vacant city lots into crops indeed requires local organization and initial soil testing costs. Urban community gardens, instead of vacant lot spaces, improve neighborhood safety and lower crime. A sociology study showed that districts with community gardens had thirty percent fewer disturbances. The main lesson is that public green projects represents a smart investment for social harmony.",
+  "paragraph_raw": "Many city administrators assume that community gardens are a waste of valuable urban land. Converting vacant city lots into crops indeed requires local organization and initial soil testing costs. Urban community gardens, instead of vacant lot spaces, improve neighborhood safety and lower crime. A sociology study showed that districts with community gardens had thirty percent fewer disturbances. The main lesson is that public green projects represent a smart investment for socialharmony.",
   "tr": "Birçok şehir yöneticisi, topluluk bahçelerinin değerli kentsel arazilerin bir israfı olduğunu varsayar. Boş şehir arazilerini tarım ürünlerine dönüştürmek gerçekten de yerel örgütlenme ve başlangıç toprak testi maliyetleri gerektirir. Kentsel topluluk bahçeleri ise boş arazi alanları yerine mahalle güvenliğini artırır ve suçu azaltır. Yapılan bir sosyoloji çalışması, topluluk bahçeleri olan bölgelerde yüzde otuz daha az mahalle huzursuzluğu yaşandığını gösterdi. Temel ders, kamusal yeşil projelerin sosyal uyum için akıllıca bir yatırım temsil ettiğidir.",
   "scaffolding": [
    {
@@ -8592,7 +8592,7 @@
    },
    {
     "sentence_index": 4,
-    "text": "The main lesson is that public green projects represents a smart investment for social harmony.",
+    "text": "The main lesson is that public green projects represent a smart investment for socialharmony.",
     "role": "conclusion",
     "display_role": "Sentez (Sonuç)",
     "why": "Başlangıç toprak maliyeti ile mahalle huzuru ve suç azalması başarılarını sentezleyerek yeşil alan projelerinin karlı bir toplumsal yatırım olduğunu bağlar."
@@ -8689,7 +8689,7 @@
   "id": "pxr203",
   "topic": "Remote Work (Management)",
   "paragraph_raw": "Most company owners assume that working from home lowers daily worker focus. Managing staff from a distance indeed makes direct face to face communication impossible. Remote schedules, far from decreasing daily output, allow employees to work with much fewer office distractions. A survey of three hundred home workers showed that tasks were finished twenty percent faster. Flexible home work represents a highly effective model to improve modern business performance.",
-  "tr": "Çoğu şirket sahibi, evden çalışmanın günlük çalışan odaklanmasını düşürdüğünü varsayar. Personeli uzaktan yönetmek, dürüst olmak gerekirse doğrudan yüz yüze iletişimi imkansız hale getirir. Uzaktan çalışma programları ise günlük çıktıyı azaltmak bir yana, çalışanların ofisteki dikkat dağıtıcı unsurlardan çok daha uzak çalışmasını sağlar. Üç yüz ev çalışanıyla yapılan bir anket, görevlerin yüzde yirmi daha hızlı tamamlandığını gösterdi. Esnek ev çalışması, modern iş performansını artırmak için son derece etkili bir model temsil eder.",
+  "tr": "Çoğu şirket sahibi, evden çalışmanın günlük çalışan odaklanmasını düşürdüğünü varsayar. Personeli uzaktan yönetmek, gerçekten de doğrudan yüz yüze iletişimi imkansız hale getirir. Uzaktan çalışma programları ise günlük çıktıyı azaltmak bir yana, çalışanların ofisteki dikkat dağıtıcı unsurlardan çok daha uzak çalışmasını sağlar. Üç yüz ev çalışanıyla yapılan bir anket, görevlerin yüzde yirmi daha hızlı tamamlandığını gösterdi. Esnek ev çalışması, modern iş performansını artırmak için son derece etkili bir model temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -8732,7 +8732,7 @@
   "id": "pxr204",
   "topic": "School Recess (Education)",
   "paragraph_raw": "Most teachers believe that long school recesses reduce daily classroom learning time. Giving children regular play periods indeed cuts the hours spent on direct academic lessons. Regular physical play, rather than wasting valuable time, actually improves classroom concentration and behavior. An educational project in five schools reported a thirty percent drop in classroom behavioral issues. Increasing play times represents a highly successful strategy to raise student focus.",
-  "tr": "Çoğu öğretmen, uzun okul teneffüslerinin günlük sınıfiçi öğrenme süresini azalttığına inanır. Çocuklara düzenli oyun süreleri vermek, doğrudan akademik derslere harcanan saatleri gerçekten de kısaltır. Düzenli fiziksel oyun ise değerli zamanı boşa harcamak yerine, sınıftaki konsantrasyonu ve davranışı aslında iyileştirmektedir. Beş okulda yürütülen bir eğitim projesi, sınıfiçi davranış sorunlarında yüzde otuzluk bir düşüş bildirdi. Oyun sürelerini artırmak, öğrenci odağını yükseltmek için son derece başarılı bir strateji temsil eder.",
+  "tr": "Çoğu öğretmen, uzun okul teneffüslerinin günlük sınıf içi öğrenme süresini azalttığına inanır. Çocuklara düzenli oyun süreleri vermek, doğrudan akademik derslere harcanan saatleri gerçekten de kısaltır. Düzenli fiziksel oyun ise değerli zamanı boşa harcamak yerine, sınıftaki konsantrasyonu ve davranışı aslında iyileştirmektedir. Beş okulda yürütülen bir eğitim projesi, sınıf içi davranış sorunlarında yüzde otuzluk bir düşüş bildirdi. Oyun sürelerini artırmak, öğrenci odağını yükseltmek için son derece başarılı bir strateji temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -8775,7 +8775,7 @@
   "id": "pxr205",
   "topic": "Artificial Intelligence (Technology)",
   "paragraph_raw": "Many computer users assume that artificial intelligence software completely replaces human writers. Utilizing automated systems indeed helps generate basic summaries and short text descriptions quickly. Smart algorithms, rather than writing original content, still require human editing and creative direction. A test with fifty software programs showed that articles without human touch lacked emotional depth. Creative human oversight remains a vital part of producing truly engaging stories.",
-  "tr": "Birçok bilgisayar kullanıcısı, yapay zeka yazılımlarının insan yazarların yerini tamamen aldığını varsayar. Otomatik sistemleri kullanmak, temel özetleri ve kısa metin açıklamalarını hızlı bir şekilde oluşturmaya gerçekten de yardımcı olur. Akıllı algoritmalar ise orijinal içerik yazmak yerine, hâlâ insan editörlüğüne ve yaratıcı yönlendirmesine ihtiyaç duymaktadır. Elli yazılım programıyla yapılan bir test, insan dokunuşu olmayan makalelerin duygusal derinlikten yoksun olduğunu gösterdi. Yaratıcı insan denetimi, gerçekten ilgi çekici hikayeler üretmenin hayati bir parçası olmaya devam etmektedir.",
+  "tr": "Birçok bilgisayar kullanıcısı, yapay zeka yazılımlarının insan yazarların yerini tamamen aldığını varsayar. Otomatik sistemleri kullanmak, temel özetleri ve kısa metin açıklamalarını hızlı bir şekilde oluşturmaya gerçekten de yardımcı olur. Akıllı algoritmalar ise orijinal içerik yazmak yerine, hâlâ insan editörlüğüne ve yaratıcı yönlendirmeye ihtiyaç duymaktadır. Elli yazılım programıyla yapılan bir test, insan dokunuşu olmayan makalelerin duygusal derinlikten yoksun olduğunu gösterdi. Yaratıcı insan denetimi, gerçekten ilgi çekici hikayeler üretmenin hayati bir parçası olmaya devam etmektedir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -8818,7 +8818,7 @@
   "id": "pxr206",
   "topic": "Solar Power (Energy)",
   "paragraph_raw": "Many homeowners believe that installing solar panels does not reduce electricity costs. Purchasing these heavy glass panels indeed demands a high initial installation price. Home solar panels, instead of being expensive investments, significantly lower monthly utility bills over time. A study of eighty solar homes showed a fifty percent drop in winter energy expenses. Developing solar setups represents an incredibly smart choice to achieve household energy independence.",
-  "tr": "Birçok ev sahibi, güneş panelleri kurmanın elektrik maliyetlerini düşürmediğine inanır. Bu ağır cam panelleri satın almak, gerçekten de yüksek bir başlangıç kurulum fiyatı gerektirir. Ev tipi güneş panelleri ise pahalı yatırımlar olmak yerine, zamanla aylık faturaları önemli ölçüde düşürmektedir. Seksen güneş enerjili ev üzerinde yapılan bir araştırma, kışlık enerji giderlerinde yüzde ellilik bir düşüş gösterdi. Güneş enerjisi kurulumları geliştirmek, evsel enerji bağımsızlığına ulaşmak için inanılmaz derecede akıllıca bir seçim temsil eder.",
+  "tr": "Birçok ev sahibi, güneş panelleri kurmanın elektrik maliyetlerini düşürmediğine inanır. Bu ağır cam panelleri satın almak, gerçekten de yüksek bir başlangıç kurulum fiyatı gerektirir. Ev tipi güneş panelleri ise pahalı yatırımlar olmak yerine, zamanla aylık faturaları önemli ölçüde düşürmektedir. Seksen güneş enerjili ev üzerinde yapılan bir araştırma, kış aylarındaki enerji giderlerinde yüzde ellilik bir düşüş gösterdi. Güneş enerjisi kurulumları geliştirmek, evsel enerji bağımsızlığına ulaşmak için inanılmaz derecede akıllıca bir seçim temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -8846,14 +8846,14 @@
     "text": "A study of eighty solar homes showed a fifty percent drop in winter energy expenses.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Seksen güneş enerjili evden elde edilen yüzde ellilik kışlık tasarruf verilerini paylaşarak karşı tezi destekler."
+    "why": "Seksen güneş enerjili evden elde edilen yüzde ellilik kış tasarrufu verilerini paylaşarak karşı tezi destekler."
    },
    {
     "sentence_index": 4,
     "text": "Developing solar setups represents an incredibly smart choice to achieve household energy independence.",
     "role": "conclusion",
     "display_role": "Sentez (Sonuç)",
-    "why": "İlk kurulum maliyeti ile uzun vadeli kışlık tasarruf verilerini sentezleyerek güneş enerjisinin akıllıca bir yatırım olduğu sonucunu bağlar."
+    "why": "İlk kurulum maliyeti ile uzun vadeli kış tasarrufu verilerini sentezleyerek güneş enerjisinin akıllıca bir yatırım olduğu sonucunu bağlar."
    }
   ]
  },
@@ -8990,7 +8990,7 @@
   "id": "pxr210",
   "topic": "Digital Archiving (Library Science)",
   "paragraph_raw": "Most historical societies believe that keeping paper files is the only safe archiving method. Storing physical books indeed protects historical records from online hacker attacks and system failures. Digital servers, rather than losing data, maintain extremely safe copies and prevent paper damage over time. A database report from five museums showed zero lost records after ten years. Utilizing cloud databases represents a highly efficient choice to protect old documents.",
-  "tr": "Çoğu tarihi topluluk, kağıt dosyaları saklamanın tek güvenli arşivleme yöntemi olduğuna inanır. Fiziksel kitapları depolamak, tarihi kayıtları çevrimdışı hacker saldırılarından ve sistem arızalarından gerçekten de korur. Dijital sunucular ise veri kaybetmek yerine, son derece güvenli kopyalar barındırır ve zamanla kağıt yıpranmasını önler. Beş müzeden alınan bir veri tabanı raporu, on yıl sonra sıfır kayıt kaybı gösterdi. Bulut veri tabanlarından yararlanmak, eski belgeleri korumak için son derece verimli bir seçim temsil eder.",
+  "tr": "Çoğu tarihi topluluk, kağıt dosyaları saklamanın tek güvenli arşivleme yöntemi olduğuna inanır. Fiziksel kitapları depolamak, tarihi kayıtları çevrim içi bilgisayar korsanı saldırılarından ve sistem arızalarından gerçekten de korur. Dijital sunucular ise veri kaybetmek yerine, son derece güvenli kopyalar barındırır ve zamanla kağıt yıpranmasını önler. Beş müzeden alınan bir veri tabanı raporu, on yıl sonra sıfır kayıt kaybı gösterdi. Bulut veri tabanlarından yararlanmak, eski belgeleri korumak için son derece verimli bir seçim temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -9119,7 +9119,7 @@
   "id": "pxr213",
   "topic": "Online Learning (Education)",
   "paragraph_raw": "Many school directors believe that online learning programs cannot replace traditional classrooms. Studying through digital screens indeed removes the physical face to face connection with experienced teachers. Online programs, far from being ineffective platforms, allow students to study lessons at their own speed. A testing project with two hundred pupils showed a thirty percent increase in lesson grades. Choosing remote study options represents a highly effective method to improve overall academic success.",
-  "tr": "Birçok okul müdürü, çevrim içi öğrenme programlarının geleneksel sınıfların yerini alamayacağına inanır. Dijital ekranlar üzerinden ders çalışmak, deneyimli öğretmenlerle olan fiziksel yüz yüze bağı dürüst olmak gerekirse ortadan kaldırır. Çevrim içi programlar ise etkisiz platformlar olmak bir yana, öğrencilerin dersleri kendi hızlarında çalışmalarına olanak tanımaktadır. İki yüz öğrenciyle yapılan bir test projesi, ders notlarında yüzde otuzluk bir artış gösterdi. Uzaktan eğitim seçeneklerini seçmek, genel akademik başarıyı artırmak için son derece etkili bir yöntem temsil eder.",
+  "tr": "Birçok okul müdürü, çevrim içi öğrenme programlarının geleneksel sınıfların yerini alamayacağına inanır. Dijital ekranlar üzerinden ders çalışmak, deneyimli öğretmenlerle olan fiziksel yüz yüze bağı gerçekten de ortadan kaldırır. Çevrim içi programlar ise etkisiz platformlar olmak bir yana, öğrencilerin dersleri kendi hızlarında çalışmalarına olanak tanımaktadır. İki yüz öğrenciyle yapılan bir test projesi, ders notlarında yüzde otuzluk bir artış gösterdi. Uzaktan eğitim seçeneklerini seçmek, genel akademik başarıyı artırmak için son derece etkili bir yöntem temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -9248,7 +9248,7 @@
   "id": "pxr216",
   "topic": "Smart Thermostats (Engineering)",
   "paragraph_raw": "Many builders believe that installing smart thermostats is a waste of money. Purchasing these digital sensors indeed requires higher initial prices than old mechanical buttons. Automated sensors, far from being expensive toys, drastically lower monthly electricity use. A study of seventy smart buildings showed a thirty percent drop in winter heating costs. Developing smart household controls represents a highly efficient choice to reduce monthly energy bills.",
-  "tr": "Birçok inşaatçı, akıllı termostatlar kurmanın para israfı olduğuna inanır. Bu dijital sensörleri satın almak, eski mekanik tuşlara göre gerçekten de başlangıçta daha yüksek fiyatlar gerektirir. Otomatik sensörler ise pahalı oyuncaklar olmak bir yana, aylık elektrik kullanımını ciddi oranda düşürmektedir. Yetmiş akıllı bina üzerinde yapılan bir araştırma, kışlık ısınma maliyetlerinde yüzde otuzluk bir düşüş gösterdi. Akıllı ev kontrolleri geliştirmek, aylık enerji faturalarını azaltmak için son derece verimli bir seçim temsil eder.",
+  "tr": "Birçok inşaatçı, akıllı termostatlar kurmanın para israfı olduğuna inanır. Bu dijital sensörleri satın almak, eski mekanik tuşlara göre gerçekten de başlangıçta daha yüksek fiyatlar gerektirir. Otomatik sensörler ise pahalı oyuncaklar olmak bir yana, aylık elektrik kullanımını ciddi oranda düşürmektedir. Yetmiş akıllı bina üzerinde yapılan bir araştırma, kış aylarındaki ısınma maliyetlerinde yüzde otuzluk bir düşüş gösterdi. Akıllı ev kontrolleri geliştirmek, aylık enerji faturalarını azaltmak için son derece verimli bir seçim temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -9276,7 +9276,7 @@
     "text": "A study of seventy smart buildings showed a thirty percent drop in winter heating costs.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Yetmiş akıllı binadan alınan verilerde kışlık ısınma faturalarının yüzde otuz düştüğünü göstererek karşı tezi kanıtlar."
+    "why": "Yetmiş akıllı binadan alınan verilerde kış aylarındaki ısınma faturalarının yüzde otuz düştüğünü göstererek karşı tezi kanıtlar."
    },
    {
     "sentence_index": 4,
@@ -9506,7 +9506,7 @@
   "id": "pxr222",
   "topic": "Classroom Lighting (Education)",
   "paragraph_raw": "Most school builders assume that standard yellow bulbs are perfectly fine for daily classroom study. Cheap yellow lights indeed light up desk spaces and require low maintenance costs during winters. Natural daylight lamps, instead of being expensive additions, significantly improve student focus and reduce eye strain. A study of two hundred pupils showed that daylight rooms raised test results by twenty percent. Installing specialized light bulbs represents a highly successful model to improve student achievement.",
-  "tr": "Çoğu okul inşaatçısı, standart sarı ampullerin günlük sınıfiçi çalışma için tamamen uygun olduğunu varsayar. Ucuz sarı ışıklar, kış aylarında sıra alanlarını gerçekten de aydınlatır ve düşük bakım maliyetleri gerektirir. Doğal gün ışığı lambaları ise pahalı eklentiler olmak yerine, öğrenci odaklanmasını önemli ölçüde iyileştirir ve göz yorgunluğunu azaltır. İki yüz öğrenci üzerinde yapılan bir araştırma, gün ışığı alan sınıfların test sonuçlarını yüzde yirmi oranında artırdığını gösterdi. Özel ampuller takmak, öğrenci başarısını artırmak için son derece başarılı bir model temsil eder.",
+  "tr": "Çoğu okul inşaatçısı, standart sarı ampullerin günlük sınıf içi çalışma için tamamen uygun olduğunu varsayar. Ucuz sarı ışıklar, kış aylarında sıra alanlarını gerçekten de aydınlatır ve düşük bakım maliyetleri gerektirir. Doğal gün ışığı lambaları ise pahalı eklentiler olmak yerine, öğrenci odaklanmasını önemli ölçüde iyileştirir ve göz yorgunluğunu azaltır. İki yüz öğrenci üzerinde yapılan bir araştırma, gün ışığı alan sınıfların test sonuçlarını yüzde yirmi oranında artırdığını gösterdi. Özel ampuller takmak, öğrenci başarısını artırmak için son derece başarılı bir model temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -9520,7 +9520,7 @@
     "text": "Cheap yellow lights indeed light up desk spaces and require low maintenance costs during winters.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Sarı ampullerin ucuz bakım maliyeti ve sınıfları temel aydınlatma gücünü dürüstçe kabul eder."
+    "why": "Sarı ampullerin ucuz bakım maliyeti ve sınıfı temel düzeyde aydınlatma gücünü dürüstçe kabul eder."
    },
    {
     "sentence_index": 2,
@@ -9592,7 +9592,7 @@
   "id": "pxr224",
   "topic": "Telemedicine (Healthcare)",
   "paragraph_raw": "Most hospital administrators assume that online doctor meetings are not safe for daily patient checkups. Speaking through secure video cameras indeed prevents direct physical touching of old heart wounds. Remote digital checkups, instead of being risky trials, allow doctors to monitor basic body values twice as often. A medical project with three hundred patients reported a forty percent reduction in hospital emergency stays. Developing secure video medicine represents a highly successful model to support public health.",
-  "tr": "Çoğu hastane yöneticisi, çevrim içi doktor görüşmelerinin günlük hasta kontrolleri için güvenli olmadığını varsayar. Güvenli video kameraları aracılığıyla konuşmak, dürüst olmak gerekirse eski kalp yaralarına doğrudan fiziksel teması engeller. Uzaktan dijital kontroller ise riskli denemeler olmak yerine, doktorların temel vücut değerlerini iki kat daha sık izlemelerine olanak tanımaktadır. Üç yüz hastayla yapılan bir tıbbi proje, acil servise yatışlarda yüzde kırklık bir azalma bildirdi. Güvenli görüntülü tıp geliştirmek, halk sağlığını desteklemek için son derece başarılı bir model temsil eder.",
+  "tr": "Çoğu hastane yöneticisi, çevrim içi doktor görüşmelerinin günlük hasta kontrolleri için güvenli olmadığını varsayar. Güvenli video kameraları aracılığıyla konuşmak, gerçekten de eski kalp yaralarına doğrudan fiziksel teması engeller. Uzaktan dijital kontroller ise riskli denemeler olmak yerine, doktorların temel vücut değerlerini iki kat daha sık izlemelerine olanak tanımaktadır. Üç yüz hastayla yapılan bir tıbbi proje, acil servise yatışlarda yüzde kırklık bir azalma bildirdi. Güvenli görüntülü tıp geliştirmek, halk sağlığını desteklemek için son derece başarılı bir model temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -9635,7 +9635,7 @@
   "id": "pxr225",
   "topic": "Rooftop Solar (Energy)",
   "paragraph_raw": "Many local politicians believe that public solar energy cannot run municipal offices during winter storms. Relying on winter solar rays indeed provides lower voltage rates under thick gray cloud layers. Modern battery reservoirs, far from failing, store extra summer energy and power winter offices perfectly. A city power report of ten municipal buildings showed complete energy security during recent blizzards. Investing in high capacity batteries represents a highly practical strategy to achieve local climate safety.",
-  "tr": "Birçok yerel politikacı, kış fırtınaları sırasında belediye binalarını çalıştırmak için kamu güneş enerjisinin yetersiz kalacağına inanır. Kışlık güneş ışınlarına güvenmek, kalın gri bulut tabakaları altında gerçekten de daha düşük voltaj oranları sağlar. Modern pil depoları ise başarısız olmak bir yana, yazlık fazla enerjiyi depolar ve kışlık ofisleri mükemmel şekilde besler. On belediye binasından alınan bir şehir enerji raporu, son kar fırtınalarında tam enerji güvenliği gösterdi. Yüksek kapasiteli pillere yatırım yapmak, yerel iklim güvenliğini sağlamak için son derece pratik bir strateji temsil eder.",
+  "tr": "Birçok yerel politikacı, kış fırtınaları sırasında belediye binalarını çalıştırmak için kamu güneş enerjisinin yetersiz kalacağına inanır. Kış güneş ışınlarına güvenmek, kalın gri bulut tabakaları altında gerçekten de daha düşük voltaj oranları sağlar. Modern pil depoları ise başarısız olmak bir yana, yaz aylarındaki fazla enerjiyi depolar ve kış aylarında ofisleri mükemmel şekilde besler. On belediye binasından alınan bir şehir enerji raporu, son kar fırtınalarında tam enerji güvenliği gösterdi. Yüksek kapasiteli pillere yatırım yapmak, yerel iklim güvenliğini sağlamak için son derece pratik bir strateji temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -9670,14 +9670,14 @@
     "text": "Investing in high capacity batteries represents a highly practical strategy to achieve local climate safety.",
     "role": "conclusion",
     "display_role": "Sentez (Sonuç)",
-    "why": "Kışlık düşük üretim ile yüksek depolama kapasitesi başarısını sentezleyerek pilli güneş enerjisinin doğruluğunu bağlar."
+    "why": "Kış aylarındaki düşük üretim ile yüksek depolama kapasitesi başarısını sentezleyerek pilli güneş enerjisinin doğruluğunu bağlar."
    }
   ]
  },
  {
   "id": "pxr226",
   "topic": "Bilingual Education (Linguistics)",
-  "paragraph_raw": "Most school counselors assume that learning two languages early confuses young children. Memorizing double sets of animal vocabulary indeed demands extra study hours and cause small speech delays. Bilingual brain training, rather than causing confusion, drastically improves general problem solving skills and mental flexibility. An educational test of two hundred children showed thirty percent higher focus scores on mathematics tests. Supporting double language lessons represents a highly useful method to improve cognitive development.",
+  "paragraph_raw": "Most school counselors assume that learning two languages early confuses young children. Memorizing double sets of animal vocabulary indeed demands extra study hours and causes small speech delays. Bilingual brain training, rather than causing confusion, drastically improves general problem solving skills and mental flexibility. An educational test of two hundred children showed thirty percent higher focus scores on mathematics tests. Supporting double language lessons represents a highly useful method to improve cognitive development.",
   "tr": "Çoğu okul danışmanı, erken yaşta iki dil öğrenmenin küçük çocukların kafasını karıştırdığını varsayar. Çift hayvan kelimesi gruplarını ezberlemek gerçekten de ekstra çalışma saatleri gerektirir ve küçük konuşma gecikmelerine neden olur. Çift dilli beyin eğitimi ise kafa karışıklığı yaratmak yerine, genel problem çözme becerilerini ve zihinsel esnekliği ciddi şekilde geliştirmektedir. İki yüz çocukla yapılan bir eğitim testi, matematik sınavlarında yüzde otuz daha yüksek odaklanma puanı gösterdi. Çift dilli dersleri desteklemek, bilişsel gelişimi artırmak için son derece faydalı bir yöntem temsil eder.",
   "scaffolding": [
    {
@@ -9689,7 +9689,7 @@
    },
    {
     "sentence_index": 1,
-    "text": "Memorizing double sets of animal vocabulary indeed demands extra study hours and cause small speech delays.",
+    "text": "Memorizing double sets of animal vocabulary indeed demands extra study hours and causes small speech delays.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
     "why": "Çift kelime seti ezberlemenin ilk aşamada yarattığı konuşma gecikmesi riskini dürüstçe kabul eder."
@@ -9850,7 +9850,7 @@
   "id": "pxr230",
   "topic": "Audiobooks (Literature)",
   "paragraph_raw": "Most literature teachers assume that listening to audiobooks is not identical to real book reading. Hearing voice actors speak vocabulary indeed removes the visual letters from the learning experience. Verbal book listening, instead of being a weak option, supports similar brain activation and narrative comprehension. A testing project with two hundred pupils showed equal comprehension scores on narrative tests. Choosing audio novels represents a highly successful model to support diverse reading styles.",
-  "tr": "Çoğu edebiyat öğretmeni, sesli kitap dinlemenin gerçek kitap okumakla aynı olmadığını varsayar. Seslendirme sanatçılarının kelimeleri konuşmasını duymak, dürüst olmak gerekirse görsel harfleri öğrenme deneyiminden çıkarır. Sözlü kitap dinleme ise zayıf bir seçenek olmak yerine, beyinde benzer bölgeleri aktifleştirir ve olay örgüsünü kavrama gücünü destekler. İki yüz öğrenciyle yapılan bir test projesi, anlatı testlerinde tamamen eşit anlama puanları gösterdi. Sesli romanları seçmek, farklı okuma tarzlarını desteklemek için son derece başarılı bir model temsil eder.",
+  "tr": "Çoğu edebiyat öğretmeni, sesli kitap dinlemenin gerçek kitap okumakla aynı olmadığını varsayar. Seslendirme sanatçılarının kelimeleri konuşmasını duymak, gerçekten de görsel harfleri öğrenme deneyiminden çıkarır. Sözlü kitap dinleme ise zayıf bir seçenek olmak yerine, beyinde benzer bölgeleri aktifleştirir ve olay örgüsünü kavrama gücünü destekler. İki yüz öğrenciyle yapılan bir test projesi, anlatı testlerinde tamamen eşit anlama puanları gösterdi. Sesli romanları seçmek, farklı okuma tarzlarını desteklemek için son derece başarılı bir model temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -9936,7 +9936,7 @@
   "id": "pxr232",
   "topic": "Green Roofs (Urban Planning)",
   "paragraph_raw": "Many civil engineers believe that installing roof gardens ruins building concrete structures. Planting dense soil layers indeed requires regular water testing and high structural engineering costs. Modern rooftop gardens, instead of destroying concrete, act as protective layers and reduce winter heating expenses. A study of eighty smart buildings showed a thirty percent reduction in annual air conditioning bills. Developing rooftop ecosystems represents a highly practical strategy to achieve city climate safety.",
-  "tr": "Birçok inşaat mühendisi, çatı bahçeleri kurmanın bina beton yapılarını mahvettiğine inanır. Yoğun toprak katmanları dikmek gerçekten de düzenli su testi ve yüksek yapı mühendisliği maliyetleri gerektirir. Modern çatı bahçeleri ise betonu yok etmek yerine, koruyucu katmanlar olarak işlev görür ve kışlık ısınma giderlerini azaltır. Seksen akıllı bina üzerinde yapılan bir araştırma, yıllık klima faturalarında yüzde otuzluk bir düşüş gösterdi. Çatı ekosistemleri geliştirmek, şehir içi iklim güvenliğini sağlamak için son derece pratik bir strateji temsil eder.",
+  "tr": "Birçok inşaat mühendisi, çatı bahçeleri kurmanın bina beton yapılarını mahvettiğine inanır. Yoğun toprak katmanları dikmek gerçekten de düzenli su testi ve yüksek yapı mühendisliği maliyetleri gerektirir. Modern çatı bahçeleri ise betonu yok etmek yerine, koruyucu katmanlar olarak işlev görür ve kış aylarındaki ısınma giderlerini azaltır. Seksen akıllı bina üzerinde yapılan bir araştırma, yıllık klima faturalarında yüzde otuzluk bir düşüş gösterdi. Çatı ekosistemleri geliştirmek, şehir içi iklim güvenliğini sağlamak için son derece pratik bir strateji temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -10022,7 +10022,7 @@
   "id": "pxr234",
   "topic": "Reusable Bottles (Environmental Science)",
   "paragraph_raw": "Most consumers assume that buying bottled water is the only way to get clean drinking water. Choosing plastic bottles indeed guarantees clean testing standards under varying municipal water conditions. Thorough tap water filtering, instead of being unsafe, provides extremely clean water and prevents plastic waste. A chemical test of forty water samples showed identical purity scores with plastic brands. Choosing high capacity filters represents a highly responsible strategy to protect global ecosystems.",
-  "tr": "Çoğu tüketici, şişelenmiş su satın almanın temiz içme suyu elde etmenin tek yolu olduğunu varsayar. Plastik şişeleri seçmek, dürüst olmak gerekirse değişken belediye su koşulları altında temiz test standartlarını garanti eder. Detaylı musluk suyu filtreleme ise güvensiz olmak yerine, son derece temiz su sağlar ve plastik atıklarını önler. Kırk su örneği üzerinde yapılan bir kimyasal test, plastik markalarla tamamen aynı saflık puanlarını gösterdi. Yüksek kapasiteli filtreleri seçmek, küresel ekosistemleri korumak için son derece sorumluluk sahibi bir strateji temsil eder.",
+  "tr": "Çoğu tüketici, şişelenmiş su satın almanın temiz içme suyu elde etmenin tek yolu olduğunu varsayar. Plastik şişeleri seçmek, gerçekten de değişken belediye su koşulları altında temiz test standartlarını garanti eder. Detaylı musluk suyu filtreleme ise güvensiz olmak yerine, son derece temiz su sağlar ve plastik atıklarını önler. Kırk su örneği üzerinde yapılan bir kimyasal test, plastik markalarla tamamen aynı saflık puanlarını gösterdi. Yüksek kapasiteli filtreleri seçmek, küresel ekosistemleri korumak için son derece sorumluluk sahibi bir strateji temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -10194,7 +10194,7 @@
   "id": "pxr238",
   "topic": "Urban Forestry (Environmental Science)",
   "paragraph_raw": "Many city administrators assume that planting urban trees only demands high municipal budget costs. Maintaining large green plants indeed requires regular watering trucks and professional winter branches cleaning. Urban tree zones, instead of wasting municipal money, drastically cool local streets and prevent summer heat deaths. A city temperature report of ten districts showed five degrees cooler street temperatures. Supporting urban forestry represents an incredibly smart choice to build modern healthy cities.",
-  "tr": "Birçok şehir yöneticisi, kentsel ağaçlar dikmenin sadece yüksek belediye bütçesi maliyetleri gerektirdiğini varsayar. Büyük yeşil bitkilerin bakımını yapmak, gerçekten de düzenli sulama kamyonları ve profesyonel kışlık dal temizliği gerektirir. Kentsel ağaçlık alanlar ise belediye parasını boşa harcamak yerine, yerel sokakları ciddi şekilde serinletir ve yazlık sıcaklık ölümlerini önler. On bölgeyi kapsayan bir şehir sıcaklık raporu, sokak sıcaklıklarında beş derece daha serin sonuçlar gösterdi. Kentsel ormancılığı desteklemek, modern sağlıklı şehirler inşa etmek için inanılmaz derecede akıllıca bir seçim temsil eder.",
+  "tr": "Birçok şehir yöneticisi, kentsel ağaçlar dikmenin sadece yüksek belediye bütçesi maliyetleri gerektirdiğini varsayar. Büyük yeşil bitkilerin bakımını yapmak, gerçekten de düzenli sulama kamyonları ve profesyonel kış dal temizliği gerektirir. Kentsel ağaçlık alanlar ise belediye parasını boşa harcamak yerine, yerel sokakları ciddi şekilde serinletir ve yaz sıcağı ölümlerini önler. On bölgeyi kapsayan bir şehir sıcaklık raporu, sokak sıcaklıklarında beş derece daha serin sonuçlar gösterdi. Kentsel ormancılığı desteklemek, modern sağlıklı şehirler inşa etmek için inanılmaz derecede akıllıca bir seçim temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -10323,7 +10323,7 @@
   "id": "pxr241",
   "topic": "Vegetarian Diets (Nutrition)",
   "paragraph_raw": "Most traditional doctors assume that vegetarian meals always fail to provide enough high quality protein. Eating only plant foods indeed makes it slightly harder to get some essential amino acids. Balanced plant diets, rather than animal products, easily meet all basic human daily protein requirements. A study of two hundred active athletes showed that plant eaters had excellent muscle recovery. The main takeaway is that a well planned plant diet is a very safe and healthy choice.",
-  "tr": "Çoğu geleneksel doktor, vejetaryen öğünlerin her zaman yeterli yüksek kaliteli protein sağlamada başarısız olduğunu varsayar. Sadece bitkisel gıdalarla beslenmek, bazı temel amino asitleri almayı gerçekten de biraz daha zorlaştırır. Dengeli bitki diyetleri ise hayvansal ürünler yerine tüm temel günlük insan proteini ihtiyaçlarını kolayca karşılar. İki yüz aktif sporcu üzerinde yapılan bir araştırma, bitkiyle beslenenlerin mükemmel kas iyileşmesine sahip olduğunu gösterdi. Temel çıkarım, iyi planlanmış bir bitki diyetinin çok güvenli ve sağlıklı bir seçim olduğudur.",
+  "tr": "Çoğu geleneksel doktor, vejetaryen diyetlerin her zaman yeterli yüksek kaliteli protein sağlamada başarısız olduğunu varsayar. Sadece bitkisel gıdalarla beslenmek, bazı temel amino asitleri almayı gerçekten de biraz daha zorlaştırır. Dengeli bitki diyetleri ise hayvansal ürünler yerine tüm temel günlük insan proteini ihtiyaçlarını kolayca karşılar. İki yüz aktif sporcu üzerinde yapılan bir araştırma, bitkiyle beslenenlerin mükemmel kas iyileşmesine sahip olduğunu gösterdi. Temel çıkarım, iyi planlanmış bir bitki diyetinin çok güvenli ve sağlıklı bir seçim olduğudur.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -10839,7 +10839,7 @@
   "id": "pxr253",
   "topic": "E-commerce (Business)",
   "paragraph_raw": "Many retail traditionalists claim that online shopping will completely destroy physical local stores. Massive online websites indeed offer a much larger range of products than local shops. Physical commercial stores, instead of disappearing, actually attract loyal shoppers by offering immediate touch experiences. A national shopping report showed that eighty percent of buyers still prefer local stores for clothes. Hence, a balanced retail model combining both digital and physical stores represents the most stable strategy.",
-  "tr": "Birçok perakende gelenekçisi, çevrim içi alışverişin fiziksel yerel mağazaları tamamen yok edeceğini iddia etmektedir. Devasa çevrim içi web siteleri gerçekten de yerel mağazalardan çok daha geniş bir ürün yelpazesi sunar. Fiziksel ticari mağazalar ise ortadan kaybolmak yerine, anında dokunma deneyimleri sunarak sadık alıcıları aslında kendilerine çekmektedir. Ulusal bir alışveriş raporu, alıcıların yüzde sekseninin kıyafetler için hala yerel mağazaları tercih ettiğini gösterdi. Bu nedenle, hem dijital hem de fiziksel mağazaları birleştiren dengeli bir perakende modeli en istikrarlı stratejiyi temsil eder.",
+  "tr": "Birçok perakende gelenekçisi, çevrim içi alışverişin fiziksel yerel mağazaları tamamen yok edeceğini iddia etmektedir. Devasa çevrim içi web siteleri gerçekten de yerel mağazalardan çok daha geniş bir ürün yelpazesi sunar. Fiziksel ticari mağazalar ise ortadan kaybolmak yerine, anında dokunma deneyimleri sunarak sadık alıcıları aslında kendilerine çekmektedir. Ulusal bir alışveriş raporu, alıcıların yüzde sekseninin kıyafetler için hâlâ yerel mağazaları tercih ettiğini gösterdi. Bu nedenle, hem dijital hem de fiziksel mağazaları birleştiren dengeli bir perakende modeli en istikrarlı stratejiyi temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -10867,7 +10867,7 @@
     "text": "A national shopping report showed that eighty percent of buyers still prefer local stores for clothes.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Alıcıların yüzde sekseninin giyim alışverişinde hala fiziksel yerel dükkanları tercih ettiğini gösteren rapor verileriyle tezi destekler."
+    "why": "Alıcıların yüzde sekseninin giyim alışverişinde hâlâ fiziksel yerel dükkanları tercih ettiğini gösteren rapor verileriyle tezi destekler."
    },
    {
     "sentence_index": 4,
@@ -10968,7 +10968,7 @@
   "id": "pxr256",
   "topic": "Rainwater Harvesting (Conservation)",
   "paragraph_raw": "Most suburban residents believe that collecting rainwater in barrels is an outdated and useless practice. Simple storage tanks indeed cannot supply drinkable water without extensive and expensive purification tools. Targeted rainwater systems, rather than providing drinking water, easily handle all outdoor watering and garden needs. A municipal study of five hundred homes reported a forty percent drop in summer tap water demand. Thus, installing basic harvesting barrels represents a highly efficient strategy to lower residential water bills.",
-  "tr": "Çoğu banliyö sakini, varillerde yağmur suyu toplamanın modası geçmiş ve yararsız bir uygulama olduğuna inanır. Basit depolama tankları gerçekten de kapsamlı ve pahalı arıtma araçları olmadan içilebilir su sağlayamaz. Hedefli yağmur suyu sistemleri ise içme suyu sağlamak yerine tüm dış mekan sulama ve bahçe ihtiyaçlarını kolayca karşılar. Beş yüz evi kapsayan belediye araştırması, yazlık musluk suyu talebinde yüzde kırklık bir düşüş bildirdi. Böylece, basit toplama varilleri kurmak konutsal su faturalarını düşürmek için son derece verimli bir strateji temsil eder.",
+  "tr": "Çoğu banliyö sakini, varillerde yağmur suyu toplamanın modası geçmiş ve yararsız bir uygulama olduğuna inanır. Basit depolama tankları gerçekten de kapsamlı ve pahalı arıtma araçları olmadan içilebilir su sağlayamaz. Hedefli yağmur suyu sistemleri ise içme suyu sağlamak yerine tüm dış mekan sulama ve bahçe ihtiyaçlarını kolayca karşılar. Beş yüz evi kapsayan belediye araştırması, yaz aylarındaki musluk suyu talebinde yüzde kırklık bir düşüş bildirdi. Böylece, basit toplama varilleri kurmak konutsal su faturalarını düşürmek için son derece verimli bir strateji temsil eder.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -11655,7 +11655,7 @@
  {
   "id": "pxr272",
   "topic": "Warm Herbal Teas (Health/Traditional Medicine)",
-  "paragraph_raw": "Most medical doctors claim that drinking warm herbal teas provides no real biological relief for seasonal colds. Simple plant infusions cannot indeed kill biological throat viruses or cure serious bacterial lung infections. Warm herbal drinks, instead of being useless, significantly reduce throat pain and keep the body fully hydrated during recovery. A clinical survey of three hundred patients reported much less irritation after drinking chamomile teas. Thus, using safe natural infusions represents a highly practical and comfortable home remedy to ease cold symptoms.",
+  "paragraph_raw": "Most medical doctors claim that drinking warm herbal teas provides no real biological relief for seasonal colds. Simple plant infusions indeed cannot kill biological throat viruses or cure serious bacterial lung infections. Warm herbal drinks, instead of being useless, significantly reduce throat pain and keep the body fully hydrated during recovery. A clinical survey of three hundred patients reported much less irritation after drinking chamomile teas. Thus, using safe natural infusions represents a highly practical and comfortable home remedy to ease cold symptoms.",
   "tr": "Çoğu tıp doktoru, sıcak bitki çayları içmenin mevsimsel soğuk algınlığı için gerçek bir biyolojik rahatlama sağlamadığını iddia eder. Basit bitki demleri gerçekten de biyolojik boğaz virüslerini öldüremez veya ciddi bakteriyel akciğer enfeksiyonlarını tedavi edemez. Sıcak bitki içecekleri ise yararsız olmak yerine, boğaz ağrısını önemli ölçüde azaltır ve iyileşme sırasında vücudu tamamen hidrate tutar. Üç yüz hastayı kapsayan klinik bir anket, papatya çayı içtikten sonra çok daha az tahriş bildirdi. Böylece, güvenli doğal demler kullanmak soğuk algınlığı semptomlarını hafifletmek için son derece pratik ve rahat bir ev ilacı temsil eder.",
   "scaffolding": [
    {
@@ -11667,7 +11667,7 @@
    },
    {
     "sentence_index": 1,
-    "text": "Simple plant infusions cannot indeed kill biological throat viruses or cure serious bacterial lung infections.",
+    "text": "Simple plant infusions indeed cannot kill biological throat viruses or cure serious bacterial lung infections.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
     "why": "Bitki çaylarının virüsleri doğrudan öldürme veya ağır enfeksiyonları tedavi etme gücünün olmadığını dürüstçe kabul eder."
@@ -11699,7 +11699,7 @@
   "id": "pxr273",
   "topic": "Reading Novels (Literature/Cognitive Health)",
   "paragraph_raw": "Many tech bloggers assert that reading short news snippets is just as cognitively useful as reading thick novels. Brief digital articles indeed provide quick factual updates on current international events. Paper novels, rather than quick news, continue to build much stronger long term attention spans and deep empathy skills. A brain imaging trial of two hundred readers showed much higher neural connections during structured book reading. Hence, maintaining daily book reading habits remains a highly essential strategy for deep cognitive development.",
-  "tr": "Birçok teknoloji blog yazarı, kısa haber parçaları okumanın kalın romanlar okumak kadar bilişsel açıdan yararlı olduğunu iddia eder. Kısa dijital makaleler gerçekten de güncel uluslararası olaylar hakkında hızlı ve gerçekçi güncellemeler sağlar. Romanlar ise hızlı haberler yerine, çok daha güçlü uzun vadeli dikkat süreleri ve derin empati becerileri oluşturmaya devam etmektedir. İki yüz okuyucu üzerinde yapılan bir beyin görüntüleme denemesi, yapılandırılmış kitap okuma sırasında çok daha yüksek sinirsel bağlantılar gösterdi. Bu nedenle, günlük kitap okuma alışkanlıklarını sürdürmek derin bilişsel gelişim için son derece temel bir strateji olmaya devam etmektedir.",
+  "tr": "Birçok teknoloji blog yazarı, kısa haber parçaları okumanın kalın romanlar okumak kadar bilişsel açıdan yararlı olduğunu iddia eder. Kısa dijital makaleler gerçekten de güncel uluslararası olaylar hakkında hızlı ve olgusal güncellemeler sağlar. Romanlar ise hızlı haberler yerine, çok daha güçlü uzun vadeli dikkat süreleri ve derin empati becerileri oluşturmaya devam etmektedir. İki yüz okuyucu üzerinde yapılan bir beyin görüntüleme denemesi, yapılandırılmış kitap okuma sırasında çok daha yüksek sinirsel bağlantılar gösterdi. Bu nedenle, günlük kitap okuma alışkanlıklarını sürdürmek derin bilişsel gelişim için son derece temel bir strateji olmaya devam etmektedir.",
   "scaffolding": [
    {
     "sentence_index": 0,
@@ -12121,7 +12121,7 @@
     "text": "Consequently, certified heat pumps represent a highly successful option to keep modern homes warm.",
     "role": "conclusion",
     "display_role": "Sentez (Sonuç)",
-    "why": "Yüksek ilk kurulum endişesi ile yüzde kırk fatura tasarrufunu sentezleyerek modern ısı pompalarının başarısını bağlar."
+    "why": "Eski ısıtıcıların yüksek fatura sorunu ile yüzde kırk fatura tasarrufunu sentezleyerek modern ısı pompalarının başarısını bağlar."
    }
   ]
  },
@@ -12286,7 +12286,7 @@
     "text": "A corporate study in ninety offices reported a fifty percent saving in monthly energy costs.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Doksan ofiste yapılan bütçe çalışmasında elde edilen yüzde ellilik enerji tasarrufu verilerini paylaşarak karşı tezi destekler."
+    "why": "Doksan ofiste yapılan kurumsal çalışmada elde edilen yüzde ellilik enerji tasarrufu verilerini paylaşarak karşı tezi destekler."
    },
    {
     "sentence_index": 4,
@@ -12673,7 +12673,7 @@
     "text": "An urban test with eighty apartments reported a thirty percent saving in monthly energy bills.",
     "role": "evidence",
     "display_role": "Kanıt (Destekleyici Veri)",
-    "why": "Seksen çatı bahçeli apartmanda yapılan testlerde ölçülen yüzde otuzluk yazlık klima faturası tasarrufunu sunarak tezi kanıtlar."
+    "why": "Seksen çatı bahçeli apartmanda yapılan testlerde ölçülen yüzde otuzluk aylık enerji faturası tasarrufunu sunarak tezi kanıtlar."
    },
    {
     "sentence_index": 4,
@@ -13139,7 +13139,7 @@
     "text": "Microgreens, rather than standard full grown plants, continue to contain up to forty percent higher primary vitamins.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
-    "why": "Mikro sebzelerin olgunlaşmış klasik sebzelere göre yüzde kırk daha yoğun temel mineral ve vitamin taşıdığını savunup yönü değiştirir."
+    "why": "Mikro sebzelerin olgunlaşmış klasik sebzelere göre yüzde kırk daha yoğun temel vitamin taşıdığını savunup yönü değiştirir."
    },
    {
     "sentence_index": 3,
@@ -13239,7 +13239,7 @@
     "text": "The primary lesson is that protecting forest wildlife represents an excellent model for rural economics.",
     "role": "conclusion",
     "display_role": "Sentez (Sonuç)",
-    "why": "Ormana giriş kısıtlaması riski ile eko-turizmin seksen köye getirdiği yüksek gelir verilerini sentezleyerek koruma alanlarının değerini bağlar."
+    "why": "Ormana giriş kısıtlaması riski ile eko-turizmin doksan parkın çevresine getirdiği yüksek gelir verilerini sentezleyerek koruma alanlarının değerini bağlar."
    }
   ]
  },
@@ -13311,7 +13311,7 @@
     "text": "Electric trains, rather than costing more over time, successfully reduce daily maintenance fees and lower fuel expenses.",
     "role": "the_pivot",
     "display_role": "Karşı Sav (Antitez)",
-    "why": "Elektrikli lokomotiflerin dizellere kıyasla neredeyse hiç motor bakım maliyeti çıkarmadığını ve yakıttan tasarruf sağladığını savunarak yön değiştirir."
+    "why": "Elektrikli lokomotiflerin dizellere kıyasla bakım maliyetlerini azalttığını ve yakıttan tasarruf sağladığını savunarak yön değiştirir."
    },
    {
     "sentence_index": 3,
@@ -13519,7 +13519,7 @@
     "text": "Spraying toxic mixtures indeed kills dangerous plant bugs rapidly during hot summer weeks.",
     "role": "concession",
     "display_role": "Taviz (Hak Verme)",
-    "why": "Zehirli kimyasal ilaç püskürtmenin tarım zararlılarını saniyeler içinde hızla imha ettiği gerçeğini dürüstçe kabul eder."
+    "why": "Zehirli kimyasal ilaç püskürtmenin tarım zararlılarını hızla imha ettiği gerçeğini dürüstçe kabul eder."
    },
    {
     "sentence_index": 2,

@@ -621,7 +621,7 @@
         "en": "a football match",
         "enBare": "football match",
         "tr": "bir futbol maçı",
-        "trBare": "Maç"
+        "trBare": "Futbol maçı"
       },
       {
         "en": "a cartoon",
@@ -1083,7 +1083,7 @@
       },
       "yuklem": {
         "en": "more welcoming",
-        "tr": "daha ferah"
+        "tr": "daha davetkâr"
       }
     }
   },
@@ -2933,7 +2933,7 @@
         "en": "a new topic",
         "enBare": "new topic",
         "tr": "yeni bir konu",
-        "trBare": "Konu"
+        "trBare": "Yeni konu"
       },
       {
         "en": "a song",
@@ -3075,7 +3075,7 @@
         "en": "a famous singer",
         "enBare": "famous singer",
         "tr": "ünlü bir şarkıcı",
-        "trBare": "Şarkıcı"
+        "trBare": "Ünlü şarkıcı"
       },
       {
         "en": "a neighbor",
@@ -5109,7 +5109,7 @@
         "en": "a historic building",
         "enBare": "historic building",
         "tr": "tarihi bir bina",
-        "trBare": "Bina"
+        "trBare": "Tarihi bina"
       },
       {
         "en": "a national park",
@@ -5381,7 +5381,7 @@
         "en": "a new model",
         "enBare": "new model",
         "tr": "yeni bir model",
-        "trBare": "Model"
+        "trBare": "Yeni model"
       },
       {
         "en": "a device",
@@ -5511,7 +5511,7 @@
         "en": "a mobile application",
         "enBare": "mobile application",
         "tr": "bir mobil uygulama",
-        "trBare": "Uygulama"
+        "trBare": "Mobil uygulama"
       },
       {
         "en": "a vaccine",
@@ -5523,7 +5523,7 @@
         "en": "a new method",
         "enBare": "new method",
         "tr": "yeni bir yöntem",
-        "trBare": "Yöntem"
+        "trBare": "Yeni yöntem"
       },
       {
         "en": "a project",
@@ -6599,7 +6599,7 @@
         "en": "a new policy",
         "enBare": "new policy",
         "tr": "yeni bir politika",
-        "trBare": "Politika"
+        "trBare": "Yeni politika"
       },
       {
         "en": "a plan",
@@ -6747,7 +6747,7 @@
         "en": "a new salary",
         "enBare": "new salary",
         "tr": "yeni bir maaş",
-        "trBare": "Maaş"
+        "trBare": "Yeni maaş"
       },
       {
         "en": "a trade deal",
@@ -7007,7 +7007,7 @@
         "en": "an old mansion",
         "enBare": "old mansion",
         "tr": "eski bir konak",
-        "trBare": "Konak"
+        "trBare": "Eski konak"
       },
       {
         "en": "a painting",
@@ -7025,7 +7025,7 @@
         "en": "an ancient bridge",
         "enBare": "ancient bridge",
         "tr": "antik bir köprü",
-        "trBare": "Köprü"
+        "trBare": "Antik köprü"
       },
       {
         "en": "a fresco",
@@ -7279,7 +7279,7 @@
         "en": "a new product",
         "enBare": "new product",
         "tr": "yeni bir ürün",
-        "trBare": "Ürün"
+        "trBare": "Yeni ürün"
       },
       {
         "en": "a brand",
@@ -7415,7 +7415,7 @@
         "en": "a new skill",
         "enBare": "new skill",
         "tr": "yeni bir beceri",
-        "trBare": "Beceri"
+        "trBare": "Yeni beceri"
       },
       {
         "en": "a habit",
