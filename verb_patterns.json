@@ -1276,8 +1276,8 @@
       "to working"
     ],
     "note": "quit bir eylemi veya alışkanlığı tamamen bırakmayı anlatır ve gerund alır.",
-    "sentence": "The brilliant young scientist quit [working] for the large firm.",
-    "sentence_tr": "Parlak genç bilim insanı büyük firma için çalışmayı bıraktı."
+    "sentence": "After his serious illness, the brilliant young scientist quit [working] altogether.",
+    "sentence_tr": "Ciddi hastalığından sonra parlak genç bilim insanı çalışmayı tamamen bıraktı."
   },
   {
     "head": "give up",
@@ -1735,7 +1735,7 @@
     "level": "B2",
     "answer": "waiting",
     "distractors": [
-      "to wait",
+      "waited",
       "wait",
       "to waiting"
     ],
@@ -1751,7 +1751,7 @@
     "level": "B2",
     "answer": "receiving",
     "distractors": [
-      "to receive",
+      "received",
       "receive",
       "to receiving"
     ],
@@ -2269,7 +2269,7 @@
     ],
     "note": "go on +to yeni bir eyleme geçmektir; +ing aynı eyleme devam etmektir.",
     "sentence": "Having finished college, he went on [to pursue] biology.",
-    "sentence_tr": "Koleji bitirdikten sonra biyoloji alanında ilerlemeye geçti."
+    "sentence_tr": "Koleji bitirdikten sonra biyoloji alanında kariyer yapmaya yöneldi."
   },
   {
     "head": "go on",
@@ -4380,7 +4380,7 @@
       "all citizens of having equal rights"
     ],
     "note": "guarantee devamına to-mastar alabildiği için çeldiricilerinde to-mastar kullanılmamalıdır.",
-    "sentence": "The constitution guarantees [that all citizens have equal rights] before law.",
+    "sentence": "The constitution guarantees [that all citizens have equal rights] before the law.",
     "sentence_tr": "Anayasa, tüm vatandaşların kanun önünde eşit haklara sahip olmasını garanti eder."
   },
   {
@@ -5560,8 +5560,8 @@
       "to reducing"
     ],
     "note": "aim fiili bir hedefi veya amacı belirtirken to-mastar alır.",
-    "sentence": "The environmental monetary policy aims [to reduce] harmful industrial emissions.",
-    "sentence_tr": "Çevresel para politikası zararlı endüstriyel emisyonları azaltmayı hedefliyor."
+    "sentence": "The new environmental policy aims [to reduce] harmful industrial emissions.",
+    "sentence_tr": "Yeni çevre politikası zararlı endüstriyel emisyonları azaltmayı hedefliyor."
   },
   {
     "head": "demand",
@@ -5593,7 +5593,7 @@
     ],
     "note": "demand bir eylemin yapılmasını kesin olarak isterken to-mastar alır.",
     "sentence": "The local community demanded [to hold] a referendum on mining.",
-    "sentence_tr": "Yerel halk, madencilik konusunda bir referandum yapılmasını talep etti."
+    "sentence_tr": "Yerel halk, madencilik konusunda bir referandum yapmayı talep etti."
   },
   {
     "head": "care",
