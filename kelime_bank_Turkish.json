@@ -175,7 +175,7 @@
     "drills": [
       {"topic": "agent", "sentence": "He is a famous Hollywood [actor].", "sentence_tr": "O, ünlü bir Hollywood oyuncusudur.", "distractors": ["action", "activity", "active"]},
       {"topic": "adj", "sentence": "She stays [active] by swimming every day.", "sentence_tr": "Her gün yüzerek faal kalır.", "distractors": ["action", "actively", "activity"]},
-      {"topic": "neg", "sentence": "The volcano has been [inactive] for centuries.", "sentence_tr": "Yanardağ yüzyıllardır etkisiz durumda.", "distractors": ["active", "actively", "action"]}
+      {"topic": "neg", "sentence": "The volcano has been [inactive] for centuries.", "sentence_tr": "Yanardağ yüzyıllardır hareketsiz durumda.", "distractors": ["active", "actively", "action"]}
     ]
   },
   {
