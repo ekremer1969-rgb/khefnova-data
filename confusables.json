@@ -59,7 +59,7 @@
     "answer": "makes",
     "distractors": [
       "does",
-      "creates"
+      "takes"
     ],
     "sentence_tr": "Annem bizim için her zaman lezzetli kekler yapar.",
     "note": "Somut bir şey üretme veya pişirme eylemlerinde 'make' kullanılır."
@@ -159,26 +159,26 @@
     "id": "cf_0013",
     "topic": "cf_verb",
     "level": 3,
-    "sentence": "Don't forget to [bring] your documents tomorrow.",
+    "sentence": "Don't forget to [bring] your documents when you come to my office tomorrow.",
     "answer": "bring",
     "distractors": [
       "take",
       "fetch"
     ],
-    "sentence_tr": "Yarın belgelerini getirmeyi unutma.",
+    "sentence_tr": "Yarın ofisime gelirken belgelerini getirmeyi unutma.",
     "note": "'Bring' bir şeyi konuşulan yere doğru getirme eylemidir."
   },
   {
     "id": "cf_0014",
     "topic": "cf_verb",
     "level": 3,
-    "sentence": "Please [take] these files to the main office.",
+    "sentence": "I am busy here, so please [take] these files to the main office.",
     "answer": "take",
     "distractors": [
       "bring",
-      "carry"
+      "fetch"
     ],
-    "sentence_tr": "Lütfen bu dosyaları ana ofise götürün.",
+    "sentence_tr": "Burada meşgulüm, o yüzden lütfen bu dosyaları ana ofise götürün.",
     "note": "'Take' bir şeyi bulunulan yerden başka bir yere götürme eylemidir."
   },
   {
@@ -228,7 +228,7 @@
     "answer": "remember",
     "distractors": [
       "remind",
-      "recall"
+      "regret"
     ],
     "sentence_tr": "Arabamı nereye park ettiğimi hatırlayamıyorum.",
     "note": "'Remember' zihinde bilgiyi kendiliğinden muhafaza etmek veya anımsamaktır."
@@ -241,7 +241,7 @@
     "answer": "win",
     "distractors": [
       "beat",
-      "earn"
+      "defeat"
     ],
     "sentence_tr": "Yerel takımımız şampiyonluğu kazanmayı başardı.",
     "note": "'Win' yarışma, maç veya ödül kazanmak için kullanılır."
@@ -250,7 +250,7 @@
     "id": "cf_0020",
     "topic": "cf_verb",
     "level": 4,
-    "sentence": "They managed to [beat] their rivals in finals.",
+    "sentence": "They managed to [beat] their rivals in the finals.",
     "answer": "beat",
     "distractors": [
       "win",
@@ -267,7 +267,7 @@
     "answer": "deny",
     "distractors": [
       "refuse",
-      "reject"
+      "resist"
     ],
     "sentence_tr": "Suçlu tüm iddiaları inkar etmeye karar verdi.",
     "note": "Suçlamayı veya iddiayı reddedip yalanlamak 'deny' fiiliyle ifade edilir."
@@ -293,7 +293,7 @@
     "answer": "rob",
     "distractors": [
       "steal",
-      "burgle"
+      "take"
     ],
     "sentence_tr": "Hırsızlar dün merkez bankasını soymayı başardı.",
     "note": "'Rob' kişi veya mekanı soymaktır; doğrudan soyulan yer/kişi nesne olur."
@@ -306,7 +306,7 @@
     "answer": "steal",
     "distractors": [
       "rob",
-      "snatch"
+      "burgle"
     ],
     "sentence_tr": "Dün gece birisi bisikletimi çalmaya çalıştı.",
     "note": "'Steal' çalınan nesnenin kendisini doğrudan nesne olarak alır."
@@ -341,13 +341,13 @@
     "id": "cf_0027",
     "topic": "cf_adj",
     "level": 4,
-    "sentence": "Istanbul is famous for its [historic] monuments.",
+    "sentence": "Today is a [historic] day for our country.",
     "answer": "historic",
     "distractors": [
       "historical",
       "history"
     ],
-    "sentence_tr": "İstanbul tarihi önem taşıyan anıtlarıyla ünlüdür.",
+    "sentence_tr": "Bugün ülkemiz için tarihi bir gün.",
     "note": "Tarihte büyük önemi olan olay veya yapılar için 'historic' kullanılır."
   },
   {
@@ -380,26 +380,26 @@
     "id": "cf_0030",
     "topic": "cf_adj",
     "level": 4,
-    "sentence": "The doctor prescribed a completely [effective] treatment.",
+    "sentence": "The new medicine proved [effective] against the infection.",
     "answer": "effective",
     "distractors": [
       "efficient",
       "affective"
     ],
-    "sentence_tr": "Doktor tamamen etkili bir tedavi reçete etti.",
+    "sentence_tr": "Yeni ilaç enfeksiyona karşı etkili olduğunu kanıtladı.",
     "note": "'Effective' istenen net sonucu veren (etkili); 'efficient' ise verimli çalışan demektir."
   },
   {
     "id": "cf_0031",
     "topic": "cf_adj",
     "level": 4,
-    "sentence": "The engine made a [continuous] noise all night.",
+    "sentence": "A [continuous] line of cars stretched along the road, with no gaps at all.",
     "answer": "continuous",
     "distractors": [
       "continual",
       "continued"
     ],
-    "sentence_tr": "Motor bütün gece kesintisiz bir gürültü çıkardı.",
+    "sentence_tr": "Yol boyunca hiç boşluk olmadan kesintisiz bir araba sırası uzanıyordu.",
     "note": "Aralıksız ve kesintisiz süren durumlar için 'continuous' kullanılır."
   },
   {
@@ -445,13 +445,13 @@
     "id": "cf_0035",
     "topic": "cf_adj",
     "level": 3,
-    "sentence": "The writer created an [imaginative] story for children.",
+    "sentence": "She is an [imaginative] child who invents new games every day.",
     "answer": "imaginative",
     "distractors": [
       "imaginary",
       "imaginable"
     ],
-    "sentence_tr": "Yazar çocuklar için hayal gücü yüksek bir hikaye yarattı.",
+    "sentence_tr": "O, her gün yeni oyunlar icat eden hayal gücü yüksek bir çocuk.",
     "note": "Yaratıcı ve hayal gücü geniş olan için 'imaginative', kurgusal olan için 'imaginary' kullanılır."
   },
   {
@@ -475,7 +475,7 @@
     "answer": "humane",
     "distractors": [
       "human",
-      "humanitarian"
+      "humanity"
     ],
     "sentence_tr": "Tüm mahkumlar için insani muamele talep ettiler.",
     "note": "Merhametli ve insancıl muamele için 'humane' sıfatı kullanılır."
@@ -500,7 +500,7 @@
     "sentence": "We had to find an [alternative] route today.",
     "answer": "alternative",
     "distractors": [
-      "alternate",
+      "alternatively",
       "alternating"
     ],
     "sentence_tr": "Bugün alternatif bir rota bulmak zorunda kaldık.",
@@ -510,13 +510,13 @@
     "id": "cf_0040",
     "topic": "cf_adj",
     "level": 5,
-    "sentence": "A judge must remain [disinterested] during the trial.",
+    "sentence": "A judge must be [disinterested] and have no personal stake in the case.",
     "answer": "disinterested",
     "distractors": [
       "uninterested",
       "interesting"
     ],
-    "sentence_tr": "Bir yargıç duruşma boyunca tarafsız kalmalıdır.",
+    "sentence_tr": "Bir yargıç tarafsız olmalı ve davada kişisel bir çıkarı bulunmamalıdır.",
     "note": "'Disinterested' tarafsız ve ön yargısız demektir; 'uninterested' ise ilgisiz anlamına gelir."
   },
   {
@@ -549,13 +549,13 @@
     "id": "cf_0043",
     "topic": "cf_adj",
     "level": 4,
-    "sentence": "The city is [notorious] for its heavy traffic.",
+    "sentence": "The area is [notorious] for its high crime rate.",
     "answer": "notorious",
     "distractors": [
       "notable",
       "noted"
     ],
-    "sentence_tr": "Şehir yoğun trafiğiyle kötü bir şöhrete sahiptir.",
+    "sentence_tr": "Bölge, yüksek suç oranıyla kötü bir şöhrete sahiptir.",
     "note": "Kötü bir özellikle nam salmış veya adı çıkmış durumlar için 'notorious' kullanılır."
   },
   {
@@ -604,7 +604,7 @@
     "sentence": "He is very [sociable] and enjoys meeting people.",
     "answer": "sociable",
     "distractors": [
-      "social",
+      "socially",
       "society"
     ],
     "sentence_tr": "O çok sosyalleşmeyi seven biridir ve insanlarla tanışmaktan hoşlanır.",
@@ -653,33 +653,33 @@
     "id": "cf_0051",
     "topic": "cf_noun",
     "level": 3,
-    "sentence": "We took a short [trip] to the beach.",
+    "sentence": "We took a day [trip] to the beach and came home in the evening.",
     "answer": "trip",
     "distractors": [
       "travel",
       "journey"
     ],
-    "sentence_tr": "Sahile kısa bir gezi yaptık.",
+    "sentence_tr": "Sahile günübirlik bir gezi yaptık ve akşam eve döndük.",
     "note": "Kısa gidiş-dönüş gezileri için 'trip' kullanılır."
   },
   {
     "id": "cf_0052",
     "topic": "cf_noun",
     "level": 2,
-    "sentence": "She is looking for a new [job] in marketing.",
+    "sentence": "She has a part-time [job] at a local bakery.",
     "answer": "job",
     "distractors": [
       "work",
       "career"
     ],
-    "sentence_tr": "Pazarlama alanında yeni bir iş arıyor.",
+    "sentence_tr": "Yerel bir fırında yarı zamanlı bir işi var.",
     "note": "Sayılabilen meslek/iş pozisyonu için 'job' kullanılır."
   },
   {
     "id": "cf_0053",
     "topic": "cf_noun",
     "level": 4,
-    "sentence": "This antique ring has great emotional [value].",
+    "sentence": "This antique ring has great sentimental [value].",
     "answer": "value",
     "distractors": [
       "price",
@@ -744,13 +744,13 @@
     "id": "cf_0058",
     "topic": "cf_noun",
     "level": 4,
-    "sentence": "The Mediterranean area is famous for its mild [climate].",
+    "sentence": "Scientists warn that global warming is changing the Earth's [climate].",
     "answer": "climate",
     "distractors": [
       "weather",
       "forecast"
     ],
-    "sentence_tr": "Akdeniz bölgesi ılıman iklimiyle ünlüdür.",
+    "sentence_tr": "Bilim insanları küresel ısınmanın Dünya'nın iklimini değiştirdiği konusunda uyarıyor.",
     "note": "Bir bölgenin uzun süreli genel hava durumu ve iklimi 'climate'dır."
   },
   {
@@ -800,7 +800,7 @@
     "answer": "receipt",
     "distractors": [
       "recipe",
-      "invoice"
+      "reception"
     ],
     "sentence_tr": "İade durumuna karşı mağaza fişini saklayın.",
     "note": "Alışveriş sonrası ödeme yapıldığını gösteren fiş 'receipt'tir."
@@ -835,13 +835,13 @@
     "id": "cf_0065",
     "topic": "cf_noun",
     "level": 3,
-    "sentence": "As a [foreigner], he needed a valid passport.",
+    "sentence": "He is a [foreigner]; he is only visiting our country for two weeks.",
     "answer": "foreigner",
     "distractors": [
       "stranger",
       "immigrant"
     ],
-    "sentence_tr": "Bir yabancı ülke vatandaşı olarak geçerli bir pasaporta ihtiyacı vardı.",
+    "sentence_tr": "O bir yabancı; ülkemizi yalnızca iki haftalığına ziyaret ediyor.",
     "note": "Başka bir ülkenin vatandaşı olan yabancı 'foreigner'dır."
   },
   {
@@ -852,7 +852,7 @@
     "answer": "salary",
     "distractors": [
       "wage",
-      "income"
+      "pension"
     ],
     "sentence_tr": "Müdür aylık sabit bir maaş almaktadır.",
     "note": "Beyaz yakalı veya profesyonellere ödenen aylık sabit maaş 'salary'dir."
@@ -891,7 +891,7 @@
     "answer": "scenery",
     "distractors": [
       "scene",
-      "landscape"
+      "scenic"
     ],
     "sentence_tr": "Nefes kesici dağ manzarasının tadını çıkardık.",
     "note": "Doğal manzara ve genel çevre görünümü 'scenery'dir."
@@ -1020,8 +1020,8 @@
     "sentence": "This suit was made [specially] for the wedding ceremony.",
     "answer": "specially",
     "distractors": [
-      "especially",
-      "special"
+      "special",
+      "specialty"
     ],
     "sentence_tr": "Bu takım elbise özel olarak düğün töreni için yapıldı.",
     "note": "Belli bir amaç veya durum için özel tasarlanmış eylemlerde 'specially' tercih edilir."
@@ -1202,8 +1202,8 @@
     "sentence": "She was born in a country [farther] south.",
     "answer": "farther",
     "distractors": [
-      "further",
-      "furthest"
+      "farthest",
+      "far"
     ],
     "sentence_tr": "Daha güneydeki bir ülkede doğdu.",
     "note": "Somut ve ölçülebilir fiziksel mesafe için 'farther' kullanımı esastır."
@@ -1229,7 +1229,7 @@
     "answer": "into",
     "distractors": [
       "in to",
-      "inside of"
+      "inwards"
     ],
     "sentence_tr": "Kedi açık karton kutunun içine atladı.",
     "note": "İçine doğru hareketi bildiren edat birleşik yazılan 'into' sözcüğüdür."
@@ -1293,7 +1293,7 @@
     "sentence": "She paid for her purchase [in] cash yesterday.",
     "answer": "in",
     "distractors": [
-      "with",
+      "on",
       "by"
     ],
     "sentence_tr": "Dün alışverişinin ödemesini nakit olarak yaptı.",
