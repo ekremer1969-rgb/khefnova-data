@@ -140,7 +140,7 @@
       "—"
     ],
     "sentence_tr": "Fransızlar lezzetli mutfaklarıyla ünlüdür.",
-    "note": "'The' edatı millet adlarının önüne geldiğinde o milletin halkını temsil eder."
+    "note": "'The' tanımlığı millet adlarının önüne geldiğinde o milletin halkını temsil eder."
   },
   {
     "id": "ia_0012",
@@ -176,7 +176,7 @@
     "answer": "the",
     "distractors": [
       "a",
-      "—"
+      "an"
     ],
     "sentence_tr": "O, okulda İngiliz dilini öğreniyor.",
     "note": "Dil adının yanında 'language' sözcüğü geçerse 'the' kullanılır."
@@ -202,7 +202,7 @@
     "answer": "the",
     "distractors": [
       "a",
-      "—"
+      "an"
     ],
     "sentence_tr": "O, küçük yaşta piyano çalmayı öğrendi.",
     "note": "Müzik aletleri çalınırken enstrüman adının önüne 'the' gelir."
@@ -773,7 +773,7 @@
     "sentence": "You can visit us at [any] time tomorrow.",
     "answer": "any",
     "distractors": [
-      "some",
+      "each",
       "no"
     ],
     "sentence_tr": "Bizi yarın herhangi bir zamanda ziyaret edebilirsin.",
@@ -854,8 +854,8 @@
     "sentence": "This culture is completely different [from] ours.",
     "answer": "from",
     "distractors": [
-      "than",
-      "to",
+      "of",
+      "for",
       "with"
     ],
     "sentence_tr": "Bu kültür bizimkinden tamamen farklıdır.",
@@ -910,12 +910,12 @@
     "sentence": "Living in a village is even [quieter] than before.",
     "answer": "quieter",
     "distractors": [
-      "more quiet",
+      "more quieter",
       "quietest",
       "as quiet"
     ],
     "sentence_tr": "Bir köyde yaşamak eskisine göre daha da sakindir.",
-    "note": "Tek heceli veya '-y' ile biten iki heceli sıfatlar comparative takısı '-er' alır."
+    "note": "Tek heceli sıfatlar (quiet gibi) comparative için '-er' alır; 'more' ile '-er' birlikte kullanılmaz."
   },
   {
     "id": "ia_0071",
@@ -980,7 +980,7 @@
     "sentence": "This was the happiest day [of] my entire life.",
     "answer": "of",
     "distractors": [
-      "in",
+      "on",
       "from",
       "than"
     ],
@@ -1080,7 +1080,7 @@
       "decisive"
     ],
     "sentence_tr": "Son kararı vermeden önce daha fazla bilgiye ihtiyacımız var.",
-    "note": "'Further' soyut anlamda 'daha fazla / ilave' anlamına gelen üstünlük şeklidir."
+    "note": "'Final' sıfatından sonra isim gelir: decision (karar). 'Decide' fiil, 'decisive' sıfattır."
   },
   {
     "id": "ia_0083",
@@ -1616,7 +1616,7 @@
       "so as to"
     ],
     "sentence_tr": "Sınavı geçebilmek amacıyla çok çalıştı.",
-    "note": "'So that' yapısından sonra özne ve modül içeren tam cümle gelir."
+    "note": "'So that' yapısından sonra özne ve modal (could, would gibi) içeren tam cümle gelir."
   },
   {
     "id": "ia_0124",
@@ -1625,11 +1625,11 @@
     "sentence": "Take an umbrella [in case] it rains later today.",
     "answer": "in case",
     "distractors": [
-      "if",
+      "so that",
       "unless"
     ],
     "sentence_tr": "Bugün ilerleyen saatlerde yağmur yağar diye yanına şemsiye al.",
-    "note": "'In case' olası bir duruma karşı önlem almayı anlatır; 'if' ise şarta bağlıdır."
+    "note": "'In case' olası bir duruma karşı önlem almayı anlatır; 'unless' ise olumsuz şart bildirir."
   },
   {
     "id": "ia_0125",
@@ -1781,7 +1781,7 @@
     "sentence": "He acts [as if] he knew everything about politics.",
     "answer": "as if",
     "distractors": [
-      "like",
+      "as far as",
       "even though"
     ],
     "sentence_tr": "Politika hakkında her şeyi biliyormuş gibi davranıyor.",
@@ -1820,7 +1820,7 @@
     "sentence": "You must study [even if] you feel tired.",
     "answer": "even if",
     "distractors": [
-      "even though",
+      "in spite of",
       "as if"
     ],
     "sentence_tr": "Yorgun hissetsen bile ders çalışmalısın.",
@@ -1924,7 +1924,7 @@
     "sentence": "Many citrus fruits, [such as] oranges, contain vitamin C.",
     "answer": "such as",
     "distractors": [
-      "for example",
+      "so that",
       "like as"
     ],
     "sentence_tr": "Portakal gibi birçok narenciye türü C vitamini içerir.",
@@ -2246,7 +2246,7 @@
     "id": "ia_0172",
     "topic": "relatives",
     "level": 3,
-    "sentence": "Goods [imported] from China are subject to custom tax.",
+    "sentence": "Goods [imported] from China are subject to customs tax.",
     "answer": "imported",
     "distractors": [
       "importing",
@@ -2471,7 +2471,7 @@
     "answer": "would rather stay",
     "distractors": [
       "would prefer stay",
-      "had rather stay"
+      "would rather to stay"
     ],
     "sentence_tr": "Bu gece dışarı çıkmaktansa evde kalmayı tercih ederim.",
     "note": "'Would rather' tercihlerde yalın fiil alır ve ikinci seçenek 'than' ile bağlanır."
@@ -2759,7 +2759,7 @@
       "I have",
       "I had"
     ],
-    "sentence_tr": "Nadir şekilde bu kadar muhteşem bir performans gördüm.",
+    "sentence_tr": "Bu kadar muhteşem bir performansı çok nadir gördüm.",
     "note": "Olumsuz zarf 'rarely' cümle başında yer aldığında cümle devrik yapı kazanır."
   },
   {
@@ -3523,7 +3523,7 @@
     "sentence": "I will speak to the manager [directly].",
     "answer": "directly",
     "distractors": [
-      "direct",
+      "directed",
       "direction"
     ],
     "sentence_tr": "Müdürle doğrudan görüşeceğim.",
@@ -3913,7 +3913,7 @@
     "sentence": "I have a lot of work to do, [don't] I?",
     "answer": "don't",
     "distractors": [
-      "haven't",
+      "hasn't",
       "am not"
     ],
     "sentence_tr": "Yapacak çok işim var, değil mi?",
@@ -5074,7 +5074,7 @@
       "account"
     ],
     "sentence_tr": "Garson, hesabı alabilir miyiz lütfen?",
-    "note": "Türkçe 'adisyon / hesap' = bill (AmE check). İngilizce 'addition' = toplama, ekleme; 'account' = banka hesabı."
+    "note": "Türkçe 'adisyon / hesap' = bill (AmE: check). İngilizce 'addition' = toplama, ekleme; 'account' = banka hesabı."
   },
   {
     "id": "ia_0390",
@@ -5737,7 +5737,7 @@
       "engine"
     ],
     "sentence_tr": "Her gün işe motoruyla gidiyor.",
-    "note": "Türkçe 'motor' (araç) = motorbike / motorcycle. İngilizce 'motor' ve 'engine' makinenin çalıştıran parçasıdır, binilen taşıt değil."
+    "note": "Türkçe 'motor' (araç) = motorbike / motorcycle. İngilizce 'motor' ve 'engine' makineyi çalıştıran parçadır, binilen taşıt değil."
   },
   {
     "id": "ia_0441",
