@@ -48,7 +48,7 @@
     "PARA-SAGLIK-60-70-005",
     "",
     "According to the studies, what does quitting smoking do?",
-    "Smoking is one of the most [dangerous] [habits] for the [lungs].\n{Although} many smokers know the [risks], they find it hard to [stop].\n[Studies], (which followed people for years), [show] that quitting can {improve} [health] after a long time.\n{However}, the [damage] is {not} always [reversible], {so} starting early is [risky].",
+    "Smoking is one of the most [dangerous] [habits] for the [lungs].\n{Although} many smokers know the [risks], they find it hard to [stop].\n[Studies], (which followed people for years), [show] that quitting can {improve} [health] after a long time.\n{However}, the [damage] is {not} always [reversible], {so} quitting early is [important].",
     "It can improve health even after a long time\nIt always reverses all the damage done to the lungs\nIt makes stopping easy for every smoker who tries\nIt increases the risk to the lungs for older smokers",
     "1",
     "Doğru cevap: bırakmak uzun süre sonra bile sağlığı İYİLEŞTİREBİLİR. [Studies] ... [show] that quitting can {improve} health → {improve} yön fiili. 2. şık tuzak: paragraf 'the damage is {not} always reversible' der, yani 'her zaman geri döndürür' YANLIŞ — {not} olumsuzluğunu kaçıranın hatası. (which followed people for years) süstür. {Although}/{However} tarafları ayırır.",
@@ -798,10 +798,10 @@
     "PARA-SAGLIK-60-70-080",
     "",
     "According to the paragraph, why does the body need less food at night?",
-    "The body uses less [energy] during [sleep].\n{Because} of this, heavy meals late at night turn into stored [fat] more [easily].\nA light dinner, (which is an old advice), still makes [sense].\n{However}, going to bed [hungry] also breaks sleep [quality].",
+    "The body uses less [energy] during [sleep].\n{Because} of this, heavy meals late at night turn into stored [fat] more [easily].\nA light dinner, (which is old advice), still makes [sense].\n{However}, going to bed [hungry] also breaks sleep [quality].",
     "Because the body uses less energy during sleep\nBecause hunger improves sleep quality at night\nBecause dinner must be skipped every night\nBecause fat gives more energy at night time",
     "1",
-    "Doğru cevap: uykuda beden daha AZ enerji harcadığı için. 'The body uses less energy during sleep. {Because} of this, heavy meals ... stored fat' → zincir açık. Şık 2 tuzak: '{However}, going to bed hungry also breaks sleep quality' tam tersini söyler. Taktik: iki uç da yanlış olabilir (çok yemek DE aç yatmak DA); 'balance' mantığını kur, uç şıkları ele. (which is an old advice) süstür.",
+    "Doğru cevap: uykuda beden daha AZ enerji harcadığı için. 'The body uses less energy during sleep. {Because} of this, heavy meals ... stored fat' → zincir açık. Şık 2 tuzak: '{However}, going to bed hungry also breaks sleep quality' tam tersini söyler. Taktik: iki uç da yanlış olabilir (çok yemek DE aç yatmak DA); 'balance' mantığını kur, uç şıkları ele. (which is old advice) süstür.",
     "Healthy adults can donate blood safely a few times yearly."
    ],
    [
@@ -1308,7 +1308,7 @@
     "During a storm, [lightning] and [thunder], (which are born together), happen at the same [moment].\n{However}, we see the flash [first].\n{Because} light travels much [faster] than [sound], the flash reaches our eyes before the noise reaches our [ears].\n{So}, counting the gap tells us how far the storm [is].",
     "Because light travels faster than sound\nBecause thunder happens after lightning\nBecause sound travels faster than light\nBecause our ears are slower to wake",
     "1",
-    "Doğru cevap: ışık sesten daha HIZLI yayıldığı için. '{Because} light travels much faster than sound, the flash reaches our eyes before the noise' → {Because} cümlesi. Şık 3 tam tersi (sound faster) → yön çevirme tuzağı. Taktik: '{However}, we see first' + {Because} birlikte cevabı verir; şık 2 aynı anı ('same moment') görmezden gelir. (yok)",
+    "Doğru cevap: ışık sesten daha HIZLI yayıldığı için. '{Because} light travels much faster than sound, the flash reaches our eyes before the noise' → {Because} cümlesi. Şık 3 tam tersi (sound faster) → yön çevirme tuzağı. Taktik: '{However}, we see first' + {Because} birlikte cevabı verir; şık 2 aynı anı ('same moment') görmezden gelir. (which are born together) süstür.",
     "Green leaves make food using energy from the bright sun."
    ],
    [
@@ -1368,7 +1368,7 @@
     "The [Moon], (which orbits the Earth), seems to glow with its own [light].\n{However}, it makes no light at [all].\n{Because} its surface {reflects} [sunlight] toward Earth, we see it [bright].\n{Therefore}, a full moon is simply the side fully lit by the [Sun].",
     "It reflects sunlight toward Earth\nIt produces its own light at night\nIt blocks the Sun's light completely\nIt burns like a small star in the sky",
     "1",
-    "Doğru cevap: yüzeyi güneş ışığını Dünya'ya YANSITTIĞI için. '{However}, it makes no light at all. {Because} its surface {reflects} sunlight' → {However} + {Because}. Şık 2 metnin çürüttüğü inanış ('seems ... {However} makes no light'). Taktik: 'seems ... {However}' kalıbında görünen yanlış, {However} sonrası doğrudur. (yok)",
+    "Doğru cevap: yüzeyi güneş ışığını Dünya'ya YANSITTIĞI için. '{However}, it makes no light at all. {Because} its surface {reflects} sunlight' → {However} + {Because}. Şık 2 metnin çürüttüğü inanış ('seems ... {However} makes no light'). Taktik: 'seems ... {However}' kalıbında görünen yanlış, {However} sonrası doğrudur. (which orbits the Earth) süstür.",
     "Salt spread on icy roads helps melt the frozen surface."
    ],
    [
@@ -1724,7 +1724,7 @@
    [
     "PARA-FEN-60-70-047",
     "",
-    "According to the paragraph, why does a balloon stick to hair?",
+    "According to the paragraph, why does a balloon stick to a wall?",
     "Rubbing a [balloon] on hair makes it [stick] to a [wall].\n{Because} rubbing gives the balloon an electric [charge], it pulls light objects [near].\nThis static [force], (which fades in time), is the same behind [lightning].\n{However}, wet weather weakens the [effect].",
     "Because rubbing gives it an electric charge\nBecause the wall is sticky enough to hold it\nBecause the hair is heavy and holds it up\nBecause charge makes it heavier than air",
     "1",
@@ -2038,7 +2038,7 @@
     "A [straw] in a glass of [water] seems to [bend].\n{However}, the straw, (which we can lift out), is perfectly [straight].\n{Because} light changes speed as it enters [water], it bends and tricks our [eyes].\n{Therefore}, what we see is an illusion, not a real [break].",
     "Because light bends as it enters the water\nBecause the straw truly breaks in water\nBecause water is much heavier than glass\nBecause our eyes are damaged by the water",
     "1",
-    "Doğru cevap: ışık suya girerken BÜKÜLDÜĞÜ için. '{However}, it is perfectly straight. {Because} light changes speed as it enters water, it bends' → {However} + {Because}. Şık 2 metnin 'perfectly straight/illusion' ile çelişir. Taktik: 'seems ... {However} straight' yanılsamayı düzeltir; 'truly breaks' tuzaktır. (yok-değil) sadece {} ve [] var mı kontrol; () eklenmeli",
+    "Doğru cevap: ışık suya girerken BÜKÜLDÜĞÜ için. '{However}, it is perfectly straight. {Because} light changes speed as it enters water, it bends' → {However} + {Because}. Şık 2 metnin 'perfectly straight/illusion' ile çelişir. Taktik: 'seems ... {However} straight' yanılsamayı düzeltir; 'truly breaks' tuzaktır. (which we can lift out) süstür.",
     "A butterfly sips nectar and carries pollen to the next bloom."
    ],
    [
@@ -3185,7 +3185,7 @@
     "A [free] market lets people trade as they [wish].\n{However}, without any [rules], the strong can cheat the [weak].\n{Because} fair laws stop fraud and protect [competition], honest [sellers], (who play by the rules), can also [win].\n{Therefore}, freedom and rules must work [together].",
     "Without any rules, the strong can cheat the weak\nRules always destroy a free market in the end\nCheating keeps markets healthy and the weak safe\nMarkets need no protection at all from the strong",
     "1",
-    "Doğru cevap: kural olmazsa güçlü zayıfı ALDATABİLDİĞİ için. '{However}, without any rules, the strong can cheat the weak. {Because} fair laws stop fraud ..., markets stay healthy' → {However}+{Because}. Şık 2 metnin '{Therefore}, freedom and rules together' ile çelişir. Taktik: 'free {However} needs rules' dengesi. (yok? kontrol: () eklendi mi)",
+    "Doğru cevap: kural olmazsa güçlü zayıfı ALDATABİLDİĞİ için. '{However}, without any rules, the strong can cheat the weak. {Because} fair laws stop fraud ..., markets stay healthy' → {However}+{Because}. Şık 2 metnin '{Therefore}, freedom and rules together' ile çelişir. Taktik: 'free {However} needs rules' dengesi. (who play by the rules) süstür.",
     "Village storytellers once entertained whole families on long winter evenings."
    ],
    [
@@ -3295,7 +3295,7 @@
     "Some people blame [luck] for every [failure].\n{However}, over many [years], steady [skill] tends to [win].\n{Because} a skilled person recovers from [setbacks] faster than a lucky one [repeats] success, skill proves more [reliable].\nA one-time [winner], (who cannot repeat it), soon [fades].",
     "Steady skill tends to win over many years\nLuck is always more reliable than skill\nSkilled people never recover from setbacks\nChance always beats effort in the end",
     "1",
-    "Doğru cevap: uzun yıllarda istikrarlı BECERİ kazanma eğiliminde olduğu için. '{However}, over many years, steady skill tends to win. {Because} a skilled person recovers from setbacks faster ...' → {However}+{Because}. Şık 2/4 metnin '{Therefore}, effort beats chance' ile çelişir. Taktik: 'blame luck {However} skill wins'. (yok? () eklenecek",
+    "Doğru cevap: uzun yıllarda istikrarlı BECERİ kazanma eğiliminde olduğu için. '{However}, over many years, steady skill tends to win. {Because} a skilled person recovers from setbacks faster ...' → {However}+{Because}. Şık 2/4 metnin '{Therefore}, effort beats chance' ile çelişir. Taktik: 'blame luck {However} skill wins'. (who cannot repeat it) süstür.",
     "Coastal towns depend heavily on fishing boats and summer visitors."
    ],
    [
@@ -4132,7 +4132,7 @@
     "A [seat] belt feels like a small [bother].\n{However}, in a crash it can be the [difference] between life and [death].\n{Because} the belt, (which locks in a sudden stop), holds a body [back] instead of letting it fly [forward], it prevents terrible [injuries].\n{Therefore}, a click that takes a second protects a whole [life].",
     "The belt holds the body back instead of letting it fly forward\nBelts throw the body forward in a crash instead of back\nWearing a belt causes much worse injuries in every crash\nSeat belts have no effect in a serious road crash",
     "1",
-    "Doğru cevap: kemer bedeni öne fırlatmak yerine GERİDE tuttuğu için. '{Because} the belt holds a body back instead of letting it fly forward, it prevents terrible injuries' → {Because} cümlesi. Şık 2-3 tam tersi. Taktik: 'feels a bother {However} difference between life and death'. (yok kontrol) - () eklendi mi?",
+    "Doğru cevap: kemer bedeni öne fırlatmak yerine GERİDE tuttuğu için. '{Because} the belt holds a body back instead of letting it fly forward, it prevents terrible injuries' → {Because} cümlesi. Şık 2-3 tam tersi. Taktik: 'feels a bother {However} difference between life and death'. (which locks in a sudden stop) süstür.",
     "Traders once carried spices along long routes between Asia and Europe."
    ],
    [
@@ -6236,7 +6236,7 @@
     "Place a wilted stick of celery in plain water and it grows firm [again].\n{Because} water moves through the cell walls from where it is plentiful toward where it is scarce, it flows into the thirsty cells and swells them.\n{However}, in very salty water (where the outside is drier than the inside) the flow reverses and the celery turns [limp].",
     "Because water flows into the thirsty cells and swells them\nBecause water flows out of the cells and shrinks them\nBecause the salt is drawn deep into the celery cells\nBecause the cell walls block all water from moving through",
     "1",
-    "Doğru cevap 1: {Because} cümlesi ozmozu verir — su, bol olduğu yerden az olduğa doğru hücrelere girer ve şişirir. TAKTİK: su yönünü doğru izle (çok→az; dışarıdan susuz hücreye). Şık 2 {However}'daki tuzlu su (ters akış) durumunu düz suya yükler — yön hatası. Şık 3 tuzun hareketini su sanır. Şık 4 'moves through the cell walls' ile çelişir.",
+    "Doğru cevap 1: {Because} cümlesi ozmozu verir — su, bol olduğu yerden az olduğu yere doğru hücrelere girer ve şişirir. TAKTİK: su yönünü doğru izle (çok→az; dışarıdan susuz hücreye). Şık 2 {However}'daki tuzlu su (ters akış) durumunu düz suya yükler — yön hatası. Şık 3 tuzun hareketini su sanır. Şık 4 'moves through the cell walls' ile çelişir.",
     "Fusing hydrogen into helium releases the vast energy that lights the Sun."
    ],
    [
@@ -6524,7 +6524,7 @@
     "",
     "According to the paragraph, why does a vacuum flask keep coffee hot for hours?",
     "A good flask can keep coffee steaming hot for [hours].\n{Because} heat escapes mainly by passing through matter, a layer of near-empty vacuum between the flask's two walls gives it almost nothing to cross.\n{So} the trapped warmth cannot easily leak away (which is also why the same trick keeps cold drinks cold), and the coffee stays [hot].",
-    "Because the near-empty gap gives escaping heat almost no matter to pass through\nBecause the vacuum keeps adding fresh heat into the coffee as it stands there\nBecause heat actually escapes fastest through empty space than through the walls\nBecause the flask's walls are made of specially warmed metal that adds heat",
+    "Because the near-empty gap gives escaping heat almost no matter to pass through\nBecause the vacuum keeps adding fresh heat into the coffee as it stands there\nBecause heat actually escapes faster through empty space than through the walls\nBecause the flask's walls are made of specially warmed metal that adds heat",
     "1",
     "Doğru cevap 1: {Because} cümlesi ilkeyi verir — ısı çoğunlukla maddeden geçerek kaçar; iki duvar arasındaki vakum geçecek madde bırakmaz. TAKTİK: 'why stays hot' sorusunda ısı kaçışını ENGELLEYEN şeyi ara (vakum = madde yok). Şık 3 tam tersi (boşlukta hızlı kaçmaz, kaçamaz). Şık 2 vakumu ısı kaynağı sanır (yalnızca yalıtır). Şık 4 metinde olmayan iddia. Parantez (which...keeps cold drinks cold) aynı ilkeyi örnekler.",
     "Tree rings reveal how much a tree grew during each year."
@@ -7350,7 +7350,7 @@
     "Children pick up a new tongue with an ease that leaves grown adults [envious].\n{Because} a young brain is still wired to soak up sounds and patterns without any conscious effort, the early years are prime for [language].\n{However}, an adult learner is by no means doomed to fail (as so many quietly fear), for patience and steady practice can still carry one a long way.",
     "Because a young brain soaks up sounds and patterns without conscious effort\nBecause adults soak up new patterns far more easily than children\nBecause adult learners are simply doomed to fail whenever they try to learn it\nBecause children make no effort to practise or even to listen at all",
     "1",
-    "Doğru cevap 1: {Because} cümlesi nedeni verir — genç beyin, sesleri ve kalıpları bilinçli çaba olmadan emecek şekilde kuruludur. TAKTİK: 'pick up' (edinmek) mantığında genç beynin doğal emişini ara. Şık 2 yön hatası (çocuk daha kolay, yetişkin değil). Şık 3 {However}'daki 'by no means doomed to fail' ile çelişir. Şık 4 'without conscious effort' ifadesini çabasızlık sanır ama çocuğun edinimiyle ilgili, pratikle değil — ve metinde yetişkin için 'practice' geçer. Parantez (as so many fear) süstür.",
+    "Doğru cevap 1: {Because} cümlesi nedeni verir — genç beyin, sesleri ve kalıpları bilinçli çaba olmadan emecek şekilde kuruludur. TAKTİK: 'pick up' (edinmek) mantığında genç beynin doğal emişini ara. Şık 2 yön hatası (çocuk daha kolay, yetişkin değil). Şık 3 {However}'daki 'by no means doomed to fail' ile çelişir. Şık 4 'soak up sounds and patterns' ile çelişir (çocuk dinleyerek öğrenir, dinlemeyi bırakmaz). Parantez (as so many fear) süstür.",
     "Honeybees communicate the location of flowers through a careful dance."
    ],
    [
@@ -7517,7 +7517,7 @@
     "PARA-YDS-70-85-022",
     "",
     "According to the paragraph, how can gratitude lift a low mood?",
-    "It is all too easy to fix our whole gaze on what we [lack].\n{Because} deliberately noticing what we already have shifts our attention from absence toward plenty, gratitude can genuinely lift a low [mood].\n{So} a person who lists three good things each night (which cost nothing at all to recall) often sleeps far lighter than one who counts only regrets.",
+    "It is all too easy to fix our whole gaze on what we [lack].\n{Because} deliberately noticing what we already have shifts our attention from absence toward plenty, gratitude can genuinely lift a low [mood].\n{So} a person who lists three good things each night (which cost nothing at all to recall) often sleeps far better than one who counts only regrets.",
     "By shifting our attention from what we lack toward what we already have\nBy fixing our whole gaze firmly and for ever on what we lack in life\nBy carefully counting only our regrets each night before we go to bed again\nBy costing us a great deal of effort to recall each thing we have",
     "1",
     "Doğru cevap 1: {Because} cümlesi mekanizmayı verir — sahip olduğumuzu bilinçli fark etmek, dikkati yokluktan bolluğa kaydırır. TAKTİK: 'how lift mood' sorusunda dikkat kaymasını ara. Şık 2 ilk cümledeki 'fix our gaze on what we lack' durumunun tersini şükran yapar — o eksik odaktır. Şık 3 {So}'daki 'lists three good things' ile çelişir (pişmanlık değil). Şık 4 parantezdeki 'cost nothing to recall' ile çelişir. Parantez süstür.",
@@ -7570,7 +7570,7 @@
     "To name a thing is to gain a strange kind of power [over] it.\n{Because} a vague dread we cannot quite describe often loosens its grip the moment we can finally call it by its [name], putting words to a fear can genuinely shrink it.\n{So} a patient who at last hears a clear diagnosis (which finally names the trouble) may feel calmer even before any cure has begun.",
     "Because a dread we cannot describe often loosens its grip once we can name it\nBecause naming a fear in truth always makes it far stronger than before\nBecause a vague dread never had any real grip on us in the first place\nBecause a cure must always come before any sense of calm can possibly arrive for us",
     "1",
-    "Doğru cevap 1: {Because} cümlesi nedeni verir — tarif edemediğimiz belirsiz korku, adını koyabildiğimizde gücünü yitirir. TAKTİK: 'why shrink' sorusunda adlandırmanın gevşetici etkisini ara. Şık 2 tam tersi (güçlendirir). Şık 3 'loosens its grip' ifadesiyle çelişir (gribi vardı). Şık 4 {So}'daki 'calmer even before any cure' ile çelişir. Parantez (which names the trouble) süstür.",
+    "Doğru cevap 1: {Because} cümlesi nedeni verir — tarif edemediğimiz belirsiz korku, adını koyabildiğimizde gücünü yitirir. TAKTİK: 'why shrink' sorusunda adlandırmanın gevşetici etkisini ara. Şık 2 tam tersi (güçlendirir). Şık 3 'loosens its grip' ifadesiyle çelişir (korkunun bir tutuşu vardı). Şık 4 {So}'daki 'calmer even before any cure' ile çelişir. Parantez (which names the trouble) süstür.",
     "Vaccines train the immune system to recognize a future threat."
    ],
    [
@@ -9158,7 +9158,7 @@
     "PARA-SOSYAL-85+-009",
     "",
     "According to the paragraph, why are goods like a lighthouse chronically under-supplied by the market?",
-    "A lighthouse faithfully guides every passing ship, whether or not that ship's owner ever [pays].\n{Because} no one at all can be shut out of a benefit that helps everyone alike, each person is sorely tempted to let all the others foot the bill and simply enjoy it for [free], such goods are chronically under-supplied.\n{So} the state very often steps in to fund what all enjoy but none will willingly pay for (a wide gap the free market simply leaves open), from clean air to the common [defence].",
+    "A lighthouse faithfully guides every passing ship, whether or not that ship's owner ever [pays].\n{Because} no one at all can be shut out of a benefit that helps everyone alike, each person is sorely tempted to let all the others foot the bill and simply enjoy it for [free]; suchgoods are chronically under-supplied.\n{So} the state very often steps in to fund what all enjoy but none will willingly pay for (a wide gap the free market simply leaves open), from clean air to the common [defence].",
     "Because no one can be shut out, so each is tempted to let others pay and enjoy it for free\nBecause every single person eagerly pays their own fair share of the cost, without any prompting\nBecause a lighthouse in fact helps only those few ships whose owners pay for its running costs\nBecause the free market always supplies such shared goods completely, and in more than enough quantity",
     "1",
     "Doğru cevap 1: {Because} cümlesi bedavacılık sorununu verir — kimse dışlanamadığı için herkes başkasının ödemesini bekler; bu yüzden kamu malı yetersiz üretilir. TAKTİK: dışlanamazlık → bedava binme → az arz. Şık 2 'tempted to let others foot the bill' ile çelişir. Şık 3 'whether or not the owner pays' ile çelişir (herkese fayda). Şık 4 'chronically under-supplied' ve {So} devlet müdahalesiyle çelişir. Parantez (a gap the market leaves open) süstür.",
@@ -9238,7 +9238,7 @@
     "PARA-SOSYAL-85+-017",
     "",
     "According to the paragraph, why does an outdated standard stay in place long after its original reason has gone?",
-    "The clumsy keyboard right under your fingers was first designed, oddly, to slow hasty typists [down].\n{Because} once a standard has been widely learned and endlessly built upon, the sheer cost of everyone switching at once keeps it firmly in place long after its reason has [gone], history can lock a whole society into an inferior choice.\n{So} a plainly better layout may well exist (which almost no one will actually adopt), yet the dead weight of all that came before holds the old one [fast].",
+    "The clumsy keyboard right under your fingers was first designed, oddly, to slow hasty typists [down].\n{Because} once a standard has been widely learned and endlessly built upon, the sheer cost of everyone switching at once keeps it firmly in place long after its reason has [gone]; history can lock a whole society into an inferior choice.\n{So} a plainly better layout may well exist (which almost no one will actually adopt), yet the dead weight of all that came before holds the old one [fast].",
     "Because once it is widely learned and built upon, the cost of everyone switching keeps it in place\nBecause the outdated old standard is, in truth, always the very best one, so no one would ever replace it\nBecause switching over to something new in fact costs nobody anything at all, so it happens at once\nBecause a plainly better layout is always quickly adopted by everyone, as soon as it appears on the market",
     "1",
     "Doğru cevap 1: {Because} cümlesi patika bağımlılığını verir — bir standart yaygın öğrenilip üstüne inşa edilince, herkesin geçiş maliyeti onu ayakta tutar. TAKTİK: geçiş maliyeti → kilitlenme. Şık 2 'inferior choice' ile çelişir. Şık 3 'the cost of everyone switching' ile çelişir. Şık 4 parantezdeki 'almost no one will adopt' ile çelişir. Parantez süstür.",
