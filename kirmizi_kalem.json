@@ -13762,5 +13762,629 @@
     "type": "Hatalı görünen doğru: Among … was + özne",
     "note": "Hata yok. Yer öbeği başa alınınca yapı devrilir; gerçek özne 'a famous novelist' tekil → 'was'.",
     "tr": "Konuklar arasında Şilili ünlü bir romancı vardı."
+  },
+  {
+    "id": "kk_pn_001",
+    "level": "A2",
+    "s": "The dog wagged [it's] tail when we arrived.",
+    "fix": "The dog wagged its tail when we arrived.",
+    "type": "Noktalama: its / it's",
+    "reason": "'it's' → 'its': it's = it is / it has; iyelik (onun) için kesmesiz 'its' kullanılır.",
+    "distractors": [
+      "'it's' → 'their': köpek tekil olsa da iyelik sıfatı çoğul olmalıdır.",
+      "'it's' → 'is': iyelik yerine 'is' gelir."
+    ],
+    "note": "its = onun (iyelik); it's = it is / it has. Kesme işareti burada iyelik değil kısaltma yapar: It's cold. / The cat licked its paw.",
+    "tr": "Köpek, biz gelince kuyruğunu salladı."
+  },
+  {
+    "id": "kk_pn_002",
+    "level": "A2",
+    "s": "My [friend's] are coming to the party tonight.",
+    "fix": "My friends are coming to the party tonight.",
+    "type": "Noktalama: çoğul -s kesme almaz",
+    "reason": "'friend's' → 'friends': çoğul -s kesme işareti almaz; kesme iyelik ya da kısaltma içindir.",
+    "distractors": [
+      "'friend's' → 'friends'': çoğul isimlerde iyelik kesmesi -s'den sonra gelir.",
+      "'friend's' → 'friend': 'are' ile tekil isim kullanılır."
+    ],
+    "note": "Çoğul = friends (kesmesiz). İyelik = friend's (tek arkadaşın) / friends' (arkadaşların). Burada iyelik yok, sadece çoğul var.",
+    "tr": "Arkadaşlarım bu akşam partiye geliyor."
+  },
+  {
+    "id": "kk_pn_003",
+    "level": "A2",
+    "s": "After we finished dinner [we] watched a film.",
+    "fix": "After we finished dinner, we watched a film.",
+    "type": "Noktalama: giriş cümleciğinden sonra virgül",
+    "reason": "'dinner we' → 'dinner, we': After ile başlayan giriş cümleciğinden sonra virgül gelir.",
+    "distractors": [
+      "'dinner we' → 'dinner; we': giriş cümleciğinden sonra noktalı virgül konur.",
+      "'dinner we' → 'dinner. we': giriş cümleciği ayrı bir cümle olarak nokta ile biter."
+    ],
+    "note": "After / When / If / Because ile başlayan cümlecik ana cümleden ÖNCE gelirse virgülle ayrılır: After we finished dinner, we watched a film. Sonda gelirse virgül gerekmez: We watched a film after we finished dinner.",
+    "tr": "Akşam yemeğini bitirdikten sonra bir film izledik."
+  },
+  {
+    "id": "kk_pn_004",
+    "level": "A2",
+    "s": "[Who's] umbrella is this?",
+    "fix": "Whose umbrella is this?",
+    "type": "Noktalama: whose / who's",
+    "reason": "'Who's' → 'Whose': iyelik (kimin) sorusu 'whose' ile yapılır; who's = who is / who has.",
+    "distractors": [
+      "'Who's' → 'Who': 'umbrella' ile iyelik sorusu 'Who' ile kurulur.",
+      "'Who's' → 'Whom': nesne sorusu 'whom' ile yapılır."
+    ],
+    "note": "whose = kimin (iyelik): Whose bag is this? / who's = who is: Who's at the door?",
+    "tr": "Bu kimin şemsiyesi?"
+  },
+  {
+    "id": "kk_pn_005",
+    "level": "A2",
+    "s": "That blue bag is [Toms].",
+    "fix": "That blue bag is Tom's.",
+    "type": "Noktalama: iyelik kesmesi",
+    "reason": "'Toms' → 'Tom's': bir kişiye ait olmayı göstermek için isme kesme + s eklenir.",
+    "distractors": [
+      "'Toms' → 'Toms'': iyelik kesmesi her zaman -s'den sonra gelir.",
+      "'Toms' → 'Tom': iyelikte isim değişmez."
+    ],
+    "note": "Tek kişiye aitlik: Tom's bag. Kesme olmadan 'Toms' çoğul gibi (iki Tom) okunur.",
+    "tr": "O mavi çanta Tom'un."
+  },
+  {
+    "id": "kk_pn_006",
+    "level": "A2",
+    "s": "The students' books are on the table.",
+    "type": "Hatalı görünen doğru: çoğul iyelik kesmesi",
+    "note": "Hata yok. -s ile biten çoğul isimde iyelik kesmesi -s'den SONRA gelir: the students' books (öğrencilerin kitapları). Tek öğrenci olsaydı: the student's books.",
+    "tr": "Öğrencilerin kitapları masanın üzerinde."
+  },
+  {
+    "id": "kk_pn_007",
+    "level": "B1",
+    "s": "Mr Kaya [who] teaches physics is our neighbour.",
+    "fix": "Mr Kaya, who teaches physics, is our neighbour.",
+    "type": "Noktalama: özel isimden sonra virgüllü cümlecik",
+    "reason": "'Kaya who' → 'Kaya, who' (ve 'physics,'): özel isim zaten tek kişiyi belirttiği için ek bilgi cümleciği iki virgülle ayrılır.",
+    "distractors": [
+      "'Kaya who' → 'Kaya which': kişiler için 'which' değil 'who' kullanılır, virgül ise gerekmez.",
+      "'Kaya who' → 'Kaya that': 'that' virgülsüz cümlecikte olur, özel isimden sonra tercih edilmez."
+    ],
+    "note": "Özel isim kimin olduğunu zaten söyler; cümlecik yalnızca ek bilgi verir ve iki virgül arasına girer. Virgülsüz hali (Mr Kaya who teaches physics) 'başka Bay Kaya'lar da var' havası verir.",
+    "tr": "Fizik öğreten Bay Kaya bizim komşumuz."
+  },
+  {
+    "id": "kk_pn_008",
+    "level": "B1",
+    "s": "The film was very [long,] [however] we enjoyed it.",
+    "fix": "The film was very long; however, we enjoyed it.",
+    "type": "Noktalama: however ile virgülle birleştirme",
+    "reason": "'long, however we' → 'long; however, we': 'however' iki bağımsız cümleyi virgülle bağlayamaz; noktalı virgül (ya da nokta) + virgül gerekir.",
+    "distractors": [
+      "'long, however we' → 'long, however, we': öncesine virgül bırakmak yeterlidir, noktalı virgül gerekmez.",
+      "'long, however we' → 'long. however we': 'however'den önce nokta konur ve küçük harfle devam edilir."
+    ],
+    "note": "however bir bağlaç değil, zarftır (konjunktif zarf): iki cümleyi tek başına bağlayamaz. ; however, ya da . However, kalıbı kullanılır. Karşılaştır: ...long, but we enjoyed it.",
+    "tr": "Film çok uzundu; ancak biz yine de keyif aldık."
+  },
+  {
+    "id": "kk_pn_009",
+    "level": "B1",
+    "s": "The more you practise [the] better you become.",
+    "fix": "The more you practise, the better you become.",
+    "type": "Noktalama: the more …, the more … virgülü",
+    "reason": "'practise the' → 'practise, the': 'the + karşılaştırma' ikilisinde iki bölüm virgülle ayrılır.",
+    "distractors": [
+      "'practise the' → 'practise; the': iki bölüm noktalı virgülle ayrılır.",
+      "'practise the' → 'practise and the': iki bölüm 'and' ile bağlanır."
+    ],
+    "note": "The + karşılaştırma, the + karşılaştırma kalıbında iki bölüm arasında virgül bulunur: The earlier we leave, the sooner we arrive. (Ne kadar … o kadar …)",
+    "tr": "Ne kadar çok pratik yaparsan o kadar iyi olursun."
+  },
+  {
+    "id": "kk_pn_010",
+    "level": "B1",
+    "s": "Walking to school [I] met an old friend.",
+    "fix": "Walking to school, I met an old friend.",
+    "type": "Noktalama: giriş öbeğinden sonra virgül",
+    "reason": "'school I' → 'school, I': -ing ile başlayan giriş öbeğinden sonra virgül gelir.",
+    "distractors": [
+      "'school I' → 'school; I': giriş öbeğinden sonra noktalı virgül gelir.",
+      "'school I' → 'school and I': giriş öbeği 'and' ile bağlanır."
+    ],
+    "note": "Cümleye eylem öbeğiyle (-ing / V3 / to V) başlanıyorsa öbek virgülle ayrılır: Walking to school, I met... Öbeğin öznesi ana cümlenin öznesidir (yürüyen: ben).",
+    "tr": "Okula yürürken eski bir arkadaşımla karşılaştım."
+  },
+  {
+    "id": "kk_pn_011",
+    "level": "B1",
+    "s": "The woman [who's] car was stolen called the police.",
+    "fix": "The woman whose car was stolen called the police.",
+    "type": "Noktalama: whose / who's",
+    "reason": "'who's' → 'whose': 'whose + isim' iyelik bildirir; who's = who is / who has.",
+    "distractors": [
+      "'who's' → 'whom': nesne ilgi zamiri 'whom' isimle yan yana gelmez.",
+      "'who's' → 'who': 'who' iyelik için kullanılmaz ve 'car' ile bağ kurmaz."
+    ],
+    "note": "whose + isim = kimin …: the woman whose car … (arabası çalınan kadın). who's = who is / who has: the woman who's waiting (bekleyen kadın).",
+    "tr": "Arabası çalınan kadın polisi aradı."
+  },
+  {
+    "id": "kk_pn_012",
+    "level": "B1",
+    "s": "[Your] welcome to join us anytime.",
+    "fix": "You're welcome to join us anytime.",
+    "type": "Noktalama: your / you're",
+    "reason": "'Your' → 'You're': 'You are welcome' kısaltması kesmeyle yazılır; 'your' iyelik sıfatıdır.",
+    "distractors": [
+      "'Your' → 'Yours': iyelik zamiri cümleye özne olarak girmez.",
+      "'Your' → 'You': yalın zamirle kısaltma yapılmaz."
+    ],
+    "note": "you're = you are (kısaltma); your = senin (iyelik sıfatı). You're welcome to join us (katılmakta özgürsün) ↔ Your invitation (davetin).",
+    "tr": "İstediğin zaman bize katılabilirsin."
+  },
+  {
+    "id": "kk_pn_013",
+    "level": "B1",
+    "s": "He asked me where I was going[?]",
+    "fix": "He asked me where I was going.",
+    "type": "Noktalama: dolaylı soru",
+    "reason": "'going?' → 'going.': dolaylı soru (reported question) soru işaretiyle değil nokta ile biter.",
+    "distractors": [
+      "'going?' → 'going,': dolaylı soru virgülle biter.",
+      "'going?' → 'going!': dolaylı soru ünlemle biter."
+    ],
+    "note": "Doğrudan soru: He asked, \"Where are you going?\" (soru işareti). Dolaylı soru: He asked me where I was going. (nokta, düz cümle sırası: özne + fiil).",
+    "tr": "Bana nereye gittiğimi sordu."
+  },
+  {
+    "id": "kk_pn_014",
+    "level": "B1",
+    "s": "[However] he refused to help us.",
+    "fix": "However, he refused to help us.",
+    "type": "Noktalama: cümle başı bağlaç zarfı",
+    "reason": "'However' → 'However,': cümle başındaki bağlaç zarfından sonra virgül gelir.",
+    "distractors": [
+      "'However' → 'However;': cümle başındaki zarftan sonra noktalı virgül gelir.",
+      "'However' → 'However:': cümle başındaki zarftan sonra iki nokta gelir."
+    ],
+    "note": "However, Therefore, Moreover, Besides, Otherwise gibi cümle başı bağlaç zarflarından sonra virgül konur: However, he refused... (Ancak, ...)",
+    "tr": "Ancak o bize yardım etmeyi reddetti."
+  },
+  {
+    "id": "kk_pn_015",
+    "level": "B1",
+    "s": "I think[,] that he will come tomorrow.",
+    "fix": "I think that he will come tomorrow.",
+    "type": "Noktalama: fazla virgül (that cümleciği)",
+    "reason": "'think,' → 'think': fiil ile that-cümleciği arasına virgül konmaz.",
+    "distractors": [
+      "'think,' → 'think;': fiil ile cümlecik arasına noktalı virgül konur.",
+      "'think,' → 'think:': fiil ile cümlecik arasına iki nokta konur."
+    ],
+    "note": "Fiil + that-cümleciği tek bir yapıdır, araya virgül girmez: I think that..., She said that..., We know that... (Düşünüyorum ki ...)",
+    "tr": "Sanırım o yarın gelecek."
+  },
+  {
+    "id": "kk_pn_016",
+    "level": "B1",
+    "s": "The woman who lives next door is a nurse.",
+    "type": "Hatalı görünen doğru: virgülsüz tanımlayan cümlecik",
+    "note": "Hata yok. Cümlecik hangi kadından söz edildiğini belirliyor (tanımlayan), bu yüzden virgülsüzdür. Virgüllü hali (The woman, who lives next door, ...) 'zaten bildiğimiz tek kadın' demek olur.",
+    "tr": "Yan komşum olan kadın hemşire."
+  },
+  {
+    "id": "kk_pn_017",
+    "level": "B1",
+    "s": "I asked him where he was going.",
+    "type": "Hatalı görünen doğru: dolaylı soruda soru işareti yok",
+    "note": "Hata yok. Dolaylı soru düz cümle gibi biter (nokta), düz cümle sırasındadır (he was going). Doğrudan hali: I asked him, \"Where are you going?\"",
+    "tr": "Ona nereye gittiğini sordum."
+  },
+  {
+    "id": "kk_pn_018",
+    "level": "B2",
+    "s": "He passed the [exam] which surprised everyone.",
+    "fix": "He passed the exam, which surprised everyone.",
+    "type": "Noktalama: virgül + which (tüm cümleye atıf)",
+    "reason": "'exam which' → 'exam, which': virgüllü 'which' tüm önceki cümleye atıf yapar (sınavı geçmesi şaşırttı); virgülsüz 'which' yalnız 'exam'a bağlanırdı.",
+    "distractors": [
+      "'exam which' → 'exam; which': 'which' noktalı virgülden sonra gelir.",
+      "'exam which' → 'exam that': 'that' tüm cümleye atıf yapamaz ve virgül gerektirmez."
+    ],
+    "note": "Virgül + which = önceki yargının tamamı hakkında yorum: He passed the exam, which surprised everyone. (Sınavı geçmesi herkesi şaşırttı.) Virgülsüz: the exam which surprised everyone = herkesi şaşırtan sınav.",
+    "tr": "Sınavı geçti ve bu herkesi şaşırttı."
+  },
+  {
+    "id": "kk_pn_019",
+    "level": "B2",
+    "s": "[Ankara] the capital of [Turkey] is in Central Anatolia.",
+    "fix": "Ankara, the capital of Turkey, is in Central Anatolia.",
+    "type": "Noktalama: ek açıklama (apposition) virgülleri",
+    "reason": "'Ankara', 'Turkey' → 'Ankara,', 'Turkey,': ek açıklama öbeği (the capital of Turkey) iki virgül arasına girer.",
+    "distractors": [
+      "'Ankara', 'Turkey' → 'Ankara;', 'Turkey;': ek açıklama noktalı virgüllerle ayrılır.",
+      "'Ankara', 'Turkey' → 'Ankara and', 'Turkey and': ek açıklama 'and' ile bağlanır."
+    ],
+    "note": "Ek açıklama öbeği (apposition) iki virgül arasında durur ve çıkarılsa cümle yine tamdır: Ankara is in Central Anatolia. Öznenin (Ankara) yüklemini (is) bulmak için virgül arasını atla.",
+    "tr": "Türkiye'nin başkenti Ankara, İç Anadolu'dadır."
+  },
+  {
+    "id": "kk_pn_020",
+    "level": "B2",
+    "s": "My manager, [that] has worked here for years, is retiring.",
+    "fix": "My manager, who has worked here for years, is retiring.",
+    "type": "Noktalama: virgül + that kullanılmaz",
+    "reason": "'that' → 'who': virgüllü (ek bilgi veren) cümlecikte 'that' kullanılmaz; kişi için 'who' gelir.",
+    "distractors": [
+      "'that' → 'which': 'which' kişiler için kullanılmaz.",
+      "'that' → 'whom': 'whom' nesne konumunda kullanılır; burada özne eksik."
+    ],
+    "note": "Virgülden sonra that gelmez: , who (kişi) / , which (nesne). Virgülsüz cümlecikte that olur: the manager that has worked here. (Yıllardır burada çalışan müdürüm emekli oluyor.)",
+    "tr": "Yıllardır burada çalışan müdürüm emekli oluyor."
+  },
+  {
+    "id": "kk_pn_021",
+    "level": "B2",
+    "s": "Prices have risen [sharply,] [therefore] many families are struggling.",
+    "fix": "Prices have risen sharply; therefore, many families are struggling.",
+    "type": "Noktalama: therefore ile virgülle birleştirme",
+    "reason": "'sharply, therefore many' → 'sharply; therefore, many': therefore bir zarftır; iki bağımsız cümleyi noktalı virgül (ya da nokta) + virgül ile ayırır.",
+    "distractors": [
+      "'sharply, therefore many' → 'sharply, therefore, many': ikinci virgül yeterlidir, ilk virgül kalabilir.",
+      "'sharply, therefore many' → 'sharply: therefore many': iki nokta sonuç bağlantısı kurar."
+    ],
+    "note": "therefore / thus / consequently / moreover / however: bağlaç değil zarf. İki tam cümle arasında tek başına virgül yetmez (comma splice). Çözüm: ; therefore, ... ya da . Therefore, ... ya da ..., so ...",
+    "tr": "Fiyatlar keskin biçimde yükseldi; bu nedenle birçok aile zor durumda."
+  },
+  {
+    "id": "kk_pn_022",
+    "level": "B2",
+    "s": "The plan is expensive. [Moreover] it is risky.",
+    "fix": "The plan is expensive. Moreover, it is risky.",
+    "type": "Noktalama: Moreover sonrası virgül",
+    "reason": "'Moreover' → 'Moreover,': cümle başında ekleme bildiren zarftan sonra virgül gelir.",
+    "distractors": [
+      "'Moreover' → 'Moreover;': cümle başında bu zarftan sonra noktalı virgül gelir.",
+      "'Moreover' → 'Moreover:': cümle başında bu zarftan sonra iki nokta gelir."
+    ],
+    "note": "Moreover, / Furthermore, / In addition, / Besides, / Nevertheless, ile başlayan cümlelerde zarftan sonra virgül konur. Sınav bağlaç sorularında ekleme (moreover) ve karşıtlık (however) ayrımı da buradan okunur.",
+    "tr": "Plan pahalı. Üstelik riskli."
+  },
+  {
+    "id": "kk_pn_023",
+    "level": "B2",
+    "s": "Although the team played well[;] they lost the match.",
+    "fix": "Although the team played well, they lost the match.",
+    "type": "Noktalama: noktalı virgül yanlış kullanımı",
+    "reason": "'well;' → 'well,': Although ile başlayan bağımlı cümlecik ana cümleden noktalı virgülle değil virgülle ayrılır.",
+    "distractors": [
+      "'well;' → 'well.': bağımlı cümlecik nokta ile bitirilip ayrı cümle yapılır.",
+      "'well;' → 'well:': bağımlı cümlecikten sonra iki nokta gelir."
+    ],
+    "note": "Noktalı virgül iki BAĞIMSIZ cümleyi ayırır: The team played well; they lost the match. Although/Because/If ile başlayan cümlecik bağımsız değildir, virgül alır.",
+    "tr": "Takım iyi oynamasına rağmen maçı kaybetti."
+  },
+  {
+    "id": "kk_pn_024",
+    "level": "B2",
+    "s": "The main reasons are[:] cost, time and risk.",
+    "fix": "The main reasons are cost, time and risk.",
+    "type": "Noktalama: iki nokta yanlış kullanımı",
+    "reason": "'are:' → 'are': iki nokta tam bir cümleden sonra gelir; 'are' yüklemi tamamlanmadan iki nokta konmaz.",
+    "distractors": [
+      "'are:' → 'are;': listeden önce noktalı virgül gelir.",
+      "'are:' → 'are,': listeden önce virgül gelir."
+    ],
+    "note": "İki nokta, tam bir cümleden SONRA liste ya da açıklama getirir: There are three reasons: cost, time and risk. Fiilin hemen sonrasında (are / include / such as) iki nokta konmaz.",
+    "tr": "Ana nedenler maliyet, zaman ve risk."
+  },
+  {
+    "id": "kk_pn_025",
+    "level": "B2",
+    "s": "Having completed the [survey] the researchers published the data.",
+    "fix": "Having completed the survey, the researchers published the data.",
+    "type": "Noktalama: giriş öbeğinden sonra virgül",
+    "reason": "'survey the' → 'survey, the': Having + V3 ile başlayan giriş öbeğinden sonra virgül gelir.",
+    "distractors": [
+      "'survey the' → 'survey; the': giriş öbeğinden sonra noktalı virgül gelir.",
+      "'survey the' → 'survey and the': giriş öbeği 'and' ile bağlanır."
+    ],
+    "note": "Having V3 / V-ing / V3 ile başlayan giriş öbeği virgülle ayrılır ve öznesi ana cümlenin öznesidir (anketi tamamlayanlar araştırmacılar). Sarkık ortaç hatalarında bu bağa bakılır.",
+    "tr": "Anketi tamamladıktan sonra araştırmacılar verileri yayımladı."
+  },
+  {
+    "id": "kk_pn_026",
+    "level": "B2",
+    "s": "The people who live near the [airport,] are protesting against the noise.",
+    "fix": "The people who live near the airport are protesting against the noise.",
+    "type": "Noktalama: özne ile yüklem arasına virgül konmaz",
+    "reason": "'airport,' → 'airport': özne öbeği (The people who live near the airport) ile yüklem (are protesting) arasına virgül girmez.",
+    "distractors": [
+      "'airport,' → 'airport;': özne ile yüklem arasına noktalı virgül konur.",
+      "'airport,' → 'airport and': özne ile yüklem 'and' ile bağlanır."
+    ],
+    "note": "Özne öbeği ne kadar uzun olursa olsun yükleminden virgülle ayrılmaz. Virgülsüz 'who' cümleciği de hangi insanlar olduğunu belirler (havalimanı yakınında yaşayanlar).",
+    "tr": "Havalimanı yakınında yaşayanlar gürültüyü protesto ediyor."
+  },
+  {
+    "id": "kk_pn_027",
+    "level": "B2",
+    "s": "Her latest [novel] which was published last [year] won a major prize.",
+    "fix": "Her latest novel, which was published last year, won a major prize.",
+    "type": "Noktalama: tek ve belli isimden sonra virgüllü cümlecik",
+    "reason": "'novel', 'year' → 'novel,', 'year,': 'Her latest novel' tek ve belli bir kitaptır; ek bilgi veren which cümleciği iki virgülle ayrılır.",
+    "distractors": [
+      "'novel', 'year' → 'novel;', 'year;': ek bilgi cümleciği noktalı virgülle ayrılır.",
+      "'novel', 'year' → 'novel and', 'year and': ek bilgi cümleciği 'and' ile bağlanır."
+    ],
+    "note": "Hangisi olduğu zaten belli olan isimden sonra which cümleciği ek bilgidir ve iki virgül alır. Kaldırılsa bile cümle anlamını korur: Her latest novel won a major prize.",
+    "tr": "Geçen yıl yayımlanan son romanı önemli bir ödül kazandı."
+  },
+  {
+    "id": "kk_pn_028",
+    "level": "B2",
+    "s": "She has three [sisters] all of whom are doctors.",
+    "fix": "She has three sisters, all of whom are doctors.",
+    "type": "Noktalama: all of whom / some of which öncesi virgül",
+    "reason": "'sisters all' → 'sisters, all': 'all of whom / some of which' gibi kalıplardan önce virgül gelir; kalıp ek bilgi verir.",
+    "distractors": [
+      "'sisters all' → 'sisters; all': kalıptan önce noktalı virgül konur.",
+      "'sisters all' → 'sisters. All': kalıp yeni bir cümle olarak başlar ve whom kalır."
+    ],
+    "note": "all of whom / some of which / none of whom gibi kalıplar virgülden sonra gelir (ek bilgi): She has three sisters, all of whom are doctors. (Üç kız kardeşi var ve hepsi doktor.)",
+    "tr": "Üç kız kardeşi var ve hepsi doktor."
+  },
+  {
+    "id": "kk_pn_029",
+    "level": "B2",
+    "s": "She loves jazz; he prefers rock.",
+    "type": "Hatalı görünen doğru: noktalı virgül iki bağımsız cümleyi ayırır",
+    "note": "Hata yok. Noktalı virgül, anlamca yakın iki BAĞIMSIZ cümleyi ayırır (She loves jazz / he prefers rock). Burada virgül yeterli olmazdı (comma splice).",
+    "tr": "O cazı sever; o rock'ı tercih eder."
+  },
+  {
+    "id": "kk_pn_030",
+    "level": "B2",
+    "s": "He was [exhausted,] he went to bed early.",
+    "fix": "He was exhausted, so he went to bed early.",
+    "type": "Noktalama: virgülle birleştirme (comma splice)",
+    "reason": "'exhausted, he' → 'exhausted, so he': iki bağımsız cümle yalnız virgülle birleşmez; and / but / so gibi bir bağlaç gerekir (ya da noktalı virgül).",
+    "distractors": [
+      "'exhausted, he' → 'exhausted, because he': sebep bağlacı sonucu göstermez, anlam tersine döner.",
+      "'exhausted, he' → 'exhausted, however he': however iki cümleyi virgülle bağlayamaz ve anlam zıtlık olur."
+    ],
+    "note": "Comma splice: iki bağımsız cümle + yalnızca virgül. Düzeltme: , so / , and / , but / ; veya nokta. Yorgundu, bu yüzden erken yattı.",
+    "tr": "Çok yorgundu, bu yüzden erken yattı."
+  },
+  {
+    "id": "kk_pn_031",
+    "level": "B2",
+    "s": "In spite of the heavy [rain] the match went on as planned.",
+    "fix": "In spite of the heavy rain, the match went on as planned.",
+    "type": "Noktalama: uzun giriş öbeğinden sonra virgül",
+    "reason": "'rain the' → 'rain, the': In spite of / Despite / Due to ile başlayan öbek ana cümleden önce gelirse virgülle ayrılır.",
+    "distractors": [
+      "'rain the' → 'rain; the': giriş öbeğinden sonra noktalı virgül gelir.",
+      "'rain the' → 'rain and the': giriş öbeği 'and' ile bağlanır."
+    ],
+    "note": "Despite / In spite of / Due to / Because of / In addition to gibi edat öbekleriyle cümleye başlıyorsan öbekten sonra virgül koy. Cümle sonuna gelirse virgül gerekmez: The match went on in spite of the heavy rain.",
+    "tr": "Yoğun yağmura rağmen maç planlandığı gibi devam etti."
+  },
+  {
+    "id": "kk_pn_032",
+    "level": "B2",
+    "s": "She is a [well known] author in Turkey.",
+    "fix": "She is a well-known author in Turkey.",
+    "type": "Noktalama: birleşik sıfatta tire",
+    "reason": "'well known' → 'well-known': isimden önce gelen birleşik sıfat tire ile yazılır.",
+    "distractors": [
+      "'well known' → 'well, known': birleşik sıfat virgülle ayrılır.",
+      "'well known' → 'wellknown': birleşik sıfat bitişik yazılır."
+    ],
+    "note": "İsmin önünde gelen birleşik sıfatlar tire alır: a well-known author, a high-quality product, a five-year plan. İsimden sonra tire kalkar: The author is well known.",
+    "tr": "Türkiye'de ünlü bir yazar."
+  },
+  {
+    "id": "kk_pn_033",
+    "level": "C1",
+    "s": "The museum holds thousands of [artefacts] some of which date back to 3000 BC.",
+    "fix": "The museum holds thousands of artefacts, some of which date back to 3000 BC.",
+    "type": "Noktalama: some of which / many of whom öncesi virgül",
+    "reason": "'artefacts some' → 'artefacts, some': 'some of which' kalıbı ek bilgi cümleciği başlatır ve virgülle ayrılır.",
+    "distractors": [
+      "'artefacts some' → 'artefacts; some': kalıptan önce noktalı virgül gelir.",
+      "'artefacts some' → 'artefacts. Some': kalıp yeni bir cümleye dönüşür ve 'of which' bağı kopar."
+    ],
+    "note": "Nicelik + of which / whom (some of which, many of whom, none of which) virgülle başlar. Anlam: müzede binlerce eser var ve bunların bir kısmı MÖ 3000'e uzanıyor.",
+    "tr": "Müzede binlerce eser var; bunların bir kısmı MÖ 3000'e kadar uzanıyor."
+  },
+  {
+    "id": "kk_pn_034",
+    "level": "C1",
+    "s": "The government cut taxes, [what] surprised many analysts.",
+    "fix": "The government cut taxes, which surprised many analysts.",
+    "type": "Noktalama: virgül + which (tüm cümleye atıf)",
+    "reason": "'what' → 'which': virgülden sonra önceki cümlenin tamamına atıf yapan ilgi zamiri 'which' olur.",
+    "distractors": [
+      "'what' → 'that': virgülden sonra 'that' kullanılmaz.",
+      "'what' → 'who': 'who' yalnız kişilere atıf yapar."
+    ],
+    "note": "Virgül + which = önceki yargıya yorum (vergileri indirmesi). 'what' ilgi zamiri değil, isim cümleciği başlatır: I don't know what surprised them.",
+    "tr": "Hükümet vergileri düşürdü ve bu birçok analisti şaşırttı."
+  },
+  {
+    "id": "kk_pn_035",
+    "level": "C1",
+    "s": "The conference will be held in Paris, [France,] Berlin, [Germany,] and Rome, Italy.",
+    "fix": "The conference will be held in Paris, France; Berlin, Germany; and Rome, Italy.",
+    "type": "Noktalama: içinde virgül geçen listede noktalı virgül",
+    "reason": "'France,' 'Germany,' → 'France;' 'Germany;': liste öğelerinin kendi içinde virgül varsa öğeler noktalı virgülle ayrılır.",
+    "distractors": [
+      "'France,' 'Germany,' → 'France:' 'Germany:': öğeler iki noktayla ayrılır.",
+      "'France,' 'Germany,' → 'France.' 'Germany.': her öğe ayrı cümle olur."
+    ],
+    "note": "Öğelerin içinde virgül varsa (Paris, France) liste noktalı virgülle ayrılır; aksi halde kaç şehir olduğu karışır (üç mü, altı mı?).",
+    "tr": "Konferans Paris (Fransa), Berlin (Almanya) ve Roma'da (İtalya) yapılacak."
+  },
+  {
+    "id": "kk_pn_036",
+    "level": "C1",
+    "s": "There is one thing we cannot [ignore,] the deadline.",
+    "fix": "There is one thing we cannot ignore: the deadline.",
+    "type": "Noktalama: iki nokta ile açıklama",
+    "reason": "'ignore,' → 'ignore:': tam bir cümleden sonra gelen açıklama iki nokta ile bağlanır; virgül bağlamaz.",
+    "distractors": [
+      "'ignore,' → 'ignore;': açıklama noktalı virgülle bağlanır ve öğe ayrılır.",
+      "'ignore,' → 'ignore and': açıklama 'and' ile bağlanır."
+    ],
+    "note": "Tam cümle + iki nokta + açıklama / liste: There is one thing we cannot ignore: the deadline. Virgül iki bağımsız ögeyi yetersiz bağlar.",
+    "tr": "Görmezden gelemeyeceğimiz bir şey var: son teslim tarihi."
+  },
+  {
+    "id": "kk_pn_037",
+    "level": "C1",
+    "s": "The [plan] [however] was rejected by the board.",
+    "fix": "The plan, however, was rejected by the board.",
+    "type": "Noktalama: cümle ortası however iki virgül",
+    "reason": "'plan', 'however' → 'plan,', 'however,': cümle ortasındaki bağlaç zarfı iki virgül arasına alınır.",
+    "distractors": [
+      "'plan', 'however' → 'plan;', 'however;': ortadaki zarf noktalı virgüllerle ayrılır.",
+      "'plan', 'however' → 'plan.', 'however.': ortadaki zarf nokta ile ayrılır."
+    ],
+    "note": "Cümle ortasında however / therefore / moreover iki virgül arasında durur: The plan, however, was rejected. Çıkarılsa bile cümle tamdır.",
+    "tr": "Ancak plan, kurul tarafından reddedildi."
+  },
+  {
+    "id": "kk_pn_038",
+    "level": "C1",
+    "s": "The cost is much higher[,] than we expected.",
+    "fix": "The cost is much higher than we expected.",
+    "type": "Noktalama: than öncesi virgül konmaz",
+    "reason": "'higher,' → 'higher': karşılaştırmada 'than' öncesine virgül konmaz.",
+    "distractors": [
+      "'higher,' → 'higher;': karşılaştırmada than öncesine noktalı virgül konur.",
+      "'higher,' → 'higher and': karşılaştırma 'and' ile bağlanır."
+    ],
+    "note": "Karşılaştırma yapısı (higher than, as … as, more … than) tek bir bütündür, araya virgül girmez. Kısa karşılaştırmalar tek yapıdır.",
+    "tr": "Maliyet beklediğimizden çok daha yüksek."
+  },
+  {
+    "id": "kk_pn_039",
+    "level": "C1",
+    "s": "The [idea,] that money brings [happiness,] is a myth.",
+    "fix": "The idea that money brings happiness is a myth.",
+    "type": "Noktalama: idea / fact + that açıklama cümleciğinde virgül konmaz",
+    "reason": "'idea,' 'happiness,' → 'idea' 'happiness': 'idea / fact / belief + that' ismi tamamlayan cümleciktir; virgülle ayrılmaz.",
+    "distractors": [
+      "'idea,' 'happiness,' → 'idea;' 'happiness;': ismi tamamlayan cümlecik noktalı virgülle ayrılır.",
+      "'idea,' → 'idea which': ismi tamamlayan cümlecik 'which' ile başlar."
+    ],
+    "note": "The idea that ... ifadesinde that-cümleciği ismin içeriğini söyler ve çıkarılırsa cümle anlamsızlaşır. Virgül yalnız ek bilgi veren cümlecikte kullanılır.",
+    "tr": "Paranın mutluluk getirdiği fikri bir mittir."
+  },
+  {
+    "id": "kk_pn_040",
+    "level": "C1",
+    "s": "[Its] been argued that the policy has failed.",
+    "fix": "It's been argued that the policy has failed.",
+    "type": "Noktalama: it's / its",
+    "reason": "'Its' → 'It's': burada kısaltılan 'It has been argued'dir; 'its' iyelik sıfatıdır.",
+    "distractors": [
+      "'Its' → 'Is': 'been' ile 'Is' birlikte kullanılmaz.",
+      "'Its' → 'Their': 'it' soyut özne olduğu için iyelik sıfatı değil kısaltma gerekir."
+    ],
+    "note": "It's = it is / it has. It's been argued = It has been argued (ileri sürüldü). its = onun: The policy has lost its credibility.",
+    "tr": "Politikanın başarısız olduğu ileri sürüldü."
+  },
+  {
+    "id": "kk_pn_041",
+    "level": "C1",
+    "s": "\"I will be [late.\"] she said.",
+    "fix": "\"I will be late,\" she said.",
+    "type": "Noktalama: doğrudan alıntıdan sonra virgül",
+    "reason": "'late.\"' → 'late,\"': alıntı, söyleyen kişi ifadesiyle (she said) devam ediyorsa nokta değil virgül konur.",
+    "distractors": [
+      "'late.\"' → 'late;\"': alıntıdan sonra noktalı virgül gelir.",
+      "'late.\"' → 'late:\"': alıntıdan sonra iki nokta gelir."
+    ],
+    "note": "Alıntı + söyleyen ifadesi: \"I will be late,\" she said. Alıntı sonunda nokta yalnız söyleyen ifadesi başta ise kalır: She said, \"I will be late.\"",
+    "tr": "\"Geç kalacağım,\" dedi."
+  },
+  {
+    "id": "kk_pn_042",
+    "level": "C1",
+    "s": "The test was so [difficult,] that nobody finished it.",
+    "fix": "The test was so difficult that nobody finished it.",
+    "type": "Noktalama: so … that arasında virgül konmaz",
+    "reason": "'difficult,' → 'difficult': so + sıfat + that yapısında virgül konmaz; sonuç cümleciği yapının parçasıdır.",
+    "distractors": [
+      "'difficult,' → 'difficult;': that öncesine noktalı virgül konur.",
+      "'difficult,' → 'difficult and': so … that yapısı 'and' ile bağlanır."
+    ],
+    "note": "so + sıfat + that / such + isim + that sonuç yapılarında that-cümleciği virgülle ayrılmaz: The test was so difficult that nobody finished it. (Sınav o kadar zordu ki kimse bitiremedi.)",
+    "tr": "Sınav o kadar zordu ki kimse bitiremedi."
+  },
+  {
+    "id": "kk_pn_043",
+    "level": "C1",
+    "s": "The Treaty of [Lausanne] in which Turkey's borders were [set] was signed in 1923.",
+    "fix": "The Treaty of Lausanne, in which Turkey's borders were set, was signed in 1923.",
+    "type": "Noktalama: edat + which ek bilgi cümleciği",
+    "reason": "'Lausanne', 'set' → 'Lausanne,', 'set,': özel isimden sonra gelen 'in which' cümleciği ek bilgidir ve iki virgülle ayrılır.",
+    "distractors": [
+      "'Lausanne', 'set' → 'Lausanne;', 'set;': ek bilgi cümleciği noktalı virgülle ayrılır.",
+      "'Lausanne', 'set' → 'Lausanne:', 'set:': ek bilgi cümleciği iki nokta ile ayrılır."
+    ],
+    "note": "Özel isim zaten belli olduğundan in which / by whom / for which cümleciği ek bilgidir: ..., in which ..., Cümleden çıkarılsa da anlam tamdır (Lausanne Antlaşması 1923'te imzalandı).",
+    "tr": "Türkiye'nin sınırlarının belirlendiği Lozan Antlaşması 1923'te imzalandı."
+  },
+  {
+    "id": "kk_pn_044",
+    "level": "C1",
+    "s": "The results — which nobody [expected,] were published last week.",
+    "fix": "The results — which nobody expected — were published last week.",
+    "type": "Noktalama: tire / virgül eşleşmesi",
+    "reason": "'expected,' → 'expected —': açılışta tire kullanıldıysa kapanışta da tire gelir; tire virgülle kapatılmaz.",
+    "distractors": [
+      "'expected,' → 'expected;': ek öğeyi noktalı virgül kapatır.",
+      "'expected,' → 'expected:': ek öğeyi iki nokta kapatır."
+    ],
+    "note": "Ek öğe iki tire (— … —) ya da iki virgül (, … ,) ya da iki parantez ( … ) arasında verilir; açılış ve kapanış aynı türde olmalıdır.",
+    "tr": "Kimsenin beklemediği sonuçlar geçen hafta yayımlandı."
+  },
+  {
+    "id": "kk_pn_045",
+    "level": "C1",
+    "s": "The first option is cheap; the second, expensive.",
+    "type": "Hatalı görünen doğru: noktalı virgül + eksiltili ikinci bölüm",
+    "note": "Hata yok. İkinci bölümde tekrar eden 'is' düşürülmüştür; düşen yerin yerine virgül gelir: the second [is] expensive → the second, expensive. Noktalı virgül iki bağımsız cümleyi ayırır.",
+    "tr": "Birinci seçenek ucuz; ikincisi pahalı."
+  },
+  {
+    "id": "kk_pn_046",
+    "level": "C1",
+    "s": "The fact that he lied surprised nobody.",
+    "type": "Hatalı görünen doğru: ismi tamamlayan that cümleciğinde virgül yok",
+    "note": "Hata yok. 'The fact that …' yapısında that-cümleciği ismin içeriğini söyler (yalan söylemesi). Virgül konmaz: The fact, that he lied, ... yanlıştır.",
+    "tr": "Yalan söylemiş olması kimseyi şaşırtmadı."
+  },
+  {
+    "id": "kk_pn_047",
+    "level": "C1",
+    "s": "Who's responsible for this mistake?",
+    "type": "Hatalı görünen doğru: who's = who is",
+    "note": "Hata yok. Who's = Who is. 'Whose' iyelik sorusudur (Whose mistake is this?). Burada 'sorumlu olan kim' sorulduğu için kısaltma doğrudur.",
+    "tr": "Bu hatadan kim sorumlu?"
+  },
+  {
+    "id": "kk_pn_048",
+    "level": "C1",
+    "s": "It's been raining all day.",
+    "type": "Hatalı görünen doğru: it's = it has",
+    "note": "Hata yok. It's burada It has demektir (It has been raining). Kısaltma iki anlam taşıyabilir: It's cold (is) / It's been cold (has).",
+    "tr": "Bütün gün yağmur yağdı."
   }
 ]
