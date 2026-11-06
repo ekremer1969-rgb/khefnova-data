@@ -1,0 +1,40 @@
+name: Update manifest
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build manifest.json
+        run: |
+          python3 - <<'EOF'
+          import hashlib, json, os
+          files = {}
+          for root, dirs, names in os.walk('.'):
+              dirs[:] = [d for d in dirs if d not in ('.git', '.github')]
+              for n in names:
+                  if not n.endswith('.json') or n in ('manifest.json', 'version.json'):
+                      continue
+                  p = os.path.join(root, n)
+                  rel = os.path.relpath(p, '.').replace(os.sep, '/')
+                  with open(p, 'rb') as f:
+                      files[rel] = hashlib.sha256(f.read()).hexdigest()[:16]
+          with open('manifest.json', 'w') as f:
+              json.dump({"files": files}, f, indent=1, sort_keys=True)
+          EOF
+
+      - name: Commit manifest.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git diff --cached --quiet || (git commit -m "Update manifest.json" && git push)
